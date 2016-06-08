@@ -1,0 +1,1624 @@
+---
+fa:
+  1_we_have_just_launched_our_service_title: ما فقط راه اندازی سرویس های ما!
+  common_keywords: datings، datings اینترنتی، datings عشق، دوستیابی وب کم، سرعت دوستیابی،
+    چت وب کم دوستیابی، روبی در آهن سایت دوستیابی، سایت دوستیابی چند زبانه
+  common_description: پیشرفته ترین شبکه سرگرمی های اجتماعی بین المللی برای datings
+    "Flutylove"
+  user: کاربر
+  user_to_search_connection: جستجو
+  video: ویدئو
+  note: توجه
+  photo_album: آلبوم عکس
+  from: از
+  to: برای
+  vkontakte: VKontakte می
+  facebook: فیس بوک
+  twitter: توییتر
+  google_oauth2: گوگل
+  instagram: نمایش مشخصات عمومی
+  dropbox_oauth2: Dropbox به
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: نر
+  - female:
+      name: زن
+  - transgender:
+      name: فراجنسیتی
+  - male-female:
+      name: زن و مرد
+  - double-female:
+      name: دو زن
+  - double-male:
+      name: دو مرد
+  orientation:
+  - heterosexual: علاقمند به جنس مخالف
+  - homosexual: همجنسگرایان
+  - bisexual: دارای خصوصیات جنس نر
+  search_for:
+  - chatting: چت
+  - get_friends: دوستان
+  - flirtation: لاس زنی
+  - marriage: ازدواج
+  - other: دیگر
+  body_type:
+    slim: لاغر
+    normal: عادی
+    athletic: ورزشی
+    chubby: چاق
+  relationship:
+    single: تنها
+    in_a_relationship: در یک رابطه
+    married: متاهل
+    nothing_serious: هیچ چیز جدی
+  children:
+    dont_have: لازم نیست
+    dont_have_and_dont_want_to: لازم نیست و نمی خواهید به
+    don_t_have_but_planning: لازم نیست اما برنامه ریزی
+    have_enough: اند
+    have_and_planning_more: اند و برنامه ریزی بیشتر
+    unable_to_have_children: قادر به کودکان
+  living:
+    with_parents: با پدر و مادر
+    with_marriage_partner: با همسر
+    alone: تنها
+    with_friends: با دوست (بازدید کنندگان)
+  education:
+    nothing: هیچ چیز
+    college_technical_college: کالج / دانشکده فنی
+    postgraduate: کارشناسی ارشد
+    phd_md_post_doctorate: دکترا / MD / ارسال دکترای
+  hair_color:
+    blonde: ورزش ها
+    dark_blond: بور تیره
+    brown: براون
+    black: سیاه
+    red: قرمز
+    gray: خاکستری
+    other: دیگر
+  income:
+    unemployed: بیکار
+    unstable_earnings: درآمد ناپایدار
+    small_stable_earnings: درآمد کوچک پایدار
+    medium_stable_earnings: درآمد با ثبات متوسط
+    higher_than_average_income: بالاتر از درآمد متوسط
+  smoking:
+    not_smoke: سیگار کشیدن نیست
+    not_smoke_and_detest: سیگار کشیدن نیست و نفرت سیگار کشیدن
+    smoke_in_a_social_setting: گاهی اوقات در یک محیط اجتماعی
+    smoke_occasionally: دود گهگاه
+    smoke_often: دود اغلب
+  alcohol:
+    not_drinking: نوشیدن
+    drink_occalionally: نوشیدن گهگاه
+    drink_in_a_social_setting: نوشیدنی در یک محیط اجتماعی
+    drink_often: نوشیدن اغلب
+  drugs:
+    dont_use: استفاده نکنید
+    contra_drugs: داروهای کنترا
+    tried_out_some: سعی کردم برخی
+    light_drugs_occasionally: داروهای نور گاهی اوقات
+    regular: منظم
+  sponsor:
+    i_want_to_find_a_sponsor: من می خواهم به پیدا کردن یک اسپانسر
+    willing_to_become_a_sponsor: مایل به تبدیل شدن به یک ضامن
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: برای دنبال حامی نه و
+      نه مایل به تبدیل شدن به یکی
+  category_name:
+    strategy: استراتژی
+    rpg: RPG
+    3d_shooters: اکشن 3D
+    racing: رانی
+    arcade: آنلاین بازی
+    economic: اقتصادی
+    simulators: مربیان
+    logic: منطق
+    adventure: ماجراجویی
+    board_games: انجمن
+    gambling: قمار
+    news: اخبار
+    communication: ارتباطات
+    multimedia: چند رسانه ای
+    drawing: نشیمن
+    educational: آموزشی
+    e_commerce: تجارت الکترونیک
+    other: دیگر
+  shared:
+    header:
+      people: مردم
+      chat: چت
+      groups: گروه
+      forum: انجمن
+      requests: درخواست
+      about: درباره پروژه
+      help: راهنما
+      user_applications: نرم افزار
+    liked_users:
+      liked: محبوبترین ها
+      all: همه
+      you_have_not_liked_any_users_yet: شما هیچ کاربران دوست نداشته است
+    most_liked_users:
+      most_liked_users: کاربران محبوب
+    installed_user_applications:
+      installed_applications: برنامه های نصب شده
+      all: همه
+      you_have_not_installed_any_apps_yet: شما هیچ برنامه های نصب شده هنوز رتبهدهی
+        نشده است
+    user_applications:
+      uploaded_apps: برنامه کاربردی آپلود
+      all: همه
+      you_have_not_uploaded_any_apps_yet: شما هر برنامه آپلود نکرده اید
+    right_sidebar:
+      news: اخبار
+      all: همه
+      read_more: ادامه مطلب
+    footer:
+      footer_text: شبکه بین المللی سرگرمی اجتماعی برای datings "Flutylove"
+      privacy: حریم
+      terms: شرایط
+      feedback: فیدبک
+      abuse: تخلف
+    languages_select_modal:
+      available_languages: زبان های موجود
+    site_map_modal:
+      about: درباره
+      static_pages: صفحات استاتیک
+      common_pages: صفحات مشترک
+      user_pages: صفحات کاربر
+      terms: شرایط
+      privacy: حریم
+      people: مردم
+      user_applications: نرم افزار
+      user_requests: درخواست
+      news: اخبار
+      feedback: فیدبک
+      abuse: تخلف
+      chats: چت
+      photo_albums: آلبوم عکس
+      notes: یادداشت
+    pagination_link:
+      next_page: صفحه بعدی
+    user_edit_menu:
+      content: محتوا
+      profile: مشخصات
+      site_settings: تنظیمات سایت
+      privacy: حریم
+      services: خدمات
+    activities_navigation:
+      all: همه
+      photo_albums: آلبوم عکس
+      notes: یادداشت
+    notifications_navigation:
+      all: همه
+      likes: لایک
+      friend_requests: درخواست دوستان
+      profile_views: مشخصات
+    user_to_friend_connections_navigation:
+      friends: دوستان
+      friends_online: دوستان آنلاین
+      outcome_requests: درخواست نتیجه
+      income_requests: درخواست درآمد
+    user_applications_navigation:
+      all: همه
+      new: جدید
+      popular: محبوب
+      often_installed: اغلب نصب
+      manage: مدیریت
+    user_requests_navigation:
+      all: همه
+      popular: محبوب
+      my_requests: درخواست من
+    user_navbar_menu:
+      sign_in: ورود
+      sign_up: ثبت نام
+    email_signature:
+      info: اطلاعات
+      mailer: میلر
+      technoelegance: Technoelegance گیم
+    translations:
+      select_gender: جنسیت را انتخاب کنید
+      select_orientation: جهت انتخاب
+      select_search_for: انتخاب جستجو برای
+    need_to_sign_in_modal:
+      you_need_to_sign_in: شما نیاز به ثبت نام در قبل از این عمل
+      available_sign_in_methods: شما
+    sign_up_methods:
+      usual_register_link: ثبت نام معمول
+      register_text: علاوه بر٪ {} usual_registration شما می توانید از طریق خدمات محبوب
+        ترین و شبکه های اجتماعی ثبت نام
+    bootstrap_gallery:
+      previous: قبلی
+      next: بعدی
+    user_notification_title:
+      you_liked: شما توسط دوست
+      wrote_message_to_you: نوشته پیام را به شما
+      viewed_your_profile: 'پروفایل مشاهده شد .: خود را'
+      liked_your_photo: محبوبترین ها عکس خود را
+      liked_your_note: محبوبترین ها توجه داشته باشید شما
+      liked_your_request: محبوبترین ها به درخواست شما
+      liked_your_video: محبوبترین ها ویدئو های خود را
+      liked_your_application: تشکر شده برنامه خود را
+      requested_a_friendship: درخواست دوستی
+  authentications:
+    authentication:
+      turn_on: روشن
+      turn_off: خاموش
+      turned_on: روشن
+      turned_off: خاموش
+    index:
+      enabled_services: خدمات فعال
+  users:
+    profile:
+      submit: ذخیره
+      name: نام
+      meet_with: ملاقات با
+      gender: جنسیت
+      type_in_your_location: نوع در شهرستان خود را
+      about_me: برخی از واژه ها در مورد خود (علاوه بر فرم زیر)
+      sex_keywords: علاقه در رابطه جنسی
+      enter_your_name: نام خود را وارد کنید
+      more_options: بیشتر
+      orientation: جهت
+      location: محل سکونت
+      search_for: جستجو برای
+      intimacy: صمیمیت
+      in_age: در سن
+      from: از
+      to: به
+      interests: علاقه مندی ها
+      height: قد
+      weight: وزن
+      relationship: رابطه
+      children: کودکان
+      living: زندگی
+      education: آموزش و پرورش
+      jobs: شغلی
+      income: درآمد
+      languages: زبان
+      smoking: سیگار کشیدن
+      alcohol: الکل
+      drugs: مواد مخدر
+      contacts: اطلاعات تماس
+      contact_value: ارزش
+      save: ذخیره
+      about_yourself: درباره خودتان
+    settings:
+      submit: ذخیره
+      locale: زبان رابط
+      change_password: تغییر رمز عبور
+      interface_language: زبان رابط
+    dialog_modal:
+      send_message: ارسال پیام
+    index:
+      users: کاربران
+      clear_search: جستجو پاک
+    dashboard:
+      hello: سلام
+      here_some_of_your_statistics: اینجا برخی از آمار خود را
+      chats: چت
+      notes: یادداشت
+      photo_albums: آلبوم عکس
+    avatar:
+      photo: عکس
+      drag_and_drop_your_file: کشیدن و رها کردن فایل خود را
+      here: اینجا
+      or: یا
+      from_other_sites: از سایت های دیگر
+      write_down_link_for_your_image: بنویسید لینک از تصویر خود را
+      url_for_image: آدرس برای تصویر
+      upload: آپلود
+      from_facebook: از فیس بوک
+      turn_on_facebook: روشن فیس بوک
+      you_can_upload_your_photos_from_facebook: شما می توانید عکس های خود را از فیس
+        بوک آپلود
+      from_vkontakte: از vkontakte
+      you_can_upload_your_photos_from_vkontakte: شما می توانید عکس های خود را از vkontakte
+        آپلود
+      turn_on_vkontakte: روشن در VKontakte
+      from_instagram: از نمایش مشخصات عمومی
+      you_can_upload_your_photos_from_instagram: شما می توانید عکس های خود را از نمایش
+        مشخصات عمومی آپلود
+      turn_on_instagram: روشن نمایش مشخصات عمومی
+      from_dropbox: از Dropbox
+      you_can_upload_your_photos_from_dropbox: شما می توانید عکس های خود را از Dropbox
+        آپلود
+      turn_on_dropbox: روشن در Dropbox
+      edit_photo: ویرایش عکس
+      delete_photo: حذف عکس
+      are_you_sure: مطمئنید؟
+    available_photos_modal:
+      available_photos: عکس موجود
+    update:
+      your_password_was_successfully_changed: رمز عبور شما با موفقیت تغییر کرد
+      your_profile_was_successfully_updated: پروفایل شما با موفقیت به روز شد
+    edit_photo:
+      edit_photo: ویرایش عکس
+      crop: زراعت و اصلاح نباتات
+      close: نزدیک
+      save_changes: ذخیره تغییرات
+    contact:
+      contact_name_placeholder: فیس بوک / اسکایپ / Vk انتشار / و غیره
+      contact_value_placeholder: آدرس / نیک / ID / و غیره
+    user:
+      about_me: درباره من
+      orientation: جهت
+      meet_with: ملاقات با
+      desirable_age: سن مطلوب
+      from: از
+      to: به
+      interests: علاقه مندی ها
+      height: قد
+      sm: SM
+      relationship: رابطه
+      children: کودکان
+      living: زندگی
+      education: آموزش و پرورش
+      jobs: جابز
+      income: درآمد
+      languages: زبان
+      smoking: سیگار کشیدن
+      alcohol: الکل
+      drugs: مواد مخدر
+      contacts: اطلاعات تماس
+    user_info:
+      offline: آفلاین
+      online: اینترنتی
+      age: سن
+    loading_modal_images:
+      loading_images: بارگیری تصاویر
+    password_form:
+      new_password: رمز عبور جدید
+      confirm_new_password: تکرار رمز عبور جدید
+      change_password: تغییر رمز عبور
+    show:
+      all: همه
+      notes: یادداشت
+      view: نمایش
+    dropbox_token_form:
+      key: کلیدی
+      paste_recieved_key: چسباندن کلید دریافت
+      submit: ارسال
+    contents:
+      users_which_i_like: کاربران که من می خواهم
+      all: همه
+      my_videos_likes: فیلم دوست داشتن من
+      my_photos_likes: عکس من را دوست دارد
+      my_notes_likes: یادداشت من را دوست دارد
+      my_user_applications_likes: دوست من برنامه های کاربردی
+      my_user_requests_likes: درخواست من را دوست دارد
+    more_profile_info:
+      photo_albums: آلبوم عکس
+      view_all_photo_albums: نمایش تمام آلبوم های عکس
+      create_more: درست تر
+      view_all_videos: مشاهده همه ویدیوهای
+      notes: یادداشت
+      view_all_notes: مشاهده همه یادداشت ها
+      requirements_lists_to_partner: مورد نیاز لیست را به شریک زندگی
+      requirement: مورد نیاز
+      view_all_requirements_lists: نمایش لیست تمام نیازهای
+      profile_verification: تایید مشخصات
+      your_profile_is_successfully_verified: مشخصات شما با موفقیت تایید
+      create: درست
+      you_have_not_any_requirements_lists_yet: شما دارای هیچ نیاز لیست هنوز
+      you_have_not_any_notes_yet: شما ندارد هر یادداشت هنوز
+      you_have_not_any_photo_albums_yet: شما دارای هیچ آلبوم عکس هنوز
+      you_have_not_any_videos_yet: شما دارای هیچ فیلم ها نشده است
+      your_profile_is_not_verified_yet: مشخصات شما تأیید شده است هنوز رتبهدهی نشده
+        است
+      verify_through_twitter: تایید از طریق توییتر
+      verify_through_facebook: تایید از طریق فیس بوک
+      verify_through_mail_ru: تایید از طریق Mail.ru
+    privacy:
+      privacy: حریم
+  searches:
+    form:
+      location: محل سکونت
+      from: از
+      to: به
+      age: سن
+      gender: جنسیت
+    form_content:
+      city: شهر
+      gender: جنسیت
+      age_from: سن از
+      to: به
+      online: اینترنتی
+      verified: تایید شده
+      has_avatar: دارای نماد
+      region: منطقه
+      more: بیشتر
+      country: کشور
+      about_me: درباره من
+      interests: علاقه مندی ها
+      languages: زبان
+      names: نام
+      height: قد
+      from: از
+      weight: وزن
+      relationship: رابطه
+      education: آموزش و پرورش
+      orientation: جهت
+      search_for: جستجو برای
+      children: کودکان
+      living: زندگی
+      smoking: سیگار کشیدن
+      alcohol: الکل
+      drugs: مواد مخدر
+      income: درآمد
+    show:
+      users: کاربران
+      clear_search: جستجو پاک
+  welcome:
+    index:
+      people: مردم
+      requests: درخواست
+      user_applications: نرم افزار
+      about: درباره
+      features: ویژگی
+      registration: ثبت نام
+      sign_in: ورود
+      welcome_main_title: خوش آمدید به Flutylove!
+      welcome_main_text: این محل که در آن شما می توانید عشق کامل خود را پیدا کنید
+      find_more: اطلاعات بیشتر
+      about_title: Flutylove شبکه سرگرمی های اجتماعی بین المللی برای datings است
+      about_text: بسیاری از ویژگی های که شما می توانید برای سرگرمی و datings استفاده
+        وجود دارد!
+      find_more_features: یافتن ویژگی های بیشتر
+      at_our_service: ویژگی از خدمات ما
+      many_languages: بسیاری از زبان های
+      text_about_many_languages: خدمات ما ترجمه بیش از 70 زبان
+      check_it_out: آن را چک کنید
+      videochats: Videochats
+      text_about_videochats: شما می توانید با شریک زندگی خود را با videocams چت
+      try_it_now: سعی کنید آن را در حال حاضر
+      search: جستجو
+      text_about_search: شما می توانید با پارامترهای چندگانه جستجو و آن رایگان است!
+      watch_this: سازمان دیده بان این
+      more_features: از ویژگی های بیشتر
+      text_about_more_features: شما می توانید فیلم ها، بازی ها بازی مشاهده و انجام
+        بسیاری از چیزهای دیگر!
+      register_and_learn_more: ثبت نام و کسب اطلاعات بیشتر
+      install_our_apps: نصب برنامه های ما از روی سیستم عامل محبوب
+      register_header: ثبت نام
+  feedbacks:
+    new:
+      feedback_title: فیدبک
+    form:
+      feedback_name: نام شما
+      feedback_email: ایمیل شما
+      close: نزدیک
+      send: ارسال
+      feedback_recaptcha: reCAPTCHA را
+      cancel: لغو
+    success:
+      success_feedback: با تشکر از شما! ما از نظرات شما دریافت کرده اند.
+      close: نزدیک
+      cancel: لغو
+      more: ارسال بیشتر
+  abuses:
+    new:
+      abuse_title: تخلف
+    form:
+      abuse_name: نام شما
+      abuse_email: ایمیل شما
+      abuse_title: تخلف
+      close: نزدیک
+      send: ارسال
+      abuse_recaptcha: reCAPTCHA را
+      abuse_link: لینک
+      cancel: لغو
+    success:
+      success_abuse: با تشکر از شما! ما دهید خود را دریافت کرده اند.
+      close: نزدیک
+      cancel: لغو
+      more: ارسال بیشتر
+  layouts:
+    welcome:
+      welcome_title: خوش آمدید به Flutylove! سایت دوستیابی پیشرفته ترین.
+  recaptcha:
+    errors:
+      verification_failed: reCAPTCHA را شکست
+      recaptcha_unreachable: reCAPTCHA را غیر قابل دسترس است
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: ما فقط راه اندازی سرویس های ما!
+      we_have_just_launched_our_service_text: امروز ما خدمات ما راه اندازی، بنابراین
+        هر کس می تواند
+      sign_up: ثبت نام
+      and_use_it: و استفاده از آن.
+      wishes_and_requests: اگر شما هر گونه خواسته یا درخواست، شما می توانید ثبت نام
+        و آن را نوشته
+      here: اینجا
+      with_love: با عشق،
+      flutylove_team: Flutylove تیم
+    index:
+      all_news: اخبار
+      read_more: ادامه مطلب
+  chats:
+    panel_head:
+      online: اینترنتی
+      offline: آفلاین
+    pagination_link:
+      next_page: صفحه بعدی
+    form_additions:
+      submit: ارسال
+      videochat: چت ویدئویی
+    videochat_request_link:
+      connect_to_videochat: اتصال به چت ویدئویی
+    modal_form:
+      send_message: ارسال پیام
+      recipient: گیرنده
+      message: پیام
+      close: نزدیک
+      submit: ارسال
+    waiting_video_answer_button:
+      waiting_for_response: حال انتظار برای پاسخ ...
+    chat_created:
+      send_message: ارسال پیام
+      message_was_sent: پیام ارسال شد
+      close: نزدیک
+  messages:
+    pagination_link:
+      next_page: صفحه بعدی
+  notifications:
+    user_to_friend_connection:
+      action: اکشن
+    notification:
+      offline: آفلاین
+      online: اینترنتی
+    like:
+      action: اکشن
+    photo_album_view:
+      action: اکشن
+    user_view:
+      action: اکشن
+  user_applications:
+    user_application:
+      who_uploaded: ارسال شده توسط
+      all_uploaded_applications_by: همه برنامه های کاربردی آپلود شده توسط
+    form:
+      name: نام
+      user_application_name: نام برنامه
+      description: باشرکت
+      description_text: متن توضیحات
+      upload_icon: دانلود آیکون
+      public: عمومی؟
+      category_name: رده
+      create: درست
+      edit: ویرایش
+    show:
+      application: نرم افزار
+      return_to_uploaded_applications: برای آپلود نرم افزار
+      return_to_all_applications: بازگشت به تمام برنامه های کاربردی
+    manage:
+      installed_applications: برنامه های نصب شده
+      uploaded_applications: برنامه کاربردی آپلود
+      all: همه
+    index:
+      applications_uploaded_by: نرم افزار آپلود شده توسط
+      return_to_all_applications: بازگشت به تمام برنامه های کاربردی
+      create_new: ایجاد جدید
+      return_to_manage_applications: بازگشت به مدیریت برنامه های کاربردی
+    installed:
+      installed_applications: برنامه های نصب شده
+      return_to_all_applications: بازگشت به تمام برنامه های کاربردی
+      return_to_manage_applications: بازگشت به مدیریت برنامه های کاربردی
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: قبل از نمایش این نرم افزار
+        شما نیاز به ثبت نام در اولین
+    need_to_install:
+      need_to_install_first: شما نیاز به نصب این برنامه برای اولین بار
+      install_application: نصب نرم افزار
+  likes:
+    index:
+      liked_items: آیتم ها محبوب
+      return_to_my_content: بازگشت به محتوا من
+  videos:
+    index:
+      return_to_edit_profile: به نمایه ویرایش
+      create_new: ایجاد جدید
+      return_to_profile: بازگشت به مشخصات
+    video:
+      edit: ویرایش
+      are_you_sure: مطمئنید؟
+      delete: حذف
+    modal_form:
+      create_new_video: درست ویدیو جدید
+      close: نزدیک
+      create: درست
+    form_content:
+      name: نام
+      video_name: نام فیلم
+      source: آدرس از کد قراردادن
+      video_url_or_embed_code: آدرس ویدیو از کد قراردادن ویدیو
+    show:
+      video: ویدئو
+      return_to_all_videos: بازگشت به تمام فیلم ها
+      edit_video: ویرایش ویدئو
+    edit:
+      edit_video: ویرایش ویدئو
+      return_to_view_video: بازگشت به نمایش فیلم
+      view_video: نمایش ویدئو
+    form:
+      edit: ویرایش
+  photo_albums:
+    index:
+      photo_albums: آلبوم عکس
+      return_to_editing_profile: به نمایه ویرایش
+      create_new: ایجاد جدید
+      return_to_profile: بازگشت به مشخصات
+    photo_album:
+      edit: ویرایش
+      create: درست
+      are_you_sure: مطمئنید؟
+      delete: حذف
+    edit:
+      edit_photo_album: ویرایش آلبوم عکس
+      return_to_photo_albums: به آلبوم عکس
+      view_photo_album: نمایش آلبوم عکس
+    form_content:
+      name: نام
+      photo_album_name: عکس نام آلبوم
+    form:
+      edit: ویرایش
+      create: درست
+    photo_album_uploader:
+      drag_and_drop_your_file: کشیدن و رها کردن فایل خود را
+      here: اینجا
+      or: یا
+      from_other_sites: از سایت های دیگر
+      write_down_link_for_your_image: بنویسید لینک از تصویر خود را
+      url_for_image: آدرس برای تصویر
+      upload: آپلود
+      from_facebook: از فیس بوک
+      turn_on_facebook: روشن فیس بوک
+      you_can_upload_your_photos_from_facebook: شما می توانید عکس های خود را از فیس
+        بوک آپلود
+      from_vkontakte: از vkontakte
+      you_can_upload_your_photos_from_vkontakte: شما می توانید عکس های خود را از vkontakte
+        آپلود
+      turn_on_vkontakte: روشن در VKontakte
+      from_instagram: از نمایش مشخصات عمومی
+      you_can_upload_your_photos_from_instagram: شما می توانید عکس های خود را از نمایش
+        مشخصات عمومی آپلود
+      turn_on_instagram: روشن نمایش مشخصات عمومی
+      from_dropbox: از Dropbox
+      you_can_upload_your_photos_from_dropbox: شما می توانید عکس های خود را از Dropbox
+        آپلود
+      turn_on_dropbox: روشن در Dropbox
+    show:
+      return_to_photo_albums: به آلبوم عکس
+      edit_photo_album: ویرایش آلبوم عکس
+    modal_form:
+      create_new_photo_album: ایجاد آلبوم عکس جدید
+      close: نزدیک
+      create: درست
+  user_requests:
+    form:
+      content: محتوا
+      edit: ویرایش
+      create: درست
+  notes:
+    index:
+      notes: یادداشت
+      return_to_edit_profile: به نمایه ویرایش
+      create_new: ایجاد جدید
+      return_to_profile: بازگشت به مشخصات
+    note:
+      edit: ویرایش
+      are_you_sure: مطمئنید؟
+      delete: حذف
+    show:
+      note: توجه
+      return_to_notes: بازگشت به یادداشت
+      edit_note: ویرایش یادداشت
+    form_content:
+      content: محتوا
+      edit: ویرایش
+      create: درست
+    edit:
+      edit_note: ویرایش یادداشت
+      return_to_notes: بازگشت به یادداشت
+      view_note: مشاهده یادداشت
+  user_to_search_connections:
+    index:
+      requirements_lists: الزامات
+      return_to_editing_profile: به نمایه ویرایش
+      create_new: ایجاد جدید
+    user_to_search_connection:
+      edit: ویرایش
+      are_you_sure: مطمئنید؟
+      delete: حذف
+    edit:
+      edit_requirements_list: ویرایش لیست مورد نیاز
+      return_to_requirements_lists: به نیاز لیست
+    form_content:
+      name: نام
+      name_of_your_requirements_list: نام لیست مورد نیاز خود را
+    form:
+      edit: ویرایش
+    show:
+      return_to_requirements_lists: به نیاز لیست
+  photos:
+    index:
+      return_to_photo_albums: بازگشت به آلبوم عکس
+      return_to_profile: به نمایه
+  errors:
+    messages:
+      already_confirmed: حال حاضر تایید شد، لطفا سعی کنید وارد
+      confirmation_period_expired: باید در٪ {} دوره تایید شود، لطفا درخواست یک گذرواژه
+        جدید
+      expired: تمام شده است، لطفا درخواست یک گذرواژه جدید
+      not_found: یافت نشد
+      not_locked: قفل نشده بود
+      not_saved:
+        one: '1 خطا این٪ {} منابع از ذخیره شدن ممنوع است:'
+        other: "٪ {COUNT} خطاهای ممنوع این٪ {} منابع از ذخیره شدن:"
+    bad_request:
+      bad_request: درخواست پاسخ به بد
+      bad_request_description: سرور نمی تواند و یا به درخواست را پردازش کند به دلیل
+        خطای کلاینت آشکار
+      go_to_root: برو به ریشه
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable نهاد
+      unprocessable_entity_description: درخواست شد به خوبی شکل گرفته اما با توجه به
+        خطاهای معنایی قادر به دنبال داشته باشد بود
+      go_to_root: برو به ریشه
+    not_found:
+      not_found: یافت نشد
+      not_found_description: منبع درخواست یافت نشد اما ممکن است در آینده در دسترس
+        خواهد بود
+      go_to_root: برو به ریشه
+    forbidden:
+      forbidden: ممنوعه
+      forbidden_description: درخواست یک درخواست معتبر است، اما سرور است امتناع از
+        پاسخ به آن
+      go_to_root: برو به ریشه
+    internal_server_error:
+      internal_server_error: خطای داخلی سرور
+      internal_server_error_description: چیزی را اشتباه رفت. ما در اسرع وقت آن را
+        تعمیر خواهد کرد.
+      go_to_root: برو به ریشه
+  pages:
+    privacy:
+      privacy: سیاست حفظ حریم خصوصی Flutylove
+      general_provisions: مقررات عمومی
+      p_1_1: 1.1. این مقررات یک سند رسمی از شرکت با مسئولیت محدود "Technoelegance"،
+        واقع در 101000، مسکو، Ulanskiy pereulok 13، stroeniye 4، pomeshcheniye 1 (آخرت
+        Flutylove، شرکت، ما)، و تعیین روش های پردازش داده ها و امنیت اطلاعات افراد
+        که به سن 18 سال رسیده، و کسی که استفاده از وب سایت https://flutylove.com (آخرت
+        وب سایت) و خدمات خود را (این پس کاربران).
+      p_1_2: 1.2. هدف از این مقررات است برای اطمینان از حفاظت به دلیل از اطلاعات کاربران،
+        از جمله اطلاعات شخصی، از دسترسی های غیر مجاز و افشای.
+      p_1_3: 1.3. روابط با جمع آوری، ذخیره، توزیع و امنیت اطلاعات کاربران وب سایت
+        توسط این مقررات، سایر اسناد رسمی از شرکت و قانون فعلی فدراسیون روسیه اداره
+        می شود.
+      p_1_4: 1.4. نسخه فعلی از مقررات، که یک سند عمومی، بعد http://flutylove.com/pages/privacy
+        لینک در دسترس به هر کاربر اینترنتی است. شرکت این حق را به تغییر این مقررات
+        است. در مورد تغییرات به مقررات ساخته شده است، شرکت باید کاربران با ارسال نسخه
+        جدید از مقررات در وب سایت را در http://flutylove.com/pages/privacy آدرس دائمی،
+        نه بعد از 10 روز قبل از موثر اطلاع تاریخ تغییرات. نسخه های قبلی از مقررات
+        در آرشیو اسناد و مدارک از شرکت ذخیره می شود.
+      p_1_5: 1.5. این مقررات توسعه یافته اند و مطابق با توافقنامه کاربر استفاده می
+        شود. در صورت هر گونه مغایرت بین این آیین نامه ها و سایر اسناد رسمی از شرکت،
+        این قوانین باید اجرا شود.
+      p_1_6: 1.6. با استفاده از وب سایت، شما را به شرایط و ضوابط این سیاست حفظ حریم
+        خصوصی است. لطفا آنها را به دقت بخوانید. اگر شما با شرایط این سیاست حفظ حریم
+        خصوصی را قبول ندارند، و یا شما در سن 18 سال رسیده است، شما ممکن است به این
+        سایت و خدمات آن استفاده کنید. با استفاده از وب سایت ها، صرف نظر از اینکه شما
+        در کاربر ثبت نام شده Flutylove هستند یا نه، می نمایید که شما به طور کامل این
+        خط مشی رازداری را قبول و با به دنبال آن است.
+      the_website_using_conditions: شرایط استفاده از وب سایت
+      p_2_1: '2.1. برای استفاده از وب سایت Flutylove، شما نیاز به ثبت نام. نام، آدرس
+        ایمیل، جنسیت، تاریخ تولد، اطلاعات محل: اطلاعات زیر باید در طول ثبت نام مشخص
+        شده است. کاربر ممکن است اطلاعات شخصی اضافی در / آرزوی خود او فراهم می کند.
+        کاربر ممکن است ویرایش و یا به روز رسانی اطلاعات شخصی در هر زمان. این شرکت
+        یک حق درخواست مدارک اضافی در مورد جنسیت و تاریخ تولد کاربر تغییر است.'
+      p_2_2: '2.2. با اجازه دادن به دسترسی به وب سایت و خدمات آن، شرکت، اقدام به شیوه
+        ای مناسب و در ایمان خوب است، معتقد است که کاربر: متوجه می شود که برای ثبت
+        نام در وب سایت لازم به بیش از 18 سال است. دارای تمام حقوق لازم قادر به ثبت
+        نام در این وب سایت و استفاده از آن؛ نشان می دهد اطلاعات دقیق در مورد خود /
+        خودش با توجه به درخواست برای استفاده از خدمات وب سایت؛ آگاه است که اطلاعات
+        شخصی در وب سایت، ارائه شده توسط کاربر، ممکن است برای دیگر کاربران از وب سایت
+        و اینترنت کاربران و همچنین، می توان کپی و توزیع شده توسط کاربران دیگر در دسترس
+        است؛ آگاه است که برخی از انواع اطلاعات، به کاربران دیگر منتقل، نمی تواند توسط
+        کاربر حذف. با این مقررات آشنا، موافق با آنها و حقوق و تعهدات مشخص متعهد.'
+      p_2_3: 2.3. شرکت می کند از دقت و صحت دریافت (جمع آوری) اطلاعات مربوط به کاربران
+        را تأیید کنید، به غیر از موارد زمانی که چنین تایید به منظور انجام تعهدات این
+        شرکت برای کاربر است.
+      information_processing_objectives: اهداف پردازش اطلاعات
+      p_3_1: 3.1. شرکت حمل از پردازش اطلاعات در مورد کاربران، از جمله اطلاعات شخصی
+        خود را، به منظور انجام تعهدات این شرکت به کاربران برای استفاده از وب سایت
+        و خدمات آن است.
+      p_3_2: 3.2 شرکت حق به انجام پردازش اطلاعات شخصی بدون اطلاع مرجع صالح برای حفاظت
+        از حقوق افراد اطلاعات شخصی است.
+      structure_of_the_user_information: ساختار اطلاعات کاربر
+      p_4_1: '4.1. اطلاعات شخصی از کاربران شامل:'
+      p_4_1_1: 4.1.1. نام، آدرس ایمیل، جنسیت، تاریخ تولد، اطلاعات محل و شماره تلفن،
+        که توسط کاربران ارائه و تصور می شود فقط برای ثبت نام در وب سایت به اندازه
+        کافی.
+      p_4_1_2: 4.1.2. اطلاعات است که توسط کاربر (به عنوان مثال عکس ها، اطلاعات در
+        مورد عادات خطرناک و غیره) ارائه شده است؛
+      p_4_1_3: 4.1.3. علاوه بر این توسط کاربر با توجه به درخواست شرکت به منظور انجام
+        تعهدات این شرکت به کاربران، ظاهر می شود از شرایط ارائه شده است. شرکت حق، به
+        ویژه، به درخواست کاربر یک کپی از سند هویت و یا هر سند دیگر شامل نام، جنسیت
+        و تاریخ تولد، و همچنین دیگر اطلاعات دیگری را که، در اختیار شرکت، لازم خواهد
+        بود و کافی برای شناسایی چنین کاربر و سوء استفاده و نقض حقوق اشخاص ثالث از
+        بین بردن.
+      p_4_2: '4.2. پردازش اطلاعات سایر کاربران را توسط شرکت اداره وب سایت نیز پردازش
+        اطلاعات دیگر در مورد کاربران، که شامل:'
+      p_4_2_1: 4.2.1. داده های مشترک، به صورت خودکار توسط HTTP سرور دریافت کرد که
+        دسترسی به این سایت و اقدامات پس از آن از کاربر (IP آدرس از میزبان، نوع سیستم
+        عامل کاربر، صفحات یک وب سایت توسط کاربر بازدید).
+      p_4_2_2: 4.2.2. اطلاعات است که به طور خودکار زمانی که دسترسی به وب سایت با استفاده
+        از بوک مارک ها (کوکی ها) را دریافت کرد.
+      p_4_2_3: 4.2.3. اطلاعات است که به عنوان یک نتیجه از اقدامات کاربر در وب سایت
+        دریافت کرد.
+      p_4_2_4: 4.2.4. اطلاعات است که به عنوان یک نتیجه از اقدامات از کاربران دیگر
+        بر روی وب سایت دریافت کرده است.
+      p_5_1: '5.1. پردازش داده های شخصی در حال انجام بر اساس اصول زیر است: الف) اهداف
+        مشروع و استفاده از پردازش اطلاعات شخصی؛ ب) صداقت؛ ج) پیروی از اهداف پردازش
+        داده های شخصی را با اهداف از پیش تعیین شده و اعلام کرد که جمع آوری داده های
+        شخصی، و همچنین پیروی از اعتبار از شرکت. د) پیروی از حجم و نوع پردازش اطلاعات
+        شخصی، و پیروی از استفاده از پردازش اطلاعات شخصی با اهداف پردازش آن؛ ه) ناروایی
+        از ترکیب پایگاه داده های ایجاد برای اهداف ناسازگار، حاوی اطلاعات شخصی.'
+      p_5_1_1: '5.1.1. مجموعه ای از داده های شخصی از کاربر است که بر روی وب سایت انجام
+        زمانی که ثبت نام، و همچنین در آینده زمانی که کاربر می افزاید: اطلاعات بیشتر
+        در مورد خود / خودش با استفاده از ابزار وب سایت در ابتکار عمل خود / خود را.'
+      p_5_1_2: 5.1.2. اطلاعات شخصی از کاربران به طور انحصاری در قالب الکترونیکی با
+        استفاده از سیستم های خودکار، به استثنای مواردی که پردازش کتابچه راهنمای کاربر
+        از اطلاعات شخصی در نظر ملاقات الزامات قانونی مورد نیاز است ذخیره می شود و
+        پردازش شده است.
+      p_5_1_3: 5.1.3. اطلاعات شخصی کاربر به هیچ شخص ثالثی منتقل نمی شود، مگر در موارد
+        به صراحت به این خبر و توافقنامه کاربر ارائه شده است. با رضایت از کاربر، داده
+        های شخصی کاربر را می توان به پیمانکاران سوم از شرکت تحت شرایط فرض یک تعهد
+        انتقال به اطمینان از محرمانه بودن اطلاعات دریافت شده، به ویژه، در هنگام استفاده
+        از خدمات و برنامه های کاربردی. تأمین اطلاعات شخصی کاربر به درخواست از مقامات
+        دولتی (مقامات محلی) است که در روش انجام به عنوان قانون مورد نیاز است.
+      p_5_1_4: '5.1.4. اطلاعات شخصی کاربر و حذف که: - داده ها خود حذف از صفحه توسط
+        کاربر؛ - صفحه خود حذف شده توسط کاربر است. - اطلاعات کاربر و صفحه شخصی آن توسط
+        شرکت حذف شده است. در صورت حذف صفحه توسط کاربر خود، شرکت ذخیره اطلاعات شخصی
+        کاربر را در رسانه های الکترونیکی خود را در درون 210 روز پس از صفحه شخصی حذف
+        شده است. اطلاعات شخصی هستند پس از انقضای 210 روز حذف شده پس از صفحه شخصی حذف
+        شده است. تا زمانی که این دوره به پایان برسد، کاربر حق بازگرداندن صفحه شخصی
+        دارد.'
+      users_rights_and_obligations: حقوق و تعهدات کاربر
+      p_6_1: '6.1. کاربر حق دارد:'
+      p_6_1_1: 6.1.1. دسترسی به اطلاعات در مورد او را / او بدون محدودیت و رایگان با
+        ویرایش صفحه شخصی خود در وب سایت را با استفاده از نام کاربری و رمز عبور.
+      p_6_1_2: 6.1.2. به طور مستقل تغییرات و اصلاحات به اطلاعات در صفحه شخصی کاربر
+        در وب سایت، به این شرط که این تغییرات و اصلاحات را تشکیل می دهند را شامل به
+        روز و اطلاعات صحیح است؛
+      p_6_1_3: 6.1.3. حذف اطلاعات از صفحه شخصی در وب سایت؛
+      p_6_1_4: 6.1.4. درخواست شرکت برای به دست آوردن اطلاعات دقیق تر، بلوک و یا حذف
+        داده های شخصی، اگر چنین اطلاعات ناقص، از رده خارج، نادرست، غیرقانونی دریافت
+        و یا به منظور اعلام پردازش و یا اگر لازم نیست اقدامات مشخص شده در بند 6.1.3
+        از این مقررات طور مستقل نمی تواند اجرا شود.
+      p_6_1_5: 6.1.5. بر اساس درخواست، اطلاعات را از شرکت در مورد پردازش / داده های
+        شخصی خود را دریافت خواهید کرد.
+      p_6_2: '6.2. اطلاعات زیر در مورد هر وب سایت کاربر ثبت نام شده همیشه در دسترس
+        است به کاربر ثبت نام شده: نام، جنس، سن، عکس نمایه کاربر و دیگر اطلاعات در
+        صورتی که کاربر از آن نوشته شده است.'
+      p_6_3: 6.3. شرکت خرس هیچ مسئولیتی در قبال افشای اطلاعات شخصی کاربر توسط دیگر
+        کاربران از وب سایت که داده ها از جمله دسترسی پیدا کردهاید.
+      p_6_4: 6.4. در مورد اطلاعات شخصی (اطلاعات کاربر دیگر) حذف از صفحه شخصی کاربر
+        و یا حذف صفحه شخصی کاربر از وب سایت، اطلاعات کاربر کپی شده را با سایر کاربران
+        یا ذخیره شده بر روی صفحات دیگر کاربران حفظ شود.
+      p_7_1: 7.1. شرکت اقدامات فنی، سازمانی و قانونی طول می کشد تا اطمینان حاصل شود
+        که داده های شخصی کاربر از دسترسی های غیر مجاز یا اتفاقی، حذف، اصلاح، مسدود
+        کردن، کپی کردن، و انتشار و همچنین از دیگر اقدامات غیر مجاز محافظت می شود.
+      p_7_2: 7.2. ورود کاربر (آدرس ایمیل یا شماره تلفن همراه) و رمز عبور استفاده می
+        شود برای دسترسی به وب سایت. کاربر مسئول نگهداری از این اطلاعات محرمانه است.
+        کاربر میتواند کاربری و رمز عبور به اشخاص ثالث انتقال نیست و همچنین موظف به
+        اتخاذ اقدامات برای اطمینان از محرمانه بودن آن است.
+      limitation_of_the_regulations_applicability: محدودیت کاربرد مقررات
+      p_8: این مقررات به اقدامات و منابع اینترنت اشخاص ثالث تمدید نمی شود. شرکت خرس
+        هیچ مسئولیتی در قبال اقدامات اشخاص ثالث که دسترسی به اطلاعات کاربر را از طریق
+        اینترنت و یا خدمات وب سایت است. دولت وب سایت توصیه به کاربران برای نزدیک شدن
+        به موضوع را با مقدار اطلاعات ارسال شده در سایت به شیوه ای مسئولانه.
+      user_requests: درخواست کاربر
+      p_9_1: '9.1. روسیه، 101000، مسکو، Ulanskiy pereulok 13، stroeniye 4، pomeshcheniye
+        1 و یا در فرم از سند الکترونیکی: کاربران حق ارسال درخواست به شرکت از جمله
+        درخواست در مورد استفاده از داده های شخصی در فرم نوشته شده در آدرس زیر را داشته
+        باشد توسط امضای الکترونیکی واجد شرایط مطابق با قانون از فدراسیون روسیه را
+        امضا کرد، توسط ایمیل: support@flutylove.com.'
+      p_9_2: '9.2. درخواست کاربر باید حاوی اطلاعات زیر باشد: تعداد سند هویت کاربر
+        و یا نماینده آن؛ تاریخ صدور سند بالا و مقام صادر کننده؛ اطلاعات تایید مشارکت
+        کاربر در روابط با اپراتور (به طور خاص، لینک به صفحه). امضای کاربر یا نماینده
+        وی / او.'
+      p_9_3: 9.3. این شرکت متعهد به در نظر گرفتن و پاسخ به درخواست کاربر در ظرف 30
+        روز پس از آن دریافت شد.
+      p_9_4: '9.4. تمام مکاتبات دریافت شده توسط این شرکت از کاربران (نوشته شده و یا
+        درخواست الکترونیکی) به عنوان اطلاعات محدود دسترسی طبقه بندی شده و ممکن است
+        بدون رضایت کتبی کاربر اعلام نشده است. اطلاعات شخصی و اطلاعات دیگر در مورد:
+        کاربری که درخواست ارسال نمیشوند ممکن است استفاده شود، بدون رضایت ویژه کاربر،
+        متفاوت از برای پاسخ به درخواست و یا در موارد به صراحت در قانون قابل اجرا است.'
+    terms:
+      terms: توافقنامه کاربری Flutylove
+      welcome: خوش آمدید به Flutylove!
+      about_terms: 'این شرایط استفاده (و همچنین اسناد مراجعه کننده به اینجا، از جمله
+        سیاست حفظ حریم خصوصی) بر قرارداد چسبندگی بر طبق ماده 428 قانون مدنی از فدراسیون
+        روسیه (از این پس به عنوان "قرارداد" نامیده می شود) بین فردی که 18 سال سن رسیده
+        (از این پس به عنوان "کاربر" و شرکت اشاره (و یا "ما") - یک شرکت با مسئولیت
+        محدود "Technoelegance" (LLC "Technoelegance") (آدرس حقوقی: 101،000، مسکو،
+        Ulanskiy pereulok 13، stroeniye 4، pomeshcheniye 1)، پس به عنوان Flutylove
+        اشاره شده است، که بر طبق آن شما می توانید این وب سایت و تمام خدمات مرتبط ارائه
+        شده از طریق وب سایت و یا نرم افزار (به طور کلی به عنوان "خدمات" نامیده می
+        شود) استفاده کنید. وب سایت قابل درک است به معنی هر یک از نسخه آن، همراه با
+        نام دامنه flutylove.com و عمل برای انواع دستگاه ها از جمله نسخه مبتنی بر وب،
+        برنامه های کاربردی تلفن همراه و برنامه های کاربردی برای شبکه های اجتماعی.با
+        استفاده از این وب سایت شما را به شرایط توافق و سیاست حفظ حریم شخصی. لطفا آنها
+        را به دقت بخوانید. اگر شما با شرایط توافقنامه و سیاست حفظ حریم قبول ندارند،
+        و یا شما در سن 18 سال رسیده است، شما ممکن است به این سایت و خدمات آن استفاده
+        کنید.با استفاده از وب سایت ها، بدون در نظر گرفتن شما کاربر از Flutylove ثبت
+        نام کنید یا نه، شما توافق می کنید به طور کامل با این موافقتنامه و سیاست حفظ
+        حریم خصوصی است، که در این موافقتنامه را در لینک موجود و در وب سایت موجود است،
+        و مطابق با آن است.به درخواست کاربر، این شرکت متعهد به امضای این توافقنامه
+        در یک فرم چاپی و ارسال آن به فرد درخواست اسناد و مدارک.شرکت این حق را برای
+        تغییر کاربری و هر سند با اشاره به آن محفوظ است. به از تغییرات شما نیاز به
+        نگه دارید تا به روز اطلاعات در چنین تغییراتی را به صورت منظم آگاه است. ما
+        شما را در مورد تغییرات ما در این صفحه زیر ساخته شده اطلاع خواهد داد. تغییرات
+        تماس نمیدانم و را به اثر ظرف مدت ده روز از تاریخ انتشار آمده است. با این حال،
+        در مورد آنها با اجرای خدمات جدید و یا اصلاح قانون همراه است، آن را فورا اعمال
+        می شود. اگر شما با تغییرات در توافقنامه را قبول نمی کند، شما باید با استفاده
+        از وب سایت و برنامه های کاربردی آن را متوقف کند.'
+      consent_to_accept_the_terms_of_user_agreement: 1. رضایت به قبول شرایط از شرایط.
+      p_1: است. می الکترونیک. این موافقتنامه یک نسخه الکترونیکی از قرارداد، که شرایط
+        استفاده از وب سایت و خدمات را توصیف میکند. با ورود به وب سایت و یا تبدیل شدن
+        به یک کاربر، شما این را قبول و موافقت همه شرایط، شرایط، و اعلامیه که شامل
+        یا ارجاع است. شما تأیید و موافقت می کنید که کاربران از Flutylove ممکن است
+        یک بخشی از جامعه آنلاین است که شامل وب سایت های دیگر متعلق به شرکت و یا وابسته
+        به آن است. بنابراین، پروفیل در وب سایت را می توان در دیگر وب سایت های مشابه
+        و مشترکان پرداخت از یک وب سایت بازدید می توانید با دیگر مشترکان پرداخت از
+        تمام وب سایت ارتباط برقرار کنید. ب. فرم الکترونیکی. با ورود به وب سایت و یا
+        تبدیل شدن به یک کاربر، به پیروی که با موافقت الکترونیکی ارائه می کنند. ج.
+        فرم چاپی. شما حق دریافت چاپی از این داشته باشد. شما می توانید نسخه چاپی از
+        این درخواست قبل یا بعد از آن خواهد شد به صورت الکترونیکی امضا کردند. لطفا،
+        برای اطلاعات بیشتر با خدمات به مشتریان ما است. د. دسترسی و دانلود. به منظور
+        دسترسی به و این الکترونیکی دانلود، شما باید دسترسی به اینترنت یا به طور مستقیم
+        از طریق دستگاه های با دسترسی به منابع وب است. شما نیاز به تجهیزات لازم برای
+        اتصال به اینترنت، یعنی کامپیوتر، مودم و یا دیگر دستگاه دسترسی داشته باشید.
+        لطفا، چاپ یک کپی از این و نگه داشتن آن. برای دانلود فرم الکترونیکی از توافقنامه،
+        آن را ذخیره کنید به کامپیوتر خود را با کمک از هر ویرایشگر متن.
+      the_right_of_using_the_website: 2. حق استفاده از وب سایت.
+      p_2: شما باید حداقل هجده (18) سال سن برای تبدیل شدن به یک کاربر ثبت نام از این
+        وب سایت است. در صورت عدم انطباق با الزامات، دسترسی به وب سایت رد خواهد شد.
+        استفاده از وب سایت، کاربر باید آگاه باشند که اطلاعات شخصی ارسال شده در سایت
+        می تواند برای سایر کاربران اینترنت در دسترس باشد، و شرکت مسئولیتی در قبال
+        اقدامات خود را تحمل نمی کند. با استفاده از این وب سایت شما ادعا و انجام که
+        شما یک راست، قدرت و امکان ورود به توافقنامه، و رضایت به دنبال تمام شرایط و
+        ضوابط آن است. تبدیل شدن به یک کاربر شما ادعا و انجام که شما هرگز محکومیت جرم
+        جنایی مربوط به خشونت جنسی رنج می برد شده است. وب سایت است فقط برای استفاده
+        شخصی طراحی شده است. ممنوع است استفاده از وب سایت برای اهداف تجاری. سازمان
+        های مشترک نمی تواند کاربران از این وب سایت، و همچنین می توانید از این سرویس
+        و یا وب سایت بر روی اهداف خود استفاده نمی کند. غیر قانونی و / یا غیر مجاز
+        با استفاده از این وب سایت، از جمله جمع آوری نام کاربری و / یا آدرس ایمیل توسط
+        کمک های الکترونیکی و یا دیگر ابزار به منظور ارسال پیام های نامطلوب و لینک
+        است را دنبال و شرکت ممکن است اقدامات مناسب با توجه به قانون را، از جمله درخواست
+        تجدید نظر به مقامات اجرای قانون است.
+      pricing_and_registration: 3. قیمت گذاری و ثبت نام
+      p_3: شما قادر خواهید بود برای تبدیل شدن به کاربر از Flutylove درباره آزادی اراده
+        و بدون هزینه با ثبت نام در وب سایت. به عنوان کاربر، شما ممکن است طیف خاصی
+        از خدمات و فرصت های از وب سایت استفاده کنید. کاربر از وب سایت یک فرد ثبت نام
+        در وب سایت با توجه به نظم و است که 18 سال سن رسیده است. هنگام ثبت نام در وب
+        سایت کاربر موظف به ارائه اطلاعات لازم و مرتبط برای شرکت برای تکمیل صفحه کاربر،
+        از جمله ورود (آدرس ایمیل و یا شماره تلفن) و رمز عبور برای دسترسی به وب سایت،
+        و همچنین به عنوان نام، که منحصر به فرد برای هر کاربر می باشد. فرم برای ثبت
+        نام ممکن است اطلاعات از کاربران درخواست پاسخ به. کاربر مسئول اعتبار، واقعیت،
+        کامل بودن و تطابق آن با قانون فدراسیون روسیه از اطلاعات ارائه شده در هنگام
+        ثبت نام، و وضوح خود را از ادعای اشخاص ثالث است. هنگام ثبت نام کاربر با این
+        توافقنامه را قبول و انجام حقوق و تعهدات مشخص شده، در ارتباط با استفاده از
+        و عملکرد وب سایت. کاربر می شود دسترسی کامل به استفاده از توابع وب سایت. این
+        شرکت متعهد به حقوق و تعهد به کاربر، مشخص شده در این آیین نامه، پس از ثبت نام
+        موفقیت آمیز از کاربر در سایت پردازش اطلاعات شخصی کاربر را بر اساس قانون فدراسیون
+        روسیه ساخته شده است. دولت وب سایت پردازش داده های شخصی کاربر به منظور ارائه
+        به کاربر با دسترسی به استفاده از توابع وب سایت، از جمله دریافت شخصی (هدفمند)
+        تبلیغات؛ تأیید، تحقیق و تجزیه و تحلیل آن دسته از داده، اجازه می دهد برای حمایت
+        و بهبود عملکرد و بخش هایی از وب سایت، و همچنین توسعه توابع و بخش های جدید.
+        شرکت تمام اقدامات لازم را به حفاظت از اطلاعات شخصی از کاربران در مقابل دسترسی
+        های غیر مجاز، تغییر، افشا و یا پاک کردن. این شرکت دسترسی به اطلاعات شخصی از
+        کاربر تنها به کسانی کارکنان، پیمانکاران و عوامل شرکت، که نیاز به این اطلاعات
+        به منظور حمایت از عملکرد وب سایت و برای ارائه به کاربر با دسترسی به آن با
+        استفاده از فراهم می کند. این شرکت از وب سایت حق استفاده از اطلاعات ارائه شده
+        توسط کاربر، از جمله اطلاعات شخصی، به منظور حصول اطمینان از انطباق با الزامات
+        قانون فعلی فدراسیون روسیه (از جمله پیشگیری و / یا سرکوب غیر قانونی و / یا
+        غیر قانونی است عملکرد کاربران). افشای اطلاعات ارائه شده توسط کاربر ممکن است
+        تنها در مطابق با قوانین کشور فدراسیون روسیه به درخواست دادگاه، سازمان های
+        اجرای قانون، و همچنین در موارد دیگر ساخته شده به عنوان قانون قابل اجرا از
+        فدراسیون روسیه ارائه شده است. تا حدی که شرکت پردازش داده های شخصی از کاربر
+        برای اجرای این آیین نامه، رضایت کاربر به پردازش اطلاعات شخصی در فضیلت احکام
+        قانون در اطلاعات شخصی مورد نیاز نیست. نام کاربری و رمز عبور انتخاب شده توسط
+        کاربر اطلاعات لازم و کافی برای دسترسی کاربر را به وب سایت هستند. کاربر حق
+        را به / ورود او و رمز عبور خود را به اشخاص ثالث، و کاملا مسئول ایمنی خود،
+        انتخاب راه ذخیره سازی آنها به صورت مستقل است. با استفاده از / سخت افزار و
+        نرم افزار خود کاربر میتواند ذخیره سازی کاربری و رمز عبور (از طریق کوکی ها)
+        برای مجوز خودکار پس از آن در وب سایت اجازه. هر اقدامی با استفاده از نام کاربری
+        و رمز عبور کاربر در نظر گرفته شده توسط کاربر متعهد شود، مگر اینکه خلاف آن
+        توسط کاربر به اثبات رساند. کاربر موظف است تا فورا اطلاع این شرکت مطابق با
+        روش ایجاد در صورت دسترسی غیر مجاز به نام کاربری و رمز عبور و / یا صفحه حساب،
+        و یا افشای نام کاربری و رمز عبور. پس از ثبت نام کاربر دستاوردهای مناسب برای
+        ایجاد، استفاده، و تعیین محتوای / صفحات شخصی خود را در آن هدف تأمین منافع و
+        غیر تجاری، و همچنین این فرصت را به دسترسی و ارسال اطلاعات بر روی صفحات شخصی
+        از دیگر کاربران . کاربر به عنوان صاحب اطلاعات ارسال شده در صفحه شخصی آگاه
+        است که به غیر از موارد مقرر در این آیین نامه ها و قوانین کشور فدراسیون روسیه،
+        شرکت می کند در توسعه شرکت نمی کنند و با استفاده از محتوا و کنترل نمی کند دسترسی
+        به صفحه کاربر از کاربران دیگر.
+      terms_4: 4. شرایط.
+      p_4: این توافقنامه به طور کامل در اجرا و اعمال باقی می ماند تا زمانی که شما
+        با استفاده از وب سایت. شما می توانید متوقف بودن کاربر از وب سایت با حذف صفحه
+        خود را در هر زمان، به هر دلیلی، از طریق تماس با خدمات به مشتریان آنلاین ما
+        و یا با استفاده از خدمات وب سایت. شرکت حق خود را به حذف صفحه شخصی شما در هر
+        زمان. ما موظف به شما قبل از حذف صفحه اطلاع، اگر این شرکت با دلیل به این باور
+        که شما در شرایط توافقنامه را نقض کرده اند. ما موظف به افشای دلیلی برای حذف
+        حساب کاربری خود شوید. در برخی از موارد افشای اطلاعات ممکن است ممنوع است. پس
+        از حذف از صفحه خود را، تمام شرایط که ممکن است معتبر پس از فسخ این قرارداد
+        از طبیعت خود در نیروی پس از ختم شود. اگر شما صفحه خود را از طریق وب سایت در
+        اراده خود را حذف کنید، ما ممکن است شما بخواهید برای مشخص کردن دلیل چنین حذف.
+      account_security: 5. امنیت حساب.
+      p_5: شما مسئول حفظ محرمانه بودن نام کاربری و رمز عبور خود، خواهد شد که در زمان
+        ثبت نام مشخص شده است. همچنین، شما کاملا مسئول تمام اقداماتی که تحت نام کاربری
+        و رمز عبور خود را رخ می دهد. شما توافق می کنید به (الف) بلافاصله ما در مورد
+        هر گونه استفاده غیر مجاز از کاربری و رمز عبور خود را، و همچنین هر گونه نقض
+        امنیتی دیگر، و (ب) خروج از حساب خود را در پایان هر جلسه اطلاع دهد. وب سایت
+        است مسئول هر گونه خسارت یا زیان ناشی از عدم رعایت این ماده است. شما باید بسیار
+        مراقب باشید زمانی که دسترسی به حساب خود را از طریق یک کامپیوتر عمومی در جهت
+        است که افراد غیر مجاز می تواند جاسوسی و یا رمز عبور خود را و یا سایر اطلاعات
+        شخصی را ضبط کنید. شما همچنین اعلام موافقت می کنید که اینترنت هرگز به طور کامل
+        خصوصی و امن بود. شما را در درک که هر گونه پیام یا اطلاعات شما را در همین پست
+        از سایت ممکن است به خواندن و یا استفاده شده توسط کاربران دیگر، حتی اگر یک
+        هشدار ویژه ای است که اطلاعات پنهان است.
+      your_interaction_with_other_users_of_the_website: 6. تعامل خود را با کاربران
+        دیگر از وب سایت.
+      p_6: است. تنها شما مسئول برای تعامل خود را با دیگر کاربران. شما باید درک کنند
+        که این شرکت به کاربران خود را بررسی نمی به اینکه آیا آنها یک سابقه کیفری.
+        این شرکت همچنین آیا درخواست نیست اطلاعات در مورد گذشته از کاربران خود و کند
+        این اطلاعات را اعتبار نیست. شرکت می کند بدون ضمانت در مورد رفتار کاربران و
+        سازگاری با کاربران واقعی یا آینده است. در همان حال این شرکت حق دارد بررسی
+        کاربران برای سابقه کیفری یا انجام راستی آزمایی دیگر در هر زمان با استفاده
+        از اطلاعات در دسترس عموم. ب. در هیچ مورد این شرکت مسئول هرگونه خسارت وارده
+        که آیا آنها مستقیم، غیرمستقیم، عمومی و یا یک ماهیت خاص، جبرانی، و / یا ضمنی،
+        به دست آمده توسط شما یا هر نفر دیگر به صورت های ناشی از استفاده از وب سایت،
+        از جمله، اما نه محدود به، آسیب های فیزیکی، استرس و / یا سایر خسارات، کسب شده
+        توسط شما در نتیجه ارتباط یا ملاقات با کاربران ثبت نام شده دیگر از وب سایت
+        و یا مردم، که شما با در وب سایت رسیدگی کند. شما توافق می کنید به هر احتیاط
+        ممکن است در هنگام برقراری ارتباط با کاربران دیگر، به ویژه در آن موارد، هنگامی
+        که شما تصمیم برای دیدار با آنها در زندگی واقعی. شما باید آگاه، آنچه را که
+        شرکت کار را نه یک ضمانت اعلام شده یا ضمنی در رابطه سازگاری با کاربران این
+        وب سایت. شما نباید اطلاعات مالی را به کاربران دیگر از وب سایت (به عنوان مثال
+        اطلاعات مربوط به اعتباری شما و یا کارت های پلاستیکی) را. ج. این سرویس می تواند
+        نام خود و یا نام شهر خود را به زبان های دیگر ترجمه؛ د. این سرویس مسئول اعمال
+        ذکر شده در این مقاله نیست. در صورتی که شما با آنها موافق نیستید کامل و یا
+        جزئی، لطفا بلافاصله ترک از سایت؛
+      the_information_posted_by_you_on_flutylove: 7. اطلاعات ارسال شده توسط شما مبنی
+        بر FLUTYLOVE
+      p_7: است. شما تنها مسئول اطلاعاتی که شما را منتشر و یا نشان می دهد (از این پس
+        "پست") در این سرویس و یا انتقال به سایر کاربران است. شما امکان پذیر نیست برای
+        ارسال بر روی خدمات و یا انتقال به دیگر کاربران هر گونه اطلاعات در محتوای توهین
+        آمیز، نادرست، سوء استفاده، زشت و ناپسند، مبتذل و تهاجمی، اطلاعات در مورد محتوای
+        جنسی، و همچنین اطلاعات تهدید یا وسیله، اطلاعات از طبیعت تبعیض نژادی و یا اطلاعات
+        غیر قانونی، و یا هر اطلاعات دیگری که تجاوز و یا تجاوز به حقوق هر شخص دیگر
+        (از جمله، بدون محدودیت، حقوق مالکیت معنوی، حقوق خصوصی و عمومی). شما امکان
+        پذیر نیست به ارائه اطلاعات نادرست، گمراه کننده یا غلط به شرکت و یا سایر کاربران.
+        اگر اطلاعات به شرکت Flutylove ارائه و یا کاربر دیگری پس از آن نادرست می شود،
+        گمراه کننده از نادرست، باید فورا اطلاع شرکت Flutylove چنین تغییر است. به شما
+        ارائه و حکم که تمامی اطلاعات ارائه شده در هنگام ثبت نام دقیق و درست است، و
+        شما فورا هر گونه اطلاعات که پس از آن نادرست، گمراه کننده یا غلط می شود را
+        تغییر دهید. ب. شما موافقت می کنید که ما حق، اما موظف به نظارت بر اطلاعات و
+        یا محتوا است که به خدمات انتقال و یا نوشته شده در دسترسی عمومی در خدمات. ما
+        حق به حذف هر گونه از اطلاعات یا محتوای بدون اختصاص هیچ دلیل و اطلاع رسانی
+        داشته باشد. ج. همه اشیاء نمایش داده شده در وب سایت، از جمله عناصر طراحی، متن،
+        گرافیک، تصاویر، فیلم ها، اسکریپت ها، برنامه ها، موسیقی، برای تلفن های موبایل
+        و اشیاء دیگر و کتابخانه خود را (از این پس - اطلاعات)، اموال از حقوق انحصاری
+        از شرکت، کاربران وب سایت و سایر حقوق دارندگان، تمام حقوق مربوط به این اشیاء
+        محافظت می شود. د. به جز به عنوان مطابق با این قرارداد، و همچنین به عنوان قانون
+        فعلی فدراسیون روسیه تاسیس شده است، هیچ اطلاعات ممکن است کپی (تکثیر)، پردازش،
+        توزیع، نمایش داده شده در یک قاب، منتشر شده، دانلود، انتقال، به فروش می رسد
+        و یا با استفاده از راه های دیگر در تمام یا قطعه بدون اجازه قبلی از دارنده،
+        مگر اینکه صاحب حقوق به صراحت رضایت خود را به استفاده رایگان از اطلاعات توسط
+        هر فرد بیان شده است. E. با ارسال اطلاعات در وب سایت قانونی متعلق به کاربر،
+        کاربر دسترسی برای کاربران دیگر برای حق غیر انحصاری به استفاده از آن با مشاهده،
+        پخش (از جمله کپی کردن) و سایر حقوق صرفا برای اهداف استفاده شخصی و غیر تجاری
+        را فراهم می کند، مگر اینکه موارد، زمانی که استفاده از چنین باعث و یا ممکن
+        است آسیب به منافع دارنده حق حفاظت شده توسط قانون شود. F. با استفاده از از
+        اطلاعات توسط کاربر، که دسترسی تنها برای استفاده از شخصی و غیر تجاری به دست
+        آورده بود، بر شرایط مجاز است که همه نشانه هایی از مؤلف (کپی رایت) یا دیگر
+        اعلامیه های نویسندگی نگه داشته خواهند شد، نام نویسنده و محصول خود را خواهد
+        شد بدون تغییر باقی مانده است. گرم. کاربر نیز فراهم می کند این شرکت با حق غیر
+        انحصاری به استفاده از اطلاعات ارسال شده در سایت و متعلق به او را / او قانونی
+        بدون در نظر گرفتن به منظور اطمینان از عملکرد وب سایت از شرکت در عملکرد از
+        معماری و قابلیت های تارنما. حق غیر انحصاری بالا اشاره کرده است برای قرار دادن
+        محتوا در وب سایت داده و پوشش می دهد قلمرو کشورهای سراسر جهان. این شرکت یک
+        حق انتقال حقوق مراجعه کننده به این بند را به اشخاص ثالث است. کاربر موافقت
+        می کند که این شرکت یک حق استفاده از گزینه های عملکردی و فنی از وب سایت، ارائه
+        نمایش از به اشتراک گذاری مطلب توسط کاربر، از جمله اهداف نمایش اطلاعات تبلیغات
+        است. سلام. در صورتی که کاربر حذف اطلاعات از وب سایت، حق غیر انحصاری به طور
+        خودکار لغو، اما با توجه به مشخصات فنی از وب سایت شرکت حق را به صرفه جویی نسخه
+        پشتیبان از اطلاعات در زمان مورد نیاز و در آن مورد نیاز خود محفوظ میدارد. من.
+        به غیر از اطلاعات خصوصی، کاربر حق ندارد به ارسال، و یا افشای در راه های مختلف
+        (با انتشار در وب سایت) اطلاعات از سایت های دیگر، پایگاه داده و سایر دارایی
+        های معنوی در غیاب صراحت به چنین اقداماتی از کپی رایت ابراز رضایت است مالک.
+        J. مگر در مواردی که در غیر این صورت در این مقررات اشاره شد، هر چیزی در این
+        مقررات می تواند نمی شود به عنوان یک انتقال حقوق منحصر به فرد به اطلاعات در
+        نظر گرفته. K. همه اطلاعاتی که شما در پروفایل کاربران خود را منتشر، باید دقیق،
+        تا به تاریخ و کامل است. کاربر کاملا تنها مسئول هر گونه اطلاعاتی که آپلود شد
+        یا افشا در راه های مختلف است (ارسال شده) در وب سایت و یا با کمک از کاربر.
+        کاربر یک حق آپلود، انتقال و یا ارسال محتوا در وب سایت، اگر او / او حقوق مناسب
+        نیست که به چنین عملی، به دست آورد و یا واگذار شده به او را / او مطابق با قوانین
+        فدراسیون روسیه ندارد. این شرکت قادر است، اما موظف، به فهرست وب سایت برای هر
+        محتوای غیر قانونی و مجاز است به حذف و یا حرکت (بدون اطلاع قبلی) هر مطلب و
+        یا کاربران به صلاحدید خود، به هر دلیل و یا بدون علت، از جمله بدون محدودیت
+        به حرکت، یا حذف اطلاعات که، با توجه به نظر منحصر به فرد از شرکت را نقض این
+        قرارداد، از قوانین فدراسیون روسیه و / یا ممکن است از حقوق نقض، آسیب، یا امنیت
+        دیگر کاربران و یا اشخاص ثالث را به خطر اندازد. این وب سایت حاوی (و یا ممکن
+        است) لینک به سایت های دیگر بر روی اینترنت (وب سایت های اشخاص ثالث) و همچنین
+        مقالات، عکس، تصاویر، گرافیک، موسیقی، صدا، ویدئو، اطلاعات، برنامه، نرم افزار
+        و دیگر اطلاعات متعلق به و یا در آینده از اشخاص ثالث (محتوای شخص ثالث)، که
+        در نتیجه فعالیت فکری است و در مطابق با قانون فدراسیون روسیه محافظت می شود.
+        این اشخاص ثالث و اطلاعات خود را توسط شرکت برای انطباق با این و یا شرایط دیگر
+        (دقت، کامل، صداقت، و غیره) بررسی نمی شود. این شرکت مسئول برای هر یک از مطالب
+        ارسال شده در سایت های شخص ثالث نیست که دستاوردهای کاربر دسترسی از طریق وب
+        سایت و یا از طریق اطلاعات شخص ثالث، از جمله، اما هر گونه نظرات و یا اظهارات
+        بیان در سایت های شخص ثالث و یا محدود نمی در اطلاعات خود را. لینک به هر سایت،
+        محصول، و خدمات، هر گونه اطلاعات از ماهیت تجاری و غیر تجاری موجود در این وب
+        سایت یک تایید و یا پیشنهاد برای این محصولات (خدمات) از شرکت است. اگر کاربر
+        تصمیم به ترک وب سایت و رفتن به وب سایت های اشخاص ثالث و یا به استفاده و یا
+        نصب نرم افزار شخص ثالث، او / او می کند به طوری که در معرض خطر خود را و از
+        آن لحظه این مقررات دیگر به کاربر استفاده می شود. اقدامات کاربر بیشتر با قوانین
+        و سیاستهای جاری، از جمله شیوه های کسب و کار از این افراد که اطلاعات او / او
+        در حال رفتن به استفاده از هدایت.
+      forbidden_actions: 8. اقدامات ممنوع می باشد.
+      p_8: است. ممنوع است "نگه داشتن یک ساعت مچی نزدیک در" و یا مزاحم هر فرد در راه
+        دیگری. ب. ممنوع است به استفاده از رباتها، ویروس ها، برنامه های کاربردی به
+        جستجو سایت / عصاره، و یا دیگر دستگاه های دستی یا خودکار و یا فرآیندها برای
+        استخراج، شاخص، "جاسوسی" و یا تولید مثل در راه دیگری و یا دور زدن ساختار ناوبری
+        و نمایش از خدمات و یا محتویات آن . ج. ممنوع است ارسال، توزیع، و یا تکثیر everyway
+        هر گونه اطلاعات کپی رایت، و یا دیگر اطلاعات حفاظت شده توسط کپی رایت بدون موافقت
+        قبلی از مالک کپی رایت. د. ممنوع است به حذف هر گونه کپی رایت، علائم تجاری و
+        یا دیگر اعلامیه کپی رایت موجود در خدمات. E. ممنوع است به دخالت در مختل و یا
+        بهره برداری از خدمات و وب سایت، و یا خدمات و شبکه های متصل به این سرویس و
+        یا وب سایت. F. ممنوع است به انتشار، ایمیل و یا انتقال در راه های مختلف هر
+        گونه اطلاعات که حاوی ویروس ها و یا هر کد کامپیوتر دیگر، فایل ها و یا برنامه
+        های طراحی شده به دخالت، از بین بردن و یا محدود کردن عملکرد نرم افزارهای کامپیوتر،
+        سخت افزار و یا تجهیزات مخابراتی. گرم. ممنوع است برای ایجاد هدر و یا دستکاری
+        طراحی به منظور پنهان به معنای واقعی از هر گونه اطلاعات به اشتراک گذاشته شده
+        از طریق خدمات. ساعت. این است که به "جعل" و یا "کپی" هر بخشی از خدمات و یا
+        وب سایت بدون اجازه کتبی از Flutylove ممنوع است. همچنین، شما ممکن است هر تگ
+        های متا و یا کد، و یا دیگر دستگاه های حاوی هر لینک به Flutylove، خدمات و یا
+        وب سایت به منظور استفاده از به تغییر مسیر هر فرد به سایت دیگر برای هر هدف.
+        من. ممنوع است تغییر، تعدیل، واگذاری، ترجمه، فروش، بازسازی، کشف، تبدیل و یا
+        پیاده کردن هر بخشی از خدمات یا وب سایت، و یا هر نرم افزار های مورد استفاده
+        در وب سایت و یا برای آن، و همچنین تشویق دیگران به اقدامات مشابهی . J. ممنوع
+        است ارسال هر گونه اطلاعات با محتوای مستهجن و / یا وابسته به عشق شهوانی.
+      the_changes_in_the_service: 9. تغییرات در خدمات.
+      p_9: Flutylove حق در هر زمان به تغییر و یا غیر فعال کردن موقت یا دائم از خدمات
+        خود محفوظ (و یا هر آن را بخشی) بدون اطلاع قبلی. شما توافق می کنید که Flutylove
+        مسئول به شما یا هر شخص ثالث برای هر گونه تغییرات، در دسترس بودن موقت یا ناتوان
+        کامل از سرویس نیست.
+      ip_address_blocking: 10. مسدود کردن IP ADDRESS.
+      p_10: به منظور حفاظت از یکپارچگی وب سایت، Flutylove حق در هر زمان در راحتی خود
+        را برای جلوگیری از آدرس IP از کاربران خاص خود محفوظ میدارد.
+      relations_between_users_online: 11. روابط بین شرعی
+      p_11: شما تنها مسئول تعاملات خود را با کاربران دیگر از Flutylove هستند. Flutylove
+        سمت راست، اما نه تعهد، به نظارت بر اختلافات بین شما و سایر کاربران محفوظ است.
+      security_and_communication: 12. امنیتی و ارتباطات.
+      p_12: استفاده از وب سایت و / یا خدمات نیز توسط سیاست حفظ حریم خصوصی اداره می
+        شود. هنگامی که شما یک کاربر، شما موافقت می و رضایت به دریافت ایمیل از ما.
+        این ایمیل ممکن است اطلاعیه در مورد عملیات و یا سایر اطلاعیه ها مرتبط با خدمات،
+        مانند اعلامیه اداری و اعلامیه های رسمی در مورد تغییرات، و یا ایمیل های حاوی
+        پیشنهادات تجاری، مواد تبلیغاتی، پیشنهادات ویژه از ما، و یا اطلاعات در مورد
+        اقدامات از کاربران دیگر مربوط به نمایندگی خود را حساب کاربری. لطفا سیاست حفظ
+        حریم خصوصی به عنوان خوانده شده به دانستن بیشتر در مورد چنین اطلاعیه ها.
+      denial_of_responsibility: 13. محرومیت از مسئولیت.
+      p_13: است. Flutylove است مسئول هر گونه اطلاعات نادرست یا نادرست ارسال شده در
+        سایت و یا با خدمات همراه است، کاربران از وب سایت و یا هر گونه سخت افزار و
+        یا نرم افزار های مرتبط با خدمات ما و یا وجود دارد استفاده می شود. Flutylove
+        است مسئول رفتار، هر دو آنلاین و آفلاین، هر کاربر از وب سایت. Flutylove بر
+        روی مسئولیت برای هر گونه خطا، حذف، وقفه، حذف، خسارت یا تأخیر در عملیات و یا
+        عملیات، نارسایی ارتباطات خط، سرقت و تخریب، دسترسی غیر مجاز یا در حال تغییر
+        از خطوط ارتباطی از کاربر را ندارد. Flutylove است مسئول هر گونه مشکل و یا نقص
+        فنی از هر شبکه های تلفنی و یا خطوط، سیستم های کامپیوتری آنلاین، سرور و یا
+        ارائه دهندگان، تجهیزات کامپیوتری، نرم افزار، پست الکترونیکی و یا بازیکنان
+        شکست در حساب کاربری، مشکلات فنی و یا ازدحام در اینترنت و یا در هر وب سایت
+        نیست یا ترکیبی آن، از جمله تصادف یا آسیب دیدگی را به کاربران یا هر شخص ثالث
+        مربوط به یک کامپیوتر، و یا به عنوان یک نتیجه از مشارکت در یا دانلود اطلاعات
+        مربوط به شبکه و / یا خدمات. تحت هیچ شرایطی Flutylove شرکت یا هر یک از وابسته
+        به آن، عوامل تبلیغات، بنیانگذاران و یا شرکای توزیع خواهد مسئول برای از دست
+        دادن یا آسیب، از جمله موجب جراحت یا مرگ نیست، به دلیل استفاده از وب سایت و
+        یا خدمات، هر مطلب ارسال شده در سایت ، و یا هر فعل و انفعالات بین کاربران از
+        وب سایت، هر دو آنلاین و آفلاین. وب سایت و خدمات بر AS ارائه شده است اساس و
+        Flutylove صراحتا هر گونه ضمانت یا تناسب اندام برای یک هدف خاص، یا عدم وجود
+        نقض حقوق هر کسی نیست. Flutylove نمی تواند تضمین کند و از هر گونه نتایج خاص
+        از استفاده از وب سایت و / یا خدمات وعده نداده است.
+      links: 14. لینک ها
+      p_14: است. Flutylove است مسئول هر گونه اطلاعات نادرست یا نادرست ارسال شده در
+        سایت و یا با خدمات همراه است، کاربران از وب سایت و یا هر گونه سخت افزار و
+        یا نرم افزار های مرتبط با خدمات ما و یا وجود دارد استفاده می شود. Flutylove
+        است مسئول رفتار، هر دو آنلاین و آفلاین، هر کاربر از وب سایت. Flutylove بر
+        روی مسئولیت برای هر گونه خطا، حذف، وقفه، حذف، خسارت یا تأخیر در عملیات و یا
+        عملیات، نارسایی ارتباطات خط، سرقت و تخریب، دسترسی غیر مجاز یا در حال تغییر
+        از خطوط ارتباطی از کاربر را ندارد. Flutylove است مسئول هر گونه مشکل و یا نقص
+        فنی از هر شبکه های تلفنی و یا خطوط، سیستم های کامپیوتری آنلاین، سرور و یا
+        ارائه دهندگان، تجهیزات کامپیوتری، نرم افزار، پست الکترونیکی و یا بازیکنان
+        شکست در حساب کاربری، مشکلات فنی و یا ازدحام در اینترنت و یا در هر وب سایت
+        نیست یا ترکیبی آن، از جمله تصادف یا آسیب دیدگی را به کاربران یا هر شخص ثالث
+        مربوط به یک کامپیوتر، و یا به عنوان یک نتیجه از مشارکت در یا دانلود اطلاعات
+        مربوط به شبکه و / یا خدمات. تحت هیچ شرایطی Flutylove شرکت یا هر یک از وابسته
+        به آن، عوامل تبلیغات، بنیانگذاران و یا شرکای توزیع خواهد مسئول برای از دست
+        دادن یا آسیب، از جمله موجب جراحت یا مرگ نیست، به دلیل استفاده از وب سایت و
+        یا خدمات، هر مطلب ارسال شده در سایت ، و یا هر فعل و انفعالات بین کاربران از
+        وب سایت، هر دو آنلاین و آفلاین. وب سایت و خدمات بر AS ارائه شده است اساس و
+        Flutylove صراحتا هر گونه ضمانت یا تناسب اندام برای یک هدف خاص، یا عدم وجود
+        نقض حقوق هر کسی نیست. Flutylove نمی تواند تضمین کند و از هر گونه نتایج خاص
+        از استفاده از وب سایت و / یا خدمات وعده نداده است.
+      limitation_of_responsibility: 15. محدودیت از مسئولیت.
+      p_15: وب سایت و توابع آن از جمله تمام اسکریپت ها، نرم افزار، محتوا و طراحی وب
+        سایت می باشد ارائه شده در AS IS اساس است. این شرکت سلب هرگونه ضمانت وب سایت
+        و یا توابع آن ممکن است مناسب یا نامناسب برای یک هدف خاص استفاده. شرکت نمی
+        تواند تضمین و تضمین نمی کند هیچ نتیجه خاص از استفاده از وب سایت و / یا توابع
+        آن است. برای جلوگیری از سردرگمی، کاربر باید اقدامات احتیاطی را رعایت هنگام
+        دانلود از وب سایت و یا از طریق لینک ارسال شده، و با استفاده از هر فایل، و
+        همچنین نرم افزار. این شرکت بسیار توصیه می شود استفاده از نرم افزار تنها با
+        مجوز و همچنین نرم افزار آنتی ویروس. با استفاده از وب سایت، کاربر موافقت می
+        کنید که دانلود از سایت و یا با کمک آن هیچ یک از محتواها در او / خطر خود و
+        تنها مسئول نتایج احتمالی استفاده از این اطلاعات، جمله هر گونه خسارت که ممکن
+        است باعث کامپیوتر کاربر و یا تا سوم احزاب، از دست دادن داده، یا هرگونه خسارت
+        وارده؛ تحت هیچ شرایطی شرکت و یا عوامل آن تحمل هیچ مسئولیت به کاربر یا به هر
+        شخص ثالث هر گونه خسارت غیرمستقیم، تصادفی و UNWILFUL، جمله از دست دادن سود،
+        یا از دست داده داده شده، خسارت به افتخار، شرافت یا شهرت کسب و کار، ناشی از
+        استفاده از وب سایت، محتوای آن و یا هر اطلاعات دیگر که شما یا هر فرد دیگر دریافت
+        دسترسی از طریق وب سایت، حتی اگر شرکت هشدار داده و یا نشان می دهد احتمال وقوع
+        چنین خساراتی.
+      responsibilities_of_the_parties: 16. مسئولیت از احزاب است.
+      p_16: این توافقنامه توسط اداره کرد و مطابق با قوانین فدراسیون روسیه است. مسائل
+        که موافقتنامه حل و فصل شد باید مطابق با قانون فدراسیون روسیه حل و فصل. در
+        صورت هر گونه مناقشات یا مجادلات مربوط به اجرای این مقررات، کاربر و شرکت هر
+        تلاش برای حل و فصل آنها از طریق مذاکره است. در مورد اختلافات نمی خواهد با
+        مذاکرات حل و فصل، اختلافات باید مطابق با قانون قابل اجرا از فدراسیون روسیه
+        حل و فصل. این توافقنامه در زبان روسی اجرا شده و می توان به کاربر برای بررسی
+        به زبان دیگری ارائه شده است. در صورت اختلاف از نسخه از مقررات در زبان روسی
+        و نسخه آن در زبان دیگر، نسخه در زبان روسی از احکام این مقرره باید اعمال شود.
+        اگر به یک دلیل یا یکی دیگر، یک یا چند مفاد این مقررات خواهد باطل اعلام یا
+        باطل، این به آن اعتبار یا قابلیت اجرای مفاد باقی مانده تاثیر نمی گذارد.
+      other_provisions_and_changes: 17. سایر مقررات و تغییرات.
+      p_17: این توافقنامه به توافق واقعی بین شما و Flutylove مورد استفاده از وب سایت
+        و / یا خدمات است. اگر هر از مقررات این موافقتنامه حفره، بقیه را اعتبار آن
+        در اثر کامل باقی مانده است. این توافقنامه ممکن است توسط Flutylove در هر زمان
+        اصلاح شده است. لطفا دریغ نکنید با ما تماس بگیرید با هر گونه سوال در مورد این
+        توافقنامه است.
+      read_this: من این قرارداد و موافقت با تمام شرایط آن.
+    about:
+      about_flutylove: درباره Flutylove
+      about_flutylove_text: Flutylove شبکه سرگرمی های اجتماعی بین المللی برای datings
+        است. در اینجا شما می توانید دوستان، یک دلبر، شرکای پیدا و یا فقط صرف وقت خود
+        را با لذت بردن از با بازی بازی های و یا تماشای فیلم / عکس.
+      flutylove_features: 'هنگامی که شما ثبت نام در سایت ما، شما می توانید پیدا کردن
+        ویژگی های بسیاری مانند:'
+      video_call_feature: شما می توانید با همکاری با وب کم چت
+      extended_search: شما می توانید جستجوی گسترده صورت رایگان استفاده کنید
+      multilanguages: شما می توانید شرکای از کشور های دیگر جستجو کنید، چون خدمات ما
+        انتظار می رود برای استفاده توسط طیف گسترده ای از مردم از کشورهای دیگر از آن
+        است که ترجمه بیش از 70 زبان
+      play_games_chatting_etc: شما می توانید با افراد دیگر چت، بازی و دیگر مواد های
+        اجتماعی
+      we_are_in_social_networks: 'ما در شبکه های اجتماعی:'
+      facebook: فیس بوک
+      twitter: توییتر
+      vk: VKontakte می
+      google_plus: گوگل به علاوه
+      instagram: نمایش مشخصات عمومی
+      github: گیتهاب
+      we_use_open_source_and_high_technology: ما با استفاده از فن آوری بالا و کتابخانه
+        منبع باز است. ما همیشه سعی کنید تا بهتر و بهبود خدمات ما.
+      partners_and_investors: ما برای همکاری باز کرد و ما دوست داریم که به پیدا کردن
+        سرمایه گذاران. اگر شما می خواهم به همکاری با ما با ما تماس بگیرید در partnership@flutylove.com
+    faq:
+      what_is_flutylove: Flutylove چیست؟
+      about_flutylove: Flutylove شبکه سرگرمی های اجتماعی بین المللی برای datings است.
+        در اینجا شما می توانید دوستان، یک دلبر، شرکای پیدا و یا فقط صرف وقت خود را
+        با لذت بردن از با بازی بازی های و یا تماشای فیلم / عکس.
+      what_features_has_flutylove: چه ویژگی های دارد Flutylove؟
+      flutylove_features: اینجا شما می توانید با videocams چت، استفاده از جستجوی طولانی،
+        جستجو برای شرکای تجاری از کشور های دیگر، بازی و انجام دیگر مواد اجتماعی است.
+      i_have_some_requests: من برخی از درخواست ها
+      you_can_write_request: شما می توانید ثبت نام و ارسال آن
+      here: اینجا
+      i_have_seen_some_typo_or_wrong_translation: من دیده اند، برخی غلط املایی یا
+        اشتباه ترجمه
+      you_can_send_pull_request_to_our: شما می توانید درخواست نگه دار، به ارسال ما
+      i_have_seen_some_error: من را دیده اند، برخی از خطا
+      you_can_send: شما می توانید به ما بازخورد ارسال
+      feedback: این فرم
+      to_us_or_write_to_our_info_mail: یا ارسال ایمیل به support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: به Flutylove خوش آمدید
+      you_have_successfully_signed_up_to_flutylove: شما با موفقیت به Flutylove به
+        امضا رساند
+      you_can_sign_in_with_your_social_networks: اگر شما می خواهم برای ورود دوباره
+        به شما می توانید با حساب شبکه های اجتماعی خود را امضا
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: اگر
+        شما می خواهم به ثبت نام در ایمیل و رمز عبور شما می توانید رمز عبور توسط علامت
+        را تغییر دهید و کلیک کنید به لینک زیر
+      change_password: تغییر رمز عبور
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: نادرست
+            search_for:
+              search_for_error: نادرست
+            birth_date:
+              birth_date_error: نیاز به بیشتر از 18 و کمتر از 115
+            interests:
+              interests_error: نیاز به کمتر از 2000 کاراکتر
+            jobs:
+              jobs_error: نیاز به کمتر از 2000 کاراکتر
+            languages:
+              languages_error: نیاز به کمتر از 2000 کاراکتر
+            sex_keywords:
+              sex_keywords_error: نیاز به کمتر از 2000 کاراکتر
+            my_turn_ons:
+              my_turn_ons_error_error: نادرست
+            contacts:
+              contacts_length_error: نیاز به کمتر از 2000 کاراکتر
+              contacts_size_error: باید کمتر از 21 اطلاعات تماس
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: نامعتبر است
+  devise:
+    confirmations:
+      confirmed: حساب شما با موفقیت تایید شد.
+      send_instructions: شما یک ایمیل با دستورالعمل در مورد چگونگی اعلام حساب خود
+        را در چند دقیقه دریافت خواهید کرد.
+      send_paranoid_instructions: اگر آدرس ایمیل شما در پایگاه داده ما وجود دارد،
+        شما یک ایمیل با دستورالعمل در مورد چگونگی اعلام حساب خود را در چند دقیقه دریافت
+        خواهید کرد.
+      new:
+        send_mail_for_confirm_your_email: ارسال ایمیل برای تایید ایمیل خود را
+        submit: ارسال
+    failure:
+      already_authenticated: شما در حال حاضر در امضا کردند.
+      inactive: حساب شما هنوز فعال نشده است.
+      invalid: ایمیل نامعتبر یا رمز عبور.
+      locked: حساب شما قفل شده است.
+      last_attempt: شما باید یک بار دیگر تا قبل حساب خود را قفل شده است.
+      not_found_in_database: ایمیل نامعتبر یا رمز عبور.
+      timeout: جلسه شما منقضی شد. لطفا دوباره وارد شوید به ادامه.
+      unauthenticated: شما نیاز به سیستم وارد شوید یا ثبت نام قبل از ادامه.
+      unconfirmed: شما باید برای تایید حساب خود را قبل از ادامه.
+    mailer:
+      confirmation_instructions:
+        subject: دستورالعمل تایید
+        welcome_to_flutylove: به Flutylove خوش آمدید
+        you_can_confirm_your_account_email_through_the_link_below: شما می توانید ایمیل
+          خود را از طریق لینک زیر اعلام می
+        confirm_my_account: تکرار ایمیل من
+      reset_password_instructions:
+        hello: سلام
+        subject: دستورالعمل تنظیم مجدد رمز ورود
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: کسی
+          درخواست یک لینک به تغییر رمز عبور خود را. شما می توانید این را از طریق لینک
+          زیر انجام دهید.
+        change_my_password: رمز عبور من را تغییر دهید
+        if_you_didnt_request_this_please_ignore_this_email: اگر شما درخواست که این
+          مدیر چشم پوشی از این ایمیل.
+      unlock_instructions:
+        subject: دستورالعمل باز کردن
+    omniauth_callbacks:
+      failure: تواند شما را از٪ {} نوع به دلیل "٪ {دلیل}" را authentication نماید.
+      success: موفقیت از٪ {} نوع تصدیق حساب.
+    passwords:
+      no_token: شما می توانید این صفحه را بدون از یک ایمیل تنظیم مجدد رمز عبور دسترسی
+        پیدا کنید. اگر شما از یک ایمیل تنظیم مجدد رمز عبور، لطفا مطمئن شوید که شما
+        با استفاده از URL کامل ارائه شده است.
+      send_instructions: شما یک ایمیل با دستورالعمل در مورد نحوه تنظیم مجدد رمز عبور
+        خود را در چند دقیقه دریافت خواهید کرد.
+      send_paranoid_instructions: اگر آدرس ایمیل شما در پایگاه داده ما وجود دارد،
+        شما یک لینک بازیابی رمز عبور به آدرس ایمیل خود را در چند دقیقه دریافت خواهید
+        کرد.
+      updated: رمز عبور شما موفقیت تغییر کرد. شما در حال حاضر در امضا کردند.
+      updated_not_active: رمز عبور شما موفقیت تغییر کرد.
+      new:
+        forgot_your_password: بازیابی رمز عبور خود را
+        reset_password: ارسال بازیابی آدرس
+      edit:
+        change_your_password: تغییر رمز عبور خود را
+        new_password: رمز عبور جدید
+        change_password: تغییر
+    registrations:
+      destroyed: خداحافظ! حساب شما با موفقیت لغو شد. ما امیدواریم که به شما دوباره
+        به زودی ببینید.
+      signed_up: خوش آمدید! شما موفقیت را امضا کرده اند.
+      signed_up_but_inactive: شما با موفقیت امضا کرده اند. با این حال، ما می تواند
+        شما را امضا نکند در به دلیل اینکه حساب خود را هنوز فعال نشده است.
+      signed_up_but_locked: شما با موفقیت امضا کرده اند. با این حال، ما می تواند شما
+        را امضا نکند در به دلیل اینکه حساب شما قفل شده است.
+      signed_up_but_unconfirmed: یک پیام با لینک تایید شده است به آدرس ایمیل شما ارسال
+        می شود. لطفا لینک به فعال شدن حساب خود را باز کنید.
+      update_needs_confirmation: حساب خود را بهروز موفقیت است، اما ما باید تأیید آدرس
+        ایمیل جدید خود را. لطفا ایمیل خود را چک کنید و با کلیک بر روی لینک تایید برای
+        نهایی تایید آدرس ایمیل جدید خود را.
+      updated: حساب خود را بهروز موفقیت.
+      new:
+        sign_up: ثبت نام
+        name: نام
+        password: رمز عبور
+        register: ثبت نام
+    shared:
+      links:
+        sign_in: ورود
+        sign_up: ثبت نام
+        didnt_receive_confirmation_instructions: آیا دستورالعمل تایید دریافت نیست؟
+        sign_in_with: ورود به سیستم با
+        fast_login_almost_one_click: ورود سریع (تقریبا یک کلیک)
+    sessions:
+      signed_in: امضا در موفقیت.
+      signed_out: خروج از موفقیت.
+      new:
+        sign_in: ورود
+        password: رمز عبور
+        remember_me: مرا به خاطر بسپار
+        forgot_your_password: رمز عبور خود را فراموش کرده اید؟
+    unlocks:
+      send_instructions: شما یک ایمیل با دستورالعمل در مورد چگونگی باز کردن حساب خود
+        را در چند دقیقه دریافت خواهید کرد.
+      send_paranoid_instructions: اگر حساب شما وجود دارد، شما یک ایمیل با دستورالعمل
+        در مورد چگونگی آن را باز در چند دقیقه دریافت خواهید کرد.
+      unlocked: حساب شما با موفقیت باز شده است. لطفا به سیستم وارد شوید به ادامه.
+  timezones:
+    American Samoa: ساموآی آمریکا
+    International Date Line West: خط تاریخ بینالمللی غرب
+    Midway Island: جزیره میدوی
+    Hawaii: هاوایی
+    Alaska: آلاسکا
+    Pacific Time (US & Canada): وقت غرب امریکا (ایالات متحده و کانادا)
+    Tijuana: تیجوانا
+    Arizona: آریزونا
+    Chihuahua: شیهواهوا
+    Mazatlan: مازاتلن
+    Mountain Time (US & Canada): وقت کوهستانی (ایالات متحده و کانادا)
+    Central America: مرکزی امریکا
+    Central Time (US & Canada): زمان مرکزی (ایالات متحده و کانادا)
+    Guadalajara: گوادالاخارا
+    Mexico City: مکزیکو سیتی
+    Monterrey: مونتری
+    Saskatchewan: ساسکاچوان
+    Bogota: بوگوتا
+    Eastern Time (US & Canada): وقت شرق (ایالات متحده و کانادا)
+    Indiana (East): ایندیانا (شرق)
+    Lima: لیما
+    Quito: کیتو
+    Atlantic Time (Canada): زمان اقیانوس اطلس (کانادا)
+    Caracas: کاراکاس
+    Georgetown: جورج تاون
+    La Paz: La Paz در
+    Santiago: سانتیاگو
+    Newfoundland: نیوفاندلند
+    Brasilia: برازیلیا
+    Buenos Aires: بوئنوس آیرس
+    Greenland: گرینلند
+    Montevideo: مونته ویدئو
+    Mid-Atlantic: آتلانتیک میانه
+    Azores: آزور
+    Cape Verde Is: جزایر کیپ ورد
+    Casablanca: کازابلانکا
+    Dublin: دوبلین
+    Edinburgh: ادینبورگ
+    Lisbon: لیسبون
+    London: لندن
+    Monrovia: مونروویا
+    UTC: UTC
+    Amsterdam: آمستردام
+    Belgrade: بلگراد
+    Berlin: برلین
+    Bern: برن
+    Bratislava: براتیسلاوا
+    Brussels: بروکسل
+    Budapest: بوداپست
+    Copenhagen: کپنهاگ
+    Ljubljana: لیوبلیانا
+    Madrid: مادرید
+    Paris: پاریس
+    Prague: پراگ
+    Rome: رم
+    Sarajevo: سارایوو
+    Skopje: اسکوپیه
+    Stockholm: استکهلم
+    Vienna: وین
+    Warsaw: ورشو
+    West Central Africa: غرب آفریقای مرکزی
+    Zagreb: زاگرب
+    Athens: آتن
+    Bucharest: بخارست
+    Cairo: قاهره
+    Harare: حراره
+    Helsinki: هلسینکی
+    Istanbul: استانبول
+    Jerusalem: اورشلیم
+    Kaliningrad: کالینینگراد
+    Kyiv: کیف
+    Pretoria: پرتوریا
+    Riga: ریگا
+    Sofia: صوفیه
+    Tallinn: تالین
+    Vilnius: ویلنیوس
+    Baghdad: بغداد
+    Kuwait: کویت
+    Minsk: مینسک
+    Moscow: مسکو
+    Nairobi: نایروبی
+    Riyadh: ریاض
+    St Petersburg: سن پترزبورگ
+    Volgograd: ولگوگراد
+    Tehran: تهران
+    Abu Dhabi: ابوظبی
+    Baku: باکو
+    Muscat: مسقط
+    Samara: سامارا
+    Tbilisi: تفلیس
+    Yerevan: ایروان
+    Kabul: کابل
+    Ekaterinburg: Ekaterinburg از
+    Islamabad: اسلام آباد
+    Karachi: کراچی
+    Tashkent: تاشکند
+    Chennai: چنای
+    Kolkata: کلکته
+    Mumbai: بمبئی
+    New Delhi: دهلی نو
+    Sri Jayawardenepura: سری Jayawardenepura
+    Kathmandu: کاتماندو
+    Almaty: Almaty از
+    Astana: آستانه
+    Dhaka: داکا
+    Novosibirsk: نووسیبیرسک
+    Urumqi: ارومچی
+    Rangoon: رانگون
+    Bangkok: بانکوک
+    Hanoi: هانوی
+    Jakarta: جاکارتا
+    Krasnoyarsk: کراسنویارسک
+    Beijing: پکن
+    Chongqing: چونگ کینگ
+    Hong Kong: هنگ کنگ
+    Irkutsk: ایرکوتسک
+    Kuala Lumpur: کوالالامپور
+    Perth: پرت
+    Singapore: سنگاپور
+    Taipei: تایپه
+    Ulaanbaatar: اولانباتور
+    Osaka: اوزاکا
+    Sapporo: ساپورو
+    Seoul: سئول
+    Tokyo: توکیو
+    Yakutsk: یاکوتسک
+    Adelaide: آدلاید
+    Darwin: داروین
+    Brisbane: بریزبن
+    Canberra: کانبرا
+    Guam: گوام
+    Hobart: هوبارت
+    Melbourne: ملبورن
+    Port Moresby: پورت مورسبی
+    Sydney: سیدنی
+    Vladivostok: ولادی وستک
+    Magadan: ماگادان
+    New Caledonia: کالدونیای جدید
+    Solomon Is: سلیمان.
+    Srednekolymsk: اسردنکولیمسک
+    Auckland: اوکلند
+    Fiji: فیجی
+    Kamchatka: کامچاتکا
+    Marshall Is: مارشال است.
+    Wellington: ولینگتون
+    Chatham Is: چتم بوده است.
+    Nuku'alofa: نوکوآلوفا
+    Samoa: ساموآ
+    Tokelau Is: توکلائو است.
+  fa: fa
+  fa_iso: fa

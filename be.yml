@@ -1,0 +1,1733 @@
+---
+be:
+  1_we_have_just_launched_our_service_title: Мы толькі што запусцілі наш сэрвіс!
+  common_keywords: знаёмстваў, онлайн знаёмстваў, любоў знаёмстваў, вэб-камера знаёмства,
+    хуткасць знаёмства, відэа чат знаёмствы, Ruby на Rails сайт знаёмстваў, мультымоўны
+    сайт знаёмстваў
+  common_description: Самая перадавая міжнародная сацыяльная сетка для забаў датыровак
+    "Flutylove"
+  default_album: Па змаўчанні альбом
+  user: Карыстальнік
+  user_to_search_connection: Пошук
+  video: Відэа
+  note: Заўвага
+  photo_album: Фотаальбом
+  from: Ад
+  to: Для
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Аднакласнікаў
+  gender:
+  - male:
+      name: Мужчынскі
+  - female:
+      name: Жаночы
+  - transgender:
+      name: транссэксуалаў
+  - male-female:
+      name: Мужчына-жанчына
+  - double-female:
+      name: Падвойны жаночы
+  - double-male:
+      name: Падвойны мужчына
+  orientation:
+  - heterosexual: Гетэра
+  - homosexual: Гома
+  - bisexual: бісексуальнасць
+  search_for:
+  - chatting: Болтаем
+  - get_friends: Атрымаць сяброў
+  - flirtation: Flirtation
+  - marriage: шлюб
+  - other: Іншае
+  body_type:
+    slim: Тонкі
+    normal: Нармальны
+    athletic: Спартыўнае
+    chubby: Chubby
+  relationship:
+    single: Аднамесны
+    in_a_relationship: У адносінах
+    married: Жанаты
+  children:
+    dont_have: Не маю
+    dont_have_and_dont_want_to: Не маю і не хачу
+    don_t_have_but_planning: Не маю, але планаванне
+    have_enough: Мець
+    have_and_planning_more: Мець і планаванне больш
+    unable_to_have_children: Немагчыма мець дзяцей
+  living:
+    with_parents: З бацькамі
+    with_marriage_partner: З шлюбнага партнёра
+    alone: У адзіночку
+    with_friends: З сябрам (ы)
+  education:
+    nothing: Нічога
+    secondary_school: Сярэдняя школа
+    college_technical_college: Каледж / Тэхнічны каледж
+    university: Універсітэт
+    postgraduate: Аспірант
+    phd_md_post_doctorate: PhD / MD / доктар
+  hair_color:
+    blonde: бландынку
+    dark_blond: цёмна-русы
+    brown: Brown
+    black: Чорны
+    red: Чырвоны
+    gray: Шэры
+    other: Іншае
+  income:
+    unemployed: Беспрацоўны
+    unstable_earnings: Нестабільныя даходы
+    small_stable_earnings: Малыя стабільныя даходы
+    medium_stable_earnings: сярэдні стабільны заробак
+    higher_than_average_income: вышэй за сярэдні прыбытак
+    high_income: Высокі даход
+  smoking:
+    not_smoke: Не паліць
+    not_smoke_and_detest: Не паліць і трываць не паліць
+    smoke_in_a_social_setting: Часам у сацыяльнай асяроддзі
+    smoke_occasionally: Дым ад часу
+    smoke_often: Дым часта
+  alcohol:
+    not_drinking: так ня піў
+    drink_occalionally: піць час ад часу
+    drink_in_a_social_setting: Напой ў сацыяльнай асяроддзі
+    drink_often: Алкаголь часта
+  drugs:
+    dont_use: Не выкарыстоўвайце
+    contra_drugs: Супрацьпаказанняў прэпараты
+    tried_out_some: апрабавалі некаторыя
+    light_drugs_occasionally: Лёгкія наркотыкі часам
+    regular: Рэгулярнае
+  sponsor:
+    i_want_to_find_a_sponsor: Я хачу знайсці спонсара
+    willing_to_become_a_sponsor: Гатовы стаць спонсарам
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Не патрабуюся ў фундатару
+      і не жадаю ім быць
+  category_name:
+    strategy: Стратэгіі
+    rpg: RPG
+    3d_shooters: 3D шутэры
+    racing: Гонкі
+    arcade: Аркады
+    economic: Эканамічны
+    simulators: Сімулятары
+    logic: Логіка
+    adventure: Прыгоды
+    board_games: Настольныя
+    gambling: Азартныя гульні
+    news: Навіны
+    communication: Сувязь
+    multimedia: Мультымедыя
+    drawing: Маляванне
+    educational: Навучалыя
+    e_commerce: Электронная камерцыя
+    other: Іншае
+  shared:
+    header:
+      people: Людзі
+      chat: Чат
+      groups: Групы
+      forum: Форум
+      requests: просіць
+      about: Аб праекце
+      help: Дапамога
+      user_applications: Прыкладанні
+    liked_users:
+      liked: У абранае
+      all: Усе
+      you_have_not_liked_any_users_yet: Вы не спадабаліся ні аднаго карыстальніка,
+        пакуль
+    most_liked_users:
+      most_liked_users: Папулярныя карыстальнікі
+    installed_user_applications:
+      installed_applications: Устаноўленыя прыкладання
+      all: Усе
+      you_have_not_installed_any_apps_yet: Вы не ўстаноўлены якія-небудзь прыкладання
+        яшчэ
+    user_applications:
+      uploaded_apps: Загружаныя прыкладання
+      all: Усе
+      you_have_not_uploaded_any_apps_yet: Вы ня дадалі ні аднаго прыкладання, пакуль
+    right_sidebar:
+      news: Навіны
+      all: Усе
+      read_more: Больш падрабязна
+    footer:
+      footer_text: Міжнародная сацыяльная сетка для забаў датыровак "Flutylove"
+      privacy: Канфідэнцыяльнасць
+      terms: Умовы
+      feedback: Зваротная сувязь
+      abuse: Злоўжыванне
+    languages_select_modal:
+      available_languages: Даступныя мовы
+    site_map_modal:
+      faq: FAQ
+      about: Аб
+      static_pages: Статычныя старонкі
+      common_pages: Агульныя старонкі
+      user_pages: Старонкі карыстальніка
+      terms: Умовы
+      privacy: Канфідэнцыяльнасць
+      people: Людзі
+      user_applications: Прыкладанні
+      user_requests: просіць
+      news: Навіны
+      feedback: Зваротная сувязь
+      abuse: Злоўжыванне
+      chats: Для задавальнення
+      videos: Відэа
+      photo_albums: фотаальбом
+      notes: Заўвагі
+    pagination_link:
+      next_page: Наступная старонка
+    user_edit_menu:
+      content: Змест
+      profile: Профіль
+      site_settings: Налады сайта
+      privacy: Канфідэнцыяльнасць
+      services: Паслугі
+    activities_navigation:
+      all: Усе
+      photos: Фотаздымкі
+      photo_albums: фотаальбом
+      notes: Заўвагі
+      videos: Відэа
+    notifications_navigation:
+      all: Усе
+      likes: Сімпатыі
+      friend_requests: Сябар просіць
+      profile_views: праглядаў профілю
+      photo_album_views: Фотаздымкі праглядаў
+    user_to_friend_connections_navigation:
+      friends: Сябры
+      friends_online: Сябры онлайн
+      outcome_requests: запыты канчатковых вынікаў
+      income_requests: запыты на прыбытак
+    user_applications_navigation:
+      all: Усе
+      new: Новы
+      popular: Папулярныя
+      often_installed: Часта усталяваны
+      manage: Упраўленне
+    user_requests_navigation:
+      all: Усе
+      popular: Папулярныя
+      my_requests: Мае просьбы
+    user_navbar_menu:
+      sign_in: Уваход
+      sign_up: Зарэгіструйцеся
+    email_signature:
+      info: Інфармацыя
+      mailer: Мэйлер
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: Выберыце падлогу
+      select_orientation: Выбар арыентацыі
+      select_search_for: Выберыце для
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Вы павінны ўвайсці ў сістэму, перш чым гэта дзеянне
+      available_sign_in_methods: Вы
+    sign_up_methods:
+      usual_register_link: звычайная рэгістрацыя
+      register_text: Акрамя% {usual_registration} вы можаце зарэгістравацца праз найбольш
+        папулярных сэрвісаў і сацыяльных сетак
+    bootstrap_gallery:
+      previous: Папярэдні
+      next: Далей
+    user_notification_title:
+      you_liked: Вы любілі
+      wrote_message_to_you: Напісала паведамленне для вас
+      viewed_your_profile: праглядаў профілю
+      liked_your_photo: У абранае фота
+      liked_your_note: У абранае заметку
+      liked_your_request: У абранае Ваш запыт
+      liked_your_video: У абранае відэа
+      liked_your_application: У абранае прыкладанне
+      requested_a_friendship: Запытаны дружбу
+  authentications:
+    authentication:
+      turn_on: Уключыце
+      turn_off: Выключыце
+      turned_on: Уключыў
+      turned_off: Выключыў
+    index:
+      enabled_services: Уключаныя паслугі
+  users:
+    profile:
+      submit: Захаваць
+      name: Імя
+      meet_with: Знаёмства з
+      gender: Пол
+      type_in_your_location: Тып ў вашым горадзе
+      about_me: Некалькі слоў пра сябе (у дадатак з адукацыяй ніжэй)
+      sex_keywords: Інтарэсы ў сексе
+      enter_your_name: Калі ласка, увядзіце сваё імя
+      more_options: Больш падрабязна
+      orientation: Арыентацыя
+      location: Размяшчэнне
+      search_for: Пошук
+      intimacy: Інтым
+      in_age: Ва ўзросце
+      from: з
+      to: ў
+      interests: Інтарэсы
+      height: Вышыня
+      weight: Вага
+      relationship: Адносіны
+      children: Дзеці
+      living: Жывая
+      education: Адукацыя
+      jobs: Праца
+      income: Прыбытак
+      languages: Мовы
+      smoking: Курэнне
+      alcohol: Алкаголь
+      drugs: Наркотыкі
+      contacts: Кантакты
+      contact_name: Кантактная асоба
+      contact_value: Кантактная значэнне
+      save: Захаваць
+      about_yourself: Пра сябе
+    settings:
+      submit: Захаваць
+      locale: Мова інтэрфейсу
+      change_password: Змена пароля
+      interface_language: Мова інтэрфейсу
+    dialog_modal:
+      send_message: Адаслаць паведамленне
+    index:
+      users: Карыстальнікі
+      clear_search: Ачысціць пошук
+    dashboard:
+      hello: Прывітанне
+      here_some_of_your_statistics: Вось некаторыя з вашай статыстыкі
+      chats: Чаты
+      messages: Допісы
+      photos: Фотаздымкі
+      videos: Відэа
+      notes: Заўвагі
+      photo_albums: фотаальбом
+    avatar:
+      photo: Фота
+      handling_file: Апрацоўка файлаў
+      drag_and_drop_your_file: Перацягнуць файл
+      here: тут
+      or: або
+      from_other_sites: З іншых сайтаў
+      write_down_link_for_your_image: Запішыце спасылку вашага малюнка
+      url_for_image: Url для малюнка
+      upload: Загрузіць
+      from_facebook: Ад Facebook
+      turn_on_facebook: Уключыце Facebook
+      you_can_upload_your_photos_from_facebook: Вы можаце загрузіць фатаграфіі з Facebook
+      from_vkontakte: Ад Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Вы можаце загрузіць фатаграфіі з
+        Vkontakte
+      turn_on_vkontakte: Уключыце Vkontakte
+      from_instagram: Ад Instagram
+      you_can_upload_your_photos_from_instagram: Вы можаце загрузіць свае фатаграфіі
+        з Instagram
+      turn_on_instagram: Уключыце Instagram
+      from_dropbox: Ад Dropbox
+      you_can_upload_your_photos_from_dropbox: Вы можаце загрузіць свае фатаграфіі
+        з Dropbox
+      turn_on_dropbox: Уключыце Dropbox
+      edit_photo: Рэдагаваць фота
+      delete_photo: Выдаліць фатаграфію
+      are_you_sure: Вы ўпэўненыя?
+    available_photos_modal:
+      available_photos: Даступныя фатаграфіі
+    update:
+      your_password_was_successfully_changed: Ваш пароль паспяхова зменены
+      your_profile_was_successfully_updated: Ваш профіль быў паспяхова абноўлены
+    edit_photo:
+      edit_photo: Рэдагаваць фота
+      crop: Crop
+      close: Зачыніць
+      save_changes: Захаваць змены
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / і г.д.
+      contact_value_placeholder: URL / нік / ID / і г.д.
+    user:
+      about_me: Пра сябе
+      orientation: Арыентацыя
+      meet_with: Знаёмства з
+      desirable_age: Пажаданы ўзрост
+      from: ад
+      to: ў
+      interests: Інтарэсы
+      height: Вышыня
+      sm: см
+      relationship: Адносіны
+      children: Дзеці
+      living: Жывая
+      education: Адукацыя
+      jobs: Праца
+      income: Прыбытак
+      languages: Мовы
+      smoking: Курэнне
+      alcohol: Алкаголь
+      drugs: Наркотыкі
+      contacts: Кантакты
+    user_info:
+      offline: Offline
+      online: Інтэрнэт
+      age: Узрост
+    loading_modal_images:
+      loading_images: Загрузка малюнкаў
+    password_form:
+      new_password: Новы пароль
+      confirm_new_password: Пацвердзіце новы пароль
+      old_password: Стары пароль
+      change_password: Змена пароля
+    show:
+      photos: Фотаздымкі
+      all: Усе
+      videos: Відэа
+      notes: Заўвагі
+      view: Прагляд
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: Уставіць ключ атрымаў
+      submit: Адаслаць
+    contents:
+      users_which_i_like: Карыстальнікі, якія мне падабаецца
+      all: Усе
+      my_videos_likes: Мае відэазапісы любіць
+      my_photos_likes: Мае фатаграфіі любіць
+      my_notes_likes: Мае нататкі любіць
+      my_user_applications_likes: Мае прыкладання любіць
+      my_user_requests_likes: Мае просьбы любіць
+    more_profile_info:
+      photo_albums: фотаальбом
+      view_all_photo_albums: Прагледзець усе фотаальбомы
+      create_more: Стварэнне больш
+      videos: Відэа
+      view_all_videos: Прагледзець усе відэа
+      notes: Заўвагі
+      view_all_notes: Прагледзець усе ноты
+      requirements_lists_to_partner: Патрабаванні да партнёра спіс
+      requirement: Патрабаванне
+      view_all_requirements_lists: Прагледзець усе патрабаванні спісы
+      profile_verification: Профіль праверка
+      your_profile_is_successfully_verified: Ваш профіль паспяхова правераны
+      create: Стварыць
+      you_have_not_any_requirements_lists_yet: У вас няма якіх-небудзь патрабаванняў
+        спісы яшчэ
+      you_have_not_any_notes_yet: У вас няма ніякіх запісаў яшчэ
+      you_have_not_any_photo_albums_yet: У вас няма ні аднаго фота альбома
+      you_have_not_any_videos_yet: У вас няма ні аднаго фота
+      your_profile_is_not_verified_yet: Ваш профіль яшчэ не пацверджаны
+      verify_through_twitter: Праверка праз Twitter
+      verify_through_facebook: Праверка праз Facebook
+      verify_through_mail_ru: Праверка праз Mail.ru
+    privacy:
+      privacy: Канфідэнцыяльнасць
+  searches:
+    form:
+      location: Размяшчэнне
+      from: ад
+      to: ў
+      age: Узрост
+      gender: Пол
+    form_content:
+      city: Горад
+      gender: Пол
+      age_from: Узрост ад
+      to: ў
+      online: Інтэрнэт
+      has_avatar: Ці мае аватар
+      region: Рэгіён
+      more: Больш падрабязна
+      country: Краіна
+      about_me: Пра мяне
+      interests: Інтарэсы
+      languages: Мовы
+      names: Назвы
+      height: Вышыня
+      from: ад
+      weight: Вага
+      relationship: Адносіны
+      education: Адукацыя
+      orientation: Арыентацыя
+      search_for: Пошук
+      children: Дзеці
+      living: Жывая
+      smoking: Курэнне
+      alcohol: Алкаголь
+      drugs: Наркотыкі
+      income: Прыбытак
+    show:
+      users: Карыстальнікі
+      clear_search: Ачысціць пошук
+  welcome:
+    index:
+      people: Людзі
+      requests: просіць
+      user_applications: Прыкладанні
+      about: Аб
+      features: Асаблівасці
+      registration: рэгістрацыі
+      sign_in: Уваход
+      welcome_main_title: Сардэчна запрашаем у Flutylove!
+      welcome_main_text: Гэта месца, дзе вы можаце знайсці ідэальную каханне
+      find_more: Знайсці больш
+      about_title: Flutylove гэта міжнародная сацыяльная сетка для забаў датыровак
+      about_text: Ёсць шмат магчымасцяў, якія вы можаце выкарыстоўваць для забаў і
+        знаёмстваў!
+      find_more_features: Знайсці больш магчымасцяў
+      at_our_service: Асаблівасці нашага сэрвісу
+      many_languages: Многія мовы
+      text_about_many_languages: Наш сэрвіс перакладаецца больш чым на 70 моў
+      check_it_out: Праверце гэта
+      videochats: відыачат
+      text_about_videochats: Вы можаце мець зносіны з вашым партнёрам з videocams
+      try_it_now: Паспрабуйце зараз
+      search: Пошук
+      text_about_search: Вы можаце ажыццяўляць пошук з некалькімі параметрамі, і гэта
+        бясплатна!
+      watch_this: Назіраць за гэтым
+      more_features: Больш магчымасцяў
+      text_about_more_features: Вы можаце праглядаць відэа, гуляць у гульні і рабіць
+        многае іншае!
+      register_and_learn_more: Рэгістрацыя і даведацца больш
+      install_our_apps: Усталюйце нашы прыкладанні з на папулярных платформах
+      register_header: рэгістрацыі
+  feedbacks:
+    new:
+      feedback_title: Зваротная сувязь
+    form:
+      feedback_name: Вашае імя
+      feedback_email: Ваш адрас электроннай пошты
+      close: Зачыніць
+      send: Адаслаць
+      feedback_recaptcha: Recaptcha
+      cancel: Адмяніць
+    success:
+      success_feedback: Дзякуй! Мы атрымалі вашу зваротную сувязь.
+      close: Зачыніць
+      cancel: Адмяніць
+      more: Адаслаць яшчэ
+  abuses:
+    new:
+      abuse_title: Злоўжыванне
+    form:
+      abuse_name: Вашае імя
+      abuse_email: Ваш адрас электроннай пошты
+      abuse_title: Злоўжыванне
+      close: Зачыніць
+      send: Адаслаць
+      abuse_recaptcha: Recaptcha
+      abuse_link: Спасылка
+      cancel: Адмяніць
+    success:
+      success_abuse: Дзякуй! Мы атрымалі ваша злоўжыванне.
+      close: Зачыніць
+      cancel: Адмяніць
+      more: Адаслаць яшчэ
+  layouts:
+    welcome:
+      welcome_title: Сардэчна запрашаем у Flutylove! Самы прасунуты сайт знаёмстваў.
+  recaptcha:
+    errors:
+      verification_failed: Не атрымалася Recaptcha
+      recaptcha_unreachable: Recaptcha недасяжны
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Мы толькі што запусцілі наш сэрвіс!
+      we_have_just_launched_our_service_text: Сёння мы запускаем наш сэрвіс так што
+        кожны можа
+      sign_up: рэгістрацыя
+      and_use_it: і выкарыстоўваць яго.
+      wishes_and_requests: Калі ў вас ёсць якія-небудзь пажаданні ці прапановы, вы
+        можаце зарэгістравацца і напісаў
+      here: тут
+      with_love: З любоўю,
+      flutylove_team: Flutylove Team
+    index:
+      all_news: Усе навіны
+      read_more: Больш падрабязна
+  chats:
+    panel_head:
+      online: Інтэрнэт
+      offline: Offline
+    pagination_link:
+      next_page: Наступная старонка
+    form_additions:
+      submit: Адаслаць
+      videochat: відыачат
+    index:
+      messages: Допісы
+    videochat_request_link:
+      connect_to_videochat: Падлучэнне да відыачат
+    modal_form:
+      send_message: Адаслаць паведамленне
+      recipient: Атрымальнік
+      message: Паведамленне
+      close: Зачыніць
+      submit: Адаслаць
+    waiting_video_answer_button:
+      waiting_for_response: Чаканне адказу ...
+    chat_created:
+      send_message: Адаслаць паведамленне
+      message_was_sent: Паведамленне было адпраўлена
+      close: Зачыніць
+  messages:
+    pagination_link:
+      next_page: Наступная старонка
+  notifications:
+    user_to_friend_connection:
+      action: Дзеянне
+    notification:
+      offline: Offline
+      online: Інтэрнэт
+    like:
+      action: Дзеянне
+    photo_album_view:
+      action: Дзеянне
+    user_view:
+      action: Дзеянне
+  user_applications:
+    user_application:
+      who_uploaded: Загружана
+      all_uploaded_applications_by: Усе загружаныя прыкладанні па
+    form:
+      name: Імя
+      user_application_name: Назва прыкладання
+      description: Апісанне
+      description_text: Тэкст апісання
+      iframe_url: Iframe URL
+      upload_icon: Спампаваць абразок
+      public: Public?
+      category_name: Катэгорыя
+      create: Стварыць
+      edit: Рэдагаваць
+    show:
+      application: Ужыванне
+      return_to_uploaded_applications: Каб загружана прыкладанне
+      edit_application: Рэдагаваць прыкладанне
+      return_to_all_applications: Вяртанне да ўсіх прыкладанням
+    manage:
+      installed_applications: Устаноўленыя прыкладання
+      uploaded_applications: Загружаныя прыкладання
+      all: Усе
+    index:
+      applications_uploaded_by: Прыкладанні, загружаныя
+      return_to_all_applications: Вяртанне да ўсіх прыкладанням
+      create_new: Стварыць новы
+      return_to_manage_applications: Зварот для кіравання прыкладаннямі
+    installed:
+      installed_applications: Устаноўленыя прыкладання
+      return_to_all_applications: Вяртанне да ўсіх прыкладанням
+      return_to_manage_applications: Зварот для кіравання прыкладаннямі
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Перад пункту гледжання гэта
+        дадатак вам трэба ўвайсці ў першы
+    need_to_install:
+      need_to_install_first: Вам трэба ўсталяваць гэта дадатак у першую чаргу
+      install_application: Ўсталяваць прыкладанне
+  likes:
+    index:
+      liked_items: ўпадабаных запісаў
+      return_to_my_content: Зварот да майго зместу
+  videos:
+    index:
+      videos: Відэа
+      return_to_edit_profile: Для рэдагавання профілю
+      create_new: Стварыць новы
+      return_to_profile: Вярнуцца да профілі
+    video:
+      edit: Рэдагаваць
+      are_you_sure: Вы ўпэўненыя?
+      delete: Выдаліць
+    modal_form:
+      create_new_video: Стварыць новае відэа
+      close: Зачыніць
+      create: Стварыць
+    form_content:
+      name: Імя
+      video_name: Назва відэа
+      source: Url кода ўбудавання
+      video_url_or_embed_code: Спасылка на відэа відэа ўстаўляць код
+    show:
+      video: Відэа
+      return_to_all_videos: Вяртанне да ўсіх відэа
+      edit_video: Рэдагаванне відэа
+    edit:
+      edit_video: Рэдагаванне відэа
+      return_to_view_video: Зварот у рэжым прагляду відэа
+      view_video: Прагляд відэа
+    form:
+      edit: Рэдагаваць
+  photo_albums:
+    index:
+      photo_albums: фотаальбом
+      return_to_editing_profile: Для рэдагавання профілю
+      create_new: Стварыць новы
+      return_to_profile: Вярнуцца да профілі
+    photo_album:
+      edit: Рэдагаваць
+      create: Стварыць
+      are_you_sure: Вы ўпэўненыя?
+      delete: Выдаліць
+    edit:
+      edit_photo_album: Змяніць фотоальбом
+      return_to_photo_albums: Для фотаальбомаў
+      view_photo_album: Паглядзець фотоальбом
+    form_content:
+      name: Імя
+      photo_album_name: Фотаальбом імя
+    form:
+      edit: Рэдагаваць
+      create: Стварыць
+    photo_album_uploader:
+      drag_and_drop_your_file: Перацягнуць файл
+      here: тут
+      or: або
+      from_other_sites: З іншых сайтаў
+      write_down_link_for_your_image: Запішыце спасылку вашага малюнка
+      url_for_image: Url для малюнка
+      upload: Загрузіць
+      from_facebook: Ад Facebook
+      turn_on_facebook: Уключыце Facebook
+      you_can_upload_your_photos_from_facebook: Вы можаце загрузіць фатаграфіі з Facebook
+      from_vkontakte: Ад Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Вы можаце загрузіць фатаграфіі з
+        Vkontakte
+      turn_on_vkontakte: Уключыце Vkontakte
+      from_instagram: Ад Instagram
+      you_can_upload_your_photos_from_instagram: Вы можаце загрузіць свае фатаграфіі
+        з Instagram
+      turn_on_instagram: Уключыце Instagram
+      from_dropbox: Ад Dropbox
+      you_can_upload_your_photos_from_dropbox: Вы можаце загрузіць свае фатаграфіі
+        з Dropbox
+      turn_on_dropbox: Уключыце Dropbox
+    show:
+      photo_album: Фотаальбом
+      return_to_photo_albums: Для фотаальбомаў
+      edit_photo_album: Рэдагаваць фотоальбом
+    modal_form:
+      create_new_photo_album: Стварыць новы фотаальбом
+      close: Зачыніць
+      create: Стварыць
+  user_requests:
+    form:
+      content: Змест
+      edit: Рэдагаваць
+      create: Стварыць
+  notes:
+    index:
+      notes: Заўвагі
+      return_to_edit_profile: Для рэдагавання профілю
+      create_new: Стварыць новы
+      return_to_profile: Вярнуцца да профілі
+    note:
+      edit: Рэдагаваць
+      are_you_sure: Вы ўпэўненыя?
+      delete: Выдаліць
+    show:
+      note: Заўвага
+      return_to_notes: Зварот да нот
+      edit_note: Змяніць заметку
+    form_content:
+      content: Змест
+      edit: Рэдагаваць
+      create: Стварыць
+    edit:
+      edit_note: Змяніць заметку
+      return_to_notes: Зварот да нот
+  user_to_search_connections:
+    index:
+      requirements_lists: Патрабаванні спісы
+      return_to_editing_profile: Для рэдагавання профілю
+      create_new: Стварыць новы
+    user_to_search_connection:
+      edit: Рэдагаваць
+      are_you_sure: Вы ўпэўненыя?
+      delete: Выдаліць
+    edit:
+      edit_requirements_list: Рэдагаванне спісаў патрабаванняў
+      return_to_requirements_lists: Для спісаў патрабаванняў
+    form_content:
+      name: Імя
+      name_of_your_requirements_list: Назва вашага спісу патрабаванняў
+    form:
+      edit: Рэдагаваць
+    show:
+      return_to_requirements_lists: Для спісаў патрабаванняў
+  photos:
+    index:
+      photos: Фотаздымкі
+      return_to_photo_albums: Зварот да фотаальбомаў
+      return_to_profile: Для прафілявання
+  errors:
+    messages:
+      already_confirmed: ўжо было пацверджана, калі ласка, паспрабуйце ўвайсці ў
+      confirmation_period_expired: павінна быць пацверджана на працягу перыяду% {},
+        калі ласка, запытаеце новы
+      expired: скончыўся, калі ласка, запытаеце новы
+      not_found: не знойдзены
+      not_locked: ня быў заблякаваны
+      not_saved:
+        one: '1 памылка забаронены гэты% {рэсурс} з тых, што ратуюцца:'
+        other: "{лік} памылкі забароненую гэты% {рэсурс} з тых, што ратуюцца:"
+    bad_request:
+      bad_request: Bad Request
+      request_result: Запыт выніку
+      bad_request_description: Сервер не можа ці не будзе апрацоўваць запыт з-за відавочнай
+        памылкі кліента
+      go_to_root: Перайсці да кораня
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable Entity
+      request_result: Запыт выніку
+      unprocessable_entity_description: Гэтая просьба была добра ўтворана, але не
+        змог прытрымлівацца з-за семантычных памылак
+      go_to_root: Перайсці да кораня
+    not_found:
+      not_found: не знойдзены
+      request_result: Запыт выніку
+      not_found_description: запытаны рэсурс не можа быць знойдзены, але могуць быць
+        даступныя ў будучыні
+      go_to_root: Перайсці да кораня
+    forbidden:
+      forbidden: Забаронены
+      request_result: Запыт выніку
+      forbidden_description: Запыт меў сапраўдны запыт, але сэрвэр не адказваць на
+        яго
+      go_to_root: Перайсці да кораня
+    internal_server_error:
+      internal_server_error: Унутраная памылка сервера
+      request_result: Запыт выніку
+      internal_server_error_description: Што-то пайшло не так. Мы будзем гэта выправіць
+        як мага хутчэй.
+      go_to_root: Перайсці да кораня
+  pages:
+    privacy:
+      privacy: Flutylove Палітыка прыватнасці
+      general_provisions: Агульныя палажэнні
+      p_1_1: 1.1. Гэта Палажэнне з'яўляецца афіцыйным дакументам грамадства з абмежаванай
+        адказнасцю "Technoelegance", размешчанага па адрасе 101000, Масква, уланскія
+        завулак, дом 13, stroeniye 4, pomeshcheniye 1 (далей Flutylove, кампанія,
+        мы), і вызначае парадак апрацоўкі дадзеных і інфармацыйнай бяспекі асобы які
+        дасягнуў 18-гадовага ўзросту, і якія выкарыстоўваюць вэб-сайт https://flutylove.com
+        (далей сайт) і яго паслугі (далей Карыстальнікі).
+      p_1_2: 1.2. Мэтай гэтага Палажэння з'яўляецца забеспячэнне належнай абароны
+        інфармацыі карыстальніка, у тым ліку персанальных дадзеных ад несанкцыянаванага
+        доступу і раскрыцця.
+      p_1_3: 1.3. Адносіны, звязаныя са зборам, захоўваннем, размеркаваннем і бяспекі
+        інфармацыі карыстальнікаў вэб-сайта ў рэгулююцца гэтым Палажэннем, іншымі
+        афіцыйнымі дакументамі Таварыства і дзеючым заканадаўствам Расійскай Федэрацыі.
+      p_1_4: 1.4. Бягучая версія Палажэння, якія з'яўляюцца публічным дакументам,
+        даступны любому карыстальніку Інтэрнэту пры пераходзе па спасылцы http://flutylove.com/pages/privacy~~dobj.
+        Кампанія мае права ўносіць змены ў сапраўдныя Правілы. У выпадку ўнясення
+        змяненняў у Рэгламенце, Кампанія паведамляе карыстальнікаў шляхам размяшчэння
+        новай рэдакцыі Палажэння аб вэб-сайце па пастаянным адрасе http://flutylove.com/pages/privacy~~pobj,
+        не пазней, чым за 10 дзён да ўступлення ў сілу дата зменаў. Папярэднія версіі
+        Рэгламенту захоўваюцца ў архіве дакументацыі Таварыства.
+      p_1_5: 1.5. Гэтыя правілы былі распрацаваны і выкарыстоўваюцца ў адпаведнасці
+        з карыстацкай дамовай. У выпадку якіх-небудзь парушэнне паміж сапраўднымі
+        Правіламі і іншымі афіцыйнымі дакументамі Таварыства, гэтым Палажэннем павінна
+        быць прыведзена ў выкананне.
+      p_1_6: 1.6. Выкарыстоўваючы сайт, вы згаджаецеся з умовамі сапраўднай Палітыкі
+        прыватнасці. Калі ласка, уважліва прачытайце іх. Калі вы не згодныя з умовамі
+        сапраўднай Палітыкі прыватнасці, ці вы не дасягнулі ўзросту 18 гадоў, вы не
+        можаце выкарыстоўваць вэб-сайт і яго службы. З дапамогай вэб-сайта, незалежна
+        ад таго, ці з'яўляецеся вы зарэгістраваным карыстальнікам Flutylove ці не,
+        вы пацвярджаеце, што цалкам прыняць гэтую палітыку прыватнасці, і згаджаецеся
+        з тым, каб ісці за ім.
+      the_website_using_conditions: Вэб-сайта з выкарыстаннем умоў
+      p_2_1: '2.1. Для выкарыстання вэб-сайта Flutylove, вам неабходна зарэгістравацца.
+        Наступная інфармацыя павінна быць указана пры рэгістрацыі: імя, адрас электроннай
+        пошты, пол, дата нараджэння, інфармацыя пра месца. Карыстальнік можа даць
+        дадатковыя асабістыя дадзеныя па яго / яе ўласным жаданні. Карыстальнік можа
+        змяніць або абнавіць асабістую інфармацыю ў любы час. Кампанія мае права запытаць
+        дадатковыя пацвярджаюць дакументы ў выпадку змянення полу і даты нараджэння
+        карыстальніка.'
+      p_2_2: '2.2. Падаючы доступ да вэб-сайту і яго паслуг, кампанія, дзейнічаючы
+        разумным чынам і ў духу добрай волі, лічыць, што Карыстальнік: разумее, што
+        для рэгістрацыі на сайце неабходна быць старэйшыя за 18 гадоў; мае ўсе неабходныя
+        правы, каб мець магчымасць зарэгістравацца на гэтым сайце і выкарыстоўваць
+        яго; паказвае дакладную інфармацыю пра сябе / сябе ў адпаведнасці запыты на
+        выкарыстанне Паслуг Сайта; вядома, што персанальная інфармацыя на вэб-сайце,
+        прадстаўленая Карыстальнікам, могуць стаць даступнымі для іншых карыстальнікаў
+        вэб-сайта і інтэрнэт-карыстальнікаў, а таксама, можа быць скапіяваная і распаўсюджаная
+        іншымі карыстальнікамі; вядома, што некаторыя віды інфармацыі, якія перадаюцца
+        іншымі карыстальнікамі, не могуць быць выдаленыя карыстальнікам; азнаёмлены
+        з сапраўднымі Правіламі, згодны з імі і прымае на сябе названыя правы і абавязкі.'
+      p_2_3: 2.3. Кампанія не правярае дакладнасць атрыманай (сабраны) інфармацыю
+        пра карыстальнікаў, за выключэннем выпадкаў, калі такая праверка неабходная
+        для таго, каб выканаць абавязацельствы Кампаніі карыстальніку.
+      information_processing_objectives: апрацоўкі інфармацыйных мэтаў
+      p_3_1: 3.1. Кампанія ажыццяўляе апрацоўку інфармацыі пра карыстальнікаў, уключаючы
+        іх персанальныя дадзеныя, у мэтах выканання абавязацельстваў Таварыства карыстальнікам
+        для выкарыстання вэб-сайта і яго паслуг.
+      p_3_2: 3.2 Кампанія мае права ажыццяўляць апрацоўку персанальных дадзеных без
+        паведамлення аб гэтым кампетэнтны орган па абароне правоў суб'ектаў персанальных
+        дадзеных.
+      structure_of_the_user_information: Структура інфармацыі пра карыстальніка
+      p_4_1: '4.1. Асабістыя дадзеныя карыстальнікаў ўключае ў сябе:'
+      p_4_1_1: 4.1.1. імя, адрас электроннай пошты, пол, дату нараджэння, інфармацыю
+        пра месцазнаходжанне і нумар тэлефона, якія прадугледжаны карыстальнікамі
+        і павінна быць толькі дастаткова для рэгістрацыі на вэб-сайце;
+      p_4_1_2: 4.1.2. інфармацыя, якая прадастаўляецца Карыстальнікам (напрыклад,
+        фатаграфіі, інфармацыя аб шкодных звычак і г.д.);
+      p_4_1_3: 4.1.3. дадаткова прадастаўляецца Карыстальнікам у адпаведнасці з запытам
+        Таварыства ў мэтах выканання абавязацельстваў Кампаніі перад карыстальнікамі,
+        з'яўляючыся з карыстацкай дамовы. Кампанія мае права, у прыватнасці, для запыту
+        карыстальніка копія дакумента, які сведчыць асобу, або любых іншых дакументаў,
+        якія змяшчаюць імя, пол і дату нараджэння, а таксама іншую дадатковую інфармацыю,
+        якая, па меркаванні Кампаніі, будзе неабходна і дастаткова для ідэнтыфікацыі
+        такога карыстальніка і дазволіць ліквідаваць злоўжыванні і парушэнні правоў
+        трэціх асоб.
+      p_4_2: '4.2. апрацоўкі інфармацыі іншых карыстальнікаў Кампаніяй Адміністрацыя
+        сайта таксама апрацоўвае іншую інфармацыю пра карыстальнікаў, якая ўключае
+        ў сябе:'
+      p_4_2_1: 4.2.1. агульныя дадзеныя, аўтаматычна атрымлівае HTTP-серверам пры
+        доступе да вэб-сайта і наступныя дзеянні карыстача (IP-адрас хаста, тып аперацыйнай
+        сістэмы карыстальніка, старонкі сайта наведвае карыстальнік).
+      p_4_2_2: 4.2.2. інфармацыя, якая прымаецца аўтаматычна пры доступе да вэб-сайт
+        з дапамогай закладкі (печыва);
+      p_4_2_4: 4.2.4. інфармацыя, якая атрымана ў выніку дзеянняў іншых карыстальнікаў
+        на сайце.
+      p_5_1: '5.1. Апрацоўка персанальных дадзеных ажыццяўляе на аснове наступных
+        прынцыпаў: а) законныя мэты і сродкі апрацоўкі персанальных даных; б) сумленнасць;
+        в) адпаведнасць мэтаў апрацоўкі персанальных дадзеных з мэтай загадзя і аб''яўлена
+        пры зборы персанальных дадзеных, а таксама адпаведнасць паўнамоцтваў Таварыства;
+        d) адпаведнасць аб''ёму і тыпу апрацоўкі персанальных дадзеных, а таксама
+        адпаведнасць сродкаў апрацоўкі персанальных дадзеных з мэтай яго перапрацоўкі;
+        е) недапушчальнасць аб''яднання баз дадзеных, створаных для несумяшчальных
+        мэтаў, якія змяшчаюць персанальныя дадзеныя.'
+      p_5_1_1: 5.1.1. Збор персанальных дадзеных Карыстальніка ажыццяўляецца на вэб-сайце,
+        калі рэгістр, а таксама ў будучыні, калі карыстальнік дадае больш інфармацыі
+        пра сябе / сябе з дапамогай інструментаў вэб-сайта па яго / яе ўласнай ініцыятыве.
+      p_5_1_2: 5.1.2. Асабістыя дадзеныя карыстальнікаў захоўваюцца выключна ў электронным
+        фармаце і апрацоўваюцца з дапамогай аўтаматызаваных сістэм, за выключэннем
+        выпадкаў, калі ручная апрацоўка персанальных дадзеных неабходная ў мэтах задавальнення
+        патрабаванняў заканадаўства.
+      p_5_1_3: 5.1.3. персанальныя дадзеныя карыстача не перадаюцца трэцім асобам,
+        за выключэннем выпадкаў, прама прадугледжаных дадзенымі Правіламі і пагадненні
+        карыстальніка. Са згоды карыстальніка, асабістыя дадзеныя карыстальніка могуць
+        быць перададзены трэцім контрагентамі Таварыства пры ўмове дапушчэння абавязацельствы
+        па забеспячэнню канфідэнцыяльнасці атрыманай інфармацыі, у прыватнасці, пры
+        выкарыстанні сэрвісаў і прыкладанняў. персанальныя дадзеныя карыстальніка
+        вылучэнне рэсурсаў па патрабаванні дзяржаўных органаў (органаў мясцовага самакіравання)
+        ажыццяўляецца ў парадку, у адпаведнасці з патрабаваннямі закона.
+      p_5_1_4: '5.1.4. Персанальныя дадзеныя карыстальніка будуць выдаленыя ў наступных
+        выпадках: - дадзеныя самастойна выдаленыя са старонкі карыстальнікам; - Старонка
+        самастойна выдаленыя карыстальнікам; - Інфармацыя пра карыстальніка і яго
+        асабістая старонка выдаленыя Кампаніяй. У выпадку старонкі выдалення самім
+        карыстальнікам, кампанія захоўвае персанальныя дадзеныя карыстальніка на сваіх
+        электронных сродкаў масавай інфармацыі на працягу 210 дзён пасля таго, як
+        персанальная старонка будзе выдаленая. Асабістыя дадзеныя будуць выдаленыя
+        па заканчэнні 210 дзён пасля таго, як персанальная старонка будзе выдаленая.
+        Да заканчэння названага тэрміну, карыстальнік мае права аднавіць асабістую
+        старонку.'
+      users_rights_and_obligations: правы і абавязкі карыстальніка
+      p_6_1: '6.1. Карыстальнік мае права:'
+      p_6_1_1: 6.1.1. атрымаць доступ да інфармацыі пра яго / ёй без абмежаванняў
+        і бясплатна шляхам рэдагавання сваёй персанальнай старонкі на Сайце з выкарыстаннем
+        лагіна і пароля;
+      p_6_1_2: 6.1.2. незалежна адзін ад аднаго ўносіць змены і выпраўленні ў інфармацыю
+        аб персанальнай старонцы карыстальніка на сайце, пры ўмове, што такія змены
+        і выпраўленні ўтрымліваюць да актуальнай і дакладнай інфармацыі;
+      p_6_1_3: 6.1.3. выдаліць інфармацыю з персанальнай старонкі на Сайце;
+      p_6_1_4: 6.1.4. Па запыце Кампаніі атрымаць больш канкрэтную інфармацыю, блакаваць
+        або выдаляць персанальныя дадзеныя, калі такія дадзеныя з'яўляюцца няпоўнымі,
+        састарэлымі, недакладнымі, незаконна атрыманы або не з'яўляюцца неабходнымі
+        для заяўленай мэты апрацоўкі або калі дзеянні, названыя ў пункце 6.1.3 гэтых
+        правілы не могуць быць рэалізаваны незалежна адзін ад аднаго;
+      p_6_1_5: 6.1.5. на падставе запыту, атрымаць інфармацыю ад Кампаніі ў дачыненні
+        да апрацоўкі яго / яе персанальных дадзеных.
+      p_6_2: '6.2. Наступная інфармацыя пра любога зарэгістраванага карыстальніка
+        сайта заўсёды даступны для зарэгістраванага карыстальніка: імя карыстальніка,
+        пол, узрост, фатаграфію і іншую інфармацыю, калі карыстальнік адправіў яго.'
+      p_6_3: 6.3. Кампанія не нясе ніякай адказнасці за разгалашэнне персанальных
+        дадзеных Карыстальніка іншымі карыстальнікамі сайта, якія атрымалі доступ
+        такія дадзеныя.
+      p_6_4: 6.4. У выпадку персанальных дадзеных (іншы карыстацкай інфармацыі) выдаленне
+        з асабістай старонкі карыстальніка або выдаленне персанальнай старонкі карыстальніка
+        з вэб-сайта, інфармацыю карыстальніка капіююцца іншымі карыстальнікамі або
+        захоўваецца на старонках іншых Карыстальнікаў захоўваецца.
+      p_7_1: 7.1. Кампанія прымае тэхнічныя, арганізацыйныя і прававыя меры для забеспячэння
+        таго, каб асабістыя дадзеныя карыстальніка абаронены ад несанкцыянаванага
+        або выпадковага доступу, выдалення, змены, блакавання, капіявання і распаўсюджвання,
+        а таксама ад іншых несанкцыянаваных дзеянняў.
+      p_7_2: 7.2. Увайсці карыстальніка (адрас электроннай пошты або нумар мабільнага
+        тэлефона) і пароль выкарыстоўваюцца для доступу да Вэб-сайту. Карыстальнік
+        нясе адказнасць за захаванне канфідэнцыяльнасці гэтай інфармацыі. Карыстальнік
+        не можа перадаваць лагін і пароль трэцім асобам, і таксама абавязаны прыняць
+        меры па забеспячэнню яе прыватнасці.
+      limitation_of_the_regulations_applicability: Абмежаванне дастасавальнасці Правілаў
+      p_8: Сапраўдныя Правілы не распаўсюджваюцца на дзеянні і інтэрнэт-рэсурсы трэціх
+        асоб. Кампанія не нясе ніякай адказнасці за дзеянні трэціх асоб, якія атрымалі
+        доступ да інфармацыі карыстальніка праз Інтэрнэт або Паслуг вэб-сайта. Адміністрацыя
+        сайта рэкамендуе карыстачам падыходзіць да пытання з колькасцю інфармацыі,
+        размешчанай на вэб-сайце адказным чынам.
+      user_requests: запыты карыстальнікаў
+      p_9_1: '9.1. Карыстальнікі маюць права пасылаць запыты Кампаніі уключаючы запыты
+        адносна выкарыстання персанальных дадзеных у пісьмовым выглядзе па наступным
+        адрасе: Расія, 101000, Масква, уланскія завулак, дом 13, stroeniye 4, pomeshcheniye
+        1 або ў форме электроннага дакумента падпісаны кваліфікаванай электроннай
+        подпісам у адпаведнасці з заканадаўствам Расійскай Федэрацыі, на электронны
+        адрас: support@flutylove.com~~HEAD=pobj.'
+      p_9_2: '9.2. Запыт карыстальніка павінен змяшчаць наступную інфармацыю: нумар
+        дакумента, які сведчыць асобу карыстальніка ці яго прадстаўніка; дата выдачы
+        названага дакумента і органа, які выдаў дакумент; звесткі, якія пацвярджаюць
+        удзел карыстальніка ў адносінах з аператарам (у прыватнасці, спасылка на старонку);
+        подпіс карыстальніка ці яго / яе прадстаўнік.'
+      p_9_3: 9.3. Кампанія абавязуецца разгледзець і адказаць на запыт карыстальніка
+        на працягу 30 дзён пасля таго, як яно было атрымана.
+      p_9_4: 9.4. Уся карэспандэнцыя, атрыманая Таварыствам ад карыстальнікаў (пісьмовыя
+        ці электронныя запыты) класіфікуецца як інфармацыя з абмежаваным доступам
+        і не можа быць раскрытая без пісьмовай згоды карыстальніка. Персанальныя дадзеныя
+        і іншую інфармацыю пра карыстальніка, адправіць запыт не можа быць выкарыстаны
+        без спецыяльнага згоды карыстальніка, інакш, чым для адказу на запыт або ў
+        выпадках, прама прадугледжаных дзеючым заканадаўствам.
+    terms:
+      terms: Flutylove КАРЫСТАЛЬНІКА пагадненне
+      welcome: Сардэчна запрашаем у Flutylove!
+      about_terms: 'Гэтыя ўмовы выкарыстання (а таксама дакументы, згаданыя ў гэтым
+        дакуменце, у тым ліку Палітыка прыватнасці) з''яўляюцца дагавора далучэння
+        ў адпаведнасці з артыкулам 428 Грамадзянскага кодэкса Расійскай Федэрацыі
+        (далей па тэксце «Пагадненне») паміж чалавек, які дасягнуў 18-гадовага ўзросту
+        (далей "Карыстальнік" і Кампаніяй (ці «Мы») - гэта таварыства з абмежаванай
+        адказнасцю "Technoelegance" (ТАА "Technoelegance") (юрыдычны адрас: 101000,
+        г. Масква, уланскія завулак 13, stroeniye 4, pomeshcheniye 1), далей Flutylove,
+        у адпаведнасці з якім вы можаце выкарыстаць гэты сайт і ўсе звязаныя з ім
+        паслугі, якія прадстаўляюцца праз вэб-сайт або прыкладання (звычайна называюць,
+        як «паслугі»). вэб-сайт разумеецца любы з яе версіі, аб''яднаныя пад назвай
+        дамену flutylove.com і працуе для розных прылад, у тым ліку вэб-версіі, мабільных
+        прыкладанняў і прыкладанняў для сацыяльных сетак.Выкарыстоўваючы гэты сайт,
+        вы згаджаецеся з умовамі пагаднення і Палітыкай прыватнасці. Калі ласка, уважліва
+        прачытайце іх. Калі вы не згодныя з умовамі пагаднення і Палітыкай прыватнасці,
+        ці вы не дасягнулі ўзросту 18 гадоў, вы не можаце выкарыстоўваць вэб-сайт
+        і яго службы.З дапамогай вэб-сайта, незалежна вы з''яўляецеся зарэгістраваным
+        карыстальнікам Flutylove ці не, Вы цалкам згодныя з гэтым Пагадненнем і Палітыкай
+        прыватнасці, якая ўключана ў гэтым Пагадненні па спасылцы і даступная на вэб-сайце,
+        і выконваць яго.Па жаданні карыстальніка, Кампанія абавязваецца падпісаць
+        дадзенае Пагадненне ў друкаваным выглядзе і адправіць яго асобы, якая запрошвае
+        дакументы.Кампанія пакідае за сабой права ўносіць змены ў карыстацкую пагадненне
+        і любы дакумент, перададзены ёй. Для таго, каб быць у курсе змяненняў, якія
+        неабходна трымаць уверх актуальнай інфармацыі пра такія змены на рэгулярнай
+        аснове. Мы паведамім Вам пра змены, якія мы зрабілі на гэтай старонцы ніжэй.
+        Змены не датычацца назад і ўступіць у сілу на працягу дзесяці дзён з дня публікацыі.
+        Тым не менш, у выпадку, калі яны звязаны з укараненнем новых паслуг або ўнясення
+        змяненняў у заканадаўства, яно будзе прымяняцца неадкладна. Калі вы не згодныя
+        са зменамі ў Пагадненнi, вы павінны спыніць выкарыстанне вэб-сайта і яго прыкладанняў.'
+      consent_to_accept_the_terms_of_user_agreement: 1. ЗГОДУ ПРЫНЯЦЬ ўмовы пагаднення
+        з карыстальнікам.
+      p_1: а. Электроннае пагадненне. Гэта Пагадненне ўяўляе сабой электронную версію
+        дамовы, які апісвае ўмовы выкарыстання вэб-сайта і Паслуг. Зайшоўшы на вэб-сайт
+        або стаць Карыстальнікам, вы прымаеце дадзенае Пагадненне і згодныя з усімі
+        ўмовамі, палажэннямі і апавяшчэнняў, якія ўтрымліваюцца або згадваных там.
+        Вы пацвярджаеце і згаджаецеся з тым, што карыстальнікі Flutylove могуць быць
+        часткай інтэрнэт-супольнасці, якая ўключае ў сябе іншыя вэб-сайты, якія належаць
+        кампаніі або яе філіялаў. Такім чынам, профілі на вэб-сайце можна паглядзець
+        на іншых падобных вэб-сайтаў і платных падпісчыкаў з аднаго сайта могуць мець
+        зносіны з іншымі платных падпісчыкаў з усіх сайтаў. б. Электронная форма.
+        Зайшоўшы на вэб-сайт або становіцца карыстальнік, вы згаджаецеся прадаставіць
+        вам з электронным Пагадненнем. гр. Папяровай форме. Вы маеце права на атрыманне
+        цвёрдай копіі гэтага Пагаднення. Вы можаце запытаць друкаваным выданні гэтага
+        Пагаднення да або пасля таго, як ён будзе падпісаны ў электронным выглядзе.
+        Калі ласка, звяжыцеся з нашым Аддзел абслугоўвання кліентаў для атрымання
+        дадатковай інфармацыі. d. Доступ і загрузка. Для таго, каб атрымаць доступ
+        і спампаваць гэты электронны дагавор, вы павінны мець доступ да Інтэрнэту
+        або непасрэдна праз прылады з доступам да вэб-рэсурсаў. Вы павінны мець неабходнае
+        абсталяванне для падлучэння да Інтэрнэту, а менавіта кампутар, мадэм ці іншую
+        прыладу доступу. Калі ласка, раздрукаваць копію гэтага Пагаднення і трымаць
+        яго. Каб спампаваць электронную форму пагаднення, захаваць яго на кампутары,
+        пры дапамозе любога тэкставага рэдактара.
+      the_right_of_using_the_website: 2. Права выкарыстання сайта.
+      p_2: Вы павінны быць не менш васемнаццаці (18) гадоў, каб стаць зарэгістраваным
+        карыстальнікам гэтага сайта. У выпадку невыканання патрабаванняў, доступ да
+        вэб-сайта будзе адмоўлена. Выкарыстанне вэб-сайта, карыстальнік павінен ведаць,
+        што асабістая інфармацыя, размешчаная на вэб-сайце могуць быць даступныя для
+        іншых карыстальнікаў Інтэрнэту, і кампанія не нясе адказнасці за свае дзеянні.
+        З дапамогай гэтага сайта вы сцвярджаеце і гарантуеце, што ў вас ёсць права,
+        паўнамоцтвы і магчымасці для заключэння гэтага Дагавора, а таксама згода выконваць
+        усе яго ўмовы. Стаць Карыстальнікам вы сцвярджаеце і гарантуеце, што вы ніколі
+        не пакутавалі перакананасць у здзяйсненні крымінальнага злачынства, звязаныя
+        з сэксуальным гвалтам. Сайт прызначаны толькі для асабістага выкарыстання.
+        Забараняецца выкарыстоўваць Сайт для якіх-небудзь камерцыйных мэтах. Юрыдычныя
+        асобы не могуць быць карыстальнікамі гэтага вэб-сайта, а таксама не можа выкарыстоўваць
+        гэтую службу або вэб-сайт на сваіх мэтах. Незаконнае і / або несанкцыянаванага
+        выкарыстання вэб-сайта, уключаючы збор імёнаў карыстальнікаў і / або адрасы
+        электроннай пошты дапамогай электронных ці іншых сродкаў з мэтай адпраўкі
+        непажаданых паведамленняў і спасылак перасьледуецца і Кампанія можа прыняць
+        адпаведныя меры ў адпаведнасці з законам, у тым ліку зварот да праваахоўных
+        органаў.
+      pricing_and_registration: 3. цэнаўтварэння і РЭГІСТРАЦЫЯ
+      p_3: Вы ў стане стаць карыстальнікам Flutylove на дабрахотнае і бязвыплатнай
+        аснове шляхам рэгістрацыі на Сайце. Як карыстальнік, вы можаце выкарыстоўваць
+        пэўны дыяпазон паслуг і магчымасцяў сайта. Карыстальнік Сайта з'яўляецца фізічная
+        асоба зарэгістраванае на Сайце ў адпаведнасці з устаноўленым парадкам і, якія
+        дасягнулі 18-гадовага ўзросту. Пры рэгістрацыі на Сайце Карыстальнік абавязаны
+        прадаставіць неабходную і актуальную інфармацыю для кампаніі, каб завяршыць
+        старонку карыстальніка, уключаючы лагін (адрас электроннай пошты або нумар
+        тэлефона) і пароль для доступу да Вэб-сайту, а таксама імя, якое з'яўляюцца
+        ўнікальнымі для кожнага карыстальніка. Форма для рэгістрацыі можа запытаць
+        дадатковую інфармацыю ад карыстальніка. Карыстальнік нясе адказнасць за дакладнасць,
+        актуальнасць, паўнату і адпаведнасць з Законам Расійскай Федэрацыі інфармацыі,
+        прадстаўленай пры рэгістрацыі, і яго выразнасцю ад прэтэнзій трэціх асоб.
+        Пры рэгістрацыі Карыстальнік згодны з гэтым Пагадненнем і ажыццяўляць названыя
+        правы і абавязкі, звязаныя з выкарыстаннем і функцыянаваннем Сайта. Карыстальнік
+        атрымлівае поўны доступ да з дапамогай функцый вэб-сайта. Кампанія бярэ на
+        сябе правы і абавязкі перад Карыстальнікам, названымі ў гэтых Правілах, пасля
+        паспяховай рэгістрацыі Карыстальніка на Сайце апрацоўка персанальных дадзеных
+        Карыстальніка ажыццяўляецца ў адпаведнасці Закон Расійскай Федэрацыі. Адміністрацыя
+        сайта апрацоўвае персанальныя дадзеныя Карыстальніка ў мэтах прадастаўлення
+        Карыстачу доступу да выкарыстання функцый вэб-сайта, у тым ліку атрымліваць
+        персаналізаваныя (мэтавай) рэкламы; праверка, даследаванне і аналіз гэтых
+        дадзеных, якія дазваляюць падтрымліваць і паляпшаць функцыі і раздзелы вэб-сайта,
+        а таксама распрацоўваць новыя функцыі і раздзелы. Кампанія прадпрымае ўсе
+        неабходныя дзеянні для абароны персанальных дадзеных Карыстальніка ад несанкцыянаванага
+        доступу, змены, раскрыцця або пры спробе ачысціць. Кампанія прадастаўляе доступ
+        да персанальных дадзеных Карыстальніка толькі тым работнікам, падрадчыкаў
+        і агентам Кампаніі, якія маюць патрэбу ў гэтай інфармацыі для таго, каб падтрымліваць
+        функцыянальныя магчымасці вэб-сайта і даць карыстальніку доступ да яго выкарыстання.
+        Кампанія Вэб-сайта мае права выкарыстоўваць інфармацыю, прадстаўленую Карыстальнікам,
+        у тым ліку персанальныя дадзеныя, у мэтах забеспячэння захавання патрабаванняў
+        дзеючага заканадаўства Расійскай Федэрацыі (у тым ліку папярэджання і / або
+        стрымання незаконных і / або незаконным дзеянні карыстальнікаў). Раскрыццё
+        інфармацыі, прадстаўленай Карыстальнікам можа ажыццяўляцца толькі ў адпаведнасці
+        з дзеючым заканадаўствам Расійскай Федэрацыі па патрабаванню суда, праваахоўных
+        органаў, а таксама ў іншых выпадках, прадугледжаных дзеючым заканадаўствам
+        Расійскай Федэрацыі. У той ступені, у якой Кампанія апрацоўвае персанальныя
+        дадзеныя Карыстальніка для выканання гэтых Правіл, згоду карыстальніка на
+        апрацоўку персанальных дадзеных не патрабуецца ў сілу палажэнняў закона аб
+        персанальных дадзеных. Лагін і пароль, выбраны карыстальнікам, неабходнай
+        і дастатковай інфармацыяй для доступу да вэб-сайту. Карыстальнік мае права
+        даць яго / яе лагін і пароль трэцім асобам, і абсалютна адказвае за яго бяспеку,
+        выбіраючы спосаб іх захоўвання на незалежнай аснове. Выкарыстоўваючы яго /
+        яе апаратнага і праграмнага забеспячэння элемент можа дазволіць захоўванне
+        лагіна і пароля (праз печыва) для наступнай аўтаматычнай аўтарызацыі на Сайце.
+        Любыя дзеянні, якія робяцца з выкарыстаннем імя карыстальніка і пароля карыстальніка
+        лічацца дасканалыя Карыстальнікам, калі не даказана адваротнае Карыстальнікам.
+        Карыстальнік абавязаны неадкладна паведаміць аб гэтым Кампанію ў адпаведнасці
+        з усталяванай працэдурай у выпадку несанкцыянаванага доступу да імя карыстальніка
+        і пароля і / або на старонцы ўліковага запісу або выдавання лагіна і пароля.
+        Пасля рэгістрацыі Карыстальнік атрымлівае права ствараць, выкарыстоўваць і
+        вызначаць змест яго / яе ўласных персанальных старонак на своекорыстных і
+        некамерцыйных мэтах, а таксама атрымаць магчымасць доступу і размяшчаць інфармацыю
+        аб персанальных старонках іншых Карыстальнікаў , Карыстальнік як уладальнік
+        інфармацыі, размешчанай на персанальнай старонцы вядома, што за выключэннем
+        выпадкаў, устаноўленых дадзенымі Правіламі і дзейным заканадаўствам Расійскай
+        Федэрацыі, Грамадства не ўдзельнічае ў распрацоўцы і выкарыстанні ўтрымання
+        і не кантралюе доступ да старонкі карыстача ад іншых карыстальнікаў.
+      terms_4: 4. УМОВЫ.
+      p_4: Гэта Пагадненне цалкам застаецца ў сіле да той пары, як вы выкарыстоўваеце
+        вэб-сайт. Вы можаце перастаць быць Карыстальніка Сайта шляхам выдалення старонкі
+        ў любы час, па любой прычыне, звярнуўшыся ў наш сэрвіс онлайн-кліентаў або
+        з дапамогай службы вэб-сайта. Кампанія пакідае за сабой права выдаляць вашу
+        асабістую старонку ў любы час. Мы не абавязаныя апавяшчаць перад выдаленнем
+        старонкі, калі кампанія мае падставы меркаваць, што вы парушылі ўмовы пагаднення.
+        Мы не абавязаныя раскрываць прычыну выдалення Вашай ўліковага запісу; у некаторых
+        выпадках раскрыццё такой інфармацыі можа быць забаронена. Пасля выдалення
+        Вашай старонкі, усе ўмовы, якія могуць быць сапраўднымі пасля спынення дзеяння
+        гэтага Пагаднення па сваёй прыродзе будзе ў сіле пасля такога спынення. Калі
+        выдаліць сваю старонку з дапамогай вэб-сайта ў вашай ўласнай волі, мы можам
+        папрасіць вас паказаць прычыну такога выдалення.
+      account_security: 5. КОШТ БЯСПЕКІ.
+      p_5: Вы несяце адказнасць за захаванне канфідэнцыяльнасці вашага імя карыстальніка
+        і пароля, які будзе ўсталяваны ў момант рэгістрацыі. Акрамя таго, вы абсалютна
+        адказныя за ўсе дзеянні, якія адбываюцца пад вашым імем карыстальніка і паролем.
+        Вы згаджаецеся (а) неадкладна паведаміць нас аб любым несанкцыянаваным выкарыстанні
+        Вашага лагіна і пароля, а таксама любое іншае парушэнне бяспекі, і (б) выхад
+        з вашай ўліковага запісу ў канцы кожнай сесіі. Сайт не нясе адказнасці за
+        любы шкоду або страты, якія ўзнікаюць з прычыны невыканання дадзенага становішча.
+        Вы павінны быць асабліва асцярожныя пры доступе да вашай ўліковага запісу
+        з дапамогай агульнадаступнага кампутара для таго, каб староннія асобы не маглі
+        шпіёніць або запісваць пароль або любую іншую асабістую інфармацыю. Таксама
+        вы нам абяцаеце і згаджаецеся з тым, што Інтэрнэт ніколі не быў цалкам прыватнай
+        і бяспечнай. Вы разумееце, што любыя паведамленні або інфармацыя, якую вы
+        размяшчае на Сайце, могуць быць прачытаныя або выкарыстоўвацца іншымі карыстальнікамі,
+        нават калі ёсць спецыяльнае папярэджанне аб тым, што інфармацыя будзе схаваная.
+      your_interaction_with_other_users_of_the_website: 6. Ваша ўзаемадзеянне з іншымі
+        карыстальнікамі сайта.
+      p_6: а. ВЫ ПОЎНУЮ АДКАЗНАСЦЬ ЗА СВОЙ ўзаемадзеяння з іншымі карыстальнікамі.
+        Вы павінны разумець, ШТО КАМПАНІЯ НЕ правяраць на СВАІХ КАРЫСТАЛЬНІКАЎ Ці
+        яны судзімасцю. Кампанія таксама не запытвае інфармацыю пра мінулае сваіх
+        карыстальнікаў і не правярае гэтую інфармацыю. КАМПАНІЯ НЕ ДАЕ НІЯКІХ ГАРАНТЫЙ
+        У ДАЧЫНЕННІ паводзін КАРЫСТАЛЬНІКА І іх сумяшчальнасць фактычнай або будучых
+        карыстальнікаў. АДНАЧАСОВА КАМПАНІЯ пакідае за сабой права VERIFY КАРЫСТАЛЬНІКАЎ
+        ДЛЯ ЗАПІСУ АБО КРЫМІНАЛЬНАГА Праводзяць іншыя праверачныя метатега У ЛЮБОЕ
+        ЧАС З выкарыстаннем наяўных публічнай інфармацыі. б. НІ Ў ЯКІМ ВЫПАДКУ КАМПАНІЯ
+        НЕ нясе АДКАЗНАСЬЦІ ЗА Шкода ЦІ ЯНЫ ПРАМЫЯ, АГУЛЬНЫЯ ЗВЕСТКІ АБО МАЕ Спецыфічны
+        характар, компенсаторная, І / АБО ВЫПАДКОВЫЯ, атрыманай вамі АБО ІНШЫМІ АСОБАМ
+        У ВЫНІКУ ВЫКАРЫСТАННЯ ВЭБ-САЙТА, ​​УКЛЮЧАЮЧЫ, АЛЕ НЕ АБМЯЖОЎВАЮЧЫСЯ, пашкоджанне,
+        СТРЭС І / ці іншай Шкода, атрыманай вамі ЯК ВЫНІК СУВЯЗІ аБО СУСТРЭЧ з іншымі
+        зарэгістраванымі карыстальнікамі вэб-сайта або народ, што вы маеце справу
+        з на сайце. Вы згаджаецеся прыняць усе магчымыя меры засцярогі пры зносінах
+        з іншымі карыстальнікамі, асабліва ў тых выпадках, калі вы вырашылі сустрэцца
+        з імі ў рэальным жыцці. Вы павінны ведаць, што кампанія не дае дэклараваліся
+        або разумеліся ГАРАНТЫЙ АДНОСНА сумяшчальных з карыстальнікамі гэтага сайта.
+        ВЫ НЕ ПАВІННЫ ДАЦЬ фінансавай інфармацыі для іншых карыстальнікаў вэб-сайта
+        (напрыклад, інфармацыя аб вашай крэдытнай або пластыкавых картках). гр. Служба
+        можа перавесці сваё імя або назва вашага горада на іншыя мовы; d. Сэрвіс не
+        нясе адказнасці за дзеянні, пералічаныя ў гэтым артыкуле. У выпадку, калі
+        вы не згодныя з імі цалкам або часткова, калі ласка, неадкладна пакінуць сайт;
+      the_information_posted_by_you_on_flutylove: 7. Інфармацыя, размешчаная вамі
+        на FLUTYLOVE
+      p_7: а. Вы несяце поўную адказнасць за інфармацыю, якую вы публікуеце ці прадэманстраваць
+        (у далейшым "пост") на службе або перадаць іншым карыстальнікам. Вам не дазволена
+        размяшчаць на службе або перадаваць іншым карыстальнікам любую інфармацыю
+        аб дыскрэдытуе, недакладным, абразлівых, непрыстойных, вульгарных і агрэсіўнага
+        ўтрымання, інфармацыю пра сэксуальнае змесце, а таксама пагрозлівы або высочвае
+        інфармацыю, інфармацыю аб расавай дыскрымінацыі прыроды або незаконнай інфармацыі,
+        або любую іншую інфармацыю, якая парушае або парушаць правы любой іншай боку
+        (у тым ліку, без абмежавання, правы на інтэлектуальную ўласнасць, права на
+        асабістае жыццё і галоснасьць). Вам не дазволена прадастаўляць няпэўную, якая
+        ўводзіць у зман ці ілжывую інфармацыю Кампаніі або любога іншага карыстальніка.
+        Калі інфармацыя, прадстаўленая кампаніі Flutylove або іншы карыстальнік пасля
+        становіцца недакладнай, недакладнай фальшывага, вы павінны неадкладна паведаміць
+        кампаніі Flutylove такога змены. Вы ўяўляеце і гарантуеце, што ўся інфармацыя,
+        прадстаўленая пры рэгістрацыі, з'яўляецца дакладнай і дакладна, і вы адразу
+        ж змяніць любую інфармацыю, якая ў далейшым становіцца недакладным, ўводзяць
+        у зман або ілжывым. б. Вы разумееце і згаджаецеся з тым, што мы пакідаем за
+        сабой права, але не абавязаны кантраляваць інфармацыю або кантэнт, які перадаецца
+        ў службу або размешчаную ў публічным доступе на службе. У нас ёсць права выдаляць
+        любой такой інфармацыі або кантэнту без тлумачэння прычын і паведамлення.
+        гр. Ўсе аб'екты, прадстаўленыя на Сайце, у тым ліку элементы дызайну, тэкст,
+        графічныя выявы, ілюстрацыі, відэа, скрыпты, праграмы, музыка, гукі і іншыя
+        аб'екты і іх бібліятэк (далей - інфармацыя), з'яўляюцца ўласнасцю выключных
+        правоў Таварыства, карыстальнікі вэб-сайт і іншыя трымальнікі правоў, усе
+        правы на гэтыя аб'екты абаронены. d. За выключэннем выпадкаў, устаноўленых
+        у адпаведнасці з гэтым Пагадненнем, а таксама дзеючым заканадаўствам Расійскай
+        Федэрацыі, ніякай інфармацыі не можа быць скапіяваны (прайграны), перапрацаваны,
+        распаўсюджаны, адлюстраваны ў фрэйме, апублікаваны, запампаваны, перададзены,
+        прададзены ці выкарыстаны іншымі спосабамі ў цалкам або ў кавалках без папярэдняга
+        дазволу ўладальніка, калі праваўладальнік відавочна не выказаў сваю згоду
+        на свабоднае выкарыстанне інфармацыі любой асобай. е. Размяшчаючы Інфармацыю
+        на Сайце, законна належыць Карыстачу, Карыстальнік падае доступ для іншых
+        карыстальнікаў для не вылучнае права на выкарыстанне яго прагляду, прайгравання
+        (у тым ліку капіявання) і іншых правоў выключна ў мэтах асабістага некамерцыйнага
+        выкарыстання, калі выпадкаў, калі такое выкарыстанне не прычыняе ці можа прычыніць
+        шкоду інтарэсам праваўладальніка ахоўваецца законам. е. Выкарыстанне інфармацыі
+        Карыстальнікам, які доступ быў атрыманы выключна для асабістага некамерцыйнага
+        карыстання, дазваляецца пры ўмове, што ўсе прыкметы аўтарства (аўтарскія правы)
+        або іншыя апавяшчэння аўтарства будуць захаваны, імя аўтара і яго творы застанецца
+        без змен. г. Карыстальнік таксама забяспечвае Кампаніі невыключных правоў
+        на выкарыстанне інфармацыі, размешчанай на вэб-сайце і належыць яму / ёй на
+        законных падставах без разгляду ў мэтах забеспячэння функцыянавання вэб-сайце
+        Таварыства ў рамках выканання архітэктуры і функцыянальнасці вэб-сайт. Вылучнае
+        права, згаданае вышэй прадастаўляецца для размяшчэння кантэнту на сайце і
+        ахоплівае тэрыторыю краін ва ўсім свеце. Кампанія мае права на перадачу правоў,
+        названых гэтым пунктам трэцім асобам. Карыстальнік згаджаецца з тым, што Кампанія
+        мае права выкарыстоўваць функцыянальныя і тэхнічныя магчымасці дадзенага вэб-сайта,
+        забяспечваючы адлюстраванне сумеснага выкарыстання кантэнту Карыстальнікам,
+        у тым ліку ў мэтах адлюстравання рэкламнай інфармацыі. прывітанне. У выпадку,
+        калі карыстальнік выдаляе інфармацыю з вэб-сайта, не вылучнае права будзе
+        аўтаматычна скасаваны, але з-за тэхнічных характарыстык вэб-сайта Кампанія
+        пакідае за сабой права захоўваць рэзервовыя копіі інфармацыі ў патрэбны час
+        і ў выпадку неабходнасці. я. Акрамя асабістай інфармацыі, Карыстальнік не
+        мае права загружаць або раскрыць па-рознаму (шляхам публікацыі на вэб-сайце)
+        інфармацыю пра іншых сайтаў, баз даных і іншых аб'ектаў інтэлектуальнай уласнасці
+        ў адсутнасць відавочнага выяўленага згоды на такія дзеянні з аўтарскімі правамі
+        ўладальнік. J. Калі іншае не ўказана ў гэтых Правілах, нічога ў гэтых Правілах
+        не можа разглядацца як перадача выключных правоў на інфармацыю. к. Уся інфармацыя,
+        якую вы публікуеце ў вашым профілі карыстальніка, павінна быць дакладнай,
+        актуальнай і поўнай. Карыстальнік нясе абсалютна поўную адказнасць за любую
+        інфармацыю, якая была загружаны або раскрытая па-іншаму (адправіў) на вэб-сайце
+        або з дапамогай карыстальніка. Карыстальнік не мае права загружаць, перадаваць
+        або публікаваць Кантэнт на Сайце, калі ён / яна не мае адпаведныя правы рабіць
+        такія захады, набытую цi дэлегаваныя яму / ёй у адпаведнасці з заканадаўствам
+        Расійскай Федэрацыі. Кампанія ў стане, але не абавязаны, праглядаць вэб-сайт
+        для любога нелегальнага кантэнту і дазваляецца выдаляць або перамяшчаць (без
+        папярэджання) любой Кантэнт або карыстальнікаў па сваім меркаванні, па любой
+        прычыне або без прычыны, уключаючы без абмежаванняў для перамяшчэння, або
+        выдаліць інфармацыю, якая, па індывідуальным думку Таварыства парушае дадзенае
+        Пагадненне, заканадаўства Расійскай Федэрацыі і / або можа парушаць правы,
+        шкодзіць, або пагражаць бяспекі іншых карыстальнікаў ці трэціх асоб. Сайт
+        змяшчае (ці можа ўтрымліваць) спасылкі на іншыя сайты ў сетцы Інтэрнэт (сайты
+        трэціх асоб), а таксама артыкулы, фатаграфіі, ілюстрацыі, графічныя выявы,
+        музыку, гук, відэа, інфармацыю, прыкладання, праграмнае забеспячэнне і іншую
+        інфармацыю, якая належыць або прыходзячы ад трэціх бакоў (ад трэціх бакоў),
+        што з'яўляецца вынікам інтэлектуальнай дзейнасці і ахоўных у адпаведнасці
+        з заканадаўствам Расійскай Федэрацыі. Гэтыя трэція асобы і іх інфармацыя не
+        правяраюцца Кампаніяй на адпаведнасць з гэтым ці іншым патрабаванням (дакладнасці,
+        паўнаты, добрасумленнасці і да т.п.). Кампанія не нясе адказнасці за любую
+        інфармацыю, размешчаную на сайтах трэціх асоб, да якіх Карыстальнік атрымлівае
+        доступ праз вэб-сайт або праз інфармацыю трэціх бакоў, у тым ліку, але не
+        абмяжоўваючыся гэтым, любыя думкі або сцвярджэнні, выяўленыя на сайтах трэціх
+        асоб або у іх інфармацыі. Спасылка на любы сайт, прадукт, і абслугоўванне,
+        любая інфармацыя камерцыйнага і некамерцыйнага характару, размешчаная на гэтым
+        вэб-сайце не з'яўляецца адабрэнне або рэкамендацыя для гэтых прадуктаў (паслуг)
+        ад кампаніі. Калі карыстальнік вырашае пакінуць Сайт і перайсці да сайтаў
+        трэціх асоб або выкарыстоўваць або ўсталяваць праграмнае забеспячэнне іншых
+        распрацоўнікаў, ён / яна робіць гэта на свой страх і рызыка і з гэтага моманту
+        дадзеныя Правілы больш не прымяняюцца да карыстача. Далейшыя дзеянні карыстальніка
+        кіруюцца дзеючымі правіламі і палітыкай, у тым ліку бізнес-практыкі тых асоб,
+        чые інфармацыі, якую ён / яна збіраецца выкарыстоўваць.
+      p_8: а. Забаронена "ўважліва сачыць на" або турбаваць любога чалавека іншым
+        спосабам. б. Забаронена выкарыстоўваць ботаў, вірусы, прыкладання для пошуку
+        / здабывання сайтаў, або іншыя ручныя або аўтаматычныя прылады або працэсы
+        для здабывання, індэкс, "шпіянаж" або прайграваць іншым спосабам або абыходзіць
+        навігацыйную структуру і адлюстраванне службы або яго ўтрымання , гр. Забаронена
+        размяшчаць, распаўсюджваць або прайграваць Everyway любы абаронены аўтарскім
+        правам інфармацыю, гандлёвыя маркі або іншую інфармацыю, абароненую аўтарскім
+        правам, без папярэдняй згоды ўладальніка аўтарскіх правоў. d. Забараняецца
+        выдаляць любыя аўтарскія правы, гандлёвыя маркі або іншыя апавяшчэння аб аўтарскіх
+        правах, якія змяшчаюцца на службе. е. Забараняецца ўмешвацца або парушаць
+        працу службы і вэб-сайта або паслуг і сетак, звязаных з Паслугамі або вэб-сайта.
+        е. Забаронена публікаваць, па электроннай пошце або перадаваць іх па-рознаму
+        любую інфармацыю, якая ўтрымлівае вірусы ці іншыя кампутарныя коды, файлы
+        або праграмы, прызначаныя для ўмяшання, знішчэння або абмежавання функцыянальнасці
+        любога камп'ютэрнага праграмнага забеспячэння, апаратнага забеспячэння або
+        тэлекамунікацыйнага абсталявання. г. Забараняецца падрабляць загалоўкі або
+        маніпуляваць пазначэнне з мэтай маскіроўкі рэальнага сэнсу любой інфармацыі,
+        якой абменьваюцца праз Службу. гадзіну Забаронена "Кузня" ці "копія" якую-небудзь
+        частка паслуг або вэб-сайта без папярэдняга пісьмовага дазволу ад Flutylove.
+        Акрамя таго, вы не можаце выкарыстоўваць любыя мета-тэгі ці код, або іншыя
+        прылады, якія змяшчаюць любыя спасылкі на Flutylove, Службы або вэб-сайт для
+        таго, каб перанакіраваць любую асобу на іншы сайт для любых мэт. я. Забараняецца
+        змяняць, адаптаваць, сублицензировать, перакладаць, прадаваць, рэарганізоўваць,
+        расшыфраваць, дэкампіляваць або разбіраць якую-небудзь частка паслуг або вэб-сайта
+        або любога праграмнага забеспячэння, якое выкарыстоўваецца на вэб-сайце або
+        для яго, а таксама заклікае іншых прыняць аналагічныя меры , J. Забаронена
+        размяшчаць інфармацыю парнаграфічнага і / або эратычнага ўтрымання.
+      the_changes_in_the_service: 9. Змены ў прадастаўленні сэрвісу.
+      p_9: Flutylove пакідае за сабой права ў любы час змяніць або адключыць часова
+        або пастаянна Паслугу (або любую яго частка) без папярэдняга паведамлення.
+        Вы згодны з тым, што Flutylove не нясе адказнасці перад вамі ці любымі трэцімі
+        асобамі за любыя змены, часовае наяўнасць або поўнага адключэння службы.
+      ip_address_blocking: 10. IP-АДРАС блякаваньне.
+      relations_between_users_online: 11. АДНОСІНЫ ПАМІЖ КАРЫСТАЛЬНІКАЎ ОНЛАЙН
+      p_11: Вы несяце поўную адказнасць за вашыя ўзаемадзеяння з іншымі карыстальнікамі
+        Flutylove. Flutylove пакідае за сабой права, але не абавязаная, кантраляваць
+        спрэчкі паміж Вамі і іншымі карыстальнікамі.
+      security_and_communication: 12. БЯСПЕКА І СУВЯЗЬ.
+      p_12: Выкарыстанне вэб-сайта і / або Сэрвісу таксама рэгулюецца нашай Палітыкай
+        прыватнасці. Калі вы становіцеся карыстальнікам, вы згаджаецеся і згоду на
+        атрыманне лістоў ад нас. Гэтыя паведамленні могуць прадстаўляць апавяшчэння
+        аб аперацыях або іншых апавяшчэнняў, звязаных са службай, такіх як адміністрацыйныя
+        паведамлення і афіцыйныя заявы пра змены, або электронныя лісты, якія змяшчаюць
+        камерцыйныя прапановы, рэкламныя матэрыялы, спецыяльныя прапановы ад нас,
+        або інфармацыю аб дзеяннях іншых карыстальнікаў адносна вашага уліковы запіс
+        карыстальніка. Калі ласка, азнаёмцеся з нашай палітыкай прыватнасці, каб даведацца
+        больш пра такіх апавяшчэнняў.
+      denial_of_responsibility: 13. АДМОВА АД АДКАЗНАСЬЦІ.
+      p_13: а. Flutylove не нясе адказнасці за няправільную або недакладную інфармацыю,
+        размешчаную на вэб-сайце або звязаны са службай, карыстальнікі вэб-сайта або
+        любога апаратнага або праграмнага забеспячэння, звязанага з нашай службай
+        або выкарыстоўваецца там. Flutylove не нясе адказнасці за паводзіны, як онлайн,
+        так і аўтаномна, любога карыстальніка Сайта. Flutylove не бярэ на сябе адказнасць
+        за любыя памылкі, недагляды, збоі, выдаленне, пашкоджанне або затрымку ў працы
+        або аперацыях, адмова лініі сувязі, крадзяжу або знішчэння, несанкцыянаванага
+        доступу або змены ліній сувязі карыстальніка. Flutylove не нясе адказнасці
+        за любыя праблемы або тэхнічныя непаладкі любых тэлефонных сетак або ліній,
+        анлайнавых камп'ютэрных сістэм, сервераў або правайдэраў, камп'ютэрнага абсталявання,
+        праграмнага забеспячэння, электроннай пошце ці гульцоў адмовы ў ўліковага
+        запісу карыстальніка, тэхнічныя праблемы або перагрузкі ў сетцы Інтэрнэт або
+        на любым вэб-сайце або яго камбінацыі, у тым ліку няшчасных выпадкаў або траўмаў
+        карыстальнікаў або любых трэціх асоб, звязаных з кампутарам, або ў выніку
+        ўдзелу або загрузкі інфармацыі, звязанай з сеткай і / або паслуг. Ні пры якіх
+        абставінах Flutylove кампаніі або любы з яго філіяла, рэкламныя агенты, заснавальнікі
+        або партнёраў па збыце не будзе адказваць за якія-небудзь страты або шкоду,
+        уключаючы цялесныя пашкоджанні або смерць, з-за выкарыстання вэб-сайта або
+        паслуг, любую інфармацыю, размешчаную на вэб-сайце або любыя ўзаемадзеяння
+        паміж карыстальнікамі сайта, і онлайн і афлайн. Сайт і Сэрвіс прадастаўляецца
+        на AS IS аснове, і Flutylove відавочна адмаўляецца ад якіх-небудзь гарантый
+        або прыдатнасці для канкрэтнай мэты або адсутнасці парушэнні чыіх-небудзь
+        правоў. Flutylove не можа гарантаваць і не абяцае якіх-небудзь канкрэтных
+        вынікаў ад выкарыстання вэб-сайта і / або Паслуг.
+      links: 14. СПАСЫЛКІ.
+      p_14: а. Flutylove не нясе адказнасці за няправільную або недакладную інфармацыю,
+        размешчаную на вэб-сайце або звязаны са службай, карыстальнікі вэб-сайта або
+        любога апаратнага або праграмнага забеспячэння, звязанага з нашай службай
+        або выкарыстоўваецца там. Flutylove не нясе адказнасці за паводзіны, як онлайн,
+        так і аўтаномна, любога карыстальніка Сайта. Flutylove не бярэ на сябе адказнасць
+        за любыя памылкі, недагляды, збоі, выдаленне, пашкоджанне або затрымку ў працы
+        або аперацыях, адмова лініі сувязі, крадзяжу або знішчэння, несанкцыянаванага
+        доступу або змены ліній сувязі карыстальніка. Flutylove не нясе адказнасці
+        за любыя праблемы або тэхнічныя непаладкі любых тэлефонных сетак або ліній,
+        анлайнавых камп'ютэрных сістэм, сервераў або правайдэраў, камп'ютэрнага абсталявання,
+        праграмнага забеспячэння, электроннай пошце ці гульцоў адмовы ў ўліковага
+        запісу карыстальніка, тэхнічныя праблемы або перагрузкі ў сетцы Інтэрнэт або
+        на любым вэб-сайце або яго камбінацыі, у тым ліку няшчасных выпадкаў або траўмаў
+        карыстальнікаў або любых трэціх асоб, звязаных з кампутарам, або ў выніку
+        ўдзелу або загрузкі інфармацыі, звязанай з сеткай і / або паслуг. Ні пры якіх
+        абставінах Flutylove кампаніі або любы з яго філіяла, рэкламныя агенты, заснавальнікі
+        або партнёраў па збыце не будзе адказваць за якія-небудзь страты або шкоду,
+        уключаючы цялесныя пашкоджанні або смерць, з-за выкарыстання вэб-сайта або
+        паслуг, любую інфармацыю, размешчаную на вэб-сайце або любыя ўзаемадзеяння
+        паміж карыстальнікамі сайта, і онлайн і афлайн. Сайт і Сэрвіс прадастаўляецца
+        на AS IS аснове, і Flutylove відавочна адмаўляецца ад якіх-небудзь гарантый
+        або прыдатнасці для канкрэтнай мэты або адсутнасці парушэнні чыіх-небудзь
+        правоў. Flutylove не можа гарантаваць і не абяцае якіх-небудзь канкрэтных
+        вынікаў ад выкарыстання вэб-сайта і / або Паслуг.
+      limitation_of_responsibility: 15. АБМЕЖАВАНЬНЕ АДКАЗНАСЬЦІ.
+      p_15: Сайтам і яго функцыі, уключаючы ўсіх скрыптах, прыкладання, змест і дызайн
+        сайта прадастаўляюцца на ЯК ЁСЦЬ. Кампанія не нясе ніякай гарантыі таго, што
+        сайта або яго функцыі могуць быць прыдатнай або непрыдатнай ДЛЯ канкрэтных
+        мэтаў ВЫКАРЫСТАННЯ. Кампанія не можа гарантаваць і не абяцае ніякіх канкрэтных
+        вынікаў ад выкарыстання вэб-сайта і / або яго функцый; Каб пазбегнуць блытаніны,
+        карыстальнік павінен выконваць меры засцярогі пры запампоўцы з ВЭБ-САЙТА АБО
+        ПРАЗ пасланай СУВЯЗІ І Ислользование файлы, а таксама праграмнае забеспячэнне.
+        Кампанія высока рэкамендуецца выкарыстоўваць толькі ліцэнзійнае праграмнае
+        забеспячэнне, А ТАКСАМА Антывіруснае праграмнае забеспячэнне; Пры выкарыстанні
+        сайта, Карыстальнік згаджаецца, ШТО ЗАГРУЗКА З САЙТА АБО З ЯГО ДАПАМОГАЙ любога
+        ЗМЕСТУ на яго / яе ўласны рызыка і нясе поўную адказнасць за магчымыя вынікі
+        ВЫКАРЫСТАННЕ ГЭТАЙ ІНФАРМАЦЫІ, УКЛЮЧАЮЧЫ Шкода, што гэта можа прымушае кампутар
+        карыстальніка ці трэцім БАКІ, страты ДАДЗЕНЫХ АБО ЛЮБЫ ІНШЫ Шкода; НІ пры
+        якіх абставінах КАМПАНІЯ АБО ЯЕ ПРАДСТАЎНІКІ НЕ НЯСУЦЬ АДКАЗНАСЦЬ ПЕРАД карыстачы
+        ці трэція бакі ЗА ЛЮБЫ ўскосна, выпадковыя і UNWILFUL СТРАТЫ, УКЛЮЧАЮЧЫ СТРАТЫ
+        выгод або страт ДАДЗЕНЫХ, пашкоджанні ўдастоены, годнасцi або дзелавой рэпутацыi,
+        якія ўзнікаюць з УМОЎ ВЫКАРЫСТАННЕ вЭБ-САЙТА, ​​ЯГО ЗМЕСТУ або любой іншай
+        інфармацыі, да якога вы ці любая іншая асоба атрымалі доступ праз вэб-сайт,
+        нават калі кампанія папярэджваць ці сігналізаваць МАГЧЫМАСЦІ такой шкоды.
+      responsibilities_of_the_parties: 16. АДКАЗНАСЦЬ БАКОЎ.
+      p_16: Гэта Пагадненне рэгулюецца і падлягае тлумачэнню ў адпаведнасці з заканадаўствам
+        Расійскай Федэрацыі. Пытанні, якія не былі ўрэгуляваны Дагаворам, вырашаюцца
+        ў адпаведнасці з заканадаўствам Расійскай Федэрацыі. У выпадку ўзнікнення
+        якіх-небудзь спрэчак і рознагалоссяў, звязаных з ажыццяўленнем сапраўдных
+        Правілаў, Карыстальнік і кампанія прыкладзе ўсе намаганні для іх вырашэння
+        шляхам перагавораў. У выпадку, калі спрэчкі не будуць дазволеныя шляхам перамоў,
+        спрэчкі падлягаюць вырашэнню ў адпаведнасці з дзеючым заканадаўствам Расійскай
+        Федэрацыі. Гэта Пагадненне складзена на рускай мове і могуць быць прадастаўлены
+        Карыстачу для азнаямлення на іншай мове. У выпадку неадпаведнасці версіі Правілаў
+        на рускай мове і яго версіі на іншай мове, версія на рускай мове палажэнняў
+        сапраўдных Правілаў, павінны быць ужытыя. Калі па той ці іншай прычыне, адно
+        або некалькі палажэнняў сапраўдных Правілаў будуць прызнаныя несапраўднымі
+        або ануляваныя, гэта не ўплывае на рэчаіснасць або дастасавальнасць астатніх
+        палажэнняў.
+      other_provisions_and_changes: 17. ІНШЫЯ ПАЛАЖЭННІ І ЗМЯНЕННІ.
+      p_17: Гэта Пагадненне з'яўляецца сапраўдным пагадненнем паміж вамі і Flutylove
+        Што тычыцца выкарыстання вэб-сайта і / або паслуг. Калі якое-небудзь палажэнне
+        гэтага Пагаднення пустэч, астатняя частка Дамовы застаецца тэрмін яго дзеяння
+        ў поўным эфекце. Гэта Пагадненне можа быць зменена па Flutylove ў любы час.
+        Калі ласка, не саромейцеся звяртацца да нас з любымі пытаннямі адносна гэтага
+        Пагаднення.
+      read_this: я прачытала ГЭТА пагадненьне І згодныя з усімі яго УМОВАМІ.
+    about:
+      about_flutylove: Аб Flutylove
+      about_flutylove_text: Flutylove гэта міжнародная сацыяльная сетка для забаў
+        датыровак. Тут вы можаце знайсці сяброў, а другую палоўку, партнёраў або проста
+        правесці час з задавальненне ад гульні або глядзець відэа / фатаграфій.
+      flutylove_features: 'Калі вы будзеце зарэгістравацца на нашым сайце, вы можаце
+        даведацца шмат функцый, такіх як:'
+      video_call_feature: Вы можаце мець зносіны з партнёрам з вэб-камерай
+      extended_search: Вы можаце выкарыстоўваць пашыраны пошук бясплатна
+      multilanguages: Вы можаце весці пошук партнёраў з іншых краін, таму што наш
+        сэрвіс будзе выкарыстоўваць па шырокаму колу людзей з іншых краін, так як
+        яно перакладзена больш чым на 70 моў
+      play_games_chatting_etc: Вы можаце мець зносіны з іншымі людзьмі, гуляць у гульні
+        і рабіць іншыя сацыяльныя харчавання
+      we_are_in_social_networks: 'Мы ў сацыяльных сетках:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google плюс
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Мы выкарыстоўваем перадавыя тэхналогіі
+        і бібліятэкі з адкрытым зыходным кодам. Мы заўсёды стараемся, каб стаць лепш
+        і палепшыць наша абслугоўванне.
+    faq:
+      faq: Часта задаюць пытанні
+      what_is_flutylove: Што такое Flutylove?
+      about_flutylove: Flutylove гэта міжнародная сацыяльная сетка для забаў датыровак.
+        Тут вы можаце знайсці сяброў, а другую палоўку, партнёраў або проста правесці
+        час з задавальненне ад гульні або глядзець відэа / фатаграфій.
+      what_features_has_flutylove: Якія асаблівасці мае Flutylove?
+      flutylove_features: Тут вы можаце мець зносіны з videocams, выкарыстоўвайце
+        пашыраны пошук, пошук партнёраў з іншых краін, гуляць у гульні і рабіць іншыя
+        сацыяльныя харчавання.
+      i_have_some_requests: У мяне ёсць некалькі запытаў
+      you_can_write_request: Вы можаце зарэгістравацца і пісаць
+      here: тут
+      i_have_seen_some_typo_or_wrong_translation: Я бачыў некаторыя памылку друку
+        або няправільны пераклад
+      you_can_send_pull_request_to_our: Вы можаце адправіць Толкай запыт на наш
+      i_have_seen_some_error: Я бачыў некаторыя памылкі
+      feedback: гэтай формы
+      to_us_or_write_to_our_info_mail: або напісаць электронны ліст support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Сардэчна запрашаем у Flutylove
+      you_have_successfully_signed_up_to_flutylove: Вы паспяхова падпісаліся на Flutylove
+      you_can_sign_in_with_your_social_networks: Калі вы хочаце, каб зноў увайсці
+        ў сістэму вы можаце ўвайсці ў сістэму з вашым уліковым запісам у сацыяльнай
+        сетцы
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Калі
+        вы хочаце, каб увайсці ў электронную пошту і пароль, якія вы можаце змяніць
+        пароль, выйдзіце з акаўнта і націсніце на спасылку ніжэй
+      change_password: Змена пароля
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: няслушныя
+            search_for:
+              search_for_error: няправільнае
+            birth_date:
+              birth_date_error: павінны быць больш 18 і менш, то 115
+            interests:
+              interests_error: павінны быць менш, за 2000 сімвалаў
+            languages:
+              languages_error: павінны быць менш, за 2000 сімвалаў
+            my_turn_ons:
+              my_turn_ons_error_error: няправільнае
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: мае недапушчальнае значэнне
+  devise:
+    confirmations:
+      confirmed: ваш рахунак быў паспяхова пацверджаны.
+      send_instructions: Вы атрымаеце ліст з інструкцыямі аб тым, як пацвердзіць свой
+        рахунак на працягу некалькіх хвілін.
+      send_paranoid_instructions: Калі ваш адрас электроннай пошты існуе ў нашай базе
+        дадзеных, Вы атрымаеце электронны ліст з інструкцыямі аб тым, як пацвердзіць
+        свой рахунак на працягу некалькіх хвілін.
+      new:
+        send_mail_for_confirm_your_email: Адправіць пошту каб пацьвердзіць Ваш адрас
+          электроннай
+        submit: Адаслаць
+    failure:
+      already_authenticated: вы ўжо ўвайшлі ў сістэму.
+      inactive: Ваш рахунак яшчэ не актываваны.
+      invalid: Няправільны адрас электроннай пошты ці пароль.
+      locked: Ваш рахунак заблякаваны.
+      last_attempt: У вас ёсць яшчэ адна спроба, перш чым ваш уліковы запіс будзе
+        заблакаваная.
+      not_found_in_database: Няправільны адрас электроннай пошты ці пароль.
+      timeout: Вашай сесіі мінуў. Калі ласка, ўвайдзіце ў сістэму яшчэ раз, каб працягнуць.
+      unauthenticated: Вы павінны ўвайсці або зарэгістравацца, перш чым працягнуць.
+    mailer:
+      confirmation_instructions:
+        subject: інструкцыі пацверджання
+        welcome_to_flutylove: Сардэчна запрашаем у Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Вы можаце пацвердзіць
+          сваю электронную пошту праз спасылку ніжэй
+      reset_password_instructions:
+        hello: Прывітанне
+        subject: Скід пароля інструкцыі
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Хтосьці
+          запытвае спасылку на змяненне пароля. Вы можаце зрабіць гэта па спасылцы
+          ніжэй.
+        change_my_password: Змена пароля
+        if_you_didnt_request_this_please_ignore_this_email: Калі вы не запытвалі гэта
+          не звяртайце ўвагі на гэты ліст.
+      unlock_instructions:
+        subject: разблакоўкі Інструкцыі
+    omniauth_callbacks:
+      failure: Нельга праверыць ідэнтычнасьць вас ад {%} роду, таму што "% {прычына}".
+      success: паспяхова прайшоў праверку сапраўднасці ад {%} ветлівую ўвагу.
+    passwords:
+      no_token: Вы не можаце атрымаць доступ да гэтай старонцы, не прыходзячы ад электроннай
+        пошты скіду пароля. Калі вы прыйшлі з электроннай пошты для скіду пароля,
+        калі ласка, пераканайцеся, што вы выкарыстоўвалі поўны URL пры ўмове.
+      send_instructions: Вы атрымаеце электронны ліст з інструкцыямі аб тым, як скінуць
+        пароль на працягу некалькіх хвілін.
+      send_paranoid_instructions: Калі ваш адрас электроннай пошты існуе ў нашай базе
+        дадзеных, вы атрымаеце спасылку для аднаўлення пароля на ваш адрас электроннай
+        пошты на працягу некалькіх хвілін.
+      updated: Ваш пароль паспяхова зменены. Вы ўвайшлі ў сістэму.
+      updated_not_active: Ваш пароль паспяхова зменены.
+      new:
+        forgot_your_password: Аднавіць пароль
+        reset_password: Адаслаць аднавіць URL
+      edit:
+        change_your_password: Змяніць пароль
+        new_password: Новы пароль
+        confirm_password: Пацвярджэнне пароля
+        change_password: Змена
+    registrations:
+      signed_up: Сардэчна запрашаем! Вы падпісаліся паспяхова.
+      signed_up_but_inactive: Вы падпісаліся паспяхова. Тым не менш, мы не маглі падпісаць
+        вас у таму, што ваш уліковы запіс яшчэ не актываваная.
+      signed_up_but_locked: Вы падпісаліся паспяхова. Тым не менш, мы не маглі падпісаць
+        вас у таму, што ваш уліковы запіс будзе заблакаваная.
+      signed_up_but_unconfirmed: паведамленне з спасылкай для пацверджання было адпраўлена
+        на ваш электронны адрас. Калі ласка, адкрыйце спасылку, каб актываваць свой
+        уліковы запіс.
+      update_needs_confirmation: Вы абнавілі свой рахунак паспяхова, але нам трэба
+        пацвердзіць свой новы адрас электроннай пошты. Калі ласка, праверце сваю электронную
+        пошту і націсніце на спасылку пацверджання, каб завяршыць пацвердзіўшы свой
+        новы адрас электроннай пошты.
+      updated: Вы абнавілі свой рахунак паспяхова.
+      new:
+        sign_up: Зарэгіструйцеся
+        name: Імя
+        password: Пароль
+        register: Зарэгіструйцеся
+    shared:
+      links:
+        sign_in: Уваход
+        sign_up: Зарэгіструйцеся
+        didnt_receive_confirmation_instructions: Ня атрымалі пацверджання інструкцыі?
+        sign_in_with: Уваход з выкарыстаннем
+        fast_login_almost_one_click: хутка Увайсці (амаль адзін клік)
+    sessions:
+      signed_in: Увайшлі паспяхова.
+      signed_out: Подпіс паспяхова.
+      new:
+        sign_in: Уваход
+        password: Пароль
+        remember_me: Запомніць мяне
+        forgot_your_password: Забыліся пароль?
+    unlocks:
+      send_instructions: Вы атрымаеце ліст з інструкцыямі аб тым, як разблакаваць
+        свой рахунак праз некалькі хвілін.
+      send_paranoid_instructions: Калі ваш уліковы запіс існуе, то вы атрымаеце ліст
+        з інструкцыямі аб тым, як разблакаваць яго на працягу некалькіх хвілін.
+      unlocked: Ваш рахунак быў паспяхова адмыкнутая. Калі ласка, ўвайдзіце ў сістэму,
+        каб працягнуць.
+  timezones:
+    American Samoa: Амерыканскае Самоа
+    International Date Line West: Міжнародная лінія Дата West
+    Midway Island: Мідўэй
+    Hawaii: Hawaii
+    Alaska: Аляска
+    Pacific Time (US & Canada): Ціхаакіянскае час (ЗША і Канада)
+    Tijuana: Тихуана
+    Arizona: Арызона
+    Chihuahua: Чыхуахуа
+    Mazatlan: Масатлан
+    Mountain Time (US & Canada): Горнае час (ЗША і Канада)
+    Central America: Цэнтральная Амерыка
+    Central Time (US & Canada): Цэнтральнае час (ЗША і Канада)
+    Guadalajara: Гвадалахара
+    Mexico City: Мехіка
+    Monterrey: Monterrey
+    Saskatchewan: Саскачеван
+    Bogota: Багата
+    Indiana (East): Indiana (East)
+    Lima: Ліма
+    Quito: Кіта
+    Atlantic Time (Canada): Атлантычнае час (Канада)
+    Georgetown: Georgetown
+    La Paz: Ла-Пас
+    Santiago: Santiago
+    Newfoundland: Ньюфаўндленда
+    Brasilia: Бразіліа
+    Buenos Aires: Буэнас-Айрэс
+    Greenland: Грэнландыя
+    Montevideo: Монтавідэа
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Азорскія выспы
+    Cape Verde Is: Каба-Вэрдэ.
+    Casablanca: Casablanca
+    Dublin: Дублін
+    Edinburgh: Эдынбург
+    Lisbon: Лісабон
+    London: Лондан
+    Monrovia: Манровія
+    UTC: UTC
+    Amsterdam: Амстэрдам
+    Belgrade: Бялград
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Брусэль
+    Budapest: Будапешт
+    Copenhagen: Капенгаген
+    Ljubljana: Любляна
+    Madrid: Мадрыд
+    Paris: Парыж
+    Prague: Прага
+    Rome: Рым
+    Sarajevo: Sarajevo
+    Skopje: Скоп'е
+    Stockholm: Стакгольм
+    Vienna: Вена
+    Warsaw: Варшава
+    West Central Africa: West Central Africa
+    Zagreb: Заграб
+    Athens: Афіны
+    Bucharest: Бухарэст
+    Cairo: Каір
+    Harare: Харарэ, Зімбабвэ
+    Helsinki: Хельсінкі
+    Istanbul: Стамбул
+    Jerusalem: Ерусалім
+    Kaliningrad: Калінінград
+    Kyiv: Кіеў
+    Pretoria: Прэторыя
+    Riga: Рыга
+    Sofia: Сафія
+    Tallinn: Tallinn
+    Vilnius: Вільнюс
+    Baghdad: Багдадскі
+    Kuwait: Кувейт
+    Minsk: Мінск
+    Moscow: Масква
+    Nairobi: Найробі
+    Riyadh: Эр-Рыяд
+    St Petersburg: Санкт-Пецярбург
+    Volgograd: Валгаград
+    Tehran: Тэгеран
+    Abu Dhabi: Абу-Дабі
+    Baku: Баку
+    Muscat: Мушкат
+    Samara: Самара
+    Tbilisi: Тбілісі
+    Yerevan: Ерэван
+    Kabul: кабульского
+    Ekaterinburg: Екацерынбург
+    Islamabad: Ісламабадзе
+    Karachi: Карачы
+    Tashkent: Ташкент
+    Chennai: Ченнае
+    Kolkata: Калькута
+    Mumbai: Мумбаі
+    Sri Jayawardenepura: Шры Jayawardenepura
+    Kathmandu: Катманду
+    Almaty: Алматы
+    Astana: Астана
+    Dhaka: Дакка
+    Novosibirsk: Новасібірск
+    Urumqi: Урумчы
+    Rangoon: Рангун
+    Bangkok: Бангкок
+    Hanoi: Ханой
+    Jakarta: Джакарта
+    Krasnoyarsk: Красноярск
+    Beijing: Пекін
+    Chongqing: Чунцын
+    Hong Kong: Ганконг
+    Irkutsk: Іркуцк
+    Kuala Lumpur: Куала-Лумпур
+    Perth: Перт
+    Singapore: Сінгапур
+    Taipei: Taipei
+    Ulaanbaatar: Улан-Батар
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Сеул
+    Tokyo: Токіо
+    Yakutsk: Якутск
+    Adelaide: Adelaide
+    Darwin: Дарвін
+    Brisbane: Брысбэн
+    Canberra: Canberra
+    Guam: Гуам
+    Hobart: Hobart
+    Melbourne: Мэльбурн
+    Port Moresby: Порт-Морсби
+    Sydney: Сіднэй
+    Vladivostok: Уладзівасток
+    Magadan: Магадан
+    New Caledonia: Новая Каледонія
+    Solomon Is: Саламонавы.
+    Srednekolymsk: Среднеколымск
+    Auckland: Окленд
+    Fiji: Фіджы
+    Kamchatka: Камчатка
+    Marshall Is: Маршалавы.
+    Wellington: Велінгтон
+    Chatham Is: Чатем.
+    Nuku'alofa: Нукуалофа
+    Samoa: Самоа
+    Tokelau Is: Такелаў.
+  be: be
+  be_iso: be

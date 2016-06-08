@@ -1,0 +1,1839 @@
+---
+el:
+  1_we_have_just_launched_our_service_title: Έχουμε μόλις ξεκινήσει την υπηρεσία μας!
+  common_keywords: χρονολογήσεις, σε απευθείας σύνδεση χρονολογήσεις, αγάπη χρονολογήσεις,
+    κάμερα χρονολόγηση, speed dating, webcam chat χρονολόγηση, Ruby on Rails dating
+    site, πολυγλωσσικό dating site
+  common_description: Το πιο προηγμένο διεθνές κοινωνικό δίκτυο ψυχαγωγίας για χρονολογήσεις
+    "Flutylove"
+  default_album: Προεπιλογή άλμπουμ
+  user: Χρήστη
+  user_to_search_connection: Αναζήτηση
+  video: βίντεο
+  note: Σημείωση
+  photo_album: Άλμπουμ
+  from: Από
+  to: Για να
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Άντρας
+  - female:
+      name: Γυναίκα
+  - transgender:
+      name: Transgender
+  - male-female:
+      name: Αρσενικό-Θηλυκό
+  - double-female:
+      name: διπλό γυναικών
+  - double-male:
+      name: Διπλό αρσενικό
+  orientation:
+  - heterosexual: Άνδρα
+  - homosexual: Ομοφυλοφιλική
+  - bisexual: Αμφι
+  search_for:
+  - chatting: Κουβεντιάζοντας
+  - get_friends: Πάρτε τους φίλους
+  - flirtation: φλερτ
+  - marriage: Γάμος
+  - other: Άλλα
+  body_type:
+    slim: Slim
+    normal: Κανονική
+    athletic: Αθλητικό
+    chubby: Chubby
+  relationship:
+    single: Ενιαία
+    in_a_relationship: Σε μια σχέση
+    married: Παντρεμένος
+    nothing_serious: Τίποτα σοβαρό
+  children:
+    dont_have: Δεν έχετε
+    dont_have_and_dont_want_to: Δεν έχω και δεν θέλω να
+    don_t_have_but_planning: Δεν έχω, αλλά σχεδιασμός
+    have_enough: Καλή
+    have_and_planning_more: Have και σχεδιάζει περισσότερα
+    unable_to_have_children: Αδυναμία να αποκτήσουν παιδιά
+  living:
+    with_parents: Με τους γονείς
+    with_marriage_partner: Με σύζυγο
+    alone: Μόνος
+    with_friends: Με φίλους (ες)
+  education:
+    nothing: Τίποτα
+    secondary_school: Δευτεροβάθμια εκπαίδευση
+    college_technical_college: Κολλέγιο / Τεχνικό κολλέγιο
+    university: Πανεπιστήμιο
+    postgraduate: Μεταπτυχιακά
+    phd_md_post_doctorate: PhD / MD / Δημοσίευση διδακτορικό
+  hair_color:
+    blonde: Ξανθιά
+    dark_blond: Σκούρο ξανθό
+    brown: Μπράουν
+    black: Μαύρο
+    red: Κόκκινο
+    gray: Gray
+    other: Άλλα
+  income:
+    unemployed: Άνεργοι
+    unstable_earnings: Ασταθής κέρδη
+    small_stable_earnings: Μικρές σταθερά κέρδη
+    medium_stable_earnings: Medium σταθερά κέρδη
+    higher_than_average_income: Υψηλότερες από το μέσο εισόδημα
+    high_income: Υψηλό εισόδημα
+  smoking:
+    not_smoke: Δεν το κάπνισμα
+    not_smoke_and_detest: Δεν το κάπνισμα και απεχθάνομαι το κάπνισμα
+    smoke_in_a_social_setting: Μερικές φορές σε ένα κοινωνικό περιβάλλον
+    smoke_occasionally: καπνός ενίοτε
+    smoke_often: καπνός συχνά
+  alcohol:
+    not_drinking: Δεν είναι πόσιμο
+    drink_occalionally: πίνετε περιστασιακά
+    drink_in_a_social_setting: ποτό σε ένα κοινωνικό περιβάλλον
+    drink_often: ποτό συχνά
+  drugs:
+    dont_use: Μην χρησιμοποιείτε
+    contra_drugs: Contra φάρμακα
+    tried_out_some: δοκιμάσει μερικά
+    light_drugs_occasionally: Φως φάρμακα περιστασιακά
+    regular: Τακτικές
+  sponsor:
+    i_want_to_find_a_sponsor: Θέλω να βρω έναν χορηγό
+    willing_to_become_a_sponsor: Πρόθυμοι να γίνω χορηγός
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Δεν ψάχνει για έναν χορηγό
+      και δεν προτίθεται να γίνει ένα
+  category_name:
+    strategy: Στρατηγική
+    rpg: RPG
+    3d_shooters: 3D σκοπευτές
+    racing: Racing
+    arcade: Arcade
+    economic: Οικονομική
+    simulators: Εξομοιωτές
+    logic: Λογική
+    adventure: Περιπέτεια
+    board_games: Διοικητικό Συμβούλιο
+    gambling: Τυχερά παιχνίδια
+    news: Νέα
+    communication: Επικοινωνία
+    multimedia: Πολυμέσων
+    drawing: Σχέδιο
+    educational: Εκπαιδευτικό
+    e_commerce: E-Commerce
+    other: Άλλα
+  shared:
+    header:
+      people: Άνθρωποι
+      chat: Chat
+      groups: Ομάδες
+      forum: Φόρουμ
+      requests: Αιτήσεις
+      about: Σχετικά με το πρόγραμμα
+      help: Βοήθεια
+      user_applications: Εφαρμογές
+    liked_users:
+      liked: Άρεσε
+      all: Όλα
+      you_have_not_liked_any_users_yet: Δεν έχετε άρεσε κανένα χρήστες ακόμη
+    most_liked_users:
+      most_liked_users: δημοφιλή χρήστες
+    installed_user_applications:
+      installed_applications: Εγκατεστημένες εφαρμογές
+      all: Όλα
+      you_have_not_installed_any_apps_yet: Δεν έχετε εγκαταστήσει όλες τις εφαρμογές
+        ακόμη
+    user_applications:
+      uploaded_apps: Φορτωμένα εφαρμογές
+      all: Όλα
+      you_have_not_uploaded_any_apps_yet: Δεν έχετε ανεβάσει όλες τις εφαρμογές ακόμη
+    right_sidebar:
+      news: Νέα
+      all: Όλα
+      read_more: Διαβάστε περισσότερα
+    footer:
+      footer_text: Διεθνές δίκτυο κοινωνικής διασκέδασης για χρονολογήσεις "Flutylove"
+      privacy: Προστασίας Προσωπικών Δεδομένων
+      terms: Όροι
+      feedback: Σχόλια
+      abuse: Κατάχρηση
+    languages_select_modal:
+      available_languages: Διαθέσιμες γλώσσες
+    site_map_modal:
+      faq: Συχνές Ερωτήσεις
+      about: Σχετικά
+      static_pages: στατικές σελίδες
+      common_pages: Κοινή σελίδες
+      user_pages: σελίδες χρηστών
+      terms: Όροι
+      privacy: Προστασίας Προσωπικών Δεδομένων
+      people: Άνθρωποι
+      user_applications: Εφαρμογές
+      user_requests: Αιτήσεις
+      news: Νέα
+      feedback: Σχόλια
+      abuse: Κατάχρηση
+      chats: Συζητήσεις
+      videos: Βίντεο
+      photo_albums: Άλμπουμ
+      notes: Σημειώσεις
+    pagination_link:
+      next_page: Επόμενη σελίδα
+    user_edit_menu:
+      content: Περιεχόμενο
+      profile: Προφίλ
+      site_settings: Ρυθμίσεις ιστότοπου
+      privacy: Προστασίας Προσωπικών Δεδομένων
+      services: Υπηρεσίες
+    activities_navigation:
+      all: Όλα
+      photos: Φωτογραφίες
+      photo_albums: Άλμπουμ
+      notes: Σημειώσεις
+      videos: Βίντεο
+    notifications_navigation:
+      all: Όλα
+      likes: Likes
+      friend_requests: φίλο αιτήματα
+      profile_views: απόψεις Προφίλ
+      photo_album_views: Φωτογραφίες θέα
+    user_to_friend_connections_navigation:
+      friends: Φίλοι
+      friends_online: Φίλοι σε απευθείας σύνδεση
+      outcome_requests: αιτήματα Αποτέλεσμα
+      income_requests: αιτήματα Εισοδήματος
+    user_applications_navigation:
+      all: Όλα
+      new: Νέα
+      popular: δημοφιλή
+      often_installed: Συχνά εγκατασταθεί
+      manage: Διαχείριση
+    user_requests_navigation:
+      all: Όλα
+      popular: δημοφιλή
+      my_requests: αιτήσεις μου
+    user_navbar_menu:
+      sign_in: Σύνδεση
+      sign_up: Εγγραφείτε
+    email_signature:
+      info: Πληροφορίες
+      mailer: Μέιλερ
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: Επιλέξτε το φύλο
+      select_orientation: Επιλέξτε προσανατολισμό
+      select_search_for: Επιλέξτε αναζήτηση
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Θα πρέπει να συνδεθείτε πριν από τη δράση αυτή
+      available_sign_in_methods: Μπορείτε
+    sign_up_methods:
+      usual_register_link: συνηθισμένο εγγραφής
+      register_text: Εκτός% {usual_registration} μπορείτε να εγγραφείτε μέσω των πιο
+        δημοφιλών υπηρεσιών και των κοινωνικών δικτύων
+    bootstrap_gallery:
+      previous: Προηγούμενη
+      next: Επόμενη
+    user_notification_title:
+      you_liked: Μπορείτε άρεσε από
+      wrote_message_to_you: Έγραψε το μήνυμα σας
+      viewed_your_profile: είδαν το προφίλ σας
+      liked_your_photo: Άρεσε φωτογραφία σας
+      liked_your_note: Άρεσε σας σημείωμα
+      liked_your_request: Άρεσε το αίτημά σας
+      liked_your_video: Άρεσε το βίντεο
+      liked_your_application: Άρεσε η αίτησή σας
+      requested_a_friendship: Αιτήματα μια φιλία
+  authentications:
+    authentication:
+      turn_on: Ανάψτε
+      turn_off: Απενεργοποίηση
+      turned_on: Γύρισε στην
+      turned_off: Απενεργοποίηση
+    index:
+      enabled_services: Enabled υπηρεσίες
+  users:
+    profile:
+      submit: Αποθήκευση
+      name: Όνομα
+      meet_with: Γνωρίστε με
+      gender: των Φύλων
+      type_in_your_location: Τύπος στην πόλη σας
+      about_me: Λίγα λόγια για τον εαυτό σας (εκτός από την παρακάτω φόρμα επικοινωνίας)
+      sex_keywords: Ενδιαφέροντα για το σεξ
+      enter_your_name: Πληκτρολογήστε το όνομά σας
+      more_options: Περισσότερα
+      orientation: Προσανατολισμού
+      location: Τοποθεσία
+      search_for: Αναζήτηση
+      intimacy: Οικειότητα
+      in_age: Σε ηλικία
+      from: από
+      to: να
+      interests: Ενδιαφέροντα
+      height: Ύψος
+      weight: Βάρος
+      relationship: Σχέση
+      children: Παιδιά
+      living: Living
+      education: Εκπαίδευση
+      jobs: Εργασίας
+      income: Εισοδήματος
+      languages: Γλώσσες
+      smoking: Κάπνισμα
+      alcohol: αλκοόλ
+      drugs: Ναρκωτικά
+      contacts: Επαφές
+      contact_value: Επικοινωνία
+      save: Αποθήκευση
+      about_yourself: Σχετικά με τον εαυτό σας
+    settings:
+      submit: Αποθήκευση
+      locale: Interface γλώσσας
+      change_password: Αλλαγή κωδικού πρόσβασης
+      interface_language: Interface γλώσσας
+    dialog_modal:
+      send_message: Αποστολή μηνύματος
+    index:
+      users: Χρήστες
+      clear_search: Clear αναζήτηση
+    dashboard:
+      hello: Hello
+      here_some_of_your_statistics: Εδώ μερικά από τα στατιστικά σας
+      chats: Συζητήσεις
+      messages: Μηνύματα
+      photos: Φωτογραφίες
+      videos: Βίντεο
+      notes: Σημειώσεις
+      photo_albums: Άλμπουμ
+    avatar:
+      photo: Φωτογραφία
+      drag_and_drop_your_file: Drag and drop το αρχείο σας
+      here: εδώ
+      or: ή
+      from_other_sites: από άλλους δικτυακούς τόπους
+      write_down_link_for_your_image: Γράψτε κάτω σύνδεσμο της εικόνας σας
+      url_for_image: διεύθυνση URL για την εικόνα
+      upload: Μεταφόρτωση
+      from_facebook: από το Facebook
+      turn_on_facebook: Turn on Facebook
+      you_can_upload_your_photos_from_facebook: Μπορείτε να ανεβάσετε τις φωτογραφίες
+        σας από το Facebook
+      from_vkontakte: Από Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Μπορείτε να ανεβάσετε τις φωτογραφίες
+        σας από Vkontakte
+      turn_on_vkontakte: Ενεργοποιήστε Vkontakte
+      from_instagram: Από Instagram
+      you_can_upload_your_photos_from_instagram: Μπορείτε να ανεβάσετε τις φωτογραφίες
+        σας από το Instagram
+      turn_on_instagram: Ενεργοποιήστε Instagram
+      from_dropbox: Από το Dropbox
+      you_can_upload_your_photos_from_dropbox: Μπορείτε να ανεβάσετε τις φωτογραφίες
+        σας από το Dropbox
+      turn_on_dropbox: Ενεργοποιήστε Dropbox
+      edit_photo: Επεξεργασία φωτογραφιών
+      delete_photo: Διαγραφή φωτογραφιών
+      are_you_sure: Είσαι σίγουρος;
+    available_photos_modal:
+      available_photos: υπάρχουν διαθέσιμες φωτογραφίες
+    update:
+      your_password_was_successfully_changed: Ο κωδικός σας άλλαξε με επιτυχία
+      your_profile_was_successfully_updated: Το προφίλ σας ενημερώθηκε με επιτυχία
+    edit_photo:
+      edit_photo: Επεξεργασία φωτογραφιών
+      crop: Περικοπή
+      close: Close
+      save_changes: Αποθήκευση αλλαγών
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: Σχετικά με εμένα
+      orientation: Προσανατολισμού
+      meet_with: Γνωρίστε με
+      desirable_age: Επιθυμητή ηλικία
+      from: από
+      to: να
+      interests: Ενδιαφέροντα
+      height: Ύψος
+      sm: τ.μ.
+      kg: kg
+      relationship: Σχέση
+      children: Παιδιά
+      living: Living
+      education: Εκπαίδευση
+      jobs: Εργασία
+      income: Εισοδήματος
+      languages: Γλώσσες
+      smoking: Κάπνισμα
+      alcohol: αλκοόλ
+      drugs: Ναρκωτικά
+      contacts: Επαφές
+    user_info:
+      offline: Αποσυνδεδεμένος
+      online: απευθείας σύνδεση
+      age: Ηλικία
+    loading_modal_images:
+      loading_images: εικόνες Φόρτωση
+    password_form:
+      new_password: Νέος κωδικός
+      confirm_new_password: Επιβεβαίωση νέου κωδικού πρόσβασης
+      old_password: Παλιός κωδικός
+      change_password: Αλλαγή κωδικού πρόσβασης
+    show:
+      photos: Φωτογραφίες
+      all: Όλα
+      videos: Βίντεο
+      notes: Σημειώσεις
+      view: Προβολή
+    dropbox_token_form:
+      key: Κλειδί
+      submit: Υποβολή
+    contents:
+      users_which_i_like: Οι χρήστες που μου αρέσει
+      all: Όλα
+      my_videos_likes: συμπαθεί βίντεό μου
+      my_photos_likes: Οι φωτογραφίες μου αρέσει
+      my_notes_likes: Οι σημειώσεις μου αρέσει
+      my_user_applications_likes: εφαρμογές μου αρέσει
+      my_user_requests_likes: αιτήματα μου αρέσει
+    more_profile_info:
+      photo_albums: Άλμπουμ
+      view_all_photo_albums: Δείτε όλα τα φωτογραφικά άλμπουμ
+      create_more: Δημιουργία περισσότερα
+      videos: Βίντεο
+      view_all_videos: Δείτε όλα τα βίντεο
+      notes: Σημειώσεις
+      view_all_notes: Προβολή όλων των σημειώσεων
+      requirements_lists_to_partner: Απαιτήσεις παραθέτει σε συνεργάτη
+      requirement: Απαίτηση
+      view_all_requirements_lists: Δείτε τις λίστες όλων των απαιτήσεων
+      profile_verification: επαλήθευσης Προφίλ
+      your_profile_is_successfully_verified: Το προφίλ σας έχει επαληθευτεί με επιτυχία
+      create: Δημιουργία
+      you_have_not_any_requirements_lists_yet: Δεν έχετε οποιεσδήποτε απαιτήσεις απαριθμεί
+        ακόμη
+      you_have_not_any_notes_yet: Δεν έχετε τυχόν σημειώσεις ακόμα
+      you_have_not_any_photo_albums_yet: Δεν έχετε κανένα άλμπουμ φωτογραφιών ακόμα
+      you_have_not_any_videos_yet: Δεν έχετε κανένα βίντεο ακόμα
+      your_profile_is_not_verified_yet: Το προφίλ σας δεν έχει επαληθευτεί ακόμα
+      verify_through_twitter: Επαλήθευση μέσω Twitter
+      verify_through_facebook: Επαλήθευση μέσω Facebook
+      verify_through_mail_ru: Επαλήθευση μέσω Mail.ru
+    privacy:
+      privacy: Προστασίας Προσωπικών Δεδομένων
+  searches:
+    form:
+      location: Τοποθεσία
+      from: από
+      to: να
+      age: Ηλικία
+      gender: των Φύλων
+    form_content:
+      city: Πόλη
+      gender: των Φύλων
+      age_from: Ηλικία από
+      to: να
+      online: απευθείας σύνδεση
+      verified: Verified
+      has_avatar: Έχει avatar
+      region: Περιφέρεια
+      more: Περισσότερα
+      country: Χώρα
+      about_me: Σχετικά με εμένα
+      interests: Ενδιαφέροντα
+      languages: Γλώσσες
+      names: Ονόματα
+      height: Ύψος
+      from: από
+      weight: Βάρος
+      relationship: Σχέση
+      education: Εκπαίδευση
+      orientation: Προσανατολισμού
+      search_for: Αναζήτηση
+      children: Παιδιά
+      living: Living
+      smoking: Κάπνισμα
+      alcohol: αλκοόλ
+      drugs: Ναρκωτικά
+      income: Εισοδήματος
+    show:
+      users: Χρήστες
+      clear_search: Clear αναζήτηση
+  welcome:
+    index:
+      people: Άνθρωποι
+      requests: Αιτήσεις
+      user_applications: Εφαρμογές
+      about: Σχετικά
+      features: Χαρακτηριστικά
+      registration: Εγγραφή
+      sign_in: Σύνδεση
+      welcome_main_title: Καλώς ήρθατε στο Flutylove!
+      welcome_main_text: Αυτό είναι το μέρος όπου μπορείτε να βρείτε την τέλεια αγάπη
+        σας
+      find_more: Βρείτε περισσότερα
+      about_title: Flutylove είναι το διεθνές κοινωνικό δίκτυο ψυχαγωγίας για χρονολογήσεις
+      about_text: Υπάρχουν πολλά χαρακτηριστικά γνωρίσματα που μπορείτε να χρησιμοποιήσετε
+        για ψυχαγωγία και χρονολογήσεις!
+      find_more_features: Βρείτε περισσότερες δυνατότητες
+      at_our_service: Χαρακτηριστικά της υπηρεσίας μας
+      many_languages: Πολλές γλώσσες
+      text_about_many_languages: Η υπηρεσία μας έχει μεταφραστεί περισσότερες από
+        70 γλώσσες
+      check_it_out: αυτό Αναχώρηση
+      videochats: Videochats
+      text_about_videochats: Μπορείτε να συνομιλήσετε με το σύντροφό σας με videocams
+      try_it_now: Δοκιμάστε το τώρα
+      search: Αναζήτηση
+      text_about_search: Μπορείτε να αναζητήσετε με πολλαπλές παραμέτρους και είναι
+        δωρεάν!
+      watch_this: Παρακολουθήστε αυτό το
+      more_features: Περισσότερα χαρακτηριστικά
+      text_about_more_features: Μπορείτε να δείτε βίντεο, να παίξετε παιχνίδια και
+        να κάνουμε πολλά άλλα πράγματα!
+      register_and_learn_more: Μητρώο και να μάθετε περισσότερα
+      install_our_apps: Εγκαταστήστε τις εφαρμογές μας από σε δημοφιλείς πλατφόρμες
+      register_header: Εγγραφή
+  feedbacks:
+    new:
+      feedback_title: Σχόλια
+    form:
+      feedback_name: Το όνομά σας
+      feedback_email: email σας
+      close: Close
+      send: Αποστολή
+      feedback_recaptcha: Recaptcha
+      cancel: Ακύρωση
+    success:
+      success_feedback: Σας ευχαριστούμε! Σας έχουν λάβει τα σχόλιά σας.
+      close: Close
+      cancel: Ακύρωση
+      more: Στείλτε περισσότερα
+  abuses:
+    new:
+      abuse_title: Κατάχρηση
+    form:
+      abuse_name: Το όνομά σας
+      abuse_email: email σας
+      abuse_title: Κατάχρηση
+      close: Close
+      send: Αποστολή
+      abuse_recaptcha: Recaptcha
+      abuse_link: Σύνδεσμος
+      cancel: Ακύρωση
+    success:
+      success_abuse: Σας ευχαριστούμε! Έχουμε παραληφθέντα κακοποίηση σας.
+      close: Close
+      cancel: Ακύρωση
+      more: Στείλτε περισσότερα
+  layouts:
+    welcome:
+      welcome_title: Καλώς ήρθατε στο Flutylove! Το πιο προηγμένο dating site.
+  recaptcha:
+    errors:
+      verification_failed: Αποτυχία recaptcha
+      recaptcha_unreachable: Recaptcha είναι απρόσιτος
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Έχουμε μόλις ξεκινήσει την υπηρεσία
+        μας!
+      we_have_just_launched_our_service_text: Σήμερα ξεκινήσει την υπηρεσία μας, ώστε
+        ο καθένας μπορεί να
+      sign_up: εγγραφείτε
+      and_use_it: και να το χρησιμοποιήσετε.
+      wishes_and_requests: Αν έχετε οποιαδήποτε επιθυμία ή των αιτήσεων, μπορείτε
+        να εγγραφείτε και να το έγραψε
+      here: εδώ
+      with_love: Με αγάπη,
+      flutylove_team: Flutylove Team
+    index:
+      all_news: Όλες οι ειδήσεις
+      read_more: Διαβάστε περισσότερα
+  chats:
+    panel_head:
+      online: απευθείας σύνδεση
+      offline: Αποσυνδεδεμένος
+    pagination_link:
+      next_page: Επόμενη σελίδα
+    form_additions:
+      submit: Υποβολή
+      videochat: videochat
+    show:
+      messages: Μηνύματα
+    index:
+      messages: Μηνύματα
+    videochat_request_link:
+      connect_to_videochat: Σύνδεση με videochat
+    modal_form:
+      send_message: Αποστολή μηνύματος
+      recipient: Παραλήπτη
+      message: μηνύματος
+      close: Close
+      submit: Υποβολή
+    waiting_video_answer_button:
+      waiting_for_response: Αναμονή για απάντηση ...
+    chat_created:
+      send_message: Αποστολή μηνύματος
+      message_was_sent: μήνυμα εστάλη
+      close: Close
+  messages:
+    pagination_link:
+      next_page: Επόμενη σελίδα
+  notifications:
+    user_to_friend_connection:
+      action: Δράση
+    notification:
+      offline: Αποσυνδεδεμένος
+      online: απευθείας σύνδεση
+    like:
+      action: Δράση
+    photo_album_view:
+      action: Δράση
+    user_view:
+      action: Δράση
+  user_applications:
+    user_application:
+      who_uploaded: Ανέβηκε από
+      all_uploaded_applications_by: Όλα τα ανεβάσει αιτήσεων από
+    form:
+      name: Όνομα
+      user_application_name: Όνομα εφαρμογής
+      description: Περιγραφή
+      description_text: Περιγραφή κειμένου
+      iframe_url: Iframe url
+      upload_icon: Λήψη εικονίδιο
+      public: Δημόσια;
+      category_name: Κατηγορία
+      create: Δημιουργία
+      edit: Επεξεργασία
+    show:
+      application: Εφαρμογή
+      return_to_uploaded_applications: Για να ανεβάσει την εφαρμογή
+      edit_application: Επεξεργασία εφαρμογή
+      return_to_all_applications: Επιστροφή σε όλες τις εφαρμογές
+    manage:
+      installed_applications: Εγκατεστημένες εφαρμογές
+      uploaded_applications: Φορτωμένα εφαρμογές
+      all: Όλα
+    index:
+      applications_uploaded_by: αιτήσεις που αποστέλλονται με
+      return_to_all_applications: Επιστροφή σε όλες τις εφαρμογές
+      create_new: Δημιουργία νέου
+      return_to_manage_applications: Επιστροφή στην διαχείριση εφαρμογών
+    installed:
+      installed_applications: Εγκατεστημένες εφαρμογές
+      return_to_all_applications: Επιστροφή σε όλες τις εφαρμογές
+      return_to_manage_applications: Επιστροφή στην διαχείριση εφαρμογών
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Πριν από την άποψη αυτή η
+        εφαρμογή θα πρέπει να συνδεθείτε πρώτα
+    need_to_install:
+      need_to_install_first: Θα πρέπει να εγκαταστήσετε αυτήν την εφαρμογή πρώτα
+      install_application: Εγκαταστήστε την εφαρμογή
+  likes:
+    index:
+      liked_items: Άρεσε στοιχεία
+      return_to_my_content: Επιστροφή στο περιεχόμενό μου
+  videos:
+    index:
+      videos: Βίντεο
+      return_to_edit_profile: στο προφίλ επεξεργασίας
+      create_new: Δημιουργία νέου
+      return_to_profile: Επιστροφή στο προφίλ
+    video:
+      edit: Επεξεργασία
+      are_you_sure: Είσαι σίγουρος;
+      delete: Διαγραφή
+    modal_form:
+      create_new_video: Δημιουργία νέου βίντεο
+      close: Close
+      create: Δημιουργία
+    form_content:
+      name: Όνομα
+      video_name: όνομα Βίντεο
+      source: διεύθυνση URL του κώδικα ενσωμάτωσης
+      video_url_or_embed_code: βίντεο url του βίντεο κώδικα ενσωμάτωσης
+    show:
+      video: βίντεο
+      return_to_all_videos: Επιστροφή σε όλα τα βίντεο
+      edit_video: Επεξεργασία βίντεο
+    edit:
+      edit_video: Επεξεργασία βίντεο
+      return_to_view_video: Επιστροφή στην προβολή βίντεο
+      view_video: Δείτε τα βίντεο
+    form:
+      edit: Επεξεργασία
+  photo_albums:
+    index:
+      photo_albums: Άλμπουμ
+      return_to_editing_profile: στο προφίλ επεξεργασίας
+      create_new: Δημιουργία νέου
+      return_to_profile: Επιστροφή στο προφίλ
+    photo_album:
+      edit: Επεξεργασία
+      create: Δημιουργία
+      are_you_sure: Είσαι σίγουρος;
+      delete: Διαγραφή
+    edit:
+      edit_photo_album: Επεξεργασία άλμπουμ φωτογραφιών
+      return_to_photo_albums: Να άλμπουμ φωτογραφιών
+      view_photo_album: View photo album
+    form_content:
+      name: Όνομα
+      photo_album_name: Φωτογραφία όνομα του άλμπουμ
+    form:
+      edit: Επεξεργασία
+      create: Δημιουργία
+    photo_album_uploader:
+      drag_and_drop_your_file: Drag and drop το αρχείο σας
+      here: εδώ
+      or: ή
+      from_other_sites: από άλλους δικτυακούς τόπους
+      write_down_link_for_your_image: Γράψτε κάτω σύνδεσμο της εικόνας σας
+      url_for_image: διεύθυνση URL για την εικόνα
+      upload: Μεταφόρτωση
+      from_facebook: από το Facebook
+      turn_on_facebook: Turn on Facebook
+      you_can_upload_your_photos_from_facebook: Μπορείτε να ανεβάσετε τις φωτογραφίες
+        σας από το Facebook
+      from_vkontakte: Από Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Μπορείτε να ανεβάσετε τις φωτογραφίες
+        σας από Vkontakte
+      turn_on_vkontakte: Ενεργοποιήστε Vkontakte
+      from_instagram: Από Instagram
+      you_can_upload_your_photos_from_instagram: Μπορείτε να ανεβάσετε τις φωτογραφίες
+        σας από το Instagram
+      turn_on_instagram: Ενεργοποιήστε Instagram
+      from_dropbox: Από το Dropbox
+      you_can_upload_your_photos_from_dropbox: Μπορείτε να ανεβάσετε τις φωτογραφίες
+        σας από το Dropbox
+      turn_on_dropbox: Ενεργοποιήστε Dropbox
+    show:
+      photo_album: Άλμπουμ
+      return_to_photo_albums: Να άλμπουμ φωτογραφιών
+      edit_photo_album: Επεξεργασία άλμπουμ φωτογραφιών
+    modal_form:
+      create_new_photo_album: Δημιουργία νέου άλμπουμ φωτογραφιών
+      close: Close
+      create: Δημιουργία
+  user_requests:
+    form:
+      content: Περιεχόμενο
+      edit: Επεξεργασία
+      create: Δημιουργία
+  notes:
+    index:
+      notes: Σημειώσεις
+      return_to_edit_profile: στο προφίλ επεξεργασίας
+      create_new: Δημιουργία νέου
+      return_to_profile: Επιστροφή στο προφίλ
+    note:
+      edit: Επεξεργασία
+      are_you_sure: Είσαι σίγουρος;
+      delete: Διαγραφή
+    show:
+      note: Σημείωση
+      return_to_notes: Επιστροφή στις σημειώσεις
+      edit_note: Επεξεργασία σημείωσης
+    form_content:
+      content: Περιεχόμενο
+      edit: Επεξεργασία
+      create: Δημιουργία
+    edit:
+      edit_note: Επεξεργασία σημείωσης
+      return_to_notes: Επιστροφή στις σημειώσεις
+      view_note: Προβολή σημείωσης
+  user_to_search_connections:
+    index:
+      requirements_lists: Απαιτήσεις λίστες
+      return_to_editing_profile: στο προφίλ επεξεργασίας
+      create_new: Δημιουργία νέου
+    user_to_search_connection:
+      edit: Επεξεργασία
+      are_you_sure: Είσαι σίγουρος;
+      delete: Διαγραφή
+    edit:
+      edit_requirements_list: Επεξεργασία λιστών απαιτήσεις
+      return_to_requirements_lists: Για λίστες απαιτήσεις
+    form_content:
+      name: Όνομα
+      name_of_your_requirements_list: Όνομα της λίστας απαιτήσεις σας
+    form:
+      edit: Επεξεργασία
+    show:
+      return_to_requirements_lists: Για λίστες απαιτήσεις
+  photos:
+    index:
+      photos: Φωτογραφίες
+      return_to_photo_albums: Επιστροφή στο άλμπουμ φωτογραφιών
+      return_to_profile: στο προφίλ
+  errors:
+    messages:
+      already_confirmed: είχε ήδη επιβεβαιωθεί, παρακαλώ προσπαθήστε να συνδεθείτε
+      confirmation_period_expired: πρέπει να επιβεβαιωθεί μέσα σε% {περιόδου}, παρακαλούμε
+        να ζητήσετε ένα νέο
+      expired: έχει λήξει, παρακαλούμε ζητήστε ένα νέο
+      not_found: δεν βρέθηκε
+      not_locked: δεν ήταν κλειδωμένη
+      not_saved:
+        one: '1 λάθος απαγορεύεται αυτό το% {πηγή} από το να σωθεί:'
+        other: "% {μετράνε} λάθη απαγορεύονται αυτό το% {πηγή} από το να σωθεί:"
+    bad_request:
+      bad_request: Bad Request
+      bad_request_description: Ο διακομιστής δεν μπορεί ή δεν θα επεξεργαστεί το αίτημα
+        οφείλεται σε εμφανές σφάλμα πελάτη
+      go_to_root: Πηγαίνετε στο ριζικό
+    unprocessable_entity:
+      unprocessable_entity: δυνατότητα επεξεργασίας Οντότητα
+      unprocessable_entity_description: Το αίτημα ήταν καλοσχηματισμένα, αλλά δεν
+        ήταν σε θέση να ακολουθούνται λόγω σημασιολογικά λάθη
+      go_to_root: Πηγαίνετε στο ριζικό
+    not_found:
+      not_found: Δεν Βρέθηκε
+      not_found_description: Ο πόρος που ζητήθηκε δεν μπορεί να βρεθεί, αλλά μπορεί
+        να είναι διαθέσιμες στο μέλλον
+      go_to_root: Πηγαίνετε στο ριζικό
+    forbidden:
+      forbidden: Απαγορευμένη
+      forbidden_description: Το αίτημα ήταν ένα έγκυρο αίτημα, αλλά ο διακομιστής
+        αρνείται να απαντήσει σε αυτό
+      go_to_root: Πηγαίνετε στο ριζικό
+    internal_server_error:
+      internal_server_error: Εσωτερικό σφάλμα διακομιστή
+      internal_server_error_description: Κάτι πήγε στραβά. Εμείς θα το διορθώσουμε
+        το συντομότερο δυνατόν.
+      go_to_root: Πηγαίνετε στο ριζικό
+  pages:
+    privacy:
+      privacy: Flutylove Πολιτική Προστασίας Προσωπικών Δεδομένων
+      general_provisions: Γενικές διατάξεις
+      p_1_1: 1.1. Οι κανονισμοί αυτοί είναι επίσημο έγγραφο της Εταιρίας Περιορισμένης
+        Ευθύνης "Technoelegance", που βρίσκεται στο 101000, Μόσχα, Ulanskiy pereulok
+        13, stroeniye 4, pomeshcheniye 1 (εφεξής Flutylove, η Εταιρεία, Εμείς), και
+        καθορίζουν τις διαδικασίες της επεξεργασίας των δεδομένων και την ασφάλεια
+        των πληροφοριών των ατόμων ο οποίος έχει συμπληρώσει την ηλικία των 18 ετών,
+        και οι οποίοι χρησιμοποιούν την ιστοσελίδα https://flutylove.com (εφεξής ιστοσελίδα)
+        και τις υπηρεσίες της (εφεξής οι χρήστες).
+      p_1_2: 1.2. Ο σκοπός των κανονισμών αυτών είναι να εξασφαλιστεί η δέουσα προστασία
+        των πληροφοριών των χρηστών, συμπεριλαμβανομένων των προσωπικών δεδομένων,
+        από μη εξουσιοδοτημένη πρόσβαση και αποκάλυψη.
+      p_1_3: 1.3. Οι σχέσεις που σχετίζονται με τη συλλογή, την αποθήκευση, τη διανομή
+        και την ασφάλεια των πληροφοριών των χρηστών ιστοσελίδας διέπεται από τους
+        κανονισμούς αυτούς, άλλα επίσημα έγγραφα της Εταιρείας και η ισχύουσα νομοθεσία
+        της Ρωσικής Ομοσπονδίας.
+      p_1_4: 1.4. Η τρέχουσα έκδοση του κανονισμού, που αποτελούν δημόσιο έγγραφο,
+        είναι διαθέσιμο σε οποιονδήποτε χρήστη του Διαδικτύου, όταν μετά την http://flutylove.com/pages/privacy
+        σύνδεσμο. Η Εταιρεία έχει το δικαίωμα να τροποποιήσει αυτούς τους κανονισμούς.
+        Σε περίπτωση που οι αλλαγές στους κανονισμούς, η Εταιρεία ενημερώνει τους
+        χρήστες δημοσιεύοντας τη νέα έκδοση των κανονισμών σχετικά με την ιστοσελίδα
+        στη μόνιμη http://flutylove.com/pages/privacy διεύθυνση, όχι αργότερα από
+        10 ημέρες πριν από την αποτελεσματική ημερομηνία των αλλαγών. Οι προηγούμενες
+        εκδόσεις των κανονισμών που αποθηκεύονται στο αρχείο τεκμηρίωσης της Εταιρείας.
+      p_1_5: 1.5. Αυτοί οι κανονισμοί έχουν αναπτυχθεί και χρησιμοποιούνται σύμφωνα
+        με την συμφωνία χρήστη. Σε περίπτωση οποιασδήποτε παράβασης των κανονισμών
+        αυτών και άλλα επίσημα έγγραφα της Εταιρείας, οι κανονισμοί αυτοί πρέπει να
+        επιβληθεί.
+      p_1_6: 1.6. Με τη χρήση της ιστοσελίδας, συμφωνείτε με τους όρους και τις προϋποθέσεις
+        της παρούσας Πολιτικής Προστασίας Προσωπικών Δεδομένων. Παρακαλούμε να τους
+        διαβάσετε προσεκτικά. Αν δεν συμφωνείτε με τους όρους της παρούσας Πολιτικής
+        Προστασίας Προσωπικών Δεδομένων, ή δεν έχουν συμπληρώσει την ηλικία των 18
+        ετών, δεν μπορείτε να χρησιμοποιήσετε την ιστοσελίδα και τις υπηρεσίες της.
+        Με τη χρήση της ιστοσελίδας, ανεξάρτητα από το αν είστε ο εγγεγραμμένος χρήστης
+        του Flutylove ή όχι, επιβεβαιώνετε ότι αποδέχεστε πλήρως την παρούσα Πολιτική
+        Προστασίας Προσωπικών Δεδομένων, και να συμφωνήσουν να την ακολουθήσει.
+      the_website_using_conditions: ιστοσελίδα που χρησιμοποιούν συνθήκες
+      p_2_1: '2.1. Για να χρησιμοποιήσετε την ιστοσελίδα Flutylove, θα πρέπει να εγγραφείτε.
+        Οι ακόλουθες πληροφορίες πρέπει να προσδιορίζονται κατά τη διάρκεια της εγγραφής:
+        όνομα, διεύθυνση ηλεκτρονικού ταχυδρομείου, το φύλο, η ημερομηνία γέννησης,
+        πληροφορίες τοποθεσίας. Ο Χρήστης μπορεί να παρέχει πρόσθετες προσωπικές λεπτομέρειες
+        σε δική του / επιθυμία της. Ο χρήστης μπορεί να επεξεργαστείτε ή να ενημερώσετε
+        τα προσωπικά στοιχεία ανά πάσα στιγμή. Η Εταιρεία έχει το δικαίωμα να ζητήσει
+        επιπλέον δικαιολογητικά σε περίπτωση αλλαγής φύλου και την ημερομηνία γέννησης
+        του χρήστη.'
+      p_2_2: '2.2. Επιτρέποντας την πρόσβαση στην ιστοσελίδα και τις υπηρεσίες της,
+        η εταιρεία, που ενεργεί κατά τρόπο εύλογο και καλή τη πίστει, θεωρεί ότι ο
+        Χρήστης: συνειδητοποιεί ότι για την εγγραφή στην ιστοσελίδα είναι απαραίτητο
+        να είναι άνω των 18 ετών? έχει όλα τα απαραίτητα δικαιώματα για να είναι σε
+        θέση να εγγραφείτε σε αυτή την ιστοσελίδα και να το χρησιμοποιήσετε? δείχνει
+        ακριβείς πληροφορίες για τον εαυτό του / της σύμφωνα με τις αιτήσεις για τη
+        χρήση των υπηρεσιών της ιστοσελίδας? έχει επίγνωση του γεγονότος ότι οι προσωπικές
+        πληροφορίες σχετικά με την ιστοσελίδα, παρέχονται από το χρήστη, μπορεί να
+        καταστεί διαθέσιμο για άλλους χρήστες της ιστοσελίδας και χρήστες του Διαδικτύου,
+        καθώς, μπορεί να αντιγραφεί και να διανεμηθεί από τους άλλους χρήστες? έχει
+        επίγνωση του γεγονότος ότι ορισμένα είδη πληροφοριών, μεταφέρεται στους άλλους
+        Χρήστες, δεν μπορεί να αφαιρεθεί από τον Χρήστη? είναι εξοικειωμένος με τους
+        κανονισμούς αυτούς, συμφωνεί με αυτούς και αναλαμβάνει τα καθορισμένα δικαιώματα
+        και υποχρεώσεις.'
+      p_2_3: 2.3. Η Εταιρεία δεν ελέγχει την ακρίβεια του ληφθέντος (συγκεντρώθηκαν)
+        πληροφορίες σχετικά με τους χρήστες, με την εξαίρεση των περιπτώσεων, όταν
+        η επαλήθευση είναι απαραίτητη προκειμένου να εκπληρώσει τις υποχρεώσεις της
+        Εταιρίας προς τον χρήστη.
+      information_processing_objectives: επεξεργασία πληροφοριών στόχων
+      p_3_1: 3.1. Η Εταιρεία διενεργεί την επεξεργασία πληροφοριών σχετικά με τους
+        χρήστες, συμπεριλαμβανομένων των προσωπικών δεδομένων τους, προκειμένου να
+        εκπληρώσει τις υποχρεώσεις της Εταιρίας προς τους Χρήστες για τη χρήση της
+        ιστοσελίδας και των υπηρεσιών της.
+      p_3_2: 3.2 Η Εταιρεία έχει το δικαίωμα να πραγματοποιήσει την επεξεργασία των
+        δεδομένων προσωπικού χαρακτήρα χωρίς να ενημερώσει την αρμόδια αρχή για την
+        προστασία των δικαιωμάτων των υποκειμένων των δεδομένων προσωπικού χαρακτήρα.
+      structure_of_the_user_information: Δομή των πληροφοριών χρήστη
+      p_4_1: '4.1. Τα προσωπικά δεδομένα των Χρηστών περιλαμβάνει:'
+      p_4_1_1: 4.1.1. όνομα, διεύθυνση ηλεκτρονικού ταχυδρομείου, το φύλο, ημερομηνία
+        γέννησης, πληροφορίες για την τοποθεσία, και τον αριθμό τηλεφώνου, οι οποίες
+        παρέχονται από τους χρήστες και υποτίθεται ότι είναι αρκετά ακριβώς για την
+        εγγραφή στην ιστοσελίδα?
+      p_4_1_2: 4.1.2. οι πληροφορίες που παρέχονται από το Χρήστη (π.χ. φωτογραφίες,
+        πληροφορίες σχετικά με ολέθριες συνήθειες, κλπ)?
+      p_4_1_3: 4.1.3. Επιπλέον παρέχονται από το Χρήστη σύμφωνα με την αίτηση της
+        Εταιρείας, προκειμένου να εκπληρώσει τις υποχρεώσεις της Εταιρίας προς τους
+        Χρήστες, που εμφανίζονται από τη συμφωνία χρήστη. Η Εταιρεία έχει το δικαίωμα,
+        ιδίως, να ζητήσει από το χρήστη ένα αντίγραφο του δελτίου ταυτότητας ή οποιαδήποτε
+        άλλα έγγραφα που περιέχει το όνομα, το φύλο και την ημερομηνία γέννησης, καθώς
+        και άλλες πρόσθετες πληροφορίες που, κατά την κρίση της Εταιρείας, θα είναι
+        απαραίτητο και επαρκείς για την ταυτοποίηση των εν λόγω χρηστών και θα εξαλείψει
+        την κατάχρηση και παραβίαση των δικαιωμάτων τρίτων.
+      p_4_2: '4.2. Άλλες χρήστη επεξεργασία των πληροφοριών από την Εταιρεία Η ιστοσελίδα
+        Διοίκηση επεξεργάζεται και άλλες πληροφορίες σχετικά με τους χρήστες, το οποίο
+        περιλαμβάνει:'
+      p_4_2_1: 4.2.1. κοινά δεδομένα, λαμβάνονται αυτόματα από το http-server κατά
+        την πρόσβαση στην ιστοσελίδα και τις μετέπειτα ενέργειες του χρήστη (διεύθυνση
+        IP του κεντρικού υπολογιστή, τον τύπο του λειτουργικού συστήματος του χρήστη,
+        σελίδες της ιστοσελίδας επισκέπτεται ο χρήστης).
+      p_4_2_2: 4.2.2. πληροφορίες οι οποίες λαμβάνονται αυτόματα κατά την πρόσβαση
+        στο δικτυακό τόπο που χρησιμοποιούν σελιδοδείκτες (cookies)?
+      p_4_2_3: 4.2.3. πληροφορίες που λαμβάνονται ως αποτέλεσμα των ενεργειών του
+        χρήστη στην Ιστοσελίδα?
+      p_4_2_4: 4.2.4. πληροφορίες που λαμβάνονται ως αποτέλεσμα των ενεργειών των
+        χρηστών στην Ιστοσελίδα.
+      p_5_1: '5.1. Επεξεργασίας δεδομένων προσωπικού χαρακτήρα πραγματοποιεί επί τη
+        βάσει των ακόλουθων αρχών: α) νόμιμους σκοπούς και τα μέσα της επεξεργασίας
+        των προσωπικών δεδομένων? β) η ειλικρίνεια? γ) η τήρηση των σκοπών επεξεργασίας
+        δεδομένων προσωπικού χαρακτήρα με σκοπό την προκαθορισμένη και δηλώθηκαν κατά
+        τη συλλογή των προσωπικών δεδομένων, καθώς και τη συμμόρφωση των διαπιστευτηρίων
+        της Εταιρείας? δ) τη συμμόρφωση του όγκου και το είδος της επεξεργασίας δεδομένων
+        προσωπικού χαρακτήρα, καθώς και η συμμόρφωση των μέσων της επεξεργασίας των
+        δεδομένων προσωπικού χαρακτήρα με τους σκοπούς της επεξεργασίας του? ε) απαραδέκτου
+        της συνδυάζοντας τις βάσεις δεδομένων που δημιουργήθηκαν για αθέμιτους σκοπούς,
+        που περιέχουν προσωπικά δεδομένα.'
+      p_5_1_1: 5.1.1. Η συλλογή των προσωπικών δεδομένων του χρήστη πραγματοποιείται
+        στον Ιστότοπο, όταν μητρώο, καθώς και στο μέλλον, όταν ο χρήστης προσθέτει
+        περισσότερες πληροφορίες σχετικά με τον εαυτό του / της χρησιμοποιώντας τα
+        εργαλεία Ιστοσελίδα με δική του / της πρωτοβουλία.
+      p_5_1_2: 5.1.2. Τα προσωπικά δεδομένα των χρηστών αποθηκεύονται αποκλειστικά
+        σε ηλεκτρονική μορφή και σε επεξεργασία με τη χρήση αυτοματοποιημένων συστημάτων,
+        με εξαίρεση τις περιπτώσεις όπου απαιτείται χειροκίνητη επεξεργασία δεδομένων
+        προσωπικού χαρακτήρα με σκοπό την εκπλήρωση των νομοθετικών απαιτήσεων.
+      p_5_1_3: 5.1.3. τα προσωπικά δεδομένα των χρηστών δεν μεταβιβάζονται σε τρίτους,
+        εκτός από τις περιπτώσεις που προβλέπονται ρητά από τους κανονισμούς και τη
+        συμφωνία για τον χρήστη. Με τη συγκατάθεση του χρήστη, τα προσωπικά δεδομένα
+        του χρήστη μπορούν να μεταδοθούν στον τρίτο αντισυμβαλλομένους της Εταιρείας
+        υπό την προϋπόθεση της ανάληψης της υποχρέωσης να διασφαλίζει την εμπιστευτικότητα
+        των πληροφοριών που συγκεντρώθηκαν, ειδικότερα, κατά τη χρήση υπηρεσιών και
+        εφαρμογών. προσωπικά προβλέψεων δεδομένα του χρήστη, κατόπιν αιτήματος των
+        κυβερνητικών αρχών (τοπικές αρχές) πραγματοποιείται κατά τη διαδικασία, όπως
+        απαιτείται από το Νόμο.
+      p_5_1_4: '5.1.4. Τα προσωπικά δεδομένα χρήστη διαγράφονται όταν: - τα δεδομένα
+        είναι αυτο-διαγραφεί από τη σελίδα από το Χρήστη? - Η σελίδα είναι αυτο-διαγραφεί
+        από το χρήστη? - Τα στοιχεία του χρήστη και την προσωπική σελίδα του έχουν
+        αφαιρεθεί από την Εταιρεία. Σε περίπτωση σελίδας διαγραφή από τον ίδιο τον
+        χρήστη, η Εταιρεία αποθηκεύει τα προσωπικά δεδομένα του χρήστη σε ηλεκτρονικά
+        μέσα της εντός 210 ημερών από την προσωπική σελίδα έχει αφαιρεθεί. Τα προσωπικά
+        δεδομένα διαγράφονται μετά τη λήξη των 210 ημερών από την προσωπική σελίδα
+        έχει αφαιρεθεί. Μέχρι τη λήξη της περιόδου, ο χρήστης έχει το δικαίωμα να
+        αποκαταστήσει την προσωπική σελίδα.'
+      users_rights_and_obligations: τα δικαιώματα και τις υποχρεώσεις του χρήστη
+      p_6_1: '6.1. Ο Χρήστης έχει το δικαίωμα να:'
+      p_6_1_1: 6.1.1. έχουν πρόσβαση στις πληροφορίες για το άτομό του / της, χωρίς
+        περιορισμούς και χωρίς επιβάρυνση από την επεξεργασία των προσωπικών του σελίδα
+        στον ιστοχώρο με τη χρήση του ονόματος χρήστη και τον κωδικό πρόσβασης?
+      p_6_1_2: 6.1.2. ανεξάρτητα κάνετε αλλαγές και διορθώσεις στις πληροφορίες σχετικά
+        με την προσωπική σελίδα του χρήστη στην Ιστοσελίδα, υπό την προϋπόθεση ότι
+        αυτές οι αλλαγές και διορθώσεις περιέχουν up-to-ημερομηνία και αληθινές πληροφορίες?
+      p_6_1_3: 6.1.3. αφαιρέσετε τις πληροφορίες από την προσωπική σελίδα για την
+        ιστοσελίδα?
+      p_6_1_4: 6.1.4. να ζητήσει από την εταιρεία να λάβει πιο συγκεκριμένες πληροφορίες,
+        μπλοκ ή να διαγράψετε τα προσωπικά δεδομένα, αν τα δεδομένα αυτά είναι ελλιπή,
+        παρωχημένα, ανακριβή, έλαβε παράνομα ή δεν είναι αναγκαία για την δηλωθείς
+        σκοπός της επεξεργασίας ή εάν οι ενέργειες που προβλέπονται στην παράγραφο
+        6.1.3 του εν λόγω κανονισμοί δεν μπορούν να εφαρμοστούν ανεξάρτητα?
+      p_6_1_5: 6.1.5. βάσει του αιτήματος, να λαμβάνουν τις πληροφορίες από την Εταιρεία
+        σχετικά με την επεξεργασία των προσωπικών του / της δεδομένων.
+      p_6_2: '6.2. Οι ακόλουθες πληροφορίες για κάθε εγγεγραμμένο ιστοσελίδα του χρήστη
+        είναι πάντα στη διάθεση του καταχωρημένου χρήστη: χρήστη όνομα, το φύλο, την
+        ηλικία, τη φωτογραφία του προφίλ και άλλες πληροφορίες, εάν ο χρήστης έχει
+        αναρτηθεί.'
+      p_6_3: 6.3. Η Εταιρεία δεν φέρει καμία ευθύνη για την αποκάλυψη των προσωπικών
+        δεδομένων του χρήστη από άλλους χρήστες της ιστοσελίδας που έχουν πρόσβαση
+        αυτών των δεδομένων.
+      p_6_4: 6.4. Στην περίπτωση των προσωπικών δεδομένων (άλλες πληροφορίες για το
+        χρήστη) απομάκρυνση από την προσωπική σελίδα ή την αφαίρεση της προσωπικής
+        σελίδας του χρήστη από την ιστοσελίδα του χρήστη, τις πληροφορίες του χρήστη
+        αντιγράφονται από άλλους χρήστες ή αποθηκεύονται στις σελίδες άλλων χρηστών
+        σώζεται.
+      p_7_1: 7.1. Η Εταιρεία λαμβάνει τεχνικά, οργανωτικά και νομικά μέτρα για να
+        εξασφαλίσουν ότι τα προσωπικά δεδομένα του χρήστη προστατεύονται από μη εξουσιοδοτημένη
+        ή τυχαία πρόσβαση, διαγραφή, τροποποίηση, κλείδωμα, αντιγραφή και διάδοσης
+        καθώς και από άλλες μη εξουσιοδοτημένες ενέργειες.
+      p_7_2: 7.2. σύνδεσης του χρήστη (διεύθυνση ηλεκτρονικού ταχυδρομείου ή τον αριθμό
+        του κινητού) και τον κωδικό πρόσβασης που χρησιμοποιούνται για πρόσβαση στην
+        Ιστοσελίδα. Ο χρήστης είναι υπεύθυνος για την τήρηση εμπιστευτικών αυτές τις
+        πληροφορίες. Ο Χρήστης δεν μπορεί να μεταφέρει το όνομα χρήστη και τον κωδικό
+        πρόσβασης σε τρίτους και είναι επίσης υποχρεωμένη να λάβει μέτρα για την εξασφάλιση
+        του απορρήτου της.
+      limitation_of_the_regulations_applicability: Περιορισμός της δυνατότητας εφαρμογής
+        των κανονισμών
+      p_8: Οι κανονισμοί αυτοί δεν έχουν επεκταθεί στις δράσεις και πόρους του Internet
+        από τρίτους. Η Εταιρεία δεν φέρει καμία ευθύνη για τις ενέργειες τρίτων που
+        πήρε η πρόσβαση στις πληροφορίες των χρηστών μέσω του Διαδικτύου ή υπηρεσίες
+        της ιστοσελίδας. Η Διοίκηση ιστοσελίδα συστήνει στους χρήστες να προσεγγίσουμε
+        το θέμα με την ποσότητα των πληροφοριών που αναρτώνται στην ιστοσελίδα με
+        υπεύθυνο τρόπο.
+      user_requests: αιτήματα των χρηστών
+      p_9_1: '9.1. Οι χρήστες έχουν το δικαίωμα να στέλνουν τις αιτήσεις στην Εταιρία,
+        συμπεριλαμβανομένων των αιτημάτων σχετικά με τη χρήση των προσωπικών δεδομένων
+        σε έντυπη μορφή στην ακόλουθη διεύθυνση: Ρωσία, 101000, Μόσχα, Ulanskiy pereulok
+        13, stroeniye 4, pomeshcheniye 1 ή με τη μορφή ηλεκτρονικών εγγράφων υπέγραψε
+        με ειδική ηλεκτρονική υπογραφή σύμφωνα με τη νομοθεσία της Ρωσικής Ομοσπονδίας,
+        από το e-mail: support@flutylove.com.'
+      p_9_2: '9.2. Το αίτημα του Χρήστη πρέπει να περιέχει τα ακόλουθα στοιχεία: τον
+        αριθμό του εγγράφου ταυτοποίησης του χρήστη ή του αντιπροσώπου του? ημερομηνία
+        έκδοσης της ανωτέρω εγγράφου και της αρχής έκδοσης? στοιχεία που επιβεβαιώνουν
+        τη συμμετοχή του χρήστη στις σχέσεις με τον φορέα εκμετάλλευσης (ιδίως, η
+        σύνδεση με τη σελίδα)? υπογραφή του Χρήστη ή εκπροσώπου του / της.'
+      p_9_3: 9.3. Η Εταιρεία αναλαμβάνει την υποχρέωση να εξετάσει και να απαντήσει
+        στο αίτημα του Χρήστη εντός 30 ημερών από την παραλαβή του.
+      p_9_4: 9.4. Όλη η αλληλογραφία που έλαβε η εταιρεία από τους Χρήστες (γραπτές
+        ή ηλεκτρονικές αιτήσεις) έχει χαρακτηριστεί ως πληροφορίες περιορισμένης πρόσβασης
+        και δεν μπορούν να αποκαλυφθούν χωρίς τη γραπτή συγκατάθεση του χρήστη. Τα
+        προσωπικά δεδομένα και άλλες πληροφορίες για τον χρήστη που έστειλε το αίτημα
+        δεν μπορεί να χρησιμοποιηθεί, χωρίς ειδική συγκατάθεση του χρήστη, με διαφορετικό
+        τρόπο από ό, τι για την απάντηση στο αίτημα ή στις περιπτώσεις που προβλέπονται
+        ρητά από την ισχύουσα νομοθεσία.
+    terms:
+      terms: Flutylove Συμφωνία χρήστη
+      welcome: Καλώς ήρθατε στο Flutylove!
+      about_terms: 'αυτούς τους Όρους Χρήσης (καθώς και τα έγγραφα που αναφέρονται
+        στο παρόν, συμπεριλαμβανομένων και Πολιτική Προστασίας Προσωπικών Δεδομένων)
+        είναι η σύμβαση της πρόσφυσης σύμφωνα με το άρθρο 428 του Αστικού Κώδικα της
+        Ρωσικής Ομοσπονδίας (εφεξής "η συμφωνία") μεταξύ της άτομο που έχει συμπληρώσει
+        το 18ο έτος της ηλικίας τους (εφεξής ο «χρήστης» και της Εταιρείας (ή «Εμείς»)
+        - Εταιρεία περιορισμένης ευθύνης "Technoelegance" (LLC "Technoelegance") (νομική
+        διεύθυνση: 101000, Μόσχα, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1), εφεξής Flutylove, σύμφωνα με το οποίο μπορείτε να χρησιμοποιήσετε αυτή
+        την ιστοσελίδα και όλες τις συναφείς υπηρεσίες που προσφέρονται μέσω της ιστοσελίδας
+        ή την εφαρμογή (που αναφέρεται γενικά ως "υπηρεσίες"). Η ιστοσελίδα νοείται
+        οποιαδήποτε από τις εκδοχές της, σε συνδυασμό με το όνομα τομέα flutylove.com
+        και λειτουργεί για μια ποικιλία συσκευών, συμπεριλαμβανομένων των web-based
+        έκδοση, κινητές εφαρμογές και εφαρμογές για κοινωνικά δίκτυα.Με τη χρήση αυτής
+        της ιστοσελίδας συμφωνείτε με τους όρους της Συμφωνίας και της Πολιτικής Προστασίας
+        Προσωπικών Δεδομένων. Παρακαλούμε να τους διαβάσετε προσεκτικά. Αν δεν συμφωνείτε
+        με τους όρους της Συμφωνίας και της Πολιτικής Προστασίας Προσωπικών Δεδομένων,
+        ή δεν έχουν συμπληρώσει την ηλικία των 18 ετών, δεν μπορείτε να χρησιμοποιήσετε
+        την ιστοσελίδα και τις υπηρεσίες της.Με τη χρήση της ιστοσελίδας, ανεξαρτήτως
+        είστε εγγεγραμμένος χρήστης του Flutylove ή όχι, συμφωνείτε πλήρως με την
+        παρούσα συμφωνία και την Πολιτική Απορρήτου μας, η οποία περιλαμβάνεται στην
+        παρούσα συμφωνία από την σύνδεση και είναι διαθέσιμη στην ιστοσελίδα, και
+        να συμμορφώνονται με αυτό.Κατόπιν αιτήματος του χρήστη, η Εταιρεία αναλαμβάνει
+        την υποχρέωση να υπογράψουν την παρούσα συμφωνία σε έντυπη μορφή και να το
+        στείλετε στο άτομο που ζητεί τα έγγραφα.Η Εταιρεία διατηρεί το δικαίωμα να
+        τροποποιήσει την συμφωνία χρήστη και κάθε έγγραφο που αναφέρεται σε αυτό.
+        Να γνωρίζει τις αλλαγές που πρέπει να κρατήσει-up-to-ημερομηνία των πληροφοριών
+        σχετικά με αυτές τις αλλαγές σε τακτική βάση. Εμείς θα σας ενημερώσουμε σχετικά
+        με τις αλλαγές που κάναμε σε αυτή τη σελίδα παρακάτω. Οι αλλαγές δεν αφορούν
+        πίσω και θα τεθεί σε ισχύ εντός δέκα ημερών από την ημερομηνία δημοσίευσης.
+        Ωστόσο, σε περίπτωση που συνδέονται με την εφαρμογή των νέων υπηρεσιών ή την
+        τροποποίηση της νομοθεσίας, θα πρέπει να εφαρμοστούν αμέσως. Αν δεν συμφωνείτε
+        με τις αλλαγές στη συμφωνία, θα πρέπει να σταματήσετε να χρησιμοποιείτε την
+        Ιστοσελίδα και τις εφαρμογές της.'
+      consent_to_accept_the_terms_of_user_agreement: 1. ΣΥΓΚΑΤΑΘΕΣΗ να αποδεχτείτε
+        τους όρους της συμφωνίας χρήστη.
+      p_1: α. Ηλεκτρονική συμφωνία. Αυτή η συμφωνία είναι μια ηλεκτρονική έκδοση της
+        σύμβασης, η οποία περιγράφει τους όρους χρήσης της ιστοσελίδας και των Υπηρεσιών.
+        Με τη σύνδεση με την ιστοσελίδα ή να γίνει ένας χρήστης, αποδέχεστε την παρούσα
+        συμφωνία και συμφωνείτε με όλους τους όρους, προϋποθέσεις και σημειώσεις που
+        περιέχονται ή αναφέρονται εκεί. Επιβεβαιώνετε και συμφωνείτε ότι οι χρήστες
+        του Flutylove μπορεί να είναι ένα μέρος μιας online κοινότητας που περιλαμβάνει
+        άλλες ιστοσελίδες που ανήκουν στην Εταιρεία ή τις θυγατρικές της. Ως εκ τούτου,
+        τα προφίλ στην Ιστοσελίδα μπορούν να προβληθούν σε άλλες παρόμοιες ιστοσελίδες
+        και οι συνδρομητές πληρώνουν από τη μία ιστοσελίδα μπορεί να επικοινωνεί με
+        άλλους συνδρομητές πληρώνουν από όλους τους δικτυακούς τόπους. σι. Σε ηλεκτρονική
+        μορφή. Με τη σύνδεση με την ιστοσελίδα ή να γίνει ένας χρήστης, δίνετε τη
+        συγκατάθεσή σας για να σας παρέχει με την ηλεκτρονική συμφωνία. ντο. Έντυπη
+        μορφή. Έχετε το δικαίωμα να λάβουν το έντυπη μορφή της παρούσας συμφωνίας.
+        Μπορείτε να ζητήσετε έντυπη έκδοση της παρούσας συμφωνίας, πριν ή μετά από
+        αυτό θα υπογραφεί σε ηλεκτρονική μορφή. Παρακαλώ, επικοινωνήστε με την υπηρεσία
+        πελατών μας για περισσότερες πληροφορίες. ρε. Πρόσβαση και κατέβασμα. Για
+        να αποκτήσετε πρόσβαση και κατεβάστε αυτή την ηλεκτρονική συμφωνία, θα πρέπει
+        να έχετε πρόσβαση στο Internet ή απευθείας μέσω των συσκευών με την πρόσβαση
+        στους πόρους Web. Πρέπει να έχετε τον απαραίτητο εξοπλισμό για να συνδεθείτε
+        στο Internet, δηλαδή τον υπολογιστή, μόντεμ ή άλλη συσκευή πρόσβασης. Παρακαλούμε,
+        εκτυπώστε ένα αντίγραφο της παρούσας συμφωνίας και να το διατηρήσει. Για να
+        κατεβάσετε την ηλεκτρονική μορφή της συμφωνίας, να το αποθηκεύσετε στον υπολογιστή
+        σας με τη βοήθεια οποιουδήποτε επεξεργαστή κειμένου.
+      the_right_of_using_the_website: 2. ΤΟ ΔΙΚΑΙΩΜΑ ΤΗΣ ΧΡΗΣΗ ΤΗΣ ΙΣΤΟΣΕΛΙΔΑΣ.
+      p_2: Θα πρέπει να είστε τουλάχιστον δεκαοκτώ (18) ετών για να γίνει ένας εγγεγραμμένος
+        χρήστης του παρόντος δικτυακού τόπου. Σε περίπτωση μη συμμόρφωσης με τις απαιτήσεις,
+        η πρόσβαση στην Ιστοσελίδα θα αρνηθεί. Χρησιμοποιώντας την ιστοσελίδα, ο χρήστης
+        θα πρέπει να γνωρίζουν ότι τα προσωπικά στοιχεία που δημοσιεύεται στην ιστοσελίδα
+        μπορεί να είναι διαθέσιμο για άλλους χρήστες του Διαδικτύου, και η Εταιρεία
+        δεν φέρει καμία ευθύνη για τις πράξεις τους. Με τη χρήση αυτής της ιστοσελίδας
+        μπορείτε διεκδικούν και αναλαμβάνουν ότι έχετε το δικαίωμα, την εξουσία και
+        τη δυνατότητα να συνάψουν την παρούσα συμφωνία και συναίνεση για να ακολουθήσει
+        όλους τους όρους και τις προϋποθέσεις του. Να γίνει ένας χρήστης θα διεκδικήσει
+        και να δεσμεύονται ότι θα έχουν ποτέ υποστεί καταδίκης για ποινικό αδίκημα
+        που συνδέεται με τη σεξουαλική βία. Η ιστοσελίδα έχει σχεδιαστεί μόνο για
+        προσωπική χρήση. Απαγορεύεται να χρησιμοποιήσετε την ιστοσελίδα για εμπορικούς
+        σκοπούς. Εταιρικές οντότητες δεν μπορεί να είναι οι χρήστες αυτής της ιστοσελίδας,
+        καθώς δεν μπορούν να χρησιμοποιήσουν αυτήν την υπηρεσία ή την ιστοσελίδα για
+        τους σκοπούς τους. Παράνομη και / ή μη εξουσιοδοτημένη χρήση της ιστοσελίδας,
+        συμπεριλαμβανομένης της συλλογής ονομάτων χρηστών ή / και διευθύνσεις ηλεκτρονικού
+        ταχυδρομείου από τη βοήθεια των ηλεκτρονικών ή άλλων μέσων με σκοπό την αποστολή
+        ανεπιθύμητων μηνυμάτων και συνδέσμους επιδιώκεται και η Εταιρεία μπορεί να
+        λάβει τα κατάλληλα μέτρα σύμφωνα με το νόμο, συμπεριλαμβανομένων μια έκκληση
+        προς τις αρχές επιβολής του νόμου.
+      pricing_and_registration: 3. Τιμολόγηση και ΕΓΓΡΑΦΕΣ
+      p_3: Θα είναι σε θέση να γίνει το Χρήστη της Flutylove στην ελεύθερη βούληση
+        και χωρίς χρέωσή σας από την εγγραφή στην ιστοσελίδα. Καθώς ο χρήστης, μπορείτε
+        να χρησιμοποιήσετε συγκεκριμένο εύρος των υπηρεσιών και δυνατοτήτων της ιστοσελίδας.
+        Ο χρήστης της ιστοσελίδας είναι ένα άτομο καταχωρηθεί στην ιστοσελίδα σύμφωνα
+        με τις καθιερωμένες τάξης και ο οποίος έχει συμπληρώσει το 18ο έτος της ηλικίας
+        τους. Κατά την εγγραφή στην ιστοσελίδα ο χρήστης είναι υποχρεωμένος να παρέχει
+        τις απαραίτητες και χρήσιμες πληροφορίες για την Εταιρεία για να ολοκληρωθεί
+        η σελίδα του χρήστη, συμπεριλαμβανομένης της σύνδεσης (διεύθυνση ηλεκτρονικού
+        ταχυδρομείου ή τον αριθμό τηλεφώνου) και τον κωδικό πρόσβασης για την πρόσβαση
+        στην ιστοσελίδα, καθώς και το όνομα, το οποίο είναι μοναδικά για κάθε χρήστη.
+        Το έντυπο για την εγγραφή μπορεί να ζητήσει πρόσθετες πληροφορίες από το χρήστη.
+        Ο χρήστης είναι υπεύθυνος για την εγκυρότητα, την επικαιρότητα, την πληρότητα
+        και τη συμμόρφωση με τη νομοθεσία της Ρωσικής Ομοσπονδίας των πληροφοριών
+        που παρέχονται κατά την εγγραφή, και την καθαρότητα της από αξιώσεις τρίτων.
+        Κατά την εγγραφή ο Χρήστης συμφωνεί με αυτήν την συμφωνία και να αναλάβει
+        καθορίζονται τα δικαιώματα και οι υποχρεώσεις, που συνδέονται με τη χρήση
+        και τη λειτουργία της ιστοσελίδας. Ο χρήστης παίρνει πλήρη πρόσβαση στη χρήση
+        των λειτουργιών ιστοσελίδας. Η Εταιρεία αναλαμβάνει τα δικαιώματα και τις
+        υποχρεώσεις του Χρήστη, που καθορίζονται στον παρόντα κανονισμό, μετά την
+        επιτυχή εγγραφή του χρήστη στην Ιστοσελίδα επεξεργασία προσωπικών δεδομένων
+        του χρήστη είναι κατασκευασμένο σύμφωνα με το νόμο της Ρωσικής Ομοσπονδίας.
+        Η Διοίκηση ιστοσελίδα επεξεργάζεται προσωπικά δεδομένα του χρήστη, ώστε να
+        παρέχει στο χρήστη με πρόσβαση με τη χρήση των λειτουργιών ιστοσελίδας, συμπεριλαμβανομένων
+        λαμβάνουν εξατομικευμένες (στοχευμένη) διαφήμιση? επαλήθευση, έρευνα και ανάλυση
+        των δεδομένων αυτών, επιτρέποντας να στηρίξει και να βελτιώσει τις λειτουργίες
+        και τα τμήματα της ιστοσελίδας, καθώς και να αναπτύξουν νέες λειτουργίες και
+        τμήματα. Η Εταιρεία λαμβάνει όλα τα απαραίτητα μέτρα για την προστασία των
+        προσωπικών δεδομένων του χρήστη από μη εξουσιοδοτημένη πρόσβαση, τροποποίηση,
+        αποκάλυψη ή διαγραφής. Η εταιρεία παρέχει πρόσβαση στα προσωπικά δεδομένα
+        του χρήστη μόνο σε εκείνους τους υπαλλήλους, τους αναδόχους και τους πράκτορες
+        της Εταιρείας, οι οποίοι χρειάζονται αυτές τις πληροφορίες για να υποστηρίξει
+        τη λειτουργικότητα ιστοσελίδα και να παρέχει στο χρήστη με πρόσβαση σε χρησιμοποιώντας.
+        Η Εταιρεία της Ιστοσελίδας έχει το δικαίωμα να χρησιμοποιήσει τις πληροφορίες
+        που παρέχονται από το Χρήστη, συμπεριλαμβανομένων των προσωπικών δεδομένων,
+        προκειμένου να εξασφαλιστεί η συμμόρφωση με τις απαιτήσεις της ισχύουσας νομοθεσίας
+        της Ρωσικής Ομοσπονδίας (συμπεριλαμβανομένης της πρόληψης και / ή καταστολή
+        των παράνομων ή / και παράνομη ενέργειες των χρηστών). Η γνωστοποίηση των
+        πληροφοριών που παρέχονται από το Χρήστη μπορεί να γίνεται μόνο σύμφωνα με
+        την ισχύουσα νομοθεσία της Ρωσικής Ομοσπονδίας, κατόπιν αιτήματος των δικαστικών,
+        των υπηρεσιών επιβολής του νόμου, καθώς και σε άλλες περιπτώσεις, όπως προβλέπεται
+        από την ισχύουσα νομοθεσία της Ρωσικής Ομοσπονδίας. Στο βαθμό που η Εταιρεία
+        επεξεργάζεται τα προσωπικά δεδομένα του χρήστη για την εκτέλεση των εν λόγω
+        κανονισμών, η συγκατάθεση του χρήστη για την επεξεργασία των προσωπικών δεδομένων
+        δεν απαιτείται δυνάμει των διατάξεων του νόμου για τα προσωπικά δεδομένα.
+        Το όνομα χρήστη και ο κωδικός πρόσβασης που επιλέγεται από τον χρήστη είναι
+        αναγκαίες και επαρκείς πληροφορίες για την πρόσβαση του χρήστη στην Ιστοσελίδα.
+        Ο Χρήστης έχει το δικαίωμα να δώσει την είσοδο του / της και τον κωδικό πρόσβασης
+        σε τρίτους, και είναι απολύτως υπεύθυνος για την ασφάλειά του, επιλέγοντας
+        το δρόμο για την αποθήκευση τους σε ανεξάρτητη βάση. Χρησιμοποιώντας το υλικό
+        του / της και το λογισμικό ο χρήστης μπορεί να επιτρέπει την αποθήκευση της
+        σύνδεσης και τον κωδικό πρόσβασης (μέσω των cookies) για μεταγενέστερη αυτόματη
+        εξουσιοδότηση στην Ιστοσελίδα. Κάθε μέτρο που λαμβάνεται με τη χρήση του ονόματος
+        χρήστη και του κωδικού πρόσβασης του χρήστη θεωρείται ότι διαπράχθηκε από
+        το χρήστη, εκτός αν αποδειχθεί το αντίθετο από το Χρήστη. Ο χρήστης είναι
+        υποχρεωμένος να ενημερώσει αμέσως την Εταιρεία, σύμφωνα με την καθιερωμένη
+        διαδικασία σε περίπτωση μη εξουσιοδοτημένης πρόσβασης στο όνομα χρήστη και
+        τον κωδικό πρόσβασης και / ή την σελίδα του λογαριασμού, ή αποκάλυψη της σύνδεσης
+        και τον κωδικό πρόσβασης. Μετά την εγγραφή κερδίζει το χρήστη το δικαίωμα
+        να δημιουργήσουν, τη χρήση, και καθορίζουν το περιεχόμενο των προσωπικών σελίδων
+        του / της για ιδιοτελείς και μη εμπορικούς σκοπούς, καθώς και να πάρει την
+        ευκαιρία να έχουν πρόσβαση και να δημοσιεύσετε τις πληροφορίες σχετικά με
+        τις προσωπικές σελίδες των άλλων Χρηστών . Ο χρήστης ως ιδιοκτήτης των πληροφοριών
+        που δημοσιεύτηκε στην προσωπική σελίδα γνωρίζει ότι με εξαίρεση τις περιπτώσεις
+        που καθορίζονται από τους κανονισμούς και την ισχύουσα νομοθεσία της Ρωσικής
+        Ομοσπονδίας, η Εταιρεία δεν συμμετέχει στην ανάπτυξη και τη χρήση του περιεχομένου
+        και δεν ελέγχει πρόσβαση στη σελίδα του χρήστη από άλλους χρήστες.
+      terms_4: 4. ΟΡΟΥΣ.
+      p_4: Η παρούσα συμφωνία παραμένει σε πλήρη ισχύ για όσο διάστημα χρησιμοποιείτε
+        την Ιστοσελίδα. Μπορείτε να πάψει να είναι το χρήστη της ιστοσελίδας με την
+        αφαίρεση της σελίδας σας ανά πάσα στιγμή, για οποιονδήποτε λόγο, επικοινωνώντας
+        απευθείας σύνδεση εξυπηρέτηση πελατών μας ή χρησιμοποιώντας την υπηρεσία της
+        Ιστοσελίδας. Η Εταιρεία διατηρεί το δικαίωμα να διαγράψετε τα προσωπικά σας
+        σελίδα ανά πάσα στιγμή. Δεν είμαστε υποχρεωμένοι να σας ειδοποιεί πριν από
+        τη διαγραφή της σελίδας, εάν η Εταιρεία έχει το λόγο για να πιστεύει ότι έχετε
+        παραβιάσει τους όρους της συμφωνίας. Δεν είμαστε υποχρεωμένοι να αποκαλύπτουν
+        το λόγο για τη διαγραφή του λογαριασμού σας? σε ορισμένες περιπτώσεις μπορεί
+        να απαγορεύεται η δημοσιοποίηση των πληροφοριών αυτών. Μετά τη διαγραφή της
+        σελίδας σας, όλοι οι όροι που μπορεί να ισχύει μετά την καταγγελία της παρούσας
+        συμφωνίας από τη φύση τους, θα τεθεί σε ισχύ μετά την εν λόγω καταγγελία.
+        Εάν διαγράψετε τη σελίδα σας μέσω της Ιστοσελίδας με δική σας βούληση, μπορεί
+        να σας ζητήσουμε να καθορίσετε την αιτία της εν λόγω διαγραφής.
+      account_security: 5. ΛΟΓΑΡΙΑΣΜΟΣ ΑΣΦΑΛΕΙΑΣ.
+      p_5: Είστε υπεύθυνοι για την εμπιστευτικότητα διατήρηση του ονόματος χρήστη
+        και τον κωδικό πρόσβασής σας, η οποία θα οριστεί κατά τη στιγμή της εγγραφής.
+        Επίσης, είστε απολύτως υπεύθυνοι για τις όλες τις δράσεις που συμβαίνουν κάτω
+        από το όνομα χρήστη και τον κωδικό πρόσβασής σας. Συμφωνείτε να (α) να μας
+        ειδοποιήσετε αμέσως για οποιαδήποτε μη εξουσιοδοτημένη χρήση του όνομα χρήστη
+        και τον κωδικό πρόσβασής σας, καθώς και κάθε άλλη παραβίαση της ασφάλειας,
+        και (β) την έξοδο από το λογαριασμό σας στο τέλος κάθε συνεδρίας. Η ιστοσελίδα
+        δεν ευθύνεται για τυχόν ζημιές ή απώλειες που προκύπτουν από τη μη συμμόρφωση
+        της διάταξης αυτής. Θα πρέπει να είστε ιδιαίτερα προσεκτικοί κατά την πρόσβαση
+        στο λογαριασμό σας μέσω ενός δημόσιου υπολογιστή, ώστε μη εξουσιοδοτημένα
+        πρόσωπα δεν θα μπορούσε να κατασκοπεύει ή καταγράψει τον κωδικό πρόσβασής
+        σας ή οποιαδήποτε άλλη προσωπική πληροφορία. Μπορείτε, επίσης, να επιβεβαιώσει
+        και να συμφωνήσουν ότι το Διαδίκτυο δεν ήταν ποτέ εντελώς απόρρητες και ασφαλείς.
+        Καταλαβαίνετε ότι τυχόν μηνύματα ή πληροφορίες που δημοσιεύετε στην Ιστοσελίδα
+        μπορεί να διαβάσει ή να χρησιμοποιηθούν από άλλους χρήστες, ακόμη και αν υπάρχει
+        ειδική προειδοποίηση ότι οι πληροφορίες είναι κρυφό.
+      your_interaction_with_other_users_of_the_website: 6. αλληλεπίδρασή σας με τους
+        άλλους χρήστες της ΙΣΤΟΣΕΛΙΔΑΣ.
+      p_6: α. ΕΙΣΤΕ ΑΠΟΚΛΕΙΣΤΙΚΑ ΥΠΕΥΘΥΝΟΙ ΓΙΑ αλληλεπίδρασή σας με άλλους χρήστες.
+        Πρέπει να καταλάβετε ότι η εταιρεία δεν ΕΠΑΛΗΘΕΥΣΗ τους χρήστες τους σχετικά
+        με το αν έχουν ποινικό μητρώο. Επίσης, η εταιρεία δεν ζητά τις πληροφορίες
+        σχετικά με το παρελθόν τους χρήστες ΚΑΙ ΔΕΝ επικύρωση αυτού του στοιχείου.
+        Η ΕΤΑΙΡΕΙΑ ΔΕΝ ΠΑΡΕΧΕΙ ΚΑΜΙΑ ΕΓΓΥΗΣΗ ΣΧΕΤΙΚΑ ΜΕ συμπεριφορά των χρηστών και
+        τη συμβατότητά τους με το πραγματικό ή μελλοντικούς χρήστες. ΤΑΥΤΟΧΡΟΝΑ Η
+        ΕΤΑΙΡΕΙΑ ΔΙΑΤΗΡΕΙ ΤΟ ΔΙΚΑΙΩΜΑ ΓΙΑ ΤΟΝ ΕΛΕΓΧΟ ΤΟΥΣ ΧΡΗΣΤΕΣ ΓΙΑ ποινικό μητρώο
+        ή να πραγματοποιήσει άλλο έλεγχο ανά πάσα στιγμή χρησιμοποιώντας δημόσια διαθέσιμη
+        πληροφορία. σι. Σε καμία περίπτωση η εταιρεία δεν είναι ΥΠΕΥΘΥΝΗ ΓΙΑ ΤΥΧΟΝ
+        ΖΗΜΙΕΣ ΕΙΤΕ ΕΙΝΑΙ ΑΜΕΣΗ, ΕΜΜΕΣΗ, ΓΕΝΙΚΗ ή έχουν συγκεκριμένη ΦΥΣΗ, εξισωτικά,
+        ΚΑΙ / Ή ΤΥΧΑΙΕΣ, που λαμβάνονται από εσάς ή οποιοδήποτε άλλο ΠΡΟΣΩΠΩΝ ΩΣ ΑΠΟΤΕΛΕΣΜΑ
+        ΤΗ ΧΡΗΣΗ ΤΗΣ ΙΣΤΟΣΕΛΙΔΑΣ, ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ, ΕΝΔΕΙΚΤΙΚΑ, ΦΥΣΙΚΕΣ ΤΡΑΥΜΑΤΙΣΜΟ,
+        το άγχος ή / και άλλες ζημιές, ΛΑΜΒΑΝΕΤΑΙ ΑΠΟ ΕΣΑΣ ΩΣ ΑΠΟΤΕΛΕΣΜΑ ΤΗΣ ΕΠΙΚΟΙΝΩΝΙΑΣ
+        ή συναντήσεις με άλλους εγγεγραμμένους χρήστες της ιστοσελίδας ή τους ανθρώπους,
+        ΠΟΥ θα ασχοληθεί με ΣΤΗΝ ΙΣΤΟΣΕΛΙΔΑ. Συμφωνείτε να λάβετε όλα τα δυνατά μέτρα
+        κατά την επικοινωνία με τους άλλους χρήστες, ειδικότερα στις περιπτώσεις εκείνες,
+        όταν αποφασίσετε να τους συναντήσουμε στην πραγματική ζωή. ΘΑ ΠΡΕΠΕΙ ΝΑ ΓΝΩΡΙΖΕΤΕ,
+        αυτό που η εταιρεία δεν δίνει μια δηλούμενες Ή ΣΙΩΠΗΡΗ ΕΓΓΥΗΣΗ ΣΧΕΤΙΚΑ ΜΕ
+        Συμβατότητα με την χρήστες αυτής της ιστοσελίδας. Δεν πρέπει να δίνετε τις
+        οικονομικές πληροφορίες σε άλλους χρήστες της ιστοσελίδας (ΓΙΑ ΠΑΡΑΔΕΙΓΜΑ
+        τις πληροφορίες σχετικά με την πιστωτική ή πλαστικές κάρτες). ντο. Η Υπηρεσία
+        μπορεί να μεταφράσει το όνομά σας ή το όνομα της πόλης σας σε άλλες γλώσσες?
+        ρε. Η υπηρεσία δεν είναι υπεύθυνη για τις δράσεις που αναφέρονται στο παρόν
+        άρθρο. Σε περίπτωση που δεν συμφωνείτε με τους πλήρως ή μερικώς, ΠΑΡΑΚΑΛΩ
+        ΑΜΕΣΩΣ ΑΦΗΣΤΕ ΤΗΝ ΙΣΤΟΣΕΛΙΔΑ?
+      the_information_posted_by_you_on_flutylove: 7. Οι πληροφορίες που αναρτώνται
+        ΑΠΟ ΕΣΑΣ ΓΙΑ FLUTYLOVE
+      p_7: α. Είστε αποκλειστικά υπεύθυνοι για τις πληροφορίες που δημοσιεύουν ή να
+        αποδείξει (στο εξής "post") στην υπηρεσία ή να μεταφέρει σε άλλους χρήστες.
+        Δεν επιτρέπεται να δημοσιεύσετε στην υπηρεσία ή να μεταβιβάσει σε άλλους χρήστες
+        οποιεσδήποτε πληροφορίες σχετικά με δυσφημιστικό, ανακριβές, καταχρηστικό,
+        άσεμνο, χυδαίο και επιθετικό περιεχόμενο, τις πληροφορίες σχετικά με το σεξουαλικό
+        περιεχόμενο, καθώς και απειλητική ή καταδίωξη πληροφορίες, πληροφορίες φυλετικής
+        φύσεως διακρίσεις ή παράνομων πληροφοριών, ή οποιαδήποτε άλλη πληροφορία που
+        παραβιάζει ή παραβιάζει τα δικαιώματα οποιουδήποτε άλλου μέρους (συμπεριλαμβανομένων,
+        χωρίς περιορισμό, τα δικαιώματα πνευματικής ιδιοκτησίας, τα δικαιώματα της
+        ιδιωτικής ζωής και της δημοσιότητας). Δεν επιτρέπεται να παρέχουν ανακριβείς,
+        παραπλανητικές ή ψευδείς πληροφορίες για την Εταιρεία ή οποιοδήποτε άλλο χρήστη.
+        Εάν οι πληροφορίες που παρέχονται στην εταιρεία Flutylove ή τον άλλο χρήστη
+        γίνεται στη συνέχεια ανακριβείς, παραπλανητικές ψευδών, πρέπει να ενημερώσετε
+        αμέσως την εταιρία Flutylove αυτών των αλλαγών. Μπορείτε να υποβάλει και να
+        εγγυάται ότι όλες οι πληροφορίες που παρέχονται κατά την εγγραφή είναι ακριβή
+        και αληθή, και να αλλάξετε αμέσως κάθε πληροφορία που στη συνέχεια γίνεται
+        ανακριβείς, παραπλανητικές ή ψευδείς. σι. Καταλαβαίνετε και συμφωνείτε ότι
+        διατηρούμε το δικαίωμα, αλλά όχι την υποχρέωση να παρακολουθεί την πληροφορία
+        ή περιεχόμενο που μεταφέρεται στην Υπηρεσία ή να αναρτηθούν σε δημόσια πρόσβαση
+        στην Υπηρεσία. Έχουμε το δικαίωμα να διαγράψει οποιοδήποτε από τέτοιες πληροφορίες
+        ή περιεχόμενο χωρίς την ανάθεση καμία αιτιολογία και την κοινοποίηση. ντο.
+        Όλα τα αντικείμενα που εμφανίζονται στην Ιστοσελίδα, συμπεριλαμβανομένων του
+        σχεδιασμού στοιχεία, κείμενα, γραφικά, εικόνες, βίντεο, σενάρια, προγράμματα,
+        μουσική, ήχους και άλλα αντικείμενα και τις βιβλιοθήκες τους (στο εξής - Πληροφορίες),
+        αποτελούν πνευματική ιδιοκτησία των αποκλειστικών δικαιωμάτων της Εταιρείας,
+        οι χρήστες του ο δικτυακός τόπος και τα άλλα δικαιώματα των κατόχων, όλα τα
+        δικαιώματα για αυτά τα αντικείμενα που προστατεύονται. ρε. Εκτός από τις περιπτώσεις
+        που καθορίζονται σύμφωνα με την παρούσα συμφωνία, καθώς και την ισχύουσα νομοθεσία
+        της Ρωσικής Ομοσπονδίας, δεν υπάρχουν πληροφορίες μπορεί να αντιγραφεί (αναπαράγεται),
+        επεξεργασία, διανομή, εμφανίζεται σε ένα πλαίσιο, που δημοσιεύθηκε, λήψη,
+        μεταφέρονται, να πωλούνται ή χρησιμοποιούνται με άλλους τρόπους ολόκληρα ή
+        σε τεμάχια, χωρίς προηγούμενη άδεια του κατόχου, εκτός εάν ο κάτοχος των δικαιωμάτων
+        εξέφρασε ρητά τη συγκατάθεσή του για την ελεύθερη χρήση των πληροφοριών από
+        οποιοδήποτε άτομο. μι. Με την ταχυδρόμηση των πληροφοριών σχετικά με την Ιστοσελίδα
+        νόμιμα ανήκει στον Χρήστη, ο Χρήστης παρέχει πρόσβαση για άλλους χρήστες για
+        μη αποκλειστικό δικαίωμα να το χρησιμοποιεί με την προβολή, η αναπαραγωγή
+        (συμπεριλαμβανομένης της αντιγραφής) και άλλα δικαιώματα αποκλειστικά για
+        τους σκοπούς του προσωπική, μη εμπορική χρήση, εκτός περιπτώσεων όταν η χρήση
+        προκαλεί ή ενδέχεται να προκαλέσει ζημία στα συμφέροντα του κατόχου του δικαιώματος
+        που προστατεύεται από το νόμο. φά. Η χρήση των πληροφοριών από το χρήστη,
+        η οποία αποκτήθηκε πρόσβαση αποκλειστικά και μόνο για προσωπική μη εμπορική
+        χρήση, επιτρέπεται υπό την προϋπόθεση ότι όλα τα σημάδια της πατρότητας (πνευματικά
+        δικαιώματα) ή άλλες ανακοινώσεις της πατρότητας θα διατηρηθεί, το όνομα του
+        συγγραφέα και των προϊόντων της θα μείνει χωρίς αλλαγή. σολ. Ο Χρήστης παρέχει
+        επίσης την εταιρεία με ένα μη αποκλειστικό δικαίωμα να χρησιμοποιήσει τις
+        πληροφορίες που αναρτώνται στην ιστοσελίδα και τα οποία ανήκουν σε αυτόν /
+        αυτήν νομίμως χωρίς να ληφθεί υπόψη προκειμένου να εξασφαλιστεί η λειτουργία
+        της ιστοσελίδας της Εταιρείας κατά την άσκηση της αρχιτεκτονικής και τη λειτουργικότητα
+        του η ιστοσελίδα. Η μη-αποκλειστικό δικαίωμα που αναφέρεται παραπάνω χορηγείται
+        για την τοποθέτηση περιεχόμενο στην Ιστοσελίδα και καλύπτει την επικράτεια
+        των χωρών σε όλο τον κόσμο. Η Εταιρεία έχει το δικαίωμα να μεταβιβάσει τα
+        δικαιώματα που αναφέρονται στην παρούσα παράγραφο σε τρίτους. Ο χρήστης συμφωνεί
+        ότι η Εταιρία έχει το δικαίωμα να χρησιμοποιήσει τις λειτουργικές και τεχνικές
+        δυνατότητες της ιστοσελίδας, παρέχοντας την εμφάνιση του επιμερισμού Περιεχομένου
+        από το Χρήστη, συμπεριλαμβανομένων τους σκοπούς της εμφάνιση της διαφήμισης
+        πληροφορίες. γεια. Σε περίπτωση που ο χρήστης διαγράφει τις πληροφορίες από
+        την ιστοσελίδα, μη αποκλειστικό δικαίωμα θα ανακληθεί αυτόματα, αλλά λόγω
+        των τεχνικών προδιαγραφών της ιστοσελίδας, η Εταιρεία διατηρεί το δικαίωμα
+        να αποθηκεύσετε αντίγραφα ασφαλείας των πληροφοριών εντός του απαιτούμενου
+        χρόνου και όπου απαιτείται. εγώ. Εκτός από τον ιδιωτικό πληροφοριών, ο Χρήστης
+        δεν έχει δικαίωμα να ανεβάσετε ή να γνωστοποιεί με διαφορετικό τρόπο (με τη
+        δημοσίευση στην ιστοσελίδα) της πληροφορίας του άλλους δικτυακούς τόπους,
+        βάσεις δεδομένων και άλλα δικαιώματα πνευματικής ιδιοκτησίας σε περίπτωση
+        απουσίας του εξέφρασε ρητά τη συγκατάθεσή σε τέτοιες ενέργειες από το δικαίωμα
+        πνευματικής ιδιοκτησίας ιδιοκτήτης. j. Εκτός αν άλλως σημειώνεται σε αυτούς
+        τους κανονισμούς, τίποτα σε αυτούς τους κανονισμούς δεν μπορεί να θεωρηθεί
+        ως μεταβίβαση των αποκλειστικών δικαιωμάτων στις πληροφορίες. k. Όλες οι πληροφορίες
+        που δημοσιεύουν στο προφίλ χρήστη σας, πρέπει να είναι ακριβείς, up-to-ημερομηνία
+        και πλήρης. Ο Χρήστης είναι απολύτως αποκλειστικά υπεύθυνος για κάθε πληροφορία
+        που αναρτήθηκε ή γνωστοποιούνται σε διαφορετικό τρόπο (δημοσιεύτηκε) στην
+        ιστοσελίδα ή με τη βοήθεια του χρήστη. Ο χρήστης δεν έχει δικαίωμα να φορτώσετε,
+        να μεταφέρετε ή να δημοσιεύσετε το περιεχόμενο της ιστοσελίδας, αν αυτός /
+        αυτή δεν έχει τα κατάλληλα δικαιώματα για να πάρει τέτοια μέτρα, που αποκτήθηκαν
+        ή θα ανατεθεί σε αυτόν / αυτήν, σύμφωνα με τη νομοθεσία της Ρωσικής Ομοσπονδίας.
+        Η Εταιρεία μπορεί, αλλά δεν υποχρεούται, να περιηγηθείτε στην ιστοσελίδα για
+        οποιονδήποτε παράνομο περιεχόμενο και αφήνεται να διαγράψετε ή να μετακινήσετε
+        (χωρίς προειδοποίηση) οποιοδήποτε περιεχόμενο ή χρήστες κατά την απόλυτη διακριτική
+        της ευχέρεια, για οποιοδήποτε λόγο ή χωρίς αιτία, συμπεριλαμβανομένων χωρίς
+        περιορισμό να προχωρήσουμε, ή να διαγράψετε πληροφορίες που, σύμφωνα με τις
+        ατομικές γνώμη της Εταιρείας παραβιάζει την παρούσα συμφωνία, τη νομοθεσία
+        της Ρωσικής Ομοσπονδίας και / ή μπορεί να παραβιάζει τα δικαιώματα, να τραυματίσει
+        ή να θέσουν σε κίνδυνο την ασφάλεια των άλλων χρηστών ή τρίτων. Η ιστοσελίδα
+        περιέχει (ή μπορεί να περιέχει) συνδέσεις με άλλες ιστοσελίδες στο Διαδίκτυο
+        (ιστοσελίδες τρίτων) καθώς και άρθρα, φωτογραφίες, εικόνες, γραφικά, μουσική,
+        ήχος, βίντεο, πληροφορίες, εφαρμογές, το λογισμικό και άλλες πληροφορίες ανήκουν
+        σε ή προέρχονται από τρίτους (τρίτο περιεχομένου κόμμα), η οποία είναι το
+        αποτέλεσμα της πνευματικής δραστηριότητας και προστατεύονται σύμφωνα με τη
+        νομοθεσία της Ρωσικής Ομοσπονδίας. Αυτοί οι τρίτοι και οι πληροφορίες τους
+        δεν επαληθεύονται από την Εταιρεία για τη συμμόρφωση με αυτό ή άλλες απαιτήσεις
+        (ακρίβεια, την πληρότητα, την ειλικρίνεια, κλπ). Η Εταιρεία δεν ευθύνεται
+        για οποιοδήποτε περιεχόμενο δημοσιεύτηκε στις ιστοσελίδες τρίτων στις οποίες
+        τα κέρδη του χρήστη έχει πρόσβαση μέσω της ιστοσελίδας ή μέσω των πληροφοριών
+        τρίτων κατασκευαστών, συμπεριλαμβανομένων, αλλά δεν περιορίζονται σε οποιεσδήποτε
+        απόψεις ή δηλώσεις που εκφράζονται σχετικά με τις τοποθεσίες τρίτων ή στις
+        πληροφορίες τους. Η σύνδεση με οποιαδήποτε ιστοσελίδα, προϊόντων και υπηρεσιών,
+        κάθε πληροφορία εμπορικής και μη εμπορικής φύσεως που περιέχονται σε αυτή
+        την ιστοσελίδα δεν αποτελεί έγκριση ή σύσταση αυτών των προϊόντων (υπηρεσιών)
+        από την Εταιρεία. Εάν ο χρήστης αποφασίσει να αποχωρήσει από την ιστοσελίδα
+        και να πάει σε δικτυακούς τόπους τρίτων ή να χρησιμοποιούν ή να εγκαταστήσετε
+        λογισμικό τρίτων, αυτός / αυτή κάνει με δική τους ευθύνη και από εκείνη τη
+        στιγμή αυτοί οι κανονισμοί δεν εφαρμόζονται πλέον στον Χρήστη. Οι περαιτέρω
+        ενέργειες του χρήστη καθοδηγούνται από τους ισχύοντες κανόνες και τις πολιτικές,
+        συμπεριλαμβανομένων των επιχειρηματικών πρακτικών των ατόμων των οποίων Πληροφορίες
+        αυτός / αυτή πρόκειται να χρησιμοποιήσει.
+      forbidden_actions: 8. ΑΠΑΓΟΡΕΥΕΤΑΙ ΔΡΑΣΕΙΣ.
+      p_8: α. Απαγορεύεται να "παρακολουθεί εκ του σύνεγγυς για την" ή να διαταράξει
+        οποιοδήποτε πρόσωπο σε άλλο τρόπο. σι. Απαγορεύεται η χρήση bots, ιούς, εφαρμογές
+        για να αναζητήσετε χώρους / αποσπάσματος, ή άλλες χειροκίνητο ή αυτόματο συσκευές
+        ή διαδικασίες για την εξαγωγή, δείκτης, "κατασκοπεία" ή αναπαράγονται σε άλλο
+        τρόπο ή να παρακάμψουν τη δομή πλοήγησης και την προβολή της Υπηρεσίας ή των
+        περιεχομένων της . ντο. Απαγορεύεται να δημοσιεύσετε, διανείμετε, ή να αναπαραχθούν
+        everyway οποιαδήποτε πνευματικά δικαιώματα των πληροφοριών, εμπορικά σήματα,
+        ή άλλες πληροφορίες που προστατεύονται από πνευματικά δικαιώματα χωρίς την
+        προηγούμενη συγκατάθεση από τον ιδιοκτήτη των πνευματικών δικαιωμάτων. ρε.
+        Απαγορεύεται να αφαιρέσετε οποιαδήποτε πνευματικά δικαιώματα, εμπορικά σήματα
+        ή άλλες σημειώσεις πνευματικών δικαιωμάτων που περιέχονται στην Υπηρεσία.
+        μι. Απαγορεύεται να παρεμβαίνει ή να διακόψει τη λειτουργία της Υπηρεσίας
+        και της Ιστοσελίδας, ή των υπηρεσιών και δικτύων που είναι συνδεδεμένα με
+        την Υπηρεσία ή τη Δικτυακή τοποθεσία. φά. Απαγορεύεται η δημοσίευση, e-mail
+        ή μεταφορά με διαφορετικό τρόπο κάθε πληροφορία που περιέχει ιούς ή οποιοδήποτε
+        άλλο ηλεκτρονικό κώδικα, αρχεία ή προγράμματα σχεδιασμένα να παρεμβληθούν,
+        καταστρέψουν ή περιορίσουν τη λειτουργία οποιουδήποτε εξοπλισμού λογισμικού
+        ηλεκτρονικών υπολογιστών, hardware και των τηλεπικοινωνιών. σολ. Απαγορεύεται
+        να σφυρηλατήσει κεφαλίδες ή να χειριστείτε την ονομασία με σκοπό την συγκάλυψη
+        το πραγματικό νόημα της κάθε πληροφορία που μοιράζεται μέσω της Υπηρεσίας.
+        h. Απαγορεύεται να «σφυρηλατήσει» ή «αντίγραφο» οποιοδήποτε μέρος της Υπηρεσίας
+        ή της Ιστοσελίδας χωρίς την προηγούμενη έγγραφη άδεια της Flutylove. Επίσης,
+        δεν μπορείτε να χρησιμοποιήσετε οποιαδήποτε meta tags ή τον κωδικό, ή άλλες
+        συσκευές που περιέχουν οποιεσδήποτε συνδέσεις με Flutylove, της Υπηρεσίας
+        ή της Ιστοσελίδας προκειμένου να ανακατευθύνει οποιοδήποτε πρόσωπο σε άλλη
+        ιστοσελίδα για οποιοδήποτε σκοπό. εγώ. Απαγορεύεται η τροποποίηση, προσαρμογή,
+        παραχωρήσετε, μετάφραση, πώληση, αναδιάρθρωση, αποκρυπτογραφήσει, αποσυμπίληση
+        ή αποσυναρμολόγηση οποιουδήποτε τμήματος της Υπηρεσίας ή της Ιστοσελίδας,
+        ή οποιοδήποτε λογισμικό που χρησιμοποιείται στην ιστοσελίδα ή για αυτό, καθώς
+        και ενθαρρύνει άλλους να προβούν σε παρόμοιες ενέργειες . j. Απαγορεύεται
+        να δημοσιεύσετε οποιαδήποτε πληροφορία με πορνογραφικό ή / και ερωτικό περιεχόμενο.
+      the_changes_in_the_service: 9. ΟΙ ΑΛΛΑΓΕΣ ΣΤΗΝ ΥΠΗΡΕΣΙΑ.
+      p_9: Flutylove διατηρεί το δικαίωμα ανά πάσα στιγμή να αλλάξει ή να απενεργοποιήσετε
+        προσωρινά ή μόνιμα την Υπηρεσία (ή οποιοδήποτε είναι μέρος) χωρίς προειδοποίηση.
+        Συμφωνείτε ότι Flutylove δεν είναι υπεύθυνη για εσάς ή τρίτους για τυχόν τροποποιήσεις,
+        προσωρινή διαθεσιμότητα ή πλήρη απενεργοποίηση της Υπηρεσίας.
+      ip_address_blocking: 10. IP ΜΠΛΟΚ ΔΙΕΥΘΥΝΣΗ.
+      p_10: Για να προστατευθεί η ακεραιότητα της ιστοσελίδας, Flutylove διατηρεί
+        το δικαίωμα ανά πάσα στιγμή κατά τη δική ευκολία του να μπλοκάρει τις διευθύνσεις
+        IP ορισμένων χρηστών.
+      relations_between_users_online: 11. ΣΧΕΣΕΙΣ ΜΕΤΑΞΥ ΤΟΥΣ ΧΡΗΣΤΕΣ ONLINE
+      p_11: Είστε αποκλειστικά υπεύθυνοι για τις αλληλεπιδράσεις σας με άλλους χρήστες
+        του Flutylove. Flutylove διατηρεί το δικαίωμα, αλλά όχι την υποχρέωση, να
+        ελέγξει τις διαφωνίες μεταξύ σας και σε άλλους χρήστες.
+      security_and_communication: 12. ασφάλειας και επικοινωνίας.
+      p_12: χρήση της ιστοσελίδας και / ή της Υπηρεσίας διέπεται επίσης από την πολιτική
+        προστασίας προσωπικών δεδομένων μας. Όταν γίνεστε χρήσης, συμφωνείτε και συναινείτε
+        να λαμβάνετε μηνύματα ηλεκτρονικού ταχυδρομείου από εμάς. Αυτά τα μηνύματα
+        μπορεί να αντιπροσωπεύουν τις κοινοποιήσεις σχετικά με τις λειτουργίες ή άλλες
+        ειδοποιήσεις που σχετίζονται με την Υπηρεσία, όπως διοικητικών ανακοινώσεις
+        και επίσημες ανακοινώσεις σχετικά με τις αλλαγές, ή μηνύματα ηλεκτρονικού
+        ταχυδρομείου που περιέχουν εμπορικές προσφορές, διαφημιστικό υλικό, ειδικές
+        προσφορές από εμάς, ή πληροφορίες σχετικά με τις ενέργειες των άλλων χρηστών
+        σχετικά με σας λογαριασμός χρήστη. Παρακαλούμε διαβάστε την Πολιτική Προστασίας
+        Προσωπικών Δεδομένων μας για να μάθετε περισσότερα σχετικά με τις κοινοποιήσεις
+        αυτές.
+      denial_of_responsibility: 13. ΑΡΝΗΣΗ ΤΗΣ ΕΥΘΥΝΗΣ.
+      p_13: α. Flutylove δεν ευθύνεται για τυχόν λανθασμένες ή ανακριβείς πληροφορίες
+        που αναρτώνται στην ιστοσελίδα ή σχετίζεται με την Υπηρεσία, οι χρήστες της
+        ιστοσελίδας ή οποιουδήποτε υλικού ή λογισμικού που σχετίζεται με την Υπηρεσία
+        μας ή να χρησιμοποιείται εκεί. Flutylove δεν είναι υπεύθυνη για τη συμπεριφορά,
+        τόσο online όσο και offline, κάθε χρήστη της ιστοσελίδας. Flutylove δεν αναλαμβάνει
+        ευθύνες για τυχόν λάθη, παραλείψεις, διακοπές, διαγραφή, βλάβη ή καθυστέρηση
+        στη λειτουργία ή λειτουργίες, αποτυχία γραμμή επικοινωνίας, κλοπής ή καταστροφής,
+        μη εξουσιοδοτημένη πρόσβαση ή αλλαγή των γραμμών επικοινωνίας του χρήστη.
+        Flutylove δεν ευθύνεται για τυχόν προβλήματα ή τεχνική δυσλειτουργία οποιουδήποτε
+        τηλεφωνικού δικτύου ή γραμμών, υπολογιστών on-line συστημάτων, διακομιστών
+        ή παρόχων, εξοπλισμού υπολογιστών, λογισμικού, ηλεκτρονικού ταχυδρομείου ή
+        παίκτες αποτυχία στο λογαριασμό χρήστη, τεχνικά προβλήματα ή κυκλοφοριακή
+        συμφόρηση στο Διαδίκτυο ή σε οποιαδήποτε ιστοσελίδα ή ο συνδυασμός του, συμπεριλαμβανομένων
+        των ατυχημάτων ή τραυματισμών για τους χρήστες ή τρίτους που συνδέονται με
+        έναν υπολογιστή, είτε ως αποτέλεσμα της συμμετοχής ή λήψη πληροφοριών που
+        σχετίζονται με το δίκτυο ή / και την Υπηρεσία. Σε καμία περίπτωση η Flutylove
+        Εταιρεία ή οποιαδήποτε της θυγατρικής της, η διαφήμιση πράκτορες, ιδρυτές
+        ή τους συνεργάτες διανομής δεν θα ευθύνεται για οποιαδήποτε απώλεια ή ζημία,
+        συμπεριλαμβανομένης της σωματικής βλάβης ή θανάτου, λόγω της χρήση της Ιστοσελίδας
+        ή της Υπηρεσίας, οποιοδήποτε περιεχόμενο που δημοσιεύεται στην ιστοσελίδα
+        ή τυχόν αλληλεπιδράσεις μεταξύ των χρηστών της ιστοσελίδας, τόσο online όσο
+        και offline. Η ιστοσελίδα και η υπηρεσία παρέχεται σε ΟΠΩΣ ΕΙΝΑΙ βάση, και
+        Flutylove αποποιείται ρητά οποιαδήποτε εγγύηση ή την καταλληλότητα για ένα
+        συγκεκριμένο σκοπό, ή η απουσία της παραβίασης των δικαιωμάτων κανενός. Flutylove
+        δεν μπορεί να εγγυηθεί και δεν υπόσχεται τυχόν συγκεκριμένα αποτελέσματα από
+        τη χρήση της ιστοσελίδας και / ή την Υπηρεσία.
+      links: 14. ΣΥΝΔΕΣΜΟΙ.
+      p_14: α. Flutylove δεν ευθύνεται για τυχόν λανθασμένες ή ανακριβείς πληροφορίες
+        που αναρτώνται στην ιστοσελίδα ή σχετίζεται με την Υπηρεσία, οι χρήστες της
+        ιστοσελίδας ή οποιουδήποτε υλικού ή λογισμικού που σχετίζεται με την Υπηρεσία
+        μας ή να χρησιμοποιείται εκεί. Flutylove δεν είναι υπεύθυνη για τη συμπεριφορά,
+        τόσο online όσο και offline, κάθε χρήστη της ιστοσελίδας. Flutylove δεν αναλαμβάνει
+        ευθύνες για τυχόν λάθη, παραλείψεις, διακοπές, διαγραφή, βλάβη ή καθυστέρηση
+        στη λειτουργία ή λειτουργίες, αποτυχία γραμμή επικοινωνίας, κλοπής ή καταστροφής,
+        μη εξουσιοδοτημένη πρόσβαση ή αλλαγή των γραμμών επικοινωνίας του χρήστη.
+        Flutylove δεν ευθύνεται για τυχόν προβλήματα ή τεχνική δυσλειτουργία οποιουδήποτε
+        τηλεφωνικού δικτύου ή γραμμών, υπολογιστών on-line συστημάτων, διακομιστών
+        ή παρόχων, εξοπλισμού υπολογιστών, λογισμικού, ηλεκτρονικού ταχυδρομείου ή
+        παίκτες αποτυχία στο λογαριασμό χρήστη, τεχνικά προβλήματα ή κυκλοφοριακή
+        συμφόρηση στο Διαδίκτυο ή σε οποιαδήποτε ιστοσελίδα ή ο συνδυασμός του, συμπεριλαμβανομένων
+        των ατυχημάτων ή τραυματισμών για τους χρήστες ή τρίτους που συνδέονται με
+        έναν υπολογιστή, είτε ως αποτέλεσμα της συμμετοχής ή λήψη πληροφοριών που
+        σχετίζονται με το δίκτυο ή / και την Υπηρεσία. Σε καμία περίπτωση η Flutylove
+        Εταιρεία ή οποιαδήποτε της θυγατρικής της, η διαφήμιση πράκτορες, ιδρυτές
+        ή τους συνεργάτες διανομής δεν θα ευθύνεται για οποιαδήποτε απώλεια ή ζημία,
+        συμπεριλαμβανομένης της σωματικής βλάβης ή θανάτου, λόγω της χρήση της Ιστοσελίδας
+        ή της Υπηρεσίας, οποιοδήποτε περιεχόμενο που δημοσιεύεται στην ιστοσελίδα
+        ή τυχόν αλληλεπιδράσεις μεταξύ των χρηστών της ιστοσελίδας, τόσο online όσο
+        και offline. Η ιστοσελίδα και η υπηρεσία παρέχεται σε ΟΠΩΣ ΕΙΝΑΙ βάση, και
+        Flutylove αποποιείται ρητά οποιαδήποτε εγγύηση ή την καταλληλότητα για ένα
+        συγκεκριμένο σκοπό, ή η απουσία της παραβίασης των δικαιωμάτων κανενός. Flutylove
+        δεν μπορεί να εγγυηθεί και δεν υπόσχεται τυχόν συγκεκριμένα αποτελέσματα από
+        τη χρήση της ιστοσελίδας και / ή την Υπηρεσία.
+      limitation_of_responsibility: 15. ΠΕΡΙΟΡΙΣΜΟΣ ΤΗΣ ΕΥΘΥΝΗΣ.
+      p_15: ΤΗΝ ΙΣΤΟΣΕΛΙΔΑ και τις λειτουργίες του ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ όλα τα σενάρια,
+        τις εφαρμογές, περιεχόμενο και ο σχεδιασμός της ιστοσελίδας να διέπονται ΠΑΡΕΧΕΤΑΙ
+        ΩΣ ΒΑΣΗ. Η ΕΤΑΙΡΕΙΑ δεν εγγυάται ότι η Ιστοσελίδα ή ΚΑΘΗΚΟΝΤΑ ΤΟΥ μπορεί να
+        είναι κατάλληλα ή ακατάλληλα ΓΙΑ ΕΝΑ ΣΥΓΚΕΚΡΙΜΕΝΟ ΣΚΟΠΟ ΤΗΣ ΧΡΗΣΗΣ. Η ΕΤΑΙΡΕΙΑ
+        ΔΕΝ μπορεί να εγγυηθεί και δεν υπόσχεται οποιαδήποτε συγκεκριμένη αποτελέσματα
+        από τη χρήση του δικτυακού τόπου ή / και των λειτουργιών του? Να αποφευχθεί
+        η σύγχυση, ο χρήστης θα πρέπει να λαμβάνουν προφυλάξεις ασφαλείας όταν ΛΗΨΗ
+        ΑΠΟ ΤΗΝ ΙΣΤΟΣΕΛΙΔΑ Ή ΜΕΣΩ των αποσπασμένων ΣΥΝΔΕΣΜΟΙ ΚΑΙ ΧΡΗΣΗ ΤΗΣ όλα τα
+        αρχεία, καθώς και το λογισμικό. Η ΕΤΑΙΡΕΙΑ ιδιαίτερα συνιστάται να χρησιμοποιήσετε
+        μόνο εγκεκριμένο λογισμικό, καθώς και λογισμικό προστασίας από ιούς? Χρησιμοποιώντας
+        την ιστοσελίδα, ο χρήστης ΣΥΜΦΩΝΕΙΤΕ που κατεβάζει από τον ιστότοπο ή με τη
+        βοήθειά του κάθε περιεχόμενο σε δικό του / της ρίσκο και αποκλειστικά υπεύθυνος
+        για την ΠΙΘΑΝΕΣ αποτελέσματα από τη χρήση αυτών των πληροφοριών, ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ
+        ΤΥΧΟΝ ΖΗΜΙΕΣ ότι μπορεί να προκαλεί στους υπολογιστή του χρήστη ή τρίτες ΜΕΡΗ,
+        ΑΠΩΛΕΙΑ ΔΕΔΟΜΕΝΩΝ Ή ΟΠΟΙΑΔΗΠΟΤΕ ΑΛΛΗ ΖΗΜΙΑ? ΣΕ ΚΑΜΙΑ ΠΕΡΙΠΤΩΣΗ Η ΕΤΑΙΡΕΙΑ
+        Ή ΟΙ ΑΝΤΙΠΡΟΣΩΠΟΙ ΤΗΣ δεν φέρουν καμία ευθύνη του χρήστη ή σε οποιοδήποτε
+        τρίτο μέρος για τυχόν έμμεσες, τυχαία ΚΑΙ UNWILFUL ΖΗΜΙΕΣ, ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ
+        απώλεια του επιδόματος, ή απώλεια δεδομένων, βλάβη τιμή, την αξιοπρέπεια ή
+        επιχειρηματικής φήμης, που απορρέουν από τις ΧΡΗΣΗ ΤΗΣ ΙΣΤΟΣΕΛΙΔΑΣ, το περιεχόμενό
+        του ή οποιαδήποτε άλλη πληροφορία που ΟΠΟΙΑ ΕΣΑΣ Ή ΟΠΟΙΟΔΗΠΟΤΕ ΑΛΛΟ ΠΡΟΣΩΠΟ
+        απέκτησαν πρόσβαση μέσω της ιστοσελίδας, ΑΚΟΜΑ ΚΑΙ ΑΝ Η ΕΤΑΙΡΕΙΑ προειδοποίηση
+        ή ΣΗΜΑΙΝΕΙ ΓΙΑ ΤΗΝ ΠΙΘΑΝΟΤΗΤΑ ΤΕΤΟΙΩΝ ΖΗΜΙΩΝ.
+      responsibilities_of_the_parties: 16. ευθύνες των μερών.
+      p_16: Η παρούσα Συμφωνία διέπεται από και ερμηνεύεται σύμφωνα με τη νομοθεσία
+        της Ρωσικής Ομοσπονδίας. Ζητήματα που δεν είχαν διευθετηθεί από τη συμφωνία
+        θα επιλύονται σύμφωνα με τη νομοθεσία της Ρωσικής Ομοσπονδίας. Σε περίπτωση
+        διαφορών ή διαμάχες που σχετίζονται με την εφαρμογή των κανονισμών αυτών,
+        ο Χρήστης και η Εταιρεία θα καταβάλει κάθε δυνατή προσπάθεια για την επίλυσή
+        τους μέσω διαπραγματεύσεων. Σε περίπτωση που οι διαφορές δεν θα επιλυθεί με
+        διαπραγματεύσεις, οι διαφορές θα επιλύονται σύμφωνα με την ισχύουσα νομοθεσία
+        της Ρωσικής Ομοσπονδίας. Η παρούσα συμφωνία εκτελείται στη ρωσική γλώσσα και
+        μπορεί να παρέχεται στο χρήστη για επανεξέταση σε άλλη γλώσσα. Σε περίπτωση
+        ασυμφωνίας της έκδοσης των κανονισμών στη ρωσική γλώσσα και την έκδοσή του
+        σε άλλη γλώσσα, θα πρέπει να εφαρμοστεί η έκδοση στη ρωσική γλώσσα των διατάξεων
+        του παρόντος κανονισμού. Αν για ένα ή τον άλλο λόγο, μία ή περισσότερες διατάξεις
+        των παρόντων Κανονισμών θα κηρυχθεί άκυρο ή να ακυρωθεί, αυτό δεν επηρεάζει
+        την εγκυρότητα ή εκτελεστότητα των υπόλοιπων διατάξεων.
+      other_provisions_and_changes: 17. ΑΛΛΕΣ ΔΙΑΤΑΞΕΙΣ ΚΑΙ ΑΛΛΑΓΕΣ.
+      p_17: Η συμφωνία αυτή είναι η πραγματική συμφωνία ανάμεσα σε εσάς και Flutylove
+        σχετικά με τη χρήση της Ιστοσελίδας ή / και της Υπηρεσίας. Εάν οποιαδήποτε
+        διάταξη της παρούσας Συμφωνίας κενά, το υπόλοιπο της συμφωνίας παραμένει το
+        κύρος του σε πλήρη ισχύ. Η παρούσα συμφωνία μπορεί να τροποποιηθεί με Flutylove
+        ανά πάσα στιγμή. Παρακαλώ μην διστάσετε να επικοινωνήσετε μαζί μας με τυχόν
+        ερωτήσεις σχετικά με την παρούσα Συμφωνία.
+      read_this: ΕΧΩ ΔΙΑΒΑΣΕΙ ΤΗΝ ΠΑΡΟΥΣΑ ΣΥΜΦΩΝΙΑ ΚΑΙ ΣΥΜΦΩΝΕΙΤΕ ΜΕ ΟΛΟΥΣ ΤΟΥΣ ΟΡΟΥΣ
+        ΤΗΣ.
+    about:
+      about_flutylove: Σχετικά Flutylove
+      about_flutylove_text: Flutylove είναι το διεθνές κοινωνικό δίκτυο ψυχαγωγίας
+        για χρονολογήσεις. Εδώ μπορείτε να βρείτε τους φίλους, μια αδελφή ψυχή, συνεργάτες
+        ή απλά να περάσετε την ώρα σας με το απολαμβάνουν παίζοντας παιχνίδια ή να
+        παρακολουθήσετε βίντεο / φωτογραφίες.
+      flutylove_features: 'Όταν θα εγγραφείτε στην ιστοσελίδα μας, μπορείτε να μάθετε
+        πολλά χαρακτηριστικά, όπως:'
+      video_call_feature: Μπορείτε να συνομιλήσετε με συνεργάτη με κάμερα
+      extended_search: Μπορείτε να χρησιμοποιήσετε εκτεταμένη αναζήτηση για δωρεάν
+      multilanguages: Μπορείτε να αναζητήσετε εταίρους από άλλες χώρες, γιατί η υπηρεσία
+        μας αναμένεται να χρησιμοποιήσει από ευρύ φάσμα ανθρώπων από άλλες χώρες,
+        δεδομένου ότι έχει μεταφραστεί περισσότερες από 70 γλώσσες
+      play_games_chatting_etc: Μπορείτε να κάνετε chat με άλλους ανθρώπους, να παίξετε
+        παιχνίδια και να κάνουμε μια άλλη κοινωνική τρόφιμα
+      we_are_in_social_networks: 'Είμαστε σε κοινωνικά δίκτυα:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Χρησιμοποιούμε υψηλής τεχνολογίας και
+        βιβλιοθήκες ανοικτού κώδικα. Προσπαθούμε πάντα να γίνουμε καλύτεροι και να
+        βελτιώσουμε τις υπηρεσίες μας.
+      partners_and_investors: Είμαστε ανοιχτοί για συνεργασία και θα θέλαμε να βρουν
+        επενδυτές. Αν θέλετε να συνεργαστούν μαζί μας, παρακαλούμε επικοινωνήστε μαζί
+        μας στο partnership@flutylove.com
+    faq:
+      faq: Συχνές Ερωτήσεις
+      what_is_flutylove: Τι είναι Flutylove;
+      about_flutylove: Flutylove είναι το διεθνές κοινωνικό δίκτυο ψυχαγωγίας για
+        χρονολογήσεις. Εδώ μπορείτε να βρείτε τους φίλους, μια αδελφή ψυχή, συνεργάτες
+        ή απλά να περάσετε την ώρα σας με το απολαμβάνουν παίζοντας παιχνίδια ή να
+        παρακολουθήσετε βίντεο / φωτογραφίες.
+      what_features_has_flutylove: Τι χαρακτηριστικά έχει Flutylove;
+      flutylove_features: Εδώ μπορείτε να συνομιλήσετε με videocams, χρησιμοποιήστε
+        εκτεταμένη αναζήτηση, συνεργάτες αναζήτησης από άλλες χώρες, να παίξετε παιχνίδια
+        και να κάνουμε άλλες κοινωνικές τρόφιμα.
+      i_have_some_requests: Έχω κάποια αιτήματα
+      you_can_write_request: Μπορείτε να εγγραφείτε και να το γράψετε
+      here: εδώ
+      i_have_seen_some_typo_or_wrong_translation: έχω δει κάποιο τυπογραφικό λάθος
+        ή λάθος μετάφραση
+      you_can_send_pull_request_to_our: Μπορείτε να στείλετε ένα αίτημα Τραβήξτε με
+        μας
+      i_have_seen_some_error: έχω δει κάποιο λάθος
+      you_can_send: Μπορείτε να μας στείλετε τα σχόλιά από
+      feedback: αυτή τη μορφή
+      to_us_or_write_to_our_info_mail: ή γράψτε email στο support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Καλώς ήρθατε στο Flutylove
+      you_have_successfully_signed_up_to_flutylove: Έχετε υπογράψει με επιτυχία μέχρι
+        Flutylove
+      you_can_sign_in_with_your_social_networks: Αν θέλετε να συνδεθείτε και πάλι,
+        μπορείτε να συνδεθείτε με το λογαριασμό σας κοινωνικό δίκτυο
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Αν
+        θέλετε να συνδεθείτε με το email και τον κωδικό πρόσβασης, μπορείτε να αλλάξετε
+        τον κωδικό από την πινακίδα έξω και κάντε κλικ στο παρακάτω σύνδεσμο
+      change_password: Αλλαγή κωδικού πρόσβασης
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: λανθασμένη
+            search_for:
+              search_for_error: λανθασμένη
+            birth_date:
+              birth_date_error: πρέπει να είναι μεγαλύτερη από 18 και μικρότερη από
+                115
+            interests:
+              interests_error: πρέπει να είναι μικρότερο από 2000 χαρακτήρες
+            jobs:
+              jobs_error: πρέπει να είναι μικρότερο από 2000 χαρακτήρες
+            languages:
+              languages_error: πρέπει να είναι μικρότερο από 2000 χαρακτήρες
+            sex_keywords:
+              sex_keywords_error: πρέπει να είναι μικρότερο από 2000 χαρακτήρες
+            my_turn_ons:
+              my_turn_ons_error_error: λανθασμένη
+            contacts:
+              contacts_length_error: πρέπει να είναι μικρότερο από 2000 χαρακτήρες
+              contacts_size_error: πρέπει να είναι μικρότερη από 21 επαφές
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: έχει έγκυρη τιμή
+  devise:
+    confirmations:
+      confirmed: Ο λογαριασμός σας επιβεβαιώθηκε με επιτυχία.
+      send_instructions: Θα λάβετε ένα e-mail με οδηγίες για το πώς να επιβεβαιώσετε
+        το λογαριασμό σας σε λίγα λεπτά.
+      send_paranoid_instructions: Αν υπάρχει διεύθυνση ηλεκτρονικού ταχυδρομείου σας
+        στη βάση μας, θα λάβετε ένα e-mail με οδηγίες για το πώς να επιβεβαιώσετε
+        το λογαριασμό σας σε λίγα λεπτά.
+      new:
+        send_mail_for_confirm_your_email: Στείλτε mail για να επιβεβαιώσει το email
+          σας
+        submit: Υποβολή
+    failure:
+      already_authenticated: Είστε ήδη συνδεδεμένοι.
+      inactive: Ο λογαριασμός σας δεν έχει ενεργοποιηθεί ακόμα.
+      invalid: Μη έγκυρο e-mail ή τον κωδικό πρόσβασης.
+      locked: Ο λογαριασμός σας έχει κλειδωθεί.
+      last_attempt: Έχετε μία ακόμη προσπάθεια πριν θα κλειδώσει το λογαριασμό σας.
+      not_found_in_database: Μη έγκυρο e-mail ή τον κωδικό πρόσβασης.
+      timeout: συνεδρία σας έληξε. Παρακαλούμε συνδεθείτε ξανά για να συνεχίσετε.
+      unauthenticated: Θα πρέπει να συνδεθείτε ή να εγγραφείτε πριν συνεχίσετε.
+      unconfirmed: Θα πρέπει να επιβεβαιώσετε τον λογαριασμό σας πριν συνεχίσετε.
+    mailer:
+      confirmation_instructions:
+        subject: οδηγίες Επιβεβαίωση
+        welcome_to_flutylove: Καλώς ήρθατε στο Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Μπορείτε να επιβεβαιώσετε
+          το email σας μέσω του παρακάτω σύνδεσμο
+        confirm_my_account: Επιβεβαίωση Email μου
+      reset_password_instructions:
+        hello: Hello
+        subject: Επαναφορά οδηγίες κωδικό
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Κάποιος
+          έχει ζητήσει ένα σύνδεσμο για να αλλάξετε τον κωδικό πρόσβασής σας. Μπορείτε
+          να το κάνετε αυτό μέσω του παρακάτω σύνδεσμο.
+        change_my_password: Αλλάξτε τον κωδικό μου
+        if_you_didnt_request_this_please_ignore_this_email: Αν δεν έχετε ζητήσει αυτό
+          παρακαλούμε να αγνοήσετε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου.
+      unlock_instructions:
+        subject: Ξεκλείδωμα Οδηγίες
+    omniauth_callbacks:
+      failure: Δεν ήταν δυνατή η ταυτότητά σας από% {είδος} γιατί "% {λόγο}".
+      success: Επιτυχής επικυρώνονται από% {είδους} λογαριασμό.
+    passwords:
+      no_token: Δεν μπορείτε να αποκτήσετε πρόσβαση σε αυτήν τη σελίδα χωρίς να έρχεται
+        από ένα μήνυμα ηλεκτρονικού ταχυδρομείου επαναφοράς κωδικού πρόσβασης. Αν
+        σας έρχονται από ένα μήνυμα ηλεκτρονικού ταχυδρομείου επαναφοράς κωδικού πρόσβασης,
+        βεβαιωθείτε ότι έχετε χρησιμοποιήσει την πλήρη διεύθυνση URL που παρέχεται.
+      send_instructions: Θα λάβετε ένα e-mail με οδηγίες για το πώς να επαναφέρετε
+        τον κωδικό πρόσβασής σας μέσα σε λίγα λεπτά.
+      send_paranoid_instructions: Αν υπάρχει διεύθυνση ηλεκτρονικού ταχυδρομείου σας
+        στη βάση μας, θα λάβετε ένα σύνδεσμο ανάκτησης κωδικού πρόσβασης στη διεύθυνση
+        ηλεκτρονικού ταχυδρομείου σας σε λίγα λεπτά.
+      updated: Ο κωδικός σας άλλαξε με επιτυχία. Τώρα είστε συνδεδεμένοι.
+      updated_not_active: Ο κωδικός σας άλλαξε με επιτυχία.
+      new:
+        forgot_your_password: ανακτήσει τον κωδικό σας
+        reset_password: Αποστολή ανακτήσει url
+      edit:
+        change_your_password: Αλλάξτε τον κωδικό σας
+        new_password: Νέος κωδικός
+        change_password: Αλλαγή
+    registrations:
+      destroyed: Αντίο! Ο λογαριασμός σας έχει ακυρωθεί με επιτυχία. Ελπίζουμε να
+        σας δούμε και πάλι σύντομα.
+      signed_up: Καλώς ήρθατε! Έχετε εγγραφεί επιτυχώς.
+      signed_up_but_inactive: Έχετε εγγραφεί επιτυχώς. Ωστόσο, δεν θα μπορούσαμε να
+        συνδεθείτε στο λογαριασμό σας, επειδή δεν έχει ενεργοποιηθεί ακόμα.
+      signed_up_but_locked: Έχετε εγγραφεί επιτυχώς. Ωστόσο, δεν θα μπορούσαμε να
+        συνδεθείτε στο λογαριασμό σας, επειδή είναι κλειδωμένο.
+      signed_up_but_unconfirmed: ένα μήνυμα με ένα σύνδεσμο επιβεβαίωσης έχει σταλεί
+        στη διεύθυνση ηλεκτρονικού ταχυδρομείου σας. Παρακαλώ ανοίξτε το σύνδεσμο
+        για να ενεργοποιήσετε το λογαριασμό σας.
+      update_needs_confirmation: Μπορείτε ενημερωμένο το λογαριασμό σας με επιτυχία,
+        αλλά πρέπει να επαληθεύσετε τη νέα διεύθυνση ηλεκτρονικού ταχυδρομείου σας.
+        Παρακαλώ ελέγξτε το email σας και κάντε κλικ στο σύνδεσμο επιβεβαίωσης για
+        να οριστικοποιήσει την επιβεβαίωση νέα διεύθυνση ηλεκτρονικού ταχυδρομείου
+        σας.
+      updated: Μπορείτε ενημερωμένο το λογαριασμό σας με επιτυχία.
+      new:
+        sign_up: Εγγραφείτε
+        name: Όνομα
+        password: Κωδικός
+        register: Εγγραφείτε
+    shared:
+      links:
+        sign_in: Σύνδεση
+        sign_up: Εγγραφείτε
+        didnt_receive_confirmation_instructions: Δεν λάβαμε οδηγίες επιβεβαίωσης;
+        sign_in_with: Σύνδεση με
+        fast_login_almost_one_click: Fast σύνδεσης (Σχεδόν ένα κλικ)
+    sessions:
+      signed_in: Υπεγράφη στην επιτυχία.
+      signed_out: Υπεγράφη με επιτυχία.
+      new:
+        sign_in: Σύνδεση
+        password: Κωδικός
+        remember_me: Να με θυμάσαι
+        forgot_your_password: Ξεχάσατε τον κωδικό σας;
+    unlocks:
+      send_instructions: Θα λάβετε ένα e-mail με οδηγίες για το πώς να ξεκλειδώσετε
+        το λογαριασμό σας σε λίγα λεπτά.
+      send_paranoid_instructions: Αν υπάρχει το λογαριασμό σας, θα λάβετε ένα e-mail
+        με οδηγίες για το πώς να το ξεκλειδώσετε μέσα σε λίγα λεπτά.
+      unlocked: Ο λογαριασμός σας έχει ξεκλειδωθεί επιτυχώς. Παρακαλούμε συνδεθείτε
+        για να συνεχίσετε.
+  timezones:
+    American Samoa: Αμερικανική Σαμόα
+    International Date Line West: Διεθνής γραμμή ημερομηνίας West
+    Midway Island: Midway νησί
+    Hawaii: Χαβάη
+    Alaska: Αλάσκα
+    Pacific Time (US & Canada): Ώρα Ειρηνικού (ΗΠΑ & Καναδάς)
+    Tijuana: Τιχουάνα
+    Arizona: Αριζόνα
+    Chihuahua: Τσιουάουα
+    Mazatlan: Μαζατλάν
+    Mountain Time (US & Canada): Βουνό ώρα (ΗΠΑ & Καναδάς)
+    Central America: Κεντρική Αμερική
+    Central Time (US & Canada): Κεντρική ώρα (ΗΠΑ & Καναδάς)
+    Guadalajara: Γκουανταλαχάρα
+    Mexico City: Πόλη του Μεξικού
+    Monterrey: Μοντερέι
+    Saskatchewan: Σασκάτσουαν
+    Bogota: Μπογκοτά
+    Eastern Time (US & Canada): Ανατολική ώρα (Η.Π.Α. & Καναδάς)
+    Indiana (East): Ιντιάνα (Ανατολική)
+    Lima: Λίμα
+    Quito: Κίτο
+    Atlantic Time (Canada): Ώρα Ατλαντικού (Καναδάς)
+    Caracas: Καράκας
+    Georgetown: Georgetown
+    La Paz: Λα Παζ
+    Santiago: Σαντιάγο
+    Newfoundland: Newfoundland
+    Brasilia: Μπραζίλια
+    Buenos Aires: Μπουένος Άιρες
+    Greenland: Γροιλανδία
+    Montevideo: Μοντεβιδέο
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Αζόρες
+    Cape Verde Is: Πράσινο Ακρωτήριο.
+    Casablanca: Καζαμπλάνκα
+    Dublin: Δουβλίνο
+    Edinburgh: Εδιμβούργο
+    Lisbon: Λισαβόνας
+    London: Λονδίνο
+    Monrovia: Μονρόβια
+    UTC: UTC
+    Amsterdam: Άμστερνταμ
+    Belgrade: Βελιγράδι
+    Berlin: Βερολίνο
+    Bern: Βέρνη
+    Bratislava: Μπρατισλάβα
+    Brussels: Βρυξέλλες
+    Budapest: Βουδαπέστη
+    Copenhagen: Κοπεγχάγη
+    Ljubljana: Λιουμπλιάνα
+    Madrid: Μαδρίτη
+    Paris: Παρίσι
+    Prague: Πράγα
+    Rome: Ρώμη
+    Sarajevo: Σαράγεβο
+    Skopje: Σκόπια
+    Stockholm: Στοκχόλμη
+    Vienna: Βιέννη
+    Warsaw: Βαρσοβία
+    West Central Africa: Δυτική Κεντρική Αφρική
+    Zagreb: Ζάγκρεμπ
+    Athens: Αθήνα
+    Bucharest: Βουκουρέστι
+    Cairo: Κάιρο
+    Harare: Χαράρε
+    Helsinki: Ελσίνκι
+    Istanbul: Κωνσταντινούπολη
+    Jerusalem: Ιερουσαλήμ
+    Kaliningrad: Καλίνινγκραντ
+    Kyiv: Κίεβο
+    Pretoria: Πρετόρια
+    Riga: Ρίγα
+    Sofia: Σόφια
+    Tallinn: Ταλίν
+    Vilnius: Βίλνιους
+    Baghdad: Βαγδάτη
+    Kuwait: Κουβέιτ
+    Minsk: Μινσκ
+    Moscow: Μόσχα
+    Nairobi: Ναϊρόμπι
+    Riyadh: Ριάντ
+    St Petersburg: Αγία Πετρούπολη
+    Volgograd: Volgograd
+    Tehran: Τεχεράνη
+    Abu Dhabi: Αμπού Ντάμπι
+    Baku: Μπακού
+    Muscat: Μουσκάτ
+    Samara: Σαμαρά
+    Tbilisi: Τιφλίδα
+    Yerevan: Ερεβάν
+    Kabul: Καμπούλ
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Ισλαμαμπάντ
+    Karachi: Καράτσι
+    Tashkent: Τασκένδη
+    Chennai: Chennai
+    Kolkata: Καλκούτα
+    Mumbai: Βομβάη
+    New Delhi: Νέο Δελχί
+    Sri Jayawardenepura: Σρι Jayawardenepura
+    Kathmandu: Κατμαντού
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Ντάκα
+    Novosibirsk: Νοβοσιμπίρσκ
+    Urumqi: Ουρούμκι
+    Rangoon: Ρανγκούν
+    Bangkok: Μπανγκόκ
+    Hanoi: Ανόι
+    Jakarta: Τζακάρτα
+    Krasnoyarsk: Κρασνογιάρσκ
+    Beijing: Πεκίνο
+    Chongqing: Chongqing
+    Hong Kong: Χονγκ Κονγκ
+    Irkutsk: Ιρκούτσκ
+    Kuala Lumpur: Κουάλα Λουμπούρ
+    Perth: Περθ
+    Singapore: Σιγκαπούρη
+    Taipei: Ταϊπέι
+    Ulaanbaatar: Ουλάν Μπατόρ
+    Osaka: Οσάκα
+    Sapporo: Σαπόρο
+    Seoul: Σεούλ
+    Tokyo: Tokyo
+    Yakutsk: Γιακούτσκ
+    Adelaide: Αδελαΐδα
+    Darwin: Δαρβίνος
+    Brisbane: Brisbane
+    Canberra: Καμπέρα
+    Guam: Γκουάμ
+    Hobart: Χόμπαρτ
+    Melbourne: Μελβούρνη
+    Port Moresby: Πορτ Μόρεσμπι
+    Sydney: Σίδνεϊ
+    Vladivostok: Βλαδιβοστόκ
+    Magadan: Μαγκαντάν
+    New Caledonia: Νέα Καληδονία
+    Solomon Is: Σολομώντος.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Ώκλαντ
+    Fiji: Φίτζι
+    Kamchatka: Καμτσάτκα
+    Marshall Is: Μάρσαλ.
+    Wellington: Wellington
+    Chatham Is: Chatham είναι.
+    Nuku'alofa: Nukualofa
+    Samoa: Σαμόα
+    Tokelau Is: Τοκελάου είναι.
+  el: el
+  el_iso: el

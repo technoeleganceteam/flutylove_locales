@@ -1,0 +1,1727 @@
+---
+lb:
+  1_we_have_just_launched_our_service_title: hunn Mir lancéiert just eise Service!
+  common_keywords: datings, online datings, Léift datings, Webcam daten, Vitesse daten,
+    Webcam chat daten, Rubin op Rails daten Site, multilanguage daten Site
+  common_description: De stäerkste fortgeschratt international sozial Ënnerhalung
+    Reseau fir datings "Flutylove"
+  default_album: Standard Album
+  user: De Benotzerkont
+  user_to_search_connection: Search
+  video: Video
+  note: Note
+  photo_album: Photo Album
+  from: Vun
+  to: Fir
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Männlech
+  - female:
+      name: Weiblech
+  - transgender:
+      name: eendeiteg
+  - male-female:
+      name: Mann-Fra
+  - double-female:
+      name: Double weiblech
+  - double-male:
+      name: Double männlech
+  orientation:
+  - heterosexual: Weiblech
+  - homosexual: Homosexuell
+  - bisexual: Bisexuell
+  search_for:
+  - chatting: kukken
+  - get_friends: Géi Frënn
+  - flirtation: Flirtation
+  - marriage: Bestiednes
+  - other: Aner
+  body_type:
+    slim: Slim
+    normal: Normal
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Single
+    in_a_relationship: An enger Relatioun
+    married: Bestued
+    nothing_serious: Näischt schlëmmen
+  children:
+    dont_have: Mengt net hunn
+    dont_have_and_dont_want_to: Hutt net a wëllen net
+    don_t_have_but_planning: Hutt net mee Planung
+    have_enough: Have
+    have_and_planning_more: Have a méi Planung
+    unable_to_have_children: Higan Kanner ze hunn
+  living:
+    with_parents: No Elteren
+    with_marriage_partner: der Hochzäit Partner
+    alone: eleng
+    with_friends: No Frënd (s)
+  education:
+    nothing: Näischt
+    secondary_school: Lycée
+    college_technical_college: College / Technesch Héichschoul
+    university: University
+    postgraduate: der uni.lu
+    phd_md_post_doctorate: Dokteraarbecht / MD / Post Doktorat
+  hair_color:
+    blonde: fiert an d'schwaitzer
+    dark_blond: Dark blond
+    brown: Brown
+    black: Black
+    red: Red
+    gray: Gray
+    other: Aner
+  income:
+    unemployed: Zur
+    unstable_earnings: onbestänneg Akommes
+    small_stable_earnings: klenger stabilt Akommes
+    medium_stable_earnings: mëttlerer stabilt Akommes
+    higher_than_average_income: héich wéi Moyenne Akommes
+    high_income: High Akommes
+  smoking:
+    not_smoke: net fëmmen
+    not_smoke_and_detest: fëmmen a géif net fëmmen
+    smoke_in_a_social_setting: heiansdo zu engem soziale Kader
+    smoke_only_after_drinking: nemmen nëmme drénken
+    smoke_occasionally: nemmen heiansdo
+    smoke_often: nemmen oft
+  alcohol:
+    not_drinking: net drénken
+    drink_occalionally: Drink heiansdo
+    drink_in_a_social_setting: Drink zu engem soziale Kader
+    drink_often: Drink oft
+  drugs:
+    dont_use: Nët
+    contra_drugs: Contra Drogen
+    tried_out_some: Probéiert elo e puer
+    light_drugs_occasionally: Light Drogen heiansdo
+    regular: Feierdeeg
+  sponsor:
+    i_want_to_find_a_sponsor: Ech wëll e Sponsoren ze fannen
+    willing_to_become_a_sponsor: Bereet engem Sponsor ginn
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Net sicht eng Sponsoren
+      an net gewëllt een ze ginn
+  category_name:
+    strategy: Strategie
+    rpg: applikabel
+    3d_shooters: 3D schéisse kënnen
+    racing: Racing
+    arcade: Arkad
+    economic: wirtschaftlech
+    simulators: Simulatoren
+    logic: Säiten
+    adventure: Adventure
+    board_games: Brietspiller
+    gambling: Prostituéiert
+    news: Annonce
+    communication: Kommunikatioun
+    multimedia: Multimedia
+    drawing: Zeechnen
+    educational: Formatiounsprojet
+    e_commerce: E-Commerce
+    other: Aner
+  shared:
+    header:
+      people: Leit
+      chat: Chat
+      groups: Groups
+      forum: Forum
+      requests: Ufroe
+      help: Hëllef
+      user_applications: Dossieren
+    liked_users:
+      liked: beléift
+      all: All
+      you_have_not_liked_any_users_yet: Dir hutt keng Benotzer nach beléift
+    most_liked_users:
+      most_liked_users: Popular Benotzer
+    installed_user_applications:
+      installed_applications: Installéierte Applicatiounen
+      all: All
+      you_have_not_installed_any_apps_yet: Dir hutt keng Programmer nach installéiert
+    user_applications:
+      uploaded_apps: eropgelueden Applicatiounen
+      all: All
+      you_have_not_uploaded_any_apps_yet: Dir hutt keng Programmer nach eropgelueden
+    right_sidebar:
+      news: Annonce
+      all: All
+      read_more: Weiderliesen méi
+    footer:
+      footer_text: International sozial Ënnerhalung Reseau fir datings "Flutylove"
+      privacy: Dateschutz
+      terms: Konditioune
+      feedback: Feedback
+      abuse: Abus
+    languages_select_modal:
+      available_languages: Disponibel Sproochen
+    site_map_modal:
+      site_map: Site Plang
+      faq: FAQ
+      about: Iwwer
+      static_pages: Stata Säiten
+      common_pages: Gewéinlech Säiten
+      user_pages: De Benotzerkont Säiten
+      terms: Konditioune
+      privacy: Dateschutz
+      people: Leit
+      user_applications: Dossieren
+      user_requests: Ufroe
+      news: Annonce
+      feedback: Feedback
+      abuse: Abus
+      chats: Chat
+      videos: Videos
+      photo_albums: Photo Alben
+      notes: Notes
+    pagination_link:
+      next_page: Nächst Säit
+    user_edit_menu:
+      content: zefridde
+      profile: Profil
+      site_settings: Site Astellungen
+      privacy: Dateschutz
+      services: Services
+    activities_navigation:
+      all: All
+      photos: Fotoen
+      photo_albums: Photo Alben
+      notes: Notes
+      videos: Videos
+    notifications_navigation:
+      all: All
+      likes: gären
+      friend_requests: Friend Demanden
+      profile_views: Profil Meenung
+      photo_album_views: Fotoen Meenung
+    user_to_friend_connections_navigation:
+      friends: Frënn
+      outcome_requests: Konklusiounen Demanden
+      income_requests: Recettë Demanden
+    user_applications_navigation:
+      all: All
+      new: New
+      popular: Popular
+      manage: Hëllef
+    user_requests_navigation:
+      all: All
+      popular: Popular
+      my_requests: Meng Demanden
+    user_navbar_menu:
+      sign_in: Umellen
+      sign_up: Aschreiwen
+    email_signature:
+      info: Info
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: En Geschlecht
+      select_orientation: En Orientatioun
+      select_search_for: En Sich fir
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Dir musst virun dëser Aktioun ze ënnerschreiwen an
+      available_sign_in_methods: Dir
+    sign_up_methods:
+      usual_register_link: gewinnt Immatrikulatioun
+      register_text: Nieft% {usual_registration} Dir kënnt duerch beléifsten Servicer
+        umellt a sozialen Netzwierker
+    bootstrap_gallery:
+      previous: virdrun
+      next: Next
+    user_notification_title:
+      you_liked: Dir wierd vun
+      wrote_message_to_you: geschriwwen Message un Iech
+      viewed_your_profile: ophalen Äre Profil
+      liked_your_photo: beléift Är photo
+      liked_your_note: beléift Är Note
+      liked_your_request: beléift Är Ufro
+      liked_your_video: beléift Är video
+      liked_your_application: beléift Är Demande
+      requested_a_friendship: Gewënscht enger Frëndschaft
+  authentications:
+    authentication:
+      turn_on: Dréint op
+      turn_off: Dréint ugefaangen
+      turned_on: Aus op
+      turned_off: Aus ugefaangen
+    index:
+      enabled_services: Ugeschalt Servicer
+  users:
+    profile:
+      submit: späicheren
+      name: Numm
+      meet_with: Meet mat
+      gender: Geschlecht
+      type_in_your_location: Type an Ärer Stad
+      about_me: puer Wierder iwwert selwer (nieft drënner ze Form)
+      sex_keywords: Interessen vun Sex
+      more_options: More
+      orientation: Orientatiounsdeeg
+      birth_date: Gebuertsdatum
+      location: Location
+      search_for: Search fir
+      intimacy: Frëndschaft
+      in_age: Am Alter
+      from: aus
+      to: ze
+      interests: Interessen
+      height: Héicht
+      weight: Gewiicht
+      body_type: Body Typ
+      hair_color: Hair Faarf
+      relationship: Bezéiung
+      children: Kanner
+      living: Living
+      education: Educatioun
+      jobs: Job
+      income: Recettë
+      languages: Sproochen
+      smoking: Fëmmen
+      alcohol: Alkohol
+      drugs: realiséiert
+      contacts: Kontakt
+      contact_name: Contact Numm
+      contact_value: Contact Wäert
+      save: späicheren
+      about_yourself: Iwwer selwer
+    settings:
+      submit: späicheren
+      locale: Letzebuerger Sprooch
+      change_password: Passwuert änneren
+      interface_language: Letzebuerger Sprooch
+      time_zone: Zäitzon
+    dialog_modal:
+      send_message: Schécken Message
+    index:
+      users: Benotzer
+      clear_search: däitlecht Sich
+    dashboard:
+      hello: Moien
+      here_some_of_your_statistics: Hei e puer vun Äre Statistiken
+      chats: Chat
+      messages: Messagen
+      photos: Fotoen
+      videos: Videos
+      notes: Notes
+      photo_albums: Photo Alben
+    avatar:
+      photo: Photo
+      uploading_file: eropgelueden Datei
+      handling_file: Mat Fichier
+      drag_and_drop_your_file: Drag a liwwert Är Fichier
+      here: hei
+      or: oder
+      upload_file: upload Fichier
+      from_other_sites: Vun aner Siten
+      write_down_link_for_your_image: Write Link vun ärem Bild erof
+      url_for_image: URL fir Bild
+      upload: Eroplueden
+      from_facebook: Vun Facebook
+      turn_on_facebook: Dréint op Facebook
+      you_can_upload_your_photos_from_facebook: Dir kënnt Är Fotoen aus Facebook eropluede
+      from_vkontakte: Vun Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Dir kënnt Är Fotoen aus Vkontakte
+        eropluede
+      turn_on_vkontakte: Dréint op Vkontakte
+      from_instagram: Vun Instagram
+      you_can_upload_your_photos_from_instagram: Dir kënnt Är Fotoen aus Instagram
+        eropluede
+      turn_on_instagram: Dréint op Instagram
+      from_dropbox: Vun Dropbox
+      you_can_upload_your_photos_from_dropbox: Dir kënnt Är Fotoen aus Dropbox eropluede
+      turn_on_dropbox: Dréint op Dropbox
+      edit_photo: Edit photo
+      delete_photo: läschen photo
+      are_you_sure: Sidd Dir sécher?
+    available_photos_modal:
+      available_photos: Disponibel Fotoen
+    update:
+      your_password_was_successfully_changed: Äert Passwuert huet geännert
+      your_profile_was_successfully_updated: Deng Profil war erfollegräich aktualiséiert
+    edit_photo:
+      edit_photo: Edit photo
+      crop: Boun
+      close: zoumaachen
+      save_changes: späicheren Ännerungen
+    contact:
+      contact_name_placeholder: Facebook / Skype / VK / etc
+      contact_value_placeholder: URL / Nick / id / etc
+    user:
+      about_me: Iwwer mech
+      orientation: Orientatiounsdeeg
+      meet_with: Meet mat
+      desirable_age: wënschenswert Alter
+      from: aus
+      to: ze
+      interests: Interessen
+      height: Héicht
+      sm: SM
+      kg: kg
+      body_type: Body Typ
+      hair_color: Hair Faarf
+      relationship: Bezéiung
+      children: Kanner
+      living: Living
+      education: Educatioun
+      jobs: Jobs
+      income: Recettë
+      languages: Sproochen
+      smoking: Fëmmen
+      alcohol: Alkohol
+      drugs: realiséiert
+      contacts: Kontakt
+    user_info:
+      offline: Offline
+      online: Online
+      age: Alter
+    loading_modal_images:
+      loading_images: Loading Biller
+    password_form:
+      new_password: Neit Passwuert
+      old_password: Old Passwuert
+      change_password: Passwuert änneren
+    show:
+      photos: Fotoen
+      all: All
+      videos: Videos
+      notes: Notes
+      view: View
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: peschen recieved Schlëssel
+      submit: Schéckt
+    contents:
+      users_which_i_like: Benotzer déi ech wëll
+      all: All
+      my_videos_likes: Meng Videoen gär
+      my_photos_likes: Meng Fotoen gär
+      my_notes_likes: Meng Billjee gär
+      my_user_applications_likes: Meng Uwendungen gär
+      my_user_requests_likes: Meng Demanden gär
+    more_profile_info:
+      photo_albums: Photo Alben
+      view_all_photo_albums: View all Foto Albume
+      create_more: Neie méi
+      videos: Videos
+      view_all_videos: View all Videoen
+      notes: Notes
+      view_all_notes: View all Billjee
+      requirements_lists_to_partner: Du Lëschten ze Partner
+      requirement: Viraussetzung
+      view_all_requirements_lists: View all Viraussetzunge Lëschten
+      profile_verification: Profil Kontrollen
+      your_profile_is_successfully_verified: Deng Profil ass erfollegräich ubelaangt
+      create: opmaachen
+      you_have_not_any_requirements_lists_yet: Dir hutt keng Viraussetzung nach Lëschten
+      your_profile_is_not_verified_yet: Deng Profil ass nach net festgeluecht
+    privacy:
+      privacy: Dateschutz
+  searches:
+    form:
+      location: Location
+      from: aus
+      to: ze
+      age: Alter
+      gender: Geschlecht
+    form_content:
+      city: Stad
+      gender: Geschlecht
+      age_from: Alter vun
+      to: ze
+      online: Online
+      verified: ubelaangt
+      has_avatar: Has Avatar
+      region: Regioun
+      more: More
+      country: Country
+      about_me: Iwwer mech
+      interests: Interessen
+      languages: Sproochen
+      names: Benennung
+      height: Héicht
+      from: aus
+      weight: Gewiicht
+      body_type: Body Typ
+      relationship: Bezéiung
+      hair_color: Hair Faarf
+      education: Educatioun
+      orientation: Orientatiounsdeeg
+      search_for: Search fir
+      children: Kanner
+      living: Living
+      smoking: Fëmmen
+      alcohol: Alkohol
+      drugs: realiséiert
+      income: Recettë
+    show:
+      users: Benotzer
+      clear_search: däitlecht Sich
+  welcome:
+    index:
+      people: Leit
+      requests: Ufroe
+      user_applications: Dossieren
+      about: Iwwer
+      features: BIG
+      registration: Registratioun
+      sign_in: Umellen
+      welcome_main_title: Wëllkomm Flutylove!
+      welcome_main_text: Dëst ass d'Plaz wou Dir Är perfekt Léift fanne kann
+      find_more: Bléck méi
+      about_title: Flutylove ass d'international sozial Ënnerhalung Reseau fir datings
+      about_text: Et gi vill Funktiounen dass Dir fir entertainments an datings benotzen
+        kann!
+      find_more_features: méi Fonctiounen Bléck
+      at_our_service: Charakteristike vu eisem Service
+      many_languages: Vill Sproochen
+      text_about_many_languages: Eis Service ass méi wéi 70 Sproochen iwwersat
+      check_it_out: Check et aus
+      videochats: Videochats
+      text_about_videochats: Du kanns mat videocams mat Ärem Partner chat
+      try_it_now: Probéier et elo
+      search: Search
+      text_about_search: Du kanns mat méi Parameteren Sich an et ass gratis!
+      watch_this: Waacht dëser
+      more_features: Méi Fonctiounen
+      text_about_more_features: Dir kënnt Videoen, Spiller an do vill aner Saachen
+        Vue!
+      register_and_learn_more: Schreiwt a léiere méi
+      register_header: Registratioun
+  feedbacks:
+    new:
+      feedback_title: Feedback
+    form:
+      feedback_name: Ären Numm
+      feedback_email: Är Email
+      feedback_content: Feedback Inhalt
+      close: zoumaachen
+      send: Schécken
+      feedback_recaptcha: Recaptcha
+      cancel: Ofbriechen
+    success:
+      success_feedback: Merci! Mir hunn Äre Feedback recieved.
+      close: zoumaachen
+      cancel: Ofbriechen
+      more: Eng méi
+  abuses:
+    new:
+      abuse_title: Abus
+    form:
+      abuse_name: Ären Numm
+      abuse_email: Är Email
+      abuse_content: Abus Inhalt
+      abuse_title: Abus
+      close: zoumaachen
+      send: Schécken
+      abuse_recaptcha: Recaptcha
+      abuse_link: Link
+      cancel: Ofbriechen
+    success:
+      success_abuse: Merci! Mir hunn däi Mëssbrauch recieved.
+      close: zoumaachen
+      cancel: Ofbriechen
+      more: Eng méi
+  layouts:
+    welcome:
+      welcome_title: Wëllkomm Flutylove! De stäerkste fortgeschratt daten Site.
+  recaptcha:
+    errors:
+      verification_failed: Kee recaptcha
+      recaptcha_unreachable: Recaptcha ass erreecht
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Mir eisem Service just lancéiert hunn!
+      we_have_just_launched_our_service_text: Haut mir eise Service lancéiert sou
+        kann jiddereen
+      sign_up: opzemaachen
+      and_use_it: a se benotzt.
+      wishes_and_requests: Wann Dir keng Wënsch oder Demanden hunn, kënnt Dir iech
+        aschreift a schreift et
+      here: hei
+      with_love: Mat Léift,
+      flutylove_team: Flutylove Team
+    index:
+      all_news: All Neiegkeeten
+      read_more: Weiderliesen méi
+  chats:
+    panel_head:
+      online: Online
+      offline: Offline
+    pagination_link:
+      next_page: Nächst Säit
+    form:
+      message_text: Message Text
+    form_additions:
+      submit: Schéckt
+      videochat: Videochat
+    show:
+      messages: Messagen
+    index:
+      messages: Messagen
+    modal_form:
+      send_message: Schécken Message
+      recipient: dru
+      message: Message
+      close: zoumaachen
+      submit: Schéckt
+    waiting_video_answer_button:
+      waiting_for_response: Waardezäit fir Äntwert ...
+    chat_created:
+      send_message: Schécken Message
+      message_was_sent: Message gouf geschéckt
+      close: zoumaachen
+  messages:
+    pagination_link:
+      next_page: Nächst Säit
+    form:
+      message_text: Message Text
+  notifications:
+    user_to_friend_connection:
+      action: Action
+    notification:
+      offline: Offline
+      online: Online
+    like:
+      action: Action
+    photo_album_view:
+      action: Action
+    user_view:
+      action: Action
+  user_applications:
+    user_application:
+      who_uploaded: eropgelueden vun
+      all_uploaded_applications_by: All eropgelueden Applicatioun vun
+    form:
+      name: Numm
+      user_application_name: Dossier Numm
+      description: Description
+      description_text: Beschreiwung Text
+      iframe_url: blockéieren URL
+      icon_for_application: Dossier icon
+      upload_icon: Luet icon
+      public: Ëffentlech?
+      category_name: Kategorie
+      create: opmaachen
+      edit: Edit
+    show:
+      application: Programm
+      edit_application: Edit Applikatioun
+      return_to_all_applications: Zeréck un all Applikatiounen
+    manage:
+      installed_applications: Installéierte Applicatiounen
+      uploaded_applications: eropgelueden Applicatiounen
+      all: All
+    index:
+      return_to_all_applications: Zeréck un all Applikatiounen
+      return_to_manage_applications: Zeréck Applikatiounen ze verwalten
+    installed:
+      installed_applications: Installéierte Applicatiounen
+      return_to_all_applications: Zeréck un all Applikatiounen
+      return_to_manage_applications: Zeréck Applikatiounen ze verwalten
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Ier Vue dësem Programm brauch
+        Dir éischt umellen
+    need_to_install:
+      need_to_install_first: Dir braucht dëse Programm éischt installéieren
+  likes:
+    index:
+      liked_items: beléift heizou
+      return_to_my_content: Zeréck un meng Inhalt
+  videos:
+    index:
+      videos: Videos
+      return_to_edit_profile: Fir Redaktioun Profil
+      return_to_profile: Zeréck un Profil
+    video:
+      edit: Edit
+      are_you_sure: Sidd Dir sécher?
+      delete: läschen
+    modal_form:
+      create_new_video: Erstellt neie Video
+      close: zoumaachen
+      create: opmaachen
+    form_content:
+      name: Numm
+      video_name: Video Numm
+      source: URL vun embed Code
+      video_url_or_embed_code: Video URL vun code Video embed
+    show:
+      video: Video
+      return_to_all_videos: Zeréck un all Videoen
+      edit_video: Edit video
+    edit:
+      edit_video: Edit video
+      return_to_view_video: Zeréck un Vue video
+      view_video: View Video
+    form:
+      edit: Edit
+  photo_albums:
+    index:
+      photo_albums: Photo Alben
+      return_to_editing_profile: Fir Redaktioun Profil
+      return_to_profile: Zeréck un Profil
+    photo_album:
+      edit: Edit
+      create: opmaachen
+      are_you_sure: Sidd Dir sécher?
+      delete: läschen
+    edit:
+      edit_photo_album: Edit photo Album
+      return_to_photo_albums: Fir photo Albume
+      view_photo_album: View photo Album
+    form_content:
+      name: Numm
+      photo_album_name: Photo Album Numm
+    form:
+      edit: Edit
+      create: opmaachen
+    photo_album_uploader:
+      drag_and_drop_your_file: Drag a liwwert Är Fichier
+      here: hei
+      or: oder
+      upload_file: upload Fichier
+      from_other_sites: Vun aner Siten
+      write_down_link_for_your_image: Write Link vun ärem Bild erof
+      url_for_image: URL fir Bild
+      upload: Eroplueden
+      from_facebook: Vun Facebook
+      turn_on_facebook: Dréint op Facebook
+      you_can_upload_your_photos_from_facebook: Dir kënnt Är Fotoen aus Facebook eropluede
+      from_vkontakte: Vun Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Dir kënnt Är Fotoen aus Vkontakte
+        eropluede
+      turn_on_vkontakte: Dréint op Vkontakte
+      from_instagram: Vun Instagram
+      you_can_upload_your_photos_from_instagram: Dir kënnt Är Fotoen aus Instagram
+        eropluede
+      turn_on_instagram: Dréint op Instagram
+      from_dropbox: Vun Dropbox
+      you_can_upload_your_photos_from_dropbox: Dir kënnt Är Fotoen aus Dropbox eropluede
+      turn_on_dropbox: Dréint op Dropbox
+    show:
+      photo_album: Photo Album
+      return_to_photo_albums: Fir photo Albume
+      edit_photo_album: Edit photo Album
+    modal_form:
+      create_new_photo_album: Erstellt nei photo Album
+      close: zoumaachen
+      create: opmaachen
+  user_requests:
+    form:
+      content: zefridde
+      edit: Edit
+      create: opmaachen
+  notes:
+    index:
+      notes: Notes
+      return_to_edit_profile: Fir Redaktioun Profil
+      return_to_profile: Zeréck un Profil
+    note:
+      edit: Edit
+      are_you_sure: Sidd Dir sécher?
+      delete: läschen
+    show:
+      note: Note
+      return_to_notes: Zeréck un Noten
+      edit_note: Edit Note
+    form_content:
+      content: zefridde
+      note_content: Note Inhalt
+      edit: Edit
+      create: opmaachen
+    edit:
+      edit_note: Edit Note
+      return_to_notes: Zeréck un Noten
+      view_note: View Note
+  user_to_search_connections:
+    index:
+      requirements_lists: Du Lëschten
+      return_to_editing_profile: Fir Redaktioun Profil
+    user_to_search_connection:
+      edit: Edit
+      are_you_sure: Sidd Dir sécher?
+      delete: läschen
+    edit:
+      edit_requirements_list: Edit Ufuerderunge Lëschten
+      return_to_requirements_lists: Fir Ufuerderunge Lëschten
+      view_requirements_list: View Ufuerderunge Lëscht
+    form_content:
+      name: Numm
+      name_of_your_requirements_list: Numm vun Ärem Ufuerderunge Lëscht
+    form:
+      edit: Edit
+    show:
+      requirements_list: Du Lëscht
+      return_to_requirements_lists: Fir Ufuerderunge Lëschten
+      edit_requirements_list: Edit Ufuerderunge Lëscht
+  photos:
+    index:
+      photos: Fotoen
+      return_to_photo_albums: Zeréck un photo Albume
+      return_to_profile: Fir Profil
+  errors:
+    messages:
+      already_confirmed: scho bestätegt huet, weg an Ënnerschrëft
+      confirmation_period_expired: bannent% bestätegt gin {Period}, Demande weg eng
+        nei ee
+      expired: huet ofgelaaf, Demande weg eng nei ee
+      not_found: net fonnt
+      not_locked: war net gespaart
+      not_saved:
+        one: '1 Fehler verbueden dës% {Ressource} aus gerett ginn:'
+        other: "% {Grof} Feeler dëser% {Ressource} verbueden aus gerett ginn:"
+    bad_request:
+      bad_request: Bad ufroen
+      request_result: ufroen Resultat
+      bad_request_description: De Server kann net oder net d'Demande duerch eng visuell
+        Client Fehler wäert Prozess
+      go_to_root: zu root Go
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable virhuelen
+      request_result: ufroen Resultat
+      unprocessable_entity_description: D'Demande war gutt-Duch mä ass knapp wéinst
+        Schüler Feeler gefollegt ze ginn
+      go_to_root: zu root Go
+    not_found:
+      not_found: net fonnt
+      request_result: ufroen Resultat
+      not_found_description: D'ugefrote Ressource net fonnt ginn hätt awer vläicht
+        an der Zukunft sinn ginn
+      go_to_root: zu root Go
+    forbidden:
+      forbidden: verbueden
+      request_result: ufroen Resultat
+      forbidden_description: D'Demande war eng valabel Wonsch, mä de Server ass forcéiere
+        fir se ze äntweren
+      go_to_root: zu root Go
+    internal_server_error:
+      internal_server_error: Interne Server SkriptComment
+      request_result: ufroen Resultat
+      internal_server_error_description: eppes falsch. Mir wäerten se flécke sou séier
+        wéi méiglech.
+      go_to_root: zu root Go
+  pages:
+    privacy:
+      privacy: Flutylove Dateschutz Policy
+      general_provisions: General Dispositiounen
+      p_1_1: 1.1. Dës Reglementer en offiziell Dokument vun Opschwong "Technoelegance",
+        matzen um 101000, Moskau, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1 (verdéngt Flutylove, déi Company, Mir), a festzestellen Prozedure vun Donnéeën
+        Veraarbechtung an Informatiounen Sécherheet vun Individuen deen ass am Alter
+        vun 18 Joer erreecht, an déi Websäit benotzt https://flutylove.com (verdéngt
+        de Site) a seng Servicer (verdéngt de Benotzer).
+      p_1_2: 1.2. Den Zweck vun dëse Spillconditiounen ass wéinst Schutz vun de Benotzer
+        Informatiounen, dorënner perséinlechen Daten, aus Zougrëff a Präisgi ze garantéieren.
+      p_1_3: 1,3. D'Relatioune mat Kollektioun assoziéiert, Stockage, verdeelen a
+        Sécherheet vun Informatiounen an d'Site Benotzer ginn duerch dës Reglementer,
+        aner offiziellen Dokumenter vun der Firma an déi aktuell Legislatioun vun
+        der russescher Federatioun regéiert.
+      p_1_4: 1.4. Déi aktuell Versioun vun de Reglementer, déi eng ëffentlech Dokument
+        sinn, ass fir all Internet Benotzer sinn, wou de Link http://flutylove.com/pages/privacy
+        folgenden. D'Firma huet d'Recht Gestart ze beaarbechten. Am Fall sinn d'Ännerungen
+        an de Spillconditiounen huet, soll de Company de Benotzer matdeelen vun der
+        neier Versioun vun der Spillconditiounen op de Site bei permanenten Adress
+        http://flutylove.com/pages/privacy Astelle, net méi spéit wéi virun 10 Deeg
+        virun der effikass Datum vun der Ännerungen. Déi viregt Versioune vun de Reglementer
+        an der Dokumentatioun Archiv vun der Company gespäichert.
+      p_1_5: 1.5. Gestart goufen entwéckelt a sinn am Aklang mat de User Konventioun
+        benotzt. Am Fall vun all contravention tëscht Gestart an aner offiziell Dokumenter
+        vun der Company, mussen dës Spillconditiounen ugewannt ginn.
+      p_1_6: 1,6. Andeems se mat de Site, averstanen Dir un d'Konditioune vun dëser
+        Dateschutz Policy. Liest si virsiichteg. Wann Dir net mat de Bestëmmunge vun
+        dëser Dateschutz Policy averstan, oder dir hutt net am Alter vun 18 Joer erreecht,
+        kënnt Dir net de Site a senge Services benotzen. Duerch de Site ze benotzen,
+        egal ob Dir d'registréiert Benotzer vun Flutylove sinn oder net, confirméieren
+        datt Dir dëst Dateschutz Policy voll akzeptéieren, an domat averstan ass ze
+        verfollegen.
+      the_website_using_conditions: D'Websäit benotzt Konditiounen
+      p_2_1: '2.1. Ze benotzen den Site Flutylove, muss dir Iech aschreiwen. Numm,
+        E-Mail-Adress, Geschlecht, de Gebuertsdatum, Location Informatiounen: Déi
+        folgend Informatioune soll während der Umeldung uginn ginn. D''User kann déi
+        zousätzlech perséinlech Donnéeë bei seng / hir eegen wënschen. D''User kann
+        perséinlech Informatiounen zu all Moment änneren oder update. am Fall vun
+        änneren Geschlecht an Gebuertsdatum vun de Benotzer déi Company huet e Recht
+        zousätzlech Justificatifer zu Ufro.'
+      p_2_2: '2.2. Duerch Kesselen Zougang zu de Site a senge Servicer, déi Company,
+        an engem verstännegen Manéier Schauspill an zu gudde Glawen méngt, datt de
+        User: agesäit, datt fir Aschreiwung op der Websäit ass et noutwendeg ass iwwer
+        18 Joer al sinn; huet all déi néideg Rechter op dësem Site aschreiwen ze kënnen
+        a benotzt et; beweist korrekt Informatiounen iwwert sech selwer / stecht fir
+        d''Benotzung vun de Servicer vun der Websäit vun der Demanden no; bewosst
+        ass, dass perséinlech Informatiounen op de Site, déi de User gëtt, ka vläicht
+        och fir aner Benotzer vum Site a Internet Benotzer sinn ginn, kopéiert an
+        déi aner Benotzer verdeelt gin; bewosst ass, datt verschidden Zorte vun Informatiounen,
+        kënnt vun de User net geläscht ginn, fir déi aner Benotzer transferéiert;
+        mat Gestart besser ass, averstanen mat hinnen an dèi der spezifizéierter Rechter
+        a Pflichten.'
+      p_2_3: 2,3. D'Compagnie heescht z'iwwerpréiwen net d'Richtegkeet vun der dobäi
+        (afonnt) Informatiounen iwwert d'Benotzer, mat Ausnam vu Fäll, wou esou Kontrollen
+        fir néideg ass d'Company d'Obligatiounen fir de Benotzer ze erfëllen.
+      information_processing_objectives: Informatiounen Veraarbechtung Ziler
+      p_3_1: 3.1. D'Company dréit den Informatiounen ze verschaffen iwwer Benotzer
+        aus, och hir perséinlech Daten, an fir de Company d'Obligatiounen fir d'Benotzer
+        vun der Benotzung vun der Websäit a seng Servicer ze erfëllen.
+      p_3_2: 3.2 D'Firma huet e Recht Veraarbechtung vu perséinlechen Donnéeën ze
+        üben ouni den zoustännegen Autoritéiten fir de Schutz vun de Rechter vu perséinlechen
+        Daten Sujeten iwwert.
+      structure_of_the_user_information: Struktur vun de Benotzer Informatiounen
+      p_4_1: '4,1. Perséinlech Donnéeë vun de Benotzer ëmfaasst:'
+      p_4_1_1: 4.1.1. Numm, E-Mail-Adress, Geschlecht, Gebuertsdatum, Location Informatiounen,
+        an Telefonsnummer, déi vun de Benotzer gëtt si an Szen just genuch fir d'Aschreiwung
+        op de Site ze gin;
+      p_4_1_2: 4.1.2. d'Informatiounen, déi duerch d'User (zum Beispill Fotoen, Informatiounen
+        iwwer Unhänger Gewunnechten etc.) gëtt ass;
+      p_4_1_3: 4.1.3. Weideren vun de User gëtt geméiss der Company Demande fir d'Company
+        d'Obligatiounen fir d'Benotzer ze erfëllen, vum Benotzer Accord optauchen.
+        D'Firma huet e Recht, an virun allem, d'User eng Kopie vun der Carte d'Identité
+        oder soss Dokumenter mat dem Numm, Geschlecht an Gebuertsdatum an Demande,
+        wéi och aner zousätzlech Informatiounen, déi an der Firma d'Méiglechkeet,
+        néideg ginn an fir d'Identifikatioun vun esou Benotzerkont genuch a géif de
+        Mëssbrauch an Violatioun vun de Rechter vun drëtte Parteien eliminéiert.
+      p_4_2: '4.2. Aner Benotzerkont d''Informatiounen ze verschaffen vun der Company
+        De Site Administration Prozesser och aner Informatiounen iwwer d''Benotzer,
+        déi ënner anerem:'
+      p_4_2_1: 4.2.1. gemeinsam Donnéeën, kritt automatesch duerch http-Server wou
+        de Site an der nächster Aktioun vun de User Accès (IP-Adress vun de Provider,
+        Typ vun de Betribssystem d'Benotzer, Säiten vun der Websäit vun de Benotzer
+        besicht).
+      p_4_2_2: 4.2.2. Informatiounen déi automatesch dobäi ass, wann de Site mat Lieszeeche
+        (Cookien) Accès;
+      p_4_2_3: 4.2.3. Informatiounen, déi als Resultat vun User d'Aktiounen op der
+        Websäit dobäi ass;
+      p_4_2_4: 4.2.4. Informatiounen, déi als Resultat vun den Aktiounen vun anere
+        Benotzer op der Websäit dobäi ass.
+      users_information_processing: Informatiounen Veraarbechtung d'User
+      p_5_1: '5.1. Veraarbechtung vu perséinlechen Daten ass op der Basis vun dëse
+        Prinzipien zügeg: e) legitim Zwecker an heescht vun der Veraarbechtung vu
+        perséinlechen Donnéeën; b) Éierlechkeet; c) d''Anhale vu perséinlechen Daten
+        Veraarbechtung Zwecker mat Zwecker Prinzip erkläert wou d''perséinlech Donnéeën
+        ze sammelen, souwéi d''Anhale vun der Umeldungsinformatioune vun der Company;
+        d) d''Anhale vun de Volumen an den Typ vun Veraarbechtung vu perséinlechen
+        Daten, an d''Anhale vun heescht vun der Veraarbechtung vu perséinlechen Date
+        mat den Ziler vun hirem Traitement; e) inadmissibility vun der geschaf Datenbanken
+        fir inkompatibel Zwecker kombinéiert, mat perséinlechen Daten.'
+      p_5_1_1: 5.1.1. D'Kollektioun vu perséinlechen Daten vun der Benotzerkont ass
+        op der Websäit duerchgefouert, wann aschreiwen, wéi och an Zukunft, wann d'Benotzer
+        méi Informatiounen iwwert sech selwer / stecht benotzt Site Geschir op seng
+        / hir eegen Initiativ unhat.
+      p_5_1_2: 5.1.2. Perséinlech Donnéeë vun de Benotzer sidd andems automatiséiert
+        Systemer exklusiv am elektronesche Format a verschafft ginn, mat der Ausnahm
+        vun deene Fäll wou manuell Veraarbechtung vu perséinlechen Daten am Hibléck
+        waren ass de legislative Ufuerderunge vun Versammlung.
+      p_5_1_3: 5.1.3. Benotzer d'perséinlech Donnéeë si net zu all drëtte Parteien
+        transferéiert, ausser am Fäll gëtt ausdrécklech vun Gestart an de User Konventioun.
+        Mat der Zoustëmmung vun de Benotzer, kann perséinlech Benotzer Donnéeën ze
+        drëtte Spiller vun der Company ënnert der Bedingung vun Virgab vun enger Obligatioun
+        iwwerdroen ginn d'Confidentialitéit vun scho Informatiounen ze garantéieren,
+        besonnesch, wann Servicer a Programmer benotzt. Benotzer d'perséinlech Donnéeën
+        Handel op Ufro vun staatlech Autoritéiten (lokal Autoritéiten) ass an der
+        Prozedur duerchgefouert wéi vum Gesetz verlaangt.
+      p_5_1_4: '5.1.4. Perséinlech Benotzer Daten ginn geläscht wann: - Date vun der
+        Säit vun de User Self-geläscht ginn; - Säit ass Self-geläscht vun de User;
+        - Déi d''User Informatiounen an hir perséinlech Säit sinn vun der Firma geläscht.
+        Am Fall vun der Säit läschen vun de User selwer, Geschäfter der Company de
+        perséinlechen Daten d''User op seng elektronesch Medien bannent 210 Deeg no
+        der perséinlecher Säit geläscht ass. Déi perséinlech Donnéeë sinn op Enn vu
+        210 Deeg geläscht no der perséinlecher Säit geläscht ass. Bis zu dëser Zäit
+        eriwwer ass, huet de Benotzer d''Recht d''perséinlech Säit ze restauréieren.'
+      users_rights_and_obligations: De Benotzerkont d'Rechter an Obligatiounen
+      p_6_1: '6.1. De User huet d''Recht:'
+      p_6_1_1: 6.1.1. Zougang d'Informatiounen iwwer him / hir ouni Aschränkunge a
+        gratis vun Redaktioun seng perséinlech Säit op de Site mat der Benotzung vun
+        der Login an Passwuert;
+      p_6_1_2: 6.1.2. Ännerunge a Verbesserungen onofhängeg fir d'Informatiounen op
+        der perséinlecher Säit d'User um Site, op der Conditioun datt esou Ännerungen
+        an Verbesserungen enthale weider-ze-Datum a richteg Informatiounen;
+      p_6_1_3: 6.1.3. d'Informatiounen aus der perséinlecher Säit op der Websäit ewechzehuelen;
+      p_6_1_4: 6.1.4. Ufro der Company méi spezifeschen Informatiounen, blockéieren
+        oder ze läschen de perséinlechen Donnéeën ze kréien, wann esou Daten onkomplett,
+        aktuell, exakt sinn, unlawfully scho oder si fir d'deklaréiert Zweck vum Traitement
+        oder wann der spezifizéierter Aktiounen am Paragraph 6.1.3 vun dësen net néideg
+        Reglementer kann net onofhängeg ëmgesat ginn;
+      p_6_1_5: 6.1.5. op der Grondlag vun enger Demande, kréien d'Informatiounen aus
+        der Company iwwert d'Veraarbechtung vu sengem / hirem perséinlechen Daten.
+      p_6_2: '6.2. Déi folgend Informatiounen iwwer all registréiert Benotzer ass
+        ëmmer sinn d''registréiert Benotzer: Benotzer de Numm, Geschlecht, Alter,
+        Profil photo an aner Informatiounen, wann d''Benotzer et verëffentlecht huet.'
+      p_6_3: 6.3. D'Company Bieren keng Haftung fir d'Sitë vun de perséinlechen Daten
+        an d'Benotzer vun anere Benotzer vum Site déi esou Donnéeën Rampen hunn.
+      p_6_4: 6.4. Am Fall vun perséinlechen Daten (anere Benotzer Informatiounen)
+        Entfernung vun der perséinlecher Säit d'User oder Entfernung vun der perséinlecher
+        Säit d'User vum Site, d'Informatioun an d'Benotzer vun anere Benotzer kopéiert
+        oder op anere Benotzer Säiten gespäichert ass agekacht.
+      p_7_1: 7.1. D'Company hëlt technesch, organisatoresch an gesetzlech Mesuren
+        ze suergen, datt d'perséinlech Donnéeën vun de User geschützt sinn aus onerlaabt
+        oder ongewollte Zougang, Läschen, Modifikatioun, erauszesichen, eng Kopie
+        maachen, a Weiderleede wéi och vun anere onerlaabt Aktiounen.
+      p_7_2: 7,2. D'Login d'User (Email Adress oder Handy Nummer) a Passwuert gi Site
+        zouzegräifen. De Benotzernumm ass responsabel fir hält dës Informatioune vertraulech.
+        D'User kann de Login a Passwuert fir drëtte Parteien net Transfert an ass
+        och Mesuren gezwonge huelen seng Diskretioun ze garantéieren.
+      limitation_of_the_regulations_applicability: Aschränkungen vun der Dës Spillconditiounen
+      p_8: Dës Reglementer net un d'Aktiounen an Internet Ressourcen vun drëtte Parteien
+        verlängert. D'Company Bieren keng Haftung fir d'Aktiounen vun drëtte Parteien,
+        déi duerch den Internet oder d'Websäit Services Zougang zu de Benotzer Informatiounen
+        krut. De Site Administration recommandéiert fir de Benotzer de Problem mat
+        der Quantitéit vun Informatiounen um Site vun enger responsabel Manéier verëffentlecht
+        zu Approche.
+      user_requests: De Benotzerkont Demanden
+      p_9_1: '9,1. De Benotzer muss e Recht Ufroen un der Company dorënner Demanden
+        ze schécken d''Benotzung vun de perséinlechen Daten schrëftlech iwwert op
+        folgend Adress schécken: Russland, 101000, Moskau, Ulanskiy pereulok 13, stroeniye
+        4, pomeshcheniye 1 oder a Form vun elektronesche Dokument vun engem qualifizéierten
+        elektronesch Ënnerschrëft am Aklang mat de Gesetzer vun der russescher Federatioun,
+        déi vun der Email ënnerschriwwen: support@flutylove.com.'
+      p_9_2: '9,2. D''Demande d''User muss folgend Informatiounen enthalen: d''Zuel
+        vun de Identifikatioun Dokument vum Benotzernumm oder hir Vertrieder; Datum
+        vum Thema vun den uewe Dokument an d''Genehmegung Autoritéit; Informatiounen
+        den User d''Participatioun vun Relatioune mat de Bedreiwer (besonnesch, de
+        Link op der Säit) confirméiert; Ënnerschrëft vun de User oder seng / hir Vertrieder.'
+      p_9_3: 9,3. D'Company dèi fir d'Demande an d'User bannent 30 Deeg ze hëtzen
+        an dodran der et scho war.
+      p_9_4: 9,4. All Korrespondenz vun der Company vun de Benotzer (schrëftlech oder
+        elektronesch Demanden) dobäi ass wéi limitéiert-Zougang Informatiounen séiert
+        a vläicht net ouni den User d'schrëftlech Erlaabnes verbreet ginn. Déi perséinlech
+        Daten an aner Informatiounen iwwer de Benotzer déi d'Demande geschéckt kënnen
+        net benotzt ginn, ouni déi speziell Erlaabnes d'User, anescht wéi fir Äntwert
+        op d'Demande oder am Stell explizit vun applicabel Gesetz gëtt.
+    terms:
+      terms: Flutylove Benotzerkont Konventioun
+      welcome: Wëllkomm Flutylove!
+      about_terms: 'Dës Konditioune vun benotzen (souwéi d''Dokumenter bezeechent
+        ëmzestoussen un, dorënner Dateschutz Policy) Artikel de Kontrakt vun Haftung
+        am Aklang mat sinn 428 vum Code Civil vun der russescher Federatioun tëscht
+        de (nodréiglech den "Accord" bezeechent) Privatpersoun, déi 18 Joer (nodréiglech
+        bezeechent wéi déi "User" an der Company (oder "Mir") erreecht huet - e staarken
+        Opschwong "Technoelegance" (Firmechef "Technoelegance") (legal Adress: 101000,
+        Moskau, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye 1), nodréiglech als
+        Flutylove Éieren, laut deem Dir dës Websäit an all verbonne Servicer duerch
+        d''Websäit oder Uwendung ugebueden (meeschtens bezeechent als "Services").
+        de Site ass versteet een all vun benotzen kann seng Versiounen, ënnert der
+        Domain Numm flutylove.com kombinéiert an enker fir eng Varietéit vun Apparater,
+        dorënner web-baséiert Versioun, mobilen Applikatiounen a Programmer fir sozial
+        Netzwierker.Andeem Dir dës Websäit averstanen Dir un d''Konditiounen vun der
+        Konventioun an Dateschutz Policy. Liest si virsiichteg. Wann Dir net mat der
+        Conditioune vun Konventioun an Dateschutz Policy averstan, oder dir hutt net
+        am Alter vun 18 Joer erreecht, kënnt Dir net de Site a senge Services benotzen.Vum
+        Site benotzen, egal Dir Benotzer vun Flutylove ugemellt sinn oder net, averstanen
+        Dir misst mat dëser Konventioun an eisen Dateschutz Politiken, déi vun de
+        Link zu dëser Konventioun abegraff ass an ass op de Site sinn, an Enterprisen
+        et.Op Benotzer Demande, dèi d''Company dëser Konventioun an engem hardcopy
+        Form ze ënnerschreiwen an et un den eenzelne ugefrot d''Dokumenter schécken.D''Company
+        behält sech d''Recht d''User Konventioun an all Dokument ze et Éieren änneren.
+        Ginn dir braucht bewosst d''Ännerungen ze halen-up-ze-Datum d''Informatiounen
+        iwwert esou Ännerungen op enger regulärer Basis. Mir wäerten Iech iwwer Changementer
+        informéieren mir ënnert op dëser Säit gemaach. Ännerunge concernéieren net
+        zréck a wäert kommen an Effekt bannent zéng Deeg vun den Datum vun der Publikatioun.
+        Allerdéngs, am Fall wou si mat der Ëmsetzung vun neie Servicer oder der Ännerung
+        vun der Legislatioun verbonne sinn, gëtt et direkt applizéiert ginn. Wann
+        Dir net mat de Verännerunge vun der Konventioun accord, muss Dir de Site a
+        seng Programmer benotzen.'
+      consent_to_accept_the_terms_of_user_agreement: 1. Zoustëmmung Begrëffer vum
+        Benotzer OFKOMMES akzeptéieren.
+      p_1: engem. Elektronesch Konventioun. Dësen Accord ass eng elektronesch Versioun
+        vun de Kontrakt, deen d'Konditioune vun Benotzung vun der Websäit an d'Services
+        beschreift. Vun dem Site Logged oder engem Benotzerkont réckelt, akzeptéiert
+        Dir dës Konventioun an accord fir all Konditiounen, Konditiounen, an Uschléi
+        datt et Texter oder referenzéiert sinn. Dir opgefall an accord dass d'Benotzer
+        vun Flutylove kann en Deel vun engem online Communautéit sinn, datt aner Websäiten
+        gehéiert zu der Compagnie oder seng Partner ëmfaasst. Dofir, kann d'Profiler
+        op de Site op aneren ähnlechen Websäiten an ofzebezuelen Abonnente vun engem
+        Websäit gekuckt ginn mat anere bezuelen Abonnente vun all Websäite kommunizéieren.
+        b. Elektronescher Form. Vun dem Site Logged oder engem Benotzerkont réckelt,
+        Zoustëmmung Dir Iech mat der elektronescher Konventioun ze bidden. c. Hardcopy
+        Form. Dir hutt e Recht d'hardcopy vun dëser Konventioun ze kréien. Dir kënnt
+        hardcopy Editioun vun dëser Konventioun Demande virum oder nom et zu elektronescher
+        Form ënnerschriwwe ginn. Weg, Kontakt eise Cliente Service fir méi Informatiounen.
+        d. Zougang an erofgelueden. Fir dës elektronesch Konventioun fir Zougang an
+        erofzelueden, muss dir Zougang zu den Internet hunn oder direkt duerch d'Apparater
+        mat den Zougang zu Web Ressourcen. Dir braucht néideg Equipementer fir d'Internet,
+        nämlech de Computer, Modem oder aner Zougang Apparat ze verbannen. Weg, print
+        eng Kopie vun dëser Konventioun an halen et. Fir d'elektronesch Form vun der
+        Konventioun download, späichert se duerch d'Hëllef vun all Texeditor- zu Äre
+        Computer.
+      the_right_of_using_the_website: 2. 'Recht vun de Websäit.
+      p_2: Du muss op d'mannst uechtzéng (18) Joer al sinn, e registréiert Benotzer
+        vun dësem Site ginn. Am Fall vun Net-Konformitéit mat den Ufuerderunge, Zougang
+        zu de Site gëtt dementéiert ginn. Mat Hëllef vum Site, sollen d'Benotzer sech
+        bewosst ginn, datt d'perséinlech Informatiounen op de Site gesat kënne fir
+        aner Internet Benotzer sinn ginn, an d'Compagnie Bier ass keng Haftung fir
+        hiren Aktiounen. Andeem Dir dës Websäit Dir nét an ennerhuele datt Dir e Recht,
+        Autoritéit a Méiglechkeet hunn an dëser Konventioun ze trieden, an Zoustëmmung
+        ze verfollegen all seng Conditiounen. Informatioun engem Benotzerkont Dir
+        nét an ennerhuele datt Dir ni Iwwerzeegung hu fir kriminellen Akt Zesummenhang
+        mat der sexueller Gewalt Babyoil ginn. De Site ass nëmme fir perséinlech benotzen
+        entworf. Et ass verbueden den Site fir all kommerziell Zwecker ze benotzen.
+        Corporate gouffen kann net de Benotzer vun dësem Site ginn, grad wéi kann
+        net dësen Service benotzen oder de Site op hir Zwecker. Illegal an / oder
+        onerlaabt Hëllef vun der Websäit, inklusiv Sammelt Benotzernimm an / oder
+        Email Adresse vun der Hëllef vun der elektronescher oder aner Tricken fir
+        den Zweck vun schéckt well Messagen a Linken ass weiderverfollegt an der Company
+        passenden Aktiounen laut Gesetz huelen kann, inklusiv en Appel un d'Gesetz
+        zoustännegen Autoritéiten.
+      pricing_and_registration: 3. déngt AND UMELDUNG
+      p_3: Dir Lag vun Enregistréiere op der Websäit vum Benotzernumm vun Flutylove
+        op freewill a gratis Basis ze ginn. Wéi de User, kënnt Dir spezifesch Gamme
+        vu Servicer a Méiglechkeete vun de Site benotzen. D'User vum Site ass eng
+        individuell op der Websäit registréiert no etabléiert Uerdnung an déi 18 Joer
+        erreecht huet. Wann op der Websäit ugemellt ass den User obligatoresch fir
+        d'Company néideg a wichteg Informatiounen fir d'User Säit zu komplett, dorënner
+        d 'Umeldungsinformatioun (Email Adress oder Telefonsnummer) a Passwuert fir
+        den Zougang zu de Site, wéi och den Numm, deen si fir all Benotzer eenzegaarteg.
+        D'Form fir Aschreiwung Ufro kënnen zousätzlech Informatiounen aus dem User.
+        De Benotzernumm ass responsabel fir d 'Validitéit, aktuell, Vollständegkeet
+        a Konformitéit mat de Droit vun der russescher Federatioun vun der Informatioun
+        bei der Umeldung gëtt, a sengen clearness aus Fuederungen vun drëtte Parteien.
+        Wann accord de User mat dëser Konventioun an spezifizéierter Rechter a Pflichten
+        ënnerhuelen, verbonne mat der Hëllef an Fonctionnement vun der Websäit. De
+        User kritt vollen Zougank zu der Hëllef vun der Websäit Funktiounen. D'Company
+        dèi Rechter an Obligatioune fir de User, an Gestart uginn, nom Succès Umeldung
+        vun de User op der Websäit vun der Veraarbechtung vu perséinlechen Daten d'User
+        huet ass laut dem Gesetz vun der russescher Federatioun. De Site Administration
+        Prozesser Benotzerkont d'perséinlech Donnéeën fir de Benotzer mat engem Accès
+        zu der Uleedung vum Site Funktiounen ze bidden, dorënner personaliséiert (geziilte)
+        Publizitéit feieren; Kontrollen, Fuerschung an Analyse vun deenen Daten, d'Funktiounen
+        an Kapitele vum Site ze ënnerstëtzen an ze verbesseren astellen, wéi och nei
+        Funktiounen an Rubriken ze entwéckelen. D'Company hëlt all néideg Aktiounen
+        déi perséinlech Donnéeën vun de User géint onerlaabten Zougang, Modifikatioun,
+        Weidersoen oder erasing ze schützen. Déi Firma stellt Accès zu de perséinlechen
+        Donnéeë vum User nëmmen zu deene Beamten, Entrepreneren a Beroder vun der
+        Company, déi dës Informatiounen an Uerdnung muss de Site Funktionalitéit ze
+        ënnerstëtzen an de User mat Accès op seng Hëllef ze bidden. D'Company vum
+        Site huet e Recht op d'Informatioun vun de User, dorënner perséinlechen Daten,
+        fir conforme ze suergen, mat den Ufuerderunge vun aktuell Legislatioun vun
+        der russescher Federatioun (inklusiv der Preventioun an / oder Ennerdréckung
+        vun illegal an / oder onerlaabt gëtt ze benotzen Aktioune vun de Benotzer).
+        Präisgi vun der Informatioun vun de User gëtt vläicht just am Aklang mat der
+        aktueller Legislatioun vun der russescher Federatioun an der Demande vun den
+        Haff, Rechtsapparat Agencen, wéi och an anere Fäll gemaach ginn wéi déi eventuell
+        Gesetz vun der russescher Federatioun gëtt. Fir d'Mooss datt déi Firma déi
+        perséinlech Donnéeën vun den Benotzer fir d'Ausféierung vun dësen Spillconditiounen
+        Prozesser, d'Erlaabnes d'User 'Veraarbechtung vu perséinlechen Daten ass an
+        opgrond vun Dispositioune vum Gesetz op perséinlech Donnéeën net néideg. D'Login
+        an déi d'Benotzer gewielt Passwuert sinn néideg a genuch Informatioune fir
+        de Benotzer Zougang zum Site. De User huet e Recht seng / hir Login a Passwuert
+        fir déi drëtte Parteien ze ginn, an ass absolut fir seng Sécherheet responsabel,
+        datt s de Wee hinnen op eng onofhängeg Basis vun raumen. Benotzt seng / hir
+        Hardware a Software kënnen d'User Titre de Späichere vun de Login an Passwuert
+        (duerch Cookien) fir spéider automatesch Autorisatioun op den Site. Ënnerholl
+        mat der Benotzung vun User d'Benotzernumm a Passwuert sinn Betruecht vun der
+        Benotzerkont engagéiert gin, ausser de Géigendeel vun de User bewisen ass.
+        De Benotzernumm ass obligatoresch der Company am Aklang mat der etabléierter
+        Prozedur am Fall vun den Zougrëff op e Benotzernumm a Passwuert an / oder
+        de Kont Säit, oder Präisgi vu de Login a Passwuert fir direkt matdeelen. Der
+        Aschreiwung Dumouriez d'User déi riets, benotzen ze schafen, a festzestellen
+        den Inhalt vun sengem / hirem perséinleche Säiten op Self-interesséiert an
+        noncommercial Zwecker, wéi och d'Méiglechkeet kréien, fir d'Informatiounen
+        iwwert de perséinlechen Säiten vun anere Benotzer Zougang an Post . De Benotzerkont
+        als Besëtzer vun der Informatioun op perséinlech Säit verëffentlecht ass duerch
+        dësen Spillconditiounen mat der Ausnahm vun de Fäll etabléiert an déi aktuell
+        Legislatioun vun der russescher Federatioun, heescht de Company net zu der
+        Entwécklung matmaachen a mat Hëllef vum Inhalt bewosst dass an Kontroll net
+        Zougang zu der Säit an d'Benotzer vun anere Benotzer.
+      terms_4: 4. GÉNÉRALES.
+      p_4: Dësen Accord bleiwt voll bestoen an Effekt soulaang wéi Dir den Site benotzen.
+        Dir kënnt andeems Äre Säit zu all Zäit, fir all Ursaach, vun kontaktéiert
+        eis online Clientsdéngscht Service oder andems de Service vun der Websäit
+        ass den User vum Site stoppen. D'Company behält seng riets Är perséinlech
+        Säit am keng Zäit ze läschen. Mir sinn net forcéiert iech matdeelen virun
+        der Säit läschen, wann der Company de Grond ass ze gleewen, dass Dir d'Konditioune
+        vun der Konventioun Verletzung hun. Mir sinn net d'Ursaach ze erziele fir
+        läschen vun Ärem Kont forcéiert; an e puer Fäll kënnen d'Sitë vun esou Informatiounen
+        verbueden gin. No der läschen vun Ärer Säit, all d'Konditiounen déi valabel
+        kann no anze- vun dëser Konventioun an hirer Natur an Kraaft no esou anze-
+        ginn. Wann Dir Är Säit iwwer de Site op Är eegen wäert läschen, kënne mer
+        Iech de Grond vun esou läschen ze spezifizéieren.
+      account_security: 5. ACCOUNT SECURITY.
+      p_5: Dir sidd fir Confidentialitéit Erhalen vun Ärem Benotzernumm a Passwuert
+        responsabel, déi op d'Zäit vun Umeldung virbereet ginn. Och, sidd Dir ganz
+        responsabel fir d'all Aktiounen, déi ënnert Ärem Benotzernumm a Passwuert
+        geschéien. Dir averstanen fir (eng) direkt eis iwwert all onerlaabt Notzung
+        vun Äre Login an Passwuert, wéi och all aner Sécherheet ugeklot, an (b) Sortie
+        vun Ärem Kont um Enn vun all Sëtzung matdeelen. De Site ass net responsabel
+        fir all Schuedenersaz oder Verloschter aus Net-Anhale vun dëser Dispositioun
+        opkommen. Dir sollt besonnesch virsiichteg sinn, wann Äre Kont via engem ëffentleche
+        Computer an Uerdnung Accès datt drukënnt net Äert Passwuert Spioun oder Rekord
+        hätt oder aner perséinlech Informatiounen. Dir confirméieren och zou, dass
+        d'Internet war ni komplett privat a sécher. Dir verstitt, datt all Messagen
+        oder Informatiounen Dir op de Site Post kënne vun anere Benotzer liesen oder
+        benotzt gin, och wann et e spezielle Warnung ass dass d'Informatiounen verstoppt
+        ass.
+      p_6: engem. DIR FIR ÄR INTERAKTIOUN mat anere Benotzer zustänneg. DIR SOLLT
+        VERSTAAN DASS DER ENTREPRISE z'iwwerpréiwen KEEN HIREN BENOTZER ON ob si A
+        Ugekloten HAVE. D 'ENTREPRISE NET UFRO OCH NET ENG INFORMATIOUN IWWERT DE
+        LESCHTE VUN HIREN BENOTZER AN KEEN validéieren NET dës Informatiounen. D 'ENTREPRISE
+        mécht keen GARANTIE KADER UTILISATION gelooss AN HIREN Overtreeglechkeeten
+        aktuellen ODER ZUKUNFT BENOTZER. OP DER SELWECHTER TIME behält ENTREPRISE
+        de Visiteure BENOTZER FIR Ugekloten z'iwwerpréiwen oder aner kënnen zu all
+        Moment DËS DISPONIBEL ËFFENTLECHEN INFORMATION gräift. b. AN NO CASES ASS
+        D 'ENTREPRISE NET verantwortlech fir Schuedenersaz ob si DIRECT, indirekt,
+        GENERAL ODER eng speziell NATURE, indemnité, AN / ODER samt, BY IECH kritt
+        oder aner Persounen als Resultat vum Site DËS, ABEGRAFF, awer net exklusiv,
+        PHYSËSCH blesséiert, Stress an / oder aner Schuedenersaz, kritt BY IECH Als
+        Resultat vun KOMMUNIKATIOUNSSERVICER ODER Reunioune ANER ugemellte Benotzer
+        vum Site oder Leit, DATT DIR MAT op der Websäit vill. Dir averstanen fir all
+        MÉIGLECH wëllt TAKE WANN DIR MAT DER anere Benotzer ze kommunizéieren, besonnesch
+        an deene Fäll, wann een hinne REAL LIFE begéinen Entscheedungsrecht. DIR KENNE
+        SOLLT, WAT DER ENTREPRISE GINN KEEN A deklaréiert ODER implizit Garantie MAT
+        DER BENOTZER VUN DËSER WEBSÄIT betreffend Onbedenklechkeet. DIR SOLLT NET
+        finanzielle Informatioun aner Benotzer vum Site (zB d 'INFORMATIOUN IWWERT
+        Kredit ODER Plastik Cards) ginn. c. De Service kann Äre Numm oder den Numm
+        vun Ärer Gemeng ze aner Sproochen iwwersetzen; d. De Service ass net responsabel
+        fir déi Aktiounen an dësem Artikel opgezielt. Am Fall wou Dir mat hinnen do
+        net ganz averstanen oder deelweis, WEG direkt um Site maternité
+      the_information_posted_by_you_on_flutylove: 7. INFORMATIOUN BY IECH ON FLUTYLOVE
+        Post
+      p_7: engem. Dir sidd eleng verantwortlech fir d'Informatiounen, déi Dir (nodréiglech
+        "Post") op de Service publizéieren oder beweisen oder fir aner Benotzer Transfert.
+        Dir sidd net op de Service ze Post erlaabt oder Virement ze anere Benotzer
+        all Informatiounen op defamatory, exakt, erbäigezunn, Doors, Vulgär an aggressiv
+        Inhalt, d'Informatiounen iwwert sexuell Inhalter, souwéi verkaaft oder Natur
+        vun der Saach Informatiounen, Informatiounen vun ethneschen Diskriminatioun
+        Natur oder illegal Informatiounen, oder soss Informatiounen datt d'Rechter
+        vun all aner Partei stellen oder verstoussen (inklusiv, ouni Schwieregkeet,
+        Urheberrechter, Rechter vun der Privatsphär a Publizitéit). Dir sidd net op
+        déi präzis, falsch oder falsch Informatiounen zu der Compagnie oder all anere
+        Benotzer erlaabt. Wann déi Informatiounen zu der Firma Flutylove gëtt oder
+        aneren User gëtt dono net exakt, vun falschen iwwerdriwwen, musst Dir direkt
+        d'Firma Flutylove vun esou änneren informéieren. Dir deemnächst a sécher,
+        datt all Informatiounen an Aschreiwung gëtt ass korrekt a richteg, an dir
+        direkt all Informatiounen ze änneren, datt dono net exakt, falsch oder falsch
+        ass. b. Dir verstitt an accord dass mir d'Recht behalen, mä ëmgestallt net
+        d'Informatiounen oder Inhalt ze kontrolléieren, dass fir de Service oder Kautioun
+        am ëffentlechen Zougang op de Service iwwerdrobar ass. Mir hunn e Recht fir
+        all vun esou Informatiounen oder Inhalt ze läschen ouni Grënn a kréie kéint.
+        c. All Objete op der Websäit ugewisen, dorënner Design Elementer, Text, Grafiken,
+        Illustratiounen, Videoen, Scripten, Programmer, Musek, Toun- a soss Objete
+        an hir Bibliothéiken (nodréiglech - Information), sinn am Besëtz vun exklusiv
+        Rechter vun der Company, de Benotzer vun de Site an anere Rechter, all Rechter
+        fir dës Objete ginn geschützt. d. Ausser wéi am Aklang mat dëser Konventioun
+        gegrënnt, souwéi déi aktuell Legislatioun vun der russescher Federatioun,
+        kann keen Informatiounen (kopéiert), Filteren, verdeelt, gewisen an engem
+        Kader, publizéiert, erofgeluede, iwwerginn, verkaf oder ginn an aner Weeër
+        kopéiert ginn an ganz oder zu Stécker ouni prealabel Autorisatioun vun den
+        Titulaire, ausser de Copyright Rechter ausgedréckt explizit seng Zoustëmmung
+        vun all eenzelne fir de fräie Gebrauch vun der Informatioun. E. Vun der Information
+        Astelle op der Websäit nozegoen zu de Benotzer gehéiert, d'User Zougang fir
+        aner Benotzer fir Net-exklusiv Recht geséit et ze benotzen, déi vun ukuckt,
+        playback (dorënner Kopie) an aner Rechter zougestanen fir d'Ziler vun perséinlech
+        net-kommerziell Notzung, ausser Fäll, wou esou benotzen Ursaachen oder Nodeel
+        fir Interessen vun de Recht dato opgrond vum Gesetz geschützt. f. D'Hëllef
+        vun der Informatioun vun de User, déi Zougang verdengten war eleng fir perséinlech
+        net-kommerziell benotzt, ass op Conditioun erlaabt dass all Unzeeche vun Autorerechter
+        (Copyright) oder anere Uschléi vun Autorerechter ginn huet, den Numm vum Auteur
+        a säi Produit wäert ouni Ännerung sinn lénks. g. De Benotzerkont gëtt och
+        d'Company mat engem Net-exklusiv Recht d'Informatiounen iwwert de Site online
+        gesat ze benotzen a gehéiert zu him / hir nozegoen ouni Géigeleeschtung fir
+        de Fonctionnement vun der Websäit vun der Firma an d'Leeschtungsfähegkeet
+        vun der Architektur a Funktionalitéit vun séchergestallt de Site. D'Net-exklusiv
+        riets uewen ausgefouert ass fir den Inhalt Openthalt op der Websäit Rang an
+        deckt d'Territoire vun de Länner an der ganzer Welt. D'Firma huet en d'Recht
+        fir de Rechter fir dëse Paragraph un drëtt Parteien Éieren Transfert. Benotzer
+        akzeptéiert, dass de Company e Recht hunn déi funktionell an technesch Méiglechkeeten
+        vun den Site ze benotzen, déi den ginn vun der zefridde Deele vun de Benotzer,
+        mat den Ziler vun der Publizitéit Informatiounen ginn. Salut. Am Fall deletes
+        den User d'Informatiounen aus dem Site, Net-exklusiv Recht automatesch zréckgezunn
+        ginn, mee wéinst der technescher Spezifikatioune vun der Websäit vun der Company
+        behält sech d'Recht Backup Kopië vun der Informatioun an déi néideg Zäit ze
+        spueren a wou néideg. i. Ausser de private Informatiounen, huet de Benotzer
+        keen Recht doranner, oder an aner Manéier verroden (déi op dem Site publizéiert)
+        d'Informatiounen vun anere Siten, Datebanken an aner intellektuell Propriétéit
+        vun de Flichte vun explizit Zoustëmmung vum Copyright zu esou Aktiounen ausgedréckt
+        Proprietaire. j. Feelen vun Gestart bemierken ass, eppes zu Gestart kann net
+        als Transfert vun exklusiv Rechter fir d'Information considéréiert ginn. k.
+        All d'Informatiounen, déi Dir op Ärer Benotzer Profil publizéieren, mussen
+        korrekt sinn, an-ze-Datum an komplett. De Benotzernumm ass ganz eleng verantwortlech
+        fir all Informatiounen, déi vun verschiddenen Manéier (Post) op der Websäit
+        oder mat der Hëllef vun de User eropgelueden oder verbreet war. De Benotzer
+        muss net e Recht doranner, Transfert oder de Contenu op der Websäit Post,
+        wann hien / si déi entspriechend Rechter net hunn esou Aktiounen ze huelen,
+        Qualifikatiounen oder délegéierte zu him / hir am Aklang mat Gesetzgebung
+        vun der russescher Federatioun. D'Company gebass, mee ass net verpflicht,
+        de Site fir all illegal zefridde ze duerchsichen an ass erlaabt ze läschen,
+        oder (ouni Préavis) keng zefridde oder Benotzer op säin eegene Wonsch réckelen,
+        fir all Grond oder ouni bewierkt, dorënner ouni iirgendeng ze plënneren, oder
+        läschen Informatiounen dass, laut eenzelne Meenung vun der Company dëser Konventioun
+        gesidd, d'Gesetzgebung vun der russescher Federatioun an / oder kann d'Rechter
+        verstoussen, blesséiert, oder d'Sécherheet vun anere Benotzer oder drëtten
+        a Gefor bréngen. De Site ass (oder enthale kënnen) Linken op aner Siten um
+        Internet (Websäite vun Drëtten) souwéi Artikelen, Fotoen, Illustratiounen,
+        Grafiken, Musek, Toun, video, Informatiounen, Uwendungen, Software an aner
+        Informatiounen gehéiert oder nächste vun drëtte Parteien (drëtte Partei Inhalt),
+        déi d'Resultat vun intellektueller Aktivitéit ass an ass am Aklang mat de
+        Gesetzer vun der russescher Federatioun geschützt. Dës drëtte Parteien an
+        hir Informatioune ginn net vun der Entreprise fir d'Anhale vun dëser oder
+        aner Du (Genauegkeet, Vollständegkeet, Éierlechkeet, etc.) ubelaangt. D'Company
+        ass net responsabel fir all Inhalt op der drëtter-Party Siten verëffentlecht
+        zu deem de Benotzer Iwwerhand Accès duerch d'Websäit oder duerch Drëtte-Party
+        Informatiounen, ënner anerem, mä net fir all Meenungen oder Virschléi op den
+        drëtte-Party Siten ausgedréckt limitéiert oder an hir Informatiounen. De Link
+        fir all Site, Produit, an e Service, keng Informatioun vun kommerziell an
+        net-kommerziell Natur op dëser Websäit ass net en Accord oder Recommandatioun
+        fir dës Produkter (Déngschtleeschtungen) aus dem Company. Wann de Benotzer
+        de Site ze verloossen decidéiert a bei de Websäite vun Drëtten oder fir drëtt-Party
+        Software benotzen oder z'installéieren, hien / hatt heescht also bei hiren
+        eegene Risiko a vun deem Moment sinn Gestart net méi un d'User applizéiert.
+        Weider Benotzerkont Aktiounen sinn duerch d'applicabel Regelen a Politik orientéiert,
+        dorënner d'Affär Praktike vun deenen Persounen deenen hir Informatiounen hien
+        / hatt ass elo ze benotzen.
+      forbidden_actions: 8. verbueden AKTIOUNEN.
+      p_8: engem. Et ass verbueden op "eng enk kucken halen op" oder stéieren keng
+        Persoun an aner Manéier. b. Et ass verbueden Bot, Viren, Applikatiounen ze
+        benotzen / Extrait Siten ze sichen, oder aner manuell oder automateschen Apparat
+        oder Prozesser ofzebauen, index, "NSA" oder an aner Manéier reproduzéieren
+        oder d'Navigatioun Struktur an ginn vun de Service oder hir Inhalter circumvent
+        . c. Et ass verbueden op der Post, verdeelen, oder reproduzéieren everyway
+        all Copyright Informatiounen, Jael, oder aner vun auteur protegéiert Informatiounen
+        ouni d'Welpen Awëllegong vum Copyright Proprietaire. d. Et ass verbueden all
+        Copyright, Jael oder aner Copyright Uschléi op de Service Texter ze läschen.
+        E. Et ass verbueden an zu Bréissel oder de Fonctionnement vum Service an dem
+        Site, oder Servicer an Netzwierker desorganiséieren fir de Service oder de
+        Site ugeschloss. f. Et ass verbueden, Email oder Transfert an aner Manéier
+        ze publizéieren all Informatiounen déi Viren oder all anere Computer Code,
+        Fichieren oder Programmer entworf zu Bréissel, zerstéieren oder Limitéiert
+        d'Funktionalitéit vun all Software, Hardware oder Telekommunikatioun Equipement
+        enthält. g. Et ass verbueden header ze presentéieren oder d'Bezeechnung fir
+        den Zweck vun deene der real Bedeitung vun all duerch de Service gedeelt Informatiounen
+        manipuléieren. h. Et ass un "presentéieren" oder "kopéieren" all Deel vun
+        de Service oder der Websäit ouni prealabel schrëftlech Erlaabnes vun Flutylove
+        verbueden. Och, Dir kënnt net all meta Tags oder Code benotzen, oder aneren
+        Apparater all Linken op Flutylove, de Service oder de Site fir all Persoun
+        zu anere Site fir all Zweck ze Viruleedung mat. i. Et ass verbueden ze änneren,
+        upassen, sublicense, iwwersetzen, verkafen, ëmstrukturéieren, zerwéiert, decompile
+        oder all Deel vun de Service oder de Site disassemble, oder keng Software
+        op der Websäit oder fir se benotzt, grad esou wéi aner encouragéiert ähnlech
+        Aktiounen ze huelen . j. Et ass verbueden all Informatioune mat Amant an /
+        oder erotesche Inhalt ze Post.
+      the_changes_in_the_service: 9. Changementer AN DER SERVICE.
+      p_9: Flutylove behält sech d'Recht zu all Zäit vum Service temporär oder permanent
+        ze änneren oder ze desaktivéieren (oder all d'Deel) ouni Préavis. Dir sidd
+        averstan datt Flutylove Iech net responsabel ass oder all drëtte Parteien
+        fir all Ännerungen, temporär Disponibilitéit oder komplett Desaktivéiere vun
+        de Service.
+      ip_address_blocking: 10. IP ADRESS GESPAART.
+      p_10: Fir d'Integritéit vun der Websäit, Flutylove behält sech d'Recht zu all
+        Zäit op seng eege Kamoudheet ze blockéieren IP Adressen vu bestëmmte Benotzer
+        ze schützen.
+      relations_between_users_online: 11. TËSCHT BENOTZER Relatiounen ONLINE
+      p_11: Dir sidd eleng verantwortlech fir Ären Interaktioune mat anere Benotzer
+        vun Flutylove. Flutylove behält sech d'Recht, mä net d'Obligatioun, Dir an
+        anere Benotzer ze kontrolléieren Sträitfall tëschent.
+      security_and_communication: 12. SECURITY a Kommunikatioun.
+      p_12: Ausschöpfung vun den Site an / oder den Service ass och vun eise Dateschutz
+        Policy regéiert. Wann Dir e Benotzerkont ginn, averstanen Iech an Zoustëmmung
+        zu Maile vun eis kritt. Dës Mailen kann vertrieden d'Notifikatiounen iwwer
+        Operatiounen oder aner Notifikatiounen mat dem Service assoziéiert, wéi administrativ
+        Uschléi an offiziell Avisen iwwer Changementer, oder Emailen wouvun kommerziell
+        Offeren, Promotiouns Material, speziell Offeren vun eis, oder Informatiounen
+        iwwert d'Aktiounen vun anere Benotzer iwwer Är Benotzerkont. Sot eis Dateschutz
+        Policy liesen Agenda esou Notifikatiounen wëssen.
+      denial_of_responsibility: 13. Negatioun vun der Responsabilitéit.
+      p_13: engem. Flutylove ass net responsabel fir all Guichet oder net exakt Informatiounen
+        iwwert de Site online gesat oder ass mat de Service, d'Benotzer vun der Websäit
+        oder all Hardware oder Software mat eisem Service verbonne verbonnen oder
+        do gebraucht gëtt. Flutylove ass net responsabel fir d'Behuelen, souwuel online
+        an offline, vun all Benotzer vum Site. Flutylove heescht huelen net op Responsabilitéit
+        fir Feele, Noléissegkeeten, Ënnerbriechungen, Läschen, Schued oder Verspéidung
+        vun Operatioun oder Operatiounen, Communicatioun Linn Echec, Vol oder Zerstéierung,
+        Zougrëff oder Änneren vun Kommunikatioun Linnen vun de User. Flutylove ass
+        net responsabel fir all Problemer oder technesch Feelfunktioun vun all Telefon
+        Netzwierker oder Linnen, Computer online Systemer, Serveren oder Fournisseur,
+        Computer Equipement, Software, mail oder Spiller Echec vun der Benotzerkont,
+        technesch Problemer oder Stau op den Internet oder op all Site oder hir geschéckt,
+        dorënner Accidenter oder Verletzungen ze Benotzer oder all drëtt zu engem
+        Computer ze dinn Parteien, oder als Resultat vun Participatioun oder méi Download
+        Informatiounen zu de Reseau ze dinn an / oder den Service. Ënner kengen Ëmstänn
+        d'Flutylove Company oder keng vun hiren Fro, Reklammen Agenten, Grënner oder
+        Verdeelung Partner wärt net responsabel fir all Verloscht oder Schued, dorënner
+        Persouneschued oder Doud, well vun der Hëllef vun der Websäit oder dem Service,
+        verëffentlecht all Text op der Websäit , oder all Interaktiounen tëschent
+        de Benotzer vum Site, souwuel online an offline. De Site an de Service op
+        enger AS gëtt ass ASS Basis, an Flutylove disclaims ausdrécklech keng Garantie
+        oder Fitness fir e bestëmmten Zweck, oder Feele vun Violatioun vu jidderengem
+        d'Rechter. Flutylove kann net garantéieren an et Verspriechen net vun all
+        spezifesch Resultater vun der Hëllef vun der Websäit an / oder den Service.
+      links: 14. LINK.
+      p_14: engem. Flutylove ass net responsabel fir all Guichet oder net exakt Informatiounen
+        iwwert de Site online gesat oder ass mat de Service, d'Benotzer vun der Websäit
+        oder all Hardware oder Software mat eisem Service verbonne verbonnen oder
+        do gebraucht gëtt. Flutylove ass net responsabel fir d'Behuelen, souwuel online
+        an offline, vun all Benotzer vum Site. Flutylove heescht huelen net op Responsabilitéit
+        fir Feele, Noléissegkeeten, Ënnerbriechungen, Läschen, Schued oder Verspéidung
+        vun Operatioun oder Operatiounen, Communicatioun Linn Echec, Vol oder Zerstéierung,
+        Zougrëff oder Änneren vun Kommunikatioun Linnen vun de User. Flutylove ass
+        net responsabel fir all Problemer oder technesch Feelfunktioun vun all Telefon
+        Netzwierker oder Linnen, Computer online Systemer, Serveren oder Fournisseur,
+        Computer Equipement, Software, mail oder Spiller Echec vun der Benotzerkont,
+        technesch Problemer oder Stau op den Internet oder op all Site oder hir geschéckt,
+        dorënner Accidenter oder Verletzungen ze Benotzer oder all drëtt zu engem
+        Computer ze dinn Parteien, oder als Resultat vun Participatioun oder méi Download
+        Informatiounen zu de Reseau ze dinn an / oder den Service. Ënner kengen Ëmstänn
+        d'Flutylove Company oder keng vun hiren Fro, Reklammen Agenten, Grënner oder
+        Verdeelung Partner wärt net responsabel fir all Verloscht oder Schued, dorënner
+        Persouneschued oder Doud, well vun der Hëllef vun der Websäit oder dem Service,
+        verëffentlecht all Text op der Websäit , oder all Interaktiounen tëschent
+        de Benotzer vum Site, souwuel online an offline. De Site an de Service op
+        enger AS gëtt ass ASS Basis, an Flutylove disclaims ausdrécklech keng Garantie
+        oder Fitness fir e bestëmmten Zweck, oder Feele vun Violatioun vu jidderengem
+        d'Rechter. Flutylove kann net garantéieren an et Verspriechen net vun all
+        spezifesch Resultater vun der Hëllef vun der Websäit an / oder den Service.
+      limitation_of_responsibility: 15. begrenzten Dauer vun der Responsabilitéit.
+      p_15: Site a senge Funktiounen ABEGRAFF ALL Scripten, APPLICATIOUNE, inhaltlech
+        DESIGN vum Site SI OP AN AS gëtt ASS Basis. D 'ENTREPRISE DISCLAIMS KEE datt
+        d' Websäit oder senge Funktiounen MAY GËEEGENT ODER zweifelhaftem FIR BESTËMMTEN
+        Zweck vun ASAZ BE. D 'ENTREPRISE KA garantéieren AN KEEN MARKEVERSPRIECHEN
+        KEE SPEZIFESCHE RESULTATER VUN DER Websäit AN / ODER senge Funktiounen; A
+        Duercherneen ze verhënneren, SOLLEN de Benotzer Secherheetsmesuren, wann AUS
+        DER Websäit oder duerch d'Kautioun LINK DOWNLOAD, AN AN VUN Dateie, souwéi
+        Software. D 'ENTREPRISE geduercht tout lizenzéierte Frësch souwéi Anti recommandéiert;
+        VUN DER Websäit kucken, averstanen Benotzer DASS Downloads AUS Websäit oder
+        mat senger HELP KEE Inhalter seng / hir eege Verantwortung an eleng verantwortlech
+        fir d'MÉIGLECH RESULTATER VUN DËS vun dësen Informatiounen, inklusiv Schuedenersaz
+        DASS IT MAY BIS'S COMPUTER UTILISATION bewierkt ODER AN DÉI ÉISCHT PARTEIEN,
+        Datenverloscht, oder soss schued; Ënner kengen Ëmstänn Betrieb oder seng Agenten
+        Bier KENG Verantwortung fir de Benotzer ODER OP keng Drëttpersoun FIR ENG
+        indirekt, zoufälleger oder UNWILFUL Schuedenersaz, ABEGRAFF Verloscht vun
+        Virdeel, ODER verluer DATA, Schued Éier, Dignitéit ODER BUSINESS Ruff, OUT
+        OF THE iergendengem ASAZ vum Site, sengem Inhalt oder aner Informatioun déi
+        Dir ODER eNG ANER PERSOUN KRUT ZOUGANG duerch den Internetsite, OCH WANN DER
+        ENTREPRISE ermëttelt ODER Kuuscht Méiglechkeet vu sou schued.
+      responsibilities_of_the_parties: 16. Responsabilitéite vum PARTEIEN.
+      other_provisions_and_changes: 17. aner eenzel Bestëmmunge AN Ännerungen.
+      read_this: ech MUSS Conventioun VIRLIESEN AN UN ALLEGUER seng GÉNÉRALES averstanen.
+    about:
+      about_flutylove: Iwwer Flutylove
+      about_flutylove_text: Flutylove ass d'international sozial Ënnerhalung Reseau
+        fir datings. Hei kënnt Dir Är Frënn, e gefiller Partner fannen oder just Är
+        Zäit verbréngt mat profitéieren vum Spiller spillen oder Filmer / Fotoen kucken.
+      flutylove_features: 'Wann dir op eisem Site opzemaachen gëtt, kënnt Dir vill
+        Funktiounen wéi rausfannen:'
+      video_call_feature: Dir mat Partner mat Webcam chat kann
+      multilanguages: Dir kënnt Partner aus anere Länner sichen, well eise Service
+        vun Panoplie vu Leit aus anere Länner ze benotzen erwaart well se méi wéi
+        70 Sproochen iwwersat ginn ass
+      play_games_chatting_etc: Dir mat anere Leit chat kann, Mätscher spillen an aner
+        sozial stuffs maachen
+      we_are_in_social_networks: 'Mir sinn am sozialen Netzwierker:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Mir benotzen héich Technologien an Open
+        Source Bibliothéiken. Mir probéieren ëmmer besser ze kréien an eisem Service
+        ze verbesseren.
+      partners_and_investors: Mir si fir Partnerschaft opgemaach a mir gären Investisseuren
+        ze fannen. Wann Dir mat eis ze kooperéieren wéilt mellt eis um partnership@flutylove.com
+    faq:
+      faq: FAQ
+      what_is_flutylove: Wat ass Flutylove?
+      about_flutylove: Flutylove ass d'international sozial Ënnerhalung Reseau fir
+        datings. Hei kënnt Dir Är Frënn, e gefiller Partner fannen oder just Är Zäit
+        verbréngt mat profitéieren vum Spiller spillen oder Filmer / Fotoen kucken.
+      what_features_has_flutylove: Wat Fonctiounen huet Flutylove?
+      flutylove_features: Hei kënnt Dir mat videocams chat, benotzen verlängert Sich,
+        Sich Partner aus anere Länner, spillen an do aner sozial stuffs.
+      i_have_some_requests: Ech hunn e puer Demanden
+      you_can_write_request: Du kanns se opzemaachen a schreiwen
+      here: hei
+      i_have_seen_some_typo_or_wrong_translation: Ech hunn e puer Tippfeeler oder
+        falsch Iwwersetzung gesinn
+      you_can_send_pull_request_to_our: Dir e Pull ufroen schécken kann un eise
+      github_repository: github Commons
+      i_have_seen_some_error: Ech hun e puer Feeler gesinn
+      you_can_send: kënnt Dir eis Feedback vun
+      feedback: dëser Form
+      to_us_or_write_to_our_info_mail: oder schreiwen Mail un support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Wëllkomm Flutylove
+      you_have_successfully_signed_up_to_flutylove: Dir hutt erfollegräich bis Flutylove
+        ënnerschriwwen
+      you_can_sign_in_with_your_social_networks: Wann Dir nach eng Kéier un Iech gären
+        Dir mat Äre sozialen Netzwierk Kont umellt kann
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Wann
+        Dir mat Email a Passwuert umellen wéilt Dir Passwuert vun Zeechen aus a klickt
+        ännere kann drënner ze Link
+      change_password: Passwuert änneren
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: Guichet
+            search_for:
+              search_for_error: Guichet
+            birth_date:
+              birth_date_error: brauchen méi wéi 18 gin a manner dann 115
+            interests:
+              interests_error: brauch manner wéi 2000 Zeechen ze ginn
+            jobs:
+              jobs_error: brauch manner wéi 2000 Zeechen ze ginn
+            languages:
+              languages_error: brauch manner wéi 2000 Zeechen ze ginn
+            sex_keywords:
+              sex_keywords_error: brauch manner wéi 2000 Zeechen ze ginn
+            my_turn_ons:
+              my_turn_ons_error_error: Guichet
+            contacts:
+              contacts_length_error: brauch manner wéi 2000 Zeechen ze ginn
+              contacts_size_error: muss manner wéi 21 Kontakter ze ginn
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: huet Falsche Wert
+  devise:
+    confirmations:
+      confirmed: Äre Kont gouf erfollegräich confirméiert.
+      send_instructions: Dir wäert eng Email mat Instruktioune ronn kréien, wéi Äre
+        Kont an e puer Minutten ze confirméieren.
+      new:
+        submit: Schéckt
+    failure:
+      inactive: Däi Benotzerkont ass nach net ageschalt.
+      invalid: Invalid Email oder Passwuert.
+      locked: Däi Benotzerkont ass gespaart.
+      last_attempt: Dir eng méi ofgefaangen hunn ier Äre Kont gespaart ginn.
+      not_found_in_database: Invalid Email oder Passwuert.
+      timeout: Är Sessioun ofgelaf. Weg ënnerschreiwen an erëm weiderfueren.
+      unauthenticated: Dir braucht an oder Zeechen bis Zeechen ier weider.
+      unconfirmed: Dir hutt Äre Kont ze confirméieren, ier weider.
+    mailer:
+      confirmation_instructions:
+        subject: Confirmatioun kritt
+        welcome_to_flutylove: Wëllkomm Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Dir Är Email duerch
+          de Link confirméieren kann ënnert
+      reset_password_instructions:
+        hello: Moien
+        subject: Passwuert zrécksetzen Uweisungen
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Eng
+          Persoun huet faasse Link Äert Passwuert ze änneren. Du kanns dat ënnendrënner
+          duerch de Link maachen.
+        change_my_password: mäi Passwuert änneren
+        if_you_didnt_request_this_please_ignore_this_email: Wann dir dat weg dës Email
+          net Demande gemaach ignoréieren.
+      unlock_instructions:
+        subject: Spär Instruktioune
+    omniauth_callbacks:
+      failure: Kënnt authentifizéieren Iech net aus% {Aart} well "% {Grond}".
+      success: Réussite vun% {Aart} Kont versoen.
+    passwords:
+      no_token: Dir kënnt net dat Säit Zougang ouni aus engem Passwuert Compteur Mail
+        nächste. Wann Dir aus engem Passwuert Compteur Email maachen kommen, wann
+        ech glift sécherstellen Dir d'voll URL gëtt benotzt.
+      send_instructions: Dir wäert eng Email mat Instruktioune kréien wéi ärt Passwuert
+        an e puer Minutten ze Compteur.
+      updated: Äert Passwuert huet geännert. Dir sidd elo ënnerschriwen.
+      updated_not_active: Äert Passwuert huet geännert.
+      edit:
+        new_password: Neit Passwuert
+        confirm_password: Confirmatioun vum Passwuert
+        change_password: Uertschaft
+    registrations:
+      destroyed: Bye! Äre Kont gouf erfollegräich annuléiert. Mir hoffen Iech erem
+        séier ze gesinn.
+      signed_up: Wëllkomm! Dir hutt erfollegräich ofgeschloss.
+      signed_up_but_inactive: Dir hutt erfollegräich ofgeschloss. Allerdéngs hätt,
+        mir Zeechen Dir net an well Äre Kont ass nach net ageschalt.
+      signed_up_but_locked: Dir hutt erfollegräich ofgeschloss. Allerdéngs hätt, mir
+        Zeechen Dir net an well Äre Kont gespaart gëtt.
+      signed_up_but_unconfirmed: Eng Message mat engem Certificat Link huet fir Är
+        Email Adress geschéckt ginn. Sot Open de Link Äre Kont ze aktivéieren.
+      update_needs_confirmation: Dir Äre Kont erfollegräich aktualiséiert, mee mir
+        brauchen Är nei Email Adress z'iwwerpréiwen. Iwwerpréift weg är Email a klickt
+        op de confirméieren Link confirméiert Är nei Email Adress ze finaliséieren.
+      updated: Dir Äre Kont erfollegräich aktualiséiert.
+      new:
+        sign_up: Aschreiwen
+        name: Numm
+        password: Passwuert
+        password_confirmation: Passwuert Confirmatioun
+        register: Aschreiwen
+    shared:
+      links:
+        sign_in: Umellen
+        sign_up: Aschreiwen
+        didnt_receive_confirmation_instructions: Huet net Confirmatioun kritt recieved?
+        sign_in_with: Umellen mat
+        fast_login_almost_one_click: Fast Login (Bal ee klickt)
+    sessions:
+      signed_in: erfollegräich matgedeelt an.
+      signed_out: erfollegräich matgedeelt eraus.
+      new:
+        sign_in: Umellen
+        password: Passwuert
+        remember_me: Vergiess mech
+        forgot_your_password: Passwuert vergiess?
+    unlocks:
+      send_instructions: Dir wäert eng Email mat Instruktioune ronn kréien, wéi Äre
+        Kont an e puer Minutten ze Spär.
+      send_paranoid_instructions: Wann Äre Kont existéiert, kritt Dir eng E-Mail mat
+        Instruktioune ronn kréien, wéi et an e puer Minutten ze Spär.
+      unlocked: Äre Kont gouf erfollegräich opgehuewen. Weg ënnerschreiwen a weidergespillt.
+  en: Marshall Ass.
+  timezones:
+    American Samoa: American Samoa
+    International Date Line West: International Datum Linn West
+    Midway Island: Halschent Island
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Pazifik Time (USA & Kanada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain Time (USA & Kanada)
+    Central America: Mëttelamerika
+    Central Time (US & Canada): Central Time (USA & Kanada)
+    Guadalajara: Marihuana
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: riicht
+    Bogota: Bogota
+    Eastern Time (US & Canada): Osteuropa Time (USA & Kanada)
+    Indiana (East): Indiana (Osten)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlantik Time (Kanada)
+    Caracas: erëmgewielt
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: brasilianesch Haaptstad Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Grönland
+    Montevideo: Montevideo
+    Mid-Atlantic: Mëtt-Atlantik
+    Azores: Azoren
+    Cape Verde Is: Kap Verde.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lissabon
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrad
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Bréissel
+    Budapest: Budapest
+    Copenhagen: Kopenhagen
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paräis
+    Prague: Prag
+    Rome: Roum
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Vienna
+    Warsaw: Warschau
+    West Central Africa: West Central Afrika
+    Zagreb: Zagreb
+    Athens: Athen
+    Bucharest: Bukarest
+    Cairo: Kairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kaliningrad
+    Kyiv: Vestiaire
+    Pretoria: Sessioun
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Bagdad
+    Kuwait: Kuwait
+    Minsk: Minsk
+    Moscow: Moskau
+    Nairobi: RTL
+    Riyadh: Riyadh
+    St Petersburg: St. Petersburg
+    Volgograd: Belgrad
+    Tehran: Tehran
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Jerevan
+    Kabul: Kabul
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Indien
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Katmandu
+    Almaty: Almaty
+    Astana: gedoen
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Peking
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapur
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Rekorder
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Jakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Wladivostok
+    Magadan: Magadan
+    New Caledonia: Kuriéises
+    Solomon Is: Solomon Ass.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fiji
+    Kamchatka: Kamchatka
+    Wellington: Wellington
+    Chatham Is: Chatham Ass.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau Ass.
+  lb: lb
+  lb_iso: lb

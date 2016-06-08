@@ -1,0 +1,1655 @@
+---
+ca:
+  1_we_have_just_launched_our_service_title: Acabem de llançar el nostre servei!
+  common_keywords: datacions, datats en línia, datacions amor, càmera web de cites,
+    cites ràpides, càmera web de xat de cites, Ruby on Rails lloc de cites, lloc de
+    cites en diversos idiomes
+  common_description: La més avançada xarxa d'entreteniment social internacional per
+    datacions "Flutylove"
+  user: usuari
+  user_to_search_connection: Cercar
+  video: vídeo
+  photo_album: Àlbum de fotos
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Home
+  - female:
+      name: Dona
+  - transgender:
+      name: Transgènere
+  - male-female:
+      name: mascle-femella
+  - double-female:
+      name: femenina Doble
+  - double-male:
+      name: doble masculí
+  orientation:
+  - heterosexual: heterosexual
+  - homosexual: Homosexual
+  - bisexual: Bisexual
+  search_for:
+  - chatting: Xerrant
+  - get_friends: Recorreu als amics
+  - flirtation: Flirtation
+  - marriage: matrimoni
+  body_type:
+    slim: Delgado
+    normal: normal
+    athletic: Atlètica
+    chubby: rabassuda
+  relationship:
+    single: individual
+    in_a_relationship: En una relació
+    married: Casat
+    nothing_serious: Res greu
+  children:
+    dont_have: No tenen
+    dont_have_and_dont_want_to: no tenen i no volen
+    don_t_have_but_planning: No tinc però la planificació
+    have_enough: Tens
+    have_and_planning_more: Have i planificació més
+    unable_to_have_children: no poden tenir fills
+  living:
+    with_parents: Amb els pares
+    with_marriage_partner: Amb cònjuge
+    alone: només
+    with_friends: amic (s)
+  education:
+    college_technical_college: universitat / col·legi tècnic
+    postgraduate: Postgrau
+    phd_md_post_doctorate: PhD / MD / Doctorat de
+  hair_color:
+    blonde: Rubio
+    dark_blond: ros fosc
+    brown: Marró
+    black: Negre
+    red: Vermell
+    gray: Gray
+  income:
+    unemployed: Aturat
+    unstable_earnings: ingressos inestables
+    small_stable_earnings: petits guanys estables
+    medium_stable_earnings: ingressos estables Mitjà
+    higher_than_average_income: alt que l'ingrés mitjà
+    high_income: ingrés alt
+  smoking:
+    not_smoke: No fumar
+    not_smoke_and_detest: No fumar i detesto fumar
+    smoke_in_a_social_setting: A vegades, en un entorn social
+    smoke_occasionally: quan fum
+    smoke_often: Fum sovint
+  alcohol:
+    not_drinking: No beure
+    drink_occalionally: beure de tant
+    drink_in_a_social_setting: beguda en un entorn social
+    drink_often: beure sovint
+  drugs:
+    dont_use: No utilitzeu
+    contra_drugs: fàrmacs Contraindicacions
+    tried_out_some: van assajar alguns
+    light_drugs_occasionally: drogues de tant en tant
+    regular: regular
+  sponsor:
+    i_want_to_find_a_sponsor: Vull trobar un patrocinador
+    willing_to_become_a_sponsor: Estic preparat per ser un patrocinador
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: No necessito espònsor,
+      ni voldria ser-ho
+  category_name:
+    rpg: RPG
+    3d_shooters: tiradors 3D
+    racing: Racing
+    arcade: Arcade
+    economic: Econòmic
+    simulators: Simuladors
+    logic: Lògica
+    adventure: Aventura
+    gambling: jocs d'atzar
+    news: Notícies
+    multimedia: Multimèdia
+    educational: Educatiu
+    e_commerce: E-Commerce
+  shared:
+    header:
+      chat: xat
+      forum: Fòrum
+      requests: Sol·licituds
+      about: Sobre el projecte
+      help: Ajuda
+      user_applications: Aplicacions
+    liked_users:
+      liked: Em va agradar
+      all: Tot
+      you_have_not_liked_any_users_yet: No ha agradat a qualsevol usuari encara
+    most_liked_users:
+      most_liked_users: populars
+    installed_user_applications:
+      installed_applications: Les aplicacions instal·lades
+      all: Tot
+      you_have_not_installed_any_apps_yet: no ha instal·lat cap aplicació encara
+    user_applications:
+      uploaded_apps: aplicacions carregades
+      all: Tot
+      you_have_not_uploaded_any_apps_yet: No ha pujat encara aplicacions
+    right_sidebar:
+      news: Notícies
+      all: Tot
+    footer:
+      footer_text: xarxa social d'entreteniment Internacional per datacions "Flutylove"
+      privacy: Privacitat
+      feedback: Comentaris
+      abuse: Abús
+    site_map_modal:
+      faq: "| La"
+      static_pages: pàgines estàtiques
+      common_pages: comuns
+      privacy: Privacitat
+      user_applications: Aplicacions
+      user_requests: Sol·licituds
+      news: Notícies
+      feedback: Comentaris
+      abuse: Abús
+      chats: Xats
+      photo_albums: Els àlbums de fotos
+    pagination_link:
+      next_page: Pàgina següent
+    user_edit_menu:
+      content: contingut
+      profile: Perfil
+      privacy: Privacitat
+      services: Serveis
+    activities_navigation:
+      all: Tot
+      photo_albums: Els àlbums de fotos
+    notifications_navigation:
+      all: Tot
+      likes: Li agraden
+      friend_requests: Sol·licituds d'amistat
+      profile_views: vistes del perfil
+      photo_album_views: Fotos vistes
+    user_to_friend_connections_navigation:
+      friends: Amics
+      friends_online: Amics connectats
+      income_requests: sol·licituds d'ingrés
+    user_applications_navigation:
+      all: Tot
+      new: Nova
+      popular: populars
+      often_installed: sovint s'instal·la
+    user_requests_navigation:
+      all: Tot
+      popular: populars
+      my_requests: Els meus sol·licituds
+    user_navbar_menu:
+      sign_in: Entrada
+      sign_up: Registra't
+    email_signature:
+      info: Informació
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd
+    translations:
+      select_gender: Selecció de gènere
+      select_search_for: seleccioneu Cerca
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Cal registrar-se abans d'aquesta acció
+    sign_up_methods:
+      usual_register_link: registre habitual
+      register_text: A més% {} usual_registration pot registrar a través dels serveis
+        més populars i xarxes socials
+    bootstrap_gallery:
+      previous: Anterior
+    user_notification_title:
+      you_liked: Et va agradar per
+      wrote_message_to_you: Escrit missatge a vostè
+      viewed_your_profile: han vist aquest perfil
+      liked_your_photo: Em va agradar la teva foto
+      liked_your_note: Em va agradar la nota
+      liked_your_request: Em va agradar la seva sol·licitud
+      liked_your_video: Em va agradar el vídeo
+      liked_your_application: Em va agradar la seva aplicació
+      requested_a_friendship: sol·licitat una amistat
+  authentications:
+    authentication:
+      turn_on: Enceneu
+      turn_off: Desactiveu
+      turned_on: encesos
+      turned_off: S'apaga
+    index:
+      enabled_services: serveis habilitats
+  users:
+    profile:
+      submit: Desar
+      name: Nom
+      gender: Gènere
+      type_in_your_location: a la teva ciutat
+      about_me: Algunes paraules sobre si mateix (a més de formar a continuació)
+      sex_keywords: interessos en el sexe
+      enter_your_name: Si us plau introduïu
+      more_options: Més
+      orientation: Orientació
+      location: Localització
+      search_for: Cercar
+      intimacy: La intimitat
+      in_age: En l'edat
+      interests: interessos
+      living: Vida
+      education: Educació
+      jobs: Treball
+      languages: Idiomes
+      smoking: fumar
+      alcohol: alcohol
+      drugs: Drogues
+      contacts: Contactes
+      contact_value: Contacte
+      save: Desar
+    settings:
+      submit: Desar
+      locale: idioma de la interfície
+      change_password: Canviar contrasenya
+      interface_language: idioma de la interfície
+    index:
+      clear_search: cerca Esborrar
+    dashboard:
+      hello: Hola
+      here_some_of_your_statistics: Aquí algunes de les seves estadístiques
+      chats: Xats
+      photo_albums: Els àlbums de fotos
+    avatar:
+      photo: fotos
+      drag_and_drop_your_file: arrossegar i deixar anar l'arxiu
+      here: aquí
+      from_other_sites: D'altres llocs
+      write_down_link_for_your_image: Anoti enllaç de la imatge
+      url_for_image: adreça URL de la imatge
+      upload: Pujar
+      from_facebook: D'Facebook
+      turn_on_facebook: Enceneu Facebook
+      you_can_upload_your_photos_from_facebook: Vostè pot carregar les seves fotos
+        de Facebook
+      from_vkontakte: De Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Vostè pot carregar les seves fotos
+        de Vkontakte
+      turn_on_vkontakte: Enceneu Vkontakte
+      from_instagram: De Instagram
+      you_can_upload_your_photos_from_instagram: Pots pujar les teves fotos d'Instagram
+      turn_on_instagram: Enceneu Instagram
+      from_dropbox: Des Dropbox
+      you_can_upload_your_photos_from_dropbox: Vostè pot carregar les seves fotos
+        de Dropbox
+      turn_on_dropbox: Enceneu Dropbox
+      edit_photo: Edita foto
+      delete_photo: Eliminar foto
+      are_you_sure: Estàs segur?
+    available_photos_modal:
+      available_photos: Fotos disponibles
+    update:
+      your_password_was_successfully_changed: La contrasenya s'ha canviat correctament
+      your_profile_was_successfully_updated: seu perfil s'ha actualitzat correctament
+    edit_photo:
+      edit_photo: Edita foto
+      crop: cultius
+      close: Tancar
+      save_changes: Desa els canvis
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: URL / nick / id / etc
+    user:
+      orientation: Orientació
+      desirable_age: edat Desitjable
+      interests: interessos
+      sm: sm
+      living: Vida
+      education: Educació
+      jobs: Ocupació
+      languages: Idiomes
+      smoking: fumar
+      alcohol: alcohol
+      drugs: Drogues
+      contacts: Contactes
+    user_info:
+      offline: Desconnectat
+      online: Online
+      age: Edat
+    loading_modal_images:
+      loading_images: Carregant imatges
+    password_form:
+      new_password: La nova
+      confirm_new_password: Confirmar nova contrasenya
+      old_password: Contrasenya antiga
+      change_password: Canviar contrasenya
+    show:
+      all: Tot
+      view: Veure
+    dropbox_token_form:
+      key: clau
+      submit: Enviar
+    contents:
+      users_which_i_like: Els usuaris que m'agrada
+      all: Tot
+      my_videos_likes: meus vídeos gustos
+      my_photos_likes: Fotos gustos
+      my_notes_likes: meus notes gustos
+      my_user_applications_likes: Els meus aplicacions gustos
+      my_user_requests_likes: meves peticions gustos
+    more_profile_info:
+      photo_albums: Els àlbums de fotos
+      view_all_photo_albums: Veure tots els àlbums de fotos
+      create_more: cregui més
+      view_all_videos: Tots els Vídeos
+      view_all_notes: Veure totes les notes
+      requirements_lists_to_partner: enumera els requisits per a associar-se
+      view_all_requirements_lists: Veure llistes de tots els requisits
+      profile_verification: verificació Perfil
+      your_profile_is_successfully_verified: El seu perfil es verifica amb èxit
+      create: crea
+      you_have_not_any_requirements_lists_yet: no ho ha fet encara cap requisit llistes
+      you_have_not_any_notes_yet: no ho ha fet encara cap nota
+      you_have_not_any_photo_albums_yet: no ho ha fet cap àlbums de fotos encara
+      you_have_not_any_videos_yet: no ho ha fet encara cap vídeo
+      your_profile_is_not_verified_yet: seu perfil no es verifica encara
+      verify_through_twitter: Verificar a través de Twitter
+      verify_through_facebook: Verificar a través de Facebook
+      verify_through_mail_ru: Verificar a través Mail.ru
+    privacy:
+      privacy: Privacitat
+  searches:
+    form:
+      location: Localització
+      age: Edat
+      gender: Gènere
+    form_content:
+      city: City
+      gender: Gènere
+      age_from: Edat de
+      online: Online
+      verified: Verified
+      has_avatar: té avatar
+      region: Regió
+      more: Més
+      country: País
+      interests: interessos
+      languages: Idiomes
+      education: Educació
+      orientation: Orientació
+      search_for: Cercar
+      living: Vida
+      smoking: fumar
+      alcohol: alcohol
+      drugs: Drogues
+    show:
+      clear_search: cerca Esborrar
+  welcome:
+    index:
+      requests: Sol·licituds
+      user_applications: Aplicacions
+      registration: Registre
+      sign_in: Entrada
+      welcome_main_title: Benvingut a Flutylove!
+      welcome_main_text: Aquest és el lloc on es pot trobar l'amor perfecte
+      find_more: Troba més
+      about_title: Flutylove és la xarxa internacional d'entreteniment social per
+        datacions
+      about_text: Hi ha moltes característiques que es poden utilitzar per entreteniments
+        i datacions!
+      find_more_features: Troba més característiques
+      at_our_service: Característiques del nostre servei
+      many_languages: Moltes llengües
+      text_about_many_languages: El nostre servei és traduït a més de 70 idiomes
+      check_it_out: Comprova
+      videochats: videoxats
+      text_about_videochats: Vostè pot xerrar amb la seva parella amb càmeres de vídeo
+      try_it_now: Prova-ho ara
+      search: Cercar
+      text_about_search: Vostè pot buscar amb múltiples paràmetres i és gratis!
+      watch_this: Visionar
+      more_features: Més característiques
+      text_about_more_features: Podeu veure vídeos, jugar i fer moltes altres coses!
+      register_and_learn_more: Registre i aprendre més
+      install_our_apps: instal·lar les nostres aplicacions de plataformes populars
+      register_header: Registre
+  feedbacks:
+    new:
+      feedback_title: Comentaris
+    form:
+      feedback_name: El seu nom
+      feedback_email: El seu correu electrònic
+      close: Tancar
+      send: Enviar
+      cancel: Cancel
+    success:
+      success_feedback: Gràcies! Hem rebut el vostre comentari.
+      close: Tancar
+      cancel: Cancel
+      more: Enviar més
+  abuses:
+    new:
+      abuse_title: Abús
+    form:
+      abuse_name: El seu nom
+      abuse_email: El seu correu electrònic
+      abuse_title: Abús
+      close: Tancar
+      send: Enviar
+      abuse_link: Enllaç
+      cancel: Cancel
+    success:
+      success_abuse: Gràcies! Hem rebut el seu abús.
+      close: Tancar
+      cancel: Cancel
+      more: Enviar més
+  layouts:
+    welcome:
+      welcome_title: Benvingut a Flutylove! El lloc de cites més avançada.
+  recaptcha:
+    errors:
+      verification_failed: Reconèixer text Error
+      recaptcha_unreachable: Reconèixer text és inabastable
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Acabem de llançar el nostre servei!
+      we_have_just_launched_our_service_text: Avui llançar el nostre servei perquè
+        tothom pugui
+      sign_up: inscriure
+      and_use_it: i utilitzar-lo.
+      wishes_and_requests: Si té alguna petició o peticions, pot inscriure i el va
+        escriure
+      here: aquí
+      with_love: Amb amor,
+      flutylove_team: equip Flutylove
+    index:
+      all_news: Totes les notícies
+  chats:
+    panel_head:
+      online: Online
+      offline: Desconnectat
+    pagination_link:
+      next_page: Pàgina següent
+    form_additions:
+      submit: Enviar
+      videochat: Vídeoxat
+    videochat_request_link:
+      connect_to_videochat: Connectar el xat
+    modal_form:
+      recipient: Beneficiari
+      message: Missatge
+      close: Tancar
+      submit: Enviar
+    waiting_video_answer_button:
+      waiting_for_response: Esperant resposta ...
+    chat_created:
+      message_was_sent: missatge ha estat enviat
+      close: Tancar
+  messages:
+    pagination_link:
+      next_page: Pàgina següent
+  notifications:
+    user_to_friend_connection:
+      action: Acció
+    notification:
+      offline: Desconnectat
+      online: Online
+    like:
+      action: Acció
+    photo_album_view:
+      action: Acció
+    user_view:
+      action: Acció
+  user_applications:
+    user_application:
+      all_uploaded_applications_by: Totes les aplicacions carregades per
+    form:
+      name: Nom
+      user_application_name: Nom de l'aplicació
+      description_text: Descripció de text
+      public: pública?
+      category_name: Categoria
+      create: crea
+    show:
+      return_to_uploaded_applications: Per carregat d'aplicacions
+      return_to_all_applications: Tornar a totes les aplicacions
+    manage:
+      installed_applications: Les aplicacions instal·lades
+      uploaded_applications: aplicacions carregades
+      all: Tot
+    index:
+      applications_uploaded_by: Aplicacions pujades per
+      return_to_all_applications: Tornar a totes les aplicacions
+      create_new: crea nova
+      return_to_manage_applications: Tornar a gestionar les aplicacions
+    installed:
+      installed_applications: Les aplicacions instal·lades
+      return_to_all_applications: Tornar a totes les aplicacions
+      return_to_manage_applications: Tornar a gestionar les aplicacions
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Abans de vista aquesta aplicació
+        s'iniciï la sessió primer
+    need_to_install:
+      need_to_install_first: Necessita instal lar aquesta aplicació primer
+  likes:
+    index:
+      liked_items: Em va agradar
+      return_to_my_content: Torna a la meva contingut
+  videos:
+    index:
+      return_to_edit_profile: Per al perfil d'edició
+      create_new: crea nova
+      return_to_profile: Tornar al perfil
+    video:
+      are_you_sure: Estàs segur?
+    modal_form:
+      create_new_video: crea nou vídeo
+      close: Tancar
+      create: crea
+    form_content:
+      name: Nom
+      video_name: nom del vídeo
+      source: Url del codi d'inserció
+      video_url_or_embed_code: URL del vídeo de codi d'inserció de vídeo
+    show:
+      video: vídeo
+      return_to_all_videos: Tornar a tots els vídeos
+      edit_video: Edició de vídeo
+    edit:
+      edit_video: Edició de vídeo
+      return_to_view_video: Tornar a la vista de vídeo
+      view_video: Veure el vídeo
+  photo_albums:
+    index:
+      photo_albums: Els àlbums de fotos
+      return_to_editing_profile: Per al perfil d'edició
+      create_new: crea nova
+      return_to_profile: Tornar al perfil
+    photo_album:
+      create: crea
+      are_you_sure: Estàs segur?
+    edit:
+      edit_photo_album: Edita àlbum de fotos
+      return_to_photo_albums: Per àlbums de fotos
+      view_photo_album: Veure àlbum de fotos
+    form_content:
+      name: Nom
+      photo_album_name: nom de l'àlbum de fotos
+    form:
+      create: crea
+    photo_album_uploader:
+      drag_and_drop_your_file: arrossegar i deixar anar l'arxiu
+      here: aquí
+      from_other_sites: D'altres llocs
+      write_down_link_for_your_image: Anoti enllaç de la imatge
+      url_for_image: adreça URL de la imatge
+      upload: Pujar
+      from_facebook: D'Facebook
+      turn_on_facebook: Enceneu Facebook
+      you_can_upload_your_photos_from_facebook: Vostè pot carregar les seves fotos
+        de Facebook
+      from_vkontakte: De Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Vostè pot carregar les seves fotos
+        de Vkontakte
+      turn_on_vkontakte: Enceneu Vkontakte
+      from_instagram: De Instagram
+      you_can_upload_your_photos_from_instagram: Pots pujar les teves fotos d'Instagram
+      turn_on_instagram: Enceneu Instagram
+      from_dropbox: Des Dropbox
+      you_can_upload_your_photos_from_dropbox: Vostè pot carregar les seves fotos
+        de Dropbox
+      turn_on_dropbox: Enceneu Dropbox
+    show:
+      return_to_photo_albums: Per àlbums de fotos
+      edit_photo_album: Edita àlbum de fotos
+    modal_form:
+      create_new_photo_album: crea nou àlbum de fotos
+      close: Tancar
+      create: crea
+  user_requests:
+    form:
+      content: contingut
+      create: crea
+  notes:
+    index:
+      return_to_edit_profile: Per al perfil d'edició
+      create_new: crea nova
+      return_to_profile: Tornar al perfil
+    note:
+      are_you_sure: Estàs segur?
+    show:
+      return_to_notes: Tornar a notes
+    form_content:
+      content: contingut
+      create: crea
+    edit:
+      return_to_notes: Tornar a notes
+      view_note: Veure nota
+  user_to_search_connections:
+    index:
+      requirements_lists: llistes Requisits
+      return_to_editing_profile: Per al perfil d'edició
+      create_new: crea nova
+    user_to_search_connection:
+      are_you_sure: Estàs segur?
+    edit:
+      edit_requirements_list: editar les llistes de requisits
+      return_to_requirements_lists: Per llistes de requisits
+    form_content:
+      name: Nom
+      name_of_your_requirements_list: Nom de la llista de requisits
+    show:
+      return_to_requirements_lists: Per llistes de requisits
+  photos:
+    index:
+      return_to_photo_albums: Torna a àlbums de fotos
+      return_to_profile: Al perfil
+  errors:
+    messages:
+      already_confirmed: ja es va confirmar, s'intenta accedir
+      confirmation_period_expired: han de ser confirmats dins% {} temps, demaneu un
+        altre
+      expired: ha caducat, si us plau sol · licitar una nova
+      not_found: no trobat
+      not_locked: no estava tancada
+      not_saved:
+        one: '1 error prohibit aquest% {} de recursos que es guardin:'
+        other: "{count} errors prohibits a aquest% {} de recursos que es guardin:"
+    bad_request:
+      request_result: Sol·licitud
+      bad_request_description: El servidor no poden o no processarà la sol·licitud
+        causa d'un error aparent en el client
+      go_to_root: Anar a l'arrel
+    unprocessable_entity:
+      unprocessable_entity: Entitat no processable
+      request_result: Sol·licitud
+      unprocessable_entity_description: La sol·licitud va ser ben formades, però no
+        va poder ser seguit a causa d'errors semàntics
+      go_to_root: Anar a l'arrel
+    not_found:
+      not_found: no trobat
+      request_result: Sol·licitud
+      not_found_description: El recurs sol·licitat no es pot conèixer, però poden
+        estar disponibles en un futur
+      go_to_root: Anar a l'arrel
+    forbidden:
+      request_result: Sol·licitud
+      forbidden_description: La sol·licitud va ser una petició vàlida, però el servidor
+        es nega a respondre-hi
+      go_to_root: Anar a l'arrel
+    internal_server_error:
+      request_result: Sol·licitud
+      internal_server_error_description: Quelcom ha fallat. Anem a trobar una solució
+        el més aviat possible.
+      go_to_root: Anar a l'arrel
+  pages:
+    privacy:
+      privacy: Flutylove política de privacitat
+      general_provisions: Disposicions generals
+      p_1_1: 1.1. Aquestes regulacions són un document oficial de la Societat de Responsabilitat
+        Limitada "Technoelegance", situat a 101000, Moscou, Ulanskiy Pereulok 13,
+        stroeniye 4, pomeshcheniye 1 (en endavant Flutylove, la Companyia, Nosaltres),
+        i determinar els procediments de processament de dades i seguretat de la informació
+        dels individus que ha arribat a l'edat de 18 anys, i que utilitzen el lloc
+        web https://flutylove.com (en endavant, el lloc web) i els seus serveis (en
+        endavant, els Usuaris).
+      p_1_2: 1.2. El propòsit d'aquest Reglament és garantir la deguda protecció de
+        la informació de l'usuari, incloent dades personals, de l'accés no autoritzat
+        i la divulgació.
+      p_1_3: 1.3. Les relacions associades amb la recollida, l'emmagatzematge, la
+        distribució i la seguretat de la informació dels usuaris del Lloc es regeixen
+        per aquest Reglament, altres documents oficials de la Societat i de la legislació
+        vigent de la Federació Russa.
+      p_1_4: 1.4. La versió actual del Reglament, que són un document públic, està
+        disponible per a qualsevol usuari d'Internet quan se segueix el http://flutylove.com/pages/privacy
+        enllaç. La Companyia té el dret a modificar el present Reglament. En cas que
+        es realitzin els canvis al Reglament, la Companyia notificarà als usuaris
+        mitjançant la publicació de la nova versió del Reglament sobre el lloc web
+        en http://flutylove.com/pages/privacy direcció permanent, com a molt tard
+        10 dies abans de l'efectiva data dels canvis. Les versions anteriors dels
+        Reglaments s'emmagatzemen a l'arxiu de documentació de la Companyia.
+      p_1_5: 1.5. Aquest Reglament s'ha desenvolupat i s'utilitza d'acord amb el contracte
+        d'usuari. En cas de qualsevol contravenció entre aquest Reglament i altres
+        documents oficials de la Companyia, el present Reglament s'han d'aplicar.
+      p_1_6: 1.6. Utilitzant el lloc web, vostè accepta els termes i condicions d'aquesta
+        política de privacitat. Si us plau, llegiu atentament. Si no està d'acord
+        amb els termes d'aquesta política de privacitat, o vostè no ha arribat a l'edat
+        de 18 anys, no podrà utilitzar el lloc web i els seus serveis. Mitjançant
+        l'ús del web, independentment de si vostè és l'usuari registrat de Flutylove
+        o no, vostè confirma que accepta plenament aquesta política de privacitat,
+        i accepta de seguir-lo.
+      the_website_using_conditions: La pàgina web utilitzant condicions
+      p_2_1: '2.1. Per utilitzar el lloc web Flutylove, cal registrar-se. La següent
+        informació ha de ser especificada durant el registre: nom, adreça de correu
+        electrònic, sexe, data de naixement, informació de la ciutat. L''usuari pot
+        proporcionar dades personals addicionals al seu / el seu propi desig. L''usuari
+        pot modificar o actualitzar la seva informació personal en qualsevol moment.
+        La Companyia té dret a sol·licitar documents de suport addicionals en cas
+        de canvi de sexe i data de naixement de l''usuari.'
+      p_2_2: '2.2. En permetre l''accés al Lloc Web i dels seus serveis, la Companyia,
+        actuant de manera raonable i de bona fe, considera que l''usuari: s''adona
+        que per al registre al lloc web cal ser major de 18 anys d''edat; té tots
+        els drets necessaris per a poder inscriure en aquest lloc web i utilitzar-lo;
+        indica informació precisa sobre si mateix / a si mateixa d''acord amb les
+        sol·licituds d''ús dels serveis de la web; és conscient que la informació
+        personal al lloc web, proporcionada per l''usuari, pot estar disponible per
+        a altres usuaris dels usuaris del lloc web i d''Internet, així, poden ser
+        copiats i distribuïts pels altres usuaris; és conscient que alguns tipus d''informació,
+        transferides als altres usuaris, no es poden treure per l''usuari; està familiaritzat
+        amb aquest Reglament, està d''acord amb ells i s''obliga als drets i obligacions
+        especificats.'
+      p_2_3: 2.3. La Companyia no verifica l'exactitud de la rebuda (reunits) informació
+        sobre els usuaris, amb l'excepció dels casos en què és necessària aquesta
+        verificació per tal de complir amb les obligacions de la Companyia per a l'usuari.
+      information_processing_objectives: objectius de Processament d'Informació
+      p_3_1: 3.1. La Companyia porta a terme el processament de la informació sobre
+        els usuaris, incloent les seves dades personals, a fi de complir les obligacions
+        de l'empresa als usuaris per a l'ús del lloc web i els seus serveis.
+      p_3_2: 3.2 La Companyia té dret a portar a terme el processament de dades personals
+        sense notificar a l'autoritat competent per a la protecció dels drets dels
+        titulars de les dades personals.
+      structure_of_the_user_information: Estructura de la informació d'usuari
+      p_4_1: '4.1. Les dades personals dels usuaris inclou:'
+      p_4_1_1: 4.1.1. nom, adreça de correu electrònic, sexe, data de naixement, informació
+        d'ubicació i número de telèfon, que són proporcionades pels usuaris i suposa
+        que és just el suficient per al registre al lloc web;
+      p_4_1_2: 4.1.2. la informació que és proporcionada per l'usuari (per exemple,
+        fotos, informació sobre els hàbits perniciosos etc.);
+      p_4_1_3: 4.1.3. a més, proporcionada per l'Usuari d'acord amb la petició de
+        l'empresa per tal de complir amb les obligacions de l'empresa als usuaris,
+        que apareix d'acord per a l'usuari. La Companyia té dret, en particular, per
+        sol·licitar a l'usuari una còpia del document d'identitat o qualsevol altre
+        document que contingui el nom, sexe i data de naixement, així com una altra
+        informació addicional que, a discreció de la Companyia, serà necessari i suficient
+        per a la identificació d'aquest usuari i eliminaria l'abús i la violació dels
+        drets de tercers.
+      p_4_2: '4.2. processament de la informació d''un altre usuari per la Companyia
+        L''administració del lloc també processa altra informació sobre els usuaris,
+        que inclou:'
+      p_4_2_1: 4.2.1. dades comuns, rep automàticament el servidor http a l'accedir
+        a la web i les posteriors accions de l'usuari (adreça IP del host, tipus de
+        sistema operatiu de l'usuari, les pàgines de la web visitats per l'usuari).
+      p_4_2_2: 4.2.2. la informació que es rep de forma automàtica en accedir a la
+        web utilitzant marcadors (cookies);
+      p_4_2_3: 4.2.3. la informació que es rep com a resultat de les accions de l'usuari
+        en el lloc web;
+      p_4_2_4: 4.2.4. la informació que es rep com a resultat de les accions d'altres
+        usuaris a la web.
+      p_5_1: '5.1. tractament de dades personals està duent a terme sobre la base
+        dels següents principis: a) fins i els mitjans del tractament de dades personals
+        legítims; b) l''honestedat; c) el compliment dels propòsits de tractament
+        de dades personals amb fins predeterminats i va declarar en la recollida de
+        les dades personals, així com el compliment de les credencials de la Companyia;
+        d) el compliment pel volum i el tipus de tractament de dades personals, i
+        la conformitat dels mitjans del tractament de dades personals amb les finalitats
+        del seu processament; e) inadmissibilitat de combinar les bases de dades creades
+        amb fins incompatibles, que conté dades de caràcter personal.'
+      p_5_1_1: 5.1.1. La recollida de dades personals de l'usuari es porta a terme
+        en el lloc web quan el registre, així com en el futur, quan l'usuari afegeix
+        més informació sobre si mateix / a si mateixa fent servir les eines del lloc
+        web en el seu / pròpia iniciativa.
+      p_5_1_2: 5.1.2. Les dades personals dels usuaris s'emmagatzemen exclusivament
+        en format electrònic i es processen mitjançant l'ús de sistemes automatitzats,
+        amb l'excepció dels casos on es requereix el processament manual de les dades
+        personals a la vista de la satisfacció de les exigències legislatives.
+      p_5_1_3: 5.1.3. les dades personals de l'usuari no són transferits a tercers,
+        excepte en els casos expressament previstos per aquest Reglament i de l'Acord
+        d'usuari. Amb el consentiment de l'usuari, dades personals de l'usuari poden
+        ser transmesos a tercers contraparts de la Societat sota la condició d'assumpció
+        de l'obligació de garantir la confidencialitat de la informació rebuda, en
+        particular, en utilitzar els serveis i aplicacions. aprovisionament de les
+        dades personals de l'usuari a petició de les autoritats governamentals (autoritats
+        locals) es porta a terme en el procediment que exigeix ​​la llei.
+      p_5_1_4: '5.1.4. dades personals de l''usuari s''eliminen quan: - les dades
+        són auto-esborrat de la pàgina per part de l''Usuari; - Pàgina és auto-esborrat
+        per l''usuari; - La informació de l''usuari i de la seva pàgina personal són
+        eliminats per la Companyia. En el cas de la pàgina d''esborrat pel propi usuari,
+        la companyia emmagatzema les dades personals de l''usuari en els seus mitjans
+        electrònics dins de 210 dies després de retirar la pàgina personal. Les dades
+        personals s''eliminen al venciment de 210 dies després de retirar la pàgina
+        personal. Fins aquest període expira, l''usuari té dret a recuperar la pàgina
+        personal.'
+      users_rights_and_obligations: drets i obligacions de l'usuari
+      p_6_1: '6.1. L''usuari té dret a:'
+      p_6_1_1: 6.1.1. accedir a la informació sobre ell / a sense restriccions i de
+        forma gratuïta mitjançant l'edició de la seva pàgina personal en el lloc web
+        amb l'ús de l'usuari i contrasenya;
+      p_6_1_2: 6.1.2. prendre de forma independent els canvis i correccions a la informació
+        a la pàgina personal de l'Usuari en el Lloc Web, amb la condició que aquests
+        canvis i correccions contenen fins a informació actualitzada i veritable;
+      p_6_1_3: 6.1.3. eliminar la informació de la pàgina personal en el lloc web;
+      p_6_1_4: 6.1.4. Sol·licitar a l'empresa per obtenir informació més específica,
+        bloquejar o eliminar les dades personals, si aquestes dades són incompletes,
+        obsolets, inexactes, il·legalment rebut o no són necessàries per al propòsit
+        declarat de processament o si les accions especificades en l'apartat 6.1.3
+        d'aquestes reglaments no poden ser implementats de manera independent;
+      p_6_1_5: 6.1.5. sobre la base de sol·licitar, rebre la informació de la Companyia
+        pel que fa al tractament de les seves / les seves dades personals.
+      p_6_2: '6.2. La següent informació sobre qualsevol Usuari del Lloc Web registrat
+        és sempre a disposició de l''usuari registrat: d''usuari nom, sexe, edat,
+        foto de perfil i altra informació de si l''usuari ha publicat ell.'
+      p_6_3: 6.3. La Companyia no assumeix cap responsabilitat per la divulgació de
+        les dades personals de l'Usuari per altres usuaris de la web que han accedit
+        a aquestes dades.
+      p_6_4: 6.4. En el cas de les dades personals (una altra informació de l'usuari)
+        l'eliminació de la pàgina personal de l'usuari o l'eliminació de la pàgina
+        personal de l'usuari del lloc web, la informació de l'usuari copiada per altres
+        usuaris o s'emmagatzema en les pàgines d'altres Usuaris es conserva.
+      p_7_1: 7.1. La Companyia pren mesures tècniques, organitzatives i legals per
+        garantir que les dades personals de l'usuari estan protegits contra l'accés
+        no autoritzat o accidental, esborrat, modificació, bloqueig, còpia i difusió,
+        així com d'altres accions no autoritzades.
+      p_7_2: 7.2. L'inici de sessió de l'usuari (adreça de correu electrònic o número
+        de telèfon mòbil) i la contrasenya s'utilitzen per accedir a la web. L'Usuari
+        és responsable de mantenir aquesta informació confidencial. L'usuari no podrà
+        transferir el nom d'usuari i contrasenya a tercers i també està obligat a
+        prendre mesures per assegurar la seva confidencialitat.
+      limitation_of_the_regulations_applicability: limitació de l'aplicabilitat Reglament
+      p_8: Aquest Reglament no s'estenen a les accions i els recursos d'Internet de
+        tercers. La Companyia no assumeix cap responsabilitat per les accions de tercers
+        que van aconseguir accés a la informació de l'usuari a través d'Internet o
+        dels Serveis del lloc web. L'administració del lloc recomana als usuaris d'enfocar
+        la qüestió amb la quantitat d'informació publicada al lloc web d'una manera
+        responsable.
+      user_requests: Les exigències d'usuaris
+      p_9_1: '9.1. Els usuaris tenen dret a enviar peticions a l''empresa, incloent
+        les sol·licituds relatives a l''ús de les dades personals en forma escrita
+        a la següent adreça: Rússia, 101000, Moscou, Ulanskiy Pereulok 13, stroeniye
+        4, pomeshcheniye 1 oa la forma de documents electrònics signat mitjançant
+        una signatura electrònica reconeguda de conformitat amb la legislació de la
+        Federació de Rússia, pel correu electrònic: support@flutylove.com.'
+      p_9_2: '9.2. La petició de l''usuari ha de contenir la següent informació: el
+        número del document d''identificació de l''usuari o el seu representant; data
+        d''expedició del document anterior i l''autoritat responsable; informació
+        que confirma la participació de l''usuari en les relacions amb l''operador
+        (en particular, l''enllaç a la pàgina); signatura de l''usuari o del seu /
+        la seva representant.'
+      p_9_3: 9.3. La Companyia es compromet a considerar i respondre a la sol·licitud
+        de l'usuari dins dels 30 dies després que va ser rebut.
+      p_9_4: 9.4. Tota la correspondència rebuda per la Societat dels usuaris (per
+        escrit o sol·licituds electròniques) es classifica com informació d'accés
+        restringit i no podrà ser revelada sense el consentiment per escrit de l'usuari.
+        Les dades personals i altra informació sobre l'usuari que va enviar la sol·licitud
+        no es poden usar, sense el permís especial de l'usuari, de manera diferent
+        que per a la resposta a la sol·licitud o en els casos previstos expressament
+        per la llei aplicable.
+    terms:
+      terms: Acord d'usuari Flutylove
+      welcome: Benvingut a Flutylove!
+      about_terms: 'Aquestes condicions d''ús (així com els documents citats en el
+        present document, incloent la Política de Privacitat) són el contracte d''adhesió
+        de conformitat amb l''article 428 del Codi Civil de la Federació de Rússia
+        (en endavant denominat el "Acord") entre el persona que ha complert els 18
+        anys d''edat (en endavant, el "usuari" i la societat (o "Nosaltres") - una
+        societat de responsabilitat limitada "Technoelegance" (LLC "Technoelegance")
+        (domicili legal: 101000, Moscou, Pereulok Ulanskiy 13, stroeniye 4, pomeshcheniye
+        1), d''ara endavant, Flutylove, segons el qual es pot utilitzar aquest lloc
+        web i tots els serveis associats oferts a través del lloc web o aplicació
+        (generalment conegut com "serveis"). el lloc web s''entén qualsevol les seves
+        versions, juntament amb el nom de domini flutylove.com i opera per a una varietat
+        de dispositius, incloent la versió basada en web, aplicacions mòbils i aplicacions
+        per a xarxes socials.Mitjançant l''ús d''aquest lloc web vostè està d''acord
+        amb els termes de l''Acord i la Política de Privadesa. Si us plau, llegiu
+        atentament. Si no està d''acord amb els termes de l''Acord i política de privacitat,
+        o vostè no ha arribat a l''edat de 18 anys, no podrà utilitzar el lloc web
+        i els seus serveis.Mitjançant l''ús de la pàgina web, independentment ets
+        usuari registrat de Flutylove o no, està completament d''acord amb aquest
+        Acord i la nostra política de privacitat, que s''inclou en el present Acord
+        per l''enllaç i està disponible al lloc web, i complir amb ella.A petició
+        de l''usuari, la Societat es compromet a signar aquest Acord en un formulari
+        imprès i enviar-lo a la persona que sol·licita els documents.La Companyia
+        es reserva el dret de modificar l''Acord d''usuari i qualsevol document que
+        se li sotmeti. Per estar al tant dels canvis que necessita per mantenir en
+        marxa al dia la informació sobre aquests canvis en una base regular. L''informarem
+        sobre els canvis que hem fet en aquesta pàgina a continuació. Els canvis no
+        es refereixen enrere i entraran en vigor dins els deu dies següents a la data
+        de publicació. No obstant això, en cas que s''associen amb la implementació
+        de nous serveis o la modificació de la legislació, que s''aplicarà immediatament.
+        Si no està d''acord amb els canvis en l''Acord, haurà de deixar d''utilitzar
+        el lloc web i les aplicacions.'
+      consent_to_accept_the_terms_of_user_agreement: 1. El consentiment a acceptar
+        els termes de l'acord d'usuari.
+      p_1: a. Acord electrònica. Aquest Acord és una versió electrònica del contracte,
+        que descriu els termes d'ús del lloc web i dels Serveis. En iniciar la sessió
+        a la web o convertir-se en un usuari, vostè accepta aquest acord i d'acord
+        amb tots els termes, condicions i avisos que estan continguts o referits allà.
+        Vostè afirma i accepta que els usuaris de Flutylove poden ser part d'una comunitat
+        en línia que inclou altres llocs web pertanyents a la Companyia o les seves
+        filials. Per tant, els perfils en el lloc web es poden veure en altres llocs
+        similars i que paguen els subscriptors d'un lloc web pot comunicar-se amb
+        altres subscriptors de pagament de tots els llocs web. b. Forma electrònica.
+        En iniciar la sessió a la web o convertir-se en un usuari, vostè dóna el seu
+        consentiment per oferir-li el Acord electrònica. c. formulari imprès. Vostè
+        té dret a rebre la còpia impresa d'aquest Acord. Pot sol·licitar edició impresa
+        d'aquest Acord abans o després que se signi en format electrònic. Si us plau,
+        poseu-vos en contacte amb el nostre servei d'atenció al client per a més informació.
+        d. L'accés i la descàrrega. Per tal d'accedir i descarregar aquest Acord electrònica,
+        ha de tenir accés a Internet o directament a través dels dispositius amb l'accés
+        als recursos web. Cal tenir l'equip necessari per connectar-se a Internet,
+        és a dir, l'ordinador, un mòdem o un altre dispositiu d'accés. Si us plau,
+        imprimiu una còpia d'aquest Acord i mantenir-lo. Per descarregar el formulari
+        electrònic de l'Acord, guardar-lo en el seu ordinador amb l'ajuda de qualsevol
+        editor de text.
+      the_right_of_using_the_website: 2. EL DRET D'ÚS DEL LLOC WEB.
+      p_2: Vostè ha de ser almenys divuit (18) anys d'edat per esdevenir un usuari
+        registrat d'aquest lloc web. En cas d'incompliment dels requisits, se li denegarà
+        l'accés a la web. Utilització del lloc web, l'usuari ha de ser conscient que
+        la informació personal publicada al Lloc Web pot estar disponible per a altres
+        usuaris d'Internet, i la Companyia no està suportar la responsabilitat per
+        les seves accions. Mitjançant l'ús d'aquest lloc web vostè afirma i es comprometen
+        a què té dret, l'autoritat i la possibilitat d'entrar en aquest Acord, i el
+        consentiment per a seguir tots els seus termes i condicions. Convertir-se
+        en un usuari a fer valer i es compromet que mai se li ha patit condemna per
+        delicte relacionat amb la violència sexual. El lloc web està dissenyat només
+        per a ús personal. No podeu fer servir el lloc web amb fins comercials. Les
+        persones jurídiques no poden ser els usuaris d'aquest lloc web, així com no
+        poden utilitzar aquest servei o la pàgina web en els seus propòsits. Il ·
+        legal i / o no autoritzat l'ús de la pàgina web, incloent-hi la recopilació
+        de noms d'usuari i / o adreces de correu electrònic de l'ajuda de les eines
+        electròniques o altres per tal d'enviar missatges no desitjats i enllaços
+        es persegueix i la Societat podrà prendre les accions apropiades d'acord amb
+        la llei, incloent una crida a les autoritats policials.
+      pricing_and_registration: 3. PREUS I REGISTRE
+      p_3: Vostè capaç de convertir-se en l'usuari de Flutylove sobre el lliure albir
+        i sense cap cost mitjançant el registre en el lloc web. A mesura que l'usuari,
+        és possible utilitzar rang seleccionat de serveis i oportunitats de la web.
+        L'Usuari del Lloc Web és una persona registrada en el lloc web d'acord a l'ordre
+        establert i que ha complert els 18 anys d'edat. En registrar en el Lloc Web
+        l'Usuari està obligat a proporcionar la informació necessària i rellevant
+        per a la Companyia per completar la pàgina d'usuari, incloent l'inici de sessió
+        (adreça de correu electrònic o número de telèfon) i una contrasenya per a
+        l'accés al lloc web, així com el nom, el qual són únics per a cada usuari.
+        El formulari d'inscripció podrà sol·licitar informació addicional de l'usuari.
+        L'Usuari és responsable de la validesa, actualitat, integritat i el compliment
+        de la Llei de la Federació Russa de la informació proporcionada en el registre,
+        i la seva claredat de les reclamacions de tercers. En registrar l'usuari està
+        d'acord amb el present Acord i es comprometen els drets i obligacions especificats,
+        associats amb l'ús i funcionament del lloc web. L'usuari obté accés total
+        a l'ús de les funcions del lloc web. La Companyia no assumeix obligació de
+        drets i l'usuari, s'especifica en el present Reglament, després que el registre
+        amb èxit de l'Usuari en el Lloc Web es realitza el processament de les dades
+        personals de l'usuari d'acord amb la Llei de la Federació Russa. L'administració
+        del lloc processa les dades personals de l'usuari amb la finalitat de proporcionar
+        a l'usuari un accés a l'ús de les funcions del lloc web, incloent-hi la recepció
+        personalitzada (dirigida) anunci; la verificació, la investigació i l'anàlisi
+        d'aquestes dades, el que permet donar suport i millorar les funcions i seccions
+        del lloc web, així com el desenvolupament de noves funcions i seccions. La
+        Companyia pren totes les mesures necessàries per protegir les dades personals
+        de l'usuari contra l'accés no autoritzat, modificació, revelació o esborrat.
+        La companyia ofereix accés a les dades personals de l'usuari només a aquells
+        empleats, contractistes i agents de la Companyia, que necessiten aquesta informació
+        per tal de donar suport a la funcionalitat lloc web i per proporcionar a l'usuari
+        l'accés al seu ús. La Societat de la web té dret a utilitzar la informació
+        proporcionada per l'usuari, incloses les dades personals, a fi de garantir
+        el compliment dels requisits de la legislació actual de la Federació de Rússia
+        (incloent-hi la prevenció i / o supressió d'il·legal i / o il·legal les accions
+        dels usuaris). La divulgació de la informació proporcionada per l'usuari només
+        podrà efectuar-se de conformitat amb la legislació vigent de la Federació
+        de Rússia, a petició dels tribunals, les forces de l'ordre, així com en altres
+        casos previstos per la llei vigent de la Federació Russa. En la mesura en
+        què la companyia processa les dades personals de l'usuari per a l'execució
+        d'aquest Reglament, no es requereix el consentiment de l'usuari al tractament
+        de les dades personals en virtut de les disposicions de la llei sobre dades
+        personals. El nom d'usuari i la contrasenya triada per l'usuari són la informació
+        necessària i suficient per a l'accés de l'usuari al lloc web. L'usuari té
+        dret a donar el seu / el seu nom d'usuari i contrasenya per als tercers, i
+        és absolutament responsable de la seva seguretat, l'elecció de la forma d'emmagatzemar-los
+        en una base independent. Fent ús del seu / la seva maquinari i el programari
+        de l'usuari pot permetre l'emmagatzematge de l'usuari i contrasenya (a través
+        de galetes) per a l'autorització automàtica posterior al lloc web. es considera
+        qualsevol acció presa amb l'ús de nom d'usuari i la contrasenya de l'usuari
+        per ser comès per l'usuari, llevat que es demostri el contrari per l'usuari.
+        L'usuari està obligat a informar immediatament a la Companyia de conformitat
+        amb el procediment establert en el cas d'accés no autoritzat al nom d'usuari
+        i contrasenya i / oa la pàgina de compte o revelació de l'inici de sessió
+        i contrasenya. Un cop registrat l'usuari adquireix el dret a crear, utilitzar
+        i determinar el contingut de la seva / seves pròpies pàgines personals en
+        els propòsits del seu propi interès i no comercials, així com tenir l'oportunitat
+        d'accedir i publicar la informació en les pàgines personals d'altres usuaris
+        . L'usuari com el propietari de la informació publicada a la pàgina personal
+        és conscient que amb l'excepció dels casos establerts per aquest Reglament
+        i en la legislació vigent de la Federació Russa, l'organització no participa
+        en el desenvolupament i l'ús dels continguts i no controla l'accés a la pàgina
+        de l'usuari d'altres usuaris.
+      terms_4: termes.
+      p_4: Aquest Acord seguirà estant plenament en vigor i efecte mentre utilitzeu
+        el Lloc Web. Pot deixar de ser l'Usuari del lloc web mitjançant l'eliminació
+        de la seva pàgina en qualsevol moment, per qualsevol raó, posant-se en contacte
+        amb el nostre servei d'atenció al client en línia o per l'ús del servei del
+        lloc web. La Companyia es reserva el dret d'eliminar de la seva pàgina personal
+        en qualsevol moment. No estem obligats a notificar-li abans d'eliminar la
+        pàgina, si l'empresa té la raó per creure que vostè ha violat els termes de
+        l'Acord. No estem obligats a revelar el motiu de l'eliminació del seu compte;
+        en alguns casos, la divulgació d'aquesta informació pot estar prohibit. Després
+        de l'eliminació de la seva pàgina, totes les condicions que poden ser vàlides
+        després de l'acabament d'aquest Acord, per la seva naturalesa estarà en vigor
+        després d'aquesta terminació. Un cop eliminada la pàgina a través del web
+        en la seva pròpia voluntat, podem demanar-li que especifiqui el motiu de la
+        eliminació.
+      account_security: 5. SEGURETAT COMPTE.
+      p_5: Vostè és responsable de preservar la confidencialitat del seu nom d'usuari
+        i una contrasenya, que es fixarà en el moment de la inscripció. També, vostè
+        és absolutament responsable de totes les accions dels que es realitzin amb
+        el seu nom d'usuari i contrasenya. Vostè accepta (a) notificar immediatament
+        a nosaltres sobre qualsevol ús no autoritzat del seu nom d'usuari i contrasenya,
+        així com qualsevol altra violació de seguretat, i (b) surti del seu compte
+        al final de cada sessió. El lloc web no es fa responsable dels danys o pèrdues
+        derivades de l'incompliment d'aquesta disposició. Vostè ha de tenir especial
+        cura en accedir al seu compte a través d'un ordinador d'ús públic amb la finalitat
+        que les persones no autoritzades no podien espiar o gravar la seva contrasenya
+        o qualsevol altra informació personal. També confirma i accepta que Internet
+        mai va ser totalment privat i segur. Vostè entén que qualsevol missatge o
+        informació que publica en el lloc web poden ser llegides o utilitzades per
+        altres usuaris, fins i tot si hi ha una advertència especial que la informació
+        s'oculta.
+      your_interaction_with_other_users_of_the_website: 6. La seva interacció amb
+        altres usuaris de la pàgina web.
+      p_6: a. NO ESTEU únic responsable de la seva interacció amb altres usuaris.
+        Vostè ha d'entendre que L'EMPRESA NO verificar la seva USUARIS de si tenen
+        antecedents penals. La companyia també no sol·licita a la informació sobre
+        el passat dels seus usuaris i no valida aquesta informació. L'EMPRESA NO GARANTEIX
+        comportament de l'usuari i la seva compatibilitat amb els usuaris actuals
+        o futurs. Al MATEIX TEMPS, L'EMPRESA es reserva el dret a la VERIFICACIÓ DELS
+        USUARIS D'ANTECEDENTS PENALS O DUR A TERME altra verificació en qualsevol
+        moment utilitzant informació pública disponible. b. En cap cas, L'EMPRESA
+        no és responsable dels QUALSEVOL DANY si són directes, indirectes, GENERAL
+        o tenir un caràcter específic, compensatoris, I / O INCIDENTAL, obtingut per
+        vostè o qualsevol altra particulars com a conseqüència de la utilització de
+        la pàgina web, incloent, però no limitat a, dany corporal, estrès i / o ALTRE
+        TIPUS, qUE obtingui com a resultat d'COMUNICACIÓ o reunions amb altres usuaris
+        registrats de la pàgina web o persones, que vostè s'ocupa a la web. Esteu
+        d'acord en prendre totes les precaucions possibles quan es comunica amb la
+        resta d'usuaris, especialment en aquells casos, quan es decideixi a reunir-se
+        amb ells en la vida real. Vostè ha de ser conscient, el que l'empresa NO DÓNA
+        GARANTIES A declarada o implícita pel que fa a compatibilitat amb els usuaris
+        d'aquesta web. NO ha de donar la informació financera a altres usuaris del
+        lloc web (per exemple, la INFORMACIÓ SOBRE LA SEVA CRÈDIT O PLÀSTIC CARDS).
+        c. El servei pot traduir el seu nom o el nom de la ciutat per a altres idiomes;
+        d. El servei no és responsable de les accions que s'enumeren en aquest article.
+        En cas que vostè no està d'acord amb ells, totalment o parcialment, si us
+        plau surti immediatament el lloc web;
+      the_information_posted_by_you_on_flutylove: 7. LA INFORMACIÓ publicat per vostè
+        en FLUTYLOVE
+      p_7: a. Vostè és l'únic responsable de la informació publicada o demostrar (en
+        endavant, "post") en el Servei o transferir a altres usuaris. No se li permet
+        escriure en el Servei o transferir a altres usuaris tota la informació sobre
+        el contingut difamatori, inexacte, abusiu, obscè, vulgar i agressiu, la informació
+        de contingut sexual, així com la informació amenaçant o aguait, la informació
+        de caràcter racial discriminació o informació il·legal, o qualsevol altra
+        informació que infringeixi o violi els drets de qualsevol altra part (incloent,
+        sense limitació, els drets de propietat intel·lectual, drets de privacitat
+        i publicitat). No se li permet proporcionar informació inexacta, enganyosa
+        o falsa a la societat o de qualsevol altre usuari. Si la informació proporcionada
+        a la companyia Flutylove o posteriorment un altre usuari es torna imprecís,
+        enganyós de falsa, ha d'informar immediatament a l'empresa Flutylove d'aquest
+        canvi. Hi hagi enviat i garanteix que tota la informació proporcionada durant
+        el registre és exacta i veritable, i canvia immediatament qualsevol informació
+        que posteriorment es converteix en inexacta, enganyosa o falsa. b. Vostè entén
+        i accepta que ens reservem el dret, però no l'obligació de controlar la informació
+        o el contingut que es transfereix al servei o escrit en l'accés del públic
+        al Servei. Tenim un dret d'eliminar qualsevol d'aquesta informació o contingut
+        sense donar cap raó i notificació. c. Tots els objectes que apareixen al Lloc
+        Web, incloent elements de disseny, text, gràfics, il·lustracions, vídeos,
+        seqüències, programes, música, sons i altres objectes i les seves biblioteques
+        (des d'ara - Informació), són propietat dels drets exclusius de la companyia,
+        els usuaris de els titulars del lloc web i altres drets, tots els drets sobre
+        aquests objectes estan protegits. d. Amb excepció del que estableix de conformitat
+        amb el present Acord, així com la legislació vigent de la Federació de Rússia,
+        cap informació es pot copiar (reproduït), processats, distribuïts, que apareix
+        en un marc, publicat, descarregat, transferits, venuts o utilitzats en altres
+        formes en les sencer o en trossos sense el permís previ del titular, llevat
+        que el propietari dels drets expressat explícitament el seu consentiment per
+        a l'ús gratuït de la informació per qualsevol individu. e. Mitjançant la publicació
+        de la informació al web legalment pertanyen a l'usuari, l'usuari proporciona
+        accés a altres usuaris de dret no exclusiu a utilitzar-la mitjançant la visualització,
+        reproducció (incloent-hi la còpia) i altres drets a efectes exclusivament
+        d'ús personal no comercial, llevat que els casos en què aquest ús causi o
+        pugui causar dany als interessos del titular del dret protegit per la llei.
+        f. L'ús de la informació per part de l'Usuari, que s'accedia únicament per
+        a l'ús personal no comercial, es permet a condició que es mantindran tots
+        els signes d'autoria (copyright) o altres avisos d'autoria, el nom de l'autor
+        i el seu producte es deixarà sense canvis. g. L'usuari també proporciona a
+        la Companyia un dret no exclusiu d'utilitzar la informació publicada al lloc
+        web i que pertany a ell / a legalment sense tenir en compte per tal de garantir
+        el funcionament de la pàgina web de la Companyia en el rendiment de l'arquitectura
+        i funcionalitat de la web. El dret no exclusiu abans esmentada, es concedeix
+        per la col·locació de contingut en el Lloc Web i cobreix el territori dels
+        països de tot el món. La Companyia té dret a transferir els drets a què es
+        refereix aquest paràgraf a tercers. L'Usuari accepta que la Companyia té dret
+        a utilitzar les opcions funcionals i tècniques de la web, proporcionant la
+        visualització de la distribució de contingut per l'usuari, incloent l'aparició
+        en pantalla d'informació de publicitat. hola. En cas que l'usuari esborra
+        la informació de la pàgina web, el dret no exclusiu serà revocada automàticament,
+        però a causa de les especificacions tècniques de la pàgina web de la Societat
+        es reserva el dret de guardar còpies de seguretat de la informació en el temps
+        requerit i on es requereixi. i. A part de la informació privada, l'usuari
+        no té dret a publicar o divulgar de manera diferent (mitjançant la publicació
+        al lloc web) la informació d'altres llocs, bases de dades i altres propietats
+        intel·lectuals en absència de l'expressat explícitament el seu consentiment
+        a aquestes accions a partir dels drets d'autor propietari. j. Llevat que s'indiqui
+        el contrari en aquest Reglament, qualsevol cosa en aquest Reglament no pot
+        considerar-se com una transferència de drets exclusius a la informació. k.
+        Tota la informació publicada al seu perfil d'usuari, ha de ser precisa i actualitzada
+        i completa. L'usuari és absolutament únic responsable de qualsevol informació
+        que s'ha carregat o divulgada en forma diferent (publicada) en el Lloc Web
+        o amb l'ajuda de l'usuari. L'usuari no té dret a carregar, transferir o publicar
+        el contingut en el Lloc Web, si ell / ella no té els drets adequats per a
+        prendre tal acció, adquirida o delegada a ell / a d'acord amb la legislació
+        de la Federació Russa. La Societat podrà, però no està obligat, per navegar
+        per la Web per a qualsevol contingut il·legal i se li permet eliminar o moure
+        (sense previ avís) qualsevol Contingut o els usuaris a la seva discreció,
+        per qualsevol motiu o sense causes, incloent sense limitació per moure, o
+        eliminar la informació que, segons l'opinió individual de la Companyia violi
+        aquest Acord, la legislació de la Federació de Rússia i / o pugui violar els
+        drets, danyar o posar en perill la seguretat d'altres usuaris o tercers. El
+        lloc web conté (o pot contenir) enllaços a altres llocs a Internet (pàgines
+        web de tercers), així com articles, fotografies, il·lustracions, gràfics,
+        música, so, vídeo, informació, aplicacions, programari i la resta d'informació
+        pertanyent o ve de tercers (contingut de tercers), que és el resultat de l'activitat
+        intel·lectual i estigui protegida de conformitat amb la legislació de la Federació
+        de Rússia. Aquestes terceres parts i la seva informació no es verifiquen per
+        la Societat per al compliment d'aquest o altres requisits (exactitud, integritat,
+        honestedat, etc.). La Companyia no es fa responsable de qualsevol contingut
+        publicat a les pàgines de tercers a les que els guanys dels usuaris accedeixen
+        a través del lloc web oa través de la informació de tercers, incloent, però
+        no limitat a les opinions o declaracions expressades en els llocs de tercers
+        o en la seva informació. L'enllaç a qualsevol lloc, producte i servei, cap
+        informació de caràcter comercial i no comercial contingudes en aquest lloc
+        web no és una aprovació o recomanació per a aquests productes (serveis) de
+        la Companyia. Si l'usuari decideix abandonar el lloc web i vagi a les pàgines
+        web de tercers o utilitzar o instal·lar programari de tercers, ell / ella
+        ho fa sota el seu propi risc i des d'aquest moment aquest Reglament ja no
+        s'apliquen a l'usuari. Altres accions dels usuaris són guiats per les regles
+        i polítiques aplicables, incloses les pràctiques comercials d'aquells individus
+        la informació que ell / a utilitzarà.
+      forbidden_actions: 8. accions prohibides.
+      p_8: a. Està prohibit "mantenir una estreta vigilància sobre" o molestar qualsevol
+        persona en l'altre costat. b. Està prohibit l'ús de bots, virus, aplicacions
+        per buscar llocs / extracte, o altres dispositius manuals o automàtics o processos
+        per extreure, índex, "espionatge" o reproduir d'una altra manera o sortejar
+        l'estructura de navegació i la visualització del Servei o el seu contingut
+        . c. Està prohibit publicar, distribuir o reproduir tots els sentits qualsevol
+        informació amb drets d'autor, marques registrades, o una altra informació
+        protegida per drets d'autor sense el consentiment previ del propietari del
+        copyright. d. Està prohibit eliminar qualsevol dret d'autor, marques o altres
+        avisos de propietat intel·lectual continguts en el Servei. e. Està prohibit
+        interferir ni pertorbar el funcionament del Servei i el Lloc Web, o dels serveis
+        i xarxes connectades al Servei o el Lloc Web. f. Està prohibida la publicació,
+        correu electrònic o la transferència en forma diferent qualsevol informació
+        que contingui virus o qualsevol altre codi informàtic, arxius o programes
+        dissenyats per interferir, destruir o limitar la funcionalitat de qualsevol
+        programari, maquinari o de telecomunicacions. g. Està prohibit falsificar
+        encapçalats o manipular la designació per al propòsit de disfressar el veritable
+        significat de qualsevol informació compartida a través del Servei. h. Està
+        prohibit "farga" o "còpia" de qualsevol part del Servei o el Lloc Web sense
+        la prèvia autorització per escrit de Flutylove. A més, no es pot utilitzar
+        cap etiqueta meta o codi o altres dispositius que contenen els enllaços a
+        Flutylove, el Servei o el Lloc Web per tal de redirigir qualsevol persona
+        a un altre lloc per a qualsevol propòsit. i. Està prohibit modificar, adaptar,
+        subllicenciar, traduir, vendre, reestructurar, desxifrar, descompilar o desacoblar
+        arreu del Servei o el Lloc Web, o qualsevol programari utilitzat en el lloc
+        web o per ella, així com encoratja a altres a prendre accions similars . j.
+        Està prohibit publicar qualsevol informació amb contingut pornogràfic i /
+        o eròtic.
+      the_changes_in_the_service: 9. ELS CANVIS EN EL SERVEI.
+      p_9: Flutylove es reserva el dret en qualsevol moment de canviar o desactivar
+        temporalment o permanentment el servei (o qualsevol part és) sense previ avís.
+        L'usuari accepta que Flutylove no és responsable davant vostè o qualsevol
+        tercer per qualsevol modificació, la disponibilitat temporal o desactivació
+        completa del servei.
+      p_10: Per tal de protegir la integritat del lloc web, Flutylove reserva el dret
+        en qualsevol moment a la seva pròpia conveniència per bloquejar adreces IP
+        dels usuaris determinats.
+      relations_between_users_online: 11. RELACIONS ENTRE USUARIS EN LÍNIA
+      p_11: Vostè és l'únic responsable de les seves interaccions amb altres usuaris
+        de Flutylove. Flutylove es reserva el dret, però no l'obligació, de supervisar
+        disputes entre vostè i altres usuaris.
+      security_and_communication: seguretat i comunicació.
+      p_12: L'ús del lloc web i / o el Servei també està governat per la nostra política
+        de privacitat. Quan es converteix en un usuari, vostè està d'acord i accepta
+        rebre correus electrònics de nosaltres. Aquests correus electrònics poden
+        representar les notificacions sobre les operacions o altres notificacions
+        relacionades amb el servei, com ara avisos administratius i anuncis oficials
+        sobre els canvis, o correus electrònics que contenen les ofertes comercials,
+        material promocional, ofertes especials de nosaltres, o informació sobre les
+        accions d'altres usuaris respecte al seu compte d'usuari. Si us plau llegiu
+        la nostra política de privacitat per saber més sobre aquest tipus de notificacions.
+      denial_of_responsibility: 13. negació de la responsabilitat.
+      p_13: a. Flutylove no es fa responsable per qualsevol informació incorrecta
+        o imprecís publicat en el Lloc Web o està associat amb el servei, els usuaris
+        de la pàgina web o qualsevol maquinari o programari associat amb el nostre
+        servei o s'utilitza allà. Flutylove no és responsable de la conducta, tant
+        en línia com fora de línia, de qualsevol usuari del lloc web. Flutylove no
+        assumeix cap responsabilitat per errors, omissions, interrupcions, eliminació,
+        dany o demora en l'operació o operacions, falla en la línia de comunicacions,
+        robatori o destrucció, accés no autoritzat o el canvi de les línies de comunicació
+        de l'usuari. Flutylove no és responsable de qualsevol problema tècnic o mal
+        funcionament de qualsevol xarxa o línies telefòniques, sistemes informàtics
+        en línia, servidors o proveïdors, equips informàtics, programari, correu o
+        jugadors de fallada en el compte d'usuari, problemes tècnics o congestió a
+        Internet o en qualsevol lloc web o la seva combinació, inclosos els accidents
+        o lesions als usuaris o tercers relacionats amb un ordinador, o com a resultat
+        de la participació o descàrrega d'informació relacionada amb la xarxa i /
+        o el Servei. Sota cap circumstància la Companyia Flutylove o qualsevol dels
+        seus afiliats, agents de publicitat, fundadors o socis de distribució no responsable
+        de qualsevol pèrdua o dany, incloent lesions personals o la mort, a causa
+        de la utilització del lloc web o el Servei, qualsevol Contingut publicat en
+        el Lloc Web , o qualsevol interacció entre usuaris del lloc web, tant en línia
+        com fora de línia. El lloc web i el Servei es proporciona en un AS IS base,
+        i Flutylove renuncia expressament a qualsevol garantia o aptitud per a un
+        propòsit particular, o l'absència de violació dels drets de ningú. Flutylove
+        no pot garantir i no promet de resultats concrets de la usant del lloc web
+        i / o el Servei.
+      links: enllaços.
+      p_14: a. Flutylove no es fa responsable per qualsevol informació incorrecta
+        o imprecís publicat en el Lloc Web o està associat amb el servei, els usuaris
+        de la pàgina web o qualsevol maquinari o programari associat amb el nostre
+        servei o s'utilitza allà. Flutylove no és responsable de la conducta, tant
+        en línia com fora de línia, de qualsevol usuari del lloc web. Flutylove no
+        assumeix cap responsabilitat per errors, omissions, interrupcions, eliminació,
+        dany o demora en l'operació o operacions, falla en la línia de comunicacions,
+        robatori o destrucció, accés no autoritzat o el canvi de les línies de comunicació
+        de l'usuari. Flutylove no és responsable de qualsevol problema tècnic o mal
+        funcionament de qualsevol xarxa o línies telefòniques, sistemes informàtics
+        en línia, servidors o proveïdors, equips informàtics, programari, correu o
+        jugadors de fallada en el compte d'usuari, problemes tècnics o congestió a
+        Internet o en qualsevol lloc web o la seva combinació, inclosos els accidents
+        o lesions als usuaris o tercers relacionats amb un ordinador, o com a resultat
+        de la participació o descàrrega d'informació relacionada amb la xarxa i /
+        o el Servei. Sota cap circumstància la Companyia Flutylove o qualsevol dels
+        seus afiliats, agents de publicitat, fundadors o socis de distribució no responsable
+        de qualsevol pèrdua o dany, incloent lesions personals o la mort, a causa
+        de la utilització del lloc web o el Servei, qualsevol Contingut publicat en
+        el Lloc Web , o qualsevol interacció entre usuaris del lloc web, tant en línia
+        com fora de línia. El lloc web i el Servei es proporciona en un AS IS base,
+        i Flutylove renuncia expressament a qualsevol garantia o aptitud per a un
+        propòsit particular, o l'absència de violació dels drets de ningú. Flutylove
+        no pot garantir i no promet de resultats concrets de la usant del lloc web
+        i / o el Servei.
+      limitation_of_responsibility: 15. LIMITACIÓ DE RESPONSABILITAT.
+      p_15: lloc web i les seves funcions, incloent tots els scripts, aplicacions,
+        contingut i disseny del lloc web es proporcionen A TAL QUAL. L'empresa renuncia
+        cap garantia de que el web o les seves funcions poden ser aptes o no aptes
+        per a un propòsit particular del USO. LA COMPANYIA NO POT GARANTIR I NO PROMET
+        resultats concrets de la ÚS DE LA PÀGINA WEB DE I / O ELS SEUS FUNCIONS; Per
+        evitar confusions, l'usuari ha d'observar-les mesures preventives quan es
+        descarrega des El lloc web O PUBLICATS través dels enllaços, i l'ús dels arxius,
+        així com el programari. LA SOCIETAT molt recomanable utilitzar programari
+        només Autoritzat, així com antivirus SOFTWARE; Amb l'ús del lloc web, L'USUARI
+        ACCEPTA QUE PROGRAMES DE LLOC O AMB LA SEVA AJUDA qualsevol contingut en HIS
+        / HER propi risc i únicament responsable dels possibles resultats de la utilització
+        d'aquesta informació, incloent qualsevol dany que pugui causes a l'ordinador
+        de l'usuari o per TERCERA PARTS, pèrdua de dades o qualsevol altre dany; Sota
+        cap circumstància la societat o els seus agents no són responsables L'USUARI
+        O QUALSEVOL TERCER PER DANYS INDIRECTES, accidental i UNWILFUL, INCLOENT LA
+        PÈRDUA DE BENEFICIS O PÈRDUA DE DADES, DANYS A honor, la dignitat o la reputació
+        de l'empresa, DERIVATS DE LA ÚS dEL LLOC WEB, EL SEU CONTINGUT O QUALSEVOL
+        ALTRA INFORMACIÓ ALS QUE O QUALSEVOL ALTRA PERSONA van obtenir accés TRAVÉS
+        dEL WEB, encara que la companyia va advertir O indica la possibilitat d'aquests
+        danys.
+      responsibilities_of_the_parties: 16. RESPONSABILITATS DE LES PARTS.
+      p_16: Aquest Acord es regirà i interpretarà d'acord amb la legislació de la
+        Federació de Rússia. Problemes que no van ser liquidades per l'Acord es resoldran
+        de conformitat amb la legislació de la Federació de Rússia. En cas de qualsevol
+        disputa o controvèrsies relacionades amb l'aplicació d'aquest Reglament, l'usuari
+        i l'empresa farà tot el possible per resoldre a través de negociacions. En
+        cas que els conflictes no resolts per mitjà de negociacions, els litigis es
+        resoldran de conformitat amb la legislació aplicable de la Federació Russa.
+        Aquest Acord s'executa en llengua russa i es pot proporcionar a l'usuari per
+        a la seva revisió en un altre idioma. En cas de discrepància de la versió
+        del Reglament en idioma rus i la seva versió en un altre idioma, la versió
+        en rus de les disposicions del present Reglament s'aplicarà. Si per una raó
+        o una altra, una o més disposicions d'aquest Reglament s'han de declarar nul·les
+        o anul·lades, això no afecta la validesa o aplicabilitat de les disposicions
+        restants.
+      other_provisions_and_changes: 17. Altres disposicions i canvis.
+      p_17: Aquest Acord és el veritable acord entre vostè i Flutylove fa a l'ús del
+        lloc web i / o el Servei. Si alguna disposició d'aquest acord buits, la resta
+        de l'Acord es manté la seva validesa en ple efecte. Aquest Acord pot ser esmenat
+        per Flutylove en qualsevol moment. Si us plau, no dubti en posar-se en contacte
+        amb nosaltres amb qualsevol pregunta relacionada amb aquest Acord.
+      read_this: HE LLEGIT AQUEST ACORD I D'acord AMB TOTS ELS SEUS TERMES.
+    about:
+      about_flutylove: Sobre Flutylove
+      about_flutylove_text: Flutylove és la xarxa internacional d'entreteniment social
+        per datacions. Aquí es pot trobar amics, una ànima bessona, socis o simplement
+        passar el temps amb gaudir jugant a jocs o veure vídeos / fotos.
+      flutylove_features: 'Quan va a inscriure al nostre lloc, vostè pot trobar moltes
+        característiques, com ara:'
+      video_call_feature: Pot conversar amb la parella amb webcam
+      extended_search: Vostè pot utilitzar la recerca estesa de forma gratuïta
+      multilanguages: Vostè pot buscar socis d'altres països, ja que el nostre servei
+        espera utilitzar per una àmplia gamma de persones d'altres països, ja que
+        es tradueix a més de 70 idiomes
+      play_games_chatting_etc: Pots xatejar amb altres persones, jugar i fer altres
+        matèries socials
+      we_are_in_social_networks: 'Estem a les xarxes socials:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Utilitzem altes tecnologies i llibreries
+        de codi obert. Sempre intentem millorar i millorar el nostre servei.
+      partners_and_investors: estem oberts a la col·laboració i ens agradaria trobar
+        inversors. Si vol col·laborar amb nosaltres, si us plau contacti amb nosaltres
+        a partnership@flutylove.com
+    faq:
+      faq: "| La"
+      what_is_flutylove: El que és Flutylove?
+      about_flutylove: Flutylove és la xarxa internacional d'entreteniment social
+        per datacions. Aquí es pot trobar amics, una ànima bessona, socis o simplement
+        passar el temps amb gaudir jugant a jocs o veure vídeos / fotos.
+      what_features_has_flutylove: Quines característiques té Flutylove?
+      flutylove_features: Aquí es pot xatejar amb càmeres de vídeo, utilitzar la recerca
+        estesa, els socis de recerca d'altres països, jugar i fer altres matèries
+        socials.
+      i_have_some_requests: Tinc algunes peticions
+      you_can_write_request: Vostè pot inscriure i escriure-
+      here: aquí
+      i_have_seen_some_typo_or_wrong_translation: He vist algunes errada o traducció
+        errònia
+      you_can_send_pull_request_to_our: Podeu enviar una sol·licitud d'extracció en
+        el nostre
+      i_have_seen_some_error: he vist algun error
+      you_can_send: Ens pot enviar retroalimentació per
+      feedback: aquest formulari
+      to_us_or_write_to_our_info_mail: o escriure al correu electrònic support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Benvingut a Flutylove
+      you_have_successfully_signed_up_to_flutylove: que s'hagi registrat amb èxit
+        fins Flutylove
+      you_can_sign_in_with_your_social_networks: Si vol tornar a iniciar sessió per
+        a poder iniciar la sessió al compte de xarxa social
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Per
+        iniciar sessió amb el correu electrònic i la contrasenya que pot canviar la
+        contrasenya de la sessió i feu clic a continuació per enllaçar
+      change_password: Canviar contrasenya
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: incorrecta
+            search_for:
+              search_for_error: incorrecta
+            birth_date:
+              birth_date_error: necessita ser major de 18 i menys de 115
+            interests:
+              interests_error: han de ser menys de 2000 símbols
+            jobs:
+              jobs_error: han de ser menys de 2000 símbols
+            languages:
+              languages_error: han de ser menys de 2000 símbols
+            sex_keywords:
+              sex_keywords_error: han de ser menys de 2000 símbols
+            my_turn_ons:
+              my_turn_ons_error_error: incorrecta
+            contacts:
+              contacts_length_error: han de ser menys de 2000 símbols
+              contacts_size_error: han de ser inferior a 21 contactes
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: té valor no vàlid
+  devise:
+    confirmations:
+      confirmed: El teu compte ha estat confirmada satisfactòriament.
+      send_instructions: Vostè rebrà un correu electrònic amb instruccions sobre com
+        confirmar el seu compte en pocs minuts.
+      send_paranoid_instructions: Si la vostra adreça de correu electrònic existeix
+        a la nostra base de dades, rebrà un correu electrònic amb instruccions sobre
+        com confirmar el seu compte en pocs minuts.
+      new:
+        send_mail_for_confirm_your_email: Enviar mail per confirmar el seu correu
+          electrònic
+        submit: Enviar
+    failure:
+      already_authenticated: Ja ha iniciat sessió.
+      inactive: El teu compte no està activada encara.
+      invalid: correu electrònic o contrasenya no vàlids.
+      locked: El teu compte està bloquejat.
+      last_attempt: Tens un intent més abans que el seu compte serà bloquejat.
+      not_found_in_database: correu electrònic o contrasenya no vàlids.
+      timeout: seva sessió ha finalitzat. Si us plau entreu de nou per continuar.
+      unauthenticated: iniciï la seva sessió o registrar-se abans de continuar.
+      unconfirmed: ", han de ser confirmats compte abans de continuar."
+    mailer:
+      confirmation_instructions:
+        subject: instruccions de confirmació
+        welcome_to_flutylove: Benvingut a Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: 'Podeu confirmar
+          el seu correu electrònic mitjançant el següent enllaç:'
+        confirm_my_account: confirmar la vostra adreça electrònica
+      reset_password_instructions:
+        hello: Hola
+        subject: instruccions de restabliment de contrasenya
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Algú
+          té peticions d'un enllaç per canviar la contrasenya. Pot fer-ho a través
+          del següent enllaç.
+        change_my_password: Canviar contrasenya
+        if_you_didnt_request_this_please_ignore_this_email: Si no ha sol·licitat aquest
+          favor, ignora aquest missatge.
+      unlock_instructions:
+        subject: Instruccions de desbloqueig
+    omniauth_callbacks:
+      failure: no es va poder autenticar de% {tipus} perquè "% {raó}".
+      success: èxit autenticats de% {} tipus de compte.
+    passwords:
+      no_token: No pot accedir a aquesta pàgina sense que ve d'un missatge de restabliment
+        de contrasenya. Si ve d'un missatge de restabliment de contrasenya, si us
+        plau assegureu-vos que va utilitzar la URL proporcionada.
+      send_instructions: Vostè rebrà un correu electrònic amb instruccions sobre com
+        restablir la contrasenya en uns pocs minuts.
+      send_paranoid_instructions: Si la vostra adreça de correu electrònic existeix
+        a la nostra base de dades, rebrà un enllaç de recuperació de contrasenya a
+        la seva adreça de correu electrònic en uns pocs minuts.
+      updated: La contrasenya s'ha canviat correctament. Ara està iniciat sessió.
+      updated_not_active: La contrasenya s'ha canviat correctament.
+      new:
+        forgot_your_password: Recuperar la seva contrasenya
+        reset_password: Enviar recuperar URL
+      edit:
+        change_your_password: Canvieu la contrasenya
+        new_password: La nova
+        confirm_password: Confirmar contrasenya
+        change_password: Canvi
+    registrations:
+      destroyed: Bye! El seu compte s'ha cancel·lat correctament. Esperem veure-li
+        de nou aviat.
+      signed_up: Benvingut! Que s'hagi registrat amb èxit.
+      signed_up_but_inactive: que s'hagi registrat amb èxit. No obstant això, no es
+        podia iniciar sessió perquè el compte encara no està activada.
+      signed_up_but_locked: que s'hagi registrat amb èxit. No obstant això, no s'ha
+        pogut iniciar sessió causa que el seu compte està bloquejat.
+      signed_up_but_unconfirmed: Un missatge amb un enllaç de confirmació ha estat
+        enviat a la seva adreça de correu electrònic. Si us plau, obriu l'enllaç per
+        activar el seu compte.
+      update_needs_confirmation: Ha actualitzat el seu compte amb èxit, però que necessita
+        per verificar la seva nova adreça de correu electrònic. Si us plau, consultar
+        el seu correu electrònic i feu clic a l'enllaç de confirmació per finalitzar
+        confirmant la seva nova adreça de correu electrònic.
+      updated: Ha actualitzat el seu compte correctament.
+      new:
+        sign_up: Registra't
+        name: Nom
+        password: contrasenya
+        register: Registra't
+    shared:
+      links:
+        sign_in: Entrada
+        sign_up: Registra't
+        didnt_receive_confirmation_instructions: No vam rebre instruccions de confirmació?
+        sign_in_with: Entra amb
+        fast_login_almost_one_click: entrada ràpida (gairebé un clic)
+    sessions:
+      signed_in: signat en èxit.
+      signed_out: tancat la sessió amb èxit.
+      new:
+        sign_in: Entrada
+        password: contrasenya
+        remember_me: Recordar
+        forgot_your_password: Ha oblidat la seva contrasenya?
+    unlocks:
+      send_instructions: Vostè rebrà un correu electrònic amb instruccions sobre com
+        desbloquejar el seu compte en pocs minuts.
+      send_paranoid_instructions: Si existeix la compte, rebrà un correu electrònic
+        amb instruccions sobre com desbloquejar-en pocs minuts.
+      unlocked: El teu compte ha estat desbloquejat amb èxit. Si us plau entreu per
+        continuar.
+  timezones:
+    American Samoa: Samoa
+    International Date Line West: línia de data internacional West
+    Midway Island: Midway Island
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Hora del Pacífic (EUA i Canadà)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): temps de muntanya (EUA i Canadà)
+    Central America: Amèrica Central
+    Central Time (US & Canada): hora central (EUA i Canadà)
+    Guadalajara: Guadalajara
+    Mexico City: Ciutat de Mèxic
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogotà
+    Eastern Time (US & Canada): hora de l'est (EUA i Canadà)
+    Indiana (East): Indiana (aquest)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Hora de l'Atlàntic (Canadà)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Pau
+    Santiago: Santiago
+    Newfoundland: Terranova
+    Brasilia: Brasília
+    Buenos Aires: Buenos Aires
+    Greenland: Groenlàndia
+    Montevideo: Montevideo
+    Mid-Atlantic: l'Atlàntic Mitjà
+    Azores: Açores
+    Cape Verde Is: Illes Cap Verd.
+    Casablanca: Casablanca
+    Dublin: Dublín
+    Edinburgh: Edimburg
+    Lisbon: Lisboa
+    London: Londres
+    Monrovia: Monròvia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrad
+    Berlin: Berlín
+    Bern: Berna
+    Bratislava: Bratislava
+    Brussels: Brussel·les
+    Budapest: Budapest
+    Copenhagen: Copenhaguen
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: París
+    Prague: Praga
+    Rome: Roma
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Estocolm
+    Vienna: Viena
+    Warsaw: Varsòvia
+    West Central Africa: Àfrica Central Occidental
+    Zagreb: Zagreb
+    Athens: Atenes
+    Bucharest: Bucarest
+    Cairo: Caire
+    Harare: Harare
+    Helsinki: Hèlsinki
+    Istanbul: Istanbul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kaliningrad
+    Kyiv: Kíev
+    Pretoria: Pretòria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Bagdad
+    Kuwait: Kuwait
+    Minsk: Minsk
+    Moscow: Moscou
+    Nairobi: Nairobi
+    Riyadh: Riad
+    St Petersburg: Sant Petersburg
+    Volgograd: Volgograd
+    Tehran: Teheran
+    Abu Dhabi: Abu Dhabi
+    Baku: Bakú
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Erevan
+    Kabul: Kabul
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Calcuta
+    Mumbai: Mumbai
+    New Delhi: Nova Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Katmandú
+    Almaty: Almati
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangun
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Beijing
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapur
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seül
+    Tokyo: Tòquio
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: Nova Caledònia
+    Solomon Is: És Salomó.
+    Srednekolymsk: Srednekolimsk
+    Auckland: Auckland
+    Fiji: Fiji
+    Kamchatka: Kamchatka
+    Marshall Is: Illes Marshall.
+    Wellington: Wellington
+    Chatham Is: És Chatham.
+    Nuku'alofa: Nuku'alofa
+    Samoa: Samoa
+    Tokelau Is: És Tokelau.
+  ca: ca
+  ca_iso: ca

@@ -1,0 +1,1740 @@
+---
+wo:
+  1_we_have_just_launched_our_service_title: Chúng tôi đã vừa tung ra dịch vụ của
+    chúng tôi!
+  common_keywords: datings, datings trực tuyến, datings tình yêu, webcam hẹn hò, hẹn
+    hò tốc độ, webcam trò chuyện hẹn hò, Ruby on Rails hẹn hò trang web, đa ngôn ngữ
+    trang web hẹn hò
+  common_description: Các mạng giải trí xã hội quốc tế tiên tiến nhất cho datings
+    "Flutylove"
+  user: tài
+  user_to_search_connection: Tìm kiếm
+  video: video
+  note: Note
+  photo_album: Album ảnh
+  from: Từ
+  to: Để
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Nam
+  - female:
+      name: Nữ
+  - transgender:
+      name: chuyển giới
+  - male-female:
+      name: Nam-Nữ
+  - double-female:
+      name: nữ đúp
+  - double-male:
+      name: nam đúp
+  orientation:
+  - heterosexual: Tình dục khác giới
+  - homosexual: đồng tính
+  - bisexual: Thuộc về giống
+  search_for:
+  - chatting: Chat
+  - get_friends: Nhận bạn bè
+  - flirtation: tán tỉnh
+  - marriage: Hôn nhân
+  - other: khác
+  body_type:
+    slim: Slim
+    normal: Bình thường
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Độc thân
+    in_a_relationship: Trong một mối quan hệ
+    married: Married
+    nothing_serious: Không có gì nghiêm trọng
+  children:
+    dont_have: Không có
+    dont_have_and_dont_want_to: Đừng có và không muốn
+    don_t_have_but_planning: Đừng có nhưng quy hoạch
+    have_enough: Có
+    have_and_planning_more: Có kế hoạch và nhiều hơn
+    unable_to_have_children: Không thể có con
+  living:
+    with_parents: Với cha mẹ
+    with_marriage_partner: Với đối tác hôn nhân
+    alone: Alone
+    with_friends: Với người bạn (s)
+  education:
+    nothing: Không có gì
+    college_technical_college: Cao đẳng / đại học kỹ thuật
+    postgraduate: Sau đại học
+    phd_md_post_doctorate: PhD / MD / Post doctorate
+  hair_color:
+    blonde: Blonde
+    dark_blond: tóc vàng đậm
+    brown: Brown
+    black: Đen
+    red: đỏ
+    gray: xám
+    other: khác
+  income:
+    unemployed: Thất nghiệp
+    unstable_earnings: thu nhập không ổn định
+    small_stable_earnings: thu nhập ổn định nhỏ
+    medium_stable_earnings: thu nhập ổn định trung
+    higher_than_average_income: cao hơn so với thu nhập trung bình
+  smoking:
+    not_smoke: Không hút thuốc
+    not_smoke_and_detest: Không hút thuốc và ghét cay ghét đắng thuốc
+    smoke_in_a_social_setting: Đôi khi trong một bối cảnh xã hội
+    smoke_only_after_drinking: Chỉ hút thuốc lá sau khi uống rượu
+    smoke_occasionally: khói đôi
+    smoke_often: khói thường
+  alcohol:
+    not_drinking: Không uống
+    drink_occalionally: uống thỉnh thoảng
+    drink_in_a_social_setting: uống trong một khung cảnh xã hội
+    drink_often: uống thường
+  drugs:
+    dont_use: Không sử dụng
+    contra_drugs: thuốc Contra
+    tried_out_some: thử ra một số
+    light_drugs_occasionally: thuốc nhẹ đôi
+    regular: thường xuyên
+  sponsor:
+    i_want_to_find_a_sponsor: Tôi muốn tìm một nhà tài trợ
+    willing_to_become_a_sponsor: Sẵn sàng để trở thành một nhà tài trợ
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Không tìm một nhà tài
+      trợ và không sẵn sàng để trở thành một trong
+  category_name:
+    strategy: Chiến lược
+    rpg: RPG
+    3d_shooters: game bắn súng 3D
+    racing: Racing
+    arcade: Arcade
+    economic: Kinh tế
+    simulators: Simulators
+    logic: logic
+    adventure: phiêu lưu
+    board_games: Ban
+    gambling: cờ bạc
+    news: Tin tức
+    communication: Truyền thông
+    multimedia: Multimedia
+    drawing: Vẽ
+    educational: giáo dục
+    e_commerce: thương mại điện tử
+    other: khác
+  shared:
+    header:
+      people: dân
+      chat: trò chuyện
+      groups: Nhóm
+      forum: Forum
+      requests: yêu
+      about: Về dự án
+      help: Trợ giúp
+      user_applications: Ứng dụng
+    liked_users:
+      liked: Thích
+      all: Tất cả
+      you_have_not_liked_any_users_yet: Bạn đã không thích bất kỳ người sử dụng chưa
+    most_liked_users:
+      most_liked_users: người sử dụng ưa thích
+    installed_user_applications:
+      installed_applications: các ứng dụng đã cài đặt
+      all: Tất cả
+      you_have_not_installed_any_apps_yet: Bạn chưa cài đặt bất kỳ ứng dụng nào
+    user_applications:
+      uploaded_apps: ứng dụng đã tải
+      all: Tất cả
+      you_have_not_uploaded_any_apps_yet: Bạn chưa tải lên bất kỳ ứng dụng nào
+    right_sidebar:
+      news: Tin tức
+      all: Tất cả
+      read_more: Đọc thêm
+    footer:
+      footer_text: mạng giải trí xã hội quốc tế cho datings "Flutylove"
+      privacy: mật
+      terms: khoản
+      feedback: Phản hồi
+      abuse: Lạm dụng
+    languages_select_modal:
+      available_languages: Ngôn ngữ có sẵn
+    site_map_modal:
+      faq: Hỏi đáp
+      about: Về
+      static_pages: trang tĩnh
+      common_pages: trang chung
+      user_pages: trang tài
+      terms: khoản
+      privacy: mật
+      people: dân
+      user_applications: Ứng dụng
+      user_requests: yêu
+      news: Tin tức
+      feedback: Phản hồi
+      abuse: Lạm dụng
+      chats: Trò chuyện
+      photo_albums: Album ảnh
+      notes: Ghi chú
+    pagination_link:
+      next_page: Trang tiếp theo
+    user_edit_menu:
+      content: Content
+      site_settings: thiết lập trang web
+      privacy: mật
+      services: Dịch vụ
+    activities_navigation:
+      all: Tất cả
+      photo_albums: Album ảnh
+      notes: Ghi chú
+    notifications_navigation:
+      all: Tất cả
+      likes: Likes
+      friend_requests: yêu cầu bạn bè
+      profile_views: Thông tin
+    user_to_friend_connections_navigation:
+      friends: Bạn bè
+      friends_online: bè đang online
+      outcome_requests: yêu cầu cho kết quả
+      income_requests: yêu cầu thu nhập
+    user_applications_navigation:
+      all: Tất cả
+      new: mới
+      popular: ưa thích
+      often_installed: Thông thường cài đặt
+      manage: Quản lý
+    user_requests_navigation:
+      all: Tất cả
+      popular: ưa thích
+      my_requests: Yêu cầu của tôi
+    user_navbar_menu:
+      sign_in: Đăng nhập
+      sign_up: Đăng ký
+    email_signature:
+      info: Thông tin
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: Chọn giới tính
+      select_orientation: Chọn định hướng
+      select_search_for: Chọn tìm kiếm
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Bạn cần phải đăng nhập trước khi hành động này
+      available_sign_in_methods: Bạn
+    sign_up_methods:
+      usual_register_link: đăng ký thông thường
+      register_text: Ngoài% {} usual_registration bạn có thể đăng ký thông qua các
+        dịch vụ phổ biến nhất và các mạng xã hội
+    bootstrap_gallery:
+      previous: trước
+      next: Tiếp theo
+    user_notification_title:
+      you_liked: Bạn thích bởi
+      wrote_message_to_you: Đã viết tin nhắn cho bạn
+      viewed_your_profile: xem hồ sơ của bạn
+      liked_your_photo: Thích ảnh của bạn
+      liked_your_note: Thích ghi chú của bạn
+      liked_your_request: Thích yêu cầu của bạn
+      liked_your_video: Thích video của bạn
+      liked_your_application: Thích ứng dụng của bạn
+      requested_a_friendship: yêu cầu một tình bạn
+  authentications:
+    authentication:
+      turn_on: Bật
+      turn_off: Tắt
+      turned_on: Quay về
+      turned_off: Turned off
+    index:
+      enabled_services: dịch vụ Bật
+  users:
+    profile:
+      submit: Lưu
+      name: Tên
+      meet_with: Gặp
+      gender: Giới tính
+      type_in_your_location: Loại trong thành phố của bạn
+      about_me: Một số lời về bản thân (ngoài hình dưới đây)
+      sex_keywords: Sở thích sex
+      enter_your_name: Nhập tên của bạn
+      more_options: More
+      location: Đến từ
+      search_for: Tìm kiếm
+      intimacy: Intimacy
+      in_age: Trong độ tuổi
+      from: từ
+      to: đến
+      interests: Sở thích
+      height: Chiều cao
+      weight: Trọng lượng
+      relationship: Mối quan hệ
+      children: trẻ em
+      living: Sống
+      education: Giáo dục
+      jobs: Job
+      income: thu nhập
+      languages: Ngôn ngữ
+      smoking: hút thuốc
+      alcohol: Rượu
+      drugs: Thuốc
+      contacts: Liên hệ
+      contact_value: Liên hệ
+      save: Lưu
+      about_yourself: Về bản thân
+    settings:
+      submit: Lưu
+      locale: ngôn ngữ giao diện
+      change_password: Thay đổi mật khẩu
+      interface_language: ngôn ngữ giao diện
+    dialog_modal:
+      send_message: Send message
+    index:
+      users: Người dùng
+      clear_search: Xoá tìm kiếm
+    dashboard:
+      hello: Xin chào
+      here_some_of_your_statistics: Dưới đây một số số liệu thống kê của bạn
+      chats: Trò chuyện
+      notes: Ghi chú
+      photo_albums: Album ảnh
+    avatar:
+      photo: ảnh
+      drag_and_drop_your_file: Kéo và thả các tập tin của bạn
+      here: đây
+      or: hoặc
+      from_other_sites: Từ các trang web khác
+      write_down_link_for_your_image: Viết xuống liên kết các hình ảnh của bạn
+      url_for_image: Url cho hình ảnh
+      upload: Tải lên
+      from_facebook: Từ Facebook
+      turn_on_facebook: Bật Facebook
+      you_can_upload_your_photos_from_facebook: Bạn có thể tải lên hình ảnh của bạn
+        từ Facebook
+      from_vkontakte: Từ Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Bạn có thể tải lên hình ảnh của bạn
+        từ Vkontakte
+      turn_on_vkontakte: Bật Vkontakte
+      from_instagram: Từ Instagram
+      you_can_upload_your_photos_from_instagram: Bạn có thể tải lên hình ảnh của bạn
+        từ Instagram
+      turn_on_instagram: Bật Instagram
+      from_dropbox: Từ Dropbox
+      you_can_upload_your_photos_from_dropbox: Bạn có thể tải lên hình ảnh của bạn
+        từ Dropbox
+      turn_on_dropbox: Bật Dropbox
+      edit_photo: Chỉnh sửa hình ảnh
+      delete_photo: Xóa ảnh
+      are_you_sure: Bạn có chắc chắn?
+    available_photos_modal:
+      available_photos: ảnh sẵn
+    update:
+      your_password_was_successfully_changed: Mật khẩu của bạn đã được thay đổi thành
+        công
+      your_profile_was_successfully_updated: Hồ sơ của bạn đã được cập nhật thành
+        công
+    edit_photo:
+      edit_photo: Chỉnh sửa hình ảnh
+      crop: Crop
+      close: Đóng
+      save_changes: Lưu thay đổi
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: Về tôi
+      meet_with: Gặp
+      desirable_age: tuổi mong muốn
+      from: từ
+      to: đến
+      interests: Sở thích
+      height: Chiều cao
+      sm: sm
+      relationship: Mối quan hệ
+      children: trẻ em
+      living: Sống
+      education: Giáo dục
+      jobs: Jobs
+      income: thu nhập
+      languages: Ngôn ngữ
+      smoking: hút thuốc
+      alcohol: Rượu
+      drugs: Thuốc
+      contacts: Liên hệ
+    user_info:
+      offline: tuyến
+      online: trực tuyến
+      age: Tuổi
+    loading_modal_images:
+      loading_images: hình ảnh tải
+    password_form:
+      new_password: mật khẩu mới
+      confirm_new_password: Xác nhận mật khẩu mới
+      old_password: Mật khẩu cũ
+      change_password: Thay đổi mật khẩu
+    show:
+      all: Tất cả
+      notes: Ghi chú
+      view: Xem
+    dropbox_token_form:
+      key: chính
+      paste_recieved_key: Paste key nhận được
+      submit: Gửi
+    contents:
+      users_which_i_like: Người mà tôi thích
+      all: Tất cả
+      my_videos_likes: thích Video của tôi
+      my_photos_likes: Hình ảnh của tôi thích
+      my_notes_likes: ghi chú của tôi thích
+      my_user_applications_likes: ứng dụng của tôi thích
+      my_user_requests_likes: Yêu cầu của tôi thích
+    more_profile_info:
+      photo_albums: Album ảnh
+      view_all_photo_albums: Xem tất cả các album ảnh
+      create_more: Tạo thêm
+      view_all_videos: Xem tất cả video
+      notes: Ghi chú
+      view_all_notes: Xem tất cả các ghi chú
+      requirements_lists_to_partner: Yêu cầu liệt kê để đối tác
+      requirement: Yêu cầu
+      view_all_requirements_lists: Xem tất cả các yêu cầu về danh sách
+      profile_verification: xác minh hồ sơ
+      your_profile_is_successfully_verified: Hồ sơ của bạn được xác minh thành công
+      create: Tạo
+      you_have_not_any_requirements_lists_yet: Bạn không có bất kỳ yêu cầu liệt kê
+        chưa
+      you_have_not_any_notes_yet: Bạn không có bất kỳ ghi chú nào
+      you_have_not_any_photo_albums_yet: Bạn không có bất kỳ album ảnh chưa
+      you_have_not_any_videos_yet: Bạn không có bất kỳ video nào
+      your_profile_is_not_verified_yet: Hồ sơ của bạn chưa được xác minh
+      verify_through_twitter: Xác nhận thông qua Twitter
+      verify_through_facebook: Xác nhận thông qua Facebook
+      verify_through_mail_ru: Xác nhận thông qua Mail.ru
+    privacy:
+      privacy: mật
+  searches:
+    form:
+      location: Đến từ
+      from: từ
+      to: đến
+      age: Tuổi
+      gender: Giới tính
+    form_content:
+      city: Thành phố
+      gender: Giới tính
+      age_from: Tuổi từ
+      to: đến
+      online: trực tuyến
+      verified: xác minh
+      has_avatar: Có avatar
+      region: Region
+      more: More
+      country: Nước
+      about_me: Về tôi
+      interests: Sở thích
+      languages: Ngôn ngữ
+      names: Tên
+      height: Chiều cao
+      from: từ
+      weight: Trọng lượng
+      relationship: Mối quan hệ
+      education: Giáo dục
+      search_for: Tìm kiếm
+      children: trẻ em
+      living: Sống
+      smoking: hút thuốc
+      alcohol: Rượu
+      drugs: Thuốc
+      income: thu nhập
+    show:
+      users: Người dùng
+      clear_search: Xoá tìm kiếm
+  welcome:
+    index:
+      people: dân
+      requests: yêu
+      user_applications: Ứng dụng
+      about: Về
+      features: tính năng
+      registration: Đăng ký
+      sign_in: Đăng nhập
+      welcome_main_title: Chào mừng bạn đến Flutylove!
+      welcome_main_text: Đây là nơi mà bạn có thể tìm thấy tình yêu hoàn hảo của bạn
+      find_more: Tìm thêm
+      about_title: Flutylove là mạng xã hội giải trí quốc tế cho datings
+      about_text: Có rất nhiều tính năng mà bạn có thể sử dụng cho giải trí và datings!
+      find_more_features: Tìm nhiều tính năng hơn
+      at_our_service: Đặc điểm của dịch vụ của chúng tôi
+      many_languages: Nhiều ngôn ngữ
+      text_about_many_languages: dịch vụ của chúng tôi là dịch hơn 70 ngôn ngữ
+      check_it_out: Kiểm tra nó ra
+      videochats: Videochats
+      text_about_videochats: Bạn có thể trò chuyện với đối tác của bạn với máy quay
+        video
+      try_it_now: thử ngay bây giờ
+      search: Tìm kiếm
+      text_about_search: Bạn có thể tìm kiếm với nhiều tham số và nó là miễn phí!
+      watch_this: Watch this
+      more_features: Nhiều tính năng
+      text_about_more_features: Bạn có thể xem video, chơi game và làm nhiều thứ khác!
+      register_and_learn_more: ký và tìm hiểu thêm
+      install_our_apps: Cài đặt ứng dụng của chúng tôi từ trên các nền tảng phổ biến
+      register_header: Đăng ký
+  feedbacks:
+    new:
+      feedback_title: Phản hồi
+    form:
+      feedback_name: Tên của bạn
+      feedback_email: email của bạn
+      close: Đóng
+      send: Gửi
+      feedback_recaptcha: xác thực lại
+      cancel: Hủy
+    success:
+      success_feedback: Cảm ơn bạn! Chúng tôi đã nhận được phản hồi của bạn.
+      close: Đóng
+      cancel: Hủy
+      more: Gửi thêm
+  abuses:
+    new:
+      abuse_title: Lạm dụng
+    form:
+      abuse_name: Tên của bạn
+      abuse_email: email của bạn
+      abuse_title: Lạm dụng
+      close: Đóng
+      send: Gửi
+      abuse_recaptcha: xác thực lại
+      abuse_link: Liên kết
+      cancel: Hủy
+    success:
+      success_abuse: Cảm ơn bạn! Chúng tôi đã nhận được sự lạm dụng của bạn.
+      close: Đóng
+      cancel: Hủy
+      more: Gửi thêm
+  layouts:
+    welcome:
+      welcome_title: Chào mừng bạn đến Flutylove! Các trang web hẹn hò tiên tiến nhất.
+  recaptcha:
+    errors:
+      verification_failed: reCAPTCHA Không
+      recaptcha_unreachable: xác thực lại là không thể truy cập
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Chúng tôi đã vừa tung ra dịch vụ của
+        chúng tôi!
+      we_have_just_launched_our_service_text: Hôm nay chúng ta khởi động dịch vụ của
+        chúng tôi để tất cả mọi người có thể
+      sign_up: đăng ký
+      and_use_it: và sử dụng nó.
+      wishes_and_requests: Nếu bạn có bất kỳ mong muốn hoặc yêu cầu, bạn có thể đăng
+        ký và viết nó
+      here: đây
+      with_love: Với tình yêu,
+      flutylove_team: Flutylove Đội
+    index:
+      all_news: Tất cả tin tức
+      read_more: Đọc thêm
+  chats:
+    panel_head:
+      online: trực tuyến
+      offline: tuyến
+    pagination_link:
+      next_page: Trang tiếp theo
+    form:
+      message_text: tin nhắn văn bản
+    form_additions:
+      submit: Gửi
+      videochat: videochat
+    videochat_request_link:
+      connect_to_videochat: Kết nối qua video
+    modal_form:
+      send_message: Send message
+      recipient: người nhận
+      message: nhắn
+      close: Đóng
+      submit: Gửi
+    waiting_video_answer_button:
+      waiting_for_response: chờ trả lời ...
+    chat_created:
+      send_message: Send message
+      message_was_sent: tin nhắn đã được gửi
+      close: Đóng
+  messages:
+    pagination_link:
+      next_page: Trang tiếp theo
+    form:
+      message_text: tin nhắn văn bản
+  notifications:
+    user_to_friend_connection:
+      action: Hành động
+    notification:
+      offline: tuyến
+      online: trực tuyến
+    like:
+      action: Hành động
+    photo_album_view:
+      action: Hành động
+    user_view:
+      action: Hành động
+  user_applications:
+    user_application:
+      who_uploaded: tải bởi
+      all_uploaded_applications_by: Tất cả các ứng dụng được tải lên bởi
+    form:
+      name: Tên
+      user_application_name: Tên ứng dụng
+      description: Mô tả
+      description_text: Mô tả văn bản
+      iframe_url: Iframe url
+      upload_icon: Tải biểu tượng
+      public: công cộng?
+      category_name: Thể loại
+      create: Tạo
+      edit: Sửa
+    show:
+      application: ứng dụng
+      return_to_uploaded_applications: Để tải ứng dụng
+      edit_application: Chỉnh sửa ứng dụng
+      return_to_all_applications: Quay trở lại tất cả các ứng dụng
+    manage:
+      installed_applications: các ứng dụng đã cài đặt
+      uploaded_applications: ứng dụng đã tải
+      all: Tất cả
+    index:
+      applications_uploaded_by: ứng dụng được tải lên bởi
+      return_to_all_applications: Quay trở lại tất cả các ứng dụng
+      create_new: Tạo mới
+      return_to_manage_applications: Return để quản lý các ứng dụng
+    installed:
+      installed_applications: các ứng dụng đã cài đặt
+      return_to_all_applications: Quay trở lại tất cả các ứng dụng
+      return_to_manage_applications: Return để quản lý các ứng dụng
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Trước khi xem ứng dụng này,
+        bạn cần đăng nhập đầu tiên
+    need_to_install:
+      need_to_install_first: Bạn cần cài đặt ứng dụng này đầu tiên
+      install_application: Cài đặt ứng dụng
+  likes:
+    index:
+      liked_items: Tin được ưa thích
+      return_to_my_content: Quay trở lại nội dung của tôi
+  videos:
+    index:
+      return_to_edit_profile: Để hồ sơ chỉnh sửa
+      create_new: Tạo mới
+      return_to_profile: Return to profile
+    video:
+      edit: Sửa
+      are_you_sure: Bạn có chắc chắn?
+      delete: Xóa
+    modal_form:
+      create_new_video: Tạo video mới
+      close: Đóng
+      create: Tạo
+    form_content:
+      name: Tên
+      video_name: Tên video
+      source: Url của mã nhúng
+      video_url_or_embed_code: video url của mã nhúng video
+    show:
+      video: video
+      return_to_all_videos: Quay trở lại tất cả video
+      edit_video: Chỉnh sửa video
+    edit:
+      edit_video: Chỉnh sửa video
+      return_to_view_video: Return để xem video
+      view_video: Xem video
+    form:
+      edit: Sửa
+  photo_albums:
+    index:
+      photo_albums: Album ảnh
+      return_to_editing_profile: Để hồ sơ chỉnh sửa
+      create_new: Tạo mới
+      return_to_profile: Return to profile
+    photo_album:
+      edit: Sửa
+      create: Tạo
+      are_you_sure: Bạn có chắc chắn?
+      delete: Xóa
+    edit:
+      return_to_photo_albums: Để album ảnh
+      view_photo_album: Xem album ảnh
+    form_content:
+      name: Tên
+    form:
+      edit: Sửa
+      create: Tạo
+    photo_album_uploader:
+      drag_and_drop_your_file: Kéo và thả các tập tin của bạn
+      here: đây
+      or: hoặc
+      from_other_sites: Từ các trang web khác
+      write_down_link_for_your_image: Viết xuống liên kết các hình ảnh của bạn
+      url_for_image: Url cho hình ảnh
+      upload: Tải lên
+      from_facebook: Từ Facebook
+      turn_on_facebook: Bật Facebook
+      you_can_upload_your_photos_from_facebook: Bạn có thể tải lên hình ảnh của bạn
+        từ Facebook
+      from_vkontakte: Từ Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Bạn có thể tải lên hình ảnh của bạn
+        từ Vkontakte
+      turn_on_vkontakte: Bật Vkontakte
+      from_instagram: Từ Instagram
+      you_can_upload_your_photos_from_instagram: Bạn có thể tải lên hình ảnh của bạn
+        từ Instagram
+      turn_on_instagram: Bật Instagram
+      from_dropbox: Từ Dropbox
+      you_can_upload_your_photos_from_dropbox: Bạn có thể tải lên hình ảnh của bạn
+        từ Dropbox
+      turn_on_dropbox: Bật Dropbox
+    show:
+      photo_album: Album ảnh
+      return_to_photo_albums: Để album ảnh
+    modal_form:
+      create_new_photo_album: Tạo album ảnh mới
+      close: Đóng
+      create: Tạo
+  user_requests:
+    form:
+      content: Content
+      edit: Sửa
+      create: Tạo
+  notes:
+    index:
+      notes: Ghi chú
+      return_to_edit_profile: Để hồ sơ chỉnh sửa
+      create_new: Tạo mới
+      return_to_profile: Return to profile
+    note:
+      edit: Sửa
+      are_you_sure: Bạn có chắc chắn?
+      delete: Xóa
+    show:
+      note: Note
+      return_to_notes: Quay lại ghi chú
+      edit_note: Sửa lưu ý
+    form_content:
+      content: Content
+      edit: Sửa
+      create: Tạo
+    edit:
+      edit_note: Sửa lưu ý
+      return_to_notes: Quay lại ghi chú
+      view_note: Xem lưu ý
+  user_to_search_connections:
+    index:
+      requirements_lists: Yêu cầu danh sách
+      return_to_editing_profile: Để hồ sơ chỉnh sửa
+      create_new: Tạo mới
+    user_to_search_connection:
+      edit: Sửa
+      are_you_sure: Bạn có chắc chắn?
+      delete: Xóa
+    edit:
+      edit_requirements_list: Sửa yêu cầu danh sách
+      return_to_requirements_lists: Để danh sách các yêu cầu
+    form_content:
+      name: Tên
+      name_of_your_requirements_list: Tên của danh sách yêu cầu của bạn
+    form:
+      edit: Sửa
+    show:
+      return_to_requirements_lists: Để danh sách các yêu cầu
+  photos:
+    index:
+      return_to_photo_albums: Quay về album ảnh
+      return_to_profile: Để hồ sơ
+  errors:
+    messages:
+      already_confirmed: đã được xác nhận, hãy thử đăng nhập
+      confirmation_period_expired: cần được xác nhận trong vòng% {} kỳ, vui lòng yêu
+        cầu một cái mới
+      expired: đã hết hạn, hãy yêu cầu một cái mới
+      not_found: không tìm thấy
+      not_locked: không bị khóa
+      not_saved:
+        one: '1 lỗi bị cấm% này {} nguồn từ việc lưu lại:'
+        other: "% {count} lỗi cấm% {} tài nguyên này được cứu:"
+    bad_request:
+      bad_request: Yêu cầu Xấu
+      bad_request_description: Các máy chủ không thể hoặc sẽ không xử lý các yêu cầu
+        do lỗi của khách hàng rõ ràng
+      go_to_root: Tới gốc
+    unprocessable_entity:
+      unprocessable_entity: Không thể xử Entity
+      unprocessable_entity_description: Yêu cầu đã được hình thành nhưng đã không
+        thể được theo sau do lỗi ngữ nghĩa
+      go_to_root: Tới gốc
+    not_found:
+      not_found: Không tìm thấy
+      not_found_description: Tài nguyên yêu cầu không thể được tìm thấy, nhưng có
+        thể có sẵn trong tương lai
+      go_to_root: Tới gốc
+    forbidden:
+      forbidden_description: Yêu cầu là một yêu cầu hợp lệ, nhưng máy chủ từ chối
+        không đáp ứng với nó
+      go_to_root: Tới gốc
+    internal_server_error:
+      internal_server_error: nội Server Error
+      internal_server_error_description: Một cái gì đó đã đi sai. Chúng tôi sẽ sửa
+        chữa nó càng sớm càng tốt.
+      go_to_root: Tới gốc
+  pages:
+    privacy:
+      privacy: Chính sách bảo mật Flutylove
+      general_provisions: Những quy định chung
+      p_1_1: 1.1. Quy định này là một tài liệu chính thức của trách nhiệm hữu hạn
+        Công ty "Technoelegance", tọa lạc tại 101.000, Moscow, Ulanskiy pereulok 13,
+        stroeniye 4, pomeshcheniye 1 (sau đây gọi là Flutylove, Công ty, Chúng tôi),
+        và xác định các thủ tục xử lý dữ liệu và bảo mật thông tin cá nhân người đã
+        đạt đến 18 tuổi, và những người sử dụng trang web https://flutylove.com (sau
+        đây gọi là website) và dịch vụ (sau đây gọi là những người sử dụng).
+      p_1_2: 1.2. Mục đích của quy định này là để đảm bảo bảo vệ do các thông tin
+        người dùng, bao gồm cả dữ liệu cá nhân, với những truy cập trái phép và công
+        bố.
+      p_1_3: 1.3. Các mối quan hệ liên quan đến thu thập, lưu trữ, phân phối và bảo
+        mật thông tin Trang web của người dùng được điều chỉnh bởi các quy định, các
+        tài liệu chính thức khác của Công ty và pháp luật hiện hành của Liên bang
+        Nga.
+      p_1_4: 1.4. Phiên bản hiện tại của các quy định, trong đó có một tài liệu nào,
+        có sẵn cho bất kỳ người sử dụng Internet khi sau http://flutylove.com/pages/privacy
+        liên kết. Công ty có quyền sửa đổi Quy chế này. Trong trường hợp các thay
+        đổi được thực hiện cho các quy định, Công ty sẽ thông báo cho người sử dụng
+        bằng cách đăng phiên bản mới của Quy định về các Website tại http://flutylove.com/pages/privacy
+        địa chỉ thường trú, không muộn hơn 10 ngày trước khi có hiệu lực ngày thay
+        đổi. Các phiên bản trước của Quy chế này được lưu trữ trong các kho lưu trữ
+        tài liệu của Công ty.
+      p_1_5: 1.5. Quy định này đã được phát triển và được sử dụng phù hợp với các
+        thành viên. Trong trường hợp của bất kỳ trái giữa Quy chế này và các văn bản
+        khác của Công ty, Quy chế này phải được thi hành.
+      p_1_6: 1.6. Bằng cách sử dụng trang web, bạn đồng ý với các điều khoản và điều
+        kiện của chính sách bảo mật. Xin hãy đọc kỹ. Nếu bạn không đồng ý với các
+        điều khoản của chính sách bảo mật, hoặc bạn đã không đạt đến 18 tuổi, bạn
+        có thể không sử dụng trang web và dịch vụ của mình. Bằng cách sử dụng các
+        trang web, bất kể bạn là người sử dụng đã đăng ký của Flutylove hay không,
+        bạn xác nhận rằng bạn hoàn toàn chấp nhận chính sách bảo mật, và đồng ý tuân
+        theo nó.
+      the_website_using_conditions: Các trang web sử dụng điều kiện
+      p_2_1: '2.1. Để sử dụng Flutylove Website, bạn cần phải đăng ký. Các thông tin
+        sau đây cần được quy định trong thời gian đăng ký: tên, địa chỉ email, giới
+        tính, ngày sinh, thông tin vị trí. Những thành viên có thể cung cấp chi tiết
+        cá nhân bổ sung tại / mong muốn của riêng mình. Những thành viên có thể chỉnh
+        sửa hoặc cập nhật thông tin cá nhân bất cứ lúc nào. Công ty có quyền yêu cầu
+        các tài liệu hỗ trợ bổ sung trong trường hợp giới tính thay đổi và ngày sinh
+        của người dùng.'
+      p_2_2: '2.2. Bằng cách cho phép truy cập vào các trang web và dịch vụ của mình,
+        Công ty, hoạt động một cách hợp lý và trong đức tin tốt, cho rằng các thành
+        viên: nhận ra rằng cho đăng ký trên trang web của nó là cần thiết để được
+        trên 18 tuổi; có tất cả các quyền cần thiết để có thể đăng ký trên trang web
+        này và sử dụng nó; cho biết thông tin chính xác về bản thân mình / mình theo
+        các yêu cầu về việc sử dụng các dịch vụ của Website; ý thức được rằng thông
+        tin cá nhân trên website, được cung cấp bởi người dùng, có thể trở thành có
+        sẵn cho người dùng khác của Website và Internet người sử dụng cũng có thể
+        được sao chép và phân phối bởi những người sử dụng khác; là nhận thức được
+        rằng một số loại thông tin, chuyển giao cho các người sử dụng khác, không
+        thể được gỡ bỏ bởi người dùng; được làm quen với quy định này, đồng ý với
+        họ và cam kết thực hiện các quyền và nghĩa vụ quy định.'
+      p_2_3: 2.3. Công ty không xác minh tính chính xác của nhận (tập hợp) các thông
+        tin về người sử dụng, ngoại trừ trường hợp khi xác minh đó là cần thiết để
+        thực hiện đầy đủ nghĩa vụ của Công ty đối với người dùng.
+      information_processing_objectives: Thông tin chế biến mục tiêu
+      p_3_1: 3.1. Công ty thực hiện việc xử lý thông tin về người sử dụng, bao gồm
+        cả dữ liệu cá nhân của họ, để thực hiện đầy đủ nghĩa vụ của Công ty để những
+        người sử dụng cho việc sử dụng các trang web và dịch vụ của mình.
+      p_3_2: 3.2 Công ty có quyền thực hiện xử lý dữ liệu cá nhân mà không thông báo
+        cho cơ quan có thẩm quyền để bảo vệ quyền lợi của các đối tượng dữ liệu cá
+        nhân.
+      structure_of_the_user_information: Cấu trúc của thông tin người dùng
+      p_4_1: '4.1. Dữ liệu cá nhân của người sử dụng bao gồm:'
+      p_4_1_1: 4.1.1. tên, địa chỉ email, giới tính, ngày sinh, thông tin vị trí,
+        và số điện thoại, được cung cấp bởi người dùng và các nghĩa vụ phải được chỉ
+        đủ cho việc đăng ký trên Website;
+      p_4_1_2: 4.1.2. các thông tin được cung cấp bởi người dùng (ví dụ như hình ảnh,
+        thông tin về những thói quen nguy hại, vv);
+      p_4_1_3: 4.1.3. bổ sung được cung cấp bởi người dùng theo yêu cầu Công ty để
+        thực hiện đầy đủ nghĩa vụ của Công ty để những người sử dụng, xuất hiện từ
+        thỏa thuận người sử dụng. Công ty có quyền, đặc biệt, để yêu cầu người sử
+        một bản sao của các tài liệu nhận dạng hoặc bất kỳ tài liệu khác có chứa tên,
+        giới tính, ngày sinh, cũng như các thông tin bổ sung khác, theo quyết định
+        của Công ty, là cần thiết và đủ cho việc xác định dùng như vậy và sẽ loại
+        bỏ việc lạm dụng và vi phạm quyền của bên thứ ba.
+      p_4_2: '4.2. xử lý thông tin khác của người sử dụng bởi các công ty Cục Website
+        còn xử lý các thông tin về người sử dụng, trong đó bao gồm:'
+      p_4_2_1: 4.2.1. dữ liệu chung, tự động nhận được http-server khi truy cập vào
+        trang web và các hành động tiếp theo của người dùng (địa chỉ IP của máy chủ,
+        loại hệ điều hành của người dùng, các trang của trang web truy cập của người
+        sử dụng).
+      p_4_2_2: 4.2.2. Thông tin được tự động nhận được khi truy cập vào các trang
+        web sử dụng bookmark (cookies);
+      p_4_2_3: 4.2.3. thông tin được tiếp nhận như một kết quả của các hành động của
+        người sử dụng trên Website;
+      p_4_2_4: 4.2.4. thông tin được tiếp nhận như một kết quả của các hành động của
+        những người dùng khác trên Website.
+      p_5_1: '5.1. xử lý dữ liệu cá nhân được thực hiện trên cơ sở các nguyên tắc
+        sau đây: a) mục đích và phương tiện của việc xử lý dữ liệu cá nhân hợp pháp;
+        b) sự trung thực; c) sự phù hợp của mục đích xử lý dữ liệu cá nhân với mục
+        đích định trước và tuyên bố khi thu thập dữ liệu cá nhân, cũng như sự phù
+        hợp của các thông tin của Công ty; d) sự phù hợp của khối lượng và các loại
+        xử lý dữ liệu cá nhân, và sự phù hợp của các phương tiện xử lý dữ liệu cá
+        nhân với mục đích xử lý của nó; e) không thể nhận vào kết hợp giữa các cơ
+        sở dữ liệu được tạo ra cho mục đích tương thích, có chứa dữ liệu cá nhân.'
+      p_5_1_1: 5.1.1. Việc thu thập dữ liệu cá nhân của người dùng được thực hiện
+        trên trang web khi đăng ký, cũng như trong tương lai khi người dùng thêm nhiều
+        thông tin về bản thân mình / mình bằng cách sử dụng công cụ Website về sáng
+        kiến ​​riêng của mình / cô ấy.
+      p_5_1_2: 5.1.2. Dữ liệu cá nhân của người dùng được lưu trữ độc quyền ở định
+        dạng điện tử và xử lý bằng cách sử dụng hệ thống tự động, ngoại trừ trường
+        hợp xử lý thủ công dữ liệu cá nhân là cần thiết trong quan điểm của đáp ứng
+        yêu cầu xây dựng pháp luật.
+      p_5_1_3: 5.1.3. dữ liệu cá nhân của người sử dụng không được chuyển giao cho
+        bất kỳ bên thứ ba, trừ trường hợp quy định rõ ràng bởi Quy chế này và các
+        thành viên. Với sự đồng ý của người sử dụng, dữ liệu người dùng cá nhân có
+        thể được chuyển đến các đối tác thứ ba của Công ty trong điều kiện giả định
+        của một nghĩa vụ để đảm bảo tính bảo mật của thông tin nhận được, đặc biệt,
+        khi sử dụng các dịch vụ và ứng dụng. trích lập dự phòng dữ liệu cá nhân của
+        người sử dụng theo yêu cầu của cơ quan nhà nước (chính quyền địa phương) được
+        thực hiện theo các thủ tục theo yêu cầu của Luật.
+      p_5_1_4: '5.1.4. dữ liệu người dùng cá nhân sẽ bị xóa khi: - Dữ liệu được tự
+        xóa khỏi trang của người sử dụng; - Trang là tự xóa bởi người dùng; - Thông
+        tin của người dùng và trang cá nhân của nó được gỡ bỏ bởi Công ty. Trong trường
+        hợp của trang xóa bởi người dùng tự, Công ty lưu trữ dữ liệu cá nhân của người
+        dùng trên phương tiện truyền thông điện tử của mình trong vòng 210 ngày sau
+        trang cá nhân được lấy ra. Các dữ liệu cá nhân được xóa sau khi hết thời hạn
+        210 ngày sau trang cá nhân được lấy ra. Cho đến thời gian này hết hạn, người
+        dùng có quyền để khôi phục lại các trang cá nhân.'
+      users_rights_and_obligations: quyền và nghĩa vụ của người sử dụng
+      p_6_1: '6.1. Những thành viên có quyền:'
+      p_6_1_1: 6.1.1. truy cập vào các thông tin về anh ấy / cô ấy mà không hạn chế
+        và miễn phí bằng cách chỉnh sửa trang cá nhân của mình trên trang web với
+        việc sử dụng tên đăng nhập và mật khẩu;
+      p_6_1_2: 6.1.2. độc lập thực hiện thay đổi và chỉnh sửa các thông tin trên trang
+        cá nhân của người dùng trên các trang web, với điều kiện là những thay đổi
+        và điều chỉnh như vậy có up-to-date và thông tin trung thực;
+      p_6_1_3: 6.1.3. loại bỏ các thông tin từ trang cá nhân trên website;
+      p_6_1_4: 6.1.4. Yêu cầu Công ty để có được thông tin cụ thể hơn, khối hoặc xóa
+        các dữ liệu cá nhân, nếu dữ liệu không đầy đủ, lỗi thời, không chính xác,
+        bất hợp pháp nhận được hoặc là không cần thiết cho các mục đích tuyên bố của
+        chế biến hoặc nếu các hành động quy định tại khoản 6.1.3 của những Quy định
+        không thể được thực hiện một cách độc lập;
+      p_6_1_5: 6.1.5. trên cơ sở yêu cầu, nhận được thông tin từ Công ty liên quan
+        đến việc xử lý / dữ liệu cá nhân của mình.
+      p_6_2: '6.2. Các thông tin sau đây về Website nào tài đăng ký luôn có sẵn cho
+        người dùng đăng ký: tên, giới tính, tuổi tác, ảnh hồ sơ của người dùng và
+        các thông tin khác nếu người dùng đã đăng nó.'
+      p_6_3: 6.3. Công ty hoàn toàn không chịu trách nhiệm cho việc tiết lộ dữ liệu
+        cá nhân của người dùng bằng cách dùng khác của Website người đã truy cập các
+        dữ liệu đó.
+      p_6_4: 6.4. Trong trường hợp dữ liệu cá nhân (thông tin người dùng khác) loại
+        bỏ khỏi trang hoặc loại bỏ các trang cá nhân của người dùng từ trang web cá
+        nhân của người dùng, thông tin người dùng sao chép bởi người sử dụng khác
+        hoặc được lưu trữ trên các trang người dùng khác được bảo tồn.
+      p_7_1: 7.1. Công ty có các biện pháp kỹ thuật, tổ chức và pháp lý để đảm bảo
+        rằng dữ liệu cá nhân của người dùng được bảo vệ khỏi những truy cập trái phép
+        hoặc vô tình, xóa, sửa đổi, chặn, sao chép, và phổ biến cũng như những hành
+        động trái phép khác.
+      p_7_2: 7.2. đăng nhập của người dùng (địa chỉ email hoặc số điện thoại di động)
+        và mật khẩu được sử dụng để truy cập website. Những thành viên có trách nhiệm
+        bảo mật thông tin này được bảo mật. Những thành viên không được phép chuyển
+        tên đăng nhập và mật khẩu cho bên thứ ba và cũng là nghĩa vụ phải có các biện
+        pháp để đảm bảo bí mật của mình.
+      limitation_of_the_regulations_applicability: Giới hạn của các quy định áp dụng
+      p_8: Quy chế này không được mở rộng đến các hành động và tài nguyên Internet
+        của bên thứ ba. Công ty hoàn toàn không chịu trách nhiệm về hành động của
+        các bên thứ ba có quyền truy cập vào thông tin tài khoản qua Internet hoặc
+        các dịch vụ Website. Cơ quan quản lý trang web khuyến cáo cho người sử dụng
+        để tiếp cận vấn đề với số lượng thông tin được đăng trên trang web một cách
+        có trách nhiệm.
+      user_requests: yêu cầu tài
+      p_9_1: '9.1. Những người sử dụng có quyền gửi yêu cầu cho Công ty bao gồm các
+        yêu cầu liên quan đến việc sử dụng các dữ liệu cá nhân bằng văn bản theo địa
+        chỉ sau: Nga, 101.000, Moscow, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1 hoặc trong hình thức văn bản điện tử có chữ ký của một chữ ký điện tử có
+        trình độ phù hợp với pháp luật của Liên bang Nga, bởi email: support@flutylove.com.'
+      p_9_2: '9.2. yêu cầu người dùng phải có các thông tin sau: số lượng các tài
+        liệu nhận dạng của người dùng hoặc người đại diện; ngày ban hành các tài liệu
+        trên và các cơ quan cấp; thông tin xác nhận sự tham gia của người dùng trong
+        quan hệ với các nhà điều hành (đặc biệt là các liên kết đến trang); chữ ký
+        của người dùng hoặc / đại diện của mình.'
+      p_9_3: 9.3. Công ty cam kết xem xét và trả lời yêu cầu của người dùng trong
+        vòng 30 ngày sau khi nó đã được nhận.
+      p_9_4: 9.4. Mọi thư từ nhận bởi Công ty từ những người sử dụng (bằng văn bản
+        hoặc yêu cầu điện tử) được phân loại như thông tin bị hạn chế truy cập và
+        có thể không được tiết lộ mà không cần sự đồng ý bằng văn bản của người dùng.
+        Các dữ liệu cá nhân và các thông tin khác về User ai đã gửi yêu cầu có thể
+        không được sử dụng, mà không cần sự đồng ý đặc biệt của người dùng, khác với
+        phản ứng với các yêu cầu hoặc trong trường hợp rõ ràng quy định của pháp luật
+        hiện hành.
+    terms:
+      terms: Hiệp định tài Flutylove
+      welcome: Chào mừng bạn đến Flutylove!
+      about_terms: 'Những điều khoản sử dụng (cũng như các tài liệu đề cập trong tài
+        liệu này, bao gồm cả chính sách bảo mật) được hợp đồng bám dính theo Điều
+        428 của Bộ luật Dân sự của Liên bang Nga (sau đây gọi là "Hiệp định") giữa
+        các cá nhân đã đạt 18 tuổi (sau đây gọi là "Thành viên" và Công ty (hoặc "Chúng
+        tôi") - một trách nhiệm hữu hạn Công ty "Technoelegance" (LLC "Technoelegance")
+        (địa chỉ pháp lý: 101.000, Moscow, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1), sau đây gọi tắt là Flutylove, theo đó bạn có thể sử dụng trang web này
+        và tất cả các dịch vụ liên quan được cung cấp thông qua trang web hoặc ứng
+        dụng (gọi chung là "dịch vụ"). các website được hiểu là bất kỳ các phiên bản
+        của nó, kết hợp dưới tên miền flutylove.com và hoạt động cho một loạt các
+        thiết bị, bao gồm cả phiên bản dựa trên web, các ứng dụng điện thoại di động
+        và các ứng dụng cho các mạng xã hội.Bằng cách sử dụng trang web này, bạn đồng
+        ý với các điều khoản của Hiệp định và chính sách bảo mật. Xin hãy đọc kỹ.
+        Nếu bạn không đồng ý với các điều khoản của Hiệp định và chính sách bảo mật,
+        hoặc bạn chưa đạt đến 18 tuổi, bạn có thể không sử dụng trang web và dịch
+        vụ của mình.Bằng cách sử dụng trang web, bất kể bạn đang đăng ký sử dụng của
+        Flutylove hay không, bạn đồng ý hoàn toàn với Hiệp định này và Chính sách
+        bảo mật của chúng tôi, được bao gồm trong Hiệp định này bằng cách liên kết
+        và có sẵn trên các trang web, và tuân thủ nó.Theo yêu cầu của người dùng,
+        Công ty cam kết ký Hiệp định này trong một hình thức cứng và gửi nó đến các
+        cá nhân yêu cầu các tài liệu.Công ty bảo lưu quyền sửa đổi Hiệp định tài và
+        bất kỳ tài liệu đề cập đến nó. Để nhận thức được những thay đổi mà bạn cần
+        để giữ-up-to-date thông tin về những thay đổi đó một cách thường xuyên. Chúng
+        tôi sẽ thông báo cho bạn về những thay đổi chúng tôi thực hiện trên trang
+        này dưới đây. Thay đổi không liên quan lại và sẽ có hiệu lực trong thời hạn
+        mười ngày, kể từ ngày công bố. Tuy nhiên, trong trường hợp họ có liên quan
+        đến việc thực hiện các dịch vụ mới hoặc sửa đổi của pháp luật, nó sẽ được
+        áp dụng ngay lập tức. Nếu bạn không đồng ý với những thay đổi trong Hiệp định,
+        bạn phải ngừng sử dụng các trang web và các ứng dụng của nó.'
+      consent_to_accept_the_terms_of_user_agreement: 1. SỰ ĐỒNG Ý CHẤP NHẬN CÁC ĐIỀU
+        KHOẢN THỎA THUẬN USER.
+      p_1: một. Hiệp định điện tử. Hiệp định này là một phiên bản điện tử của hợp
+        đồng, trong đó mô tả các điều khoản sử dụng của Website và Dịch vụ. Bằng cách
+        đăng nhập vào Website hoặc trở thành người sử dụng, bạn chấp nhận Hiệp định
+        này và đồng ý tất cả các điều khoản, điều kiện, và thông báo được chứa hoặc
+        tham chiếu đó. Bạn xác nhận và đồng ý rằng những người sử dụng của Flutylove
+        có thể là một phần của một cộng đồng trực tuyến bao gồm các trang web khác
+        thuộc về Công ty hoặc chi nhánh của nó. Do đó, các hồ sơ trên trang web có
+        thể được xem trên các trang web tương tự khác và thuê bao trả từ một trang
+        web có thể giao tiếp với các thuê bao trả khác từ tất cả các trang web. b.
+        Mẫu điện. Bằng cách đăng nhập vào Website hoặc trở thành người sử dụng, bạn
+        bằng lòng cung cấp cho bạn với các Hiệp định điện tử. c. hình thức cưng. Quý
+        vị có quyền nhận được sự cưng của Hiệp định này. Bạn có thể yêu cầu bản cưng
+        của Hiệp định này trước khi hoặc sau khi nó sẽ được ký dưới hình thức điện
+        tử. Xin vui lòng, liên hệ với dịch vụ khách hàng của chúng tôi để biết thêm
+        thông tin. d. Truy cập và tải về. Để truy cập và tải về Hiệp định điện tử
+        này, bạn phải có quyền truy cập vào Internet hoặc trực tiếp thông qua các
+        thiết bị với các quyền truy cập vào các tài nguyên Web. Bạn cần phải có thiết
+        bị cần thiết để kết nối Internet, cụ thể là các máy tính, modem hoặc thiết
+        bị truy cập khác. Xin vui lòng, in một bản sao của Hiệp định này và giữ nó.
+        Để tải về các hình thức điện tử của Hiệp định, lưu nó vào máy tính của bạn
+        bởi sự giúp đỡ của bất kỳ trình soạn thảo.
+      the_right_of_using_the_website: 2. QUYỀN SỬ DỤNG WEBSITE.
+      p_2: Bạn phải có ít nhất mười tám (18) tuổi để trở thành một người sử dụng đã
+        đăng ký của trang web này. Trong trường hợp không tuân thủ các yêu cầu, truy
+        cập vào các trang web sẽ bị từ chối. Sử dụng các trang Web, người dùng nên
+        biết rằng các thông tin cá nhân được đăng trên trang web có thể có sẵn cho
+        người dùng Internet khác, và Công ty không chịu trách nhiệm cho hành động
+        của họ. Bằng việc sử dụng website này bạn khẳng định và cam kết rằng bạn có
+        quyền, quyền hạn và khả năng để tham gia vào Hiệp định này, và đồng ý tuân
+        theo tất cả các điều khoản và điều kiện của nó. Trở thành một người bạn khẳng
+        định và cam kết rằng bạn đã không bao giờ được bị kết án về tội hình sự liên
+        quan đến bạo lực tình dục. Website được thiết kế để sử dụng riêng. Cấm sử
+        dụng trang web cho bất kỳ mục đích thương mại. các đơn vị doanh nghiệp không
+        thể được những người sử dụng trang web này, cũng như không thể sử dụng dịch
+        vụ này hoặc các trang web về mục đích của họ. Bất hợp pháp và / hoặc không
+        được phép sử dụng của trang web, bao gồm tên người dùng thu thập và / hoặc
+        địa chỉ email bằng sự giúp đỡ của các điện tử hoặc các công cụ cho mục đích
+        gửi tin nhắn không mong muốn và các liên kết được theo đuổi và Công ty có
+        thể có những hành động thích hợp theo pháp luật, bao gồm cả một lời kêu gọi
+        các cơ quan thực thi pháp luật.
+      pricing_and_registration: 3. GIÁ CẢ VÀ ĐĂNG KÝ
+      p_3: Bạn có thể trở thành thành viên của Flutylove về ý chí tự do và miễn phí
+        của cơ sở phí bằng cách đăng ký trên Website. Khi dùng, bạn có thể sử dụng
+        phạm vi cụ thể của các dịch vụ và cơ hội của Website. Những thành viên của
+        Website là một cá nhân đăng ký trên trang web theo thứ tự thành lập và đã
+        đạt 18 tuổi. Khi đăng ký trên trang web của người dùng có nghĩa vụ cung cấp
+        thông tin cần thiết và liên quan cho Công ty để hoàn thành các trang người
+        dùng, bao gồm tên đăng nhập (địa chỉ email hoặc số điện thoại) và mật khẩu
+        để truy cập vào các trang web, cũng như tên, mà là duy nhất cho mỗi người
+        dùng. Các hình thức đăng ký có thể yêu cầu thêm thông tin từ người dùng. Thành
+        viên chịu trách nhiệm về tính hợp lệ, thực tế, đầy đủ và phù hợp với Luật
+        của Liên bang Nga trong những thông tin được cung cấp lúc đăng ký, và độ sắc
+        nét của nó từ khiếu nại của bên thứ ba. Khi đăng ký tài đồng ý với Hiệp định
+        này và thực hiện các quyền quy định và nghĩa vụ có liên quan với việc sử dụng
+        và chức năng của trang web. Những thành viên được quyền truy cập đầy đủ đến
+        việc sử dụng các chức năng Website. Công ty cam kết quyền lợi và nghĩa vụ
+        đối với người sử dụng, quy định tại Quy chế này, sau khi đăng ký thành công
+        tài khoản trên trang web xử lý dữ liệu cá nhân của người dùng được thực hiện
+        theo Luật của Liên bang Nga. Cơ quan quản lý trang web xử lý dữ liệu cá nhân
+        của người sử dụng để cung cấp cho người dùng với một truy cập đến việc sử
+        dụng các chức năng website, bao gồm nhận cá nhân (mục tiêu) quảng cáo; xác
+        minh, nghiên cứu và phân tích những dữ liệu, cho phép để hỗ trợ và cải thiện
+        chức năng và các phần của trang web, cũng như phát triển các chức năng và
+        phần mới. Công ty có tất cả các hành động cần thiết để bảo vệ dữ liệu cá nhân
+        của người dùng chống truy cập trái phép, sửa đổi, tiết lộ hoặc tẩy xoá. Công
+        ty cung cấp quyền truy cập vào dữ liệu cá nhân của người dùng chỉ có các nhân
+        viên, nhà thầu và các đại lý của Công ty, những người cần thông tin này để
+        hỗ trợ chức năng Website và cung cấp cho người dùng với quyền truy cập vào
+        sử dụng của nó. Công ty của Website có quyền sử dụng các thông tin được cung
+        cấp bởi người dùng, bao gồm cả dữ liệu cá nhân, để đảm bảo tuân thủ các yêu
+        cầu của pháp luật hiện hành của Liên bang Nga (bao gồm cả dự phòng và / hoặc
+        ức chế bất hợp pháp và / hoặc trái pháp luật hành động của những người sử
+        dụng). Công bố thông tin được cung cấp bởi người dùng có thể chỉ được thực
+        hiện theo quy định của pháp luật hiện hành của Liên bang Nga theo yêu cầu
+        của tòa án, cơ quan thi hành pháp luật, cũng như trong các trường hợp khác
+        theo quy định của pháp luật hiện hành của Liên bang Nga. Trong phạm vi mà
+        Công ty xử lý dữ liệu cá nhân của người dùng để thực hiện Quy chế này, được
+        sự đồng ý của người dùng để xử lý dữ liệu cá nhân không cần thiết trong đức
+        hạnh của các quy định của pháp luật về dữ liệu cá nhân. Tên đăng nhập và mật
+        khẩu được lựa chọn bởi người dùng là thông tin cần thiết và đủ để truy cập
+        tài khoản để Website. Những thành viên đều có quyền để cung cấp cho anh /
+        đăng nhập và mật khẩu của mình cho các bên thứ ba, và là hoàn toàn chịu trách
+        nhiệm cho sự an toàn của mình, lựa chọn cách lưu trữ chúng trên cơ sở độc
+        lập. Sử dụng / phần cứng và phần mềm của mình người dùng có thể cho phép lưu
+        trữ các tên đăng nhập và mật khẩu (thông qua cookie) cho phép tự động tiếp
+        theo trên Website. Bất kỳ hành động với việc sử dụng tên đăng nhập và mật
+        khẩu của người sử dụng được coi là cam kết của các thành viên, trừ trường
+        hợp có sự chứng minh của người dùng. Những thành viên có nghĩa vụ thông báo
+        ngay cho Công ty phù hợp với các thủ tục thành lập trong trường hợp truy cập
+        trái phép vào tên người dùng và mật khẩu và / hoặc các trang tài khoản, hoặc
+        tiết lộ tên đăng nhập và mật khẩu. Sau khi đăng ký các tài giành quyền tạo,
+        sử dụng và xác định nội dung của / trang cá nhân của mình về mục đích tư lợi
+        và phi thương mại, cũng như có cơ hội để truy cập và đăng các thông tin trên
+        các trang cá nhân của người sử dụng khác . Những thành viên là chủ sở hữu
+        của các thông tin được đăng trên trang cá nhân nhận thức được rằng ngoại trừ
+        các trường hợp xác lập trong các quy định và pháp luật hiện hành của Liên
+        bang Nga, Công ty không tham gia vào việc phát triển và sử dụng các nội dung
+        và không kiểm soát truy cập vào trang của người dùng từ những người dùng khác.
+      terms_4: 4. ĐIỀU KHOẢN.
+      p_4: Hiệp định này vẫn còn đầy đủ hiệu lực và hiệu quả miễn là bạn sử dụng trang
+        web. Bạn có thể ngăn chặn được những người dùng của trang web bằng cách loại
+        bỏ trang web của bạn bất cứ lúc nào, vì lý do nào đi nữa thì liên hệ với dịch
+        vụ khách hàng trực tuyến của chúng tôi hoặc bằng cách sử dụng các dịch vụ
+        của trang web. Công ty bảo lưu quyền của mình để xóa trang cá nhân của bạn
+        bất cứ lúc nào. Chúng tôi không có nghĩa vụ thông báo cho bạn trước khi xóa
+        trang, nếu Công ty có lý do để tin rằng bạn đã vi phạm các điều khoản của
+        Hiệp định. Chúng tôi không bắt buộc phải tiết lộ lý do cho việc xóa tài khoản
+        của bạn; trong một số trường hợp việc tiết lộ thông tin như vậy có thể bị
+        cấm. Sau khi xóa các trang của bạn, tất cả các điều kiện trong đó có thể có
+        giá trị sau khi chấm dứt Hiệp định này bởi bản chất của họ sẽ có hiệu lực
+        sau khi chấm dứt đó. Nếu bạn xóa trang của bạn thông qua các trang web theo
+        ý muốn riêng của bạn, chúng tôi có thể yêu cầu bạn ghi rõ lý do của việc xóa
+        như vậy.
+      account_security: 5. BẢO MẬT TÀI KHOẢN.
+      p_5: Bạn chịu trách nhiệm bảo quản mật của tên người dùng và mật khẩu của bạn,
+        mà sẽ được thiết lập tại thời điểm đăng ký. Ngoài ra, bạn hoàn toàn chịu trách
+        nhiệm cho tất cả các hành động xảy ra dưới tên người dùng và mật khẩu của
+        bạn. Bạn đồng ý (a) thông báo với chúng tôi ngay lập tức về bất kỳ sử dụng
+        trái phép đăng nhập và mật khẩu của bạn, cũng như bất kỳ vi phạm an ninh khác,
+        và (b) thoát khỏi tài khoản của bạn vào cuối mỗi buổi học. Website không chịu
+        trách nhiệm cho bất kỳ thiệt hại hoặc tổn thất phát sinh từ việc không tuân
+        thủ quy định này. Bạn nên đặc biệt cẩn thận khi truy cập tài khoản của bạn
+        thông qua một máy tính công cộng theo thứ tự mà người trái phép không thể
+        do thám hoặc ghi lại mật khẩu của bạn hoặc bất kỳ thông tin cá nhân khác.
+        Bạn cũng xác nhận và đồng ý rằng Internet là không bao giờ hoàn toàn riêng
+        tư và an toàn. Bạn hiểu rằng bất kỳ thông điệp hoặc thông tin mà bạn đăng
+        trên trang Web có thể được đọc hoặc sử dụng bởi những người dùng khác, thậm
+        chí nếu có một cảnh báo đặc biệt là thông tin ẩn.
+      your_interaction_with_other_users_of_the_website: 6. TƯƠNG TÁC VỚI NGƯỜI SỬ
+        DỤNG KHÁC CỦA WEBSITE.
+      p_6: 'một. BẠN KHÔNG CHỊU TRÁCH NHIỆM CHO TƯƠNG TÁC VỚI NGƯỜI SỬ DỤNG KHÁC.
+        BẠN NÊN HIỂU RẰNG CÔNG TY KHÔNG XÁC MINH NGƯỜI SỬ DỤNG CỦA HỌ TRÊN DÙ HỌ CÓ
+        GHI HÌNH SỰ. CÔNG TY CŨNG KHÔNG YÊU CẦU THÔNG TIN VỀ QUÁ KHỨ CỦA NGƯỜI SỬ
+        DỤNG CỦA HỌ VÀ không xác nhận THÔNG TIN NÀY. CÔNG TY KHÔNG BẢO ĐẢM VỀ HÀNH
+        VI NGƯỜI DÙNG VÀ HỢP CỦA HỌ VỚI NGƯỜI SỬ DỤNG THỰC TẾ HOẶC TƯƠNG LAI. CÙNG
+        LÚC CÁC CÔNG TY CÓ QUYỀN XÁC MINH CỦA NGƯỜI SỬ DỤNG CHO GHI HÌNH SỰ HOẶC CARRY
+        OUT XÁC MINH TẠI MỌI THỜI GIAN SỬ DỤNG THÔNG TIN CÔNG SẴN. b. TRONG BẤT CỨ
+        TRƯỜNG HỢP CÔNG TY KHÔNG CHỊU TRÁCH NHIỆM CHO BẤT CỨ TỔN HẠI DÙ HỌ LÀ TRỰC
+        TIẾP, CHUNG HOẶC CÓ TÍNH CHẤT ĐẶC BIỆT, đền bù, VÀ / HOẶC BẤT NGỜ, BẠN CÓ
+        ĐƯỢC HOẶC CÁ NHÂN KHÁC LÀ KẾT QUẢ SỬ DỤNG TRANG WEB, BAO GỒM NHƯNG KHÔNG GIỚI
+        HẠN, TỔN THƯƠNG THỂ, STRESS VÀ / HOẶC THIỆT HẠI KHÁC, BẠN CÓ ĐƯỢC LÀ KẾT QUẢ
+        CỦA TRUYỀN HOẶC CUỘC HỌP VỚI NGƯỜI SỬ DỤNG ĐĂNG KÝ KHÁC CỦA WEBSITE HOẶC NGƯỜI,
+        MÀ BẠN DEAL VỚI TRÊN WEBSITE. BẠN ĐỒNG Ý LẤY MỌI THẬN TRỌNG THỂ KHI GIAO TIẾP
+        VỚI NGƯỜI SỬ DỤNG KHÁC, ĐẶC BIỆT LÀ TRÊN CÁC TRƯỜNG HỢP, KHI BẠN QUYẾT ĐỂ
+        ĐÁP ỨNG CHÚNG BẤT LIFE. BẠN NÊN ĐƯỢC BIẾT, NHỮNG CÔNG TY KHÔNG GIVE A DECLARED
+        HOẶC ĐẢM BẢO ĐẢM VỀ HỢP VỚI NGƯỜI SỬ DỤNG WEBSITE NÀY. BẠN KHÔNG NÊN CHO CÁC
+        THÔNG TIN TÀI CHÍNH ĐỐI VỚI NGƯỜI SỬ DỤNG KHÁC CỦA WEBSITE (ví dụ: THÔNG TIN
+        VỀ TÍN DỤNG CỦA BẠN HOẶC NHỰA THẺ). c. Các dịch vụ có thể dịch tên của bạn
+        hoặc tên của thành phố đến các ngôn ngữ khác; d. Dịch vụ này không chịu trách
+        nhiệm cho những hành động được liệt kê trong bài viết này. Trong trường hợp
+        bạn không đồng ý với họ hoàn toàn hoặc một phần, XIN NGAY LẠI TRANG WEB;'
+      the_information_posted_by_you_on_flutylove: 7. THÔNG TIN ĐƯỢC CỦA BẠN VỀ FLUTYLOVE
+      p_7: một. Bạn hoàn toàn chịu trách nhiệm về các thông tin mà bạn xuất bản hoặc
+        chứng minh (ở đây là "bài") trên Dịch Vụ hoặc chuyển giao cho người sử dụng
+        khác. Bạn không được phép đăng bài trên Dịch Vụ hoặc chuyển giao cho người
+        khác bất kỳ thông tin về nội dung phỉ báng, không chính xác, lăng mạ, khiêu
+        dâm, thô tục và hung hăng, các thông tin về nội dung tình dục, cũng như thông
+        tin đe dọa, rình rập, thông tin có tính chất phân biệt chủng tộc hay thông
+        tin bất hợp pháp, hoặc bất kỳ thông tin khác mà xâm phạm hoặc vi phạm các
+        quyền của bất kỳ bên nào khác (bao gồm, nhưng không giới hạn, quyền sở hữu
+        trí tuệ, quyền riêng tư và quyền công khai). Bạn không được phép cung cấp
+        thông tin không chính xác, gây hiểu lầm hay sai cho Công ty hoặc bất kỳ tài
+        khác. Nếu các thông tin được cung cấp cho các công ty Flutylove hoặc một người
+        sau đó trở nên không chính xác, gây hiểu lầm của giả, bạn phải thông báo ngay
+        cho công ty Flutylove thay đổi đó. Bạn đăng ký và bảo đảm rằng tất cả các
+        thông tin cung cấp trong quá trình đăng ký là chính xác và đúng sự thật, và
+        bạn ngay lập tức thay đổi bất kỳ thông tin mà sau đó trở nên không chính xác,
+        gây hiểu lầm hay sai. b. Bạn hiểu và đồng ý rằng chúng tôi có quyền, nhưng
+        không có nghĩa vụ giám sát các thông tin hoặc nội dung đó được chuyển giao
+        cho dịch vụ hoặc được đăng tại công chúng truy cập vào Dịch Vụ. Chúng tôi
+        có quyền xóa bất kỳ thông tin hoặc nội dung như vậy mà không gán bất kỳ lý
+        do và thông báo. c. Tất cả các đối tượng hiển thị trên website, bao gồm cả
+        các yếu tố thiết kế, văn bản, đồ họa, minh họa, video, kịch bản, chương trình,
+        âm nhạc, âm thanh và các đối tượng khác và thư viện của họ (sau đây - Thông
+        tin), là tài sản độc quyền của Công ty, những người sử dụng của website và
+        các quyền khác chủ sở hữu, tất cả các quyền đối với các đối tượng được bảo
+        vệ. d. Trừ khi được thành lập theo Hiệp định này, cũng như pháp luật hiện
+        hành của Liên bang Nga, không có thông tin có thể được sao chép (sao chép),
+        chế biến, phân phối, hiển thị trong một khung hình, xuất bản, tải về, chuyển
+        nhượng, bán hoặc sử dụng theo nhiều cách khác toàn bộ hoặc một phần mà không
+        có sự cho phép của chủ sở hữu, trừ trường hợp chủ thể quyền bày tỏ một cách
+        rõ ràng sự đồng ý của mình để sử dụng miễn phí các thông tin của bất cứ cá
+        nhân. e. Bằng cách đăng thông tin trên Website thuộc hợp pháp cho người sử
+        dụng, người dùng cung cấp quyền truy cập cho người dùng khác cho phi độc quyền
+        sử dụng nó bằng cách xem, phát lại (bao gồm sao chép) và các quyền khác chỉ
+        duy nhất cho mục đích sử dụng phi thương mại, trừ trường hợp khi sử dụng đó
+        gây ra hoặc có thể gây tổn hại đến lợi ích của người có quyền được bảo vệ
+        bởi pháp luật. f. Việc sử dụng các thông tin của người dùng, là truy cập được
+        tăng chỉ cho sử dụng cá nhân phi thương mại, được phép khi có điều kiện là
+        tất cả các dấu hiệu của tác giả (quyền tác giả) hoặc các thông báo khác của
+        tác giả sẽ được giữ, tên của tác giả và sản phẩm của mình sẽ được trái mà
+        không có sự thay đổi. g. Những thành viên còn cung cấp cho Công ty với một
+        quyền không độc quyền sử dụng các thông tin được đăng trên trang web và thuộc
+        với anh ta / cô hợp pháp mà không cần xem xét để đảm bảo chức năng của Website
+        của Công ty trong việc thực hiện các kiến ​​trúc và chức năng của website.
+        Quyền không độc quyền nói trên được cấp cho các vị trí nội dung trên trang
+        web và bao gồm lãnh thổ các quốc gia trên thế giới. Công ty có quyền chuyển
+        nhượng quyền quy định tại khoản này cho bên thứ ba. Dùng đồng ý rằng Công
+        ty có quyền sử dụng các tùy chọn chức năng và kỹ thuật của Website, cung cấp
+        các hiển thị của việc chia sẻ nội dung của người sử dụng, bao gồm cả các mục
+        đích hiển thị các thông tin quảng cáo. Chào. Trong trường hợp người dùng xóa
+        các thông tin từ Website, quyền không độc quyền sẽ được tự động bị thu hồi,
+        nhưng do các thông số kỹ thuật của Website Công ty bảo lưu quyền để lưu các
+        bản sao lưu của các thông tin trong thời gian yêu cầu và khi cần. tôi. Ngoài
+        các thông tin cá nhân, người dùng không có quyền để tải lên, hoặc tiết lộ
+        theo cách khác nhau (bằng cách công bố trên Website) các thông tin của các
+        trang web khác, cơ sở dữ liệu và tài sản trí tuệ khác trong trường hợp không
+        thể hiện một cách rõ ràng sự đồng ý đến hành động như vậy từ bản quyền chủ
+        nhân. j. Trừ trường hợp được ghi nhận trong Quy chế này, bất cứ điều gì trong
+        Quy chế này không thể được coi là một sự chuyển giao độc quyền thông tin.
+        k. Tất cả các thông tin mà bạn xuất bản trong hồ sơ người dùng của bạn, phải
+        chính xác, cập nhật lên và đầy đủ. Những thành viên là hoàn toàn chịu trách
+        nhiệm về bất kỳ thông tin đã được tải lên hoặc tiết lộ theo cách khác nhau
+        (được đăng) trên Website hoặc với sự giúp đỡ của người dùng. Những thành viên
+        không có quyền đăng tải, chuyển nhượng hoặc đăng các nội dung trên trang Web,
+        nếu anh / cô ấy không có quyền thích hợp để hành động như vậy, bán lại hoặc
+        giao cho anh ấy / cô ấy phù hợp với pháp luật của Liên bang Nga. Công ty có
+        khả năng, nhưng không có nghĩa vụ, để duyệt trang web cho bất kỳ nội dung
+        bất hợp pháp và được phép xóa hoặc di chuyển (không báo trước) bất kỳ nội
+        dung hoặc người sử dụng đặc quyền của mình, vì bất cứ lý do hoặc không có
+        nguyên nhân, bao gồm nhưng không giới hạn để di chuyển, hoặc xóa thông tin
+        đó, theo ý kiến ​​cá nhân của Công ty vi phạm Hiệp định này, pháp luật của
+        Liên bang Nga và / hoặc có thể vi phạm bản quyền, làm tổn thương, hoặc gây
+        nguy hiểm cho sự an toàn của người sử dụng khác hoặc các bên thứ ba. Website
+        chứa (hoặc có thể chứa) liên kết đến các trang web khác trên Internet (các
+        trang web của bên thứ ba) cũng như các bài viết, hình ảnh, minh họa, đồ họa,
+        âm nhạc, âm thanh, video, thông tin, ứng dụng, phần mềm và các thông tin khác
+        thuộc hoặc đến từ các bên thứ ba (nội dung của bên thứ ba), mà là kết quả
+        của hoạt động trí tuệ và được bảo vệ theo pháp luật của Liên bang Nga. Các
+        bên thứ ba và thông tin của họ không được xác nhận bởi Công ty cho phù hợp
+        với điều này hoặc yêu cầu khác (tính chính xác, đầy đủ, trung thực, vv). Công
+        ty không chịu trách nhiệm về bất kỳ nội dung đăng tải trên trang web của bên
+        thứ ba mà các lợi ích tài truy cập thông qua trang web hoặc thông qua các
+        thông tin của bên thứ ba, bao gồm, nhưng không giới hạn bất kỳ ý kiến ​​hoặc
+        báo cáo thể hiện trên các trang web của bên thứ ba hoặc trong thông tin của
+        họ. Các liên kết đến bất kỳ trang web, sản phẩm và dịch vụ, mọi thông tin
+        có tính chất thương mại và phi thương mại nằm trên Website này không phải
+        là một chính hoặc đề nghị cho các sản phẩm (dịch vụ) từ Công ty. Nếu người
+        dùng quyết định rời khỏi trang web và đi đến các trang web của bên thứ ba
+        hoặc sử dụng hoặc cài đặt phần mềm của bên thứ ba, anh / cô ấy làm như vậy
+        nguy cơ của riêng của họ và từ thời điểm đó quy định này không còn được áp
+        dụng cho người dùng. Hơn nữa hành động của người dùng được hướng dẫn bởi các
+        quy tắc áp dụng và chính sách, bao gồm cả các hoạt động kinh doanh của những
+        cá nhân có thông tin anh / cô ấy sẽ sử dụng.
+      forbidden_actions: 8. HÀNH ĐỘNG CẤM.
+      p_8: một. Không được "theo dõi sát sao về" hoặc làm phiền mọi người theo cách
+        khác. b. Cấm sử dụng chương trình, virus, các ứng dụng để tìm kiếm các trang
+        web / trích xuất, hoặc các thiết bị tự động hoặc thủ khác hoặc các quy trình
+        để trích xuất, chỉ số, "gián điệp" hoặc sao chép theo cách khác hoặc phá vỡ
+        các cấu trúc điều khiển và hiển thị các dịch vụ hoặc nội dung của nó . c.
+        Không được đăng tải, phân phối, hoặc sao chép mọi cách bất kỳ thông tin có
+        bản quyền, thương hiệu, hoặc các thông tin khác được bảo vệ bởi bản quyền
+        mà không có sự đồng ý trước của chủ sở hữu quyền tác giả. d. Không được để
+        loại bỏ bất kỳ bản quyền, thương hiệu hoặc các thông báo bản quyền khác chứa
+        trên Dịch Vụ. e. Không được can thiệp vào hoặc phá vỡ các hoạt động dịch vụ
+        và các trang web, hoặc các dịch vụ và mạng lưới kết nối với các dịch vụ hoặc
+        các Website. f. Cấm xuất bản, email hoặc chuyển theo cách khác nhau bất kỳ
+        thông tin có chứa virus hoặc các mã số máy tính khác, các tập tin hoặc các
+        chương trình được thiết kế để can thiệp, phá hỏng hoặc hạn chế các chức năng
+        của thiết bị phần mềm máy tính, phần cứng hoặc viễn thông. g. Cấm giả mạo
+        tiêu đề hoặc thao tác chỉ định cho mục đích che giấu ý nghĩa thực sự của bất
+        kỳ thông tin chia sẻ thông qua Dịch Vụ. h. Cấm "giả mạo" hay "bản sao" bất
+        kỳ phần nào của Dịch vụ hoặc các Website mà không có sự cho phép trước bằng
+        văn bản từ Flutylove. Ngoài ra, bạn có thể không sử dụng bất kỳ thẻ meta hoặc
+        mã, hoặc các thiết bị khác có chứa bất kỳ các liên kết đến Flutylove, dịch
+        vụ hoặc trang web để chuyển hướng bất kỳ người nào đến trang web khác với
+        mục đích nào. tôi. Không được sửa đổi, điều chỉnh, cấp giấy phép, dịch, bán,
+        chuyển đổi cơ cấu, giải mã, dịch ngược hoặc tháo rời bất kỳ phần nào của Dịch
+        Vụ hoặc các trang web, hoặc bất kỳ phần mềm được sử dụng trên các trang web
+        hay cho nó, cũng như khuyến khích những người khác để có những hành động tương
+        tự . j. Cấm gửi bất kỳ thông tin với nội dung khiêu dâm và / hoặc khiêu dâm.
+      the_changes_in_the_service: 9. NHỮNG THAY ĐỔI TRONG DỊCH VỤ.
+      p_9: Flutylove có quyền vào bất cứ lúc nào để thay đổi hoặc vô hiệu hóa tạm
+        thời hoặc vĩnh viễn Dịch Vụ (hoặc bất kỳ đó là một phần) mà không cần thông
+        báo trước. Bạn đồng ý rằng Flutylove không chịu trách nhiệm với bạn hoặc bất
+        kỳ bên thứ ba nào về sửa đổi, sẵn sàng tạm thời hoặc vô hiệu hóa hoàn toàn
+        của dịch vụ.
+      ip_address_blocking: 10. ĐỊA CHỈ IP CHẶN.
+      p_10: Để bảo vệ sự toàn vẹn của Website, Flutylove có quyền vào bất cứ lúc nào
+        thuận tiện riêng của mình để chặn địa chỉ IP của người dùng nhất định.
+      relations_between_users_online: 11. QUAN HỆ GIỮA NGƯỜI SỬ DỤNG TRỰC TUYẾN
+      p_11: Bạn hoàn toàn chịu trách nhiệm đối với tương tác của bạn với người dùng
+        khác của Flutylove. Flutylove có quyền, nhưng không có nghĩa vụ giám sát các
+        tranh chấp giữa bạn và những người dùng khác.
+      security_and_communication: 12. AN NINH VÀ TRUYỀN THÔNG.
+      p_12: dùng của Website và / hoặc các dịch vụ cũng được điều chỉnh bởi chính
+        sách bảo mật của chúng tôi. Khi bạn trở thành một người sử dụng, bạn đồng
+        ý và đồng ý nhận email từ chúng tôi. Những email này có thể đại diện cho các
+        thông báo về các hoạt động hoặc các thông báo khác liên quan đến dịch vụ,
+        chẳng hạn như thông báo hành chính và thông báo chính thức về những thay đổi,
+        hoặc các email có chứa Mời thương mại, tài liệu quảng cáo, khuyến mại đặc
+        biệt từ chúng tôi, hoặc thông tin về các hành động của người sử dụng khác
+        có liên quan của bạn tài khoản người dùng. Xin vui lòng đọc chính sách bảo
+        mật của chúng tôi để biết thêm về những thông báo này.
+      denial_of_responsibility: 13. TỪ CHỐI TRÁCH NHIỆM.
+      p_13: một. Flutylove không chịu trách nhiệm cho bất kỳ thông tin không chính
+        xác hoặc không chính xác được đăng trên trang web hoặc có liên quan đến dịch
+        vụ, người dùng của trang web hoặc bất kỳ phần cứng hay phần mềm liên quan
+        đến dịch vụ của chúng tôi hay được sử dụng đó. Flutylove không chịu trách
+        nhiệm cho các hành vi, cả online và offline, của bất kỳ người sử dụng của
+        trang web. Flutylove không nhận trách nhiệm cho bất kỳ lỗi, thiếu sót, gián
+        đoạn, xóa, hư hỏng hoặc chậm trễ trong hoạt động hoặc hoạt động, suy tuyến
+        thông tin liên lạc, trộm cắp hoặc phá hoại, truy cập trái phép hoặc thay đổi
+        của đường dây thông tin của người sử dụng. Flutylove không chịu trách nhiệm
+        cho bất kỳ vấn đề hoặc trục trặc kỹ thuật của bất kỳ mạng điện thoại hoặc
+        đường dây, hệ thống máy tính trực tuyến, máy chủ hoặc các nhà cung cấp, thiết
+        bị máy tính, phần mềm, thư hoặc người chơi thất bại trong các tài khoản người
+        dùng, các vấn đề kỹ thuật hoặc tắc nghẽn trên Internet hoặc tại Website nào
+        hoặc sự kết hợp của nó, bao gồm cả các tai nạn hoặc thương tích cho người
+        sử dụng hoặc bất kỳ bên thứ ba liên quan đến máy tính, hoặc là kết quả của
+        việc tham gia hoặc tải thông tin liên quan đến các mạng và / hoặc Dịch vụ.
+        Trong mọi trường hợp Công ty Flutylove hoặc bất kỳ chi nhánh, đại lý quảng
+        cáo, người sáng lập hoặc các đối tác phân phối sẽ không chịu trách nhiệm cho
+        bất kỳ tổn thất hoặc thiệt hại, bao gồm cả cá nhân chấn thương hoặc tử vong,
+        vì sử dụng của trang web hoặc dịch vụ, bất kỳ Nội dung được đăng trên Website
+        , hoặc bất kỳ sự tương tác giữa người sử dụng của trang web, cả online và
+        offline. Các Website và Dịch vụ được cung cấp trên một AS IS cơ sở, và Flutylove
+        rõ ràng không chịu bất kỳ bảo đảm hoặc cho một mục đích cụ thể, hay không
+        có vi phạm các quyền của bất kỳ ai. Flutylove không thể đảm bảo và không hứa
+        hẹn của bất kỳ kết quả cụ thể từ việc sử dụng các trang web này và / hoặc
+        Dịch vụ.
+      links: 14. LIÊN KẾT.
+      p_14: một. Flutylove không chịu trách nhiệm cho bất kỳ thông tin không chính
+        xác hoặc không chính xác được đăng trên trang web hoặc có liên quan đến dịch
+        vụ, người dùng của trang web hoặc bất kỳ phần cứng hay phần mềm liên quan
+        đến dịch vụ của chúng tôi hay được sử dụng đó. Flutylove không chịu trách
+        nhiệm cho các hành vi, cả online và offline, của bất kỳ người sử dụng của
+        trang web. Flutylove không nhận trách nhiệm cho bất kỳ lỗi, thiếu sót, gián
+        đoạn, xóa, hư hỏng hoặc chậm trễ trong hoạt động hoặc hoạt động, suy tuyến
+        thông tin liên lạc, trộm cắp hoặc phá hoại, truy cập trái phép hoặc thay đổi
+        của đường dây thông tin của người sử dụng. Flutylove không chịu trách nhiệm
+        cho bất kỳ vấn đề hoặc trục trặc kỹ thuật của bất kỳ mạng điện thoại hoặc
+        đường dây, hệ thống máy tính trực tuyến, máy chủ hoặc các nhà cung cấp, thiết
+        bị máy tính, phần mềm, thư hoặc người chơi thất bại trong các tài khoản người
+        dùng, các vấn đề kỹ thuật hoặc tắc nghẽn trên Internet hoặc tại Website nào
+        hoặc sự kết hợp của nó, bao gồm cả các tai nạn hoặc thương tích cho người
+        sử dụng hoặc bất kỳ bên thứ ba liên quan đến máy tính, hoặc là kết quả của
+        việc tham gia hoặc tải thông tin liên quan đến các mạng và / hoặc Dịch vụ.
+        Trong mọi trường hợp Công ty Flutylove hoặc bất kỳ chi nhánh, đại lý quảng
+        cáo, người sáng lập hoặc các đối tác phân phối sẽ không chịu trách nhiệm cho
+        bất kỳ tổn thất hoặc thiệt hại, bao gồm cả cá nhân chấn thương hoặc tử vong,
+        vì sử dụng của trang web hoặc dịch vụ, bất kỳ Nội dung được đăng trên Website
+        , hoặc bất kỳ sự tương tác giữa người sử dụng của trang web, cả online và
+        offline. Các Website và Dịch vụ được cung cấp trên một AS IS cơ sở, và Flutylove
+        rõ ràng không chịu bất kỳ bảo đảm hoặc cho một mục đích cụ thể, hay không
+        có vi phạm các quyền của bất kỳ ai. Flutylove không thể đảm bảo và không hứa
+        hẹn của bất kỳ kết quả cụ thể từ việc sử dụng các trang web này và / hoặc
+        Dịch vụ.
+      limitation_of_responsibility: 15. GIỚI HẠN TRÁCH NHIỆM.
+      p_15: TRANG WEB VÀ CHỨC NĂNG CỦA NÓ BAO GỒM TẤT CẢ SCRIPTS, ỨNG DỤNG, NỘI DUNG
+        VÀ THIẾT KẾ TRANG WEB ĐƯỢC CUNG CẤP TRÊN CƠ SỞ NGUYÊN. CÔNG TY TỪ CHỐI MỌI
+        BẢO ĐẢM RẰNG WEBSITE HOẶC CHỨC NĂNG CỦA NÓ CÓ THỂ PHÙ HỢP HAY không phù hợp
+        cho một mục đích cụ SỬ DỤNG. CÔNG TY KHÔNG THỂ BẢO ĐẢM VÀ KHÔNG HỨA NÀO QUẢ
+        CỤ THỂ TỪ SỬ DỤNG CỦA WEBSITE VÀ / HOẶC CHỨC NĂNG CỦA NÓ; Để tránh nhầm lẫn,
+        THE USER nên quan sát THẬN TRỌNG AN TOÀN KHI TẢI TỪ WEBSITE HOẶC QUA LIÊN
+        KẾT ĐƯỢC, VÀ SỬ DỤNG CỦA MỌI FILES, CŨNG NHƯ PHẦN MỀM. CÔNG TY RẤT KHUYẾN
+        SỬ DỤNG PHẦN MỀM CHỈ ĐƯỢC PHÉP AS WELL AS ANTIVIRUS PHẦN MỀM; SỬ DỤNG TRANG
+        WEB, NGƯỜI SỬ DỤNG ĐỒNG Ý RẰNG DOWNLOADS TỪ HOẶC VỚI Giúp đỡ NÓ CÓ NỘI DUNG
+        VÀO HIS / RỦI RO HER VÀ TRÁCH NHIỆM CHO CÁC KẾT QUẢ CÓ THỂ SỬ DỤNG THÔNG TIN
+        NÀY, BAO GỒM THIỆT HẠI CÓ CNTT MAY NGUYÊN NHÂN MÁY TÍNH CỦA NGƯỜI SỬ DỤNG
+        HOẶC BA BÊN, DỮ LIỆU MẤT HOẶC BẤT CỨ TỔN HẠI KHÁC; TRONG MỌI TRƯỜNG HỢP CÔNG
+        TY HOẶC ĐẠI LÝ CỦA NÓ không chịu trách nhiệm ĐẾN NGƯỜI DÙNG HOẶC VỚI BẤT KỲ
+        THỨ BA CHO BẤT CỨ TỔN HẠI TRỰC TIẾP, TAI NẠN VÀ UNWILFUL, KỂ CẢ MẤT LỢI, HOẶC
+        MẤT DỮ LIỆU, THIỆT HẠI đến danh dự, nhân phẩm HOẶC DANH TIẾNG KINH DOANH,
+        PHÁT SINH BÊN NGOÀI VIỆC SỬ DỤNG WEBSITE, NỘI DUNG CỦA NÓ HOẶC BẤT CỨ THÔNG
+        TIN KHÁC MÀ BẠN HOẶC BẤT KỲ NGƯỜI KHÁC NHẬN ĐƯỢC TRUY CẬP QUA TRANG WEB, NGAY
+        CẢ KHI CÁC CÔNG TY cẩn HOẶC CHO bIẾT VỀ KHẢ NĂNG CỦA TỔN HẠI NHƯ VẬY.
+      responsibilities_of_the_parties: 16. TRÁCH NHIỆM CỦA CÁC BÊN.
+      p_16: Hiệp định này được điều chỉnh bởi và hiểu theo luật pháp của Liên bang
+        Nga. Các vấn đề mà không được giải quyết thông qua Hiệp định này sẽ được giải
+        quyết theo pháp luật của Liên bang Nga. Trong trường hợp của bất kỳ tranh
+        chấp hay tranh cãi liên quan đến việc thực hiện Quy chế này, các thành viên
+        và Công ty sẽ thực hiện mọi nỗ lực để giải quyết chúng thông qua đàm phán.
+        Trong trường hợp các tranh chấp sẽ không được giải quyết bằng thương lượng,
+        các tranh chấp được giải quyết theo quy định của pháp luật hiện hành của Liên
+        bang Nga. Hiệp định này được thực hiện bằng tiếng Nga và có thể được cung
+        cấp cho người dùng để xem xét trong một ngôn ngữ khác. Trong trường hợp của
+        sự khác biệt của phiên bản của các quy định trong ngôn ngữ tiếng Nga và phiên
+        bản của nó trong một ngôn ngữ khác, phiên bản tiếng Nga của các quy định của
+        Quy chế này được áp dụng. Nếu vì một lý do nào đó, một hoặc nhiều quy định
+        của Quy chế này sẽ được tuyên bố vô hiệu hoặc bị hủy bỏ, điều này không ảnh
+        hưởng đến tính hợp lệ hoặc thực thi của các điều khoản còn lại.
+      other_provisions_and_changes: 17. QUY ĐỊNH KHÁC VÀ THAY ĐỔI.
+      p_17: Hợp đồng này là hợp đồng thực sự giữa bạn và Flutylove liên quan đến việc
+        sử dụng các trang web này và / hoặc Dịch vụ. Nếu bất kỳ điều khoản của Hiệp
+        định này các lỗ rỗng, phần còn lại của Hiệp định này vẫn còn hiệu lực của
+        nó có hiệu lực đầy đủ. Hiệp định này có thể được sửa đổi bởi Flutylove bất
+        cứ lúc nào. Xin đừng ngần ngại liên hệ với chúng tôi với bất kỳ câu hỏi liên
+        quan đến Hiệp định này.
+      read_this: Tôi đã đọc THỎA THUẬN NÀY VÀ ĐỒNG Ý VỚI TẤT CẢ CÁC ĐIỀU KHOẢN CỦA
+        NÓ.
+    about:
+      about_flutylove: Về Flutylove
+      about_flutylove_text: Flutylove là mạng xã hội giải trí quốc tế cho datings.
+        Ở đây bạn có thể tìm thấy những người bạn, một tri kỷ, đối tác hoặc chỉ dành
+        nhiều thời gian của bạn với thưởng thức bằng cách chơi game hoặc xem video
+        / hình ảnh.
+      flutylove_features: 'Khi bạn sẽ đăng ký vào trang web của chúng tôi, bạn có
+        thể tìm ra nhiều tính năng như:'
+      video_call_feature: Bạn có thể trò chuyện với đối tác với webcam
+      extended_search: Bạn có thể sử dụng tìm kiếm mở rộng miễn phí
+      multilanguages: Bạn có thể tìm kiếm các đối tác từ các nước khác, bởi vì dịch
+        vụ của chúng tôi dự kiến ​​sẽ sử dụng bởi nhiều người từ các nước khác kể
+        từ khi nó được dịch hơn 70 ngôn ngữ
+      play_games_chatting_etc: Bạn có thể trò chuyện với những người khác, chơi trò
+        chơi và làm một chất liệu xã hội
+      we_are_in_social_networks: 'Chúng tôi đang trong các mạng xã hội:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Chúng tôi sử dụng công nghệ cao và các
+        thư viện mã nguồn mở. Chúng tôi luôn cố gắng để có được tốt hơn và cải thiện
+        dịch vụ của chúng tôi.
+      partners_and_investors: Chúng tôi đang mở ra cho quan hệ đối tác và chúng tôi
+        muốn tìm nhà đầu tư. Nếu bạn muốn hợp tác với chúng tôi xin vui lòng liên
+        hệ với chúng tôi tại partnership@flutylove.com
+    faq:
+      faq: Hỏi đáp
+      what_is_flutylove: Flutylove là gì?
+      about_flutylove: Flutylove là mạng xã hội giải trí quốc tế cho datings. Ở đây
+        bạn có thể tìm thấy những người bạn, một tri kỷ, đối tác hoặc chỉ dành nhiều
+        thời gian của bạn với thưởng thức bằng cách chơi game hoặc xem video / hình
+        ảnh.
+      what_features_has_flutylove: gì các tính năng có Flutylove?
+      flutylove_features: Ở đây bạn có thể trò chuyện với quay video, sử dụng tìm
+        kiếm mở rộng, các đối tác tìm kiếm từ các nước khác, chơi trò chơi và làm
+        chất liệu xã hội khác.
+      i_have_some_requests: Tôi có một số yêu cầu
+      you_can_write_request: Bạn có thể đăng ký và viết nó
+      here: đây
+      i_have_seen_some_typo_or_wrong_translation: Tôi đã thấy một số lỗi đánh máy
+        hoặc dịch sai
+      you_can_send_pull_request_to_our: Bạn có thể gửi yêu cầu cho chúng tôi Pull
+      i_have_seen_some_error: Tôi đã thấy một số lỗi
+      you_can_send: Bạn có thể gửi cho chúng tôi thông tin phản hồi của
+      feedback: hình thức này
+      to_us_or_write_to_our_info_mail: hoặc viết email để support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Chào mừng bạn đến Flutylove
+      you_have_successfully_signed_up_to_flutylove: Bạn đã đăng ký thành công để Flutylove
+      you_can_sign_in_with_your_social_networks: Nếu bạn muốn đăng nhập lại bạn có
+        thể đăng nhập bằng tài khoản mạng xã hội của bạn
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Nếu
+        bạn muốn đăng nhập với email và mật khẩu bạn có thể thay đổi mật khẩu bằng
+        dấu hiệu ra và nhấp vào liên kết dưới đây
+      change_password: Thay đổi mật khẩu
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: không chính xác
+            search_for:
+              search_for_error: không chính xác
+            birth_date:
+              birth_date_error: cần phải được lớn hơn 18 và ít hơn 115
+            interests:
+              interests_error: cần phải được ít hơn 2000 ký tự
+            jobs:
+              jobs_error: cần phải được ít hơn 2000 ký tự
+            languages:
+              languages_error: cần phải được ít hơn 2000 ký tự
+            sex_keywords:
+              sex_keywords_error: cần phải được ít hơn 2000 ký tự
+            my_turn_ons:
+              my_turn_ons_error_error: không chính xác
+            contacts:
+              contacts_length_error: cần phải được ít hơn 2000 ký tự
+              contacts_size_error: cần phải được ít hơn 21 địa chỉ liên lạc
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: có giá trị không hợp lệ
+  devise:
+    confirmations:
+      confirmed: Tài khoản của bạn đã được xác nhận thành công.
+      send_instructions: Bạn sẽ nhận được một email hướng dẫn về làm thế nào để xác
+        nhận tài khoản của bạn trong một vài phút.
+      send_paranoid_instructions: Nếu địa chỉ email của bạn tồn tại trong cơ sở dữ
+        liệu của chúng tôi, bạn sẽ nhận được một email hướng dẫn về làm thế nào để
+        xác nhận tài khoản của bạn trong một vài phút.
+      new:
+        send_mail_for_confirm_your_email: Gửi mail để xác nhận email của bạn
+        submit: Gửi
+    failure:
+      already_authenticated: Bạn đã đăng nhập.
+      inactive: tài khoản của bạn không được kích hoạt chưa.
+      invalid: email không hợp lệ hoặc mật khẩu.
+      locked: Tài khoản của bạn bị khóa.
+      last_attempt: Bạn có một nỗ lực nhiều hơn nữa trước khi tài khoản của bạn sẽ
+        bị khóa.
+      not_found_in_database: email không hợp lệ hoặc mật khẩu.
+      timeout: Phiên của bạn đã hết hạn. Vui lòng đăng nhập để tiếp tục.
+      unauthenticated: Bạn cần đăng nhập hoặc đăng ký trước khi tiếp tục.
+      unconfirmed: Bạn phải xác nhận tài khoản của bạn trước khi tiếp tục.
+    mailer:
+      confirmation_instructions:
+        subject: hướng dẫn Chứng nhận
+        welcome_to_flutylove: Chào mừng bạn đến Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Bạn có thể xác
+          nhận email của bạn thông qua các liên kết bên dưới
+        confirm_my_account: Xác nhận Email của tôi
+      reset_password_instructions:
+        hello: Xin chào
+        subject: hướng dẫn Reset password
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Một
+          người nào đó có yêu cầu một liên kết để thay đổi mật khẩu của bạn. Bạn có
+          thể làm điều này thông qua các liên kết dưới đây.
+        change_my_password: Thay đổi mật khẩu của tôi
+        if_you_didnt_request_this_please_ignore_this_email: Nếu bạn không yêu cầu
+          này, xin hãy bỏ qua email này.
+      unlock_instructions:
+        subject: Hướng dẫn Mở khóa
+    omniauth_callbacks:
+      failure: Không thể xác thực bạn từ% {} loại vì "% {reason}".
+      success: chứng thực thành công từ% {} loại tài khoản.
+    passwords:
+      no_token: Bạn không thể truy cập vào trang này mà không đến từ một email thiết
+        lập lại mật khẩu. Nếu bạn đến từ một email thiết lập lại mật khẩu, hãy chắc
+        chắn rằng bạn sử dụng URL đầy đủ cung cấp.
+      send_instructions: Bạn sẽ nhận được một email với hướng dẫn về làm thế nào để
+        thiết lập lại mật khẩu của bạn trong một vài phút.
+      send_paranoid_instructions: Nếu địa chỉ email của bạn tồn tại trong cơ sở dữ
+        liệu của chúng tôi, bạn sẽ nhận được một liên kết khôi phục mật khẩu tại địa
+        chỉ email của bạn trong một vài phút.
+      updated: Mật khẩu của bạn đã được thay đổi thành công. Bây giờ bạn đã đăng nhập.
+      updated_not_active: Mật khẩu của bạn đã được thay đổi thành công.
+      new:
+        forgot_your_password: Khôi phục mật khẩu của bạn
+        reset_password: Gửi phục hồi url
+      edit:
+        change_your_password: Thay đổi mật khẩu của bạn
+        new_password: mật khẩu mới
+        change_password: đổi
+    registrations:
+      destroyed: Bye! Tài khoản của bạn đã bị hủy bỏ thành công. Mong rằng chúng tôi
+        sẽ sớm gặp lại bạn.
+      signed_up: Chào mừng bạn! Bạn đã đăng ký thành công.
+      signed_up_but_inactive: Bạn đã đăng ký thành công. Tuy nhiên, chúng tôi không
+        thể đăng nhập cho bạn bởi vì tài khoản của bạn chưa được kích hoạt.
+      signed_up_but_locked: Bạn đã đăng ký thành công. Tuy nhiên, chúng tôi không
+        thể đăng nhập cho bạn bởi vì tài khoản của bạn bị khóa.
+      signed_up_but_unconfirmed: Một thông điệp có liên kết xác nhận đã được gửi đến
+        địa chỉ email của bạn. Hãy mở link để kích hoạt tài khoản của bạn.
+      update_needs_confirmation: Bạn cập nhật tài khoản của bạn thành công, nhưng
+        chúng ta cần phải xác minh địa chỉ email mới của bạn. Hãy kiểm tra email của
+        bạn và nhấp vào liên kết xác nhận để hoàn tất xác nhận địa chỉ email mới của
+        bạn.
+      updated: Bạn cập nhật tài khoản của bạn thành công.
+      new:
+        sign_up: Đăng ký
+        name: Tên
+        password: Mật khẩu
+        register: Đăng ký
+    shared:
+      links:
+        sign_in: Đăng nhập
+        sign_up: Đăng ký
+        didnt_receive_confirmation_instructions: Không nhận được hướng dẫn xác nhận?
+        sign_in_with: Đăng nhập bằng
+        fast_login_almost_one_click: nhanh đăng nhập (Hầu như một cú nhấp chuột)
+    sessions:
+      signed_in: ký nhập thành công.
+      signed_out: đã đăng xuất thành công.
+      new:
+        sign_in: Đăng nhập
+        password: Mật khẩu
+        remember_me: Ghi nhớ tôi
+        forgot_your_password: Quên mật khẩu của bạn?
+    unlocks:
+      send_instructions: Bạn sẽ nhận được một email hướng dẫn về làm thế nào để mở
+        khóa tài khoản của bạn trong một vài phút.
+      send_paranoid_instructions: Nếu tài khoản của bạn tồn tại, bạn sẽ nhận được
+        một email hướng dẫn về làm thế nào để mở khóa nó trong một vài phút.
+      unlocked: Tài khoản của bạn đã được mở khóa thành công. Vui lòng đăng nhập để
+        tiếp tục.
+  timezones:
+    American Samoa: American Samoa
+    International Date Line West: Dòng Ngày Quốc tế Tây
+    Midway Island: Đảo Midway
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Thái Bình Dương (Hoa Kỳ và Canada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain (Hoa Kỳ và Canada)
+    Central America: Trung Mỹ
+    Central Time (US & Canada): Central Time (Mỹ & Canada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Đông (Hoa Kỳ và Canada)
+    Indiana (East): Indiana (Đông)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Đại Tây Dương (Canada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Greenland
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Azores
+    Cape Verde Is: Cape Verde Is.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lisbon
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrade
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Brussels
+    Budapest: Budapest
+    Copenhagen: Copenhagen
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Prague
+    Rome: Rome
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Vienna
+    Warsaw: Warsaw
+    West Central Africa: Tây Trung Phi
+    Zagreb: Zagreb
+    Athens: Athens
+    Bucharest: Bucharest
+    Cairo: Cairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kaliningrad
+    Kyiv: Kyiv
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Baghdad
+    Kuwait: Kuwait
+    Minsk: Minsk
+    Moscow: Moscow
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: St. Petersburg
+    Volgograd: Volgograd
+    Tehran: Tehran
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Yerevan
+    Kabul: Kabul
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hà Nội
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Bắc Kinh
+    Chongqing: Trùng Khánh
+    Hong Kong: Hồng Kông
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapore
+    Taipei: Đài Bắc
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: New Caledonia
+    Solomon Is: Solomon Is.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fiji
+    Kamchatka: Kamchatka
+    Marshall Is: Marshall Is.
+    Wellington: Wellington
+    Chatham Is: Chatham Is.
+    Nuku'alofa: nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau Is.
+  wo: wo
+  wo_iso: wo

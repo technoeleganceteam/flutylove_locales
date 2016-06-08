@@ -1,0 +1,1595 @@
+---
+ur:
+  1_we_have_just_launched_our_service_title: ہم صرف ہماری سروس کا آغاز کر دیا ہے!
+  common_keywords: datings، آن datings، محبت datings، ویب کیم ڈیٹنگ، رفتار ڈیٹنگ،
+    ویب کیم چیٹ ڈیٹنگ، روبی پٹریوں پر سائٹ ملنہ، Multilanguage کی تاریخ سائٹ
+  common_description: datings کے لئے سب سے زیادہ جدید بین الاقوامی سماجی تفریح ​​نیٹ
+    ورک "Flutylove"
+  default_album: ڈیفالٹ البم
+  user: صارف
+  user_to_search_connection: تلاش
+  video: ویڈیو
+  note: نوٹ
+  photo_album: تصویر البم
+  from: کی
+  to: لئے
+  vkontakte: حفاظت
+  facebook: فیس بک
+  twitter: ٹویٹر
+  google_oauth2: گوگل
+  instagram: انسٹاگرام
+  dropbox_oauth2: ڈراپ باکس
+  mail_ru: Mail.ru
+  odnoklassniki: سے odnoklassniki
+  gender:
+  - male:
+      name: مرد
+  - female:
+      name: خواتین
+  - transgender:
+      name: ہجڑا
+  - male-female:
+      name: مرد خواتین
+  - double-female:
+      name: ڈبل خاتون
+  - double-male:
+      name: ڈبل لڑکا
+  orientation:
+  - heterosexual: ویشملینگک
+  - homosexual: ہم جنس پرست
+  - bisexual: ابیلنگی
+  search_for:
+  - get_friends: حاصل دوست
+  - flirtation: چوںچلا
+  - marriage: شادی
+  - other: دیگر
+  body_type:
+    slim: پتلا
+    normal: عمومی
+    chubby: موٹے
+  relationship:
+    single: سنگل
+    in_a_relationship: معاشقہ
+    married: شادی شدہ
+  children:
+    dont_have: نہیں ہے
+    dont_have_and_dont_want_to: ضرورت نہیں ہے اور نہیں کرنا چاہتا
+    don_t_have_but_planning: ہے لیکن منصوبہ بندی نہ کریں
+    have_enough: ہے
+    have_and_planning_more: ہیں اور مزید کی منصوبہ بندی کر
+  living:
+    with_parents: والدین کے ساتھ
+    with_marriage_partner: شریک زندگی کے ساتھ
+    alone: تنہا
+    with_friends: دوست کے ساتھ (ے)
+  education:
+    nothing: کچھ بھی نہیں
+    secondary_school: ثانوی اسکول
+    college_technical_college: کالج / ٹیکنیکل کالج
+    university: یونیورسٹی
+    postgraduate: ماسٹرز
+    phd_md_post_doctorate: پی ایچ ڈی / ایم ڈی / پوسٹ ڈاکٹریٹ
+  hair_color:
+    blonde: سنہرے بالوں والی
+    dark_blond: گہرا سنہرے بالوں والی
+    brown: براؤن
+    black: سیاہ
+    red: ریڈ
+    gray: گرے
+    other: دیگر
+  income:
+    unstable_earnings: غیر مستحکم آمدنی میں
+    small_stable_earnings: چھوٹے مستحکم آمدنی میں
+    medium_stable_earnings: درمیانہ مستحکم آمدنی میں
+    higher_than_average_income: اوسط آمدنی سے زیادہ
+    high_income: اعلی آمدنی
+  smoking:
+    not_smoke: تمباکو نوشی نہیں
+    not_smoke_and_detest: سگریٹ نوشی اور تمباکو نوشی نفرت نہیں
+    smoke_occasionally: دھواں کبھی کبھار
+    smoke_often: دھواں اکثر
+  alcohol:
+    not_drinking: پینے نہیں
+    drink_occalionally: ڈرنک کبھی کبھار
+    drink_in_a_social_setting: ایک سماجی ترتیب میں پینا
+    drink_often: ڈرنکس اکثر
+  drugs:
+    dont_use: استعمال نہ کریں
+    contra_drugs: برعکس منشیات
+    tried_out_some: کی کوشش کی کچھ
+    light_drugs_occasionally: ہلکی منشیات کبھی کبھار
+  sponsor:
+    i_want_to_find_a_sponsor: میں ایک اسپانسر تلاش کرنے کے لئے چاہتے ہیں
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: سپانسر کے لئے تلاش کر
+      نہیں ہے اور ایک بننے کے لئے تیار نہیں
+  category_name:
+    strategy: حکمت عملی
+    rpg: آرپیجی
+    3d_shooters: 3D شوٹر
+    racing: دوڑ
+    arcade: آرکیڈ
+    economic: اکنامک
+    simulators: سمیلیٹروں
+    logic: منطق
+    adventure: ساہسک
+    board_games: بورڈ گیمز
+    gambling: جوا
+    news: خبریں
+    communication: مواصلات
+    multimedia: ملٹی میڈیا
+    drawing: ڈرائنگ
+    educational: تعلیمی
+    e_commerce: ای کامرس
+    other: دیگر
+  shared:
+    header:
+      people: لوگ
+      chat: چیٹ
+      groups: گروپس
+      forum: فورم
+      requests: درخواستیں
+      about: منصوبے کے بارے میں
+      help: مدد
+      user_applications: درخواستیں
+    liked_users:
+      liked: پسند
+      all: تمام
+      you_have_not_liked_any_users_yet: ابھی تک آپ کوئی صارفین کو پسند نہیں آیا
+    most_liked_users:
+      most_liked_users: مقبول صارفین
+    installed_user_applications:
+      installed_applications: نصب شدہ اطلاقات
+      all: تمام
+      you_have_not_installed_any_apps_yet: ابھی تک آپ کوئی ایپلی کیشنز انسٹال نہیں
+        کیا ہے
+    user_applications:
+      uploaded_apps: اپ لوڈ ایپلی کیشنز
+      all: تمام
+      you_have_not_uploaded_any_apps_yet: ابھی تک آپ کوئی ایپلی کیشنز اپ لوڈ نہیں
+        کیا
+    right_sidebar:
+      news: خبریں
+      all: تمام
+      read_more: مزید پڑھیں
+    footer:
+      footer_text: datings کے لئے بین الاقوامی سماجی تفریح ​​نیٹ ورک "Flutylove"
+      privacy: نجی معلومات کی حفاظتی
+      terms: شرائط
+      feedback: کی رائے
+      abuse: بدسلوکی
+    languages_select_modal:
+      available_languages: دستیاب زبانوں
+    site_map_modal:
+      site_map: ویب سائٹ کا نقشہ
+      faq: عمومی سوالات
+      about: بارے
+      static_pages: جامد صفحات
+      common_pages: عام صفحات
+      user_pages: صارف صفحات
+      terms: شرائط
+      privacy: نجی معلومات کی حفاظتی
+      people: لوگ
+      user_applications: درخواستیں
+      user_requests: درخواستیں
+      news: خبریں
+      feedback: کی رائے
+      abuse: بدسلوکی
+      chats: چیٹس
+      videos: ویڈیوز
+      photo_albums: تصویر یلبموں
+      notes: نوٹس
+    pagination_link:
+      next_page: اگلا صفحہ
+    user_edit_menu:
+      content: مواد
+      profile: پروفائل
+      site_settings: سائٹ کی ترتیبات
+      privacy: نجی معلومات کی حفاظتی
+      services: سروسز
+    activities_navigation:
+      all: تمام
+      photos: فوٹو
+      photo_albums: تصویر یلبموں
+      notes: نوٹس
+      videos: ویڈیوز
+    notifications_navigation:
+      all: تمام
+      likes: پسندیدگیاں
+      friend_requests: دوست کی درخواست
+      profile_views: پروفائل خیالات
+      photo_album_views: فوٹو پڑھا گیا
+    user_to_friend_connections_navigation:
+      friends: دوست
+      friends_online: دوست آن لائن
+      outcome_requests: نتائج درخواستوں
+      income_requests: انکم درخواستوں
+    user_applications_navigation:
+      all: تمام
+      new: نیا
+      popular: مقبول
+      often_installed: اکثر نصب
+      manage: انتظام کریں
+    user_requests_navigation:
+      all: تمام
+      popular: مقبول
+    user_navbar_menu:
+      sign_up: سائن اپ کریں
+    email_signature:
+      info: معلومات
+      mailer: میلر
+      technoelegance: Technoelegance لمیٹڈ
+    translations:
+      select_gender: صنفی منتخب
+      select_orientation: واقفیت منتخب
+      select_search_for: منتخب کریں تلاش
+    need_to_sign_in_modal:
+      you_need_to_sign_in: آپ اس کارروائی سے پہلے سائن ان کرنا
+    sign_up_methods:
+      usual_register_link: ہمیشہ کی رجسٹریشن
+      register_text: "٪ علاوہ {usual_registration} آپ کو سب سے زیادہ مقبول کی خدمات
+        اور سوشل نیٹ ورک کے ذریعے رجسٹر کر سکتے ہیں"
+    bootstrap_gallery:
+      next: اگلا
+    user_notification_title:
+      wrote_message_to_you: آپ کو پیغام لکھا
+      viewed_your_profile: پیغام سے
+      liked_your_photo: آپ کی تصویر کو پسند کیا
+      liked_your_note: آپ کے نوٹ کو پسند کیا
+      liked_your_request: آپ کی درخواست کو پسند کیا
+      liked_your_video: آپ ویڈیو پسند کیا
+      liked_your_application: آپ کی درخواست کو پسند کیا
+      requested_a_friendship: ایک دوستی کی درخواست کی گئی
+  authentications:
+    authentication:
+      turn_on: آن کریں
+      turn_off: کو بند کر دیں
+      turned_on: کر دیا گیا
+      turned_off: بند کر دیا گیا
+    index:
+      enabled_services: سہولت مہیا کی خدمات
+  users:
+    profile:
+      submit: محفوظ کریں
+      name: نام
+      meet_with: سے ملاقات
+      gender: صنف
+      type_in_your_location: آپ کے شہر میں ٹائپ کریں
+      about_me: "(اس کے علاوہ مندرجہ ذیل فارم کو)"
+      sex_keywords: جنسی تعلقات میں شوق
+      enter_your_name: اپنا نام درج
+      more_options: مزید
+      orientation: واقفیت
+      birth_date: پیدائش کی تاریخ
+      location: مقام
+      intimacy: استمتاع
+      in_age: عمر میں
+      from: سے
+      to: کرنے
+      interests: شوق
+      height: اونچائی
+      weight: وزن
+      body_type: جسمانی قسم
+      hair_color: بالوں کا رنگ
+      relationship: تعلقات
+      children: بچوں
+      living: رہنا
+      education: تعلیم
+      jobs: ایوب
+      income: انکم
+      languages: زبانیں
+      smoking: تمباکو نوشی
+      alcohol: شراب
+      drugs: ڈرگز
+      contacts: رابطے
+      contact_name: رابطے کا نام
+      contact_value: رابطہ قدر
+      save: محفوظ کریں
+      about_yourself: اپنے بارے میں
+    settings:
+      submit: محفوظ کریں
+      locale: انٹرفیس کی زبان
+      interface_language: انٹرفیس کی زبان
+      time_zone: ٹائم زون
+    dialog_modal:
+      send_message: پیغام بھیجیں
+    index:
+      users: صارفین
+      clear_search: سرچ ختم کریں تلاش کریں
+    dashboard:
+      hello: ہیلو
+      here_some_of_your_statistics: یہاں آپ کے اعداد و شمار میں سے کچھ
+      chats: چیٹس
+      messages: پیغامات
+      photos: فوٹو
+      videos: ویڈیوز
+      notes: نوٹس
+      photo_albums: تصویر یلبموں
+    avatar:
+      photo: تصویر
+      uploading_file: اپ لوڈ کی فائل
+      handling_file: ہینڈلنگ کی فائل
+      drag_and_drop_your_file: ڈریگ اور ڈراپ آپ کی فائل
+      here: یہاں
+      or: یا
+      upload_file: اپ لوڈ فائل
+      from_other_sites: دیگر سائٹس سے
+      write_down_link_for_your_image: آپ کی تصویر کا لنک لکھیں
+      upload: اپ لوڈ کریں
+      from_facebook: فیس بک سے
+      turn_on_facebook: بک پر ٹرن
+      you_can_upload_your_photos_from_facebook: فیس بک سے اپنی تصاویر اپ لوڈ کر سکتے
+      from_vkontakte: حفاظت سے
+      you_can_upload_your_photos_from_vkontakte: حفاظت سے اپنی تصاویر اپ لوڈ کر سکتے
+      turn_on_vkontakte: حفاظت پر بند کر دیں
+      from_instagram: Instagram سے
+      you_can_upload_your_photos_from_instagram: Instagram سے آپ کی تصاویر اپ لوڈ
+        کر سکتے
+      turn_on_instagram: Instagram پر ٹرن
+      from_dropbox: ڈراپ باکس سے
+      you_can_upload_your_photos_from_dropbox: ڈراپ باکس سے اپنی تصاویر اپ لوڈ کر
+        سکتے
+      turn_on_dropbox: ڈراپ باکس پر بند کر دیں
+      edit_photo: تصویر میں ترمیم کریں
+      delete_photo: ڈیلیٹ تصویر
+      are_you_sure: تمہیں یقین ہے؟
+    available_photos_modal:
+      available_photos: دستیاب فوٹو
+    update:
+      your_password_was_successfully_changed: کامیابی سے تبدیل کر دیا گیا
+      your_profile_was_successfully_updated: کامیابی سے اپ ڈیٹ کر دیا گیا تھا
+    edit_photo:
+      edit_photo: تصویر میں ترمیم کریں
+      crop: فسل
+      close: بند کریں
+      save_changes: تبدیلیوں کو محفوظ کریں
+    contact:
+      contact_name_placeholder: فیس بک / اسکائپ / وی / وغیرہ
+      contact_value_placeholder: URL / نک / ID / وغیرہ
+    user:
+      about_me: میرے بارے میں
+      orientation: واقفیت
+      meet_with: سے ملاقات
+      desirable_age: مطلوبہ عمر
+      from: سے
+      to: کرنے
+      interests: شوق
+      height: اونچائی
+      sm: SM
+      kg: کلو
+      body_type: جسمانی قسم
+      hair_color: بالوں کا رنگ
+      relationship: تعلقات
+      children: بچوں
+      living: رہنا
+      education: تعلیم
+      jobs: نوکریاں
+      income: انکم
+      languages: زبانیں
+      smoking: تمباکو نوشی
+      alcohol: شراب
+      drugs: ڈرگز
+      contacts: رابطے
+    user_info:
+      offline: حاضر
+      online: آن
+      age: عمر
+    loading_modal_images:
+      loading_images: لوڈنگ تصاویر
+    password_form:
+      new_password: نیا پاس ورڈ
+      confirm_new_password: نئے پاس ورڈ کی توثیق کریں
+      old_password: پرانا پاس ورڈ
+    show:
+      photos: فوٹو
+      all: تمام
+      videos: ویڈیوز
+      notes: نوٹس
+      view: لنک
+    dropbox_token_form:
+      key: کلید
+      paste_recieved_key: جوڑیں recieved اعلی چابی
+      submit: جمع کرائیں
+    contents:
+      users_which_i_like: جو میں نے جیسے صارفین
+      all: تمام
+    more_profile_info:
+      photo_albums: تصویر یلبموں
+      view_all_photo_albums: تمام فوٹو البمز دیکھیں
+      create_more: زیادہ بنائیں
+      videos: ویڈیوز
+      view_all_videos: لنک کے تمام ویڈیوز
+      notes: نوٹس
+      view_all_notes: تمام ملاحظہ نوٹوں
+      requirements_lists_to_partner: تقاضے پارٹنر فہرستوں
+      requirement: ضرورت
+      view_all_requirements_lists: تمام ملاحظہ ضروریات فہرستوں
+      profile_verification: پروفائل تصدیقی
+      your_profile_is_successfully_verified: کامیابی سے تصدیق کی جاتی ہے
+      create: بنائیں
+      you_have_not_any_requirements_lists_yet: ابھی تک نہیں کسی بھی تقاضے کی فہرست
+        ہے
+      you_have_not_any_notes_yet: ابھی تک نہیں کسی بھی نوٹ کی ہے
+      you_have_not_any_photo_albums_yet: ابھی تک کسی بھی تصویر یلبموں ہے
+      you_have_not_any_videos_yet: ابھی تک نہیں کسی ویڈیوز
+      your_profile_is_not_verified_yet: کی ابھی تک توثیق نہیں ہے
+      verify_through_twitter: ٹویٹر کے ذریعے کی تصدیق کریں
+      verify_through_facebook: فیس بک کے ذریعے کی تصدیق کریں
+      verify_through_mail_ru: Mail.ru کے ذریعے کی تصدیق کریں
+    privacy:
+      privacy: نجی معلومات کی حفاظتی
+  searches:
+    form:
+      location: مقام
+      from: سے
+      to: کرنے
+      age: عمر
+      gender: صنف
+    form_content:
+      city: سٹی
+      gender: صنف
+      to: کرنے
+      online: آن
+      verified: تصدیق شدہ
+      has_avatar: اوتار ہے
+      region: ریجن
+      more: مزید
+      country: ملک
+      about_me: میرے بارے میں
+      interests: شوق
+      languages: زبانیں
+      names: ناموں
+      height: اونچائی
+      from: سے
+      weight: وزن
+      body_type: جسمانی قسم
+      relationship: تعلقات
+      hair_color: بالوں کا رنگ
+      education: تعلیم
+      orientation: واقفیت
+      children: بچوں
+      living: رہنا
+      smoking: تمباکو نوشی
+      alcohol: شراب
+      drugs: ڈرگز
+      income: انکم
+    show:
+      users: صارفین
+      clear_search: سرچ ختم کریں تلاش کریں
+  welcome:
+    index:
+      people: لوگ
+      requests: درخواستیں
+      user_applications: درخواستیں
+      about: بارے
+      features: کی خصوصیات
+      registration: رجسٹریشن
+      welcome_main_text: جگہ ہے جہاں آپ کو آپ کی کامل محبت کو تلاش کر سکتے ہے
+      find_more: تلاش کریں
+      about_title: Flutylove datings کے لئے بین الاقوامی سماجی تفریح ​​نیٹ ورک ہے
+      about_text: آپ تفریحات اور datings کے لئے استعمال کر سکتے ہیں کہ بہت سے خصوصیات
+        ہیں!
+      find_more_features: زیادہ خصوصیات تلاش کریں
+      at_our_service: ہماری سروس کی خصوصیات
+      many_languages: کئی زبانوں
+      text_about_many_languages: 70 سے زائد زبانوں ترجمہ کیا جاتا ہے
+      check_it_out: یہ چیک کریں
+      videochats: Videochats
+      try_it_now: ابھی آزمائیں
+      search: تلاش
+      text_about_search: آپ ایک سے زیادہ پیرامیٹرز کے ساتھ تلاش کر سکتے ہیں اور یہ
+        مفت ہے!
+      watch_this: دیکھیئے اس
+      more_features: مزید خصوصیات
+      text_about_more_features: آپ ویڈیوز، کھیل کھیل دیکھنے اور بہت سے دیگر چیزیں
+        کر سکتے ہیں!
+      register_and_learn_more: رجسٹر اور مزید جانیں
+      install_our_apps: مقبول پلیٹ فارم پر سے ہماری ایپس انسٹال کریں
+      register_header: رجسٹریشن
+  feedbacks:
+    new:
+      feedback_title: کی رائے
+    form:
+      feedback_content: تاثرات مواد
+      close: بند کریں
+      send: ہے اپنا
+      feedback_recaptcha: ہیتی
+      cancel: منسوخ
+    success:
+      success_feedback: آپ کا شکریہ! ہم آپ کی رائے recieved ہے.
+      close: بند کریں
+      cancel: منسوخ
+      more: زیادہ بھیج
+  abuses:
+    new:
+      abuse_title: بدسلوکی
+    form:
+      abuse_content: بدسلوکی مواد
+      abuse_title: بدسلوکی
+      close: بند کریں
+      send: ہے اپنا
+      abuse_recaptcha: ہیتی
+      abuse_link: لنک
+      cancel: منسوخ
+    success:
+      success_abuse: آپ کا شکریہ! ہم نے آپ کی بدسلوکی کے recieved ہے.
+      close: بند کریں
+      cancel: منسوخ
+      more: زیادہ بھیج
+  recaptcha:
+    errors:
+      verification_failed: میں ناکام ہیتی
+      recaptcha_unreachable: ہیتی تک نہیں پہنچا جاسکتا ہے
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: "!"
+      we_have_just_launched_our_service_text: آج ہم اپنے سروس شروع تو سب کر سکتے ہیں
+      sign_up: سائن اپ
+      and_use_it: اور اس کا استعمال.
+      wishes_and_requests: آپ کو کسی بھی کی خواہشات یا درخواستوں ہے، تو آپ سائن اپ
+        اور اسے لکھا کر سکتے ہیں
+      here: یہاں
+      with_love: محبت کے ساتھ،
+      flutylove_team: Flutylove ٹیم
+    index:
+      read_more: مزید پڑھیں
+  chats:
+    panel_head:
+      online: آن
+      offline: حاضر
+    pagination_link:
+      next_page: اگلا صفحہ
+    form:
+      message_text: پیغام متن
+    form_additions:
+      submit: جمع کرائیں
+      videochat: videochat کے
+    show:
+      messages: پیغامات
+    index:
+      messages: پیغامات
+    videochat_request_link:
+      connect_to_videochat: کنیکٹ ویڈیو چیٹ
+    modal_form:
+      send_message: پیغام بھیجیں
+      recipient: وصول کنندہ
+      message: پیغام
+      close: بند کریں
+      submit: جمع کرائیں
+    waiting_video_answer_button:
+      waiting_for_response: کے جواب کا انتظار ہے ...
+    chat_created:
+      send_message: پیغام بھیجیں
+      message_was_sent: پیغام بھیجا گیا تھا
+      close: بند کریں
+  messages:
+    pagination_link:
+      next_page: اگلا صفحہ
+    form:
+      message_text: پیغام متن
+  notifications:
+    user_to_friend_connection:
+      action: ایکشن
+    notification:
+      offline: حاضر
+      online: آن
+    like:
+      action: ایکشن
+    photo_album_view:
+      action: ایکشن
+    user_view:
+      action: ایکشن
+  user_applications:
+    user_application:
+      who_uploaded: طرف سے اپ لوڈ
+      all_uploaded_applications_by: کی طرف سے تمام اپ لوڈ ایپلی کیشنز
+    form:
+      name: نام
+      user_application_name: درخواست کا نام
+      description: تفصیل
+      description_text: تفصیل متن
+      iframe_url: iframe کی یو آر ایل
+      icon_for_application: درخواست کا آئکن
+      upload_icon: ڈاؤن لوڈ، Icon
+      public: عوامی؟
+      category_name: زمرہ
+      create: بنائیں
+      edit: ترمیم کریں
+    show:
+      application: درخواست
+      return_to_uploaded_applications: درخواست اپ لوڈ
+    manage:
+      installed_applications: نصب شدہ اطلاقات
+      uploaded_applications: اپ لوڈ ایپلی کیشنز
+      all: تمام
+    index:
+      applications_uploaded_by: درخواستیں طرف سے اپ لوڈ
+      create_new: نیا بنائیں
+    installed:
+      installed_applications: نصب شدہ اطلاقات
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: قول سے پہلے یہ درخواست آپ
+        کو پہلے سائن ان کرنے کی ضرورت ہے
+    need_to_install:
+      need_to_install_first: تم پہلے اس درخواست کو انسٹال کرنے کی ضرورت ہے
+      install_application: درخواست انسٹال کریں
+  likes:
+    index:
+      liked_items: پسند اشیاء
+  videos:
+    index:
+      videos: ویڈیوز
+      return_to_edit_profile: ایڈیٹنگ پروفائل پر
+      create_new: نیا بنائیں
+    video:
+      edit: ترمیم کریں
+      are_you_sure: تمہیں یقین ہے؟
+      delete: چھپانا
+    modal_form:
+      create_new_video: نئی ویڈیو بنائیں
+      close: بند کریں
+      create: بنائیں
+    form_content:
+      name: نام
+      video_name: ویڈیو کا نام
+      source: سرایت کرنے کا کوڈ کا یو آر ایل
+      video_url_or_embed_code: ویڈیو شامل کوڈ کا ویڈیو یو آر ایل
+    show:
+      video: ویڈیو
+      edit_video: تصیح ویڈیو
+    edit:
+      edit_video: تصیح ویڈیو
+      view_video: ویڈیو دیکھیں
+    form:
+      edit: ترمیم کریں
+  photo_albums:
+    index:
+      photo_albums: تصویر یلبموں
+      return_to_editing_profile: ایڈیٹنگ پروفائل پر
+      create_new: نیا بنائیں
+    photo_album:
+      edit: ترمیم کریں
+      create: بنائیں
+      are_you_sure: تمہیں یقین ہے؟
+      delete: چھپانا
+    edit:
+      return_to_photo_albums: تصویر یلبموں کے لئے
+    form_content:
+      name: نام
+      photo_album_name: تصویر البم کا نام
+    form:
+      edit: ترمیم کریں
+      create: بنائیں
+    photo_album_uploader:
+      drag_and_drop_your_file: ڈریگ اور ڈراپ آپ کی فائل
+      here: یہاں
+      or: یا
+      upload_file: اپ لوڈ فائل
+      from_other_sites: دیگر سائٹس سے
+      write_down_link_for_your_image: آپ کی تصویر کا لنک لکھیں
+      upload: اپ لوڈ کریں
+      from_facebook: فیس بک سے
+      turn_on_facebook: بک پر ٹرن
+      you_can_upload_your_photos_from_facebook: فیس بک سے اپنی تصاویر اپ لوڈ کر سکتے
+      from_vkontakte: حفاظت سے
+      you_can_upload_your_photos_from_vkontakte: حفاظت سے اپنی تصاویر اپ لوڈ کر سکتے
+      turn_on_vkontakte: حفاظت پر بند کر دیں
+      from_instagram: Instagram سے
+      you_can_upload_your_photos_from_instagram: Instagram سے آپ کی تصاویر اپ لوڈ
+        کر سکتے
+      turn_on_instagram: Instagram پر ٹرن
+      from_dropbox: ڈراپ باکس سے
+      you_can_upload_your_photos_from_dropbox: ڈراپ باکس سے اپنی تصاویر اپ لوڈ کر
+        سکتے
+      turn_on_dropbox: ڈراپ باکس پر بند کر دیں
+    show:
+      photo_album: تصویر البم
+      return_to_photo_albums: تصویر یلبموں کے لئے
+    modal_form:
+      create_new_photo_album: نیا فوٹو البم بنائیں
+      close: بند کریں
+      create: بنائیں
+  user_requests:
+    form:
+      content: مواد
+      edit: ترمیم کریں
+      create: بنائیں
+  notes:
+    index:
+      notes: نوٹس
+      return_to_edit_profile: ایڈیٹنگ پروفائل پر
+      create_new: نیا بنائیں
+    note:
+      edit: ترمیم کریں
+      are_you_sure: تمہیں یقین ہے؟
+      delete: چھپانا
+    show:
+      note: نوٹ
+    form_content:
+      content: مواد
+      note_content: نوٹ مواد
+      edit: ترمیم کریں
+      create: بنائیں
+    edit:
+      view_note: لنک نوٹ
+  user_to_search_connections:
+    index:
+      requirements_lists: تقاضے فہرستوں
+      return_to_editing_profile: ایڈیٹنگ پروفائل پر
+      create_new: نیا بنائیں
+    user_to_search_connection:
+      edit: ترمیم کریں
+      are_you_sure: تمہیں یقین ہے؟
+      delete: چھپانا
+    edit:
+      edit_requirements_list: تصیح ضروریات فہرستوں
+      return_to_requirements_lists: ضروریات فہرستوں میں
+      view_requirements_list: ضروریات فہرست
+    form_content:
+      name: نام
+      name_of_your_requirements_list: آپ کی ضروریات فہرست کا نام
+    form:
+      edit: ترمیم کریں
+    show:
+      requirements_list: تقاضے فہرست
+      return_to_requirements_lists: ضروریات فہرستوں میں
+      edit_requirements_list: تصیح ضروریات فہرست
+  photos:
+    index:
+      photos: فوٹو
+      return_to_profile: پروفائل پر
+  errors:
+    messages:
+      already_confirmed: پہلے سے ہی تصدیق کی گئی تھی، میں سائن ان کرنے کی کوشش کریں
+      confirmation_period_expired: "٪ {مدت} کے اندر اندر اس بات کی تصدیق کرنے کی ضرورت
+        ہے ایک نیا درخواست براہ مہربانی"
+      expired: میعاد ختم ہوگئی ہے، ایک نئی ایک کی درخواست کریں
+      not_found: پایا نہیں
+      not_locked: مقفل نہیں کیا گیا تھا
+      not_saved:
+        one: '1 خرابی بچائے جانے سے اس٪ {وسیلہ} ممنوع:'
+        other: "٪ {شمار} غلطیاں اس٪ {وسیلہ} ممنوع بچائے جانے سے:"
+    bad_request:
+      bad_request: برا گذارش
+      request_result: گذارش نتیجہ
+      bad_request_description: کی وجہ بظاہر کلائنٹ کی خرابی کی
+      go_to_root: جڑ پر جائیں
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable ہستی
+      request_result: گذارش نتیجہ
+      unprocessable_entity_description: اچھی طرح سے قائم کیا گیا تھا لیکن اس کی وجہ
+        لسانی غلطیوں کی پیروی کی جائے کرنے سے قاصر تھا
+      go_to_root: جڑ پر جائیں
+    not_found:
+      not_found: نہیں ملا
+      request_result: گذارش نتیجہ
+      not_found_description: نہیں مل سکا لیکن مستقبل میں دستیاب ہو سکتی ہے
+      go_to_root: جڑ پر جائیں
+    forbidden:
+      forbidden: حرام
+      request_result: گذارش نتیجہ
+      forbidden_description: ایک درست درخواست تھی، لیکن سرور اس کا جواب کرنے سے انکار
+        کیا ہے
+      go_to_root: جڑ پر جائیں
+    internal_server_error:
+      internal_server_error: اندرونی سرور کی خرابی
+      request_result: گذارش نتیجہ
+      internal_server_error_description: کچھ غلط ہو گیا. ہم جتنی جلدی ممکن ہو اسے
+        درست کریں گے.
+      go_to_root: جڑ پر جائیں
+  pages:
+    privacy:
+      privacy: Flutylove حفاظتی پالیسی
+      general_provisions: جنرل دفعات
+      p_1_1: 1.1. ان ضوابط محدود ذمہ داری کمپنی "Technoelegance" کی ایک سرکاری دستاویز،
+        پر واقع ہیں 101000، ماسکو، Ulanskiy pereulok 13، stroeniye 4، pomeshcheniye
+        1 (آخرت Flutylove، کمپنی، ہم)، اور ڈیٹا پروسیسنگ اور افراد کی معلومات کی حفاظت
+        کے طریقہ کار کا تعین جو 18 سال کی عمر تک پہنچ گیا ہے، اور وہ لوگ جو کا استعمال
+        کرتے ہیں ویب سائٹ https://flutylove.com (ویب سائٹ آخرت) اور اس کی خدمات (صارفین
+        آخرت).
+      p_1_2: 1.2. ان ضوابط کا مقصد وجہ غیر مجاز رسائی اور انکشاف سے، ذاتی ڈیٹا سمیت
+        صارف کی معلومات کے تحفظ کو یقینی بنانے کے لئے ہے.
+      p_1_3: 1.3. جمع، اسٹوریج، تقسیم اور ویب سائٹ کے صارف کی معلومات کی حفاظت کے
+        ساتھ منسلک تعلقات ان ضوابط، کمپنی کی دیگر سرکاری دستاویزات اور روسی فیڈریشن
+        کے موجودہ قانون سازی کے ذریعے کنٹرول کر رہے ہیں.
+      p_1_4: 1.4. ضابطے، ایک عوامی دستاویز ہیں جن میں موجودہ متن، لنک http://flutylove.com/pages/privacy
+        مندرجہ ذیل ہے جب کسی بھی انٹرنیٹ صارف کے لئے دستیاب ہے. کمپنی ان ضوابط پر
+        نظر ثانی کرنے کا حق ہے. کیس میں تبدیلیوں کے ضابطے بنائے جاتے ہیں، کمپنی کو
+        مؤثر ہونے سے پہلے مستقل پتہ http://flutylove.com/pages/privacy ویب سائٹ پر
+        ضابطے کے نئے ورژن کی پوسٹنگ، بعد میں 10 سے زیادہ نہیں دن کی طرف سے صارفین
+        کو مطلع کریں گے تبدیلیوں کی تاریخ. ضابطے کے پچھلے ورژن کمپنی کی دستاویزات
+        محفوظ شدہ دستاویزات میں جمع کیے جاتے ہیں.
+      p_1_5: 1.5. ان قواعد و ضوابط تیار کیا گیا ہے اور صارف کے معاہدے کے مطابق میں
+        استعمال کیا جاتا ہے. ان ضوابط اور کمپنی کے دیگر سرکاری دستاویزات کے درمیان
+        کسی بھی خلاف ورزی کی صورت میں، ان ضوابط کا نفاذ کیا جانا چاہیے.
+      p_1_6: 1.6. ویب سائٹ کا استعمال کرتے ہوئے، آپ کو اس کی رازداری کی پالیسی کی
+        شرائط و ضوابط سے اتفاق کرتا ہوں. براہ مہربانی انہیں احتیاط سے پڑھیں. آپ کو
+        اس کی رازداری کی پالیسی کی شرائط کے ساتھ متفق نہیں ہوں، یا اگر آپ 18 سال کی
+        عمر تک نہیں پہنچے ہیں، آپ کو ویب سائٹ اور اس کی خدمات کا استعمال نہیں کر سکتے.
+        ویب سائٹ کا استعمال کرتے ہوئے، قطع نظر کہ آپ Flutylove کے رجسٹرڈ صارف ہیں
+        یا نہیں کی، آپ تصدیق کریں کہ آپ مکمل طور پر اس کی رازداری کی پالیسی کو قبول،
+        اور اس پر عمل کرنے سے اتفاق.
+      p_2_1: '2.1. ویب سائٹ Flutylove استعمال کرنے کے لئے، آپ کو رجسٹر کرنے کی ضرورت
+        ہے. نام، ای میل پتہ، صنفی، تاریخ پیدائش، مقام کی معلومات: مندرجہ ذیل معلومات
+        رجسٹریشن کے دوران بتائی جانی چاہیے. صارف اس کی / اس کی اپنی خواہش پر اضافی
+        ذاتی تفصیلات فراہم کر سکتے ہیں. صارف میں ترمیم یا کسی بھی وقت ذاتی معلومات
+        کی تازہ کاری ہو سکتی ہے. کمپنی تبدیل جنس اور صارف کی تاریخ پیدائش کے معاملے
+        میں اضافی حمایت دستاویزات کی درخواست کرنے کا حق ہے.'
+      p_2_2: 2.2. ، ویب سائٹ اور اس کی خدمات، کمپنی تک رسائی کی اجازت دی ایک مناسب
+        انداز میں اور نیک نیتی سے کام کرنے سے، سمجھتا یوزر کہ احساس کی ویب سائٹ پر
+        رجسٹریشن کے لیے جو 18 سال سے زیادہ کی عمر ہونا ضروری ہے؛ اس ویب سائٹ پر رجسٹر
+        اور اسے استعمال کرنے کے قابل ہو جائے کرنے کے لئے تمام ضروری حقوق کا حامل ہے؛
+        اپنے بارے میں درست معلومات کے اشارہ کرتا ہے / خود کی ویب سائٹ کی خدمات کے
+        استعمال کے لئے درخواستوں مطابق؛ صارف کی طرف سے فراہم کی ویب سائٹ پر ذاتی معلومات،،
+        ویب سائٹ اور انٹرنیٹ صارفین کے ساتھ ساتھ، کاپی کیا اور دوسرے صارفین کی طرف
+        سے تقسیم کیا جا سکتا ہے کے دوسرے صارفین کے لئے دستیاب ہو سکتا ہے کہ اس بات
+        سے آگاہ ہے؛ معلومات میں سے کچھ اقسام، دوسرے صارفین کو منتقل کیا، صارف کی طرف
+        سے ہٹا نہیں کیا جا سکتا ہے کہ اس بات سے آگاہ ہے؛ ان ضوابط سے واقف ہے، ان کے
+        ساتھ اتفاق کرتے ہیں اور مخصوص حقوق اور ذمہ داریوں چلاتی.
+      p_2_3: 2.3. کمپنی ایسی تصدیقی صارف کو ادارے کی ذمہ داریوں کو پورا کرنے کے لئے
+        ضروری ہے جب مقدمات کی رعایت کے ساتھ، موصول (جمع ہوئے) صارفین کے بارے میں معلومات
+        کی توثیق نہیں کرتا ہے.
+      information_processing_objectives: اطلاعاتی پروسیسنگ کے مقاصد
+      p_3_1: 3.1. کمپنی کی ویب سائٹ اور اس کی خدمات کے استعمال کے لئے صارفین کے لئے
+        کمپنی کی ذمہ داریوں کو پورا کرنے کے لئے میں، معلومات ان کے ذاتی ڈیٹا سمیت
+        صارفین، کے بارے میں پروسیسنگ کی جاتی ہیں.
+      p_3_2: ذاتی ڈیٹا مضامین کے حقوق کے تحفظ کے لئے مجاز اتھارٹی کو اطلاع دیئے بغیر
+        ذاتی ڈیٹا کی پروسیسنگ باہر لے جانے کا حق ہے.
+      structure_of_the_user_information: صارف کی معلومات کی ساخت
+      p_4_1: '4.1. صارفین کی ذاتی معلومات شامل ہیں:'
+      p_4_1_1: 4.1.1. نام، ای میل پتہ، صنفی، پیدائش، مقام کی معلومات، اور فون نمبر،
+        صارفین کی طرف سے فراہم کی اور ویب سائٹ پر رجسٹریشن کے لئے صرف کافی ہونا چاہیے
+        ہیں جس کی تاریخ؛
+      p_4_1_2: 4.1.2. (مثال فوٹو، نقصان دہ عادات وغیرہ کے بارے میں معلومات کے لئے)
+        صارف کی طرف سے فراہم کی جاتی ہے جس میں معلومات؛
+      p_4_1_3: 4.1.3. اس کے علاوہ صارف معاہدے سے دکھائے جانے والے، صارفین کو کمپنی
+        کی ذمہ داریوں کو پورا کرنے کے لئے کمپنی کی درخواست کے مطابق صارف کی طرف سے
+        فراہم. کمپنی شناختی دستاویز یا نام، صنفی اور تاریخ پیدائش استعمال کسی بھی
+        دیگر دستاویزات، کے ساتھ ساتھ دیگر اضافی معلومات، جس میں کمپنی کی صوابدید پر،
+        ضروری ہو جائے گا کی ایک کاپی اور صارف کی درخواست کرنے کا حق، خاص طور پر، ہے
+        ایسے صارف کی شناخت کے لیے کافی ہے اور تیسرے فریق کے حقوق کے غلط استعمال اور
+        خلاف ورزی کو ختم کرے گی.
+      p_4_2: '4.2. کمپنی کی ویب سائٹ انتظامیہ کی طرف سے دوسرے صارف کی معلومات پروسیسنگ
+        بھی شامل ہے جس سے صارفین، کے بارے میں دیگر معلومات پر عملدرآمد:'
+      p_4_2_1: 4.2.1. عام ڈیٹا، جب ویب سائٹ اور صارف کے بعد کے اعمال تک رسائی حاصل
+        کرنے کی خود کار طریقے HTTP سرور کی طرف سے موصول (میزبان کے آئی پی ایڈریس،
+        صارف کے آپریٹنگ سسٹم کی قسم، ویب سائٹ کے صفحات صارف کی طرف سے دورہ کیا).
+      p_4_2_2: 4.2.2. جب استعمال کرتے ہوئے بک مارکس (کوکیز) ویب سائٹ تک رسائی حاصل
+        کرنے سے خود کار طریقے سے موصول ہوئی ہے جس میں معلومات؛
+      p_4_2_3: 4.2.3. جس ویب سائٹ پر صارف کی کارروائیوں کے نتیجے میں موصول ہوتا ہے
+        معلومات؛
+      p_4_2_4: 4.2.4. جس ویب سائٹ پر دوسرے صارفین کے اقدامات کے نتیجے میں موصول ہونے
+        کے بارے میں معلومات.
+      users_information_processing: صارف کا اطلاعاتی پروسیسنگ
+      p_5_1: '5.1. ذاتی ڈیٹا کی پروسیسنگ کے مندرجہ ذیل اصولوں کی بنیاد پر کر رہی ہے:
+        ا) جائز مقاصد اور ذاتی ڈیٹا کی پروسیسنگ کے اسباب؛ ب) ایمانداری؛ ج) کے مقاصد
+        کے ساتھ ذاتی ڈیٹا کی پروسیسنگ کے مقاصد کی تعمیل پہلے سے مقرر اور ذاتی ڈیٹا،
+        کے ساتھ ساتھ کمپنی کی اسناد کی تعمیل جمع کرتے وقت اعلان کر دیا؛ د) حجم اور
+        ذاتی ڈیٹا کی پروسیسنگ کی قسم، اور اس کی پروسیسنگ کے مقاصد کے ساتھ ذاتی ڈیٹا
+        کی پروسیسنگ کے اسباب کی تعمیل کی تعمیل؛ ای)، مطابقت کے مقاصد کے لئے پیدا کی
+        ڈیٹا بیس کے امتزاج کی نجی معلومات استعمال کی امانیتا.'
+      p_5_1_1: 5.1.1. صارف کی ذاتی معلومات کا مجموعہ ویب سائٹ پر کئے جب رجسٹر، کے
+        ساتھ ساتھ مستقبل میں جب صارف کو اس کی / اس کی اپنی پہل پر ویب سائٹ کے اوزار
+        کا استعمال کرتے ہوئے خود / خود کے بارے میں مزید معلومات کے اضافہ کر دیتی ہے.
+      p_5_1_2: 5.1.2. صارفین کی ذاتی معلومات الیکٹرانک شکل میں خصوصی طور پر ذخیرہ
+        اور مقدمات کا ذاتی ڈیٹا کی پروسیسنگ دستی قانون سازی کی ضروریات کو پورا کے
+        پیش نظر ضرورت ہے جہاں کی رعایت کے ساتھ، خود کار نظام کا استعمال کرتے ہوئے
+        کی طرف سے عملدرآمد کر رہے ہیں.
+      p_5_1_3: 5.1.3. صارف کی ذاتی معلومات کا اظہار ان ریگولیشنز اور صارف کے معاہدے
+        کی طرف سے فراہم صورتوں میں سوائے، کسی تیسرے فریق کو منتقل نہیں کر رہے ہیں.
+        صارف کی رضامندی کے ساتھ، ذاتی صارف ڈیٹا موصول ہونے والی معلومات کی رازداری
+        کی خدمات اور ایپلی کیشنز کو استعمال کرتے وقت، خاص طور پر، اس بات کا یقین کرنے
+        کے لئے ایک ذمہ داری سنبھالنے کی شرط کے تحت کمپنی کی تیسری counterparties پر
+        منتقل کیا جا سکتا ہے. قانون کے مطابق سرکاری حکام (مقامی حکام) کی درخواست پر
+        صارف کی ذاتی معلومات انتظامی طریقہ کار میں کیا جاتا ہے.
+      p_5_1_4: '5.1.4. ؛ ڈیٹا سیلف خارج کر صفحے سے ہیں: - جب ذاتی صارف ڈیٹا خارج کر
+        دیا جاتا - صفحہ خود خارج کر ہے؛ - صارف کی معلومات اور اس کے ذاتی صفحے کمپنی
+        کی طرف سے ہٹا دیا جاتا ہے. صارف خود کی طرف سے صفحے کو خارج کرنے کی صورت میں،
+        کمپنی 210 دن کے اندر اندر اس کے الیکٹرانک میڈیا پر صارف کی ذاتی معلومات کا
+        ذخیرہ ذاتی صفحہ کو ہٹا دیا جاتا ہے کے بعد. ذاتی صفحہ کو ہٹا دیا جاتا ہے کے
+        بعد ذاتی ڈیٹا 210 دنوں کی میعاد ختم ہونے پر خارج کر دیا جاتا. یہاں تک کہ جب
+        اس کی مدت ختم، صارف کی ذاتی صفحے کو بحال کرنے کا حق ہے.'
+      users_rights_and_obligations: صارف کے حقوق اور ذمہ داریوں
+      p_6_1: '6.1. رکن کا حق ہے:'
+      p_6_1_1: 6.1.1. لاگ ان معلومات اور پاس ورڈ کے استعمال کے ساتھ ویب سائٹ پر اس
+        کی ذاتی صفحے میں ترمیم کر کے پابندیوں کے بغیر اس کی / اس کے بارے میں رسائی
+        اور مفت کے انچارج؛
+      p_6_1_2: 6.1.2. آزادانہ طور پر کی حالت اس طرح کی تبدیلیوں اور اصلاحات پر مشتمل
+        ہے کہ تاریخ کی ویب سائٹ پر صارف کی ذاتی صفحہ پر معلومات میں تبدیلی اور اصلاحات،
+        بنانے، اپ ٹو تاریخ اور سچ معلومات؛
+      p_6_1_3: 6.1.3. ویب سائٹ پر ذاتی صفحہ سے معلومات ہٹانے؛
+      p_6_1_4: 6.1.4. اس طرح کے ڈیٹا کو غیر قانونی طور موصول ہوئی نامکمل، فرسودہ،
+        غلط، ہیں یا پروسیسنگ کے اعلان مقاصد کے لئے یا تو ضروری نہیں ہیں تو زیادہ مخصوص
+        معلومات، بلاک کے حاصل کرنے یا ذاتی ڈیٹا کو حذف کرنا کمپنی، میری درخواست ہے
+        کہ ان کے پیرا 6.1.3 میں مخصوص اعمال ضابطے آزادانہ طور پر نافذ نہیں کیا جا
+        سکتا؛
+      p_6_1_5: 6.1.5. کی درخواست کی بنیاد پر، اس کا / اس کی ذاتی ڈیٹا کی پروسیسنگ
+        کے حوالے سے کمپنی سے معلومات حاصل.
+      p_6_2: '6.2. کسی بھی ویب سائٹ کے صارف رجسٹرڈ بارے میں مندرجہ ذیل معلومات رجسٹرڈ
+        صارف کے لئے ہمیشہ دستیاب ہے: صارف کا نام، صنف، عمر، پروفائل کی تصویر اور دیگر
+        معلومات یوزر اسے شائع کیا ہے تو.'
+      p_6_3: 6.3. کمپنی کی ویب سائٹ اس طرح کے ڈیٹا تک رسائی حاصل کی ہے جو دوسرے صارفین
+        کی طرف صارف کی ذاتی معلومات کے انکشاف کے لئے کوئی ذمہ داری نہیں دیتا.
+      p_6_4: 6.4. ذاتی ڈیٹا (دوسرے صارف کی معلومات) صارف کی ذاتی صفحے یا ویب سائٹ
+        سے صارف کی ذاتی صفحے کی برطرفی سے ہٹانے کی صورت میں، صارف کی معلومات کے دیگر
+        صارفین کی طرف سے کاپی یا دیگر صارفین کی صفحات پر محفوظ محفوظ ہے.
+      users_information_protection_measures: صارفین کی معلومات کے تحفظ کے اقدامات
+      p_7_1: 7.1. کمپنی کو یقینی بنانے کے کہ صارف کی ذاتی معلومات کو غیر مجاز رسائی
+        یا حادثاتی منسوخی، ترمیم، کو مسدود کرنے، کاپی، اور بازی سے کے ساتھ ساتھ دیگر
+        غیر مجاز اعمال سے محفوظ ہیں، تکنیکی تنظیمی اور قانونی اقدامات.
+      p_7_2: 7.2. صارف کا لاگ ان (کے ای میل ایڈریس یا موبائل نمبر) اور پاس ورڈ ویب
+        سائٹ تک رسائی کیلئے استعمال کر رہے ہیں. صارف اس معلومات کو خفیہ رکھنے کے لئے
+        ذمہ دار ہے. یوزر تیسری پارٹی کو لاگ ان اور پاس منتقل کر سکتے ہیں اور بھی اس
+        رازداری کو یقینی بنانے کے لئے اقدامات کرنا واجب ہے.
+      limitation_of_the_regulations_applicability: ضابطے لاگو ہونے کی حد
+      p_8: تیسرے فریقوں کے اقدامات اور انٹرنیٹ کے وسائل پر بڑھا دیا نہیں کر رہے ہیں.
+        کمپنی ہے جو انٹرنیٹ یا سائٹ کی سروسز کے ذریعے صارف کی معلومات تک رسائی حاصل
+        کی تیسری پارٹیوں کے اعمال کے لئے کوئی ذمہ داری نہیں دیتا. ویب سائٹ انتظامیہ
+        ذمہ دارانہ انداز میں ویب سائٹ پر پوسٹ کیا گیا معلومات کی رقم کے ساتھ مسئلہ
+        سے رجوع کرنے کا صارفین کو سفارش کی گئی ہے.
+      user_requests: صارف کی درخواستوں
+      p_9_1: '9.1. روس، 101000، ماسکو، Ulanskiy pereulok 13، stroeniye 4، pomeshcheniye
+        1 یا الیکٹرانک دستاویز کی شکل میں: صارفین مندرجہ ذیل پتہ پر تحریری شکل میں
+        ذاتی ڈیٹا کے استعمال کے حوالے سے درخواستوں سمیت کمپنی کو درخواستیں بھیجنے
+        کا حق ہے support@flutylove.com: ای میل کی طرف سے روسی فیڈریشن کے قانون سازی
+        کے مطابق میں ایک تعلیم یافتہ الیکٹرانک دستخط کی طرف سے دستخط،.'
+      p_9_2: '9.2. صارف کی درخواست مندرجہ ذیل معلومات ہونی چاہیے: صارف یا اس کے نمائندے
+        کی شناخت کے دستاویز کی تعداد؛ مندرجہ بالا دستاویز اور جاری کرنے کی اتھارٹی
+        کے معاملے کی تاریخ؛ آپریٹر کے ساتھ تعلقات میں صارف کی شرکت کی تصدیق کی معلومات
+        (خاص طور پر، کے صفحے پر لنک)؛ رکن کا یا اس کی / اس کے نمائندے کے دستخط.'
+      p_9_3: 9.3. کمپنی کے بارے میں غور کریں اور اس کا استقبال کیا بعد 30 دن کے اندر
+        اندر صارف کی درخواست کا جواب کرنے کے لئے کرتی.
+      p_9_4: 9.4. صارفین (تحریری یا الیکٹرانک درخواستوں) سے کمپنی کی طرف سے موصول
+        ہونے والی تمام خط و کتابت تفریق رسائی معلومات کے طور پر درجہ بندی کی ہے اور
+        صارف کی تحریری اجازت کے بغیر ظاہر نہیں کیا جا سکتا. صارف کی درخواست بھیجی
+        ہے اس بارے میں ذاتی ڈیٹا اور دیگر معلومات کو مختلف درخواست کے یا واضح طور
+        پر قابل اطلاق قانون کی طرف سے فراہم کی مثالوں میں جواب کے لئے مقابلے میں،
+        صارف کی خصوصی اجازت کے بغیر، نہیں استعمال کیا جا سکتا ہے.
+    terms:
+      terms: Flutylove صارف کا معاہدہ
+      about_terms: 'درمیان (کے ساتھ ساتھ اس کے ساتھ ساتھ دستاویزات کا حوالہ دیا، بشمول
+        حفاظتی پالیسی) روسی فیڈریشن کے سول کوڈ (بعد "معاہدے" کے طور پر کہا جاتا ہے)
+        کے آرٹیکل 428 کے مطابق میں آسنجن کا معاہدہ کر رہے ہیں جو عمر 18 سال تک پہنچ
+        گیا ہے انفرادی (بعد "یوزر" اور کمپنی کے طور پر کہا (یا "ہم") - ایک محدود ذمہ
+        داری کمپنی "Technoelegance" (LLC "Technoelegance") (قانونی ایڈریس: 101000،
+        ماسکو، Ulanskiy pereulok 13، stroeniye 4، pomeshcheniye 1)، جو یہاں Flutylove
+        طور پر، آپ کو اس ویب سائٹ اور عام طور پر کے طور پر "سروسز" کہا جاتا ہے ویب
+        سائٹ یا درخواست (کے ذریعے پیش کردہ تمام متعلقہ خدمات) استعمال کرسکتے ہیں جس
+        کے مطابق کہا جاتا ہے. ویب سائٹ کے کسی بھی مطلب سمجھا جاتا ہے اس ورژن، ڈومین
+        نام flutylove.com تحت مل کر اور ویب کی بنیاد پر ورژن، موبائل ایپلی کیشنز اور
+        سوشل نیٹ ورکس کے لئے ایپلی کیشنز سمیت آلات کی ایک قسم، کے لئے چلتی ہے.اس ویب
+        سائٹ کا استعمال کرتے ہوئے کی طرف سے آپ کے معاہدے کی شرائط اور رازداری کی پالیسی
+        سے اتفاق. براہ مہربانی انہیں احتیاط سے پڑھیں. آپ کے معاہدے کی شرائط اور رازداری
+        کی پالیسی سے اتفاق نہیں کرتے ہیں تو، یا آپ کو 18 سال کی عمر تک نہیں پہنچے
+        ہیں، آپ کو ویب سائٹ اور اس کی خدمات کا استعمال نہیں کر سکتے.ویب سائٹ کا استعمال
+        کرتے ہوئے، قطع نظر کہ آپ Flutylove کے صارف رجسٹرڈ یا نہیں کر رہے ہیں، آپ کو
+        اس معاہدے اور ہماری پرائیویسی پالیسی، جس لنک کی طرف سے اس معاہدے میں شامل
+        ہے اور ویب سائٹ پر دستیاب ہے ہے کے ساتھ مکمل طور پر اتفاق کرتا ہوں، اور اس
+        کے ساتھ عمل.صارف کی درخواست پر، کمپنی ایک hardcopy شکل میں اس معاہدے پر دستخط
+        اور دستاویزات طلب کر انفرادی کرنے کے لئے بھیج چلاتی.کمپنی صارف کا معاہدہ اور
+        اس کے لئے کہا جاتا ہے کسی بھی دستاویز پر نظر ثانی کرنے کا حق محفوظ رکھتا.
+        اگر آپ کو ایک باقاعدہ بنیاد پر اس طرح کی تبدیلیوں کے بارے میں معلومات رکھنے
+        کے لئے اپ ڈیٹ کرنے کے لئے کی ضرورت تبدیلیوں سے آگاہ کرنے کی. ہم ذیل میں اس
+        صفحہ پر کی جانے والی تبدیلیوں کے بارے میں مطلع کرے گا. تبدیلیاں واپس متعلق
+        نہیں اور اشاعت کی تاریخ سے دس دن کے اندر اندر لاگو ہو گا. تاہم، صورت میں وہ
+        نئی خدمات کے نفاذ یا قانون سازی میں ترمیم کے ساتھ منسلک ہیں، یہ فوری طور پر
+        لاگو کیا جائے گا. آپ کے معاہدے میں تبدیلی کے ساتھ متفق نہیں ہوں، آپ کو ویب
+        سائٹ اور اس کی ایپلی کیشنز کا استعمال کرتے ہوئے روکنا ہوگا.'
+      p_1: ". الیکٹرانک کا معاہدہ. اس معاہدے ویب سائٹ اور خدمات کے استعمال کے لحاظ
+        سے بیان کرتا ہے جس کنٹریکٹ، کی ایک الیکٹرانک ورژن ہے. ویب سائٹ لاگنگ یا ایک
+        صارف بننے کی طرف سے، آپ کو اس معاہدے کو قبول کرنے اور تمام شرائط، حالات، اور
+        نوٹس موجود یا نہیں محولہ ہیں کہ اتفاق کرتا ہوں. تم وانی اور اس پر راضی Flutylove
+        کے صارفین ایک آن لائن کمیونٹی کمپنی یا اس کے ملحقہ اداروں سے تعلق رکھنے والے
+        دیگر ویب سائٹس بھی شامل ہے کہ اس کا ایک حصہ ہو سکتا ہے. لہذا، ویب سائٹ پر
+        پروفائلز طرح کی دوسری ویب سائٹس اور ایک ویب سائٹ سے ادا کر چاہنے پر دیکھے
+        جا سکتے ہیں تمام ویب سائٹس سے دوسرے ادائیگی کرنے والے صارفین کے ساتھ ابلاغ
+        کر سکتے ہیں. ب. برقی شکل. ویب سائٹ لاگنگ یا ایک صارف بننے کی طرف سے، آپ کو
+        الیکٹرانک معاہدے کے ساتھ فراہم کرنے رضامند. ج. Hardcopy فارم. آپ نے اس معاہدے
+        کے Hardcopy وصول کرنے کا حق ہے. یہ برقی شکل میں دستخط کئے جائیں گے پہلے یا
+        بعد میں آپ نے اس معاہدے کے Hardcopy ایڈیشن درخواست کر سکتے ہیں. ، مزید معلومات
+        کے لئے ہمارے کسٹمر سروس سے رابطہ کریں. D. رسائی اور ڈاؤن لوڈ کرنے. تک رسائی
+        اور اس الیکٹرانک کا معاہدہ لوڈ، اتارنا کرنے کے لئے، آپ انٹرنیٹ سے یا براہ
+        راست ویب کے وسائل تک رسائی کے ساتھ آلات کے ذریعے رسائی حاصل کرنا ضروری ہے.
+        آپ انٹرنیٹ، یعنی کمپیوٹر، موڈیم یا دیگر رسائی آلہ مربوط کرنے کے لئے ضروری
+        سازوسامان کی ضرورت ہے. براہ مہربانی، اس معاہدے کی ایک کاپی پرنٹ اور اسے رکھنے.
+        معاہدے کے الیکٹرانک فارم ڈاؤن لوڈ کرنے کے لئے، کسی بھی ٹیکسٹ ایڈیٹر کی مدد
+        سے آپ کے کمپیوٹر پر اس کو بچانے."
+      the_right_of_using_the_website: 2. ویب سائٹ کے استعمال کا حق.
+      p_2: ". ضروریات کی عدم تعمیل کی صورت میں، ویب سائٹ تک رسائی سے انکار کیا جائے
+        گا. ویب سائٹ کے استعمال، صارف کی ویب سائٹ پر پوسٹ کی ذاتی معلومات دیگر انٹرنیٹ
+        کے صارفین کے لئے دستیاب ہو سکتا ہے کہ اس بات سے آگاہ ہونا چاہئے، اور کمپنی
+        کو ان کے اعمال کے لئے ذمہ داری کو برداشت نہیں کیا جاتا ہے. اس کی تمام شرائط
+        اور حالات کے لیے اس ویب سائٹ آپ کو زور اور آپ کو اس معاہدے میں داخل کرنے کا
+        حق، اختیار اور امکان ہے کہ وعدہ کیا رضامندی کا استعمال کرتے ہوئے، اور کی طرف
+        سے. ایک صارف آپ کو زور اور یہ کہ آپ جنسی تشدد سے متعلق جرم کے لئے سزا کا سامنا
+        کرنا پڑا کبھی نہیں کی گئی وعدہ بننے. ویب سائٹ صرف ذاتی استعمال کے لئے ڈیزائن
+        کیا گیا ہے. یہ کسی بھی تجارتی مقاصد کے لئے استعمال کرنے کے لئے حرام ہے. کارپوریٹ
+        اداروں کو اس ویب سائٹ کے صارفین پر نہیں ہو سکتا، اس کے ساتھ ساتھ اس کی خدمت
+        یا ان کے مقاصد پر ویب سائٹ کا استعمال نہیں کر سکتے. غیر قانونی اور / یا ناپسندیدہ
+        پیغامات اور لنکس بھیجنے کے مقصد کے لئے الیکٹرانک یا دوسرے ٹولز کی مدد سے جمع
+        کرنے صارف کا نام اور / یا ای میل پتوں سمیت، ویب سائٹ کا استعمال کرتے ہوئے
+        غیر مجاز تعاقب کر رہا ہے اور کمپنی سمیت قانون کے مطابق مناسب اقدامات لگ سکتے
+        ہیں، قانون نافذ کرنے والے حکام سے اپیل کی."
+      pricing_and_registration: 3. قیمت اور رجسٹریشن
+      terms_4: 4. شرائط.
+      p_4: مکمل طور پر جب تک آپ کی ویب سائٹ کا استعمال کے طور طاقت اور اثر میں رہتا
+        ہے. آپ اپنے صفحہ ہمارے آن لائن کسٹمر سروس سے رابطہ کر کے یا ویب سائٹ کی خدمت
+        کا استعمال کرتے ہوئے، کسی بھی وجہ سے، کسی بھی وقت ہٹا کر ویب سائٹ کے صارف
+        ہونے کو روکنے کے کر سکتے ہیں. کمپنی کسی بھی وقت آپ کی ذاتی صفحے کو حذف کرنے
+        کا حق محفوظ رکھتا ہے. ہم کمپنی آپ کے معاہدے کی شرائط کی خلاف ورزی ہوئی ہے
+        کہ یقین کرنے کی وجہ ہے تو، صفحہ حذف کرنے سے پہلے آپ کو مطلع کرنے کے پابند
+        نہیں ہیں. ہم آپ کے اکاؤنٹ حذف کر رہا ہے کی وجہ یہ ظاہر کرنے کے پابند نہیں
+        ہیں؛ بعض صورتوں میں اس طرح کی معلومات کے انکشاف ممنوع ہو سکتا ہے. ان کی نوعیت
+        کی طرف سے اس معاہدے کے اختتام کے اس طرح کی برطرفی کے بعد فوج میں ہو جائے گا
+        کے بعد آپ کو حذف کرنے کے بعد، تمام حالات درست ہو سکتا ہے جس میں. آپ کو آپ
+        کی اپنی مرضی سے ویب سائٹ کے ذریعے آپ کے صفحے حذف کرتے ہیں تو، ہم اس طرح خارج
+        کرنے کی وجہ کی وضاحت کرنے کو کہہ سکتے ہیں.
+      account_security: 5. ہمیں اکاؤنٹ کی سیکیورٹی.
+      p_5: اپنا صارف نام اور پاس ورڈ کی یاد، جس رجسٹریشن کے وقت مقرر کیا جائے گا کی
+        رازداری کے تحفظ کے ذمہ دار ہیں. اس کے علاوہ، آپ کو آپ کا صارف نام اور پاس
+        ورڈ کے تحت پائے جاتے ہیں کہ تمام اعمال کے لئے بالکل ذمہ دار ہیں. تم (ایک)
+        فوری طور پر کسی غیر مجاز ہر سیشن کے اختتام پر آپ کے اکاؤنٹ سے اپنے لاگ ان
+        اور پاس ورڈ کے استعمال کی، اسی طرح کسی بھی دیگر سیکورٹی خلاف ورزی، اور (ب)
+        وہاں سے نکلنے کے بارے میں ہمیں مطلع کرنے کے لئے اتفاق کرتا ہوں. ویب سائٹ کسی
+        بھی نقصان یا نقصان اس رزق کی عدم تعمیل سے پیدا ہونے والے کی ذمہ دار نہیں ہے.
+        جب حکم غیر مجاز افراد کو جاسوسی یا آپ کے پاس ورڈ یا کسی دوسرے کی ذاتی معلومات
+        ریکارڈ نہیں سکتا تھا کہ میں ایک عوامی کمپیوٹر کے ذریعے آپ کے اکاؤنٹ تک رسائی
+        حاصل آپ کو خاص طور پر ہوشیار رہنا چاہئے. تم نے بھی اس بات کی تصدیق اور اس
+        پر راضی انٹرنیٹ کبھی نہیں مکمل طور پر نجی اور محفوظ تھا. تم وہ کوئی پیغامات
+        یا معلومات آپ کی ویب سائٹ پر پوسٹ پڑھا جا سکتا ہے یا دوسرے صارفین کی طرف سے
+        استعمال کیا جاتا ہے، معلومات پوشیدہ ہے کہ ایک خصوصی انتباہ ہو تو بھی سمجھنے.
+      your_interaction_with_other_users_of_the_website: 6. ویب سائٹ کے دیگر صارفین
+        کے ساتھ آپ کی بات چیت.
+      p_6: ". آپ دوسرے صارفین کے ساتھ اپنی بات چیت کے لئے خود ذمہ دار ہیں. تم وہ COMPANY
+        چاہے وہ ایک مجرمانہ ریکارڈ ہے پر ان کے صارفین کی توثیق نہیں کرتا سمجھنا چاہئے.
+        کمپنی نے اپنے صارفین کے ماضی کے بارے معلومات کی درخواست نہیں ہے اور اس کی
+        معلومات کو درست نہیں کرتا. COMPANY صارف کے رویے اور اصل یا مستقبل کے صارفین
+        کے ساتھ ان کی مطابقت کے بارے میں کوئی وارنٹی کرتا ہے. ایک ہی وقت میں COMPANY
+        مجرمانہ ریکارڈ کے لئے صارفین تصدیق یا دستیاب عوامی معلومات کا استعمال کسی
+        بھی وقت میں دوسرے تصدیق باہر لے جانے کا حق محفوظ رکھتا. ب. کوئی کیس میں کمپنی
+        چاہے وہ براہ راست، بالواسطہ، عام ہیں یا ایک مخصوص نوعیت، مائپورک، اور / یا
+        اتفاقی، آپ کو یا کسی دوسرے افراد کی طرف سے حاصل، ویب سائٹ کے استعمال کرتے
+        ہوئے سمیت کے نتیجے میں کسی بھی نقصانات ذمہ دار نہیں ہے لیکن انہی تک محدود
+        نہیں، جسمانی چوٹ، کشیدگی اور / یا دیگر نقصانات، مواصلات یا یہ کہ آپ کی ویب
+        سائٹ پر کے ساتھ نمٹنے ویب سائٹ یا لوگوں کے دیگر رجسٹرڈ صارفین، کے ساتھ ملاقاتوں
+        کے نتیجے میں آپ کی طرف سے حاصل کی. آپ کو ہر ممکن احتیاط سے متفق دوسرے صارفین
+        کے ساتھ آپ کو حقیقی زندگی میں ان سے ملنے کا فیصلہ کرتے ہیں، خاص طور پر ان
+        صورتوں میں، بات چیت جب. آپ کو معلوم ہونا چاہئے، کمپنی اس ویب سائٹ کے صارفین
+        کے ساتھ مطابقت کے بارہ میں اعلان یا مضمر وارنٹیز نہیں دیتا WHAT. آپ کی ویب
+        سائٹ (مثلا آپ کا کریڈٹ یا پلاسٹک کارڈز کے بارے میں معلومات) OF دوسرے صارفین
+        کو مالی معلومات نہیں دینا چاہئے. ج. سروس میں آپ کا نام یا دیگر زبانوں کے لئے
+        اپنے شہر کے نام ترجمہ کر سکتے ہیں؛ D. سروس اس مضمون میں درج کیا اعمال کے لئے
+        ذمہ دار نہیں ہے. کے معاملے میں آپ کو مکمل طور پر یا جزوی طور پر ان کے ساتھ
+        متفق نہیں ہوں، فوری طور پر WEBSITE چھوڑ براہ مہربانی،"
+      the_information_posted_by_you_on_flutylove: 7. INFORMATION FLUTYLOVE پر آپ کی
+        طرف سے پوسٹ
+      p_7: . آپ کی معلومات کو شائع یا مظاہرہ سروس پر (بعد "پوسٹ") یا دوسرے صارفین
+        کو منتقلی اس کے لئے خود ذمہ دار ہیں. آپ کی خدمت پر شائع یا نسلی امتیاز نوعیت
+        کے، ہتک آمیز، غلط، توہین آمیز، فحش، اسبی اور جارحانہ مواد پر کسی بھی معلومات،
+        جنسی مواد کے بارے میں معلومات، اس کے ساتھ ساتھ دھمکی آمیز یا تعاقب معلومات،
+        معلومات دوسرے صارفین کو منتقل کرنے کی اجازت نہیں ہے یا غیر قانونی معلومات،
+        یا یہ کہ خلاف ورزی یا کسی بھی دوسری پارٹی کے حقوق کی خلاف ورزی کسی بھی دوسری
+        معلومات (بشمول، کی حد کے بغیر، دانشورانہ املاک کے حقوق، رازداری اور تشہیر
+        کے حقوق). آپ کمپنی یا کسی دوسرے صارف کے لیے، غلط، گمراہ کن یا غلط معلومات
+        فراہم کرنے کی اجازت نہیں ہے. معلومات کمپنی Flutylove کو فراہم کی یا کسی دوسرے
+        صارف بعد میں جھوٹے کے گمراہ کن، غلط ہو جاتا ہے تو، آپ کو فوری طور پر کمپنی
+        اس طرح کی تبدیلی کے Flutylove مطلع کرنا ضروری ہے. آپ جمع کرتے ہیں اور ضمانت
+        رجسٹریشن کے دوران فراہم کردہ تمام معلومات درست اور صحیح ہے کہ، اور آپ کو فوری
+        طور پر کسی بھی معلومات کو بعد میں، غلط، گمراہ کن یا باطل ہو جاتا ہے اس کو
+        تبدیل. ب. آپ سمجھتے ہیں اور ہم حق محفوظ رکھتے ہیں، لیکن معلومات یا مواد کی
+        خدمت میں منتقل کر یا سروس پر عوامی رسائی میں پوسٹ کیا جاتا ہے کہ نگرانی کے
+        لئے واجب نہیں اتفاق کرتا ہوں. ہم کسی بھی وجوہات اور نوٹیفکیشن کے بتائے بغیر
+        اس طرح کی معلومات یا مواد کے کسی کو حذف کرنے کا حق ہے. ج. ویب سائٹ پر دکھائے
+        تمام اشیاء، ڈیزائن عناصر، متن، گرافکس، عکاسی، ویڈیوز، سکرپٹ، پروگرام، موسیقی،
+        آواز اور دیگر اشیاء اور انکے لائبریریوں سمیت (بعد - معلومات کے)، کمپنی کے
+        خصوصی حقوق کی ملکیت کے صارفین ہیں، ویب سائٹ اور دیگر حقوق کے حاملین، ان اشیاء
+        کے تمام حقوق محفوظ ہیں. D. اس معاہدے، کے ساتھ ساتھ روسی فیڈریشن کے موجودہ
+        قانون سازی کے مطابق میں قائم کے طور پر، کوئی معلومات نقل کیا جا سکتا ہے سوائے
+        (پیش)، عملدرآمد، تقسیم، ایک فریم میں دکھائے، شائع، ڈاؤن لوڈ کیا، منتقل، میں
+        فروخت یا دوسرے طریقوں سے استعمال کیا مکمل طور پر یا ہولڈر کی پیشگی اجازت کے
+        بغیر ٹکڑوں میں، حقوق ہولڈر، جب تک واضح طور پر کسی بھی فرد کی طرف سے معلومات
+        کے مفت استعمال کے لیے اپنی رضامندی کا اظہار کیا. ای. قانونی صارف سے تعلق رکھنے
+        والے ویب سائٹ پر معلومات پوسٹنگ کی طرف سے، صارف دیکھنے، پلے بیک (کاپی بھی
+        شامل ہے) کی طرف سے اس کا استعمال کرنے کے غیر خصوصی حق کے لئے دوسرے صارفین
+        اور صرف اور صرف ذاتی غیر تجارتی استعمال کے مقاصد کے لئے دیگر حقوق کے لئے رسائی
+        فراہم کرتا ہے، مقدمات، جب تک کہ اس طرح کے استعمال کی وجہ سے یا قانون کی طرف
+        سے محفوظ کیا حق ہولڈر کے مفادات کے لئے نقصان کا سبب بن سکتا ہے جب. ایف. صارف
+        کی طرف سے معلومات، جس تک رسائی صرف اور صرف ذاتی غیر تجارتی استعمال کے لئے
+        حاصل کیا گیا تھا کا استعمال کرتے ہوئے، شرط پر جائز ہے کہ تصنیف کی تمام نشانیاں
+        (کاپی رائٹ) یا تصنیف کی دیگر موجود نوٹس، رکھے جائیں گے مصنف اور اس کی مصنوعات
+        کے نام تبدیلی کے بغیر چھوڑ دیا جائے گا. جی. صارف بھی معلومات ویب سائٹ پر پوسٹ
+        کر اس سے تعلق رکھنے والے استعمال کرنے کے لئے ایک غیر خصوصی حق کے ساتھ کمپنی
+        فراہم / اپنی قانونی فن تعمیر اور ان کی فعالیت کی کارکردگی کے اندر اندر کمپنی
+        کی ویب سائٹ کے کام کاج کو یقینی بنانے کے کرنے کے لئے غور کے بغیر ویب سائٹ.
+        غیر خصوصی حقوق اوپر حوالہ ویب سائٹ پر مواد کی جگہ کے لئے عطا کی اور تمام دنیا
+        بھر کے ممالک کی سرزمین پر محیط ہے. کمپنی حقوق تیسری پارٹی کو اس پیراگراف کا
+        حوالہ منتقل کرنے کا حق ہے. صارف کمپنی اشتہار کی معلومات کی نمائش کے مقاصد
+        سمیت صارف کی طرف سے مواد کے اشتراک کی نمائش، فراہم کر ویب سائٹ کی کام اور
+        تکنیکی اختیارات، استعمال کرنے کا حق حاصل ہے کہ اتفاق کرتے ہیں. ہیلو. صورت
+        میں صارف کی ویب سائٹ سے معلومات کو خارج، غیر خصوصی حق خود بخود منسوخ کر دیا
+        جائے گا، لیکن ویب سائٹ کی تکنیکی وضاحتیں کی وجہ سے کمپنی درکار مطلوبہ وقت
+        اور جہاں اندر معلومات کے بیک اپ کاپیاں کو بچانے کے لئے کا حق محفوظ رکھتا.
+        میں. علاوہ نجی معلومات سے، صارف کو اپ لوڈ کریں، یا مختلف انداز میں ظاہر کرنے
+        کے لئے غیر موجودگی میں دوسری ویب سائٹس، ڈیٹا بیس اور دیگر انٹلیکچوئل پراپرٹی
+        کی معلومات واضح طور پر حق اشاعت سے اس طرح کے اقدامات کرنے کی رضامندی ظاہر
+        کی کے (ویب سائٹ پر شائع کی طرف سے) کوئی حق نہیں ہے مالک. جے. دوسری صورت میں
+        ان ضوابط میں بیان کیا گیا ہے جب تک، ان ضوابط میں کچھ بھی معلومات کے خصوصی
+        حقوق کی منتقلی کے طور پر غور نہیں کیا جا سکتا. K. آپ کو آپ کے صارف کے پروفائل
+        پر شائع تمام معلومات ہے کہ،، درست ہونا ضروری اپ ڈیٹ کرنے کے لئے اور مکمل.
+        صارف کسی بھی معلومات کو اپ لوڈ یا مختلف انداز میں انکشاف کیا گیا ہے کہ کے
+        لئے بالکل مکمل طور پر ذمہ دار ہے (پوسٹ) کی ویب سائٹ پر یا صارف کی مدد کے ساتھ.
+        صارف، اپ لوڈ کی منتقلی یا، ویب سائٹ پر مواد پوسٹ وہ / وہ روسی فیڈریشن کے قانون
+        سازی کے مطابق میں اس / اس کے لئے اس طرح کی کارروائی، حاصل کر لیا یا سونپ لینے
+        کے لئے مناسب حقوق نہیں کرتا تو کرنے کا حق نہیں ہے. کمپنی کے قابل، لیکن کسی
+        بھی غیر قانونی مواد کے لئے ویب سائٹ کو براؤز کرنے کے لئے، واجب نہیں ہے اور
+        خارج کر دیں یا (بغیر نوٹس کے) اپنے ویویکادکار میں، کسی بھی وجہ سے یا وجوہات
+        کے بغیر، بشمول کسی حد کے بغیر منتقل کرنے کے لئے منتقل کسی بھی مواد یا صارفین
+        کے لئے کی اجازت دی ہے، یا یہ کہ، کمپنی کی انفرادی رائے کے مطابق اس معاہدے
+        کی خلاف ورزی ہوتی معلومات، روسی فیڈریشن کے قانون سازی کو حذف کرنے اور / یا،
+        حقوق کی خلاف ورزی زخمی، یا دوسرے صارفین یا تیسرے فریقوں کی سلامتی کو خطرے
+        میں ڈال سکتا ہے. ویب سائٹ (یا پر مشتمل ہو سکتا) پر مشتمل ہے (تیسری پارٹی کی
+        ویب سائٹس) کے ساتھ ساتھ مضامین، تصاویر، عکاسی، گرافکس، موسیقی، آواز، ویڈیو،
+        معلومات، ایپلی کیشنز، سافٹ ویئر اور دیگر معلومات سے تعلق رکھنے والے یا آنے
+        والے انٹرنیٹ پر دوسری ویب سائٹس کے لنکس دانشورانہ سرگرمی کا نتیجہ ہے اور روسی
+        فیڈریشن کے قانون سازی کے مطابق میں محفوظ کیا جاتا ہے جس میں تیسرے فریقوں (تیسری
+        پارٹی کے مواد)، سے. یہ تیسری پارٹیوں اور ان کی معلومات اس یا دیگر ضروریات
+        (کی درستگی، کاملیت، ایمانداری، وغیرہ) کے ساتھ تعمیل کے لئے کمپنی کی طرف سے
+        تصدیق نہیں کر رہے ہیں. کمپنی تیسری پارٹی کی سائٹس پر پوسٹ کیا گیا کوئی بھی
+        مواد کی ذمہ دار نہیں ہے جو صارف کے فوائد ویب سائٹ کے ذریعے یا سمیت تیسری پارٹی
+        کی معلومات، کے ذریعے رسائی حاصل، لیکن تیسری پارٹی کی سائٹس یا پر اظہار کسی
+        بھی رائے یا بیانات تک محدود نہیں کرنا ان کی معلومات میں. کسی بھی ویب سائٹ،
+        مصنوعات، اور سروس کے لئے لنک، اس ویب سائٹ پر موجود تجارتی اور غیر تجارتی نوعیت
+        کی کوئی بھی معلومات کمپنی کی طرف سے ان مصنوعات (خدمات) کے لئے ایک منظوری یا
+        سفارش نہیں ہے. صارف کی ویب سائٹ چھوڑ دیں اور تیسری پارٹی کی ویب سائٹس پر جاتے
+        ہیں یا استعمال یا تیسری پارٹی سافٹ ویئر نصب کرنے کا فیصلہ کرتا ہے تو، وہ /
+        وہ ان کی اپنی ذمہ داری پر اور اس لمحے ان ضوابط کو اب کوئی صارف پر لاگو ہوتے
+        ہیں سے ایسا کرتا ہے. مزید صارف کے اعمال قابل اطلاق قوانین اور پالیسیوں، جن
+        معلومات کی وہ / وہ استعمال کرنے کے لئے جا رہا ہے ان افراد کے کاروبار کے طریقوں
+        سمیت طرف سے ہدایت ہیں.
+      forbidden_actions: 8. حرام اعمال.
+      p_8: . یہ دوسرے راستے میں کسی بھی شخص "پر قریبی نظر رکھنے کے" یا پریشان ہونا
+        منع ہے. ب. یہ / اقتباس سائٹس، یا دیگر دستی یا خود کار طریقے سے آلات یا عمل
+        تلاش کرنے کے لئے خودکار صارف، وائرس، ایپلی کیشنز کو استعمال کرنے کے لئے نکالنے
+        کے لئے، انڈیکس، "جاسوسی" یا دوسرے طریقے سے دوبارہ پیش یا درکنار نیویگیشن ڈھانچہ
+        حرام اور خدمت یا اس کے مواد کی نمائش کر رہا ہے . ج. یہ پوسٹ تقسیم، یا ہر طرح
+        کسی بھی کاپی رائٹ کی معلومات، ٹریڈ مارک، یا دیگر معلومات اشاعت کے مالک کی
+        جانب سے پیشگی اجازت کے بغیر کاپی رائٹ سے محفوظ دوبارہ پیش کرنے سے منع ہے.
+        D. یہ کسی بھی کاپی رائٹ، ٹریڈ مارک یا سروس پر موجود دیگر کاپی رائٹ اطلاعات
+        دور کرنے کے لئے حرام ہے. ای. اس میں مداخلت یا سروس اور ویب سائٹ، یا خدمات
+        اور نیٹ ورکس کی کاروائ سروس یا ویب سائٹ سے منسلک خلل ڈالنے کے لئے حرام ہے.
+        ایف. یہ، ای میل یا منتقلی کے مختلف انداز میں وائرس یا کسی دوسرے کمپیوٹر کوڈ،
+        فائلوں یا، مداخلت کو تباہ یا کسی بھی کمپیوٹر سافٹ ویئر، ہارڈویئر یا ٹیلی مواصلات
+        کے سامان کی فعالیت کو محدود کرنے کے لئے ڈیزائن پروگراموں پر مشتمل ہے کہ کسی
+        بھی معلومات شائع کرنے کے لئے حرام ہے. جی. یہ ہیڈر فورج یا سروس کے ذریعے دوسروں
+        کو مہیا کی کسی بھی معلومات کے حقیقی معنی بھیس کے مقصد کے لئے عہدہ جوڑتوڑ کرنے
+        سے منع ہے. ح. یہ "فورج" یا "نقل" سروس یا Flutylove سے پہلے سے تحریری اجازت
+        کے بغیر ویب سائٹ کے کسی بھی حصے کے لئے حرام ہے. اس کے علاوہ، آپ کو کسی بھی
+        مقصد کے لئے کسی اور سائٹ پر کسی بھی شخص کو ری ڈائریکٹ کرنے کے لئے کسی بھی
+        میٹا ٹیگ یا کوڈ، یا Flutylove، سروس یا ویب سائٹ کے لئے کسی بھی لنک کا استعمال
+        دیگر آلات کا استعمال نہیں کر سکتے. میں. یہ اسی طرح کی کارروائیاں کرنے کے لئے
+        دوسروں کی حوصلہ افزائی کے طور پر بھی، نظر ثانی کرنے کے لئے اپنانے، ضمنی لائسنس،
+        ترجمہ، فروخت، تنظیم نو، سمجھنے، decompile یا سروس یا ویب سائٹ، یا ویب سائٹ
+        پر یا اس کے لئے استعمال کیا جاتا ہے کسی بھی سافٹ ویئر کے کسی بھی حصے کو جدا،
+        حرام ہے . جے. یہ فحش نگاری اور / یا شہوانی، شہوت انگیز مواد کے ساتھ کسی بھی
+        معلومات کو پوسٹ کرنے سے منع ہے.
+      the_changes_in_the_service: 9. SERVICE میں تبدیلی.
+      p_9: Flutylove تبدیل یا عارضی طور پر یا مستقل طور پر سروس کو غیر فعال کرنے کے
+        لئے کسی بھی وقت حق محفوظ رکھتا ہے (یا کسی بھی حصہ ہے) اطلاع کے بغیر. آپ اتفاق
+        کرتے ہیں کہ Flutylove کسی بھی ترمیم، عارضی دستیابی یا سروس کے مکمل غیر فعال
+        کے لئے آپ کو یا کسی تیسری پارٹی کو ذمہ دار نہیں ہے.
+      ip_address_blocking: 10. IP ایڈریس کو مسدود کرنے میں.
+      p_10: ویب سائٹ کی سالمیت کی حفاظت کے لئے، Flutylove مخصوص صارفین کے IP پتوں
+        کو بلاک کرنے کا اپنا سہولت کے کسی بھی وقت حق محفوظ رکھتا ہے.
+      p_11: Flutylove کے دوسرے صارفین کے ساتھ اپنی بات چیت کے لئے خود ذمہ دار ہیں.
+        Flutylove صحیح، لیکن ذمہ داری، آپ کو اور دوسرے صارفین کے درمیان تنازعات کی
+        نگرانی کے لئے محفوظ رکھتا ہے.
+      security_and_communication: 12. سیکورٹی اور مواصلات.
+      p_12: بھی ہماری پرائیویسی پالیسی کے ذریعے کنٹرول کیا جاتا ہے. جب آپ کو ایک صارف
+        بن، آپ اتفاق اور ہم سے ای میل حاصل کرنے کی رضامندی. ان ای میلز کی کارروائیوں
+        یا اس طرح کے دوسرے صارفین کے بارہ کے اقدامات کے بارے انتظامی نوٹس اور تبدیلیوں
+        کے بارے میں سرکاری اعلانات، یا ہم سے تجارتی پیشکش، پروموشنل مواد، خاص پیشکشوں
+        پر مشتمل ای میلز، یا انفارمیشن سروس کے ساتھ منسلک دوسرے کو اطلاعات، کے بارے
+        میں اطلاعات کی نمائندگی کرسکتے ہیں آپ صارف کے اکاؤنٹ. ایسی اطلاعات کے بارے
+        میں مزید جاننے کے لئے ہماری پرائیویسی پالیسی ملاحظہ کریں.
+      denial_of_responsibility: 13. ذمہ داری کا انکار.
+      p_13: ". Flutylove ویب سائٹ پر پوسٹ کیا گیا کوئی بھی غلط یا غلط معلومات کے لئے
+        ذمہ دار نہیں ہے یا سروس کے ساتھ منسلک کیا جاتا ہے، ویب سائٹ یا کسی ہارڈویئر
+        یا سافٹ ویئر کو ہماری سروس سے منسلک یا وہاں استعمال کیا جاتا ہے کے صارفین.
+        Flutylove ویب سائٹ کے کسی بھی صارف کی،، کے رویے کے لئے ذمہ دار نہیں ہے آن
+        لائن اور آف لائن دونوں. Flutylove کسی بھی غلطی، بھول چوک، رکاوٹ، منسوخی، آپریشن
+        یا آپریشن، مواصلات لائن کی ناکامی، چوری یا تباہی، غیر مجاز رسائی یا صارف کی
+        مواصلات کی لائنز کی بدلتی میں نقصان یا تاخیر کے لئے ذمہ داریوں پر لے نہیں
+        ہے. Flutylove انٹرنیٹ پر یا کسی بھی ویب سائٹ پر کسی بھی ٹیلی فون نیٹ ورک یا
+        لائنوں، کمپیوٹر آن لائن نظام، سرورز یا فراہم، کمپیوٹر کے سامان، سافٹ ویئر،
+        صارف کے اکاؤنٹ میں میل یا کھلاڑیوں کی ناکامی، تکنیکی مسائل یا بھیڑ کی کوئی
+        مسئلہ یا تکنیکی خرابی کی ذمہ دار نہیں ہے یا صارفین کے لئے حادثات یا چوٹ یا
+        ایک کمپیوٹر سے متعلق کسی تیسری پارٹی، یا میں شرکت یا نیٹ ورک اور / یا خدمات
+        سے متعلق ڈاؤن لوڈ کرنے میں معلومات کا ایک نتیجہ کے طور پر بھی شامل ہے اس کے
+        مجموعہ،. کسی بھی حالت Flutylove کمپنی یا اس کے الحاق کے کسی بھی، ایڈورٹائزنگ
+        ایجنٹس، کیونکہ ویب سائٹ یا سروس کا استعمال کرتے ہوئے کے بانیوں یا تقسیم کا
+        شریک کسی بھی نقصان یا نقصان، ذاتی چوٹ یا موت سمیت لئے ذمہ دار نہیں کرے گا،
+        کے تحت، کسی بھی مواد کی ویب سائٹ پر پوسٹ کیا گیا ، یا ویب سائٹ کے صارفین،
+        دونوں آن لائن اور آف لائن کے درمیان کوئی بات چیت. ویب سائٹ اور سروس ایک کے
+        طور پر فراہم کی جاتی ہے بنیاد ہے، اور Flutylove اظہار ایک خاص مقصد، یا کسی
+        کے حقوق کی خلاف ورزی کی عدم موجودگی کے لئے کسی بھی وارنٹیوں یا فٹنس سے دستبرداری
+        کا اعلان. Flutylove کی ضمانت نہیں دے سکتے ہیں اور سروس کی ویب سائٹ کا استعمال
+        کرتے ہوئے اور / یا سے کوئی خاص نتائج کا وعدہ نہیں کرتا."
+      links: 14. لنکس.
+      p_14: ". Flutylove ویب سائٹ پر پوسٹ کیا گیا کوئی بھی غلط یا غلط معلومات کے لئے
+        ذمہ دار نہیں ہے یا سروس کے ساتھ منسلک کیا جاتا ہے، ویب سائٹ یا کسی ہارڈویئر
+        یا سافٹ ویئر کو ہماری سروس سے منسلک یا وہاں استعمال کیا جاتا ہے کے صارفین.
+        Flutylove ویب سائٹ کے کسی بھی صارف کی،، کے رویے کے لئے ذمہ دار نہیں ہے آن
+        لائن اور آف لائن دونوں. Flutylove کسی بھی غلطی، بھول چوک، رکاوٹ، منسوخی، آپریشن
+        یا آپریشن، مواصلات لائن کی ناکامی، چوری یا تباہی، غیر مجاز رسائی یا صارف کی
+        مواصلات کی لائنز کی بدلتی میں نقصان یا تاخیر کے لئے ذمہ داریوں پر لے نہیں
+        ہے. Flutylove انٹرنیٹ پر یا کسی بھی ویب سائٹ پر کسی بھی ٹیلی فون نیٹ ورک یا
+        لائنوں، کمپیوٹر آن لائن نظام، سرورز یا فراہم، کمپیوٹر کے سامان، سافٹ ویئر،
+        صارف کے اکاؤنٹ میں میل یا کھلاڑیوں کی ناکامی، تکنیکی مسائل یا بھیڑ کی کوئی
+        مسئلہ یا تکنیکی خرابی کی ذمہ دار نہیں ہے یا صارفین کے لئے حادثات یا چوٹ یا
+        ایک کمپیوٹر سے متعلق کسی تیسری پارٹی، یا میں شرکت یا نیٹ ورک اور / یا خدمات
+        سے متعلق ڈاؤن لوڈ کرنے میں معلومات کا ایک نتیجہ کے طور پر بھی شامل ہے اس کے
+        مجموعہ،. کسی بھی حالت Flutylove کمپنی یا اس کے الحاق کے کسی بھی، ایڈورٹائزنگ
+        ایجنٹس، کیونکہ ویب سائٹ یا سروس کا استعمال کرتے ہوئے کے بانیوں یا تقسیم کا
+        شریک کسی بھی نقصان یا نقصان، ذاتی چوٹ یا موت سمیت لئے ذمہ دار نہیں کرے گا،
+        کے تحت، کسی بھی مواد کی ویب سائٹ پر پوسٹ کیا گیا ، یا ویب سائٹ کے صارفین،
+        دونوں آن لائن اور آف لائن کے درمیان کوئی بات چیت. ویب سائٹ اور سروس ایک کے
+        طور پر فراہم کی جاتی ہے بنیاد ہے، اور Flutylove اظہار ایک خاص مقصد، یا کسی
+        کے حقوق کی خلاف ورزی کی عدم موجودگی کے لئے کسی بھی وارنٹیوں یا فٹنس سے دستبرداری
+        کا اعلان. Flutylove کی ضمانت نہیں دے سکتے ہیں اور سروس کی ویب سائٹ کا استعمال
+        کرتے ہوئے اور / یا سے کوئی خاص نتائج کا وعدہ نہیں کرتا."
+      limitation_of_responsibility: 15. ذمہ داری کی حد.
+      p_15: AN کے طور پر فراہم کی جاتی ہیں کی بنیاد ہے. کمپنی کسی بھی وارنٹی ہے کہ
+        ویب سائٹ یا اس کے کام کرتا ہے استعمال کا ایک خاص مقصد کے لئے موزوں OR نامناسب
+        ہو سکتے ہیں رد. COMPANY ضمانت نہیں کرتا اور ویب سائٹ اور / یا اس کے افعال
+        میں سے استعمال کرنے سے کوئی خاص نتائج وعدہ نہیں کرتا؛ SOFTWARE طور پر ساتھ
+        ساتھ، ویب سائٹ سے یا شائع لنکس کے ذریعے ڈاؤن لوڈ کرنے اور کسی بھی فائلوں OF
+        استعمال کرتے وقت الجھن سے بچنے کے لئے، صارف حفاظت احتیاط پر عمل پیرا ہو. کمپنی
+        انتہائی ینٹیوائرس سافٹ ویئر کے طور پر بھی صرف لائسنس یافتہ سافٹ ویئر استعمال
+        کرنے کے لئے سفارش؛ ویب سائٹ کے استعمال، صارف اتفاق کرتا ہوں کہ ویب سائٹ سے
+        یا اس پر کسی بھی مواد اس کی مدد سے DOWNLOADS اس کی / اس کے اپنے خطرے اور اس
+        کی معلومات کا استعمال کرتے ہوئے کسی نقصانات کہ یہ صارف کے کمپیوٹر کے لئے یا
+        THIRD کرنے کا سبب بنتا سکتے ہیں، بشمول کے ممکنہ نتائج کے لئے خود ذمہ دار جماعتوں،
+        ڈیٹا کے نقصان، یا کسی بھی دیگر نقصانات؛ کسی بھی حالت کے تحت کمپنی یا اس کے
+        ایجنٹوں سے پیدا ہونے والے، کسی بھی، بالواسطہ حادثاتی اور UNWILFUL نقصانات
+        کے لئے صارف کو یا کسی تیسری پارٹی کو کوئی ذمہ داری کو برداشت فائدہ نقصان،
+        یا کھو اعداد و شمار، احترام کرنے نقصان، وقار یا کاروباری ساکھ بشمول، ویب سائٹ،
+        اس کے مواد یا کسی دیگر معلومات کے استعمال کی ہے جو آپ کو یا کسی دوسرے شخص
+        ویب سائٹ کے ذریعے رسائی حاصل کی، کمپنی نے خبردار OR ایسی کشتیوں کے امکان طرف
+        اشارہ کرتا ہے.
+      responsibilities_of_the_parties: 16. فریقوں کے فرائض.
+      p_16: کی طرف سے حکومت اور روسی فیڈریشن کے قانون سازی کے مطابق تشکیل کی جاتی
+        ہے. جس کے معاہدے کی طرف سے آباد نہیں کیا گیا ایشوز روسی فیڈریشن کے قانون سازی
+        کے مطابق میں آباد کیا جائے گا. ان ضوابط کے نفاذ سے متعلق کسی بھی تنازعات یا
+        تنازعات کی صورت میں، صارف اور کمپنی مذاکرات کے ذریعے ان کو حل کرنے کی ہر ممکن
+        کوشش کرے گا. صورت میں تنازعات مذاکرات کے ذریعے حل نہیں کیا جائے گا، تنازعات
+        روسی فیڈریشن کے قابل اطلاق قانون سازی کے مطابق میں آباد کیا جائے گا. یہ معاہدہ
+        روسی زبان میں پھانسی دے دی جاتی ہے اور کسی دوسری زبان میں جائزہ لینے کے لئے
+        صارف کو فراہم کی جا سکتی. روسی زبان میں ضابطے اور دوسری زبان میں اس کے ورژن
+        کے کوریا کے ورژن کے تضادات پائے جانے کی صورت میں، اس ضابطے کی دفعات کے روسی
+        زبان میں ورژن لاگو کیا جائے گا. ایک وجہ یا کسی دوسرے کے لئے، ان ضوابط میں
+        سے ایک یا اس سے زیادہ دفعات باطل قرار دیا یا voided جائے گا، تو اس باقی شرائط
+        کی درست یا عملدرآمد کو متاثر نہیں کرتا.
+      other_provisions_and_changes: 17. دیگر دفعات اور تبدیلیوں.
+      p_17: ویب سائٹ اور / یا سروس کے استعمال کرنے سے متعلق آپ اور Flutylove درمیان
+        سچا معاہدہ ہے. اس معاہدے voids کی کسی بھی شرائط ہیں، معاہدے کے باقی مکمل اثر
+        میں اس کے درست رہتا ہے. یہ معاہدہ کسی بھی وقت Flutylove طرف سے ترمیم کی جا
+        سکتی ہے. اس معاہدے کے بارے میں کوئی سوالات کے ساتھ ہم سے رابطہ کرنے میں سنکوچ
+        نہیں کرو.
+      read_this: میں اس معاہدے پر پڑھیں اور اس کے تمام شرائط سے اتفاق کرتا ہوں.
+    about:
+      about_flutylove: Flutylove بارے
+      about_flutylove_text: Flutylove datings کے لئے بین الاقوامی سماجی تفریح ​​نیٹ
+        ورک ہے. یہاں آپ کے دوستوں، ایک ساتھی، شراکت داروں کو تلاش کر سکتے ہیں یا صرف
+        کھیل کھیل کی طرف سے لطف اندوز کے ساتھ آپ کا وقت خرچ یا ویڈیوز / تصاویر دیکھنا.
+      flutylove_features: 'ہماری ویب سائٹ پر سائن اپ کریں گے تو، آپ اس طرح کے بہت
+        سے خصوصیات کو باہر تلاش کر سکتے ہیں:'
+      video_call_feature: آپ کو ویب کیم کے ساتھ پارٹنر کے ساتھ بات چیت کر سکتے
+      we_are_in_social_networks: 'ہم سوشل نیٹ ورک میں شامل ہیں:'
+      facebook: فیس بک
+      twitter: ٹویٹر
+      vk: حفاظت
+      google_plus: گوگل پلس
+      instagram: انسٹاگرام
+      github: Github کے
+      we_use_open_source_and_high_technology: ہم اعلی ٹیکنالوجی اور اوپن سورس لائبریریوں
+        کا استعمال. ہم نے ہمیشہ بہتر ہو اور ہماری خدمات کو بہتر بنانے کے لئے کوشش
+        کریں.
+      partners_and_investors: ہم پارٹنرشپ لئے کھل جاتے ہیں اور ہم سرمایہ کاروں کو
+        تلاش کرنے کے لئے چاہوں گا. آپ ہمارے ساتھ تعاون کرنا چاہتے ہیں تو partnership@flutylove.com
+        ہم سے رابطہ کریں
+    faq:
+      faq: عمومی سوالات
+      what_is_flutylove: Flutylove کیا ہے؟
+      about_flutylove: Flutylove datings کے لئے بین الاقوامی سماجی تفریح ​​نیٹ ورک
+        ہے. یہاں آپ کے دوستوں، ایک ساتھی، شراکت داروں کو تلاش کر سکتے ہیں یا صرف کھیل
+        کھیل کی طرف سے لطف اندوز کے ساتھ آپ کا وقت خرچ یا ویڈیوز / تصاویر دیکھنا.
+      what_features_has_flutylove: کیا خصوصیات Flutylove ہے؟
+      flutylove_features: یہاں آپ، videocams ساتھ بات چیت کر سکتے مفصل تلاش، تلاش
+        کے پارٹنرز کو استعمال دیگر ممالک سے، کھیل کھیلنے کے اور دیگر سماجی stuffs
+        کی کوشش کروں.
+      i_have_some_requests: میں کچھ درخواستوں ہے
+      you_can_write_request: سائن اپ اور یہ بھی لکھ سکتے ہیں
+      here: یہاں
+      i_have_seen_some_typo_or_wrong_translation: میں کچھ ٹائپنگ میں کوئی ہے یا غلط
+        ترجمہ دیکھ چکے ہیں
+      you_can_send_pull_request_to_our: ہمارے
+      github_repository: گاٹہوب مخزن
+      i_have_seen_some_error: میں کچھ خرابی کو دیکھا ہے
+      to_us_or_write_to_our_info_mail: یا support@flutylove.com ای میل لکھ
+  user_mailer:
+    welcome_email:
+      you_have_successfully_signed_up_to_flutylove: کامیابی Flutylove تک دستخط کئے
+        ہیں
+      you_can_sign_in_with_your_social_networks: تم نے پھر آپ کو اپنے سوشل نیٹ ورک
+        اکاؤنٹ کے ساتھ سائن ان کر سکتے ہیں میں سائن ان کرنا چاہتے ہیں تو
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: کیا
+        آپ سائن آؤٹ کر پاس ورڈ تبدیل کر سکتے ہیں ای میل اور پاس ورڈ کے ساتھ سائن ان
+        کریں اور ذیل کے لنک پر کلک کرنے کے لئے چاہتے ہیں تو
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            birth_date:
+              birth_date_error: 18 سے زیادہ اور کم تو 115 رہنے کی ضرورت
+            interests:
+              interests_error: 2000 سے بھی کم علامات رہنے کی ضرورت
+            jobs:
+              jobs_error: 2000 سے بھی کم علامات رہنے کی ضرورت
+            languages:
+              languages_error: 2000 سے بھی کم علامات رہنے کی ضرورت
+            sex_keywords:
+              sex_keywords_error: 2000 سے بھی کم علامات رہنے کی ضرورت
+            contacts:
+              contacts_length_error: 2000 سے بھی کم علامات رہنے کی ضرورت
+              contacts_size_error: 21 سے بھی کم رابطوں ہونے کی ضرورت
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: غلط قدر ہے
+  devise:
+    confirmations:
+      confirmed: کامیابی سے تصدیق کی گئی تھی.
+      send_instructions: "."
+      send_paranoid_instructions: اپنا ای میل ایڈریس ہمارے ڈیٹا بیس میں موجود ہے تو،
+        آپ کو چند منٹ میں آپ کے اکاؤنٹ کی تصدیق کرنے کے بارے میں ہدایات کے ساتھ ایک
+        ای میل وصول کریں گے.
+      new:
+        send_mail_for_confirm_your_email: کی تصدیق آپ کے ای میل کے لئے ای میل بھیجیں
+        submit: جمع کرائیں
+    failure:
+      already_authenticated: پہلے سے ہی سائن ان ہیں.
+      inactive: ابھی تک چالو نہیں ہے.
+      invalid: غلط ای میل یا پاس ورڈ.
+      locked: مقفل ہے.
+      last_attempt: تم ایک اور کوشش ہے آپ کے اکاؤنٹ بند کر دیا جائے گا اس سے پہلے.
+      not_found_in_database: غلط ای میل یا پاس ورڈ.
+      timeout: کی میعاد ختم. جاری رکھنے کے لئے دوبارہ سائن کریں.
+      unauthenticated: میں سائن ان کریں یا جاری رکھنے سے پہلے سائن اپ کرنے کی ضرورت
+        ہے.
+      unconfirmed: جاری رکھنے سے پہلے اپنے اکاؤنٹ کی تصدیق کرنے کے لئے ہے.
+    mailer:
+      confirmation_instructions:
+        subject: تصدیق کی ہدایات
+        you_can_confirm_your_account_email_through_the_link_below: آپ ذیل لنک کے ذریعے
+          آپ کے ای میل کی تصدیق کر سکتے
+        confirm_my_account: میری ای میل کی تصدیق کریں
+      reset_password_instructions:
+        hello: ہیلو
+        subject: ری سیٹ پاس ورڈ کی ہدایات
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: کسی
+          نے درخواستوں اپنا پاس ورڈ تبدیل کرنے کے لئے ایک لنک ہے. آپ نیچے دیئے گئے
+          لنک کے ذریعے ایسا کر سکتے ہیں.
+        change_my_password: اپنا پاس ورڈ تبدیل کریں
+        if_you_didnt_request_this_please_ignore_this_email: آپ سے درخواست نہیں کی
+          ہے تو اس کو یہ ای میل کو نظر انداز کریں.
+      unlock_instructions:
+        subject: انلاک ہدایات
+    omniauth_callbacks:
+      failure: سے٪ {قسم} کیونکہ "٪ {وجہ}" آپ کی تصدیق نہیں ہو سکی.
+      success: کامیابی٪ {قسم} اکاؤنٹ سے توثیق.
+    passwords:
+      no_token: ایک پاس ورڈ دوبارہ ترتیب دینے کی ای میل سے آئے بغیر اس صفحہ تک رسائی
+        نہیں کر سکتے. آپ کو ایک ای میل کے پاس ورڈ دوبارہ ترتیب سے آئے ہیں تو، براہ
+        کرم آپ کو مکمل URL فراہم کی استعمال کیا یقینی بنائیں.
+      send_instructions: "."
+      send_paranoid_instructions: اپنا ای میل ایڈریس ہمارے ڈیٹا بیس میں موجود ہے تو،
+        آپ کو چند منٹ میں آپ کے ای میل ایڈریس پر ایک پاس ورڈ وصولی لنک ملے گا.
+      updated: کامیابی سے تبدیل کر دیا گیا تھا. اب آپ سائن ان ہیں.
+      updated_not_active: کامیابی سے تبدیل کر دیا گیا تھا.
+      new:
+        forgot_your_password: اپنا پاس ورڈ کی یاد دلانا
+        reset_password: اپنا یو آر ایل کی وصولی
+      edit:
+        change_your_password: اپنا پاس ورڈ تبدیل کریں
+        new_password: نیا پاس ورڈ
+        confirm_password: پاس ورڈ کی توثیق
+        change_password: بدلیں
+    registrations:
+      destroyed: "! آپ کے اکاؤنٹ کو کامیابی سے منسوخ کر دیا گیا. ہم جلد ہی آپ کو دوبارہ
+        دیکھ کر امید ہے."
+      signed_up: آمدید! آپ نے کامیابی پر دستخط کئے ہیں.
+      signed_up_but_inactive: کامیابی پر دستخط کئے ہیں. تاہم، ہم اس وجہ سے آپ کے اکاؤنٹ
+        ابھی تک چالو نہیں کیا گیا ہے جو آپ کے دستخط نہیں کر سکتے.
+      signed_up_but_locked: کامیابی پر دستخط کئے ہیں. تاہم، ہم اس وجہ سے آپ کے اکاؤنٹ
+        بند کر دیا ہے آپ سائن ان نہیں کر سکا.
+      signed_up_but_unconfirmed: آپ کے ای میل ایڈریس پر بھیج دیا گیا ہے. اپنے اکاؤنٹ
+        کو چالو کرنے کے لئے لنک کھولنے کریں.
+      update_needs_confirmation: آپ نے کامیابی سے اپنے اکاؤنٹ سے اپ ڈیٹ کیا ہے، لیکن
+        ہم اپنے نئے ای میل ایڈریس کی تصدیق کرنے کی ضرورت ہے. اپنا ای میل چیک کریں
+        اور اپنے نئے ای میل ایڈریس کی تصدیق حتمی شکل کی تصدیق کے لنک پر کلک کریں براہ
+        مہربانی.
+      updated: آپ نے کامیابی سے اپنے اکاؤنٹ کو اپ ڈیٹ.
+      new:
+        sign_up: سائن اپ کریں
+        name: نام
+        password: پاس ورڈ
+        password_confirmation: پاس ورڈ تصدیق
+        register: سائن اپ کریں
+    shared:
+      links:
+        sign_up: سائن اپ کریں
+        didnt_receive_confirmation_instructions: تصدیق کی ہدایات موصول نہیں ہوا؟
+        fast_login_almost_one_click: فاسٹ لاگ ان (تقریبا ایک کلک)
+    sessions:
+      signed_in: کامیابی سائن ان.
+      signed_out: کامیابی سے دستخط کئے گئے.
+      new:
+        password: پاس ورڈ
+        remember_me: مجھے یاد رکھیں
+        forgot_your_password: اپنا پاس ورڈ بھول گئے ہیں؟
+    unlocks:
+      send_instructions: "."
+      send_paranoid_instructions: اپنے اکاؤنٹ موجود ہے تو، آپ کو چند منٹ میں اس کو
+        غیر مقفل کرنے کے بارے میں ہدایات کے ساتھ ایک ای میل وصول کریں گے.
+      unlocked: کامیابی سے کھلا کیا گیا ہے. جاری رکھنے کیلئے سائن ان کریں.
+  timezones:
+    American Samoa: امریکی ساموا
+    International Date Line West: انٹرنیشنل ڈیٹ لائن مغرب
+    Midway Island: مڈوے جزائر
+    Hawaii: ہوائی
+    Alaska: الاسکا
+    Pacific Time (US & Canada): پیسیفک ٹائم (امریکہ & کینیڈا)
+    Tijuana: تیجوانا
+    Arizona: ایریزونا
+    Chihuahua: چہواہوا
+    Mazatlan: مزاٹلان
+    Mountain Time (US & Canada): پروتیی وقت (امریکہ & کینیڈا)
+    Central America: وسطی امریکہ
+    Central Time (US & Canada): مرکزی وقت (امریکہ & کینیڈا)
+    Guadalajara: گواڈلہارا
+    Mexico City: میکسیکو سٹی
+    Monterrey: مانٹیری
+    Saskatchewan: ساسکچیوان
+    Bogota: بگوٹا
+    Eastern Time (US & Canada): مشرقی وقت (امریکہ & کینیڈا)
+    Indiana (East): انڈیانا (مشرق)
+    Lima: لیما
+    Quito: کویٹو
+    Atlantic Time (Canada): اٹلانٹک وقت (کینیڈا)
+    Caracas: کراکس
+    Georgetown: جارج ٹاؤن
+    La Paz: لا پاز
+    Santiago: سینٹیاگو
+    Newfoundland: نیوفاونڈ لینڈ
+    Brasilia: براسیلیا
+    Buenos Aires: بیونس آئرس
+    Greenland: گرین لینڈ
+    Montevideo: مونٹیویڈیو
+    Mid-Atlantic: مڈ اٹلانٹک
+    Azores: ازورز
+    Cape Verde Is: کیپ وردے ہے.
+    Casablanca: کاسا بلانکا
+    Dublin: ڈبلن
+    Edinburgh: ایڈنبرا
+    Lisbon: لزبن
+    London: لندن
+    Monrovia: مونروویا
+    UTC: UTC
+    Amsterdam: ایمسٹرڈیم
+    Belgrade: بلغراد
+    Berlin: برلن
+    Bern: برن
+    Bratislava: بریٹیسلاوا
+    Brussels: برسلز
+    Budapest: بڈاپسٹ
+    Copenhagen: کوپن ہیگن
+    Ljubljana: تمباکو
+    Madrid: میڈرڈ
+    Paris: پیرس
+    Prague: پراگ
+    Rome: روم
+    Sarajevo: سرائیوو
+    Skopje: اسکوپجے
+    Stockholm: سٹاکہوم
+    Vienna: ویانا
+    Warsaw: وارسا
+    West Central Africa: مغربی وسطی افریقہ
+    Zagreb: زغرب
+    Athens: ایتھنز
+    Bucharest: بخارسٹ
+    Cairo: قاہرہ
+    Harare: ہرارے
+    Helsinki: ہیلسنکی
+    Istanbul: استنبول
+    Jerusalem: یروشلم
+    Kaliningrad: کلینی گارڈ
+    Kyiv: کیف
+    Pretoria: پریٹوریا
+    Riga: ریگا
+    Sofia: صوفیہ
+    Tallinn: ٹالن
+    Vilnius: ویلنیس
+    Baghdad: بغداد
+    Kuwait: کویت
+    Minsk: منسک
+    Moscow: ماسکو
+    Nairobi: نیروبی
+    Riyadh: ریاض
+    St Petersburg: سینٹ پیٹرز برگ
+    Volgograd: وولگوگراد
+    Tehran: تہران
+    Baku: باکو
+    Muscat: مسقط
+    Samara: سمارا
+    Tbilisi: تبلیسی
+    Yerevan: یریوان
+    Kabul: کابل
+    Ekaterinburg: Ekaterinburg
+    Islamabad: اسلام آباد
+    Karachi: کراچی
+    Tashkent: تاشقند
+    Chennai: چنئی
+    Kolkata: کولکتہ
+    Mumbai: ممبئی
+    New Delhi: نئی دہلی
+    Sri Jayawardenepura: سری Jayawardenepura
+    Kathmandu: کھٹمنڈو
+    Almaty: الماتی
+    Astana: آستانہ
+    Dhaka: ڈھاکہ
+    Novosibirsk: برسک
+    Urumqi: ارمکی
+    Rangoon: رنگون
+    Bangkok: بینکاک
+    Hanoi: ہنوئی
+    Jakarta: جکارتہ
+    Krasnoyarsk: کریسنویارسک
+    Beijing: بیجنگ
+    Chongqing: چونگ
+    Hong Kong: ہانگ کانگ
+    Irkutsk: ارکتسک
+    Kuala Lumpur: کوالالمپور
+    Perth: پرتھ
+    Singapore: سنگاپور
+    Taipei: تائی پے
+    Ulaanbaatar: اولان باتر
+    Osaka: اوساکا
+    Sapporo: ساپورو
+    Seoul: سیول
+    Tokyo: ٹوکیو
+    Yakutsk: یاکتسک
+    Adelaide: ایڈیلیڈ
+    Darwin: ڈارون
+    Brisbane: برسبین
+    Canberra: کینبرا
+    Guam: گوام
+    Hobart: ہوبارٹ
+    Melbourne: میلبورن
+    Port Moresby: پورٹ مورسبی
+    Sydney: سڈنی
+    Vladivostok: ولادووستوک
+    Magadan: مگادان
+    New Caledonia: نیو کیلیڈونیا
+    Solomon Is: سلیمان ہے.
+    Srednekolymsk: Srednekolymsk
+    Auckland: آکلینڈ
+    Fiji: فیجی
+    Kamchatka: کیمچٹکا
+    Marshall Is: مارشل ہے.
+    Wellington: ویلنگٹن
+    Chatham Is: چیٹہم ہے.
+    Nuku'alofa: Nukualofa
+    Samoa: ساموا
+    Tokelau Is: ٹوکیلاؤ ہے.
+  ur: ur
+  ur_iso: ur

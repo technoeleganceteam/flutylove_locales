@@ -1,0 +1,1786 @@
+---
+af:
+  1_we_have_just_launched_our_service_title: Ons het net begin ons diens!
+  common_keywords: daterings, online daterings, liefde daterings, webcam dating, speed
+    dating, chat dating, Ruby on Rails dating site, meertalige dating site
+  common_description: Die mees gevorderde internasionale sosiale vermaak netwerk vir
+    daterings "Flutylove"
+  default_album: Standaard album
+  user: gebruiker
+  user_to_search_connection: Soek
+  video: Video
+  note: Nota
+  photo_album: Fotoalbum
+  from: Van
+  to: Om
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Man
+  - female:
+      name: Vrou
+  - transgender:
+      name: Transgender
+  - male-female:
+      name: man-vrou
+  - double-female:
+      name: Double vroulike
+  - double-male:
+      name: Double manlike
+  orientation:
+  - heterosexual: Heteroseksuele
+  - homosexual: Homoseksuele
+  - bisexual: Tweeslagtig
+  search_for:
+  - chatting: met
+  - get_friends: Kry vriende
+  - flirtation: flirtasie
+  - marriage: Huwelik
+  - other: Ander
+  body_type:
+    slim: Slim
+    normal: Normale
+    athletic: Atleties
+    chubby: Chubby
+  relationship:
+    single: Enkellopend
+    in_a_relationship: In 'n verhouding
+    married: Getroud
+    nothing_serious: Niks ernstigs
+  children:
+    dont_have: Moet nie
+    dont_have_and_dont_want_to: Moenie het en wil nie
+    don_t_have_but_planning: Moet nie maar beplanning
+    have_enough: Het
+    have_and_planning_more: te hê en beplan meer
+    unable_to_have_children: nie kinders kan hê
+  living:
+    with_parents: met ouers
+    with_marriage_partner: Met huweliksmaat
+    alone: Alleen
+    with_friends: Met vriend (s)
+  education:
+    nothing: Niks
+    secondary_school: Sekondêre skool
+    college_technical_college: Kollege / tegniese kollege
+    university: Universiteit
+    postgraduate: graadse
+    phd_md_post_doctorate: PhD / MD / Meesters doktorsgraad
+  hair_color:
+    blonde: Blond
+    dark_blond: Donker blonde
+    brown: Brown
+    black: Swart
+    red: Rooi
+    gray: Gray
+    other: Ander
+  income:
+    unemployed: Werklose
+    unstable_earnings: Onstabiele verdienste
+    small_stable_earnings: Klein stabiele verdienste
+    medium_stable_earnings: Medium stabiele verdienste
+    higher_than_average_income: hoër as die gemiddelde inkomste
+    high_income: Hoë inkomste
+  smoking:
+    not_smoke: nie te rook
+    not_smoke_and_detest: nie te rook nie en het 'n hekel rook
+    smoke_in_a_social_setting: Soms in 'n sosiale omgewing
+    smoke_occasionally: Rook Soms
+    smoke_often: Rook dikwels
+  alcohol:
+    not_drinking: Nie drink
+    drink_occalionally: Drink Soms
+    drink_in_a_social_setting: Drink in 'n sosiale omgewing
+    drink_often: Drink dikwels
+  drugs:
+    dont_use: Moenie
+    contra_drugs: Contra dwelms
+    tried_out_some: probeer om uit 'n paar
+    light_drugs_occasionally: Lig dwelms af
+    regular: Gereelde
+  sponsor:
+    i_want_to_find_a_sponsor: Ek wil 'n borg te vind
+    willing_to_become_a_sponsor: bereid om 'n borg geword
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: nie op soek na 'n borg
+      en nie bereid is om een ​​te word
+  category_name:
+    strategy: Strategie
+    rpg: RPG
+    3d_shooters: 3D skuts
+    racing: Racing
+    arcade: Arcade
+    economic: Ekonomiese
+    simulators: Simulatoren
+    logic: Logika
+    adventure: Avontuur
+    board_games: Bordspeletjies
+    gambling: Dobbel
+    news: Nuus
+    communication: Kommunikasie
+    multimedia: Multimedia
+    drawing: Drawing
+    educational: Opvoedkundige
+    e_commerce: E-Commerce
+    other: Ander
+  shared:
+    header:
+      people: Mense
+      chat: Chat
+      groups: Groepe
+      forum: Forum
+      requests: Versoeke
+      about: Oor projek
+      help: Hulp
+      user_applications: Aansoeke
+    liked_users:
+      liked: Hou
+      all: Alle
+      you_have_not_liked_any_users_yet: Jy het geen gebruikers nog graag
+    most_liked_users:
+      most_liked_users: gewilde gebruikers
+    installed_user_applications:
+      installed_applications: geïnstalleer aansoeke
+      all: Alle
+      you_have_not_installed_any_apps_yet: Jy het geen aansoeke nog geïnstalleer
+    user_applications:
+      uploaded_apps: Opgelaaide aansoeke
+      all: Alle
+      you_have_not_uploaded_any_apps_yet: Jy het geen aansoeke opgelaai
+    right_sidebar:
+      news: Nuus
+      all: Alle
+      read_more: Lees meer
+    footer:
+      footer_text: Internasionale sosiale vermaak netwerk vir daterings "Flutylove"
+      privacy: privaatheid
+      terms: Terme
+      feedback: Terugvoer
+      abuse: misbruik
+    languages_select_modal:
+      available_languages: Beskikbare tale
+    site_map_modal:
+      site_map: Sitemap
+      faq: Vrae
+      about: oor
+      static_pages: statiese bladsye
+      common_pages: Gemeenskaplike bladsye
+      user_pages: Gebruiker bladsye
+      terms: Terme
+      privacy: privaatheid
+      people: Mense
+      user_applications: Aansoeke
+      user_requests: Versoeke
+      news: Nuus
+      feedback: Terugvoer
+      abuse: misbruik
+      chats: Geselsies
+      videos: Video
+      photo_albums: Foto albums
+      notes: Notes
+    pagination_link:
+      next_page: Volgende
+    user_edit_menu:
+      content: inhoud
+      profile: Profiel
+      site_settings: Site instellings
+      privacy: privaatheid
+      services: Dienste
+    activities_navigation:
+      all: Alle
+      photos: Fotos
+      photo_albums: Foto albums
+      notes: Notes
+      videos: Video
+    notifications_navigation:
+      all: Alle
+      likes: Hou Van
+      friend_requests: vriend versoeke
+      profile_views: profiel uitsig
+      photo_album_views: Fotos uitsig
+    user_to_friend_connections_navigation:
+      friends: Vriende
+      friends_online: Vriende aanlyn
+      outcome_requests: Uitkoms versoeke
+      income_requests: Inkomste versoeke
+    user_applications_navigation:
+      all: Alle
+      new: Nuwe
+      popular: gewilde
+      often_installed: Dikwels geïnstalleer
+      manage: Bestuur
+    user_requests_navigation:
+      all: Alle
+      popular: gewilde
+      my_requests: My versoeke
+    user_navbar_menu:
+      sign_in: Teken in
+      sign_up: Sluit aan
+    email_signature:
+      info: Info
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd
+    translations:
+      select_gender: Kies geslag
+      select_orientation: Kies oriëntasie
+      select_search_for: Kies soeke na
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Jy moet inteken voordat hierdie aksie
+      available_sign_in_methods: Jy
+    sign_up_methods:
+      usual_register_link: gewone registrasie
+      register_text: Behalwe% {usual_registration} jy kan registreer deur gewildste
+        dienste en sosiale netwerke
+    bootstrap_gallery:
+      previous: Vorige
+      next: Volgende
+    user_notification_title:
+      you_liked: Jy graag deur
+      wrote_message_to_you: Skryf boodskap aan jou
+      viewed_your_profile: jou profiel aangevra
+      liked_your_photo: Hou jou foto
+      liked_your_note: Hou jou boodskap
+      liked_your_request: Hou jou versoek
+      liked_your_video: Hou jou video
+      liked_your_application: Hou jou aansoek
+      requested_a_friendship: versoek om 'n vriendskap
+  authentications:
+    authentication:
+      turn_on: Skakel
+      turn_off: Skakel
+      turned_on: Turned op
+      turned_off: Afgeskakel
+    index:
+      enabled_services: aangeskakel dienste
+  users:
+    profile:
+      submit: Save
+      name: Naam
+      meet_with: Ontmoet met
+      gender: Geslag
+      type_in_your_location: Tipe in jou stad
+      about_me: Sommige woorde oor jouself (bykomend tot vorm hieronder)
+      sex_keywords: Belange in seks
+      enter_your_name: Tik jou naam
+      more_options: Meer
+      orientation: Oriëntasie
+      birth_date: Geboortedatum
+      location: ligging
+      search_for: soek
+      intimacy: Intimiteit
+      in_age: In die ouderdom
+      from: uit
+      to: om
+      interests: Belangstellings
+      height: Hoogte
+      weight: Gewig
+      hair_color: Haarkleur
+      relationship: Verhoudings
+      children: Kinders
+      living: Lewende
+      education: Onderwys
+      jobs: Job
+      income: Inkomste
+      languages: Tale
+      smoking: Rook
+      alcohol: Alkohol
+      drugs: Dwelms
+      contacts: kontakte
+      contact_name: Kontak Naam
+      contact_value: Kontak waarde
+      save: Save
+      about_yourself: oor jouself
+    settings:
+      submit: Save
+      locale: Interface taal
+      interface_language: Interface taal
+      time_zone: Tydsone
+    dialog_modal:
+      send_message: Stuur boodskap
+    index:
+      users: Gebruikers
+      clear_search: Duidelike soek
+    dashboard:
+      hello: Hallo
+      here_some_of_your_statistics: Hier 'n paar van jou statistiek
+      chats: Geselsies
+      messages: Kontak
+      photos: Fotos
+      videos: Video
+      notes: Notes
+      photo_albums: Foto albums
+    avatar:
+      photo: Photo
+      uploading_file: oplaai lêer
+      handling_file: Hantering lêer
+      drag_and_drop_your_file: sleep en jou lêer
+      here: hier
+      or: of
+      upload_file: oplaai lêer
+      from_other_sites: Van ander webwerwe
+      write_down_link_for_your_image: Skryf skakel van jou beeld
+      url_for_image: Url vir beeld
+      upload: oplaai
+      from_facebook: Van Facebook
+      turn_on_facebook: Draai op Facebook
+      you_can_upload_your_photos_from_facebook: Jy kan jou foto's van Facebook te
+        laai
+      from_vkontakte: Van Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Jy kan jou foto's van Vkontakte oplaai
+      turn_on_vkontakte: Draai op Vkontakte
+      from_instagram: Van Instagram
+      you_can_upload_your_photos_from_instagram: Jy kan jou foto's van Instagram te
+        laai
+      turn_on_instagram: Draai op Instagram
+      from_dropbox: Van Dropbox
+      you_can_upload_your_photos_from_dropbox: Jy kan jou foto's van Dropbox oplaai
+      turn_on_dropbox: Draai op Dropbox
+      edit_photo: wysig foto
+      delete_photo: Delete foto
+      are_you_sure: Is jy seker?
+    available_photos_modal:
+      available_photos: Beskikbare foto's
+    update:
+      your_password_was_successfully_changed: Jou wagwoord is suksesvol verander
+      your_profile_was_successfully_updated: Jou profiel is suksesvol opgedateer
+    edit_photo:
+      edit_photo: wysig foto
+      crop: Crop
+      close: Close
+      save_changes: Save veranderinge
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / ens
+      contact_value_placeholder: url / Nick / ID / ens
+    user:
+      about_me: About me
+      orientation: Oriëntasie
+      meet_with: Ontmoet met
+      desirable_age: Gewenste ouderdom
+      from: uit
+      to: om
+      interests: Belangstellings
+      height: Hoogte
+      sm: SM
+      kg: kg
+      hair_color: Haarkleur
+      relationship: Verhoudings
+      children: Kinders
+      living: Lewende
+      education: Onderwys
+      jobs: Jobs
+      income: Inkomste
+      languages: Tale
+      smoking: Rook
+      alcohol: Alkohol
+      drugs: Dwelms
+      contacts: kontakte
+    user_info:
+      offline: Offline
+      online: Online
+      age: Ouderdom
+    loading_modal_images:
+      loading_images: beelde te laai
+    password_form:
+      new_password: Nuwe wagwoord
+      confirm_new_password: Bevestig nuwe wagwoord
+      old_password: Ou wagwoord
+    show:
+      photos: Fotos
+      all: Alle
+      videos: Video
+      notes: Notes
+      view: View
+    dropbox_token_form:
+      key: Sleutel
+      paste_recieved_key: Plak ontvang sleutel
+      submit: Stuur
+    contents:
+      users_which_i_like: Gebruikers wat ek graag
+      all: Alle
+      my_videos_likes: My videos hou
+      my_photos_likes: My foto's hou
+      my_notes_likes: My notas hou
+      my_user_applications_likes: My aansoeke hou
+      my_user_requests_likes: My versoeke hou
+    more_profile_info:
+      photo_albums: Foto albums
+      view_all_photo_albums: Sien alle foto albums
+      create_more: Skep meer
+      videos: Video
+      view_all_videos: View all video's
+      notes: Notes
+      view_all_notes: View all notas
+      requirements_lists_to_partner: Vereistes lys om saam
+      requirement: Vereiste
+      view_all_requirements_lists: View all vereistes lyste
+      profile_verification: profiel verifikasie
+      your_profile_is_successfully_verified: Jou profiel word suksesvol geverifieer
+      create: Skep
+      you_have_not_any_requirements_lists_yet: Jy het geen vereistes Playlists nog
+      you_have_not_any_notes_yet: Jy het nog geen foto notas
+      you_have_not_any_photo_albums_yet: Jy het nog geen foto foto-albums
+      you_have_not_any_videos_yet: Jy het nog geen video's
+      your_profile_is_not_verified_yet: Jou profiel is nog nie geverifieer
+      verify_through_twitter: Gaan deur middel van Twitter
+      verify_through_facebook: Bevestig deur Facebook
+      verify_through_mail_ru: Bevestig deur Mail.ru
+    privacy:
+      privacy: privaatheid
+  searches:
+    form:
+      location: ligging
+      from: uit
+      to: om
+      age: Ouderdom
+      gender: Geslag
+    form_content:
+      city: City
+      gender: Geslag
+      age_from: Ouderdom van
+      to: om
+      online: Online
+      verified: Verified
+      has_avatar: Het avatar
+      region: Streek
+      more: Meer
+      country: Land
+      about_me: About me
+      interests: Belangstellings
+      languages: Tale
+      names: Name
+      height: Hoogte
+      from: uit
+      weight: Gewig
+      relationship: Verhoudings
+      hair_color: Haarkleur
+      education: Onderwys
+      orientation: Oriëntasie
+      search_for: soek
+      children: Kinders
+      living: Lewende
+      smoking: Rook
+      alcohol: Alkohol
+      drugs: Dwelms
+      income: Inkomste
+    show:
+      users: Gebruikers
+      clear_search: Duidelike soek
+  welcome:
+    index:
+      people: Mense
+      requests: Versoeke
+      user_applications: Aansoeke
+      about: oor
+      features: Kenmerke
+      registration: Registrasie
+      sign_in: Teken in
+      welcome_main_title: Welkom by Flutylove!
+      welcome_main_text: Dit is die plek waar jy jou volmaakte liefde kan vind
+      find_more: Vind meer
+      about_title: Flutylove is die internasionale sosiale vermaak netwerk vir daterings
+      about_text: Daar is baie funksies wat jy kan gebruik vir vermaaklikheid en daterings!
+      find_more_features: Vind meer funksies
+      at_our_service: kenmerke van ons diens
+      many_languages: Baie tale
+      text_about_many_languages: Ons diens is vertaal meer as 70 tale
+      check_it_out: Check dit uit
+      videochats: Videochats
+      text_about_videochats: Jy kan gesels met jou maat met videocams
+      try_it_now: Probeer dit nou
+      search: Soek
+      text_about_search: Jy kan soek met verskeie parameters en dit is gratis!
+      watch_this: Watch hierdie
+      more_features: Meer funksies
+      text_about_more_features: Jy kan video's, speletjies speel besigtig en doen
+        baie ander dinge!
+      register_and_learn_more: Register en leer meer
+      install_our_apps: Installeer ons programme uit op gewilde platforms
+      register_header: Registrasie
+  feedbacks:
+    new:
+      feedback_title: Terugvoer
+    form:
+      feedback_name: Jou naam
+      feedback_email: Jou e-pos
+      feedback_content: Terugvoer inhoud
+      close: Close
+      send: Stuur
+      feedback_recaptcha: Recaptcha
+      cancel: Kanselleer
+    success:
+      success_feedback: Dankie! Ons het jou terugvoer ontvang.
+      close: Close
+      cancel: Kanselleer
+      more: Stuur meer
+  abuses:
+    new:
+      abuse_title: misbruik
+    form:
+      abuse_name: Jou naam
+      abuse_email: Jou e-pos
+      abuse_content: misbruik inhoud
+      abuse_title: misbruik
+      close: Close
+      send: Stuur
+      abuse_recaptcha: Recaptcha
+      abuse_link: Link
+      cancel: Kanselleer
+    success:
+      success_abuse: Dankie! Ons het jou misbruik ontvang.
+      close: Close
+      cancel: Kanselleer
+      more: Stuur meer
+  layouts:
+    welcome:
+      welcome_title: Welkom by Flutylove! Die mees gevorderde dating site.
+  recaptcha:
+    errors:
+      verification_failed: Kon recaptcha
+      recaptcha_unreachable: Recaptcha is onbereikbaar
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Ons het net begin ons diens!
+      we_have_just_launched_our_service_text: Vandag loods ons ons diens sodat almal
+        kan
+      sign_up: teken
+      and_use_it: en gebruik dit.
+      wishes_and_requests: As jy enige wense of versoeke, kan jy inteken en skryf
+        dit
+      here: hier
+      with_love: Met liefde,
+      flutylove_team: Flutylove Team
+    index:
+      all_news: Alle nuus
+      read_more: Lees meer
+  chats:
+    panel_head:
+      online: Online
+      offline: Offline
+    pagination_link:
+      next_page: Volgende
+    form:
+      message_text: Boodskap teks
+    form_additions:
+      submit: Stuur
+      videochat: Videochat
+    show:
+      messages: Kontak
+    index:
+      messages: Kontak
+    videochat_request_link:
+      connect_to_videochat: Connect show opvoeren agter
+    modal_form:
+      send_message: Stuur boodskap
+      recipient: Ontvanger
+      message: Boodskap
+      close: Close
+      submit: Stuur
+    waiting_video_answer_button:
+      waiting_for_response: Wag vir reaksie ...
+    chat_created:
+      send_message: Stuur boodskap
+      message_was_sent: Boodskap gestuur
+      close: Close
+  messages:
+    pagination_link:
+      next_page: Volgende
+    form:
+      message_text: Boodskap teks
+  notifications:
+    user_to_friend_connection:
+      action: Aksie
+    notification:
+      offline: Offline
+      online: Online
+    like:
+      action: Aksie
+    photo_album_view:
+      action: Aksie
+    user_view:
+      action: Aksie
+  user_applications:
+    user_application:
+      who_uploaded: Opgelaai deur
+      all_uploaded_applications_by: Alle gelaai aansoeke deur
+    form:
+      name: Naam
+      user_application_name: Aansoek naam
+      description: beskrywing
+      description_text: beskrywing teks
+      iframe_url: Iframe url
+      icon_for_application: Aansoek ikoon
+      upload_icon: Laai ikoon
+      public: Openbare?
+      category_name: Kategorie
+      create: Skep
+      edit: wysig
+    show:
+      application: Aansoek
+      return_to_uploaded_applications: Om aansoek gelaai
+      return_to_all_applications: Terug na alle aansoeke
+    manage:
+      installed_applications: geïnstalleer aansoeke
+      uploaded_applications: Opgelaaide aansoeke
+      all: Alle
+    index:
+      applications_uploaded_by: Aansoeke gelaai deur
+      return_to_all_applications: Terug na alle aansoeke
+      create_new: Skep nuwe
+      return_to_manage_applications: Terug na programme te bestuur
+    installed:
+      installed_applications: geïnstalleer aansoeke
+      return_to_all_applications: Terug na alle aansoeke
+      return_to_manage_applications: Terug na programme te bestuur
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Voordat Sien aansoek wat jy
+        nodig het eers in te teken
+    need_to_install:
+      need_to_install_first: Jy moet hierdie aansoek eerste installeer
+      install_application: installeer aansoek
+  likes:
+    index:
+      liked_items: Hou items
+      return_to_my_content: Terug na my inhoud
+  videos:
+    index:
+      videos: Video
+      return_to_edit_profile: Om redigering profiel
+      create_new: Skep nuwe
+      return_to_profile: Terug na profiel
+    video:
+      edit: wysig
+      are_you_sure: Is jy seker?
+      delete: Verwyder
+    modal_form:
+      create_new_video: Skep nuwe video
+      close: Close
+      create: Skep
+    form_content:
+      name: Naam
+      video_name: Video naam
+      source: Url van insluit kode
+      video_url_or_embed_code: Video url van die video insluit kode
+    show:
+      video: Video
+      return_to_all_videos: Terug na alle videos
+      edit_video: wysig video
+    edit:
+      edit_video: wysig video
+      return_to_view_video: Terug na die lig video
+      view_video: Kyk video
+    form:
+      edit: wysig
+  photo_albums:
+    index:
+      photo_albums: Foto albums
+      return_to_editing_profile: Om redigering profiel
+      create_new: Skep nuwe
+      return_to_profile: Terug na profiel
+    photo_album:
+      edit: wysig
+      create: Skep
+      are_you_sure: Is jy seker?
+      delete: Verwyder
+    edit:
+      edit_photo_album: wysig foto-album
+      return_to_photo_albums: Om foto albums
+      view_photo_album: View foto-album
+    form_content:
+      name: Naam
+      photo_album_name: Fotoalbum naam
+    form:
+      edit: wysig
+      create: Skep
+    photo_album_uploader:
+      drag_and_drop_your_file: sleep en jou lêer
+      here: hier
+      or: of
+      upload_file: oplaai lêer
+      from_other_sites: Van ander webwerwe
+      write_down_link_for_your_image: Skryf skakel van jou beeld
+      url_for_image: Url vir beeld
+      upload: oplaai
+      from_facebook: Van Facebook
+      turn_on_facebook: Draai op Facebook
+      you_can_upload_your_photos_from_facebook: Jy kan jou foto's van Facebook te
+        laai
+      from_vkontakte: Van Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Jy kan jou foto's van Vkontakte oplaai
+      turn_on_vkontakte: Draai op Vkontakte
+      from_instagram: Van Instagram
+      you_can_upload_your_photos_from_instagram: Jy kan jou foto's van Instagram te
+        laai
+      turn_on_instagram: Draai op Instagram
+      from_dropbox: Van Dropbox
+      you_can_upload_your_photos_from_dropbox: Jy kan jou foto's van Dropbox oplaai
+      turn_on_dropbox: Draai op Dropbox
+    show:
+      photo_album: Fotoalbum
+      return_to_photo_albums: Om foto albums
+      edit_photo_album: wysig foto-album
+    modal_form:
+      create_new_photo_album: Skep nuwe foto album
+      close: Close
+      create: Skep
+  user_requests:
+    form:
+      content: inhoud
+      edit: wysig
+      create: Skep
+  notes:
+    index:
+      notes: Notes
+      return_to_edit_profile: Om redigering profiel
+      create_new: Skep nuwe
+      return_to_profile: Terug na profiel
+    note:
+      edit: wysig
+      are_you_sure: Is jy seker?
+      delete: Verwyder
+    show:
+      note: Nota
+      return_to_notes: Terug na notas
+    form_content:
+      content: inhoud
+      note_content: Let inhoud
+      edit: wysig
+      create: Skep
+    edit:
+      return_to_notes: Terug na notas
+      view_note: Kyk nota
+  user_to_search_connections:
+    index:
+      requirements_lists: Vereistes lyste
+      return_to_editing_profile: Om redigering profiel
+      create_new: Skep nuwe
+    user_to_search_connection:
+      edit: wysig
+      are_you_sure: Is jy seker?
+      delete: Verwyder
+    edit:
+      edit_requirements_list: wysig vereistes lyste
+      return_to_requirements_lists: vereistes lyste
+    form_content:
+      name: Naam
+      name_of_your_requirements_list: Naam van jou lys vereistes
+    form:
+      edit: wysig
+    show:
+      requirements_list: Vereistes lys
+      return_to_requirements_lists: vereistes lyste
+  photos:
+    index:
+      photos: Fotos
+      return_to_photo_albums: Terug na foto albums
+      return_to_profile: Om profiel
+  errors:
+    messages:
+      already_confirmed: is reeds bevestig, probeer aanmeld
+      confirmation_period_expired: moet bevestig binne% {tydperk}, versoek asseblief
+        'n nuwe een
+      expired: verstryk het, vra asseblief 'n nuwe een
+      not_found: nie gevind
+      not_locked: was nie gesluit
+      not_saved:
+        one: '1 fout verbied hierdie% {hulpbron} van gered:'
+        other: "% {count} foute verbied hierdie% {hulpbron} van gered:"
+    bad_request:
+      bad_request: Bad Request
+      bad_request_description: Die bediener kan nie, of weier die versoek verwerk
+        as gevolg van 'n oënskynlike kliënt fout
+      go_to_root: Gaan na wortel
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable Entiteit
+      unprocessable_entity_description: Die versoek was goed gevorm, maar was nie
+        in staat om wat gevolg moet word as gevolg van semantiese foute
+      go_to_root: Gaan na wortel
+    not_found:
+      not_found: nie gevind
+      not_found_description: Die versoek hulpbron kon nie gevind word, maar kan in
+        die toekoms
+      go_to_root: Gaan na wortel
+    forbidden:
+      forbidden: Verbode
+      forbidden_description: Die versoek was 'n geldige versoek, maar die bediener
+        weier om te reageer op dit
+      go_to_root: Gaan na wortel
+    internal_server_error:
+      internal_server_error: Interne server fout
+      internal_server_error_description: Iets het verkeerd geloop. Ons sal dit so
+        gou as moontlik op te los.
+      go_to_root: Gaan na wortel
+  pages:
+    privacy:
+      privacy: Flutylove Privaatheidsbeleid
+      general_provisions: Algemene bepalings
+      p_1_1: 1.1. Hierdie regulasies is 'n amptelike dokument van Limited Liability
+        Company "Technoelegance", geleë op 101,000, Moskou, Ulanskiy Pereulok 13,
+        stroeniye 4, pomeshcheniye 1 (hierna Flutylove, die maatskappy, het ons),
+        en bepaal die prosedures van die verwerking van data en inligting-sekuriteit
+        van individue wat die ouderdom van 18 jaar bereik het, en wat gebruik webwerf
+        https://flutylove.com (hierna die webwerf) en sy dienste (hierna die gebruikers).
+      p_1_2: 1.2. Die doel van hierdie Regulasies is om as gevolg van die beskerming
+        van die gebruikers inligting, insluitend persoonlike inligting, teen ongemagtigde
+        toegang en openbaarmaking te verseker.
+      p_1_3: 1.3. Die verhoudings wat verband hou met die insameling, berging, verspreiding
+        en sekuriteit van inligting Webwerf gebruiker word gereeld deur hierdie Regulasies,
+        ander amptelike dokumente van die maatskappy en die huidige wetgewing van
+        die Russiese Federasie.
+      p_1_4: 1.4. Die huidige weergawe van die Regulasies, wat 'n openbare dokument
+        is, is beskikbaar vir enige internet gebruiker wanneer die skakel te volg
+        http://flutylove.com/pages/privacy. Die maatskappy het die reg om hierdie
+        Regulasies te verander. In die geval van die veranderinge aan die Regulasies,
+        sal die Maatskappy die gebruikers in kennis stel deur te plaas die nuwe weergawe
+        van die Regulasies op die webwerf by permanente adres http://flutylove.com/pages/privacy,
+        nie later nie as 10 dae voor die effektiewe datum van die veranderinge. Die
+        vorige weergawes van die Regulasies word gestoor in die dokumentasie argief
+        van die Maatskappy.
+      p_1_5: 1.5. Hierdie Regulasies is ontwikkel en word gebruik in ooreenstemming
+        met die Gebruikers ooreenkoms. In die geval van 'n oortreding tussen hierdie
+        Regulasies en ander amptelike dokumente van die maatskappy, moet hierdie Regulasies
+        afgedwing.
+      p_1_6: 1.6. Deur die gebruik van die webwerf, stem jy in tot die bepalings en
+        voorwaardes van hierdie Privaatheidsbeleid. Lees dit asseblief sorgvuldig.
+        As jy nie saamstem met die voorwaardes van hierdie Privaatheidsbeleid, of
+        jy het nie die ouderdom van 18 jaar bereik het, kan jy nie gebruik maak van
+        die webwerf en sy dienste. Deur die gebruik van die webwerf, ongeag of jy
+        die geregistreerde gebruiker van Flutylove of nie, bevestig jy dat jy ten
+        volle aanvaar hierdie Privaatheidsbeleid, en onderneem om dit te volg.
+      the_website_using_conditions: Die webwerf met behulp van voorwaardes
+      p_2_1: '2.1. Op die webwerf Flutylove gebruik, moet jy registreer. naam, e-posadres,
+        geslag, die geboortedatum, plek information: Die volgende inligting moet gedurende
+        die registrasie gespesifiseer word. Die gebruiker kan bykomende persoonlike
+        besonderhede op sy / haar eie wens te lewer. Die gebruiker kan wysig of persoonlike
+        inligting te eniger tyd op te dateer. Die maatskappy het ''n reg om bykomende
+        stawende dokumentasie in geval van verandering geslag en geboortedatum van
+        die versoek van die gebruiker.'
+      p_2_2: '2.2. Deur toe te laat die toegang tot die webwerf en sy dienste, die
+        maatskappy, wat in ''n redelike wyse en in ''n goeie geloof, van mening is
+        dat die gebruiker: besef dat vir registrasie op die webwerf is dit nodig meer
+        as 18 jaar oud wees is; het al die nodige regte om in staat wees om te registreer
+        op die webwerf en dit gebruik; dui akkurate inligting oor homself / haarself
+        volgens die versoeke vir die gebruik van die dienste van die webwerf; is bewus
+        daarvan dat persoonlike inligting op die webwerf, wat deur die gebruiker,
+        kan vir ander gebruikers van die webwerf en Internet gebruikers sowel, kan
+        kopieer en versprei deur die ander gebruikers geword; is bewus daarvan dat
+        sommige vorme van inligting, oorgeplaas na die ander gebruikers, kan nie verwyder
+        word deur die gebruiker; vertroud met hierdie regulasies, is dit eens met
+        hulle en onderneem om die gespesifiseerde regte en verpligtinge.'
+      p_2_3: 2.3. Die maatskappy het nie die akkuraatheid van die ontvang (versamel)
+        inligting oor die gebruikers te verifieer, met die uitsondering van gevalle
+        waar sulke verifikasie nodig is ten einde die maatskappy se verpligtinge na
+        te kom om die gebruiker.
+      information_processing_objectives: inligting verwerking doelwitte
+      p_3_1: 3.1. Die maatskappy voer die verwerking van inligting oor gebruikers,
+        insluitend hul persoonlike data, ten einde die maatskappy se verpligtinge
+        om die gebruikers te voldoen vir die gebruik van die webwerf en sy dienste.
+      p_3_2: 3.2 Die maatskappy het 'n reg om die verwerking van persoonlike data
+        uit te voer sonder kennisgewing aan die bevoegde owerheid vir die beskerming
+        van regte van persoonlike data vakke.
+      structure_of_the_user_information: Struktuur van die gebruiker se inligting
+      p_4_1: '4.1. Persoonlike data van die gebruikers sluit in:'
+      p_4_1_1: 4.1.1. naam, e-posadres, geslag, geboortedatum, inligting oor die ligging
+        en telefoonnommer, wat deur die gebruikers en veronderstel net genoeg vir
+        die registrasie op die webwerf te wees;
+      p_4_1_2: 4.1.2. die inligting wat verskaf word deur die gebruiker (byvoorbeeld
+        foto's, inligting oor skadelike gewoontes ens);
+      p_4_1_3: 4.1.3. Verder verskaf deur die gebruiker volgens die versoek Maatskappy
+        ten einde die maatskappy se verpligtinge na te kom om die gebruikers, verskyn
+        vanaf gebruiker ooreenkoms. Die maatskappy het 'n reg, in die besonder, om
+        die versoek van die gebruiker 'n afskrif van die identiteitsdokument of enige
+        ander dokumente wat die naam, geslag en geboortedatum, asook ander bykomende
+        inligting wat na goeddunke van die Maatskappy se nodig sal wees en voldoende
+        vir die identifisering van sodanige gebruiker en sal die misbruik en skending
+        van regte van derde partye te skakel.
+      p_4_2: '4.2. Ander gebruiker se inligting verwerk deur die Maatskappy Die webwerf
+        administratiewe prosesse ook ander inligting oor die gebruikers, wat insluit:'
+      p_4_2_1: 4.2.1. algemene data, outomaties ontvang deur http-bediener wanneer
+        hulle die webtuiste besoek en die daaropvolgende aksies van die gebruiker
+        (IP-adres van die gasheer, tipe bedryfstelsel die gebruiker se bladsye van
+        die webwerf besoek deur die gebruiker).
+      p_4_2_2: 4.2.2. inligting wat outomaties ontvang wanneer hulle die webtuiste
+        besoek met behulp van boekmerke (koekies);
+      p_4_2_3: 4.2.3. inligting wat ontvang word as gevolg van optrede Gebruikers
+        op die webwerf;
+      p_4_2_4: 4.2.4. inligting wat ontvang word as gevolg van optrede van ander gebruikers
+        op die webwerf.
+      p_5_1: '5.1. Persoonlike data verwerking is die uitvoering van op grond van
+        volgende beginsels: a) wettige doeleindes en middel van die verwerking van
+        persoonlike data; b) eerlikheid; c) die nakoming van persoonlike data verwerking
+        doeleindes met doeleindes voorafbepaalde en verklaar wanneer die invordering
+        van die persoonlike data, asook die nakoming van die geloofsbriewe van die
+        Maatskappy; d) die nakoming van die volume en die tipe verwerking van persoonlike
+        data, en die nakoming van die hand van die verwerking van persoonlike data
+        met die oog op die verwerking; e) ontoelaatbaar van die kombinasie van die
+        geskape databasisse vir onversoenbare doeleindes, wat persoonlike data.'
+      p_5_1_1: 5.1.1. Die versameling van persoonlike data van die gebruiker word
+        uitgevoer op die webwerf toe registreer, asook in die toekoms wanneer die
+        gebruiker meer inligting oor homself / haarself met behulp van die webwerf
+        gereedskap op sy / haar eie inisiatief voeg.
+      p_5_1_2: 5.1.2. Persoonlike data van gebruikers uitsluitlik gestoor in elektroniese
+        formaat en verwerk deur gebruik te maak van outomatiese stelsels, met die
+        uitsondering van gevalle waar handleiding verwerking van persoonlike data
+        is nodig in die lig van die vergadering van die wetlike vereistes.
+      p_5_1_3: 5.1.3. persoonlike data gebruiker is nie oorgedra word aan enige derde
+        partye, behalwe in gevalle uitdruklike bepalings van hierdie regulasies en
+        die gebruiker ooreenkoms. Met die toestemming van die gebruiker, kan persoonlike
+        gebruiker data na derde teenpartye van die maatskappy onder die toestand van
+        aanvaarding van 'n verpligting oorgedra word om die vertroulikheid van inligting
+        ontvang verseker, in die besonder, by die gebruik van dienste en programme.
+        Gebruikers se persoonlike data voorsiening op versoek van die owerhede (plaaslike
+        owerhede) is in die proses uitgevoer soos vereis deur die wet.
+      p_5_1_4: '5.1.4. Persoonlike gebruiker data is verwyder toe: - data is self
+        verwyder uit die bladsy deur die gebruiker; - Bladsy is self verwyder deur
+        die gebruiker; - Inligting die gebruiker se en sy persoonlike blad verwyder
+        word deur die Maatskappy. In die geval van bladsy verwydering deur die gebruiker
+        self, die maatskappy stoor persoonlike inligting die gebruiker se op sy elektroniese
+        media binne 210 dae na die persoonlike blad verwyder. Die persoonlike data
+        is verwyder met die verstryking van 210 dae na die persoonlike blad verwyder.
+        Tot hierdie tydperk verstryk, moet die gebruiker die reg om die persoonlike
+        blad te herstel.'
+      users_rights_and_obligations: regte en verpligtinge Gebruikers
+      p_6_1: '6.1. Die gebruiker het die reg om:'
+      p_6_1_1: 6.1.1. toegang tot die inligting oor hom / haar sonder beperkings en
+        gratis deur die wysiging van sy persoonlike blad op die webwerf met die gebruik
+        van die login en wagwoord te gebruik;
+      p_6_1_2: 6.1.2. onafhanklik veranderinge en verbeteringe aan die inligting oor
+        persoonlike blad die gebruiker se op die webwerf, op die voorwaarde dat sodanige
+        veranderinge en verbeteringe bevat make-up-to-date en ware inligting;
+      p_6_1_3: 6.1.3. verwyder die inligting van die persoonlike blad op die webwerf;
+      p_6_1_4: 6.1.4. versoek die Maatskappy om meer spesifieke inligting, blok te
+        verkry of die persoonlike data verwyder, indien sodanige data onvolledig,
+        verouderde, onakkurate, onregmatig ontvang is of is nie nodig vir die verklaarde
+        doel van verwerking of indien die tydperk vermeld in paragraaf 6.1.3 van hierdie
+        aksies regulasies kan nie onafhanklik toegepas;
+      p_6_1_5: 6.1.5. op grond van aanvraag, ontvang die inligting van die maatskappy
+        met betrekking tot die verwerking van sy / haar persoonlike data.
+      p_6_2: '6.2. Die volgende inligting oor enige geregistreer Webwerf Gebruiker
+        is altyd beskikbaar om die geregistreerde gebruiker: gebruiker se naam, geslag,
+        ouderdom, profiel foto en ander inligting as die gebruiker het dit gepos word.'
+      p_6_3: 6.3. Die maatskappy dra geen aanspreeklikheid vir die bekendmaking van
+        persoonlike data die gebruiker se deur ander gebruikers van die webwerf wat
+        sulke data het aangevra.
+      p_6_4: 6.4. In die geval van persoonlike data (ander gebruikers inligting) verwydering
+        van persoonlike blad of verwydering van persoonlike blad die gebruiker se
+        van die webwerf die gebruiker se inligting die gebruiker se gekopieer deur
+        ander gebruikers of gestoor word op bladsye ander gebruikers bewaar.
+      p_7_1: 7.1. Die maatskappy neem tegniese, organisatoriese en wetlike maatreëls
+        om te verseker dat persoonlike inligting die gebruiker se beskerm teen ongemagtigde
+        of toevallige toegang, te skrap, verandering, blokkeer, kopiëring en verspreiding
+        sowel as uit ander ongemagtigde optrede.
+      p_7_2: 7.2. Teken die gebruiker se (e-posadres of selfoonnommer) en wagwoord
+        gebruik om toegang te verkry tot die webwerf. Die verbruiker is verantwoordelik
+        vir die behoud van hierdie inligting vertroulik. Die Gebruiker mag nie die
+        login en wagwoord te dra aan derde partye en is ook verplig om maatreëls te
+        tref om die vertroulikheid te verseker.
+      limitation_of_the_regulations_applicability: Beperking van die Regulasies toepaslikheid
+      p_8: Hierdie Regulasies is nie uitgebrei word na die optrede en Internet hulpbronne
+        van derde partye. Die maatskappy dra geen aanspreeklikheid vir die optrede
+        van derde partye wat toegang tot die gebruiker inligting via die internet
+        of die Webwerf Dienste het. Die webwerf Administrasie beveel om die gebruikers
+        om die kwessie te benader met die hoeveelheid inligting gepos word op die
+        webwerf op 'n verantwoordelike wyse.
+      user_requests: gebruiker versoeke
+      p_9_1: '9.1. Die gebruikers het ''n reg op versoeke om die maatskappy, insluitend
+        versoeke met betrekking tot die gebruik van die persoonlike data in geskrewe
+        vorm by die volgende adres stuur: Rusland, 101000, Moskou, Ulanskiy Pereulok
+        13, stroeniye 4, pomeshcheniye 1 of in die vorm van elektroniese dokument
+        onderteken deur ''n gekwalifiseerde elektroniese handtekening in ooreenstemming
+        met die wetgewing van die Russiese Federasie, deur die e-pos: support@flutylove.com.'
+      p_9_2: '9.2. versoek die gebruiker se moet die volgende inligting bevat: die
+        getal van die identiteitsdokument van die gebruiker of sy verteenwoordiger;
+        datum van uitreiking van die opsies dokument en die uitreiking gesag; inligting
+        wat bevestig deelname aan die Gebruiker se betrekkinge met die operateur (in
+        die besonder, die skakel na die bladsy); ondertekening van die gebruiker of
+        sy / haar verteenwoordiger.'
+      p_9_3: 9.3. Die maatskappy onderneem om te oorweeg en reageer op versoek van
+        die gebruiker se binne 30 dae nadat dit ontvang is.
+      p_9_4: 9.4. Alle korrespondensie deur die Maatskappy van die gebruikers (geskrewe
+        of elektroniese versoeke) ontvang word geklassifiseer as beperk-toegang tot
+        inligting en kan nie bekend gemaak word sonder skriftelike toestemming van
+        die gebruiker se. Die persoonlike data en ander inligting oor die gebruiker
+        wat die versoek gestuur mag nie gebruik word sonder spesiale toestemming van
+        die gebruiker, anders as vir reaksie op die versoek of in die gevalle uitdruklik
+        voorsien deur toepaslike wetgewing.
+    terms:
+      terms: Flutylove Gebruikers ooreenkoms
+      welcome: Welkom by Flutylove!
+      about_terms: 'Hierdie gebruiksvoorwaardes (asook die dokumente waarna verwys
+        word hierin, insluitend Privaatheidsbeleid) is die kontrak van adhesie in
+        ooreenstemming met artikel 428 van die burgerlike wetboek van die Russiese
+        Federasie (hierna die "ooreenkoms") tussen die individu wat 18 jaar oud bereik
+        (hierna die "User" en die maatskappy (of "ons") - ''n Limited Liability Company
+        "Technoelegance" (LLC "Technoelegance") (wettige adres: 101000, Moskou, Ulanskiy
+        Pereulok 13, stroeniye 4, pomeshcheniye 1), hierna Flutylove, waarvolgens
+        jy hierdie Webwerf en alle verwante dienste wat aangebied word deur die webwerf
+        of aansoek (algemeen na verwys as "dienste") kan gebruik. die webwerf is na
+        verneem enige van beteken sy weergawes, tesame onder die domein naam flutylove.com
+        en bedryf vir ''n verskeidenheid van toestelle, insluitend web-gebaseerde
+        weergawe, mobiele programme en programme vir sosiale netwerke.Deur die gebruik
+        van hierdie webwerf aanvaar die bepalings van ooreenkoms en Privaatheidsbeleid.
+        Lees dit asseblief sorgvuldig. As jy nie saamstem met die terme van ooreenkoms
+        en Privaatheidsbeleid, of jy het nie die ouderdom van 18 jaar bereik het,
+        kan jy nie gebruik maak van die webwerf en sy dienste.Deur die gebruik van
+        webwerf, ongeag wat jy nie geregistreerde gebruiker van Flutylove of, stem
+        jy heeltemal met hierdie ooreenkoms en ons Privaatheidsklousule, wat ingesluit
+        is in hierdie ooreenkoms deur die skakel en is beskikbaar op die webwerf,
+        en dit nakom.Op versoek van die gebruiker, die maatskappy onderneem om hierdie
+        ooreenkoms in ''n hardekopie onderteken en stuur dit aan die individu versoek
+        die dokumente.Die Maatskappy behou die reg voor om die Gebruikers ooreenkoms
+        en enige daarna verwys dokument verander. Om bewus te wees van die veranderinge
+        wat jy nodig het om te hou-up-to-date inligting oor sulke veranderinge op
+        ''n gereelde basis. Ons sal u inlig oor die veranderinge wat ons gemaak het
+        op hierdie bladsy hieronder. Wysigings nie terug verband en tree in werking
+        binne tien dae vanaf die datum van publikasie daarvan. Maar in die geval hulle
+        in verband met die implementering van nuwe dienste of die wysiging van die
+        wetgewing, dit sal onmiddellik toegepas word. As jy nie saamstem met die veranderinge
+        in die ooreenkoms, moet jy ophou om die webwerf en die toepassing daarvan.'
+      consent_to_accept_the_terms_of_user_agreement: 1. toestemming tot die terme
+        van die gebruiker ooreenkoms aanvaar.
+      p_1: n. Elektroniese ooreenkoms. Hierdie ooreenkoms is 'n elektroniese weergawe
+        van die kontrak, wat die voorwaardes vir die gebruik van die webwerf en die
+        dienste beskryf. Deur aan te teken op die webwerf of besig om 'n gebruiker,
+        aanvaar u hierdie ooreenkoms en onderneem om alle bepalings, voorwaardes,
+        en kennisgewings wat vervat of daar gekla. Jy bevestig en stem saam dat die
+        gebruikers van Flutylove 'n deel van 'n aanlyn gemeenskap wat ander webtuistes
+        wat deel uitmaak van die Maatskappy of sy filiale sluit mag wees. Daarom kan
+        die profiele op die webwerf besigtig word op ander soortgelyke webwerwe en
+        betalende intekenare van 'n webwerf kan kommunikeer met ander betalende intekenare
+        van alle webwerwe. b. Elektroniese vorm. Deur aan te teken op die webwerf
+        of besig om 'n gebruiker, jy instem om jou te voorsien met die elektroniese
+        ooreenkoms. c. Hardekopie vorm. Jy het 'n reg om die hardekopie van hierdie
+        ooreenkoms ontvang. Jy kan hardekopie uitgawe Versoek van hierdie ooreenkoms
+        voor of na dit in elektroniese vorm sal onderteken. Asseblief, kontak ons
+        ​​Customer Service vir meer inligting. d. Toegang en aflaai. Ten einde toegang
+        en laai hierdie elektroniese ooreenkoms, moet jy toegang tot die internet
+        of direk deur die toestelle met die toegang tot die web hulpbronne. Jy moet
+        die nodige toerusting om die Internet, naamlik die rekenaar, modem of ander
+        toegang toestel verbind het. Asseblief, druk 'n afskrif van hierdie ooreenkoms
+        en dit bewaar. Om die elektroniese vorm van die ooreenkoms af te laai, stoor
+        dit op jou rekenaar deur die hulp van 'n teks editor.
+      the_right_of_using_the_website: 2. Die regte gebruik van die webwerf.
+      p_2: Jy moet ten minste agtien (18) jaar oud om 'n geregistreerde gebruiker
+        van hierdie webtuiste te word. In die geval van nie-nakoming van die vereistes,
+        sal toegang tot die webwerf word ontken. Die gebruik van die webwerf, moet
+        die gebruiker daarvan bewus wees dat die persoonlike inligting op die webwerf
+        beskikbaar wees vir ander Internet gebruikers kan wees, en die maatskappy
+        is nie verdra aanspreeklikheid vir hul dade. Deur die gebruik van hierdie
+        webwerf kan jy beweer en onderneem dat jy het 'n reg, magtiging en moontlikheid
+        om hierdie Ooreenkoms aan te gaan, en toestemming om al die terme en voorwaardes
+        te volg. Besig om 'n gebruiker wat jy beweer en onderneem dat jy nog nooit
+        gely skuldigbevinding aan kriminele oortreding wat verband hou met seksuele
+        geweld. Die webwerf is ontwerp slegs vir persoonlike gebruik. Dit is verbode
+        om die webwerf te gebruik vir enige kommersiële doeleindes. Korporatiewe entiteite
+        kan nie die gebruikers van hierdie webwerf, sowel as kan hierdie diens of
+        die webwerf op hul doeleindes gebruik nie. Onwettige en / of ongemagtigde
+        gebruik van die webwerf, insluitend die invordering van gebruikersnaam en
+        / of e-posadresse deur die hulp van die elektroniese of ander gereedskap vir
+        die doel van die stuur van ongewenste boodskappe en skakels is agtervolg en
+        die maatskappy kan gepaste optrede volgens die wet te neem, insluitende 'n
+        beroep op die wetstoepassing owerhede.
+      pricing_and_registration: 3. PRYSE EN REGISTRASIE
+      p_3: Jy kan die gebruiker van Flutylove geword op vrywillige en gratis basis
+        deur te registreer op die webwerf. As die gebruiker, kan jy spesifieke reeks
+        dienste en geleenthede van die webwerf te gebruik. Die gebruiker van die webwerf
+        is 'n individu wat geregistreer is op die webwerf volgens gevestigde orde
+        en wat 18 jaar oud bereik. By registrasie op die webwerf die gebruiker is
+        verplig om die nodige en toepaslike inligting vir die Maatskappy om die gebruiker
+        bladsy te voltooi, insluitend die inskrywing (e-pos adres of telefoonnommer)
+        en wagwoord vir die toegang tot die webwerf, asook die naam, voorsien wat
+        is uniek vir elke gebruiker. Die vorm vir registrasie kan bykomende inligting
+        van die versoek van die gebruiker. Die verbruiker is verantwoordelik vir die
+        geldigheid, aktualiteitsprogram, volledigheid en nakoming van die wet van
+        die Russiese Federasie van die verskaf by registrasie inligting, en sy helderheid
+        van eise van derde partye. Wanneer die registrasie van die gebruiker stem
+        saam met hierdie ooreenkoms en spesifieke regte en verpligtinge, wat verband
+        hou met die gebruik van en funksionering van die webwerf te onderneem. Die
+        gebruiker kry volle toegang tot die gebruik van die webwerf funksies. Die
+        maatskappy onderneem regte en verpligting om die gebruiker, wat in hierdie
+        Regulasies, na die suksesvolle registrasie van die gebruiker op die webwerf
+        persoonlike data verwerking die gebruiker se bestaan ​​volgens die wet van
+        die Russiese Federasie. Die webwerf administratiewe prosesse persoonlike inligting
+        Gebruikers om die gebruiker te voorsien met 'n toegang tot die gebruik van
+        webwerf funksies, insluitend die ontvangs van persoonlike (geteiken) advertensie;
+        verifikasie, navorsing en ontleding van die data, sodat te ondersteun en die
+        funksies en afdelings van die webwerf te verbeter, sowel as nuwe funksies
+        en afdelings te ontwikkel. Die maatskappy neem al die nodige aksies om die
+        persoonlike data van die gebruiker teen ongemagtigde toegang, verandering,
+        openbaarmaking of skoonmaak beskerm. Die maatskappy bied toegang tot die persoonlike
+        data van die gebruiker slegs aan diegene werknemers, kontrakteurs en agente
+        van die maatskappy, wat hierdie inligting nodig om die webwerf funksionaliteit
+        ondersteun en om die gebruiker te voorsien met toegang tot sy gebruik van.
+        Die Maatskappy van die webwerf het 'n reg om die inligting wat deur die gebruiker
+        inligting, insluitend persoonlike inligting gebruik, ten einde voldoening
+        aan die vereistes van die huidige wetgewing van die Russiese Federasie te
+        verseker (insluitende die voorkoming en / of onderdrukking van onwettige en
+        / of onwettige optrede van die gebruikers). Bekendmaking van die inligting
+        wat deur die gebruiker inligting kan slegs gemaak word in ooreenstemming met
+        die huidige wetgewing van die Russiese Federasie op versoek van die hof, wetstoepassingsagentskappe,
+        sowel as in ander gevalle soos bepaal deur toepaslike wetgewing van die Russiese
+        Federasie. In die mate waarin die maatskappy prosesse die persoonlike data
+        van die gebruiker vir die uitvoering van hierdie Regulasies, word die gebruiker
+        se toestemming tot die verwerking van persoonlike data nie nodig in die grond
+        van bepalings van die wet op persoonlike data. Die inskrywing en die deur
+        die gebruiker gekies wagwoord is nodig en voldoende inligting vir die gebruiker
+        toegang tot die webwerf. Die gebruiker het die reg om sy / haar gebruikersnaam
+        en wagwoord te gee aan die derde partye, en is absoluut verantwoordelik vir
+        die veiligheid, die keuse van die pad van die stoor op 'n onafhanklike basis.
+        Met behulp van sy / haar hardeware en sagteware die gebruiker kan die berging
+        van die login en wagwoord (deur koekies) vir daaropvolgende outomatiese magtiging
+        op die webwerf toelaat. Enige optrede met die gebruik van gebruikersnaam en
+        wagwoord Gebruikers word beskou as beskikbaar gepleeg deur die gebruiker nie,
+        tensy die teendeel bewys word deur die gebruiker. Die gebruiker is verplig
+        om die maatskappy onmiddellik in kennis ooreenkomstig die gevestigde prosedure
+        in die geval van ongemagtigde toegang tot die gebruikersnaam en wagwoord en
+        / of die rekening bladsy, of bekendmaking van die login en wagwoord. Na registrasie
+        die gebruiker kry die reg om te skep, gebruik en bepaal die inhoud van sy
+        / haar eie persoonlike bladsye op self-belang en nie-kommersiële doeleindes,
+        asook die geleentheid kry om toegang te verkry en plaas die inligting oor
+        die persoonlike bladsye van ander gebruikers . Die gebruiker as die eienaar
+        van die geplaas op persoonlike blad inligting is bewus daarvan dat, met die
+        uitsondering van die wat deur hierdie regulasies en die huidige wetgewing
+        van die Russiese Federasie gevalle, die maatskappy nie deel te neem aan die
+        ontwikkeling en die gebruik van die inhoud en nie te beheer toegang tot bladsy
+        die gebruiker se ander gebruikers.
+      terms_4: 4. terme.
+      p_4: Hierdie ooreenkoms ten volle van krag bly en effek solank as wat jy die
+        webwerf gebruik. Jy kan ophou om die gebruiker van die webwerf deur die verwydering
+        van jou bladsy te eniger tyd, vir enige rede, deur kontak met ons aanlyn kliëntediens
+        of deur die gebruik van die diens van die webwerf. Die Maatskappy behou die
+        reg om jou persoonlike blad te eniger tyd verwyder. Ons is nie verplig om
+        u in kennis stel voordat die verwydering van die bladsy, waar die maatskappy
+        oor die rede om te glo dat jy die terme van die ooreenkoms oortree het. Ons
+        is nie verplig om die rede vir die verwydering van jou rekening te openbaar;
+        in sommige gevalle die bekendmaking van sodanige inligting kan verbied word.
+        Na die verwydering van jou bladsy, al die voorwaardes wat kan geldig wees
+        na die beëindiging van hierdie ooreenkoms deur die aard van krag sal wees
+        nadat sodanige beëindiging. As jy jou bladsy verwyder via die webwerf op jou
+        eie wil, kan ons jou vra om die rede van sodanige verwydering spesifiseer.
+      account_security: 5. rekeningsekuriteit.
+      p_5: Jy is verantwoordelik vir vertroulikheid behoud van jou gebruikersnaam
+        en wagwoord, wat sal bepaal word ten tyde van die registrasie. Ook, jy is
+        absoluut verantwoordelik vir die alle aksies wat plaasvind onder jou gebruikersnaam
+        en wagwoord. U stem in om (a) Ons onmiddellik in kennis stel van enige ongemagtigde
+        gebruik van jou gebruikersnaam en wagwoord, sowel as enige ander sekuriteit
+        skending, en (b) uittrede uit jou rekening aan die einde van elke sessie.
+        Die webwerf is nie verantwoordelik vir enige skade of verliese wat ontstaan
+        ​​uit die nie-nakoming van hierdie bepaling. Jy moet veral versigtig wees
+        wanneer toegang tot jou rekening via 'n openbare rekenaar sodat ongemagtigde
+        persone nie kon spioeneer of jou wagwoord of enige ander persoonlike inligting
+        aan te teken. Jy bevestig ook en stem saam dat die Internet was nog nooit
+        heeltemal privaat en veilig. Jy verstaan ​​dat enige boodskappe of inligting
+        wat jy plaas op die webwerf kan gelees word of gebruik word deur ander gebruikers,
+        selfs al is daar 'n spesiale waarskuwing dat die inligting is versteek.
+      your_interaction_with_other_users_of_the_website: 6. Jou interaksie met ander
+        gebruikers van die webwerf.
+      p_6: n. U is self verantwoordelik vir jou interaksie met ander gebruikers. JY
+        moet weet dat die maatskappy nie hul gebruikers of hulle 'n kriminele rekord
+        BETEKEN verifieer. Die maatskappy het ook nie versoek die inligting oor die
+        verlede van hul gebruikers en vereis nie VALIDEER hierdie inligting. Die maatskappy
+        maak GEEN WAARBORG TEN OPSIGTE gebruikers gedrag en hulle compatibiliteit
+        met die werklike of toekomstige gebruikers. BY Terselfdertyd het die Maatskappy
+        behou die reg om die gebruikers vir KRIMINELE REKORD VERIFIEER of uit te voer
+        ander verifikasiedokumente te eniger tyd met behulp van beskikbare OPENBARE
+        INLIGTING. b. IN GEEN gevalle is die maatskappy is nie verantwoordelik vir
+        enige skade of hulle DIREKTE, INDIREKTE, algemene of 'n spesifieke aard, COMPENSERENDE,
+        EN / OF INSIDENTELE, wat verkry word deur u of enige ander individue as 'n
+        gevolg van die gebruik van die webwerf, INSLUITEND, MAAR NIE BEPERK TOT, fisiese
+        besering, stres en / of ander skade, DEUR U verkry is as gevolg van kommunikasie
+        of vergaderings met ander geregistreerde gebruikers van die webwerf of volk,
+        dat jy te doen het met on die webtuiste. JY SAAMSTEM elke moontlike voorsorg
+        tref wanneer jy met die ander gebruikers, veral in daardie gevalle, wanneer
+        jy besluit om hulle te ontmoet in die werklike lewe. JY MOET bewus, wat die
+        maatskappy gee nie 'n verklaarde OF INGESLOTE WAARBORGE RAKENDE versoenbaarheid
+        met die gebruikers van hierdie webwerf. JY MOET nie die finansiële inligting
+        aan ander gebruikers van die webwerf (soos byvoorbeeld die inligting oor jou
+        krediet-of plastiek kaarte). c. Die diens kan jou naam of die naam van jou
+        dorp na ander tale vertaal; d. Die diens is nie verantwoordelik vir die in
+        hierdie artikel gelys aksies. In die geval dat jy nie heeltemal of gedeeltelik
+        saamstem met hulle, asseblief onmiddellik verlaat DIE webtuiste;
+      the_information_posted_by_you_on_flutylove: 7. DIE DEUR julle op FLUTYLOVE INLIGTING
+      p_7: n. U is self verantwoordelik vir die inligting wat jy publiseer of te demonstreer
+        (hierna "post") op die Diens of oordra aan ander gebruikers. Jy word nie toegelaat
+        om te post op die Diens of oordra aan ander gebruikers enige inligting oor
+        lasterlik, onakkuraat, beledigende, onwelvoeglike, vulgêr en aggressiewe inhoud,
+        die inligting oor seksuele inhoud, asook dreigende of agtervolging inligting,
+        inligting van rassediskriminasie aard of onwettige inligting, of enige ander
+        inligting wat inbreuk maak of in stryd met die regte van enige ander party
+        (insluitende, sonder beperking, intellektuele eiendomsreg, die reg op privaatheid
+        en publisiteit). Jy word nie toegelaat om onakkurate, misleidend of vals inligting
+        aan die Maatskappy of enige ander gebruiker te voorsien. As die inligting
+        aan die maatskappy Flutylove voorsien of 'n ander gebruiker word dan onakkurate
+        en misleidende vals, moet jy dadelik die maatskappy Flutylove van sodanige
+        verandering in kennis te stel. Jy dien en waarborg dat alle inligting wat
+        tydens registrasie inligting akkuraat en waar is, en jy onmiddellik enige
+        inligting wat daarna verkeerd, misleidend of onwaar word verander. b. Jy verstaan
+        ​​en stem saam dat ons behou die reg, maar nie verplig om die inligting of
+        inhoud wat oorgedra word na die Diens of gepos word in openbare toegang op
+        die Diens te monitor. Ons het 'n reg om enige van sodanige inligting of inhoud
+        te verwyder sonder om 'n rede en kennis. c. Alle voorwerpe wat vertoon word
+        op die webwerf, insluitende die ontwerp elemente, teks, grafika, illustrasies,
+        video's, draaiboeke, programme, musiek, klanke en ander voorwerpe en hul biblioteke
+        (hierna - Inligting), is die eiendom van 'n eksklusiewe regte van die Maatskappy,
+        die gebruikers van die webwerf en ander regte houers, alle regte om hierdie
+        voorwerpe beskerm. d. Behalwe soos vasgestel in ooreenstemming met hierdie
+        Ooreenkoms, asook die huidige wetgewing van die Russiese Federasie, mag geen
+        inligting gekopieer (opgeneem), verwerk, versprei, vertoon in 'n raam, gepubliseer,
+        afgelaai, oorgedra, verkoop of gebruik op ander maniere in geheel of stukke
+        sonder vooraf toestemming van die houer, tensy die houer regte uitdruklik
+        uitgespreek toestemming tot die vrye gebruik van die inligting wat deur enige
+        individu. e. Deur te plaas die inligting op die webtuiste wettiglik wat aan
+        die gebruiker, die gebruiker verskaf toegang vir ander gebruikers vir nie-eksklusiewe
+        reg om dit te gebruik deur die lees van, die speel (insluitend kopiëring)
+        en ander regte uitsluitlik vir die doeleindes van persoonlike en nie-kommersiële
+        gebruik, tensy gevalle waar sodanige gebruik veroorsaak of kan skade aan die
+        belange van die regtehouer deur die wet beskerm. f. Die gebruik van die inligting
+        deur die gebruiker, wat toegang uitsluitlik vir persoonlike en nie-kommersiële
+        gebruik van verkry, toegelaat word op voorwaarde dat al tekens van outeurskap
+        (kopiereg) of ander kennisgewings van outeurskap sal gehou word, die naam
+        van die outeur en sy produk sal gelaat word sonder verandering. g. Die gebruiker
+        verskaf ook die maatskappy met 'n nie-eksklusiewe reg om die inligting op
+        die webwerf en wat aan hom behoort gebruik / haar wettig sonder oorweging
+        ten einde die funksionering van die webwerf van die maatskappy te verseker
+        binne die prestasie van die argitektuur en funksionaliteit van die webwerf.
+        Die hierbo verwys nie-eksklusiewe reg verleen vir die inhoud plasing op die
+        webwerf en dek die gebied van die lande regoor die wêreld. Die maatskappy
+        het 'n reg om die verwys na die lid word aan derde partye regte oor te dra.
+        Gebruikers is dit eens dat die maatskappy het 'n reg om die funksionele en
+        tegniese opsies van die webwerf, die verskaffing van die vertoon van die inhoud
+        te deel deur die gebruiker, insluitend die doeleindes van die vertoon van
+        advertensies inligting. Hi. In die geval verwyder die gebruiker die inligting
+        van die webwerf, sal nie-eksklusiewe reg outomaties herroep, maar as gevolg
+        van die tegniese spesifikasies van die webwerf die Maatskappy behou die reg
+        voor om kopieë van die inligting binne die vereiste tyd en waar nodig te red.
+        Ek. Afgesien van die private inligting, die gebruiker het geen reg om te laai,
+        of openbaar in ander manier (deur die publikasie op die webwerf) die inligting
+        van ander webwerwe, databasisse en ander intellektuele eiendom in die afwesigheid
+        van toestemming uitdruklik uitgespreek om sodanige optrede van die kopiereg
+        Eienaar. j. Tensy anders aangedui in hierdie Regulasies, kan enigiets in hierdie
+        Regulasies nie in ag geneem word as 'n oordrag van 'n eksklusiewe regte om
+        die inligting. k. Al die inligting wat jy publiseer op jou rekening, moet
+        akkuraat wees, up-to-date en volledig is. Die gebruiker is absoluut alleen
+        verantwoordelik vir enige inligting wat gelaai of openbaar in ander manier
+        (gepos) op die webwerf of met die hulp van die gebruiker. Die gebruiker het
+        nie 'n reg om te laai, oordra of pos Die inhoud van die webwerf, indien hy
+        / sy nie die nodige regte het om so 'n aksie, verkry of gedelegeer neem om
+        hom / haar in ooreenstemming met wetgewing van die Russiese Federasie het.
+        Die maatskappy in staat, maar is nie verplig om die Webwerf vir enige onwettige
+        inhoud te blaai en is toegelaat om te verwyder of skuif (sonder kennisgewing)
+        enige inhoud of gebruikers in sy uitsluitlike diskresie, om enige rede of
+        sonder oorsake, insluitend sonder beperking te beweeg, of verwyder inligting
+        wat, volgens individuele mening van die Maatskappy oortree hierdie ooreenkoms,
+        die wetgewing van die Russiese Federasie en / of kan die regte skend, beseer,
+        of in gevaar stel die veiligheid van ander gebruikers of derde partye. Die
+        webwerf bevat (of kan bevat) skakels na ander webwerwe op die internet (webtuistes
+        van derde partye) asook artikels, foto's, illustrasies, grafiese, musiek,
+        klank, video, inligting, aansoeke, programmatuur en ander inligting wat aan
+        of kom van derde partye (Derdeparty inhoud), wat die gevolg is van intellektuele
+        aktiwiteit en beskerm in ooreenstemming met die wetgewing van die Russiese
+        Federasie. Hierdie derde partye en hul inligting nie geverifieer word deur
+        die Maatskappy vir die nakoming van hierdie of ander vereistes (akkuraatheid,
+        volledigheid, eerlikheid, ens). Die maatskappy is nie verantwoordelik vir
+        enige inhoud wat jy op die derdeparty-webwerwe waartoe die gebruiker toegang
+        verkry deur die webwerf of deur middel van die derdeparty-inligting, insluitend,
+        maar nie beperk tot enige menings of stellings wat op die derde party webwerwe
+        of in hul inligting. Die skakel na 'n webwerf, produk en diens enige inligting
+        van kommersiële en nie-kommersiële aard vervat op hierdie webwerf is nie 'n
+        goedkeuring of aanbeveling vir hierdie produkte (dienste) van die Maatskappy.
+        As die gebruiker besluit om die webwerf te verlaat en gaan na die webtuistes
+        van derde partye of te gebruik of installeer derde party sagteware, doen hy
+        / sy dit op eie risiko en van daardie oomblik Hierdie regulasies is nie meer
+        van toepassing op die gebruiker. Verdere Gebruiker optrede word gelei deur
+        die toepaslike reëls en beleid, insluitend die sakepraktyke van daardie individue
+        wie se inligting wat hy / sy gaan gebruik.
+      forbidden_actions: 8. VERBODE AKSIES.
+      p_8: n. Dit is verbode om enige persoon " 'n wakende oog te hou op" of versteur
+        in ander manier. b. Dit is verbode om bots, virusse, aansoeke gebruik om te
+        soek / uittreksel webwerwe, of ander handleiding of outomatiese toestelle
+        of prosesse te onttrek, indeks, "spioenasie" of voort te plant in ander manier
+        of omseil die navigasie struktuur en vertoon van die Diens of die inhoud daarvan
+        . c. Dit is verbode om te post, te versprei, of voort te plant eVeryWay enige
+        kopiereg inligting, handelsmerke, of ander inligting wat deur kopiereg beskerm
+        word sonder die vooraf toestemming van die eienaar van die kopiereg. d. Dit
+        is verbode om enige kopiereg, handelsmerke of ander kopiereg kennisgewings
+        wat op die Diens te verwyder. e. Dit is verbode om in te meng in of ontwrig
+        die werking van die Diens en die webwerf, of dienste en netwerke verbind tot
+        die Diens of die webwerf. f. Dit is verbode om te publiseer, e-pos of oordrag
+        in ander manier enige inligting wat virusse of enige ander rekenaarkode, lêers
+        of programme wat ontwerp is om in te meng, te vernietig of die funksie van
+        'n rekenaar sagteware, hardeware of telekommunikasie toerusting beperk bevat.
+        g. Dit is verbode om kop te bewerk of te manipuleer die aanwysing vir die
+        doel van disguising die ware betekenis van enige inligting gedeel deur die
+        Diens. h. Dit is verbode om "bewerk" of "kopie" enige deel van die Diens of
+        die webwerf sonder die vooraf skriftelike toestemming van Flutylove. Ook,
+        kan jy nie enige metatags of kode, of ander toestelle wat enige skakels na
+        Flutylove, die Diens of die webwerf gebruik om 'n persoon te lei na 'n ander
+        site vir enige doel. Ek. Dit is verbode om te verander, aan te pas, sublisensieer,
+        vertaal, verkoop, te herstruktureer, ontsyfer, afbreek of demontage enige
+        deel van die Diens of die webwerf, of enige sagteware wat gebruik word op
+        die webwerf of daarvoor, asook ander aanmoedig om soortgelyke aksies te neem
+        . j. Dit is verbode om enige inligting met pornografiese en / of erotiese
+        inhoud te plaas.
+      the_changes_in_the_service: 9. Die veranderinge in die Diens.
+      p_9: Flutylove behou die reg voor om te eniger tyd te verander of uit te skakel
+        tydelik of permanent die Service (of enige dis deel) sonder kennisgewing.
+        Jy stem saam dat Flutylove is nie verantwoordelik vir u of enige derde partye
+        vir enige wysigings, tydelike beskikbaarheid of volledige aanskakel van die
+        Diens.
+      ip_address_blocking: 10. IP-adres geblokkeer.
+      p_10: Ten einde die integriteit van die webwerf te beskerm, Flutylove behou
+        die reg om te eniger tyd op sy eie gerief om IP-adresse van sekere gebruikers
+        te blokkeer.
+      relations_between_users_online: 11. VERHOUDINGS tussen gebruikers aanlyn
+      p_11: Jy is self verantwoordelik vir jou interaksie met ander gebruikers van
+        Flutylove. Flutylove behou die reg, maar nie die verpligting, om geskille
+        tussen jou en ander gebruikers te monitor.
+      security_and_communication: 12. SEKURITEIT en kommunikasie.
+      p_12: Die gebruik van die webwerf en / of die diens is ook gereeld deur ons
+        privaatheidsbeleid. As jy 'n gebruiker te word, stem jy in en toestemming
+        om e-pos van ons ontvang. Hierdie e-pos kan die kennisgewings oor bedrywighede
+        of ander kennisgewings wat verband hou met die Diens, soos administratiewe
+        kennisgewings en amptelike aankondiging oor die veranderinge, of e-pos met
+        kommersiële aanbiedings, promosiemateriaal, spesiale aanbiedings van ons,
+        of inligting oor die optrede van ander gebruikers oor verteenwoordig jou rekening.
+        Lees asseblief ons Privaatheidsklousule om meer oor sulke kennisgewings weet.
+      denial_of_responsibility: 13. ontkenning van verantwoordelikheid.
+      p_13: n. Flutylove is nie verantwoordelik vir enige foutiewe of onakkurate inligting
+        gepos word op die webwerf of geassosieer word met die Diens, gebruikers van
+        die webwerf of enige hardeware of sagteware wat verband hou met ons diens
+        of is daar gebruik. Flutylove is nie verantwoordelik vir die gedrag, beide
+        aanlyn en aflyn, van enige gebruiker van die webwerf. Flutylove nie op verantwoordelikhede
+        neem vir enige foute, weglatings, onderbrekings, uitwissing, skade of vertraging
+        in werking of bedrywighede, kommunikasie lyn mislukking, diefstal of vernietiging,
+        ongemagtigde toegang of verandering van kommunikasie lyne van die gebruiker.
+        Flutylove is nie verantwoordelik vir enige probleme of tegniese wanfunksionering
+        van enige telefoon netwerke of lyne, rekenaar aanlyn stelsels, bedieners of
+        verskaffers, rekenaartoerusting, programmatuur, pos of spelers mislukking
+        in die rekening, tegniese probleme of opeenhoping op die internet of op enige
+        webwerf of sy kombinasie, insluitend ongelukke of beserings aan gebruikers
+        of enige derde partye wat verband hou met 'n rekenaar, of as gevolg van deelname
+        aan of af te laai inligting wat verband hou met die netwerk en / of die Diens.
+        Onder geen omstandighede die Flutylove maatskappy of enige van sy vennoot,
+        reklame agente, stigters of verspreiding vennote sal nie verantwoordelik wees
+        vir enige verlies of skade, insluitend persoonlike besering of dood, as gevolg
+        van die gebruik van die webwerf of die Diens, enige inhoud geplaas op die
+        webwerf , of enige interaksies tussen gebruikers van die webwerf, beide aanlyn
+        en aflyn. Die webwerf en die diens gelewer word op 'n voetstoots 'basis, en
+        Flutylove ontken uitdruklik enige waarborge of geskiktheid vir 'n spesifieke
+        doel, of afwesigheid van die skending van iemand se regte. Flutylove kan nie
+        waarborg en belowe nie van enige spesifieke resultate van die gebruik van
+        die webwerf en / of die Diens.
+      links: 14. skakels.
+      p_14: n. Flutylove is nie verantwoordelik vir enige foutiewe of onakkurate inligting
+        gepos word op die webwerf of geassosieer word met die Diens, gebruikers van
+        die webwerf of enige hardeware of sagteware wat verband hou met ons diens
+        of is daar gebruik. Flutylove is nie verantwoordelik vir die gedrag, beide
+        aanlyn en aflyn, van enige gebruiker van die webwerf. Flutylove nie op verantwoordelikhede
+        neem vir enige foute, weglatings, onderbrekings, uitwissing, skade of vertraging
+        in werking of bedrywighede, kommunikasie lyn mislukking, diefstal of vernietiging,
+        ongemagtigde toegang of verandering van kommunikasie lyne van die gebruiker.
+        Flutylove is nie verantwoordelik vir enige probleme of tegniese wanfunksionering
+        van enige telefoon netwerke of lyne, rekenaar aanlyn stelsels, bedieners of
+        verskaffers, rekenaartoerusting, programmatuur, pos of spelers mislukking
+        in die rekening, tegniese probleme of opeenhoping op die internet of op enige
+        webwerf of sy kombinasie, insluitend ongelukke of beserings aan gebruikers
+        of enige derde partye wat verband hou met 'n rekenaar, of as gevolg van deelname
+        aan of af te laai inligting wat verband hou met die netwerk en / of die Diens.
+        Onder geen omstandighede die Flutylove maatskappy of enige van sy vennoot,
+        reklame agente, stigters of verspreiding vennote sal nie verantwoordelik wees
+        vir enige verlies of skade, insluitend persoonlike besering of dood, as gevolg
+        van die gebruik van die webwerf of die Diens, enige inhoud geplaas op die
+        webwerf , of enige interaksies tussen gebruikers van die webwerf, beide aanlyn
+        en aflyn. Die webwerf en die diens gelewer word op 'n voetstoots 'basis, en
+        Flutylove ontken uitdruklik enige waarborge of geskiktheid vir 'n spesifieke
+        doel, of afwesigheid van die skending van iemand se regte. Flutylove kan nie
+        waarborg en belowe nie van enige spesifieke resultate van die gebruik van
+        die webwerf en / of die Diens.
+      limitation_of_responsibility: 15. BEPERKING VAN AANSPREEKLIKHEID.
+      p_15: DIE Webwerf en sy funksies, insluitend alle skrifte, programme, inhoud
+        en ontwerp van die webwerf VOORSIEN 'as is BASIS. DIE MAATSKAPPY ONTKEN ENIGE
+        WAARBORG dat die webwerf of sy werksaamhede geskik is of nie geskik is vir
+        'N SPESIFIEKE DOEL VAN toepassing sal wees. Die maatskappy kan nie waarborg
+        en geen spesifieke resultate van die gebruik van die webwerf en / of sy werksaamhede
+        belofte; OM TE VERMY verwarring, kan gebruikers veiligheidspraktyke VOORSORGMAATREËLS
+        met die aflaai van die webwerf OF DEUR DIE POSTED skakels, en die gebruik
+        van ENIGE lêers, sowel as die sagteware. DIE MAATSKAPPY sterk aanbeveel om
+        slegs gelisensieerde sagteware gebruik sowel as antivirus sagteware; As jy
+        die webwerf, kan die gebruiker SAAMSTEM WAT downloads van terrein of MET SY
+        help om enige inhoud op sy / haar eie risiko en alleen verantwoordelik vir
+        die MOONTLIKE resultate van die gebruik van die inligting, insluitend enige
+        skade wat hy mag veroorsaak gebruiker se rekenaar of na ander PARTYE, verlies
+        van data of enige ander skadevergoeding; ONDER GEEN OMSTANDIGHEDE die maatskappy
+        of sy agente julle geen verantwoordelikheid teenoor die Gebruiker of enige
+        derde party vir enige indirekte, toevallig en UNWILFUL SKADE, insluitende
+        die verlies van voordeel, of verlore data, skade aan eer waardigheid of besigheid
+        reputasie, VOORTSPRUITEND UIT DIE gebruik van die webwerf, die inhoud of enige
+        ander inligting waarna jy of enige ander persoon ONTVANG toegang deur die
+        webwerf, al het die maatskappy gewaarsku is of dui die MOONTLIKHEID VAN SODANIGE
+        SKADE.
+      responsibilities_of_the_parties: 16. VERANTWOORDELIKHEDE van die partye.
+      p_16: Hierdie ooreenkoms word beheers deur en uitgelê in ooreenstemming met
+        die wetgewing van die Russiese Federasie. Kwessies wat nie ingesink deur die
+        ooreenkoms sal vereffen word in ooreenstemming met die wetgewing van die Russiese
+        Federasie. In die geval van enige dispute of strydpunte wat verband hou met
+        die implementering van hierdie Regulasies, sal die gebruiker en die maatskappy
+        alles moontlik gedoen om dit op te los deur middel van onderhandelinge te
+        maak. In die geval sal die geskille nie opgelos word deur onderhandeling,
+        sal die geskille besleg word in ooreenstemming met die toepaslike wetgewing
+        van die Russiese Federasie. Hierdie ooreenkoms is uitgevoer in die Russiese
+        taal en kan die gebruiker verskaf word vir hersiening in 'n ander taal. In
+        die geval van teenstrydigheid van die weergawe van die Regulasies in die Russiese
+        taal en sy weergawe in 'n ander taal, sal die weergawe in die Russiese taal
+        van die bepalings van hierdie verordening word toegepas. As vir een of ander
+        rede, een of meer bepalings van hierdie regulasies sal ongeldig verklaar of
+        voided, beteken dit geen invloed op die geldigheid of afdwingbaarheid van
+        die oorblywende bepalings.
+      other_provisions_and_changes: 17. Ander voorsiening EN VERANDERING.
+      p_17: Hierdie ooreenkoms is die ware ooreenkoms tussen u en Flutylove met betrekking
+        tot die gebruik van die webwerf en / of die Diens. Indien enige bepaling van
+        hierdie ooreenkoms ruimtes, die res van die ooreenkoms bly die geldigheid
+        daarvan in volle krag. Hierdie ooreenkoms kan gewysig word deur Flutylove
+        te eniger tyd. Moet asseblief nie huiwer om ons te kontak met enige vrae met
+        betrekking tot hierdie ooreenkoms.
+      read_this: Ek het gelees HIERDIE OOREENKOMS en onderneem om al sy terme.
+    about:
+      about_flutylove: Oor Flutylove
+      about_flutylove_text: Flutylove is die internasionale sosiale vermaak netwerk
+        vir daterings. Hier kan jy vriende, 'n sielsgenoot, vennote vind of net jou
+        tyd te spandeer saam met geniet deur die speel van speletjies of video's /
+        foto's.
+      flutylove_features: 'As jy sal teken op ons webwerf, kan jy uitvind baie eienskappe
+        soos:'
+      video_call_feature: Jy kan gesels met vennoot met webcam
+      extended_search: Jy kan uitgebreide soektog na gratis gebruik
+      multilanguages: Jy kan vennote uit ander lande soek, want ons diens sal na verwagting
+        gebruik word deur wye verskeidenheid van mense uit ander lande omdat dit vertaal
+        meer as 70 tale
+      play_games_chatting_etc: Jy kan gesels met ander mense, speletjies speel en
+        doen 'n ander sosiale dinge
+      we_are_in_social_networks: 'Ons is in die sosiale netwerke:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google plus
+      instagram: Instagram
+      github: GitHub
+      we_use_open_source_and_high_technology: Ons maak gebruik van hoë tegnologie
+        en open source biblioteke. Ons het altyd probeer om beter te kry en die verbetering
+        van ons diens.
+      partners_and_investors: Ons is oop vir samewerking en ons wil graag om beleggers
+        te vind. As jy wil om saam te werk met ons kontak ons ​​asseblief by partnership@flutylove.com
+    faq:
+      faq: Vrae
+      what_is_flutylove: Wat is Flutylove?
+      about_flutylove: Flutylove is die internasionale sosiale vermaak netwerk vir
+        daterings. Hier kan jy vriende, 'n sielsgenoot, vennote vind of net jou tyd
+        te spandeer saam met geniet deur die speel van speletjies of video's / foto's.
+      what_features_has_flutylove: Watter eienskappe het Flutylove?
+      flutylove_features: Hier jy kan gesels met videocams, gebruik uitgebreide soektog,
+        soek vennote uit ander lande, speletjies speel en doen ander sosiale dinge.
+      i_have_some_requests: Ek het 'n paar versoeke
+      you_can_write_request: Jy kan inteken en skryf dit
+      here: hier
+      i_have_seen_some_typo_or_wrong_translation: Ek het 'n paar tikfout of verkeerde
+        vertaling gesien
+      you_can_send_pull_request_to_our: Jy kan 'n trek versoek te stuur aan ons
+      github_repository: GitHub bewaarplek
+      i_have_seen_some_error: Ek het 'n paar foute gesien
+      you_can_send: Jy kan vir ons terugvoer te stuur deur
+      feedback: hierdie vorm
+      to_us_or_write_to_our_info_mail: of skryf e-pos aan support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Welkom by Flutylove
+      you_have_successfully_signed_up_to_flutylove: Jy het suksesvol onderteken Flutylove
+      you_can_sign_in_with_your_social_networks: As jy wil graag aan te meld weer
+        kan jy aanmeld met jou sosiale netwerk rekening
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: As
+        jy wil graag aan te meld met e-pos en wagwoord wat jy kan wagwoord verander
+        deur teken uit en klik op onderstaande skakel
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: verkeerde
+            search_for:
+              search_for_error: verkeerde
+            birth_date:
+              birth_date_error: moet groter as 18 en minder as 115 wees
+            interests:
+              interests_error: moet minder as 2000 simbole wees
+            jobs:
+              jobs_error: moet minder as 2000 simbole wees
+            languages:
+              languages_error: moet minder as 2000 simbole wees
+            sex_keywords:
+              sex_keywords_error: moet minder as 2000 simbole wees
+            my_turn_ons:
+              my_turn_ons_error_error: verkeerde
+            contacts:
+              contacts_length_error: moet minder as 2000 simbole wees
+              contacts_size_error: moet minder as 21 kontakte wees
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: het ongeldige waarde
+  devise:
+    confirmations:
+      confirmed: Jou rekening is suksesvol bevestig.
+      send_instructions: Jy sal 'n e-pos ontvang met instruksies oor hoe om jou rekening
+        in 'n paar minute te bevestig.
+      send_paranoid_instructions: As jou e-posadres bestaan ​​in ons databasis, sal
+        jy 'n e-pos ontvang met instruksies oor hoe om jou rekening in 'n paar minute
+        te bevestig.
+      new:
+        send_mail_for_confirm_your_email: Stuur pos na bevestig jou e-pos
+        submit: Stuur
+    failure:
+      already_authenticated: Jy is reeds aangemeld.
+      inactive: Jou rekening is nog nie geaktiveer.
+      invalid: Ongeldige e-pos of wagwoord.
+      locked: Jou rekening is gesluit.
+      last_attempt: Jy het nog 'n poging voor jou rekening sal gesluit.
+      not_found_in_database: Ongeldige e-pos of wagwoord.
+      timeout: Jou sessie verstryk. Meld asseblief aan weer om voort te gaan.
+      unauthenticated: Jy moet in teken of teken voordat u verder gaan.
+      unconfirmed: Jy moet jou rekening te bevestig voordat u verder gaan.
+    mailer:
+      confirmation_instructions:
+        subject: Bevestiging instruksies
+        welcome_to_flutylove: Welkom by Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Jy kan jou e-pos
+          te bevestig deur die onderstaande skakel
+        confirm_my_account: Bevestig my e-pos
+      reset_password_instructions:
+        hello: Hallo
+        subject: Herstel wagwoord instruksies
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Iemand
+          het versoeke 'n skakel om jou wagwoord te verander. Jy kan dit doen deur
+          die skakel hieronder.
+        change_my_password: verander my wagwoord
+        if_you_didnt_request_this_please_ignore_this_email: As jy nie wil hierdie
+          ignoreer asseblief hierdie e-pos.
+      unlock_instructions:
+        subject: ontsluit instruksies
+    omniauth_callbacks:
+      failure: Kan jy nie kontroleer van% {soort} omdat "% {rede}".
+      success: suksesvol bevestig vanaf% {soort} rekening.
+    passwords:
+      no_token: Jy kan nie toegang tot hierdie bladsy sonder afkomstig van 'n wagwoord
+        in te stel e-pos. As jy kom uit 'n wagwoord in te stel e-pos, maak asseblief
+        seker dat jy die volle URL verskaf word.
+      send_instructions: Jy sal 'n e-pos ontvang met instruksies oor hoe om jou wagwoord
+        te herstel in 'n paar minute.
+      send_paranoid_instructions: As jou e-posadres bestaan ​​in ons databasis, sal
+        jy 'n wagwoord herstel skakel na jou e-pos adres te ontvang in 'n paar minute.
+      updated: Jou wagwoord is suksesvol verander. Jy is nou onderteken.
+      updated_not_active: Jou wagwoord is suksesvol verander.
+      new:
+        forgot_your_password: Herstel jou wagwoord
+        reset_password: Stuur herstel url
+      edit:
+        change_your_password: verander jou wagwoord
+        new_password: Nuwe wagwoord
+        confirm_password: Bevestig wagwoord
+        change_password: Verandering
+    registrations:
+      destroyed: Bye! Jou rekening is suksesvol gekanselleer. Ons hoop om jou weer
+        te sien gou.
+      signed_up: Welkom! Jy het suksesvol aangesluit.
+      signed_up_but_inactive: Jy het suksesvol aangesluit. Maar ons kan jy nie inteken
+        nie omdat jou rekening nog nie geaktiveer.
+      signed_up_but_locked: Jy het suksesvol aangesluit. Maar ons kan jy nie inteken
+        nie omdat jou rekening is gesluit.
+      signed_up_but_unconfirmed: "'n boodskap met 'n bevestiging skakel gestuur na
+        jou e-posadres. Kyk asseblief na die skakel na jou rekening te aktiveer."
+      update_needs_confirmation: jy jou rekening suksesvol opgedateer, maar ons nodig
+        het om jou nuwe epos adres te kontroleer. Gaan asseblief jou e-pos en klik
+        op die bevestiging skakel na finaliseer bevestig jou nuwe e-posadres.
+      updated: jy jou rekening opgedateer suksesvol.
+      new:
+        sign_up: Sluit aan
+        name: Naam
+        password: wagwoord
+        password_confirmation: wagwoord bevestiging
+        register: Sluit aan
+    shared:
+      links:
+        sign_in: Teken in
+        sign_up: Sluit aan
+        didnt_receive_confirmation_instructions: Het nie ontvang bevestiging instruksies?
+        sign_in_with: Teken in met
+        fast_login_almost_one_click: Fast inskrywing (Byna een kliek)
+    sessions:
+      signed_in: geteken te suksesvol.
+      signed_out: Geteken uit suksesvol.
+      new:
+        sign_in: Teken in
+        password: wagwoord
+        remember_me: Onthou my
+        forgot_your_password: Jy jou wagwoord vergeet?
+    unlocks:
+      send_instructions: Jy sal 'n e-pos ontvang met instruksies oor hoe om jou rekening
+        in 'n paar minute te ontsluit.
+      send_paranoid_instructions: As jou rekening bestaan, sal jy 'n e-pos ontvang
+        met instruksies oor hoe om dit te ontsluit in 'n paar minute.
+      unlocked: U rekening is suksesvol ontsluit. Meld asseblief aan om voort te gaan.
+  timezones:
+    American Samoa: Amerikaanse Samoa
+    International Date Line West: Internasionale Datumlyn West
+    Midway Island: Midway Island
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Pacific Time (VSA en Kanada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain Time (VSA en Kanada)
+    Central America: Sentraal-Amerika
+    Central Time (US & Canada): Sentrale Tyd (VSA en Kanada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Eastern Time (VSA en Kanada)
+    Indiana (East): Indiana (Oos)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlantiese Tyd (Kanada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: Brasília
+    Buenos Aires: Buenos Aires
+    Greenland: Groenland
+    Montevideo: Montevideo
+    Mid-Atlantic: Middel-Atlantiese
+    Azores: Azoren
+    Cape Verde Is: Kaap Verde.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lissabon
+    London: Londen
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrado
+    Berlin: Berlyn
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Brussel
+    Budapest: Budapest
+    Copenhagen: Kopenhagen
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Parys
+    Prague: Prague
+    Rome: Rome
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Wene
+    Warsaw: Warskou
+    West Central Africa: Wes Sentraal-Afrika
+    Zagreb: Zagreb
+    Athens: Athene
+    Bucharest: Boekarest
+    Cairo: Kaïro
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kaliningrad
+    Kyiv: Kyiv
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Bagdad
+    Kuwait: Koeweit
+    Minsk: Minsk
+    Moscow: Moskou
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: St Petersburg
+    Volgograd: Volgograd
+    Tehran: Teheran
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Yerevan
+    Kabul: Kaboel
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: Nieu-Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Beijing
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapoer
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokio
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: New Caledonia
+    Solomon Is: Salomo Is.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fidji
+    Kamchatka: Kamchatka
+    Marshall Is: Marshall Is.
+    Wellington: Wellington
+    Chatham Is: Chatham Is.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau Is.
+  af: af
+  af_iso: af

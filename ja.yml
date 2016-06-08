@@ -1,0 +1,982 @@
+---
+ja:
+  1_we_have_just_launched_our_service_title: 私達はちょうど私たちのサービスを開始しました！
+  common_keywords: 年代、オンライン年代、愛の年代、ウェブカメラデート、スピードデート、ウェブカメラチャット出会い系、Railsの出会い系サイト上のルビー、多言語の出会い系サイト
+  common_description: 年代ための最も先進的な国際的なソーシャル・エンターテインメントネットワーク「Flutylove」
+  user: ユーザー
+  user_to_search_connection: 検索
+  video: 動画
+  note: 注意
+  photo_album: フォトアルバム
+  from: から
+  to: へ
+  instagram: Instagramの
+  dropbox_oauth2: Dropboxの
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: 男性
+  - female:
+      name: 女性
+  - transgender:
+      name: トランスジェンダー
+  - male-female:
+      name: 男女
+  - double-male:
+      name: ダブルオス
+  orientation:
+  - heterosexual: 異性
+  - homosexual: 同性愛
+  - bisexual: バイセクシャル
+  search_for:
+  - get_friends: 友達をゲット
+  - flirtation: 浮気
+  - marriage: 結婚
+  body_type:
+    slim: スリム
+    normal: ノーマル
+    chubby: チャビー
+  relationship:
+    single: シングル
+    married: 既婚
+  children:
+    dont_have: お持ちでません
+    dont_have_and_dont_want_to: お持ちでないとしたくありません
+    don_t_have_but_planning: 持っていませんが、計画
+    have_enough: 持っています
+    have_and_planning_more: 有し、よりを計画
+  education:
+    nothing: 何も
+    secondary_school: 中等学校
+    college_technical_college: カレッジ/テクニカルカレッジ
+    university: 大学
+    postgraduate: 大学院
+    phd_md_post_doctorate: 博士/ MD /博士研究員
+  hair_color:
+    blonde: ブロンド
+    dark_blond: ダークブロンド
+    brown: ブラウン
+    black: ブラック
+    red: レッド
+    gray: グレー
+  income:
+    small_stable_earnings: 小さな安定した収益
+    medium_stable_earnings: ミディアム安定した収益
+  smoking:
+    not_smoke_and_detest: は、喫煙や喫煙を嫌うません
+    smoke_only_after_drinking: 煙だけ飲んだ後
+    smoke_occasionally: 煙時折
+    smoke_often: 煙頻繁に
+  alcohol:
+    drink_occalionally: 飲む時折
+    drink_often: ドリンクしばしば
+  drugs:
+    dont_use: 使用しないでください
+    contra_drugs: コントラ薬
+    tried_out_some: はいくつかを試してみました
+    light_drugs_occasionally: ライト薬時折
+  sponsor:
+    i_want_to_find_a_sponsor: 私がスポンサーを見つけたいです
+    willing_to_become_a_sponsor: 希望
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: スポンサーを探していませんし、一つになることを望んでいません
+  category_name:
+    strategy: 戦略
+    rpg: RPG
+    3d_shooters: 3Dシューティングゲーム
+    racing: レーシング
+    arcade: アーケード
+    economic: 経済
+    simulators: シミュレーター
+    logic: ロジック
+    adventure: アドベンチャー
+    board_games: ボードゲーム
+    gambling: ギャンブル
+    news: ニュース
+    communication: コミュニケーション
+    multimedia: マルチメディア
+    drawing: デッサン
+    educational: 教育
+    e_commerce: Eコマース
+  shared:
+    header:
+      people: 人
+      chat: チャット
+      groups: グループ
+      forum: フォーラム
+      requests: リクエスト
+      help: ヘルプ
+      user_applications: アプリケーション
+    liked_users:
+      liked: が気に入りました
+      all: すべて
+    most_liked_users:
+      most_liked_users: 人気のユーザー
+    installed_user_applications:
+      installed_applications: インストールされているアプリケーション
+      all: すべて
+    user_applications:
+      uploaded_apps: アップロードアプリケーション
+      all: すべて
+    right_sidebar:
+      news: ニュース
+      all: すべて
+      read_more: 続きを読みます
+    footer:
+      terms: 規約
+      feedback: フィードバック
+      abuse: 乱用
+    site_map_modal:
+      site_map: サイトマップ
+      faq: よくある質問
+      static_pages: 静的ページ
+      common_pages: 一般的なページ
+      user_pages: ユーザーページ
+      terms: 規約
+      people: 人
+      user_applications: アプリケーション
+      user_requests: リクエスト
+      news: ニュース
+      feedback: フィードバック
+      abuse: 乱用
+      chats: チャット
+      videos: ビデオ
+      photo_albums: フォトアルバム
+      notes: 注意事項
+    user_edit_menu:
+      content: コンテンツ
+      profile: プロフィール
+      site_settings: サイトの設定
+      services: サービス
+    activities_navigation:
+      all: すべて
+      photos: 写真
+      photo_albums: フォトアルバム
+      notes: 注意事項
+      videos: ビデオ
+    notifications_navigation:
+      all: すべて
+      likes: いいね！
+      friend_requests: フレンドリクエスト
+      profile_views: プロフィールビュー
+      photo_album_views: 写真の景色
+    user_to_friend_connections_navigation:
+      friends: 友達
+      friends_online: オンライン友達
+      outcome_requests: 成果要求
+      income_requests: 所得要求
+    user_applications_navigation:
+      all: すべて
+      new: 新
+      popular: 人気
+      often_installed: は、多くの場合、インストール
+      manage: 管理
+    user_requests_navigation:
+      all: すべて
+      popular: 人気
+    user_navbar_menu:
+      sign_in: ログイン
+      sign_up: サインアップ
+    email_signature:
+      info: 情報
+      mailer: メーラー
+      technoelegance: Technoelegance株式会社
+    translations:
+      select_gender: セレクト性別
+      select_orientation: セレクト向き
+      select_search_for: セレクト検索
+    sign_up_methods:
+      usual_register_link: いつもの登録
+    bootstrap_gallery:
+      next: 次
+    user_notification_title:
+      wrote_message_to_you: あなたへのメッセージを書きました
+      viewed_your_profile: あなたのプロフィールを閲覧します
+      liked_your_photo: は、あなたの写真が好き
+      liked_your_note: あなたのノートが好き
+      liked_your_request: リクエストが好き
+      liked_your_video: あなたのビデオが好き
+      liked_your_application: は、アプリケーションが好き
+      requested_a_friendship: 友情を要求します
+  authentications:
+    authentication:
+      turn_off: オフにします
+      turned_on: がオン
+      turned_off: はオフ
+    index:
+      enabled_services: 対応サービス
+  users:
+    profile:
+      submit: 保存
+      name: 名前
+      meet_with: 素敵で
+      gender: 性別
+      enter_your_name: あなたの名前を入力します。
+      more_options: 詳細
+      orientation: オリエンテーション
+      birth_date: 生年月日
+      location: 場所
+      search_for: 検索
+      from: から
+      to: へ
+      interests: 興味
+      height: 身長
+      weight: 重さ
+      body_type: ボディタイプ
+      hair_color: 髪の色
+      relationship: 関係
+      children: 子供
+      living: リビング
+      education: 教育
+      jobs: 求人
+      income: 収入
+      languages: 言語
+      smoking: 喫煙
+      alcohol: アルコール
+      drugs: 薬
+      contacts: コンタクト
+      contact_name: 担当者名
+      contact_value: お問合せ値
+      save: 保存
+    settings:
+      submit: 保存
+      locale: インターフェース言語
+      change_password: パスワード変更
+      interface_language: インターフェース言語
+      time_zone: タイムゾーン
+    dialog_modal:
+      send_message: メッセージを送ります
+    index:
+      users: ユーザー
+      clear_search: クリア検索
+    dashboard:
+      hello: こんにちは
+      here_some_of_your_statistics: ここではいくつかの統計情報の
+      chats: チャット
+      messages: メッセージ
+      photos: 写真
+      videos: ビデオ
+      notes: 注意事項
+      photo_albums: フォトアルバム
+    avatar:
+      photo: 写真
+      uploading_file: アップロードファイル
+      handling_file: 取り扱いファイル
+      drag_and_drop_your_file: ドラッグしてファイルをドロップ
+      or: または
+      upload_file: アップロードファイル
+      write_down_link_for_your_image: あなたのイメージのリンクを書き留め
+      upload: アップロード
+      turn_on_vkontakte: 電源を入れます
+      edit_photo: 写真を編集
+      delete_photo: 削除写真
+      are_you_sure: はよろしいですか？
+    edit_photo:
+      edit_photo: 写真を編集
+      crop: クロップ
+      close: 閉じます
+      save_changes: 変更を保存します
+    contact:
+      contact_value_placeholder: URL /ニック/ IDの/ etc
+    user:
+      orientation: オリエンテーション
+      meet_with: 素敵で
+      desirable_age: 望ましい年齢
+      from: から
+      to: へ
+      interests: 興味
+      height: 身長
+      sm: SM
+      kg: キロ
+      body_type: ボディタイプ
+      hair_color: 髪の色
+      relationship: 関係
+      children: 子供
+      living: リビング
+      education: 教育
+      jobs: ジョブズ
+      income: 収入
+      languages: 言語
+      smoking: 喫煙
+      alcohol: アルコール
+      drugs: 薬
+      contacts: コンタクト
+    user_info:
+      offline: オフライン
+      online: オンライン
+      age: 年齢
+    loading_modal_images:
+      loading_images: 読み込んで画像
+    password_form:
+      new_password: 新パスワード
+      old_password: 古いパスワード
+      change_password: パスワード変更
+    show:
+      photos: 写真
+      all: すべて
+      videos: ビデオ
+      notes: 注意事項
+      view: 見ます
+    dropbox_token_form:
+      key: キー
+      paste_recieved_key: 貼り付け受け取っキー
+      submit: 提出
+    contents:
+      users_which_i_like: ユーザー
+      all: すべて
+    more_profile_info:
+      photo_albums: フォトアルバム
+      view_all_photo_albums: は、すべてのフォトアルバムを見ます
+      create_more: より作成
+      videos: ビデオ
+      view_all_videos: すべての動画
+      notes: 注意事項
+      view_all_notes: 見る全てのノート
+      requirements_lists_to_partner: 要件パートナーに一覧表示されます
+      requirement: 要件
+      view_all_requirements_lists: 見るすべての要件リスト
+      profile_verification: プロフィール検証
+      create: 作成
+      verify_through_twitter: ツイッターを通じて確認してください
+      verify_through_facebook: Facebookから確認してください
+      verify_through_mail_ru: Mail.ruを通じて確認してください
+  searches:
+    form:
+      location: 場所
+      from: から
+      to: へ
+      age: 年齢
+      gender: 性別
+    form_content:
+      city: 市
+      gender: 性別
+      age_from: 年齢から
+      to: へ
+      online: オンライン
+      verified: は確認済み
+      has_avatar: はアバターを持っています
+      region: リージョン
+      more: 詳細
+      country: カントリー
+      interests: 興味
+      languages: 言語
+      names: 名前
+      height: 身長
+      from: から
+      weight: 重さ
+      body_type: ボディタイプ
+      relationship: 関係
+      hair_color: 髪の色
+      education: 教育
+      orientation: オリエンテーション
+      search_for: 検索
+      children: 子供
+      living: リビング
+      smoking: 喫煙
+      alcohol: アルコール
+      drugs: 薬
+      income: 収入
+    show:
+      users: ユーザー
+      clear_search: クリア検索
+  welcome:
+    index:
+      people: 人
+      requests: リクエスト
+      user_applications: アプリケーション
+      features: 特長
+      registration: 登録
+      sign_in: ログイン
+      find_more: 詳細検索
+      about_title: Flutyloveは年代測定のための国際社会エンターテイメントネットワークです
+      about_text: あなたは娯楽​​や年代測定に使用できる多くの機能があります！
+      many_languages: 多くの言語
+      check_it_out: それをチェックアウト
+      videochats: Videochats
+      try_it_now: 今それを試してみてください
+      search: 検索
+      text_about_search: そして、それは無料です！
+      watch_this: ウォッチこの
+      more_features: その他の特長
+      register_and_learn_more: 登録および詳細を学びます
+      install_our_apps: 人気のプラットフォーム上から我々のアプリをインストールします
+      register_header: 登録
+  feedbacks:
+    new:
+      feedback_title: フィードバック
+    form:
+      feedback_content: フィードバックコンテンツ
+      close: 閉じます
+      send: 送信
+      cancel: キャンセル
+    success:
+      success_feedback: ありがとうございました！私たちはあなたのフィードバックを受け取っています。
+      close: 閉じます
+      cancel: キャンセル
+      more: もっとを送ります
+  abuses:
+    new:
+      abuse_title: 乱用
+    form:
+      abuse_title: 乱用
+      close: 閉じます
+      send: 送信
+      abuse_link: リンク
+      cancel: キャンセル
+    success:
+      success_abuse: ありがとうございました！私たちはあなたの虐待を受け取っています。
+      close: 閉じます
+      cancel: キャンセル
+      more: もっとを送ります
+  recaptcha:
+    errors:
+      verification_failed: 失敗しましたreCAPTCHAの
+      recaptcha_unreachable: reCAPTCHAのが到達不能です
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: 私達はちょうど私たちのサービスを開始しました！
+      we_have_just_launched_our_service_text: 今日はそう誰もがする​​ことができます私たちのサービスを開始します
+      sign_up: サインアップ
+      and_use_it: とそれを使用しています。
+      wishes_and_requests: ご希望やご要望をお持ちの場合は、あなたがサインアップし、それを書いたことができますが、
+      flutylove_team: Flutyloveチーム
+    index:
+      read_more: 続きを読みます
+  chats:
+    panel_head:
+      online: オンライン
+      offline: オフライン
+    form:
+      message_text: メッセージテキスト
+    form_additions:
+      submit: 提出
+      videochat: ビデオチャット
+    show:
+      messages: メッセージ
+    index:
+      messages: メッセージ
+    modal_form:
+      send_message: メッセージを送ります
+      recipient: 受信者
+      message: メッセージ
+      close: 閉じます
+      submit: 提出
+    waiting_video_answer_button:
+      waiting_for_response: 応答を待っています...
+    chat_created:
+      send_message: メッセージを送ります
+      message_was_sent: メッセージが送られました
+      close: 閉じます
+  messages:
+    form:
+      message_text: メッセージテキスト
+  notifications:
+    user_to_friend_connection:
+      action: アクション
+    notification:
+      offline: オフライン
+      online: オンライン
+    like:
+      action: アクション
+    photo_album_view:
+      action: アクション
+    user_view:
+      action: アクション
+  user_applications:
+    user_application:
+      all_uploaded_applications_by: 全てのアップロードアプリケーションで
+    form:
+      name: 名前
+      user_application_name: アプリケーション名
+      description: 説明
+      description_text: 説明文
+      iframe_url: インラ​​インフレームのURL
+      icon_for_application: アプリケーションアイコン
+      upload_icon: ダウンロードアイコン
+      public: 公開？
+      category_name: カテゴリー
+      create: 作成
+      edit: 編集
+    show:
+      application: アプリケーション
+      edit_application: 編集アプリケーション
+    manage:
+      installed_applications: インストールされているアプリケーション
+      uploaded_applications: アップロードアプリケーション
+      all: すべて
+    index:
+      create_new: 新しい作成します。
+    installed:
+      installed_applications: インストールされているアプリケーション
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: は、ビューの前に、このアプリケーションは、あなたが最初にログインする必要があります
+  likes:
+    index:
+      liked_items: 気に入ったアイテム
+  videos:
+    index:
+      videos: ビデオ
+      create_new: 新しい作成します。
+    video:
+      edit: 編集
+      are_you_sure: はよろしいですか？
+      delete: 削除
+    modal_form:
+      create_new_video: 新しいビデオを作成
+      close: 閉じます
+      create: 作成
+    form_content:
+      name: 名前
+      video_name: 動画の名前
+    show:
+      video: 動画
+      edit_video: 編集ビデオ
+    edit:
+      edit_video: 編集ビデオ
+      view_video: 動画を見ます
+    form:
+      edit: 編集
+  photo_albums:
+    index:
+      photo_albums: フォトアルバム
+      create_new: 新しい作成します。
+    photo_album:
+      edit: 編集
+      create: 作成
+      are_you_sure: はよろしいですか？
+      delete: 削除
+    edit:
+      edit_photo_album: 編集フォトアルバム
+      view_photo_album: 友達の写真アルバム
+    form_content:
+      name: 名前
+      photo_album_name: フォトアルバム名
+    form:
+      edit: 編集
+      create: 作成
+    photo_album_uploader:
+      drag_and_drop_your_file: ドラッグしてファイルをドロップ
+      or: または
+      upload_file: アップロードファイル
+      write_down_link_for_your_image: あなたのイメージのリンクを書き留め
+      upload: アップロード
+      turn_on_vkontakte: 電源を入れます
+    show:
+      photo_album: フォトアルバム
+      edit_photo_album: 編集フォトアルバム
+    modal_form:
+      create_new_photo_album: 新しい写真アルバムを作成します。
+      close: 閉じます
+      create: 作成
+  user_requests:
+    form:
+      content: コンテンツ
+      edit: 編集
+      create: 作成
+  notes:
+    index:
+      notes: 注意事項
+      create_new: 新しい作成します。
+    note:
+      edit: 編集
+      are_you_sure: はよろしいですか？
+      delete: 削除
+    show:
+      note: 注意
+      edit_note: 編集ノート
+    form_content:
+      content: コンテンツ
+      note_content: 注コンテンツ
+      edit: 編集
+      create: 作成
+    edit:
+      edit_note: 編集ノート
+      view_note: ビューノート
+  user_to_search_connections:
+    index:
+      requirements_lists: 要件リスト
+      create_new: 新しい作成します。
+    user_to_search_connection:
+      edit: 編集
+      are_you_sure: はよろしいですか？
+      delete: 削除
+    edit:
+      edit_requirements_list: 編集要件リスト
+      view_requirements_list: プロフィールの要件のリスト
+    form_content:
+      name: 名前
+    form:
+      edit: 編集
+    show:
+      requirements_list: 要件リスト
+      edit_requirements_list: 編集要件リスト
+  photos:
+    index:
+      photos: 写真
+  errors:
+    messages:
+      already_confirmed: がすでに確認された、にログインしてみてください
+      confirmation_period_expired: は％{期間}内に確認する必要があり、新しいものをリクエストしてください
+      expired: の有効期限が切れている、新しいものをリクエストしてください
+      not_found: 見つかりません。
+      not_locked: はロックされていませんでした
+      not_saved:
+        one: 1エラーが保存されることから、この％{リソース}を禁止しました：
+        other: "％{数}エラー："
+    bad_request:
+      bad_request: 不正な要求
+      request_result: リクエスト結果
+      go_to_root: ルートに行きます
+    unprocessable_entity:
+      unprocessable_entity: 処理不可能なエンティティ
+      request_result: リクエスト結果
+      go_to_root: ルートに行きます
+    not_found:
+      not_found: 見つかりません
+      request_result: リクエスト結果
+      go_to_root: ルートに行きます
+    forbidden:
+      forbidden: は禁断します
+      request_result: リクエスト結果
+      go_to_root: ルートに行きます
+    internal_server_error:
+      internal_server_error: 内部サーバーエラー
+      request_result: リクエスト結果
+      internal_server_error_description: 何かが間違っていました。私たちはできるだけ早くそれを修正します。
+      go_to_root: ルートに行きます
+  pages:
+    privacy:
+      privacy: Flutyloveプライバシーポリシー
+      general_provisions: 一般規定
+      p_1_1: 1.1。この規程は、101000にある合同会社「Technoelegance」の公式文書、モスクワ、Ulanskiy pereulok 13、stroeniye
+        4、pomeshcheniye 1（Flutylove、会社、私たちを以後）であり、個人のデータ処理や情報セキュリティの手順を決定します人は18歳の年齢に達している、と誰が（ユーザーを以後）のウェブサイトhttps://flutylove.com（ウェブサイトを以後）とそのサービスを使用しています。
+      p_1_2: 1.2。これらの規則の目的は、不正なアクセスや開示から、個人情報を含むユーザ情報のによる保護を確保することです。
+      p_1_3: 1.3。ウェブサイトの利用者の情報の収集、保管、流通、セキュリティに関連した関係は、当社のこれらの規程、その他の公式文書およびロシア連邦の現在の法律によって支配されています。
+      p_1_4: 1.4。リンクhttp://flutylove.com/pages/privacyを以下のときに公文書である規則、現在のバージョンは、任意のインターネットユーザーに利用可能です。当社は、これらの規則を変更する権利を有します。場合には変更が規則に行われ、当社は、遅くとも10日効果的な前に、恒久的なアドレスhttp://flutylove.com/pages/privacyでウェブサイト上の規制の新しいバージョンを掲載することにより、ユーザーに通知しなければなりません変更の日付。規則の以前のバージョンは、当社のドキュメントのアーカイブに格納されます。
+      p_1_5: 1.5。これらの規則が開発されており、ユーザー契約に従って使用されます。これらの規則及び当社のその他の公式文書の間の任意の違反の場合には、これらの規制が実施されなければなりません。
+      p_1_6: 1.6。ウェブサイトを利用することで、このプライバシーポリシーの条項および条件に同意するものとします。それらを注意深くお読みください。あなたはこのプライバシーポリシーの条件に同意しない、またはあなたが18歳に達していない場合は、ウェブサイトとそのサービスを利用することはできません。ウェブサイトを使用することで、関係なく、あなたがFlutyloveの登録ユーザであるかどうかの、あなたは完全にこのプライバシーポリシーを受け入れることを確認し、それに従うことに同意します。
+      p_2_1: 2.1。ウェブサイトFlutyloveを使用するには、登録する必要があります。名前、メールアドレス、性別、生年月日、位置情報：以下の情報は、登録時に指定する必要があります。ユーザーは、彼/彼女の自身の願いで追加の個人情報を提供することができます。ユーザーは、いつでも個人情報を編集したり、更新することができます。当社は、変化の性別やユーザーの生年月日の場合には追加の証拠書類を要求する権利を持っています。
+      p_2_2: 2.2。ウェブサイト上の登録のために、18歳以上であることが必要であることに気づく;：ウェブサイトとそのサービスへのアクセスを許可することにより、当社は、合理的にかつ誠実に働く、ユーザーと考えますこのウェブサイトに登録し、それを使用することができるようにするために必要なすべての権限を持っています。自分自身についての正確な情報を示している/彼女自身のウェブサイトのサービスの利用のための要求に従って、ユーザーが提供するウェブサイト上の個人情報は、だけでなく、コピーして他のユーザーによって配布することができるウェブサイトやインターネットユーザーの他のユーザーのために利用できるようになる可能性があることを認識しています。他のユーザーに転送される情報の種類によっては、ユーザによって除去することができないことを知っています。これらの規則に精通され、それらと一致し、指定された権利と義務を負います。
+      p_2_3: 2.3。当社は、受信の正確性を検証しないような検証は、ユーザーに当社の義務を果たすために必要な場合を除いて、ユーザーに関する情報を（収集しました）。
+      information_processing_objectives: 情報処理の目的
+      p_3_1: 3.1。当社は、ウェブサイトとそのサービスを使用するためのユーザーに対する当社の義務を果たすために、個人データなど、ユーザに関する情報の処理を行います。
+      p_3_2: 当社は、個人的なデータ主体の権利の保護のための権限のある当局に通知することなく、個人データの処理を実行する権利を有します。
+      structure_of_the_user_information: 構造
+      p_4_1: 4.1。ユーザーの個人情報が含まれています：
+      p_4_1_1: 4.1.1。ユーザーによって提供され、ウェブサイト上で登録のためだけで十分なことになっている名前、メールアドレス、性別、生年月日、位置情報、および電話番号の日、。
+      p_4_1_2: 4.1.2。 （例えば写真、悪質な習慣などの詳細については）ユーザーによって提供された情報。
+      p_4_1_3: 4.1.3。さらに、ユーザーの同意から登場する、ユーザへの当社の義務を履行するために、会社の要求に応じて利用者によって提供されます。当社は、当社の裁量で、必要となる、身分証明書または名前、性別、生年月日を含む任意の他の文書だけでなく、他の付加的な情報のコピーとユーザーを要求する、特に権利を有していますそのようなユーザーを識別するための十分な第三者の権利の濫用と違反を排除するであろう。
+      p_4_2: 4.2。カンパニーウェブサイトの管理者によってほかのユーザーの情報の処理も含まれ、ユーザーに関するその他の情報を処理します。
+      p_4_2_1: 4.2.1。ウェブサイトとユーザ（ホストのIPアドレス、ユーザーのオペレーティングシステムの種類、ユーザが訪れたウェブサイトのページ）の後続のアクションにアクセスするときに自動的にHTTPサーバが受信した共通のデータ、。
+      p_4_2_2: 4.2.2。ブックマーク（クッキー）を使用してWebサイトにアクセスするときに自動的に受信された情報。
+      p_4_2_3: 4.2.3。ウェブサイト上でのユーザーの行動の結果として受信された情報。
+      p_4_2_4: 4.2.4。ウェブサイト上の他のユーザの行動の結果として受信される情報。
+      users_information_processing: ユーザーズ・情報処理
+      p_5_1: 5.1。個人データの処理は、以下の原則に基づいて行っています。a）正当な目的や個人データの処理の手段; b）の正直。 c）の目的で、個人データの処理目的のコンプライアンスは、所定及び個人データだけでなく、会社の資格情報のコンプライアンスを収集する際に宣言しました。
+        d）のボリュームや個人データの処理の種類、およびその処理の目的に個人データの処理の手段のコンプライアンスの遵守;個人情報を含む、互換性のない目的のために作成したデータベースを組み合わせるe）の承認し難いです。
+      p_5_1_1: 5.1.1。レジスタだけでなく、将来的には、ユーザーが彼/彼女の自身の主導でウェブサイトのツールを使用して、彼自身/彼女自身についての詳細を追加したとき時にユーザーの個人データの収集は、ウェブサイト上で行われます。
+      p_5_1_2: 5.1.2。ユーザーの個人情報は、個人情報の手動処理は、法的要件を満たすことを考慮して必要な場合を除いて、自動化システムを用いて電子フォーマットでのみ格納され、処理されます。
+      p_5_1_3: 5.1.3。ユーザーの個人データは、明示、これらの規制とユーザー契約により提供される場合を除き、第三者に転送されません。ユーザの同意を得て、個人的なユーザデータは、サービスやアプリケーションを使用する場合、特に、受信された情報の機密性を確保するために、債務の仮定の条​​件で当社の第三の相手方に送信することができます。法律によって要求されるように、政府当局（地方自治体）の要望に応じて、ユーザーの個人データのプロビジョニングは手順で行われます。
+      p_5_1_4: 5.1.4。 ;データは自己削除されたユーザーがページからのものである - ：ときにユーザーの個人データが削除されます - ページは、自己削除されたユーザーによるものです。
+        - ユーザの情報およびその個人のページは、当社によって除去されます。個人用ページが除去された後、ユーザー自身によってページの削除の場合には、当社は、210日以内にその電子メディア上のユーザーの個人データを格納します。個人的なページを除去した後の個人データは、210日間の終了時に削除されます。この期間が満了するまでは、ユーザーが個人用ページを復元する権利を有します。
+      users_rights_and_obligations: ユーザーの権利と義務
+      p_6_1: 6.1。ユーザーが権利を有します。
+      p_6_1_1: 6.1.1。ログインとパスワードを使用したウェブサイト上の個人ページを編集することによって制限されることなく、電荷の自由彼/彼女についての情報にアクセスします。
+      p_6_1_2: 6.1.2。独立してそのような変更や修正が最新かつ真の情報が含まれていることを条件に、ウェブサイト上のユーザーの個人ページの情報の変更や修正を行います。
+      p_6_1_3: 6.1.3。ウェブサイト上の個人ページから情報を削除します。
+      p_6_1_4: 6.1.4。このようなデータは、不完全な時代遅れの、不正確である不法に受信または処理の宣言された目的のために、またはアクションはこれらのパラグラフ6.1.3で指定された場合に必要でない場合は、より具体的な情報を得るために会社を要求し、ブロックまたは個人データを削除規制は独立して実装することはできません。
+      p_6_1_5: 6.1.5。要求に基づいて、彼/彼女の個人データの処理に関する企業からの情報を受信します。
+      p_6_2: 6.2。ユーザーがそれを掲載している場合は、ユーザーの名前、性別、年齢、プロフィール写真、その他の情報：登録されているすべてのウェブサイトのユーザーに関する以下の情報は、常に登録ユーザに提供されています。
+      p_6_3: 6.3。当社は、このようなデータにアクセスしたWebサイトの他のユーザーによってユーザーの個人データの開示に関して、当社は一切の責任を負いません。
+      p_6_4: 6.4。個人データ（他のユーザ情報）ユーザの個人ページまたはWebサイトからユーザーの個人用ページの除去からの除去の場合には、ユーザーの情報が他のユーザーによってコピーまたは保存されている他のユーザーのページに格納されています。
+      users_information_protection_measures: ユーザーの情報保護対策
+      p_7_1: 7.1。当社は、ユーザーの個人データが不正または偶発アクセス、削除、修正、ブロック、コピー、普及からだけでなく、他の不正行為から保護されることを保証するために、技術的組織的、法的な措置をとります。
+      p_7_2: 7.2。ユーザのログイン（メールアドレスや携帯電話番号）およびパスワードをWebサイトにアクセスするために使用されます。ユーザーは、機密情報を保持する責任があります。ユーザーは、第三者へのログインとパスワードを譲渡することはできませんし、また、その機密性を確保するための措置をとる義務があります。
+      user_requests: ユーザー要求
+      p_9_1: 9.1。ロシア、101000、モスクワ、Ulanskiy pereulok 13、stroeniye 4、pomeshcheniye 1または電子文書の形で：ユーザーは、次のアドレスの書かれた形での個人データの使用に関する要求を含む会社に要求を送信する権利を持っていますsupport@flutylove.com：電子メールで、ロシア連邦の法律に従って有資格電子署名が署名しました。
+      p_9_2: 9.2。ユーザーの要求は、次の情報が含まれている必要があります。ユーザーまたはその代表者の身分証明書の番号を、上記の文書および発行機関の発行日;オペレータとの関係におけるユーザーの参加確認情報（特にを、ページへのリンク）。ユーザーまたは彼/彼女の代表の署名。
+      p_9_3: 9.3。当社が検討し、それを受け取った後30日以内にユーザーの要求に応答することを約束します。
+      p_9_4: 9.4。ユーザー（書面または電子要求）から、当社が受信したすべての対応がアクセス制限情報として分類され、ユーザーの書面による同意なしに開示することはないかもしれません。個人データとリクエストを送信したユーザーに関するその他の情報は、ユーザーの特別な同意なしに、異なったよりも要求に対する応答のためにまたは明示的に適用される法律によって提供される例では、使用することはできません。
+    terms:
+      terms: Flutyloveユーザー契約
+      consent_to_accept_the_terms_of_user_agreement: 1.ユーザー契約の条項に同意することに同意。
+      p_1: "。電子契約。本契約は、ウェブサイトやサービスの使用条件を説明し、契約の電子版です。ウェブサイトにログインしたり、ユーザーになることによって、あなたはこの契約に同意し、含まれているか、またはそこに参照されているすべての条項、条件、および通知に同意するものとします。あなたは断言とFlutyloveのユーザーは、当社または当社の関連会社に属している他のウェブサイトが含まれ、オンラインコミュニティの一部であってもよいことに同意します。そのため、ウェブサイト上のプロファイルは、すべてのWebサイトから他の有料会員と通信することができ、他の類似のウェブサイトや1つのウェブサイトから有料会員に表示することができます。
+        B。電子フォーム。ウェブサイトにログインしたり、ユーザーになることによって、あなたは、電子契約をご提供に同意するものとします。 C。ハードコピー形式。あなたは、本契約のハードコピーを受ける権利を有します。それは電子形式で署名される前または後に、この契約書のハードコピー版を要求することができます。
+        、詳細については、当社のカスタマーサービスまでお問い合わせください。 D。アクセスとダウンロード。この電子契約書にアクセスしてダウンロードするには、Webリソースへのアクセス権を持つインターネットに直接デバイスを介してアクセスする必要があります。あなたは、インターネット、すなわちコンピュータ、モデムまたは他のアクセスデバイスを接続するために必要な機器を持っている必要があります。
+        、本契約書のコピーを印刷し、それを保管してください。契約書の電子フォームをダウンロードするには、任意のテキストエディタの助けにより、コンピュータに保存します。"
+      the_right_of_using_the_website: 2.ウェブサイトの使用権。
+      p_2: "。要件の不遵守の場合は、ウェブサイトへのアクセスは拒否されます。ウェブサイトを使用して、ユーザーがウェブサイトに掲載の個人情報は、他のインターネットユーザーに利用可能にすることができ、当社は自分の行為に責任を負うされていないことに注意する必要があります。そのすべての契約条件に従うことをあなたが主張する、あなたが本契約を締結する権利、権限と可能性を持っていることを引き受けるこのウェブサイトを使用して、同意することによって。あなたが主張するとあなたが性的暴力に関連する犯罪のために有罪判決を被ったことはないことを約束するユーザになります。ウェブサイトは、個人使用のみのために設計されています。任意の商業目的のためにウェブサイトを使用することが禁じられています。企業体は、このウェブサイトのユーザーにすることはできません、だけでなく、本サービスまたはその目的にウェブサイトを使用することはできません。望ましくないメッセージやリンクを送信する目的のための電子的またはその他のツールの助けによって、ユーザ名および/または電子メールアドレスを収集するなど、違法および/またはウェブサイトの使用して不正を追及され、当社は、法律に基づいて適切な行動をとることができる、など、法執行当局にアピール。"
+      pricing_and_registration: 3.価格と登録
+      terms_4: 4.条項。
+      account_security: 5.アカウントのセキュリティ確保。
+      p_6: "。あなたが他のユーザーとの相互作用のために責任を負うものとします。あなたは会社は、彼らが犯罪歴を持っているかどうかに、ユーザーを検証しないことを理解すべきです。同社はまた、ユーザーの過去の情報を要求しないし、この情報を検証しません。会社はユーザーの行動と実際のまたは将来のUSERSとの適合性についての保証はしません。同時に、会社は、犯罪歴のユーザーを確認したり、使用可能な公開情報を使用して、いつでも他に検証を実行する権利を有します。
+        B。 NOの場合には同社は、直接的、間接的、一般的であるか、または特定の性質が、代償は、AND / OR偶発的、を含む、ウェブサイト使用した結果としてお客様またはその他の個人が取得しているかにかかわらず、いかなる損害についても責任を負いませんこれらに限定されない、あなたがウェブサイト上に対処するウェブサイトや人々の他の登録ユーザーとの通信やミーティングした結果、取得した負傷、ストレスおよび/またはその他の損害、。他のユーザーと通信するときにあなたが実際の生活の中でそれらを満たすために決定する際、特にケースでは、あらゆる可能な予防策を取るに同意するものとします。お客様は、当社が本ウェブサイトのユーザーとの相性について宣言された、または黙示的な保証を与えるものではありません何、知っておく必要があります。
+        YOUは、（例えばクレジットカードまたはプラスチックカードに関する情報）ウェブサイトの他のユーザーに財務情報を与えるべきではありません。 C。サービスは他の言語にあなたの名前やあなたの町の名前を翻訳することができます。
+        D。サービスは、この資料に記載されている行為については責任を負いません。ケースではあなたが完全に、または部分的にそれらに同意しない、すぐにウェブサイトを残してください。"
+      the_information_posted_by_you_on_flutylove: 7. FLUTYLOVE ONお客様が掲載されている情報
+      p_7: "。あなたが公開またはサービス（以下、「ポスト」）実証または他のユーザーに転送する情報について一切の責任を負います。あなたは人種差別的な性質のいずれか、中傷不正確な、虐待的、わいせつ、下品と積極的な内容については、性的な内容の情報だけでなく、脅迫やストーカー情報、情報をサービスに投稿したり、他のユーザーに転送することはできませんか（含むがこれらに限定されない、知的財産権、プライバシーやパブリシティの権利）違法情報、または侵害またはその他の当事者の権利を侵害するその他の情報。あなたは、当社または他のユーザーへの、不正確な、誤解を招くまたは虚偽の情報を提供するために許可されていません。情報がFlutyloveまたは別のユーザーが、その後偽の誤解、不正確になる会社に提供する場合は、すぐにこのような変化の会社Flutyloveを通知しなければなりません。あなたが提出し、登録時に提供されるすべての情報が正確で真実であることを保証するもので、あなたはすぐに続いて、不正確で誤解を招くまたは偽となる任意の情報を変更します。
+        B。あなたが理解し、我々は権利を留保しますが、サービスに転送したり、サービスのパブリックアクセスに掲載された情報やコンテンツを監視する義務はないことに同意します。私たちはどんな理由や通知を割り当てず、そのような情報やコンテンツのいずれかを削除する権利を有します。
+        C。当社の独占的権利の所有物であり、のユーザー - すべてのオブジェクトは、（情報以下）のデザイン要素、テキスト、グラフィックス、イラスト、動画、スクリプト、プログラム、音楽、音声、その他のオブジェクトとそれらのライブラリを含む、ウェブサイト上に表示しましたウェブサイトやその他の権利保有者は、これらのオブジェクトに対するすべての権利が保護されています。
+        D。本契約、ならびにロシア連邦の現在の法律に基づいて設立されたように、何の情報をコピーすることはできませんを除き、（再生）処理し、分散し、フレーム内に表示、公開、ダウンロード、転送、他の方法で販売または使用されます全体または所有者の事前の許可なしに作品に、権利保有者がない限り、明示的に任意の個人による情報を無料で利用への同意を表明しました。電子。合法的にユーザーに属するウェブサイト上の情報を投稿することにより、ユーザは、単に個人的な非商業的使用の目的のための非排他的な見ることによって、それを使用する権利、（コピーを含む）の再生やその他の権利のために他のユーザーのアクセスを提供します例がない限り、このような使用が原因となる場合や、法律によって保護された権利者の利益に害を引き起こす可能性があります。
+        F。アクセスは非商用用いた個人のためにのみ得られた、すべて原作者のサイン（著作権）や原作者のその他の通知が保持されることを条件に、著者の名前とその製品を許可されたユーザによって情報の使用して、変更せずに残されます。グラム。また、ユーザーはウェブサイトに掲載されている情報を使用する非独占的権利で会社を提供し、のアーキテクチャと機能の性能内で、当社のウェブサイトの機能を確保するために合法的に考慮することなく、彼/彼女に属しますウェブサイト。上記呼ばれる非独占的権利は、ウェブサイト上のコンテンツの配置のために付与され、世界中の国の領土を覆っています。当社は、第三者にこの段落に言及権利を譲渡する権利を有します。ユーザーは、当社が広告情報の表示の目的を含め、ユーザによりコンテンツの共有の表示を提供し、ウェブサイトの機能や技術的なオプションを使用する権利を有することに同意します。こんにちは。ユーザーは、ウェブサイトから情報を削除する場合には、非独占的権利は自動的に取り消されますが、原因のウェブサイトの技術仕様に当社は、必要な時間と場所に必要な範囲内の情報のバックアップコピーを保存する権利を有します。私。別に個人情報から、ユーザーは、著作権からそのような行動を明示的に表現同意の不在下で（ウェブサイト上で公開することによって）他のサイト、データベース、およびその他の知的財産の情報を異なる方法でアップロードし、または開示する権利はありませんオーナー。
+        J。そうでなければ、これらの規則に注意されない限り、これらの規則で何かが情報への排他的権利の譲渡とみなすことはできません。 K。あなたのユーザプロファイルに公開するすべての情報は、最新かつ完全、正確でなければなりません。ユーザーは、ウェブサイト上またはユーザーの助けを借りて、別の方法（投稿）にアップロードまたは開示された任意の情報のために絶対に責任があります。ユーザーは、アップロード転送したり、彼/彼女はロシア連邦の法律に従って彼/彼女に取得または委任ような行動を取るために適切な権限を持っていない場合は、Webサイト上のコンテンツを投稿する権利を持っていません。当社できるが、しかし、違法なコンテンツのウェブサイトを閲覧するために、義務はないし、削除または移動するために限定するものではないが、何らかの理由または原因せず、独自の裁量で（予告なし）任意のコンテンツやユーザーを移動させることができますまたは本契約に違反し、当社の個々の意見によると、ロシア連邦の法律および/または、権利を侵害傷つけ、または他のユーザーまたは第三者のセキュリティを危険にさらす可能性があり、という情報を削除します。ウェブサイトには含まれています（または含有していてもよい）、インターネット（第三者のウェブサイト）だけでなく、記事、写真、イラスト、グラフィック、音楽、音、映像、情報、アプリケーション、ソフトウェアやその他の情報に属するか来て上の他のサイトへのリンク知的活動の結果であり、ロシア連邦の法律に従って保護されている第三者（サードパーティのコンテンツ）、から。これらの第三者とそれらの情報は、このまたは他の要件（正確性、完全性、誠実さ、など）に準拠するために当社が検証されません。当社は、サードパーティのサイトに掲載されたコンテンツについては責任を負いませんしているユーザーの利益がウェブサイトを介して、またはを含む第三者の情報、を介してアクセスしますが、サードパーティのサイトまたは上に発現ご意見または記述に限定されるものではないにその情報インチ任意のサイトへのリンク、製品、およびサービスは、このウェブサイト上に含まれる商用、非商用の性質のいずれかの情報は、当社から、これらの製品（サービス）の承認または推奨するものではありません。ユーザーがウェブサイトを離れ、第三者のウェブサイトにアクセスするか、サードパーティ製のソフトウェアを使用するか、またはインストールすることを決定した場合、彼/彼女は自分自身の責任でこれらの規則は、もはやユーザーに適用されているその瞬間からそうします。さらに、ユーザーのアクションは、情報彼/彼女が使用しようとしているそれらの個人のビジネス慣行を含む、適用可能なルールとポリシーに案内されています。"
+      forbidden_actions: 8. FORBIDDEN行動。
+      p_8: "。 「上の注視を保つ」または他の方法ですべての人を邪魔することは禁止されています。 B。インデックス、「スパイ」、抽出するために、ボット、ウイルス、/エキスサイトを検索するアプリケーション、または他の手動または自動のデバイスやプロセスを使用することは禁止またはその他の方法で複製またはナビゲーション構造を回避し、サービスまたはその内容を表示しています。
+        C。著作権者からの事前の同意を得ることなく、著作権で保護された著作権の情報、商標、または他の情報を、投稿、配布、またはeverywayを再現することは禁止されています。
+        D。サービスに含まれるいかなる著作権、商標、またはその他の著作権表示を削除することは禁止されています。電子。中に妨害またはサービスとウェブサイト、またはサービスまたはWebサイトに接続サービスおよびネットワークの動作を妨害することは禁止されています。
+        F。異なる方法で、ウイルス、またはその他のコンピュータコード、ファイル、または、妨害破壊したり、任意のコンピュータソフトウェア、ハードウェアまたは通信機器の機能を制限するように設計されたプログラムが含まれている任意の情報を電子メールまたは転送を公開することは禁止されています。グラム。ヘッダーを偽造またはサービスを介して共有される情報の本当の意味を偽装する目的のために指定を操作するために禁止されています。時間。それは、「鍛造」または「コピー」Flutyloveからの事前の書面による許可なしにサービスやウェブサイトの任意の部分に禁止されています。また、あなたはどのような目的のために別のサイトにすべての人をリダイレクトするために、任意のmetaタグやコード、またはFlutylove、サービスまたはWebサイトへのリンクを含む他のデバイスを使用することはできません。私。同じような行動を取るために他の人を奨励するだけでなく、変更、サブライセンスを改作、翻訳、販売、再構築を、解読、逆コンパイルまたはサービスまたはウェブサイト、またはウェブサイト上またはそれのために使用される任意のソフトウェアの任意の部分を分解することは禁止されています。
+        J。ポルノおよび/またはエロティックなコンテンツを持つ任意の情報を掲載することは禁止されています。"
+      the_changes_in_the_service: 9. SERVICEに変化します。
+      p_9: Flutylove変更または一時的または恒久的にサービスを無効にするには、いつでも権利を留保（または任意のそれは一部だ）予告なし。あなたはFlutyloveは、任意の変更、一時的な可用性やサービスの完全な無効化のために、あなたや第三者に対して責任を負わないことに同意するものとします。
+      ip_address_blocking: 10. IPアドレスのブロック。
+      p_10: ウェブサイトの完全性を保護するために、Flutyloveは、特定のユーザーのIPアドレスをブロックするために、自身の都合でいつでも権利を留保します。
+      relations_between_users_online: 11 RELATIONS
+      security_and_communication: 12.セキュリティとコミュニケーション。
+      denial_of_responsibility: 13.責任の否定。
+      p_13: "。 Flutyloveは、ウェブサイトまたは任意のハードウェアまたはソフトウェアの私達のサービスに関連付けられているか、そこに使用されているのユーザーが任意の不正確または不正確な情報のウェブサイトに掲載またはサービスに関連しているの責任を負いません。
+        Flutyloveは、ウェブサイトのすべてのユーザーの、オンラインとオフラインの両方で、行動の責任を負いません。 Flutyloveは、操作または操作、通信回線の障害、盗難や破壊、不正アクセスや利用者の通信回線の変更に誤り、省略、中断、削除、損傷または遅延のための責任を負いません。
+        Flutyloveは、インターネット上の、または任意のウェブサイトで任意の電話網または回線、コンピューターオンラインシステム、サーバーまたはプロバイダー、コンピューター機器、ソフトウェア、ユーザー・アカウント内のメールやプレーヤーの故障、技術的な問題や輻輳の問題や技術的な故障については責任を負いませんまたは事故やけがのユーザーまたはコンピュータに関連する第三者、またはへの参加やネットワークおよび/またはサービスに関連する情報をダウンロードした結果としてなど、その組み合わせ。いかなる状況下ではFlutylove当社または当社の関連会社のいずれか、広告代理店、創業者または販売パートナーがけがや死亡を含むいかなる損害に対する責任を負いませんでしょう、なぜならウェブサイトまたはサービスの使用するのでは、任意のコンテンツをウェブサイトに掲載ウェブサイトの利用者との間に、または任意の相互作用、オンラインとオフラインの両方。ウェブサイトおよびサービスは、AS上に設けられている基礎である、とFlutyloveは、明示、特定の目的、または誰かの権利の侵害がないことをいかなる保証やフィットネスを負いません。
+        Flutyloveは保証できませんし、ウェブサイトおよび/またはサービスを使用してから、具体的な成果を約束するものではありません。"
+      links: 14. LINKS。
+      p_14: "。 Flutyloveは、ウェブサイトまたは任意のハードウェアまたはソフトウェアの私達のサービスに関連付けられているか、そこに使用されているのユーザーが任意の不正確または不正確な情報のウェブサイトに掲載またはサービスに関連しているの責任を負いません。
+        Flutyloveは、ウェブサイトのすべてのユーザーの、オンラインとオフラインの両方で、行動の責任を負いません。 Flutyloveは、操作または操作、通信回線の障害、盗難や破壊、不正アクセスや利用者の通信回線の変更に誤り、省略、中断、削除、損傷または遅延のための責任を負いません。
+        Flutyloveは、インターネット上の、または任意のウェブサイトで任意の電話網または回線、コンピューターオンラインシステム、サーバーまたはプロバイダー、コンピューター機器、ソフトウェア、ユーザー・アカウント内のメールやプレーヤーの故障、技術的な問題や輻輳の問題や技術的な故障については責任を負いませんまたは事故やけがのユーザーまたはコンピュータに関連する第三者、またはへの参加やネットワークおよび/またはサービスに関連する情報をダウンロードした結果としてなど、その組み合わせ。いかなる状況下ではFlutylove当社または当社の関連会社のいずれか、広告代理店、創業者または販売パートナーがけがや死亡を含むいかなる損害に対する責任を負いませんでしょう、なぜならウェブサイトまたはサービスの使用するのでは、任意のコンテンツをウェブサイトに掲載ウェブサイトの利用者との間に、または任意の相互作用、オンラインとオフラインの両方。ウェブサイトおよびサービスは、AS上に設けられている基礎である、とFlutyloveは、明示、特定の目的、または誰かの権利の侵害がないことをいかなる保証やフィットネスを負いません。
+        Flutyloveは保証できませんし、ウェブサイトおよび/またはサービスを使用してから、具体的な成果を約束するものではありません。"
+      limitation_of_responsibility: 15.責任の制限。
+      other_provisions_and_changes: 17.その他の規定および変更。
+      read_this: 私は、本契約を読み、そのすべての契約に同意します。
+    about:
+      about_flutylove_text: Flutyloveは年代測定のための国際社会エンターテイメントネットワークです。ここでは、ソウルメイト、パートナーまたは単にゲームをプレイして楽しんだり、ビデオ/写真を見て、あなたの時間を過ごす、友達を見つけることができます。
+      we_are_in_social_networks: 私たちはソーシャルネットワークでは、次のとおりです。
+      twitter: ツイッター
+      vk: Vkontakte
+      instagram: Instagramの
+      we_use_open_source_and_high_technology: 私たちは、高い技術とオープンソースのライブラリを使用しています。私たちは常により良い取得し、当社のサービスを改善してみてください。
+      partners_and_investors: 私たちは、パートナーシップのために開かれており、我々は投資家を見つけるしたいと思います。あなたは私たちと協力したい場合partnership@flutylove.comまでご連絡ください。
+    faq:
+      faq: よくある質問
+      what_is_flutylove: Flutyloveは何ですか？
+      about_flutylove: Flutyloveは年代測定のための国際社会エンターテイメントネットワークです。ここでは、ソウルメイト、パートナーまたは単にゲームをプレイして楽しんだり、ビデオ/写真を見て、あなたの時間を過ごす、友達を見つけることができます。
+      what_features_has_flutylove: どのような機能がFlutyloveを持っていますか？
+      flutylove_features: ここでは、ゲームをプレイし、他の国からの拡張検索、検索パートナーを使用し、他の社会詰め込むの操作を行い、videocamsとチャットすることができます。
+      i_have_some_requests: 私はいくつかの要求を持っています
+      github_repository: githubのリポジトリ
+      to_us_or_write_to_our_info_mail: またはsupport@flutylove.comにメールを書きます
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: がFlutyloveへようこそ
+      you_can_sign_in_with_your_social_networks: あなたがもう一度あなたのソーシャルネットワークのアカウントでログインすることができますログインしたい場合
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: あなたは記号アウトしてパスワードを変更することができますメールアドレスとパスワードでログインし、以下のリンクする]をクリックしたい場合
+      change_password: パスワード変更
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            birth_date:
+              birth_date_error: は18より大きく、115少ないし、する必要があります
+            interests:
+              interests_error: が2000未満のシンボルである必要があります
+            jobs:
+              jobs_error: が2000未満のシンボルである必要があります
+            languages:
+              languages_error: が2000未満のシンボルである必要があります
+            sex_keywords:
+              sex_keywords_error: が2000未満のシンボルである必要があります
+            contacts:
+              contacts_length_error: が2000未満のシンボルである必要があります
+              contacts_size_error: は、21未満の接点である必要があります
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: は、無効な値が含まれてい
+  devise:
+    confirmations:
+      send_instructions: します。
+      send_paranoid_instructions: あなたのメールアドレスが私達のデータベースに存在する場合は、あなたは数分でアカウントを確認する方法についての手順を記載したメールが届きます。
+      new:
+        send_mail_for_confirm_your_email: 確認メールのメールを送ります
+        submit: 提出
+    failure:
+      last_attempt: "。"
+    mailer:
+      confirmation_instructions:
+        subject: 確認命令
+        welcome_to_flutylove: がFlutyloveへようこそ
+        confirm_my_account: 私の電子メールを確認してください
+      reset_password_instructions:
+        hello: こんにちは
+        subject: パスワードのリセット命令
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: 誰かがパスワードを変更するためのリンクを要求しています。あなたは下のリンクを介してこれを行うことができます。
+      unlock_instructions:
+        subject: ロック解除の手順
+    omniauth_callbacks:
+      failure: は％{種類} "％{理由}"理由からあなたを認証できませんでした。
+      success: 成功しました％{種類}のアカウントから認証されました。
+    passwords:
+      no_token: あなたは、パスワードリセットのメールから来ることなく、このページにアクセスすることはできません。パスワード再設定のメールから来ない場合は、あなたが提供する完全なURLを使用していることを確認してください。
+      send_instructions: します。
+      send_paranoid_instructions: あなたのメールアドレスが私達のデータベースに存在する場合は、あなたは数分であなたのメールアドレスにパスワード回復リンクを受信します。
+      new:
+        forgot_your_password: あなたのパスワードを回復
+        reset_password: 送信URLを回復します
+      edit:
+        change_your_password: あなたのパスワードを変更します
+        new_password: 新パスワード
+        confirm_password: パスワードの確認
+        change_password: 変更
+    registrations:
+      destroyed: バイバイ！アカウントが正常にキャンセルされました。私たちはすぐにまたお会いしたいと考えています。
+      signed_up: ようこそ！あなたが正常にサインアップしています。
+      new:
+        sign_up: サインアップ
+        name: 名前
+        password_confirmation: パスワードの確認
+        register: サインアップ
+    shared:
+      links:
+        sign_in: ログイン
+        sign_up: サインアップ
+        didnt_receive_confirmation_instructions: 確認命令を受け取っていないですか？
+        fast_login_almost_one_click: ファストログイン（ほぼワンクリック）
+    sessions:
+      signed_in: は正常に署名されました。
+      signed_out: が正常にログアウトしました。
+      new:
+        sign_in: ログイン
+        remember_me: 私を忘れないでください
+        forgot_your_password: パスワードを忘れましたか？
+    unlocks:
+      send_instructions: します。
+  timezones:
+    American Samoa: アメリカ領サモア
+    Midway Island: ミッドウェー島
+    Hawaii: ハワイ
+    Pacific Time (US & Canada): 太平洋標準時（米国およびカナダ）
+    Tijuana: ティファナ
+    Arizona: アリゾナ州
+    Chihuahua: チワワ
+    Mazatlan: マサトラン
+    Mountain Time (US & Canada): 山地標準時（米国およびカナダ）
+    Central Time (US & Canada): 中部標準時（米国およびカナダ）
+    Guadalajara: グアダラハラ
+    Mexico City: メキシコシティ
+    Monterrey: モンテレー
+    Saskatchewan: サスカチュワン州
+    Bogota: ボゴタ
+    Eastern Time (US & Canada): 東部標準時（米国およびカナダ）
+    Indiana (East): インディアナ（東）
+    Lima: リマ
+    Quito: キト
+    Atlantic Time (Canada): 大西洋標準時（カナダ）
+    Caracas: カラカス
+    Georgetown: ジョージタウン
+    La Paz: ラパス
+    Santiago: サンティアゴ
+    Brasilia: ブラジリア
+    Buenos Aires: ブエノスアイレス
+    Greenland: グリーンランド
+    Montevideo: モンテビデオ
+    Mid-Atlantic: 中部大西洋
+    Azores: アゾレス
+    Cape Verde Is: カーボベルデです​​。
+    Casablanca: カサブランカ
+    Dublin: ダブリン
+    Edinburgh: エディンバラ
+    London: ロンドン
+    Monrovia: モンロビア
+    UTC: UTC
+    Belgrade: ベオグラード
+    Berlin: ベルリン
+    Bern: ベルン
+    Bratislava: ブラティスラヴァ
+    Brussels: ブリュッセル
+    Budapest: ブダペスト
+    Copenhagen: コペンハーゲン
+    Ljubljana: リュブリャナ
+    Madrid: マドリード
+    Paris: パリ
+    Sarajevo: サラエボ
+    Skopje: スコピエ
+    Stockholm: ストックホルム
+    Vienna: ウィーン
+    Warsaw: ワルシャワ
+    West Central Africa: 西中部アフリカ
+    Zagreb: ザグレブ
+    Bucharest: ブカレスト
+    Cairo: カイロ
+    Harare: ハラレ
+    Helsinki: ヘルシンキ
+    Istanbul: イスタンブール
+    Jerusalem: エルサレム
+    Kaliningrad: カリーニングラード
+    Kyiv: キエフ
+    Pretoria: プレトリア
+    Riga: リガ
+    Sofia: ソフィア
+    Tallinn: タリン
+    Vilnius: ビリニュス
+    Baghdad: バグダッド
+    Minsk: ミンスク
+    Nairobi: ナイロビ
+    Riyadh: リヤド
+    St Petersburg: サンクトペテルブルク
+    Volgograd: ボルゴグラード
+    Tehran: テヘラン
+    Baku: バクー
+    Muscat: マスカット
+    Samara: サマラ
+    Tbilisi: トビリシ
+    Yerevan: エレバン
+    Kabul: カブール
+    Ekaterinburg: エカチェリンブルグ
+    Islamabad: イスラマバード
+    Tashkent: タシケント
+    Chennai: チェンナイ
+    New Delhi: ニューデリー
+    Sri Jayawardenepura: スリランカJayawardenepura
+    Kathmandu: カトマンズ
+    Almaty: アルマトイ
+    Astana: アスタナ
+    Dhaka: ダッカ
+    Novosibirsk: ノボシビルスク
+    Urumqi: ウルムチ
+    Rangoon: ラングーン
+    Bangkok: バンコク
+    Hanoi: ハノイ
+    Jakarta: ジャカルタ
+    Krasnoyarsk: クラスノヤルスク
+    Chongqing: 重慶
+    Irkutsk: イルクーツク
+    Kuala Lumpur: クアラルンプール
+    Perth: パース
+    Singapore: シンガポール
+    Taipei: 台北
+    Ulaanbaatar: ウランバートル
+    Osaka: 大阪
+    Sapporo: 札幌
+    Seoul: ソウル
+    Yakutsk: ヤクーツク
+    Adelaide: アデレード
+    Darwin: ダーウィン
+    Brisbane: ブリスベン
+    Canberra: キャンベラ
+    Guam: グアム
+    Hobart: ホバート
+    Melbourne: メルボルン
+    Port Moresby: ポートモ​​レスビー
+    Sydney: シドニー
+    Vladivostok: ウラジオストック
+    Magadan: マガダン
+    New Caledonia: ニューカレドニア
+    Solomon Is: ソロモンです。
+    Srednekolymsk: スレドネコリムスク
+    Auckland: オークランド
+    Fiji: フィジー
+    Kamchatka: カムチャッカ
+    Marshall Is: マーシャルです。
+    Chatham Is: チャタムです。
+    Nuku'alofa: ヌクアロファ
+    Samoa: サモア
+    Tokelau Is: トケラウ諸島です。
+  ja: ja
+  ja_iso: ja

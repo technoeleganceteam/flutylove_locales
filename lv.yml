@@ -1,0 +1,1750 @@
+---
+lv:
+  1_we_have_just_launched_our_service_title: Mēs tikko uzsāka mūsu servisu!
+  common_keywords: datings, tiešsaistes datings, mīlestība datings, webcam iepazīšanās,
+    ātrums iepazīšanās, webcam chat iepazīšanās, Ruby on Rails iepazīšanās vietne,
+    daudzvalodu dating site
+  common_description: Vismodernākās starptautiskais sociālais izklaides tīkls datings
+    "Flutylove"
+  default_album: Default album
+  user: User
+  user_to_search_connection: Search
+  video: Video
+  note: piezīme
+  photo_album: Fotoalbums
+  from: 'No'
+  to: Lai
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Male
+  - female:
+      name: Female
+  - transgender:
+      name: transpersonu
+  - male-female:
+      name: Male-Female
+  - double-female:
+      name: Double sieviete
+  - double-male:
+      name: Double vīrietis
+  orientation:
+  - heterosexual: heteroseksuālu
+  - homosexual: Homoseksuāls
+  - bisexual: Divdzimumu
+  search_for:
+  - chatting: Tērzēšana
+  - get_friends: Get draugi
+  - flirtation: flirts
+  - marriage: Laulība
+  - other: Citi
+  body_type:
+    slim: Slim
+    normal: Normal
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Single
+    in_a_relationship: In attiecības
+    married: Precējies
+    nothing_serious: Nekas nopietns
+  children:
+    dont_have: Nav
+    dont_have_and_dont_want_to: nav un nevēlas
+    don_t_have_but_planning: Vai nav, bet plānošana
+    have_enough: Have
+    have_and_planning_more: Have un plāno vairāk
+    unable_to_have_children: Nevar bērnus
+  living:
+    with_parents: Ar vecākiem
+    with_marriage_partner: Ar laulības partneri
+    alone: Alone
+    with_friends: Ar draugu (s)
+  education:
+    nothing: Nekas
+    secondary_school: vidusskola
+    college_technical_college: College / Tehniskā koledža
+    university: University
+    postgraduate: Pēcdiploma
+    phd_md_post_doctorate: PhD / MD / Post doktora
+  hair_color:
+    blonde: Blonde
+    dark_blond: Gaišbrūns
+    brown: Brown
+    black: Black
+    red: Red
+    gray: Gray
+    other: Citi
+  income:
+    unemployed: Bezdarbnieki
+    unstable_earnings: Nestabils peļņa
+    small_stable_earnings: Mazie stabili ienākumi
+    medium_stable_earnings: Vidēja stabili ienākumi
+    higher_than_average_income: Augstāka par vidējo ienākumu
+    high_income: High ienākumi
+  smoking:
+    not_smoke: Nav smēķēt
+    not_smoke_and_detest: Nav smēķēšana un ienīst smēķēšanu
+    smoke_in_a_social_setting: Dažreiz sociālajā vidē
+    smoke_occasionally: smēķēt Laiku pa laikam
+    smoke_often: Dūmu bieži
+  alcohol:
+    not_drinking: nedzer
+    drink_occalionally: dzert Laiku pa laikam
+    drink_in_a_social_setting: Drink sociālajā vidē
+    drink_often: Drink bieži
+  drugs:
+    dont_use: Nelietojiet
+    contra_drugs: Contra narkotikas
+    tried_out_some: izmēģināja dažus
+    light_drugs_occasionally: Gaismas narkotikas reizēm
+    regular: Regulāra
+  sponsor:
+    i_want_to_find_a_sponsor: Es gribu atrast sponsoru
+    willing_to_become_a_sponsor: vēlas kļūt par sponsoru
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Nav meklē sponsoru un
+      nevēlas kļūt par vienu
+  category_name:
+    strategy: stratēģija
+    rpg: RPG
+    3d_shooters: 3D shooters
+    racing: Racing
+    arcade: Arcade
+    economic: Ekonomiskā
+    simulators: simulatori
+    logic: Logic
+    adventure: Adventure
+    board_games: Galda spēles
+    gambling: Azartspēles
+    news: News
+    communication: Paziņojums
+    multimedia: Multimedia
+    drawing: Drawing
+    educational: Izglītības
+    e_commerce: E-komercija
+    other: Citi
+  shared:
+    header:
+      people: Cilvēki
+      chat: Chat
+      groups: Grupas
+      forum: Forum
+      requests: Pieprasījumi
+      about: Par projektu
+      help: Palīdzība
+      user_applications: pieteikumi
+    liked_users:
+      liked: Patika
+      all: All
+      you_have_not_liked_any_users_yet: Jūs neesat paticis nekādas lietotājus vēl
+    most_liked_users:
+      most_liked_users: popularitātes
+    installed_user_applications:
+      installed_applications: Installed pieteikumi
+      all: All
+      you_have_not_installed_any_apps_yet: Jūs neesat instalējis visus pieteikumus
+        vēl
+    user_applications:
+      uploaded_apps: Augšupielādētie pieteikumi
+      all: All
+      you_have_not_uploaded_any_apps_yet: Jūs neesat augšupielādējis nevienu pieteikumu
+        vēl
+    right_sidebar:
+      news: News
+      all: All
+      read_more: Lasīt vairāk
+    footer:
+      footer_text: International sociālās izklaides tīkls datings "Flutylove"
+      privacy: Privacy
+      terms: Noteikumi
+      feedback: Atsauksmes
+      abuse: Abuse
+    languages_select_modal:
+      available_languages: Pieejamās valodas
+    site_map_modal:
+      site_map: Lapas karte
+      faq: FAQ
+      about: Par
+      static_pages: Statiskas lapas
+      common_pages: Bieži lapas
+      user_pages: Lietotāja lapas
+      terms: Noteikumi
+      privacy: Privacy
+      people: Cilvēki
+      user_applications: pieteikumi
+      user_requests: Pieprasījumi
+      news: News
+      feedback: Atsauksmes
+      abuse: Abuse
+      chats: Chats
+      videos: Videos
+      photo_albums: Foto albumi
+      notes: Notes
+    pagination_link:
+      next_page: Nākamā lapa
+    user_edit_menu:
+      content: saturs
+      profile: Profile
+      site_settings: Vietnes iestatījumi
+      privacy: Privacy
+      services: Services
+    activities_navigation:
+      all: All
+      photos: Fotogrāfijas
+      photo_albums: Foto albumi
+      notes: Notes
+      videos: Videos
+    notifications_navigation:
+      all: All
+      likes: Patīk
+      friend_requests: Draugs pieprasījumi
+      profile_views: Profila skatījumi
+      photo_album_views: Fotogrāfijas views
+    user_to_friend_connections_navigation:
+      friends: Friends
+      friends_online: Draugi online
+      outcome_requests: Rezultātu pieprasījumi
+      income_requests: Ienākumu pieprasījumi
+    user_applications_navigation:
+      all: All
+      new: New
+      popular: Popular
+      often_installed: Bieži uzstādīta
+      manage: Pārvaldīt
+    user_requests_navigation:
+      all: All
+      popular: Popular
+      my_requests: Mani pieprasījumiem
+    user_navbar_menu:
+      sign_in: Pierakstīties
+      sign_up: Reģistrēties
+    email_signature:
+      info: Info
+      mailer: Mailer
+      technoelegance: Technoelegance SIA
+    translations:
+      select_gender: Select dzimums
+      select_orientation: Select orientācija
+      select_search_for: izvēlieties Meklēt
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Jums jāpierakstās pirms šajā darbībā
+      available_sign_in_methods: You
+    sign_up_methods:
+      usual_register_link: parasti reģistrācija
+      register_text: Bez% {usual_registration} jūs varat reģistrēties, izmantojot
+        populārākajiem pakalpojumiem un sociālajiem tīkliem
+    bootstrap_gallery:
+      previous: Iepriekšējā
+      next: Nākamais
+    user_notification_title:
+      you_liked: Jūs patika
+      wrote_message_to_you: Rakstīja ziņu jums
+      viewed_your_profile: Skatīts jūsu profilu
+      liked_your_photo: Patika savu foto
+      liked_your_note: Patika savu piezīmi
+      liked_your_request: Patika jūsu pieprasījumu
+      liked_your_video: Patika video
+      liked_your_application: Patika jūsu pieteikumu
+      requested_a_friendship: pieprasīja draudzību
+  authentications:
+    authentication:
+      turn_on: ieslēgšana
+      turn_off: Izslēgt
+      turned_on: Virpotas uz
+      turned_off: Izslēgts
+    index:
+      enabled_services: Enabled pakalpojumi
+  users:
+    profile:
+      submit: Saglabāt
+      name: Name
+      meet_with: Meet ar
+      gender: Dzimums
+      type_in_your_location: Ierakstiet savā pilsētā
+      about_me: Daži vārdi par sevi (papildus veidot tālāk)
+      sex_keywords: Intereses dzimuma
+      enter_your_name: Ievadiet savu vārdu
+      more_options: More
+      orientation: Orientēšanās
+      birth_date: Dzimšanas datums
+      location: Location
+      search_for: Meklēt
+      intimacy: Intimacy
+      in_age: In laikmetā
+      from: 'no'
+      to: uz
+      interests: intereses
+      height: augstums
+      weight: Svars
+      body_type: Virsbūve
+      hair_color: Matu krāsa
+      relationship: Attiecības
+      children: Bērni
+      living: Living
+      education: Izglītība
+      jobs: Job
+      income: Ienākumi
+      languages: valodas
+      smoking: Smēķēšana
+      alcohol: Alkohols
+      drugs: Narkotikas
+      contacts: Kontakti
+      contact_name: Kontaktpersonas vārds
+      contact_value: Kontakti vērtība
+      save: Saglabāt
+      about_yourself: Par sevi
+    settings:
+      submit: Saglabāt
+      locale: Interface valoda
+      change_password: Mainīt paroli
+      interface_language: Interface valoda
+      time_zone: Laika josla
+    dialog_modal:
+      send_message: Nosūtīt īsziņu
+    index:
+      users: lietotāji
+      clear_search: Notīrīt meklēšanu
+    dashboard:
+      hello: Sveiki
+      here_some_of_your_statistics: Lūk daži no jūsu statistika
+      chats: Chats
+      messages: Messages
+      photos: Fotogrāfijas
+      videos: Videos
+      notes: Notes
+      photo_albums: Foto albumi
+    avatar:
+      photo: Foto
+      uploading_file: augšupielāde fails
+      handling_file: apstrāde fails
+      drag_and_drop_your_file: Velciet un nometiet failu
+      here: šeit
+      or: vai
+      upload_file: augšupielādēt failu
+      from_other_sites: No citām vietnēm
+      write_down_link_for_your_image: Pierakstiet saiti par savu tēlu
+      url_for_image: URL uz attēlu
+      upload: Upload
+      from_facebook: No Facebook
+      turn_on_facebook: Ieslēdziet Facebook
+      you_can_upload_your_photos_from_facebook: jūs varat augšupielādēt savas fotogrāfijas
+        no Facebook
+      from_vkontakte: No VKontakte
+      you_can_upload_your_photos_from_vkontakte: jūs varat augšupielādēt savas fotogrāfijas
+        no VKontakte
+      turn_on_vkontakte: Ieslēdziet VKontakte
+      from_instagram: No Instagram
+      you_can_upload_your_photos_from_instagram: jūs varat augšupielādēt savas fotogrāfijas
+        no Instagram
+      turn_on_instagram: Ieslēdziet Instagram
+      from_dropbox: No Dropbox
+      you_can_upload_your_photos_from_dropbox: jūs varat augšupielādēt savas fotogrāfijas
+        no Dropbox
+      turn_on_dropbox: Ieslēdziet Dropbox
+      edit_photo: rediģēšana foto
+      delete_photo: Delete photo
+      are_you_sure: Vai esat pārliecināts?
+    available_photos_modal:
+      available_photos: Pieejamās fotogrāfiju
+    update:
+      your_password_was_successfully_changed: Jūsu parole tika veiksmīgi mainīta
+      your_profile_was_successfully_updated: Jūsu profila tika veiksmīgi atjaunināts
+    edit_photo:
+      edit_photo: rediģēšana foto
+      crop: Crop
+      close: Close
+      save_changes: Saglabāt izmaiņas
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: url / Pilsēta / id / etc
+    user:
+      about_me: Par mani
+      orientation: Orientēšanās
+      meet_with: Meet ar
+      desirable_age: Vēlama vecums
+      from: 'no'
+      to: uz
+      interests: intereses
+      height: augstums
+      sm: sm
+      kg: kg
+      body_type: Virsbūve
+      hair_color: Matu krāsa
+      relationship: Attiecības
+      children: Bērni
+      living: Living
+      education: Izglītība
+      jobs: Jobs
+      income: Ienākumi
+      languages: valodas
+      smoking: Smēķēšana
+      alcohol: Alkohols
+      drugs: Narkotikas
+      contacts: Kontakti
+    user_info:
+      offline: Offline
+      online: Online
+      age: Age
+    loading_modal_images:
+      loading_images: ielāde images
+    password_form:
+      new_password: Jaunā parole
+      confirm_new_password: Apstiprināt jauno paroli
+      old_password: Vecā parole
+      change_password: Mainīt paroli
+    show:
+      photos: Fotogrāfijas
+      all: All
+      videos: Videos
+      notes: Notes
+      view: View
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: Paste saņēma atslēgu
+      submit: Iesniegt
+    contents:
+      users_which_i_like: Lietotāji, kas man patīk
+      all: All
+      my_videos_likes: Mani video patīk
+      my_photos_likes: Mani foto patīk
+      my_notes_likes: Manas piezīmes patīk
+      my_user_applications_likes: Mani pieteikumi patīk
+      my_user_requests_likes: Mani pieprasījumiem patīk
+    more_profile_info:
+      photo_albums: Foto albumi
+      view_all_photo_albums: Skatīt visus fotoalbumus
+      create_more: Izveidot vairāk
+      videos: Videos
+      view_all_videos: Skatīt visus video
+      notes: Notes
+      view_all_notes: Skatīt visus piezīmes
+      requirements_lists_to_partner: Prasības saraksti partneri
+      requirement: prasība
+      view_all_requirements_lists: Skatīt visas prasības saraksti
+      profile_verification: Profile pārbaude
+      your_profile_is_successfully_verified: Jūsu profils ir veiksmīgi pārbaudīta
+      create: izveide
+      you_have_not_any_requirements_lists_yet: Jūs neesat jebkādas prasības sarakstus
+        vēl
+      you_have_not_any_notes_yet: Jūs neesat nekādas piezīmes vēl
+      you_have_not_any_photo_albums_yet: Jūs neesat kādi foto albumi vēl
+      you_have_not_any_videos_yet: Jūs neesat nevienu video
+      your_profile_is_not_verified_yet: Jūsu profils nav pārbaudīta vēl
+      verify_through_twitter: Pārbaudiet caur Twitter
+      verify_through_facebook: Pārbaudiet caur Facebook
+      verify_through_mail_ru: Pārbaudiet caur Mail.ru
+    privacy:
+      privacy: Privacy
+  searches:
+    form:
+      location: Location
+      from: 'no'
+      to: uz
+      age: Age
+      gender: Dzimums
+    form_content:
+      city: City
+      gender: Dzimums
+      age_from: Age no
+      to: uz
+      online: Online
+      verified: foto
+      has_avatar: Ir iemiesojumu
+      region: Region
+      more: More
+      country: Country
+      about_me: Par mani
+      interests: intereses
+      languages: valodas
+      names: Names
+      height: augstums
+      from: 'no'
+      weight: Svars
+      body_type: Virsbūve
+      relationship: Attiecības
+      hair_color: Matu krāsa
+      education: Izglītība
+      orientation: Orientēšanās
+      search_for: Meklēt
+      children: Bērni
+      living: Living
+      smoking: Smēķēšana
+      alcohol: Alkohols
+      drugs: Narkotikas
+      income: Ienākumi
+    show:
+      users: lietotāji
+      clear_search: Notīrīt meklēšanu
+  welcome:
+    index:
+      people: Cilvēki
+      requests: Pieprasījumi
+      user_applications: pieteikumi
+      about: Par
+      features: Features
+      registration: reģistrācija
+      sign_in: Pierakstīties
+      welcome_main_title: Laipni lūdzam Flutylove!
+      welcome_main_text: Šī ir vieta, kur jūs varat atrast perfektu mīlestību
+      find_more: Atrast vairāk
+      about_title: Flutylove starptautiskais sociālais izklaides tīkls datings
+      about_text: Ir daudzas iespējas, ko varat izmantot, lai izklaides un datings!
+      find_more_features: Atrast vairāk funkcijas
+      at_our_service: Iezīmes mūsu pakalpojumu
+      many_languages: Daudzas valodas
+      text_about_many_languages: mūsu pakalpojums ir tulkota vairāk nekā 70 valodās
+      check_it_out: Check it out
+      videochats: Videochats
+      text_about_videochats: Jūs varat tērzēt ar savu partneri ar videocams
+      try_it_now: Izmēģiniet tagad
+      search: Search
+      text_about_search: Jūs varat meklēt ar vairākiem parametriem, un tas ir bez
+        maksas!
+      watch_this: Vērot šo
+      more_features: Citas iespējas
+      text_about_more_features: Jūs varat apskatīt video, spēlēt spēles un darīt daudzas
+        citas lietas!
+      register_and_learn_more: Reģistrēties un uzzināt vairāk
+      install_our_apps: Instalējiet mūsu progr no par tautas platformām
+      register_header: reģistrācija
+  feedbacks:
+    new:
+      feedback_title: Atsauksmes
+    form:
+      feedback_name: savu vārdu
+      feedback_email: Jūsu e-pastu
+      feedback_content: Atsauksmes saturs
+      close: Close
+      send: Sūtīt
+      feedback_recaptcha: Recaptcha
+      cancel: Atcelt
+    success:
+      success_feedback: Paldies! Mēs esam saņēmuši jūsu atsauksmes.
+      close: Close
+      cancel: Atcelt
+      more: sūtīt vairāk
+  abuses:
+    new:
+      abuse_title: Abuse
+    form:
+      abuse_name: savu vārdu
+      abuse_email: Jūsu e-pastu
+      abuse_content: Abuse saturs
+      abuse_title: Abuse
+      close: Close
+      send: Sūtīt
+      abuse_recaptcha: Recaptcha
+      abuse_link: Link
+      cancel: Atcelt
+    success:
+      success_abuse: Paldies! Mēs esam saņēmuši jūsu ļaunprātīgu izmantošanu.
+      close: Close
+      cancel: Atcelt
+      more: sūtīt vairāk
+  layouts:
+    welcome:
+      welcome_title: Laipni lūdzam Flutylove! Vismodernākās iepazīšanās portālā.
+  recaptcha:
+    errors:
+      verification_failed: Neizdevās reCAPTCHA
+      recaptcha_unreachable: Recaptcha ir sasniedzams
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Mēs tikko uzsāka mūsu servisu!
+      we_have_just_launched_our_service_text: Šodien mēs uzsāktu mūsu pakalpojumus,
+        lai ikviens varētu
+      sign_up: pierakstīties
+      and_use_it: un izmantot to.
+      wishes_and_requests: Ja jums ir kādi vēlmes vai pieprasījumus, varat piereģistrēties
+        un uzrakstīju to
+      here: šeit
+      with_love: Ar mīlestību,
+      flutylove_team: Flutylove Team
+    index:
+      all_news: Visi jaunumi
+      read_more: Lasīt vairāk
+  chats:
+    panel_head:
+      online: Online
+      offline: Offline
+    pagination_link:
+      next_page: Nākamā lapa
+    form:
+      message_text: Ziņas teksts
+    form_additions:
+      submit: Iesniegt
+      videochat: videočats
+    show:
+      messages: Messages
+    index:
+      messages: Messages
+    videochat_request_link:
+      connect_to_videochat: Connect to videočats
+    modal_form:
+      send_message: Nosūtīt īsziņu
+      recipient: Saņēmēja
+      message: Message
+      close: Close
+      submit: Iesniegt
+    waiting_video_answer_button:
+      waiting_for_response: Gaida atbildi ...
+    chat_created:
+      send_message: Nosūtīt īsziņu
+      message_was_sent: Message tika nosūtīts
+      close: Close
+  messages:
+    pagination_link:
+      next_page: Nākamā lapa
+    form:
+      message_text: Ziņas teksts
+  notifications:
+    user_to_friend_connection:
+      action: Action
+    notification:
+      offline: Offline
+      online: Online
+    like:
+      action: Action
+    photo_album_view:
+      action: Action
+    user_view:
+      action: Action
+  user_applications:
+    user_application:
+      who_uploaded: Augšupielādēja
+      all_uploaded_applications_by: Visas augšupielādēti iesniegumi
+    form:
+      name: Name
+      user_application_name: Lietojumprogrammas nosaukums
+      description: Apraksts
+      description_text: Apraksts teksts
+      iframe_url: iframe url
+      icon_for_application: Application icon
+      upload_icon: Download ikona
+      public: Public?
+      category_name: kategorija
+      create: izveide
+      edit: rediģēšana
+    show:
+      application: Application
+      return_to_uploaded_applications: Lai augšupielādēja pieteikumu
+      edit_application: Edit pieteikums
+      return_to_all_applications: Atgriezties uz visiem pieteikumiem
+    manage:
+      installed_applications: Installed pieteikumi
+      uploaded_applications: Augšupielādētie pieteikumi
+      all: All
+    index:
+      applications_uploaded_by: pieteikumi augšupielādētie
+      return_to_all_applications: Atgriezties uz visiem pieteikumiem
+      create_new: Izveidot jaunu
+      return_to_manage_applications: Return pārvaldīt lietojumprogrammas
+    installed:
+      installed_applications: Installed pieteikumi
+      return_to_all_applications: Atgriezties uz visiem pieteikumiem
+      return_to_manage_applications: Return pārvaldīt lietojumprogrammas
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Pirms domām šis pieteikums
+        jums jāpierakstās pirmais
+    need_to_install:
+      need_to_install_first: Jums nepieciešams instalēt šo lietojumprogrammu pirmo
+        reizi
+      install_application: instalēšana pieteikumu
+  likes:
+    index:
+      liked_items: Patīk preces
+      return_to_my_content: Atgriezties uz manu saturu
+  videos:
+    index:
+      videos: Videos
+      return_to_edit_profile: Lai rediģēšanas profilu
+      create_new: Izveidot jaunu
+      return_to_profile: Atgriezties uz profilu
+    video:
+      edit: rediģēšana
+      are_you_sure: Vai esat pārliecināts?
+      delete: Dzēst
+    modal_form:
+      create_new_video: Izveidot jaunu videoklipu
+      close: Close
+      create: izveide
+    form_content:
+      name: Name
+      video_name: Video nosaukums
+      source: URL iegultu kodu
+      video_url_or_embed_code: Video url video iegultu kodu
+    show:
+      video: Video
+      return_to_all_videos: Atgriezties uz visiem video
+      edit_video: Edit video
+    edit:
+      edit_video: Edit video
+      return_to_view_video: Return to skata video
+      view_video: Skatīt video
+    form:
+      edit: rediģēšana
+  photo_albums:
+    index:
+      photo_albums: Foto albumi
+      return_to_editing_profile: Lai rediģēšanas profilu
+      create_new: Izveidot jaunu
+      return_to_profile: Atgriezties uz profilu
+    photo_album:
+      edit: rediģēšana
+      create: izveide
+      are_you_sure: Vai esat pārliecināts?
+      delete: Dzēst
+    edit:
+      edit_photo_album: rediģēšana fotoalbumu
+      return_to_photo_albums: Lai fotoalbumiem
+      view_photo_album: Skatīt fotoalbumu
+    form_content:
+      name: Name
+      photo_album_name: Foto albuma nosaukumu
+    form:
+      edit: rediģēšana
+      create: izveide
+    photo_album_uploader:
+      drag_and_drop_your_file: Velciet un nometiet failu
+      here: šeit
+      or: vai
+      upload_file: augšupielādēt failu
+      from_other_sites: No citām vietnēm
+      write_down_link_for_your_image: Pierakstiet saiti par savu tēlu
+      url_for_image: URL uz attēlu
+      upload: Upload
+      from_facebook: No Facebook
+      turn_on_facebook: Ieslēdziet Facebook
+      you_can_upload_your_photos_from_facebook: jūs varat augšupielādēt savas fotogrāfijas
+        no Facebook
+      from_vkontakte: No VKontakte
+      you_can_upload_your_photos_from_vkontakte: jūs varat augšupielādēt savas fotogrāfijas
+        no VKontakte
+      turn_on_vkontakte: Ieslēdziet VKontakte
+      from_instagram: No Instagram
+      you_can_upload_your_photos_from_instagram: jūs varat augšupielādēt savas fotogrāfijas
+        no Instagram
+      turn_on_instagram: Ieslēdziet Instagram
+      from_dropbox: No Dropbox
+      you_can_upload_your_photos_from_dropbox: jūs varat augšupielādēt savas fotogrāfijas
+        no Dropbox
+      turn_on_dropbox: Ieslēdziet Dropbox
+    show:
+      photo_album: Fotoalbums
+      return_to_photo_albums: Lai fotoalbumiem
+      edit_photo_album: rediģēšana fotoalbumu
+    modal_form:
+      create_new_photo_album: Izveidot jaunu fotoalbumu
+      close: Close
+      create: izveide
+  user_requests:
+    form:
+      content: saturs
+      edit: rediģēšana
+      create: izveide
+  notes:
+    index:
+      notes: Notes
+      return_to_edit_profile: Lai rediģēšanas profilu
+      create_new: Izveidot jaunu
+      return_to_profile: Atgriezties uz profilu
+    note:
+      edit: rediģēšana
+      are_you_sure: Vai esat pārliecināts?
+      delete: Dzēst
+    show:
+      note: piezīme
+      return_to_notes: Atgriezties uz piezīmēm
+      edit_note: Rediģēt piezīmi
+    form_content:
+      content: saturs
+      note_content: piezīme saturs
+      edit: rediģēšana
+      create: izveide
+    edit:
+      edit_note: Rediģēt piezīmi
+      return_to_notes: Atgriezties uz piezīmēm
+      view_note: View piezīme
+  user_to_search_connections:
+    index:
+      requirements_lists: Prasības saraksti
+      return_to_editing_profile: Lai rediģēšanas profilu
+      create_new: Izveidot jaunu
+    user_to_search_connection:
+      edit: rediģēšana
+      are_you_sure: Vai esat pārliecināts?
+      delete: Dzēst
+    edit:
+      edit_requirements_list: rediģēšana prasības saraksti
+      return_to_requirements_lists: Lai prasībām saraksti
+      view_requirements_list: Skatīt prasības saraksts
+    form_content:
+      name: Name
+      name_of_your_requirements_list: nosaukums jūsu prasībām saraksta
+    form:
+      edit: rediģēšana
+    show:
+      requirements_list: Prasības saraksts
+      return_to_requirements_lists: Lai prasībām saraksti
+      edit_requirements_list: rediģēšana prasības saraksts
+  photos:
+    index:
+      photos: Fotogrāfijas
+      return_to_photo_albums: Atgriezties uz foto albumi
+      return_to_profile: uz profilu
+  errors:
+    messages:
+      already_confirmed: jau tika apstiprināts, lūdzu, mēģiniet pierakstīties
+      confirmation_period_expired: jāapstiprina robežās% {perioda}, lūdzu, pieprasiet
+        jaunu
+      expired: ir beidzies, lūdzu, pieprasiet jaunu
+      not_found: nav atrasts
+      not_locked: nebija aizslēgtas
+      not_saved:
+        one: '1 kļūda aizliegts šo% {resursu} tiek saglabāti:'
+        other: "% {count} kļūdas aizliegtas šī% {resursa} tiek saglabāti:"
+    bad_request:
+      bad_request: Bad pieprasījums
+      request_result: pieprasījums rezultāts
+      bad_request_description: Serveris nevar vai nevēlas apstrādāt pieprasījumu,
+        jo šķietamu klienta kļūda
+      go_to_root: Doties uz saknes
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable Entity
+      request_result: pieprasījums rezultāts
+      unprocessable_entity_description: Pieprasījumu labi veidoti, bet nespēja, kas
+        jāievēro saistībā ar semantikas kļūdas
+      go_to_root: Doties uz saknes
+    not_found:
+      not_found: Not Found
+      request_result: pieprasījums rezultāts
+      not_found_description: Pieprasītais resurss nav atrasts, bet var būt pieejami
+        nākotnē
+      go_to_root: Doties uz saknes
+    forbidden:
+      forbidden: Forbidden
+      request_result: pieprasījums rezultāts
+      forbidden_description: Pieprasījumu derīgs pieprasījums, bet serveris atsakās
+        atbildēt uz to
+      go_to_root: Doties uz saknes
+    internal_server_error:
+      internal_server_error: Iekšējā servera kļūda
+      request_result: pieprasījums rezultāts
+      internal_server_error_description: Kaut kas nogāja greizi. Mēs noteikt to, cik
+        drīz vien iespējams.
+      go_to_root: Doties uz saknes
+  pages:
+    privacy:
+      privacy: Flutylove Privacy Policy
+      general_provisions: Vispārīgie noteikumi
+      p_1_1: 1.1. Šie noteikumi ir oficiāls dokuments, sabiedrība ar ierobežotu atbildību
+        "Technoelegance", kas atrodas pie 101000, Maskava, Ulanskiy pereulok 13, stroeniye
+        4, pomeshcheniye 1 (turpmāk Flutylove, kompānija, mēs), un nosaka kārtību,
+        datu apstrādes un indivīdu informācijas drošības kurš ir sasniedzis 18 gadu
+        vecumu, un kuras izmanto mājas lapu https://flutylove.com (turpmāk tīmekļa
+        vietne) un savus pakalpojumus (turpmāk tekstā lietotājiem).
+      p_1_2: 1.2. Šo noteikumu mērķis ir nodrošināt pienācīgu aizsardzību lietotāja
+        informāciju, tostarp personas datus, no neatļautas piekļuves un izpaušanu.
+      p_1_3: 1.3. Saistītās ar savākšanu, uzglabāšanu, sadali un Website lietotāja
+        informācijas drošību attiecības reglamentē šajos noteikumos, citi oficiālie
+        dokumenti Sabiedrības un spēkā esošajiem tiesību aktiem par Krievijas Federācijas.
+      p_1_4: 1.4. Pašreizējā versija noteikumu, kas ir publisks dokuments, kad pēc
+        saite http://flutylove.com/pages/privacy~~dobj ir pieejama jebkuram interneta
+        lietotājam. Sabiedrībai ir tiesības mainīt šos noteikumus. Gadījumā, ja tiek
+        veiktas izmaiņas regulās, Sabiedrība paziņo lietotājiem, izvietojot jauno
+        versiju regulās par tīmekļa vietnē pastāvīgā adrese http://flutylove.com/pages/privacy~~pobj,
+        ne vēlāk kā 10 dienas pirms efektīva datumu izmaiņām. Iepriekšējās versijas
+        Noteikumu tiek saglabāti dokumentācijas arhīvā Sabiedrības.
+      p_1_5: 1.5. Noteikumi ir izstrādāti un tiek izmantoti saskaņā ar lietotāja līgumu.
+        Gadījumā, ja jebkuru pretrunā starp šajos noteikumos un citos oficiālos dokumentos
+        Sabiedrības, šie noteikumi ir jāīsteno.
+      p_1_6: 1.6. Izmantojot mājas lapā, jūs piekrītat noteikumiem un nosacījumiem
+        šo konfidencialitātes politiku. Lūdzu, izlasiet tos uzmanīgi. Ja jūs nepiekrītat
+        ar šīs konfidencialitātes politikas, vai neesat sasniedzis 18 gadu vecumu,
+        jūs nedrīkstat izmantot tīmekļa vietni un tās pakalpojumus. Izmantojot Website,
+        neatkarīgi no tā, vai jūs esat reģistrēts lietotājs Flutylove vai ne, jūs
+        apstiprināt, ka jūs pilnībā pieņemt šo konfidencialitātes politiku, un piekrīt
+        to ievērotu.
+      the_website_using_conditions: mājas lapā, izmantojot apstākļos
+      p_2_1: '2.1. Lai izmantotu Website Flutylove, Jums nepieciešams reģistrēties.
+        Šāda informācija būtu jāprecizē reģistrācijas laikā: vārdu, e-pasta adresi,
+        dzimumu, dzimšanas datums, informācija par atrašanās vietu. Lietotājs var
+        sniegt papildu personas datus uz viņa / viņas paša vēlēšanās. Lietotājs var
+        rediģēt vai atjaunināt personisko informāciju jebkurā laikā. Sabiedrībai ir
+        tiesības pieprasīt papildu apliecinošus dokumentus, ja pārmaiņu dzimumu un
+        dzimšanas datums Lietotājs.'
+      p_2_2: '2.2. Atļaujot piekļuvi tīmekļa vietni un tās pakalpojumus, Sabiedrību,
+        darbojoties saprātīgā veidā un godprātīgi, uzskata, ka Lietotājs: saprot,
+        ka reģistrācijai Vietnē ir nepieciešams vismaz 18 gadus veci; ir visas nepieciešamās
+        tiesības, lai varētu reģistrēties šajā mājas lapā un izmantot to; norāda precīzu
+        informāciju par sevi / pati saskaņā pieprasījumus izmantošanas pakalpojumiem
+        Website; apzinās, ka personisko informāciju tīmekļa vietnē, ko Lietotājs nosacījumu,
+        var kļūt pieejamas citiem lietotājiem mājas lapā un interneta lietotājiem,
+        kā arī, iespējams kopēt un izplatīt ar citiem lietotājiem; apzinās, ka daži
+        informācijas veidi, pārvietoti uz citiem lietotājiem, nevar noņemt ar lietotāju;
+        ir iepazinies ar šiem noteikumiem, piekrīt tiem un apņemas norādītās tiesības
+        un pienākumus.'
+      p_2_3: 2.3. Sabiedrība nepārbauda pareizību saņemto (pulcējās) informāciju par
+        lietotājiem, izņemot gadījumus, kad šāda pārbaude ir nepieciešama, lai īstenotu
+        Sabiedrības saistības lietotājam.
+      information_processing_objectives: Informācijas apstrādes mērķi
+      p_3_1: 3.1. Uzņēmums veic informācijas apstrādi par lietotājiem, tostarp viņu
+        personas datus, lai izpildītu Sabiedrības saistības lietotājiem izmantošanas
+        tīmekļa vietni un tās pakalpojumiem.
+      p_3_2: 3.2 uzņēmumam ir tiesības veikt personas datu apstrādi, nepaziņojot kompetentajai
+        iestādei par tiesību aizsardzību personas datu subjektu.
+      structure_of_the_user_information: struktūra lietotāja informāciju
+      p_4_1: '4.1. Personas dati no lietotājiem ietilpst:'
+      p_4_1_1: 4.1.1. vārds, e-pasta adresi, dzimums, dzimšanas datums, atrašanās
+        vietas informāciju, un tālruņa numuru, kas tiek sniegti ar lietotājiem, un
+        vajadzēja būt tieši tik daudz, lai reģistrētu uz mājas lapā;
+      p_4_1_2: 4.1.2. informācija, ko sniedz lietotājs (piemēram, fotogrāfijas, informācija
+        par postošo paradumiem uc);
+      p_4_1_3: 4.1.3. ko Lietotājs papildus nosacījumu, saskaņā ar uzņēmuma pieprasījumu,
+        lai izpildītu Sabiedrības saistības ar lietotājiem, kas parādās no lietotāja
+        vienošanās. Sabiedrībai ir tiesības, it īpaši pieprasīt lietotājam kopiju
+        apliecinoša dokumenta vai citus dokumentus, kas satur vārdu, dzimumu un dzimšanas
+        datums, kā arī citu papildu informāciju, ko, pēc Sabiedrības ieskatiem, būs
+        nepieciešami un pietiekama, lai identificētu šādas lietotājs, un novērstu
+        ļaunprātīgu izmantošanu un pārkāpumu trešo personu tiesības.
+      p_4_2: '4.2. Citas Lietotāja informācijas apstrāde ko uzņēmums Website administrācijas
+        apstrādā arī citu informāciju par lietotājiem, kas ietver:'
+      p_4_2_1: 4.2.1. kopējie dati, ko http serveri automātiski saņēmuši, piekļūstot
+        Website un turpmākos lietotāja darbības (IP adresi uzņēmējas, no lietotāja
+        operētājsistēmas tips, lapas vietnē apmeklēja lietotājs).
+      p_4_2_2: 4.2.2. informācija, kas tiek automātiski saņemta, piekļūstot tīmekļa
+        vietnē, izmantojot Grāmatzīmes (cookies);
+      p_4_2_3: 4.2.3. informācija, kas saņemta kā rezultātā lietotāja darbībām tīmekļa
+        vietnē;
+      p_4_2_4: 4.2.4. informācija, kas saņemta kā rezultātā darbības citiem lietotājiem
+        mājas lapā.
+      users_information_processing: Lietotāja informācijas apstrāde
+      p_5_1: '5.1. Personas datu apstrādi veic, pamatojoties uz šādiem principiem:
+        a) likumīgiem mērķiem un līdzekļiem personas datu apstrādi; b) godīgums; c)
+        atbilstību personas datu apstrādes nolūkā ar mērķiem normēts un paziņoja,
+        vācot personas datus, kā arī atbilstību pilnvaru Sabiedrības; d) atbilstība
+        apjoma un personas datu apstrādes veidu un atbilstību līdzekļiem personas
+        datu ar tās apstrādes nolūkiem apstrādei; e) nepieņemamību apvienot izveidotās
+        datubāzes nesaderīgiem mērķiem, kas satur personas datus.'
+      p_5_1_1: 5.1.1. Personas datu no Lietotāja vākšana tiek veikta uz Website kad
+        reģistrs, kā arī nākotnē, kad lietotājs pievieno vairāk informācijas par sevi
+        / pati, izmantojot tīmekļa vietnes rīkus, par viņa / viņas paša iniciatīvas.
+      p_5_1_2: 5.1.2. Personas dati lietotāju glabājas tikai elektroniskā formātā
+        un apstrādāti, izmantojot automatizētas sistēmas, izņemot gadījumus, kad ir
+        nepieciešama personas datu apstrāde rokasgrāmata ņemot atbilst likumdošanas
+        prasībām.
+      p_5_1_3: 5.1.3. Lietotāja personas dati netiek nodoti trešajām personām, izņemot
+        gadījumus, šajos noteikumos un lietotāja līgumu, kas skaidri paredzēti. Ar
+        lietotāja piekrišanu, personas lietotāja datus var pārsūtīt trešām darījumu
+        partneriem Sabiedrības ar nosacījumu, pieņemot, ka pienākumu nodrošināt konfidencialitāti
+        saņemto informāciju, jo īpaši, izmantojot pakalpojumus un lietojumprogrammas.
+        Lietotāja personas dati nodrošinājums pieprasījuma valsts iestādēm (vietējās
+        pašvaldības), tiek veikta kārtībā kā to prasa likums.
+      p_5_1_4: '5.1.4. Personal lietotāja dati tiek dzēsti, ja: - dati ir self-izdzēsti
+        no lapas ar lietotāju; - Lapa self-svītrots ar lietotāju; - Lietotāja informācija
+        un tās personīgā lapa tiek noņemti Sabiedrības. Gadījumā, ja lapas dzēšana,
+        ko Lietotājs pats, Sabiedrība saglabā lietotāja personas datus, par saviem
+        elektroniskajiem medijiem 210 dienu laikā pēc tam, kad personīgā lapa ir noņemta.
+        Personas dati tiek dzēsti beidzoties 210 dienu pēc personīgā lapa ir noņemta.
+        Līdz šā termiņa beigām, Lietotājam ir tiesības atjaunot personīgo lapu.'
+      users_rights_and_obligations: Lietotāja tiesības un pienākumi
+      p_6_1: '6.1. Lietotājam ir tiesības:'
+      p_6_1_1: 6.1.1. piekļūt informācijai par viņu / viņai bez ierobežojumiem un
+        bez maksas, rediģējot savu personīgo lapu tīmekļa vietnē ar izmantošanu login
+        un paroli;
+      p_6_1_2: 6.1.2. patstāvīgi veikt izmaiņas un labojumus informāciju par lietotāja
+        personīgo lapu uz mājas lapā, ar nosacījumu, ka šādas izmaiņas un labojumi
+        ietver up-to-datums un patiesu informāciju;
+      p_6_1_3: 6.1.3. noņemt informāciju no personīgo lapu uz mājas lapā;
+      p_6_1_4: 6.1.4. pieprasīt Sabiedrība iegūt konkrētāku informāciju, bloķēt vai
+        dzēst personas datus, ja šie dati ir nepilnīgi, novecojuši, neprecīzi, pretlikumīgi
+        saņemto vai nav nepieciešami deklarēto mērķi apstrādes vai ja darbības noteiktas
+        šo 6.1.3 punktu noteikumi nevar īstenot atsevišķi;
+      p_6_1_5: 6.1.5. pamatojoties uz pieprasījumu, saņemt informāciju no Sabiedrības
+        par viņa / viņas personas datu apstrādi.
+      p_6_2: '6.2. Šādu informāciju par jebkuru reģistrētu Website User vienmēr pieejama
+        reģistrēts lietotājs: lietotāja vārds, dzimums, vecums, profila foto un cita
+        informācija, ja Lietotājs ir ievietojis to.'
+      p_6_3: 6.3. Uzņēmums neuzņemas atbildību par informācijas izpaušanu no lietotāja
+        personas datus ar citiem lietotājiem Website kurš piekļuvis šādus datus.
+      p_6_4: 6.4. Gadījumā, ja personas datu (cits lietotājs informācija) izslēgšanu
+        no lietotāja personīgās lapā vai noņemšanas lietotāja personīgo lapu no mājas
+        lapā, lietotāja informāciju kopēt citiem lietotājiem vai uzglabā par citu
+        lietotāju lapās tiek saglabāta.
+      users_information_protection_measures: Lietotāju informācijas aizsardzības pasākumi
+      p_7_1: 7.1. Uzņēmums aizņem tehniskus, organizatoriskus un juridiskus pasākumus,
+        lai nodrošinātu, ka lietotāja personas dati tiek aizsargāti no nesankcionētas
+        vai nejaušu piekļuvi, dzēšanu, pārveidošanu, bloķēšanu, kopēšanu un izplatīšanu,
+        kā arī no citiem neatļautu darbību.
+      p_7_2: 7.2. Lietotāja pieteikšanās (e-pasta adresi vai mobilā tālruņa numuru)
+        un parole, tiek izmantoti, lai piekļūtu mājas lapā. Lietotājs ir atbildīgs
+        par šīs informācijas konfidencialitāti. Lietotājs nedrīkst nodot lietotājvārdu
+        un paroli trešajām personām un ir arī pienākums veikt pasākumus, lai nodrošinātu
+        tās konfidencialitāti.
+      limitation_of_the_regulations_applicability: ierobežošana noteikumu piemērojamību
+      p_8: Šie noteikumi neattiecas uz darbībām un interneta resursu trešo personu.
+        Uzņēmums neuzņemas atbildību par trešo personu darbības, kuri ieguvuši pieeju
+        lietotāja informācijai, izmantojot internetu vai tīmekļa pakalpojumiem. Website
+        administrācija iesaka lietotājiem risināt jautājumu ar informācijas apjomu
+        publicēta tīmekļa vietnē atbildīgā veidā.
+      user_requests: Lietotāju pieprasījumi
+      p_9_1: '9.1. Lietotāji ir tiesības nosūtīt pieprasījumus Sabiedrībai ieskaitot
+        pieprasījumus, kas saistīta ar personas datu rakstveidā, kuras adrese ir:
+        Krievija, 101000, Maskava, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1 vai arī elektroniska dokumenta formā ar kvalificētu elektronisko parakstu
+        saskaņā ar tiesību aktiem Krievijas Federācijas, pa e-pastu: support@flutylove.com~~HEAD=pobj.'
+      p_9_2: '9.2. Lietotāja pieprasījumā jānorāda šāda informācija: numuru apliecinoša
+        dokumenta lietotāja vai tā pārstāvim; izsniegšanas datums iepriekšminēto dokumentu
+        un izdevējiestādei; informācija, kas apstiprina Lietotāja līdzdalību attiecībās
+        ar operatoru (jo īpaši, saite uz lapu); paraksts Lietotājam vai viņa / viņas
+        pārstāvis.'
+      p_9_3: 9.3. Kompānija apņemas apsvērt un reaģēt uz lietotāja pieprasījuma 30
+        dienu laikā pēc tā saņemšanas.
+      p_9_4: 9.4. Visa sarakste Sabiedrības saņemti no lietotājiem (rakstveida vai
+        elektroniskās pieprasījumi) ir klasificēta kā ierobežotas pieejamības informācija,
+        un to nedrīkst izpaust bez lietotāja rakstiskas piekrišanas. Personas dati
+        un cita informācija par lietotāju, kurš nosūtījis pieprasījumu nedrīkst izmantot,
+        bez lietotāja īpašu piekrišanu, savādāk nekā atbildot uz lūgumu, vai gadījumos,
+        kas ar piemērojamiem tiesību aktiem skaidri noteikti.
+    terms:
+      terms: Flutylove Lietotāja līgums
+      welcome: Laipni lūdzam Flutylove!
+      about_terms: 'šos Lietošanas (kā arī minēto dokumentu šeit, ieskaitot konfidencialitātes
+        politiku) ir līguma saķere saskaņā ar Civillikuma Krievijas Federācijas (turpmāk
+        tekstā "nolīgums") 428. pantu starp persona, kura ir sasniegusi 18 gadu vecumu
+        (turpmāk tekstā "lietotājs" un Sabiedrību (vai "Mēs") - ar ierobežotu atbildību
+        Firma "Technoelegance" (SIA "Technoelegance") (juridiskā adrese: 101000, Maskava,
+        Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye 1), turpmāk tekstā Flutylove,
+        saskaņā ar kuru jūs varat izmantot šo mājas lapu un visus saistītos piedāvātās
+        caur mājas lapā vai piemērošanu (parasti sauktu par "" pakalpojumus). Website
+        saprot jebkuru no tās versijas, apvienojumā ar domēna vārda flutylove.com
+        un darbojas dažādas ierīces, tostarp tīmekļa versiju, mobilo lietojumu un
+        pieteikumu sociālajiem tīkliem.Izmantojot šo mājas lapu, jūs piekrītat noteikumiem
+        nolīgumā un konfidencialitātes politikai. Lūdzu, izlasiet tos uzmanīgi. Ja
+        jūs nepiekrītat ar līguma noteikumiem un konfidencialitātes politikai, vai
+        neesat sasniedzis 18 gadu vecumu, jūs nedrīkstat izmantot tīmekļa vietni un
+        tās pakalpojumus.Izmantojot mājas lapu, neatkarīgi esat reģistrēts lietotājs
+        Flutylove vai ne, jūs piekrītat pilnīgi ar šo nolīgumu, un mūsu konfidencialitātes
+        politiku, kas ir iekļauts šajā nolīgumā saites, un ir pieejams tīmekļa vietnē,
+        un saskaņā ar to.Uz lietotāja pieprasījuma, Sabiedrība apņemas parakstīt šo
+        Nolīgumu izdrukas formā un nosūta to personai lūguma dokumentus.Uzņēmums patur
+        tiesības mainīt šo lietotāja līgumu un jebkādu minēts to dokumentu. Lai būtu
+        informēti par izmaiņām, jums ir nepieciešams, lai saglabātu-up-to-datums informāciju
+        par šādām izmaiņām regulāri. Mēs Jūs informēt par izmaiņām mēs veiktas šajā
+        lapā zemāk. Izmaiņas neattiecas atpakaļ un stāsies spēkā desmit dienu laikā
+        no publicēšanas dienas. Tomēr gadījumā, ja tie ir saistīti ar īstenošanu,
+        jaunu pakalpojumu vai tiesību aktu grozījumus, tas tiks piemērots nekavējoties.
+        Ja jūs nepiekrītat izmaiņām Līgumā, Jums ir jāpārtrauc lietot tīmekļa vietni
+        un tās lietojumu.'
+      consent_to_accept_the_terms_of_user_agreement: 1. piekrišanu pieņemt attiecībā
+        uz lietotāju LĪGUMA.
+      p_1: a. Elektroniskās līgums. Šis nolīgums ir elektroniska versija līgumu, kas
+        aprakstīti lietošanas noteikumus par Website un pakalpojumiem. Piesakoties
+        uz Website vai kļūst Lietotājs, jūs piekrītat šo nolīgumu, un piekrīt visiem
+        noteikumiem, nosacījumiem un paziņojumiem, kas ietverti vai tur atsauces.
+        Jūs apliecināt un piekrītat, ka lietotāji Flutylove var būt daļa no tiešsaistes
+        kopienai, kas ietver citas mājas lapas Sabiedrībai piederošie vai tās filiālēm.
+        Tādēļ profili mājas lapā var apskatīt par citiem līdzīgiem mājas lapām un
+        maksājumu abonentiem no vienas mājas lapā var sazināties ar citiem maksājumu
+        abonentiem no visām tīmekļa vietnēm. b. Elektroniskā formā. Piesakoties uz
+        Website vai kļūst Lietotājs, jūs piekrītat, lai nodrošinātu Jūs ar elektronisko
+        nolīgumam. c. Hardcopy forma. Jums ir tiesības saņemt drukātās šo nolīgumu.
+        Jūs varat pieprasīt izdrukas izdevums šā nolīguma pirms vai pēc tam tiks parakstīts
+        elektroniski. Lūdzu, sazinieties ar mūsu klientu servisu, lai iegūtu vairāk
+        informācijas. d. Access un lejupielādi. Lai piekļūtu un lejupielādēt šo elektronisko
+        līgumu, jums ir piekļuve internetam, vai tieši caur ierīcēm ar piekļuvi tīmekļa
+        resursiem. Jums ir nepieciešams, lai būtu nepieciešamais aprīkojums, lai savienojumu
+        ar internetu, proti, datoru, modemu vai citu piekļuves ierīci. Lūdzu, izdrukājiet
+        kopiju šo nolīgumu, un saglabāt to. Lai lejupielādētu elektronisko formu nolīguma,
+        saglabājiet to uz sava datora, izmantojot jebkuru teksta redaktoru.
+      the_right_of_using_the_website: 2. labi no mājas lapā, izmantojot.
+      p_2: Jums jābūt vismaz astoņpadsmit (18) gadu vecumam, lai kļūtu par reģistrētu
+        lietotāju no šīs mājas lapā. Gadījumā, ja tiek konstatēta neatbilstība prasībām,
+        piekļuvi tīmekļa vietnē tiks liegta. Izmantojot Website, lietotājam ir jāapzinās,
+        ka personiskā informācija publicēta tīmekļa vietnē, var būt pieejami citiem
+        interneta lietotājiem, un Sabiedrība nenes atbildību par savu rīcību. Izmantojot
+        šo mājas lapu, jūs apliecināt un apņemas, ka jums ir tiesības, pilnvaras un
+        iespēju noslēgt šo nolīgumu, un piekrišana ievērot visus savus noteikumus
+        un nosacījumus. Kļūstot Lietotāja tu apgalvo, un apņemas, ka jums nekad nav
+        cietusi pārliecību par noziedzīgu nodarījumu, kas saistīts ar seksuālu vardarbību.
+        Tīmekļa vietne ir paredzēta tikai personiskai lietošanai. Aizliegts izmantot
+        Website jebkādiem komerciāliem mērķiem. Juridiskām personām nevar būt Lietotāji
+        šo vietni, kā arī nevar izmantot šo pakalpojumu vai tīmekļa vietne par viņu
+        vajadzībām. Nelegālu un / vai nesankcionētu, izmantojot šo tīmekļa vietni,
+        tostarp vāc lietotājvārdus un / vai e-pasta adreses ar palīdzību elektronisko
+        vai citiem instrumentiem, lai nosūtītu nevēlamu ziņas un saites tiek īstenota
+        un Sabiedrība var veikt attiecīgus pasākumus saskaņā ar likumu, tai skaitā
+        pārsūdzība tiesībaizsardzības iestādēm.
+      pricing_and_registration: 3. CENU UN REĢISTRĀCIJA
+      p_3: jūs varētu kļūt lietotājam Flutylove par brīvā griba un bez maksas pamata,
+        reģistrējoties tīmekļa vietnē. Kā lietotājs, jūs varat izmantot konkrētu pakalpojumu
+        klāstu un iespējas mājas lapā. No Website User ir individuāls reģistrēta tīmekļa
+        vietnē saskaņā ar pastāvīgo kārtībā un kurš ir sasniedzis 18 gadu vecumu.
+        Reģistrējoties uz Website Lietotājam ir pienākums sniegt nepieciešamo un būtisko
+        informāciju par Sabiedrības pabeigtu lietotāja lapu, ieskaitot pieteikšanās
+        (e-pasta adrese vai tālruņa numurs) un paroli piekļuvi tīmekļa vietnē, kā
+        arī nosaukumu, kas ir unikāli katram lietotājam. Par reģistrācijas veidlapu
+        var pieprasīt papildu informāciju no lietotāja. Lietotājs ir atbildīgs par
+        līguma spēkā esamību, aktualitāte, pilnīgumu un atbilstību likuma Krievijas
+        Federācijas sniegtās pie reģistrācijas informāciju, un tās skaidrību no prasījumiem
+        trešajām personām. Reģistrējot Lietotājs piekrīt šo nolīgumu un apņemas noteiktās
+        tiesības un pienākumus, kas saistīti ar, izmantojot un funkcionēšanai mājas
+        lapā. Lietotājs saņem pilnīgu piekļuvi, izmantojot tīmekļa vietnes funkcijas.
+        Kompānija apņemas tiesības un pienākums Lietotājam, šajos noteikumos, pēc
+        veiksmīgas reģistrācijas Lietotāja uz Website lietotāja personas datu apstrāde
+        tiek veikta saskaņā ar likumu par Krievijas Federācijas. Website administrācija
+        apstrādā lietotāja personas datus, lai nodrošinātu lietotāju ar pieeju izmantošanu
+        lietošanas funkciju, tai skaitā saņem personalizētu (mērķtiecīgu) reklāma;
+        pārbaude, izpēte un analīze šiem datiem, kas ļauj atbalstīt un uzlabot funkcijas
+        un sadaļas mājas lapā, kā arī attīstīt jaunas funkcijas un sadaļas. Uzņēmums
+        veic visus vajadzīgos pasākumus, lai aizsargātu personas datus Lietotāja pret
+        nesankcionētu piekļuvi, grozīšanu, izpaušanu vai dzēšanu. Uzņēmums nodrošina
+        piekļuvi personas datiem Lietotājam tikai uz tiem darbiniekiem, darbuzņēmējiem
+        un aģentiem Sabiedrības, kuriem nepieciešama šī informācija, lai atbalstītu
+        Website funkcionalitāti un nodrošina lietotāju piekļuvi tās izmanto. No Website
+        Sabiedrībai ir tiesības izmantot ar lietotāja sniegto informāciju, tostarp
+        personas datus, lai nodrošinātu atbilstību spēkā esošajiem tiesību aktiem
+        par Krievijas Federācijas prasībām (ieskaitot novēršanu un / vai apspiešanu
+        nelegālu un / vai nelikumīga darbības lietotāju). Izpaušana ar lietotāja sniegto
+        informāciju, var veikt tikai saskaņā ar spēkā esošajiem tiesību aktiem par
+        Krievijas Federācijas lūguma tiesa, tiesībaizsardzības iestāžu, kā arī citos
+        gadījumos, kā ar piemērojamiem tiesību aktiem Krievijas Federācijas sniegta.
+        Tiktāl, ciktāl Sabiedrība apstrādā personas datus Lietotājam, izpildot šo
+        noteikumu, Lietotāja piekrišanu personas datu apstrādei nav nepieciešama saskaņā
+        ar likuma noteikumiem par personas datiem. Pieteikšanās un ko izvēlējies lietotājs
+        parole ir nepieciešama un pietiekama informācija par lietotāja piekļuve interneta
+        vietnei. Lietotājam ir tiesības dot viņa / viņas lietotājvārdu un paroli trešajām
+        personām, un ir absolūti atbildīgs par tā drošību, izvēloties veidu, uzglabājot
+        tos neatkarīgā veidā. Izmantojot viņa / viņas aparatūru un programmatūru,
+        Lietotājs var atļaut uzglabāšanu login un paroli (ar cepumiem) turpmākai automātiskai
+        atļaujas tīmekļa vietnē. tiek uzskatīti Jebkura rīcība, izmantojot lietotāja
+        lietotājvārdu un paroli, ko izdarījusi lietotājs, ja vien nav pierādīts pretējais,
+        ko lietotājs. Lietotājam ir pienākums nekavējoties informēt Sabiedrību saskaņā
+        ar noteikto procedūru, ja neatļautu piekļuvi lietotājvārdu un paroli un /
+        vai konta lapā, vai izpaušanu no login un paroli. Pēc reģistrācijas Lietotājs
+        iegūst tiesības izveidot, izmantot, un noteikt saturu viņa / viņas personīgās
+        lapas par savtīgiem un nekomerciāliem mērķiem, kā arī iegūt iespēju piekļūt
+        un ievietot informāciju par personas lapās citiem Lietotājiem . Lietotājs
+        kā īpašnieks publicēto informāciju par personīgo lapu apzinās, ka, izņemot
+        gadījumus, kas noteikti šajos noteikumos un spēkā esošajiem tiesību aktiem
+        par Krievijas Federācijas, Sabiedrība nepiedalās izstrādē un izmantojot satura
+        un nekontrolē piekļuvi lietotāja lapā no citiem lietotājiem.
+      terms_4: 4. NOTEIKUMI.
+      p_4: Šis nolīgums pilnībā paliek spēkā un, kamēr jūs izmantojat tīmekļa vietni.
+        Jūs varat pārtraukt to lietotājam par Website, likvidējot savu lapu jebkurā
+        laikā, jebkāda iemesla dēļ, sazinoties ar mūsu tiešsaistes klientu servisu
+        vai izmantojot pakalpojumu mājas lapā. Kompānija patur tiesības dzēst jūsu
+        personīgo lapu jebkurā laikā. Mums nav pienākuma paziņot jums pirms dzēšanas
+        lapu, ja Sabiedrībai ir pamats uzskatīt, ka esat pārkāpis noteikumus Līgumā.
+        Mums nav jāatklāj iemesls dzēšanas konta; dažos gadījumos šādas informācijas
+        izpaušana var aizliegt. Pēc dzēšanu lapas, visi apstākļi, kas var būt spēkā
+        pēc tam, kad šā nolīguma darbības izbeigšana ar savas būtības būs spēkā pēc
+        šādas izbeigšanas. Ja jūs izdzēst savu lapu, izmantojot tīmekļa vietnē savu
+        gribu, mēs varam lūgt jums, lai precizētu iemeslu šādu dzēšanu.
+      account_security: 5. kontu drošību.
+      p_5: jūs esat atbildīgs par konfidencialitātes saglabāšanu savu lietotājvārdu
+        un paroli, kas tiks noteikts brīdī reģistrāciju. Tāpat, jums ir absolūti atbildīgs
+        par visām darbībām, kas notiek ar jūsu lietotājvārdu un paroli. Jūs piekrītat
+        (a) nekavējoties informē mūs par jebkuru neatļautu izmantošanu jūsu lietotāja
+        vārdu un paroli, kā arī jebkādu citu drošības pārkāpšanu, un (b) izceļošana
+        no sava konta beigās katras sesijas. Website nav atbildīgs par jebkādiem zaudējumiem
+        vai zaudējumiem, kas radušies no neatbilstības šo noteikumu. Jums vajadzētu
+        būt īpaši uzmanīgiem, piekļūt jūsu kontam, izmantojot publisku datoru, lai
+        nepiederošas personas nevarētu spiegu vai ierakstīt paroli vai citu personisku
+        informāciju. Jūs arī apstiprināt un piekrītat, ka internets bija nekad nav
+        pilnīgi privāta un droša. Jūs saprotat, ka jebkuri ziņas vai informāciju jūs
+        pēc tīmekļa vietnē var izlasīt vai citi lietotāji, pat ja ir īpašs brīdinājums,
+        ka informācija ir paslēpta.
+      your_interaction_with_other_users_of_the_website: 6. jūsu mijiedarbība ar citiem
+        lietotājiem mājas lapā.
+      p_6: a. JŪS ESAT vienīgais atbildīgais par savu mijiedarbību ar citiem lietotājiem.
+        Jums vajadzētu saprast, ka uzņēmums nepārbauda savus lietotājus no tā, vai
+        tie ir sodāmība. Uzņēmums arī nepieprasa informāciju par pagātni saviem lietotājiem
+        un neapstiprina šo informāciju. Uzņēmums NEGARANTĒ Attiecībā lietotāju uzvedību
+        un to saderību ar esošo vai nākotnes lietotājiem. AT Vienlaikus Sabiedrība
+        patur tiesības pārbaudīt lietotājus sodāmība vai veic citas pārbaudes JEBKURĀ
+        LAIKĀ, izmantojot pieejamos sabiedrības informēšanu. b. Nekādā gadījumos uzņēmums
+        ir neatbild par ZAUDĒJUMU vai tie ir DIRECT, NETIEŠIEM, vispārējā vai ir īpašs
+        NATURE kompensācijas, un / vai nejaušiem, SAŅEMTA vai jebkuru citu indivīdu
+        izmantošanas rezultātā tīmekļa vietnes, IESKAITOT, BET NE TIKAI, fiziskas
+        traumas, stress un / vai citiem kaitējumiem, SAŅEMTA KĀ REZULTĀTĀ komunikācijas
+        vai sanāksmes ar citiem reģistrētajiem lietotājiem vietnē vai cilvēkiem, kas
+        jūs nodarbojas ar mājas lapā. JŪS vienojas veikt visus iespējamos piesardzības
+        sakariem ar citiem lietotājiem, it īpaši gadījumos, kad jūs nolemjat, lai
+        sasniegtu tos reālajā dzīvē. Jums jāapzinās, ko sabiedrība nesniedz deklarētas
+        vai NETIEŠAS GARANTIJAS PAR saderību ar šīs mājas lapas lietotājiem. Jums
+        nevajadzētu GIVE finanšu informāciju citiem lietotājiem tīmekļa vietnes (piemēram,
+        informācija par jūsu kredītkartes vai plastikāta kartes). c. Dienests var
+        tulkot savu vārdu vai nosaukumu jūsu pilsētas uz citām valodām; d. Pakalpojums
+        nav atbildīgs par darbībām, kas uzskaitīti šajā pantā. Gadījumā, ja jūs nepiekrītat
+        tiem pilnīgi vai daļēji, lūdzu nekavējoties atstāt mājas lapā;
+      the_information_posted_by_you_on_flutylove: 7. Informācija ievietojis jums ON
+        FLUTYLOVE
+      p_7: a. Jūs esat atbildīgs par informāciju, kas jums publicēt vai pierādītu
+        (turpmāk tekstā "post") par dienesta vai nodot citiem lietotājiem. Jums nav
+        atļauts ievietot uz dienesta vai nodot citiem lietotājiem nekādu informāciju
+        par apmelojošu, neprecīza, aizskarošus, piedauzīgus, vulgāru un agresīvu saturu,
+        informāciju par seksuālu saturu, kā arī draudīgu vai stalking informāciju,
+        informāciju par rasu diskrimināciju dabas vai nelegālu informāciju vai jebkuru
+        citu informāciju, kas pārkāpj vai pārkāpt jebkuras citas puses (ieskaitot,
+        bez ierobežojuma, intelektuālā īpašuma tiesības, tiesības uz privātumu un
+        publicitāti). Jums nav atļauts sniegt neprecīzu, maldinošu vai nepatiesu informāciju
+        Sabiedrības vai kādu citu lietotāju. Ja informācija sniegta uzņēmuma Flutylove
+        vai citu lietotāju vēlāk kļūst neprecīza, maldinoša no viltus, Jums nekavējoties
+        jāinformē sabiedrība Flutylove par šādām izmaiņām. Tu apgalvo un garantē,
+        ka visi reģistrācijas laikā sniegtā informācija ir precīza un patiesa, un
+        jūs uzreiz mainīt jebkuru informāciju, kas vēlāk kļūst neprecīza, maldinoša
+        vai nepatiesa. b. Jūs saprotat un piekrītat, ka mēs paturam tiesības, bet
+        nav pienākuma pārraudzīt informāciju vai saturu, kas tiek pārnests uz dienesta
+        vai rakstīja sabiedrības piekļuvi uz dienesta. Mums ir tiesības dzēst jebkuru
+        no šādas informācijas vai satura, nenorādot nekādus iemeslus un paziņošanu.
+        c. Visas objektus redzams tīmekļa vietnē, tostarp dizaina elementi, teksta,
+        grafikas, ilustrācijas, video, skripti, programmas, mūziku, skaņām un citiem
+        objektiem un to bibliotēkas (turpmāk - informācija), ir īpašumā ekskluzīvu
+        tiesību Sabiedrības, lietotāji Tīmekļa vietnē un citiem tiesību īpašniekiem,
+        visas tiesības uz šiem objektiem ir aizsargātas. d. Izņemot gadījumus, kas
+        noteikti saskaņā ar šo nolīgumu, kā arī spēkā esošajiem tiesību aktiem Krievijas
+        Federācijas, nekādu informāciju var kopēt (reproducēt), apstrādā, sadala,
+        redzams rāmi, publicēts, lejupielādēt, nodot, pārdot vai izmantot citos veidos
+        veseli vai gabalos bez iepriekšējas atļaujas turētāja, ja vien tiesību turētāja
+        skaidri izteikusi piekrišanu brīvi izmantot informāciju, ko jebkurai personai.
+        e. Izvietojot informāciju par Website likumīgi pieder Lietotājam, Lietotājs
+        nodrošina piekļuvi citiem lietotājiem, kas nav ekskluzīvas tiesības to izmantot,
+        skatoties, atskaņošanas (ieskaitot kopēšanu) un citas tiesības tikai personīgai
+        nekomerciālai lietošanai nolūkos, ja vien gadījumos, kad šāda izmantošana
+        rada vai var radīt kaitējumu interesēm tiesību īpašniekam aizsargāta ar likumu.
+        f. No informācijas, ko lietotājs, kuriem piekļuve tika gūta tikai personīgai
+        nekomerciālai izmantojot izmantojot, ir atļauta ar nosacījumu, ka visas pazīmes
+        autorību (autortiesības) vai citi paziņojumi autorības tiks saglabāti, vārdu
+        autora un savu produktu tiks atstāta bez izmaiņām. g. Lietotājs arī nodrošina
+        Sabiedrību ar neekskluzīvas tiesības izmantot informāciju publicēta tīmekļa
+        vietnē un pieder viņam / viņai likumīgi bez atlīdzības, lai nodrošinātu darbību
+        Website Sabiedrības ietvaros veikšanai arhitektūras un funkcionalitāti Website.
+        Iepriekš minēts nav ekskluzīvas tiesības tiek piešķirtas par satura izvietošanu
+        uz Website un aptver teritoriju valstīm visā pasaulē. Sabiedrībai ir tiesības
+        nodot minētos šo punktu trešajām personām tiesības. Lietotājs piekrīt, ka
+        Sabiedrībai ir tiesības izmantot funkcionālās un tehniskās iespējas uz tīmekļa
+        vietni, kurā izlikšana no satura koplietošanu lietotājam, tostarp par izlikšana
+        reklāmas informācijas mērķiem. hi. Gadījumā, ja Lietotājs dzēš informāciju
+        no tīmekļa vietnes, kas nav ekskluzīvas tiesības tiks automātiski atsaukta,
+        bet sakarā ar tehniskajām specifikācijām Website Sabiedrība patur tiesības
+        saglabāt rezerves kopijas informāciju noteiktajā laikā un ja nepieciešams.
+        i. Neatkarīgi no privāto informāciju, Lietotājam nav tiesības augšupielādēt,
+        vai jāatklāj savādāk (publicējot tīmekļa vietnē) informāciju par citām vietām,
+        datu bāzu un citu intelektuālo īpašumu, ja nav no nepārprotami pauda piekrišanu
+        šādu darbību no autortiesību īpašnieks. j. Ja vien nav norādīts šajos noteikumos,
+        kaut kas šajos noteikumos nevar uzskatīt par nodošanu ekskluzīvas tiesības
+        uz informācijas. k. Visu informāciju, kas jums publicēt savā lietotāja profilā,
+        jābūt precīziem, up-to-datums un pilnīgs. Lietotājs ir absolūti vienīgi atbildīgs
+        par jebkuru informāciju, kas tika augšupielādēts vai atklāta savādāk (publicēta)
+        tīmekļa vietnē vai ar palīdzību Lietotājs. Lietotājam nav tiesības augšupielādēt,
+        nodot vai ievietot to satura tīmekļa vietnē, ja viņš / viņa nav atbilstīgas
+        tiesības veikt šādas darbības, kas iegūta vai deleģēta viņam / viņai saskaņā
+        ar tiesību aktiem par Krievijas Federācijas. Kompānija iespēja, bet ne pienākums,
+        lai pārlūkotu Website par jebkuru nelikumīgu saturu, un ir atļauts dzēst vai
+        pārvietot (bez brīdinājuma) jebkādu saturu vai lietotājiem pēc saviem ieskatiem,
+        jebkāda iemesla dēļ vai bez cēloņiem, tostarp bez ierobežojuma, lai pārvietotos,
+        vai dzēst informāciju, kas, saskaņā ar individuālo atzinumu Sabiedrībai ir
+        pretrunā ar šo nolīgumu, tiesību akti, Krievijas Federācijas un / vai var
+        pārkāpt tiesības, aizskart, vai apdraudēt citu lietotāju vai trešo personu
+        drošību. Tīmekļa vietnē ir (vai var būt), saites uz citām vietnēm internetā
+        (trešo pušu tīmekļa vietnēm), kā arī priekšmeti, fotogrāfijas, ilustrācijas,
+        grafikas, mūziku, skaņu, video, informācija, programmas, programmatūra un
+        cita informācija, kas pieder vai nāk no trešām personām (trešās puses satura),
+        kas ir rezultāts intelektuālās darbības un tiek aizsargāti saskaņā ar tiesību
+        aktiem par Krievijas Federācijas. Šīs trešās puses un to informācija netiek
+        pārbaudīta ar Sabiedrību par atbilstību šo vai citām prasībām (precizitāti,
+        pilnīgumu, godīgums, uc). Sabiedrība nav atbildīga par jebkura satura ievietojis
+        uz trešo pušu vietnēm, uz kuru lietotājs ieguvumi piekļūt, izmantojot tīmekļa
+        vietni vai caur Trešo pušu informāciju, tai skaitā, bet ne tikai uz atzinumiem
+        vai paziņojumiem, kas izteikti uz trešo pušu vietnēm vai viņu informācija.
+        Saite uz jebkuru vietu, produktu un pakalpojumu, jebkura informācija komerciāla
+        un nekomerciāla, šajā interneta vietnē, nav apstiprinājums vai ieteikumu par
+        šiem produktiem (pakalpojumiem) no uzņēmuma. Ja Lietotājs nolemj atstāt Website
+        un doties uz trešo pušu tīmekļa vietnes vai izmantot vai uzstādīt trešo pušu
+        programmatūru, viņš / viņa dara uz savu risku un no šī brīža šie noteikumi
+        vairs nav piemēroti Lietotājam. Turpmākie Lietotāja darbības ir jāvadās pēc
+        piemērojamiem noteikumiem un politiku, tostarp uzņēmējdarbības praksi tām
+        personām, kuru Informācija viņš / viņa gatavojas izmantot.
+      forbidden_actions: 8. Aizliegtie darbības.
+      p_8: a. Aizliegts "uzturēt ciešu skatīties uz" vai traucēt jebkura persona citā
+        veidā. b. Aizliegts lietot boti, vīrusi, lietojumprogrammas, lai meklētu /
+        ekstraktu vietnes vai citas manuālo vai automātisko ierīces vai procesus,
+        lai iegūtu, indeksa, "spiegošanu", vai reproducēt citā veidā, vai apiet navigācijas
+        struktūru un attēlot Pakalpojuma vai tā saturu . c. Aizliegts publicēt, izplatīt
+        vai reproducēt everyway ar autortiesībām aizsargātu informāciju, preču zīmes
+        vai citu informāciju, ko aizsargā autortiesības, bez iepriekšējas piekrišanas
+        autortiesību īpašnieka. d. Aizliegts noņemt jebkādus autortiesības, preču
+        zīmes vai citus autortiesību paziņojumus, kas ietverti no dienesta. e. Tas
+        ir aizliegts iejaukties vai traucēt darbību dienestu un tīmekļa vietni, vai
+        pakalpojumu un tīklu savienota ar dienesta vai mājas lapā. f. Aizliegts publicēt,
+        e-pastu vai nodošanu in savādāk jebkādu informāciju, kura satur vīrusus vai
+        kādu citu datora kodu, datnes vai programmas, kas paredzētas, lai traucētu,
+        iznīcināt vai ierobežot funkcionalitāti jebkura datora programmatūras, aparatūras
+        vai telekomunikāciju aprīkojuma. g. Ir aizliegts veidot galvenes vai manipulēt
+        ar apzīmējumu, lai slēptu patieso nozīmi jebkuru informāciju dalīta caur Pakalpojumu.
+        h. Aizliegts "smēde" vai "kopija" kādu daļu no pakalpojuma vai tīmekļa vietnē
+        bez iepriekšējas rakstiskas atļaujas no Flutylove. Tāpat jūs nedrīkstat izmantot
+        jebkuru meta tagus vai kodu vai citas ierīces, kas satur visas saites uz Flutylove,
+        pakalpojumu vai tīmekļa vietne, lai novirzīt jebkuru personu uz citu vietu
+        jebkuram mērķim. i. Aizliegts modificēt, pielāgot, sublicencēt, tulkot, pārdot,
+        pārstrukturēt, atšifrēt, dekompilēt vai izjaukt jebkuru daļu no pakalpojuma
+        vai tīmekļa vietnē, vai jebkādu programmatūru, ko izmanto tīmekļa vietnē vai
+        par to, kā arī mudina citus veikt līdzīgus pasākumus . j. Aizliegts ievietot
+        jebkādu informāciju ar pornogrāfiskiem un / vai erotiska saturu.
+      the_changes_in_the_service: 9. izmaiņām pakalpojumu.
+      p_9: Flutylove patur tiesības jebkurā laikā mainīt vai uz laiku vai pastāvīgi
+        aizliegtu pakalpojumu (vai kādu tā daļu) bez iepriekšēja brīdinājuma. Jūs
+        piekrītat, ka Flutylove nav atbildīgs pret jums vai trešajām personām par
+        jebkādām izmaiņām, pagaidu pieejamība vai pilnīgu liegšanas dienesta.
+      ip_address_blocking: 10. IP adrese bloķēšana.
+      p_10: Lai aizsargātu integritāti Website, Flutylove patur tiesības jebkurā laikā
+        pēc saviem ērtības bloķēt IP adreses noteiktiem lietotājiem.
+      relations_between_users_online: 11. ATTIECĪBAS STARP saitā
+      p_11: tikai jūs esat atbildīgs par savu mijiedarbību ar citiem lietotājiem Flutylove.
+        Flutylove patur tiesības, bet ne pienākums, lai uzraudzītu strīdus starp jums
+        un citiem lietotājiem.
+      security_and_communication: 12. DROŠĪBAS UN KOMUNIKĀCIJAS.
+      p_12: izmantošana Website un / vai dienestā regulē arī mūsu privātuma politiku.
+        Kad jūs kļūstat User, jūs piekrītat un piekrišana saņemt e-pastus no mums.
+        Šīs vēstules var pārstāvēt paziņojumus par darbībām vai citus paziņojumus,
+        kas saistīti ar pakalpojumu, piemēram, administratīvās paziņojumiem un oficiālajiem
+        paziņojumiem par izmaiņām vai e-pasta vēstules, kas satur komerciālus piedāvājumus,
+        reklāmas materiālus, īpašos piedāvājumus no mums, vai informāciju par rīcību
+        citi lietotāji par savu lietotāja konts. Lūdzu, izlasiet mūsu konfidencialitātes
+        politiku, lai uzzināt vairāk par šādiem paziņojumiem.
+      denial_of_responsibility: 13. NOLIEGUMS ATBILDĪBU.
+      p_13: a. Flutylove nav atbildīgs par jebkādu nepareizu vai neprecīzu informāciju
+        publicēta mājas lapā vai ir saistīta ar dienesta lietotāji Website vai jebkuras
+        aparatūras vai programmatūras, kas saistīta ar mūsu dienestu vai tiek izmantots
+        tur. Flutylove nav atbildīgs par uzvedību, gan tiešsaistē un bezsaistē, jebkura
+        lietotājs mājas lapā. Flutylove neuzņemas atbildību par jebkādām kļūdām, izlaidumiem,
+        pārtraukumiem, dzēšanu, bojājumu vai nokavējumu darbībai vai darbībām, sakaru
+        līnijas bojājumu, zādzības vai iznīcināšanas, nesankcionētu piekļuvi vai maiņu
+        sakaru līnijas no lietotāja. Flutylove nav atbildīgs par jebkādām problēmām
+        vai tehniskas kļūdas jebkuru telefona tīklu vai līniju, datoru tiešsaistes
+        sistēmu, serveru vai sniedzēji, datortehnikas, programmatūras, pastu vai spēlētāji
+        neveiksme lietotāja kontā, tehniskas problēmas vai pārslodzes internetā vai
+        jebkurā mājas lapā vai tās kombināciju, ieskaitot nelaimes vai traumas uz
+        lietotājiem vai jebkuras saistītas ar datoru, trešajām personām, vai kā rezultātā
+        dalības vai lejupielādētu informāciju, kas saistīta ar tīklu un / vai pakalpojumu.
+        Nekādos apstākļos Flutylove sabiedrība vai kāda tās filiāli, reklāmas aģenti,
+        dibinātāji vai izplatīšanas partneri nav atbildīga par jebkādiem zaudējumiem
+        vai kaitējumu, ieskaitot miesas bojājumus vai nāvi, jo, izmantojot šo tīmekļa
+        vietni vai pakalpojumu, kāds saturs publicēta tīmekļa vietnē vai mijiedarbība
+        starp lietotājiem mājas lapā, gan tiešsaistē un bezsaistē. Tīmekļa vietne
+        un Pakalpojums tiek sniegts uz AS IS pamats, un Flutylove skaidri atsakās
+        no garantijas vai piemērotību noteiktam mērķim vai nav pārkāpti kāds ir tiesības.
+        Flutylove nevar garantēt, un nesola no kādām konkrētām rezultātu no izmantot
+        par tīmekļa vietni un / vai pakalpojumu.
+      links: 14. LINKS.
+      p_14: a. Flutylove nav atbildīgs par jebkādu nepareizu vai neprecīzu informāciju
+        publicēta mājas lapā vai ir saistīta ar dienesta lietotāji Website vai jebkuras
+        aparatūras vai programmatūras, kas saistīta ar mūsu dienestu vai tiek izmantots
+        tur. Flutylove nav atbildīgs par uzvedību, gan tiešsaistē un bezsaistē, jebkura
+        lietotājs mājas lapā. Flutylove neuzņemas atbildību par jebkādām kļūdām, izlaidumiem,
+        pārtraukumiem, dzēšanu, bojājumu vai nokavējumu darbībai vai darbībām, sakaru
+        līnijas bojājumu, zādzības vai iznīcināšanas, nesankcionētu piekļuvi vai maiņu
+        sakaru līnijas no lietotāja. Flutylove nav atbildīgs par jebkādām problēmām
+        vai tehniskas kļūdas jebkuru telefona tīklu vai līniju, datoru tiešsaistes
+        sistēmu, serveru vai sniedzēji, datortehnikas, programmatūras, pastu vai spēlētāji
+        neveiksme lietotāja kontā, tehniskas problēmas vai pārslodzes internetā vai
+        jebkurā mājas lapā vai tās kombināciju, ieskaitot nelaimes vai traumas uz
+        lietotājiem vai jebkuras saistītas ar datoru, trešajām personām, vai kā rezultātā
+        dalības vai lejupielādētu informāciju, kas saistīta ar tīklu un / vai pakalpojumu.
+        Nekādos apstākļos Flutylove sabiedrība vai kāda tās filiāli, reklāmas aģenti,
+        dibinātāji vai izplatīšanas partneri nav atbildīga par jebkādiem zaudējumiem
+        vai kaitējumu, ieskaitot miesas bojājumus vai nāvi, jo, izmantojot šo tīmekļa
+        vietni vai pakalpojumu, kāds saturs publicēta tīmekļa vietnē vai mijiedarbība
+        starp lietotājiem mājas lapā, gan tiešsaistē un bezsaistē. Tīmekļa vietne
+        un Pakalpojums tiek sniegts uz AS IS pamats, un Flutylove skaidri atsakās
+        no garantijas vai piemērotību noteiktam mērķim vai nav pārkāpti kāds ir tiesības.
+        Flutylove nevar garantēt, un nesola no kādām konkrētām rezultātu no izmantot
+        par tīmekļa vietni un / vai pakalpojumu.
+      limitation_of_responsibility: 15. ierobežošana atbildība.
+      p_15: tīmekļa vietni un tās funkcijām, ieskaitot visus skriptus, programmas,
+        saturs un dizains no mājas lapas jānodrošina uz TĀ IR. Uzņēmums atsakās no
+        jebkādas garantijas, ka tīmekļa vietne VAI TĀ funkcijas var piemērots vai
+        nepiemērots KĀDAM lietošanas mērķim. Uzņēmums nevar garantēt un nesola konkrētus
+        rezultātus izmantot tīmekļa vietnes un / vai tās funkcijas; Lai izvairītos
+        no pārpratumiem, lietotājs vajadzētu ievērot DROŠĪBAS PASĀKUMUS kad lejupielādēt
+        no tīmekļa vietnes vai caur Iesūtīts saites, un, izmantojot jebkuru failus,
+        kā arī programmatūras. Uzņēmums ļoti ieteicams lietot tikai licencētas programmatūras,
+        kā arī pretvīrusu programmatūru; BY tīmekļa vietnē, izmantojot, lietotājs
+        PIEKRĪTU KA lejupielāde no vietnes vai ar tās palīdzību SATURA pie viņa /
+        viņas paša risku un pilnībā atbildīgs par iespējamo rezultātu, izmantojot
+        šo informāciju, IESKAITOT ZAUDĒJUMIEM, ka tas var liek lietotāja datorā vai
+        trešajām PUSES, datu zudumu, vai cita veida kaitējuma nodarīšanu; NEKĀDĀ GADĪJUMĀ
+        UZŅĒMUMS VAI TĀ AĢENTI neatbild uz lietotāju vai jebkurai trešajai personai
+        par jebkādiem netiešiem, nejauša un UNWILFUL ZAUDĒJUMU, IESKAITOT ZAUDĒJUMU
+        pabalstu vai zaudētos datus, kaitējums godu, cieņu vai uzņēmējdarbības reputācijas,
+        kas izriet no Izmantot tīmekļa vietnes, tā saturu vai jebkuru citu informāciju,
+        kuru jūs vai jebkurai citai personai piešķirta piekļuve, izmantojot tīmekļa
+        vietni, pat ja uzņēmums brīdināja vai norāda šādu zaudējumu iespējamību.
+      responsibilities_of_the_parties: 16. Pušu atbildība.
+      p_16: Šis nolīgums ir regulēti un interpretēti saskaņā ar tiesību aktiem par
+        Krievijas Federācijas. Jautājumi, kas nav noregulēti Līgumā, tiek risināti
+        saskaņā ar tiesību aktiem par Krievijas Federācijas. Ja rodas strīdi vai domstarpības
+        saistībā ar šo noteikumu īstenošanu, Lietotājs un Sabiedrība darīs visu iespējamo,
+        lai tās atrisinātu sarunu ceļā. Gadījumā strīdi nav atrisināti sarunu ceļā,
+        strīdi tiek risināti saskaņā ar piemērojamiem tiesību aktiem Krievijas Federācijas.
+        Šis nolīgums ir izpildīts krievu valodā, un var sniegt Lietotājam izskatīšanai
+        citā valodā. Gadījumā, ja neatbilstību redakcijā ar noteikumu krievu valodā
+        un tā versija citā valodā, piemēro versija krievu valodā ar šīs regulas noteikumiem.
+        Ja par vienu iemeslu vai citu, viens vai vairāki noteikumi šo noteikumu tiks
+        atzīts par spēkā neesošu vai atcelta, tas neietekmē spēkā esamību vai izpildāmību
+        pārējo noteikumu.
+      other_provisions_and_changes: 17. CITI NOTEIKUMI un izmaiņām.
+      p_17: Šī vienošanās ir patiesais vienošanās starp jums un Flutylove par izmantojot
+        par mājas lapā un / vai pakalpojumu. Ja kāds no šī Līguma tukšumu normu, pārējā
+        līguma joprojām ir tās derīguma pilnā spēkā. Šo nolīgumu var grozīt ar Flutylove
+        jebkurā laikā. Lūdzu, nevilcinieties sazināties ar mums ar visiem jautājumiem
+        par šo nolīgumu.
+      read_this: Es izlasīju šo nolīgumu, un piekrīt visiem tā noteikumiem.
+    about:
+      about_flutylove: Par Flutylove
+      about_flutylove_text: Flutylove starptautiskais sociālais izklaides tīkls datings.
+        Šeit Jūs varat atrast draugus, ir soulmate, partneriem vai vienkārši pavadīt
+        savu laiku ar patīk, spēlējot spēles vai skatīties video / foto.
+      flutylove_features: 'Kad jūs pierakstīties uz mūsu vietni, jūs varat uzzināt
+        daudzas funkcijas, piemēram:'
+      video_call_feature: Jūs varat tērzēt ar partneri ar webcam
+      extended_search: Jūs varat izmantot paplašināto meklēšanu bez maksas
+      multilanguages: Jūs varat meklēt partnerus no citām valstīm, jo ​​paredzams,
+        ka mūsu pakalpojums izmantot ar dažādiem cilvēkiem no citām valstīm, jo ​​tā
+        ir tulkota vairāk nekā 70 valodās
+      play_games_chatting_etc: Jūs varat tērzēt ar citiem cilvēkiem, spēlēt spēles
+        un darīt citas sociālās produktiem
+      we_are_in_social_networks: 'Mēs esam sociālajos tīklos:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google plus
+      instagram: Instagram
+      github: GitHub
+      we_use_open_source_and_high_technology: Mēs izmantojam augstas tehnoloģijas
+        un atvērtā koda bibliotēkas. Mēs vienmēr cenšamies, lai iegūtu labāku un uzlabot
+        mūsu pakalpojumus.
+      partners_and_investors: Mēs esam atvērti sadarbībai un mēs vēlētos atrast investorus.
+        Ja vēlaties sadarboties ar mums, lūdzu, sazinieties ar mums partnership@flutylove.com
+    faq:
+      faq: FAQ
+      what_is_flutylove: Kas ir Flutylove?
+      about_flutylove: Flutylove starptautiskais sociālais izklaides tīkls datings.
+        Šeit Jūs varat atrast draugus, ir soulmate, partneriem vai vienkārši pavadīt
+        savu laiku ar patīk, spēlējot spēles vai skatīties video / foto.
+      what_features_has_flutylove: Kādas iespējas ir Flutylove?
+      flutylove_features: Šeit Jūs varat tērzēt ar videocams, izmantojiet paplašināto
+        meklēšanu, meklēšanas partnerus no citām valstīm, spēlēt spēles un darīt citas
+        sociālās produktiem.
+      i_have_some_requests: Man ir daži lūgumi
+      you_can_write_request: Jūs varat piereģistrēties un rakstīt to
+      here: šeit
+      i_have_seen_some_typo_or_wrong_translation: Es esmu redzējis dažas typo vai
+        nepareizu tulkojumu
+      you_can_send_pull_request_to_our: Jūs varat nosūtīt Pull pieprasījumu uz mūsu
+      github_repository: GitHub krātuve
+      i_have_seen_some_error: Es esmu redzējis dažas kļūdas
+      you_can_send: Jūs varat sūtīt mums atsauksmes par
+      feedback: šo veidlapu
+      to_us_or_write_to_our_info_mail: vai rakstiet e-pastu uz support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Laipni lūdzam Flutylove
+      you_have_successfully_signed_up_to_flutylove: Jūs esat veiksmīgi pierakstījies
+        Flutylove
+      you_can_sign_in_with_your_social_networks: Ja vēlaties pierakstīties atkal varat
+        pierakstīties ar savu sociālo tīklu kontu
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Ja
+        jūs vēlētos, lai pierakstītos ar e-pastu un paroli, jūs varat mainīt paroli,
+        izrakstīties un noklikšķiniet uz saiti zemāk
+      change_password: Mainīt paroli
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: nepareizs
+            search_for:
+              search_for_error: nepareizs
+            birth_date:
+              birth_date_error: jābūt lielākam nekā 18 un mazāk nekā 115
+            interests:
+              interests_error: jābūt mazāk nekā 2000 simboli
+            jobs:
+              jobs_error: jābūt mazāk nekā 2000 simboli
+            languages:
+              languages_error: jābūt mazāk nekā 2000 simboli
+            sex_keywords:
+              sex_keywords_error: jābūt mazāk nekā 2000 simboli
+            my_turn_ons:
+              my_turn_ons_error_error: nepareizs
+            contacts:
+              contacts_length_error: jābūt mazāk nekā 2000 simboli
+              contacts_size_error: jābūt mazāk nekā 21 kontakti
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: ir nederīga vērtība
+  devise:
+    confirmations:
+      confirmed: jūsu konts tika veiksmīgi apstiprināts.
+      send_instructions: jūs saņemsiet e-pastu ar norādījumiem par to, kā, lai apstiprinātu
+        savu kontu pēc dažām minūtēm.
+      send_paranoid_instructions: Ja jūsu e-pasta adrese eksistē mūsu datu bāzē, jūs
+        saņemsiet e-pastu ar norādījumiem par to, kā, lai apstiprinātu savu kontu
+        pēc dažām minūtēm.
+      new:
+        send_mail_for_confirm_your_email: Sūtīt pastu uz apstiprinātu savu e-pasta
+        submit: Iesniegt
+    failure:
+      already_authenticated: Jūs esat jau pierakstījies.
+      inactive: jūsu konts nav aktivizēts vēl.
+      invalid: Nederīga e-pastu vai paroli.
+      locked: Jūsu kontā tiek bloķēta.
+      last_attempt: Jums ir vēl viens mēģinājums, pirms jūsu konts tiks bloķēts.
+      not_found_in_database: Nederīga e-pastu vai paroli.
+      timeout: Jūsu sesija beidzās. Lūdzu, pierakstieties vēlreiz, lai turpinātu.
+      unauthenticated: jums ir nepieciešams pierakstīties vai reģistrēties pirms turpināt.
+      unconfirmed: Jūs esat, lai apstiprinātu savu kontu, pirms turpināt.
+    mailer:
+      confirmation_instructions:
+        subject: Apstiprinājums instrukcija
+        welcome_to_flutylove: Laipni lūdzam Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Jūs varat apstiprināt
+          savu e-pastu, izmantojot saiti zemāk
+        confirm_my_account: Apstiprināt manu e-pastu
+      reset_password_instructions:
+        hello: Sveiki
+        subject: Atjaunot paroli instrukcija
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Kāds
+          ir pieprasa saiti, lai mainītu paroli. To var izdarīt, izmantojot saiti
+          zemāk.
+        change_my_password: Mainīt paroli
+        if_you_didnt_request_this_please_ignore_this_email: Ja nepieprasīja šo lūdzu,
+          ignorējiet šo e-pastu.
+      unlock_instructions:
+        subject: Unlock instrukcija
+    omniauth_callbacks:
+      failure: Neizdevās autentificēt jūs no% {veida} jo "% {iemesls}".
+      success: Veiksmīgi autentiskumu no% {kind} kontā.
+    passwords:
+      no_token: Jūs nevarat piekļūt šo lapu, kas nāk no paroles atiestatīšanas e-pastu.
+        Ja jūs nākt no paroles atiestatīšanas e-pastu, lūdzu, pārliecinieties, ka
+        jūs izmanto pilnu URL.
+      send_instructions: Jūs saņemsiet e-pastu ar norādījumiem, kā nomainīt savu paroli
+        pēc dažām minūtēm.
+      send_paranoid_instructions: Ja jūsu e-pasta adrese eksistē mūsu datu bāzē, jūs
+        saņemsiet paroli atgūšana saiti savā e-pasta adresē pēc dažām minūtēm.
+      updated: Jūsu parole tika veiksmīgi mainīta. Tagad Jūs esat pierakstījies.
+      updated_not_active: Jūsu parole tika veiksmīgi mainīta.
+      new:
+        forgot_your_password: Atgūt paroli
+        reset_password: Sūtīt atgūt url
+      edit:
+        change_your_password: Mainīt paroli
+        new_password: Jaunā parole
+        confirm_password: Apstiprināt paroli
+        change_password: maiņa
+    registrations:
+      destroyed: Bye! Jūsu konts tika veiksmīgi atcelts. Mēs ceram redzēt jūs atkal
+        drīz.
+      signed_up: Laipni lūdzam! Jūs esat pierakstījies veiksmīgi.
+      signed_up_but_inactive: esat pierakstījies veiksmīgi. Tomēr mēs nevarējām jūs
+        pierakstīt, jo jūsu konts nav aktivizēts.
+      signed_up_but_locked: esat pierakstījies veiksmīgi. Tomēr mēs nevarējām jūs
+        pierakstīt, jo jūsu konts ir bloķēts.
+      signed_up_but_unconfirmed: īsziņu ar apstiprinājuma saiti tika nosūtīts uz jūsu
+        e-pasta adresi. Lūdzu atvērt saites, lai aktivizētu savu kontu.
+      update_needs_confirmation: Jūs atjauninājis savu kontu veiksmīgi, bet mums ir
+        nepieciešams, lai pārbaudītu savu jauno e-pasta adresi. Lūdzu, pārbaudiet
+        savu e-pastu un noklikšķiniet uz saites, apstiprina, lai pabeigtu, apstiprinot
+        savu jauno e-pasta adresi.
+      updated: Jūs atjauninājis savu kontu veiksmīgi.
+      new:
+        sign_up: Reģistrēties
+        name: Name
+        password: Paroles
+        password_confirmation: Paroles apstiprinājums
+        register: Reģistrēties
+    shared:
+      links:
+        sign_in: Pierakstīties
+        sign_up: Reģistrēties
+        didnt_receive_confirmation_instructions: Vai nav saņēmuši apstiprinājuma instrukcijas?
+        sign_in_with: Pierakstieties ar
+        fast_login_almost_one_click: Fast login (gandrīz vienu klikšķi)
+    sessions:
+      signed_in: Parakstīts veiksmīgi.
+      signed_out: Parakstīts veiksmīgi.
+      new:
+        sign_in: Pierakstīties
+        password: Paroles
+        remember_me: Atcerēties mani
+        forgot_your_password: Aizmirsāt paroli?
+    unlocks:
+      send_instructions: jūs saņemsiet e-pastu ar norādījumiem par to, kā atbloķēt
+        jūsu kontu pēc dažām minūtēm.
+      send_paranoid_instructions: Ja jūsu konts eksistē, jūs saņemsiet e-pastu ar
+        norādījumiem par to, kā atbloķēt to pēc dažām minūtēm.
+      unlocked: Jūsu konts ir veiksmīgi atbloķēts. Lūdzu, pierakstieties, lai turpinātu.
+  timezones:
+    American Samoa: Amerikāņu Samoa
+    International Date Line West: International Date Line West
+    Midway Island: Midway Island
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Pacific laiks (ASV un Kanāda)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Čivava
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Kalnu laiks (ASV un Kanāda)
+    Central America: Centrālamerika
+    Central Time (US & Canada): Centrālais laiks (ASV un Kanāda)
+    Guadalajara: Guadalajara
+    Mexico City: Mehiko
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Austrumu laiks (ASV un Kanāda)
+    Indiana (East): Indiana (East)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlantijas laiks (Kanāda)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Ņūfaundlenda
+    Brasilia: Brazilja
+    Buenos Aires: Buenos Aires
+    Greenland: Grenlande
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Azoru salas
+    Cape Verde Is: Kaboverde ir.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lisbon
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdama
+    Belgrade: Belgrada
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Brisele
+    Budapest: Budapest
+    Copenhagen: Kopenhāgena
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Prāga
+    Rome: Roma
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Vīne
+    Warsaw: Varšava
+    West Central Africa: West Central Africa
+    Zagreb: Zagreb
+    Athens: Atēnas
+    Bucharest: Bukareste
+    Cairo: Cairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kaļiņingrada
+    Kyiv: Kyiv
+    Pretoria: Pretorija
+    Riga: Rīga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Baghdad
+    Kuwait: Kuveita
+    Minsk: Minska
+    Moscow: Maskava
+    Nairobi: Nairobi
+    Riyadh: Rijāda
+    St Petersburg: St. Petersburg
+    Volgograd: Volgograd
+    Tehran: Tehran
+    Abu Dhabi: Abū Dabī
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Erevāna
+    Kabul: Kabula
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabada
+    Karachi: Karači
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Daka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnojarskas
+    Beijing: Beijing
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutska
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapore
+    Taipei: Taipei
+    Ulaanbaatar: Ulanbatora
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seula
+    Tokyo: Tokyo
+    Yakutsk: Jakutska
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guama
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadana
+    New Caledonia: Jaunkaledonija
+    Solomon Is: Solomon ir.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fidži
+    Kamchatka: Kamčatka
+    Marshall Is: Marshall ir.
+    Wellington: Wellington
+    Chatham Is: Chatham ir.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau ir.
+  lv: lv
+  lv_iso: lv

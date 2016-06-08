@@ -1,0 +1,1031 @@
+---
+ko:
+  1_we_have_just_launched_our_service_title: 우리는 우리의 서비스를 시작했습니다!
+  common_keywords: 날짜 매김, 온라인 날짜 매김, 사랑 날짜 매김, 웹캠 데이트, 스피드 데이트, 웹캠 채팅 데이트, 루비 레일에이
+    사이트를 데이트, 다국어 데이트 사이트
+  common_description: 날짜 매김하기위한 가장 진보 된 국제 사회 엔터테인먼트 네트워크 "Flutylove"
+  default_album: 기본 앨범
+  user: 사용자
+  user_to_search_connection: 검색
+  video: 동영상
+  note: 참고
+  photo_album: 사진 앨범
+  from: 에서
+  to: 로
+  vkontakte: 명 Vkontakte
+  facebook: 페이스 북
+  twitter: 트위터
+  google_oauth2: 구글
+  instagram: 인스 타 그램
+  dropbox_oauth2: 보관
+  mail_ru: Mail.ru
+  odnoklassniki: 오드 노 클라스 니키
+  gender:
+  - male:
+      name: 남성
+  - female:
+      name: 여성
+  - transgender:
+      name: 트랜스 젠더
+  - male-female:
+      name: 남성 - 여성
+  - double-female:
+      name: 두 여성
+  - double-male:
+      name: 두 남자
+  orientation:
+  - heterosexual: 이성애
+  - homosexual: 동성애
+  search_for:
+  - marriage: 결혼
+  body_type:
+    slim: 슬림
+    normal: 일반
+  relationship:
+    single: 싱글
+    married: 결혼
+  children:
+    dont_have: 는하지 마십시오
+    dont_have_and_dont_want_to: 는하지 말고 싶지 않아
+    don_t_have_but_planning: 는 있지만 계획하지 마십시오
+    have_enough: 되세요
+    have_and_planning_more: 유무 등을 계획
+  education:
+    nothing: 없음
+    secondary_school: 중등 학교
+    college_technical_college: 대학 / 기술 대학
+    university: 대학
+    postgraduate: 대학원
+    phd_md_post_doctorate: 박사 / MD / 포스트 박사 학위
+  hair_color:
+    blonde: 금발
+    dark_blond: 어두운 금발
+    brown: 브라운
+    black: 블랙
+    red: 레드
+    gray: 그레이
+    other: 기타
+  income:
+    unstable_earnings: 불안정 실적
+    small_stable_earnings: 작은 안정적인 실적
+    medium_stable_earnings: 중간 안정적인 실적
+    high_income: 높은 소득
+  smoking:
+    not_smoke_and_detest: 는 흡연과 ​​담배를 싫어하지
+    smoke_only_after_drinking: 연기 만 마시는 후
+    smoke_occasionally: 연기 때때로
+    smoke_often: 연기 자주
+  alcohol:
+    drink_occalionally: 함 때때로
+    drink_often: 음료 자주
+  drugs:
+    dont_use: 는 사용하지 마십시오
+    contra_drugs: 콘트라 약물
+    tried_out_some: 밖으로 시도 일부
+    light_drugs_occasionally: 빛 가끔 약물 복용
+  sponsor:
+    i_want_to_find_a_sponsor: 나는 스폰서를 찾으려면
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: 스폰서를 찾고 없음과 하나가 기꺼이하지
+  category_name:
+    strategy: 전략
+    rpg: RPG
+    3d_shooters: 3D 슈팅 게임
+    racing: 레이싱
+    arcade: 아케이드
+    economic: 경제
+    simulators: 시뮬레이터
+    logic: 논리
+    adventure: 모험
+    board_games: 보드 게임
+    gambling: 도박
+    news: 뉴스
+    communication: 통신
+    multimedia: 멀티미디어
+    drawing: 그리기
+    educational: 교육
+    e_commerce: 전자 상거래
+    other: 기타
+  shared:
+    header:
+      people: 사람
+      chat: 채팅
+      groups: 그룹
+      forum: 포럼
+      requests: 요청
+      help: 도움말
+      user_applications: 응용 프로그램
+    liked_users:
+      liked: 이 좋아요
+      all: 모든
+      you_have_not_liked_any_users_yet: 아직 모든 사용자를 좋아하지 않은
+    most_liked_users:
+      most_liked_users: 인기있는 사용자
+    installed_user_applications:
+      installed_applications: 설치된 응용 프로그램
+      all: 모든
+      you_have_not_installed_any_apps_yet: 아직 모든 응용 프로그램을 설치하지 않은
+    user_applications:
+      uploaded_apps: 업로드 응용 프로그램
+      all: 모든
+      you_have_not_uploaded_any_apps_yet: 아직 모든 응용 프로그램을 업로드하지 않았습니다
+    right_sidebar:
+      news: 뉴스
+      all: 모든
+      read_more: 는 더 읽기
+    site_map_modal:
+      about: 소개
+      common_pages: 일반 페이지
+      user_pages: 사용자 페이지
+      terms: 약관
+      people: 사람
+      user_applications: 응용 프로그램
+      user_requests: 요청
+      news: 뉴스
+      feedback: 피드백
+      abuse: 남용
+      chats: 채팅
+      videos: 동영상
+      photo_albums: 사진 앨범
+      notes: 주의 사항
+    pagination_link:
+      next_page: 다음 페이지
+    user_edit_menu:
+      content: 콘텐츠
+      profile: 프로필
+      privacy: 개인 정보 보호
+      services: 서비스
+    activities_navigation:
+      all: 모든
+      photos: 사진
+      photo_albums: 사진 앨범
+      notes: 주의 사항
+      videos: 동영상
+    notifications_navigation:
+      all: 모든
+      likes: 좋아요
+      friend_requests: 친구 요청
+      profile_views: 프로필보기
+      photo_album_views: 사진보기
+    user_to_friend_connections_navigation:
+      friends: 친구
+      friends_online: 친구 온라인
+      outcome_requests: 결과 요청
+      income_requests: 소득 요청
+    user_applications_navigation:
+      all: 모든
+      new: 새로운
+      popular: 인기
+      often_installed: 종종 설치
+      manage: 관리
+    user_requests_navigation:
+      all: 모든
+      popular: 인기
+    user_navbar_menu:
+      sign_in: 로그인
+      sign_up: 가입
+    email_signature:
+      info: 정보
+      mailer: 메일러
+      technoelegance: Technoelegance (주)
+    translations:
+      select_gender: 선택 성별
+      select_orientation: 선택 방향
+      select_search_for: 원하시는 검색
+    need_to_sign_in_modal:
+      you_need_to_sign_in: 이 작업하기 전에 로그인해야
+    sign_up_methods:
+      usual_register_link: 평소 등록
+    bootstrap_gallery:
+      next: 다음
+    user_notification_title:
+      wrote_message_to_you: 당신에게 메시지를 쓴
+      viewed_your_profile: 프로필을 조회
+      liked_your_photo: 는 사진을 '좋아요'
+      liked_your_note: 는 메모를 좋아
+      liked_your_request: 요청을 좋아 하냐
+      liked_your_video: 당신의 비디오를 좋아
+      liked_your_application: 이 응용 프로그램을 좋아 하냐
+      requested_a_friendship: 는 우정을 요청
+  authentications:
+    authentication:
+      turn_off: 해제
+      turned_on: 는 점등
+      turned_off: 이 꺼져
+    index:
+      enabled_services: 사용 서비스
+  users:
+    profile:
+      submit: 저장
+      name: 이름
+      meet_with: 만나와
+      gender: 성별
+      enter_your_name: 이름을 입력
+      more_options: 더
+      orientation: 동향
+      birth_date: 생년월일
+      location: 위치
+      search_for: 검색
+      intimacy: 친밀
+      from: 에서
+      to: 에
+      interests: 관심
+      height: 높이
+      weight: 무게
+      body_type: 체형
+      relationship: 관계
+      living: 생활
+      jobs: 작업
+      languages: 언어
+      alcohol: 알코올
+      contacts: 연락처
+      contact_name: 담당자 이름
+      contact_value: 연락 값
+      save: 저장
+    settings:
+      submit: 저장
+      locale: 인터페이스 언어
+      change_password: 비밀번호 변경
+      interface_language: 인터페이스 언어
+      time_zone: 시간대
+    dialog_modal:
+      send_message: 메시지 보내기
+    index:
+      users: 사용자
+      clear_search: 지우기 검색
+    dashboard:
+      hello: 안녕하세요.
+      chats: 채팅
+      messages: 메시지
+      photos: 사진
+      videos: 동영상
+      notes: 주의 사항
+      photo_albums: 사진 앨범
+    avatar:
+      photo: 사진
+      uploading_file: 업로드 파일
+      handling_file: 처리 파일
+      drag_and_drop_your_file: 드래그 앤 파일을 드롭
+      or: 나
+      upload_file: 업로드 파일
+      write_down_link_for_your_image: 이미지의 링크를 기록
+      upload: 업로드
+      edit_photo: 사진 편집
+      delete_photo: 사진 삭제
+      are_you_sure: 당신은 확실 해요?
+    available_photos_modal:
+      available_photos: 가능한 사진
+    edit_photo:
+      edit_photo: 사진 편집
+      crop: 자르기
+      close: 닫기
+      save_changes: 변경 사항 저장
+    contact:
+      contact_name_placeholder: 페이스 북 / 스카이프 / Vk을 / 등
+      contact_value_placeholder: URL / 닉 / 아이디 / 등
+    user:
+      orientation: 동향
+      meet_with: 만나와
+      desirable_age: 바람직한 시대
+      from: 에서
+      interests: 관심
+      height: 높이
+      sm: SM
+      kg: kg
+      body_type: 체형
+      hair_color: 머리 색
+      relationship: 관계
+      children: 어린이
+      living: 생활
+      education: 교육
+      jobs: 채용
+      income: 소득
+      languages: 언어
+      smoking: 흡연
+      alcohol: 알코올
+      drugs: 마약
+      contacts: 연락처
+    user_info:
+      offline: 오프라인
+      online: 온라인
+      age: 나이
+    loading_modal_images:
+      loading_images: 로드 이미지
+    password_form:
+      new_password: 새로운 암호
+      old_password: 이전 암호
+      change_password: 비밀번호 변경
+    show:
+      photos: 사진
+      notes: 주의 사항
+      view: 보기
+    dropbox_token_form:
+      key: 키
+      submit: 제출
+    contents:
+      all: 모든
+    more_profile_info:
+      photo_albums: 사진 앨범
+      create_more: 더 만들기
+      videos: 동영상
+      view_all_videos: 모두보기 동영상
+      notes: 주의 사항
+      view_all_notes: 모두보기 노트
+      requirements_lists_to_partner: 요구 사항 파트너로 나열
+      requirement: 요구 사항
+      view_all_requirements_lists: 모두보기 요구 사항 목록
+      profile_verification: 프로필 확인
+      create: 만들기
+      verify_through_twitter: 트위터를 통해 확인
+      verify_through_facebook: 페이스 북을 통해 확인
+      verify_through_mail_ru: Mail.ru를 통해 확인
+    privacy:
+      privacy: 개인 정보 보호
+  searches:
+    form:
+      location: 위치
+      from: 에서
+      to: 에
+      age: 나이
+      gender: 성별
+    form_content:
+      city: 시
+      gender: 성별
+      online: 온라인
+      verified: 는 검증
+      has_avatar: 아바타 있음
+      region: 지역
+      more: 더
+      country: 나라
+      interests: 관심
+      languages: 언어
+      names: 이름
+      height: 높이
+      from: 에서
+      weight: 무게
+      body_type: 체형
+      relationship: 관계
+      hair_color: 머리 색
+      orientation: 동향
+      children: 어린이
+      living: 생활
+      smoking: 흡연
+      alcohol: 알코올
+      drugs: 마약
+      income: 소득
+    show:
+      users: 사용자
+      clear_search: 지우기 검색
+  welcome:
+    index:
+      people: 사람
+      requests: 요청
+      user_applications: 응용 프로그램
+      about: 소개
+      features: 특징
+      registration: 등록
+      sign_in: 로그인
+      find_more: 더 찾기
+      about_title: Flutylove는 날짜 매김을위한 국제 사회 엔터테인먼트 네트워크입니다
+      about_text: 당신은 오락과 날짜 매김에 사용할 수있는 많은 기능이 있습니다!
+      many_languages: 많은 언어
+      check_it_out: 를 체크 아웃
+      videochats: Videochats
+      try_it_now: 지금 시도
+      search: 검색
+      watch_this: 시계이
+      more_features: 더 많은 기능
+      register_and_learn_more: 등록 및 자세한 내용은
+      install_our_apps: 인기 플랫폼에서 우리의 앱 설치
+      register_header: 등록
+  feedbacks:
+    new:
+      feedback_title: 피드백
+    form:
+      feedback_content: 피드백 내용
+      close: 닫기
+      feedback_recaptcha: reCAPTCHA를
+      cancel: 취소
+    success:
+      success_feedback: 감사합니다! 우리는 귀하의 의견을 받았다있다.
+      close: 닫기
+      cancel: 취소
+      more: 더 보내기
+  abuses:
+    new:
+      abuse_title: 남용
+    form:
+      abuse_content: 남용 내용
+      abuse_title: 남용
+      close: 닫기
+      send: 보내기
+      abuse_recaptcha: reCAPTCHA를
+      abuse_link: 링크
+      cancel: 취소
+    success:
+      success_abuse: 감사합니다! 우리는 당신의 학대를 받았다있다.
+      close: 닫기
+      cancel: 취소
+      more: 더 보내기
+  recaptcha:
+    errors:
+      verification_failed: 실패 reCAPTCHA를
+      recaptcha_unreachable: reCAPTCHA를 연결할 수 없습니다
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_text: 오늘 우리는 그래서 모두가 할 수있는 우리의 서비스를 시작
+      sign_up: 가입
+      and_use_it: 그것을 사용합니다.
+      flutylove_team: Flutylove 팀
+    index:
+      read_more: 는 더 읽기
+  chats:
+    panel_head:
+      online: 온라인
+      offline: 오프라인
+    pagination_link:
+      next_page: 다음 페이지
+    form:
+      message_text: 메시지 텍스트
+    form_additions:
+      submit: 제출
+      videochat: 영상 채팅
+    show:
+      messages: 메시지
+    index:
+      messages: 메시지
+    videochat_request_link:
+      connect_to_videochat: 연결 영상 채팅하기
+    modal_form:
+      send_message: 메시지 보내기
+      recipient: 받는 사람
+      message: 메시지
+      close: 닫기
+      submit: 제출
+    waiting_video_answer_button:
+      waiting_for_response: 응답을 기다리는 중 ...
+    chat_created:
+      send_message: 메시지 보내기
+      message_was_sent: 메시지가 전송되었습니다
+      close: 닫기
+  messages:
+    pagination_link:
+      next_page: 다음 페이지
+    form:
+      message_text: 메시지 텍스트
+  notifications:
+    user_to_friend_connection:
+      action: 조치
+    notification:
+      offline: 오프라인
+      online: 온라인
+    like:
+      action: 조치
+    photo_album_view:
+      action: 조치
+    user_view:
+      action: 조치
+  user_applications:
+    user_application:
+      who_uploaded: 에 의해 업로드
+      all_uploaded_applications_by: 모든 업로드 응용 프로그램에서
+    form:
+      name: 이름
+      user_application_name: 응용 프로그램 이름
+      description: 설명
+      description_text: 설명 텍스트
+      iframe_url: iframe이 URL
+      icon_for_application: 응용 프로그램 아이콘
+      upload_icon: 다운로드 아이콘
+      public: 공공?
+      category_name: 카테고리
+      create: 만들기
+      edit: 편집
+    show:
+      application: 응용 프로그램
+      return_to_uploaded_applications: 응용 프로그램을 업로드하려면
+      edit_application: 편집 응용 프로그램
+    manage:
+      installed_applications: 설치된 응용 프로그램
+      uploaded_applications: 업로드 응용 프로그램
+      all: 모든
+    index:
+      create_new: 새로 만들기
+    installed:
+      installed_applications: 설치된 응용 프로그램
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: 보기 전에이 응용 프로그램은 먼저 로그인해야
+    need_to_install:
+      need_to_install_first: 먼저이 응용 프로그램을 설치해야합니다
+  likes:
+    index:
+      liked_items: 좋아요 항목
+  videos:
+    index:
+      videos: 동영상
+      create_new: 새로 만들기
+      return_to_profile: 돌아 프로필하기
+    video:
+      are_you_sure: 당신은 확실 해요?
+    modal_form:
+      create_new_video: 새로운 비디오 만들기
+      close: 닫기
+      create: 만들기
+    form_content:
+      name: 이름
+      video_name: 비디오 이름
+    show:
+      video: 동영상
+      edit_video: 편집 영상
+    edit:
+      edit_video: 편집 영상
+      view_video: 동영상보기
+    form:
+      edit: 편집
+  photo_albums:
+    index:
+      photo_albums: 사진 앨범
+      create_new: 새로 만들기
+      return_to_profile: 돌아 프로필하기
+    photo_album:
+      edit: 편집
+      create: 만들기
+      are_you_sure: 당신은 확실 해요?
+      delete: 삭제
+    edit:
+      edit_photo_album: 편집 사진 앨범
+      view_photo_album: 보기 사진 앨범
+    form_content:
+      name: 이름
+      photo_album_name: 포토 앨범 이름
+    form:
+      edit: 편집
+      create: 만들기
+    photo_album_uploader:
+      drag_and_drop_your_file: 드래그 앤 파일을 드롭
+      or: 나
+      upload_file: 업로드 파일
+      write_down_link_for_your_image: 이미지의 링크를 기록
+      upload: 업로드
+    show:
+      photo_album: 사진 앨범
+      edit_photo_album: 편집 사진 앨범
+    modal_form:
+      create_new_photo_album: 새 사진 앨범 만들기
+      close: 닫기
+      create: 만들기
+  user_requests:
+    form:
+      content: 콘텐츠
+      edit: 편집
+      create: 만들기
+  notes:
+    index:
+      notes: 주의 사항
+      create_new: 새로 만들기
+      return_to_profile: 돌아 프로필하기
+    note:
+      edit: 편집
+      are_you_sure: 당신은 확실 해요?
+      delete: 삭제
+    show:
+      note: 참고
+      edit_note: 편집 노트
+    form_content:
+      content: 콘텐츠
+      note_content: 참고 내용
+      edit: 편집
+      create: 만들기
+    edit:
+      edit_note: 편집 노트
+      view_note: 보기 노트
+  user_to_search_connections:
+    index:
+      requirements_lists: 요구 사항 목록
+      create_new: 새로 만들기
+    user_to_search_connection:
+      edit: 편집
+      are_you_sure: 당신은 확실 해요?
+      delete: 삭제
+    edit:
+      edit_requirements_list: 편집 요구 사항 목록
+      view_requirements_list: 보기 요구 사항 목록
+    form_content:
+      name: 이름
+    form:
+      edit: 편집
+    show:
+      requirements_list: 요구 사항 목록
+      edit_requirements_list: 편집 요구 사항 목록
+  photos:
+    index:
+      photos: 사진
+      return_to_profile: 프로필
+  errors:
+    messages:
+      already_confirmed: 이미 확인되었다, 로그인 시도하십시오
+      confirmation_period_expired: "% {시간}에서 확인 될 필요가 새를 요청하시기 바랍니다"
+      not_found: 찾을 수 없습니다
+      not_saved:
+        one: '1 오류가 저장되지이 % {자원을} 금지 :'
+    bad_request:
+      bad_request: 잘못된 요청
+      request_result: 요청 결과
+      go_to_root: 루트로 이동
+    unprocessable_entity:
+      unprocessable_entity: 처리 할 수​​ 없음 엔티티
+      request_result: 요청 결과
+    not_found:
+      not_found: 찾을 수 없음
+      request_result: 요청 결과
+      go_to_root: 루트로 이동
+    forbidden:
+      forbidden: 는 금지
+      request_result: 요청 결과
+      go_to_root: 루트로 이동
+    internal_server_error:
+      internal_server_error: 내부 서버 오류
+      request_result: 요청 결과
+      internal_server_error_description: 문제가 발생했습니다. 우리는 가능한 한 빨리 그것을 수정합니다.
+      go_to_root: 루트로 이동
+  af_full: "(739)는 개인 정보 주체의 권리 보호를 위해 권한있는 당국에게 알리지 않고 개인 정보의 처리를 수행 할 수있는 권리가 있습니다."
+  pages:
+    privacy:
+      privacy: Flutylove 개인 정보 보호 정책
+      general_provisions: 일반 규정
+      p_1_1: 1.1. 이 규정에 위치한 유한 책임 회사 "Technoelegance"의 공식 문서이다 101000, 모스크바, Ulanskiy의
+        pereulok 13 stroeniye 4, pomeshcheniye 1 (Flutylove, 회사, 우리를 이하), 데이터 처리 및
+        개인 정보 보안의 절차를 결정 누가 18 세에 도달, 누가 웹 사이트 https://flutylove.com (웹 사이트를 이하) 및
+        서비스 (사용자를 이하)를 사용합니다.
+      p_1_2: 1.2. 이 규정의 목적은 무단 액세스 및 공개로부터 개인 정보를 포함하여 사용자 정보에 의한 보호를 보장하는 것입니다.
+      p_1_3: 1.3. 수집, 저장, 유통 및 웹 사이트 사용자의 정보 보안과 관련된 관계는 이러한 규정, 회사의 다른 공식 문서와 러시아의
+        현재의 법률이 적용됩니다.
+      p_1_4: 1.4. 링크 http://flutylove.com/pages/privacy를 다음과 같은 경우 공개 문서에있는 규정의 현재
+        버전은 모든 인터넷 사용자가 사용할 수 있습니다. 회사는이 규정을 수정할 수있는 권한이 있습니다. 경우에 변경 사항이 규정을 만든 회사는
+        유효하기 전에, 영구적 인 주소 http://flutylove.com/pages/privacy의 웹 사이트에 늦어도 10 일 이내에이
+        규정의 새 버전을 게시하여 사용자에게 통지하여야한다 변경의 날짜입니다. 규정의 이전 버전은 회사의 문서 아카이브에 저장됩니다.
+      p_1_5: 1.5. 이 규정은 개발되어 사용자 계약에 따라 사용됩니다. 이러한 규정과 회사의 다른 공식 문서 사이의 위반의 경우,이 규정이
+        적용되어야한다.
+      p_1_6: 1.6. 웹 사이트를 사용함으로써 귀하는 본 개인 정보 보호 정책의 이용 약관에 동의합니다. 주의 깊게 읽어 보시기 바랍니다.
+        이 개인 정보 보호 정책의 조건에 동의하지 않는, 또는 당신이 18 세에 도달하지 않은 경우, 당신은 웹 사이트와 서비스를 사용할 수
+        없습니다. 웹 사이트를 사용하여 관계없이 등록 된 Flutylove의 사용자인지 여부, 당신은 완전히이 개인 정보 취급 방침에 동의
+        함을 확인하고 그것을 수행하는 데 동의합니다.
+      p_2_1: '2.1. 웹 사이트 Flutylove를 사용하려면 등록해야합니다. 이름, 이메일 주소, 성별, 생년월일, 위치 정보 : 다음
+        정보는 등록시 지정해야합니다. 사용자는 그 / 그녀의 자신의 소원에 추가 개인 정보를 제공 할 수있다. 사용자 편집하거나 언제든지 개인
+        정보를 업데이트 할 수 있습니다. 회사는 변화의 성별, 사용자의 생년월일의 경우 추가 서류를 요청할 수있는 권리가 있습니다.'
+      p_2_2: 2.2. 웹 사이트에 등록이 18 세 이상이 될 필요가 있음을 깨닫는다;, 웹 사이트 및 서비스, 회사에 대한 액세스를 허용하는
+        합리적인 방식으로하고 성실하게 행동함으로써, 사용자는 것을 고려 모든 필요한 권한이 웹 사이트에서 등록하고 사용 할 수 있도록이있다;
+        자신에 대한 정확한 정보를 제공 / 그녀 자신의 웹 사이트의 서비스의 이용에 대한 요청에 따라, 사용자에 의해 제공된 웹 사이트에 개인
+        정보,뿐만 아니라, 복사 및 다른 사용자에게 배포 할 수있는 웹 사이트와 인터넷 사용자가 다른 사용자에게 제공 될 수 있음을 인식하고;
+        다른 사용자에게 전송 된 정보의 일부 종류는, 사용자에 의해 제거 될 수 없다는 것을 알고있다; 이러한 규정을 숙지하고, 그들과 함께
+        동의하고 지정된 권리와 의무를 약속한다.
+      p_2_3: 2.3. 이러한 검증은 사용자에게 회사의 의무를 이행하기 위해 필요한 때 회사의 경우를 제외하고, 사용자에 대한 수신 (수집)
+        정보의 정확성을 확인하지 않는다.
+      information_processing_objectives: 정보 처리 목적
+      p_3_1: 3.1. 회사는 웹 사이트와 웹 사이트 서비스의 사용을위한 사용자 회사의 의무를 이행하기 위해, 자신의 개인 정보를 포함하여
+        사용자에 관한 정보 처리를 행한다.
+      p_4_1: 4.1. 사용자의 개인 정보는 다음과 같습니다
+      p_4_1_1: 4.1.1. 이름, 이메일 주소, 성별, 사용자에 의해 제공 웹 사이트에 등록을위한 충분한 것으로 예상되는 출생, 위치
+        정보, 전화 번호, 날짜,
+      p_4_1_2: 4.1.2. (예를 들어, 사진, 악성 습관 등에 대한 정보) 사용자가 제공하는 정보;
+      p_4_1_3: 4.1.3. 또한 사용자 계약에서 나타나는 사용자에게 회사의 의무를 이행하기 위해 회사의 요청에 따라 사용자에 의해 제공.
+        회사는 회사의 재량에 따라 필요합니다, 신원 문서 나 이름, 성별, 생년월일 포함 된 다른 문서뿐만 아니라 다른 추가 정보의 사본 및
+        사용을 요청하는 특정의 권리를 가지고 있습니다 이러한 사용자의 식별을 위해 충분하고 타사의 권리의 남용과 위반을 제거합니다.
+      p_4_2: 4.2. 회사 웹 사이트 관리하여 다른 사용자의 정보 처리도 포함하는 사용자에 대한 다른 정보를 처리합니다
+      p_4_2_1: 4.2.1. 웹 사이트 및 사용자의 후속 조치에 접근하면 자동으로 HTTP 서버에 의해 수신 된 공통 데이터 (호스트의
+        IP 주소는 사용자의 운영 시스템의 유형은, 웹 사이트의 페이지는 사용자가 방문).
+      p_4_2_2: 4.2.2. 북마크 (쿠키)를 사용하여 웹 사이트에 액세스 할 때 자동으로 수신되는 정보;
+      p_4_2_3: 4.2.3. 웹 사이트에 대한 사용자의 행동의 결과로서 획득 된 정보;
+      p_4_2_4: 4.2.4. 웹 사이트의 다른 사용자의 행동의 결과로 획득되는 정보.
+      users_information_processing: 이용자 정보 처리
+      p_5_1: '5.1. 개인 데이터 처리는 다음과 같은 원리에 기초하여 수행된다 : a) 정당한 목적 및 개인 데이터 처리 수단; b)는
+        정직; 다) 목적으로 개인 정보 처리 목적의 준수는 소정 및 개인 정보뿐만 아니라 회사의 자격 증명의 준수를 수집 할 때 선언; d)
+        상기 볼륨과 개인 데이터의 처리 유형, 및 처리의 목적으로 개인 정보의 처리 수단의 적합성 컴플라이언스; 호환되지 않는 목적으로 작성된
+        데이터베이스를 결합 개인 데이터를 포함하는의 전자) 입국 불허.'
+      p_5_1_1: 5.1.1. 레지스터뿐만 아니라 미래에 사용자가 그 / 그녀의 자신의 사업에 웹 사이트 도구를 사용하여 자신 / 자신에
+        대한 자세한 정보를 추가 할 때 때 사용자의 개인 정보의 수집은 웹 사이트에서 수행된다.
+      p_5_1_2: 5.1.2. 사용자의 개인 정보는 개인 정보의 수동 처리가 법적 요건을 충족 관점에서 필요한 경우를 제외하고, 자동화 된
+        시스템을 사용하여 전자 형식만으로 저장 및 처리된다.
+      p_5_1_3: 5.1.3. 사용자의 개인 데이터는 명시 적으로 이러한 규칙과 사용자 계약에 의해 제공되는 경우를 제외하고 제 3 자에게
+        전송되지 않습니다. 사용자의 동의하에, 개인 사용자 데이터 서비스 및 애플리케이션을 사용하는 경우, 특히, 수신 된 정보의 기밀성을
+        보장 할 의무의 전제 조건 하에서 회사의 세번째 상대방에게 전송할 수있다. 법에서 요구하는 정부 기관 (지방 자치 단체)의 요청에 따라
+        사용자의 개인 데이터 프로비저닝이 절차에서 수행된다.
+      p_5_1_4: '5.1.4. ; 데이터 자체 삭제 사용자에 의한 페이지이다 : - 때 개인 사용자 데이터 삭제 - 페이지가 자동 삭제
+        된 사용자입니다; - 사용자 정보와 개인 페이지는 회사에 의해 제거된다. 개인 페이지가 제거 된 후에 사용자 자체 페이지를 삭제하는
+        경우, 기업 (210) 일 이내에 전자 매체에 사용자 개인 정보를 기억한다. 개인 페이지가 제거 된 후 개인 데이터 (210) 일 만료시에
+        삭제된다. 이 기간이 만료 될 때까지, 사용자는 개인 페이지를 복원 할 수있는 권리를 갖는다.'
+      users_rights_and_obligations: 사용자의 권리와 의무
+      p_6_1: 6.1. 사용자는 오른쪽에 있습니다
+      p_6_1_1: 6.1.1. 로그인 및 암호를 사용하여 웹 사이트에서의 개인 페이지를 편집하여 제한없이 / 그에 대해 그녀를 정보에 액세스
+        무료;
+      p_6_1_2: 6.1.2. 독립적으로 이러한 변경 및 수정이 포함 된 것을 조건으로 웹 사이트에 사용자의 개인 페이지에서 정보를 변경
+        및 수정을 할 최신의 진정한 정보;
+      p_6_1_3: 6.1.3. 웹 사이트의 개인 페이지에서 정보를 제거;
+      p_6_1_4: 6.1.4. 이러한 데이터가 불법적으로 수신, 오래된, 불완전한 부정확하거나 처리의 선언 목적으로 또는 경우에 필요하지
+        않은 경우 회사가, 자세한 정보, 블록을 얻거나 개인 정보를 삭제 요청이 항 6.1.3에 규정 된 조치 규정 독립적으로 구현 될 수
+        없다;
+      p_6_1_5: 6.1.5. 요청에 기초하여, 그 / 그녀의 개인 데이터의 처리에 관한 회사로부터의 정보를 수신한다.
+      p_6_2: '6.2. 등록 된 임의의 웹 사이트 사용에 대한 다음과 같은 정보가 등록 된 사용자를 항상 볼 수 있습니다 : 사용자의 이름,
+        성별, 나이, 프로필 사진 및 기타 정보는 사용자가 게시 한 경우.'
+      p_6_3: 6.3. 회사는 이러한 데이터를 액세스 한 웹 사이트의 다른 사용자가 사용자의 개인 정보의 공개에 대해 책임을지지 않습니다.
+      p_6_4: 6.4. 개인 정보 (다른 사용자 정보) 사용자의 개인 페이지 또는 웹 사이트에서 사용자의 개인 페이지의 제거에서 제거의 경우,
+        사용자의 정보를 다른 사용자에 의해 복사 또는 보존 다른 사용자의 페이지에 저장됩니다.
+      users_information_protection_measures: 사용자의 정보 보호 대책
+      p_7_1: 7.1. 회사는 이용자의 개인 정보는 무단 또는 실수로 액세스, 삭제, 수정, 차단, 복사, 배포에서뿐만 아니라 다른 권한이없는
+        행위로부터 보호하기 위해, 기술 조직 및 법적 조치를합니다.
+      p_7_2: 7.2. 사용자의 로그인 (이메일 주소 또는 휴대폰 번호)와 비밀번호는 웹 사이트에 액세스하는 데 사용됩니다. 사용자는이 정보를
+        기밀 유지에 대한 책임이 있습니다. 사용자는 타사에 로그인 및 암호를 전송하지 않을 수 있으며 또한 그것의 비밀을 보장하기 위해 조치를
+        취할 의무가있다.
+      user_requests: 사용자 요청
+      p_9_1: '9.1. 러시아, 101000, 모스크바, Ulanskiy의 pereulok 13 stroeniye 4, pomeshcheniye
+        1 또는 전자 문서의 형태 : 사용자는 다음 주소로 서면의 개인 정보의 사용에 관한 요청을 포함하여 회사에 요청을 보낼 수있는 권리가
+        있습니다 support@flutylove.com : 이메일로, 러시아 연방의 법률에 따라 자격을 갖춘 전자 서명으로 서명했다.'
+      p_9_2: '9.2. 사용자의 요청은 다음 정보를 포함한다 : 사용자 또는 그 대리인의 신분증의 수; 위의 문서와 발급 기관의 문제 일;
+        운영자와의 관계에서 사용자의 참여 확인 정보 (특히이 페이지에 링크) 사용자 또는 그 / 그녀의 대리인의 서명.'
+      p_9_3: 9.3. 회사는 고려하고받은 후 30 일 이내에 사용자의 요청에 응답 약속한다.
+      p_9_4: 9.4. [사용자 (서면 또는 전자 요청)에서 회사가받은 모든 서신은 액세스가 제한된 정보로 분​​류하고 사용자의 서면 동의없이
+        공개 할 수 없습니다. 요청을 보낸 사용자에 대한 개인 정보 및 기타 정보는 다르게 요청 또는 명시 적으로 적용 가능한 법률에 규정
+        된 경우에 응답하지 않고, 사용자의 특별한 동의없이 사용할 수 없습니다.
+    terms:
+      terms: Flutylove 사용자 계약
+      consent_to_accept_the_terms_of_user_agreement: 1. 동의는 사용자 계약서의 조건에 동의합니다.
+      the_right_of_using_the_website: 2. 웹 사이트 사용의 권리.
+      pricing_and_registration: 3. 가격 및 등록
+      terms_4: 4. 조건.
+      account_security: 5. 계정 보안.
+      forbidden_actions: 8.가 금지 ACTIONS.
+      p_9: Flutylove 변경하거나 일시적 또는 영구적으로 서비스를 사용하지 않도록 할 권리를 보유합니다 (또는 그것은 부분) 통지없이.
+        당신은 Flutylove이 수정, 임시 가용성 또는 서비스의 완전한 무능력에 대한 또는 제 3 자에게 책임을지지 않습니다 동의합니다.
+      ip_address_blocking: 10. IP 주소 차단.
+      other_provisions_and_changes: 17. 기타 규정 변경.
+      read_this: 나는이 계약서를 읽고 모든 조건에 동의합니다.
+    about:
+      about_flutylove_text: Flutylove는 날짜 매김을위한 국제 사회 엔터테인먼트 네트워크입니다. 여기서 당신은 친구하는
+        소울 메이트, 파트너를 찾을 수 있습니다하거나 게임을 재생하여 즐길 함께 시간을 보내고이나 동영상 / 사진을보세요.
+      we_are_in_social_networks: '우리는 소셜 네트워크에 있습니다 :'
+      facebook: 페이스 북
+      twitter: 트위터
+      vk: 명 Vkontakte
+      google_plus: 구글 플러스
+      instagram: 인스 타 그램
+      github: Github에서
+      we_use_open_source_and_high_technology: 우리는 높은 기술과 오픈 소스 라이브러리를 사용합니다. 우리는 항상
+        더 나은 얻고 우리의 서비스를 개선하려고합니다.
+      partners_and_investors: 우리는 협력을 위해 개방하고 우리는 투자자를 찾을 싶습니다. 당신이 우리와 함께 협력하려는 경우
+        partnership@flutylove.com로 문의하시기 바랍니다
+    faq:
+      faq: FAQ
+      what_is_flutylove: Flutylove 무엇입니까?
+      about_flutylove: Flutylove는 날짜 매김을위한 국제 사회 엔터테인먼트 네트워크입니다. 여기서 당신은 친구하는 소울 메이트,
+        파트너를 찾을 수 있습니다하거나 게임을 재생하여 즐길 함께 시간을 보내고이나 동영상 / 사진을보세요.
+      flutylove_features: 여기에서 게임을하고, 다른 나라에서 확장 검색, 검색 파트너를 사용하고 다른 사회 거즈를 수행 videocams들과
+        대화를 나눌 수 있습니다.
+      i_have_some_requests: 좀 요청이
+      you_can_write_request: 당신은 가입하고 기록 할 수 있습니다
+      i_have_seen_some_typo_or_wrong_translation: 나는 약간의 오타 나 잘못된 번역을 보았다
+      github_repository: GitHub의 저장소
+      i_have_seen_some_error: 나는 약간의 오류를 보았다
+      to_us_or_write_to_our_info_mail: 또는 support@flutylove.com에 이메일을 보냅니다
+  user_mailer:
+    welcome_email:
+      you_can_sign_in_with_your_social_networks: 다시 당신이 당신의 소셜 네트워크 계정으로 로그인 할 수 있습니다
+        로그인하려는 경우
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: 당신이
+        서명 아웃하여 암호를 변경할 수 있습니다 이메일과 비밀번호로 로그인하고 아래 링크 클릭하세요
+      change_password: 비밀번호 변경
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            birth_date:
+              birth_date_error: 18 미만 115해야
+            interests:
+              interests_error: 미만 2,000 기호해야
+            jobs:
+              jobs_error: 미만 2,000 기호해야
+            languages:
+              languages_error: 미만 2,000 기호해야
+            sex_keywords:
+              sex_keywords_error: 미만 2,000 기호해야
+            contacts:
+              contacts_length_error: 미만 2,000 기호해야
+              contacts_size_error: 미만 21 접촉 할 필요가
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: 는 잘못된 값이 있습니다
+  devise:
+    confirmations:
+      send_instructions: "."
+      send_paranoid_instructions: 귀하의 이메일 주소는 우리의 데이터베이스에 존재하는 경우, 당신은 몇 분 안에 귀하의
+        계정을 확인하는 방법에 대한 지침 이메일을 받게됩니다.
+      new:
+        send_mail_for_confirm_your_email: 확인 이메일 메일 보내기
+        submit: 제출
+    failure:
+      invalid: 잘못된 이메일 또는 암호를 입력합니다.
+      last_attempt: "."
+      not_found_in_database: 잘못된 이메일 또는 암호를 입력합니다.
+    mailer:
+      confirmation_instructions:
+        subject: 확인 지침
+        confirm_my_account: 내 이메일을 확인
+      reset_password_instructions:
+        hello: 안녕하세요.
+        subject: 재설정 암호 지침
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: 누군가가
+          요청을 암호를 변경할 수있는 링크가 있습니다. 당신은 아래의 링크를 통해이 작업을 수행 할 수 있습니다.
+        if_you_didnt_request_this_please_ignore_this_email: 이이 이메일을 무시하세요 요청하지 않은
+          경우.
+      unlock_instructions:
+        subject: 잠금 해제 지침
+    omniauth_callbacks:
+      failure: 는 % {종류} "% {} 이유"때문에 당신을 인증 할 수 없습니다.
+      success: 성공적 % {종류} 계정에서 인증.
+    passwords:
+      send_instructions: "."
+      send_paranoid_instructions: 귀하의 이메일 주소는 우리의 데이터베이스에 존재하는 경우, 당신은 몇 분 안에 당신의
+        이메일 주소로 비밀번호 복구 링크를 받게됩니다.
+      new:
+        forgot_your_password: 비밀번호를 복구
+        reset_password: 보내기 URL을 복구
+      edit:
+        change_your_password: 비밀번호를 변경
+        new_password: 새로운 암호
+        confirm_password: 암호 확인
+        change_password: 변경
+    registrations:
+      signed_up: 에 오신 것을 환영합니다! 당신은 성공적으로 서명 하였다.
+      new:
+        sign_up: 가입
+        name: 이름
+        password: 비밀
+        password_confirmation: 비밀번호 확인
+        register: 가입
+    shared:
+      links:
+        sign_in: 로그인
+        sign_up: 가입
+        didnt_receive_confirmation_instructions: 는 확인 지시를 받았습니다하지 않았다?
+        fast_login_almost_one_click: 빠른 로그인 (거의 한 번의 클릭)
+    sessions:
+      signed_in: 는 성공적으로 체결.
+      signed_out: 는 성공적으로 체결.
+      new:
+        sign_in: 로그인
+        password: 비밀
+        remember_me: 나를 기억
+        forgot_your_password: 비밀번호를 잊어 버렸습니까?
+    unlocks:
+      send_instructions: "."
+  timezones:
+    American Samoa: 아메리칸 사모아
+    International Date Line West: 날짜 변경선 서쪽
+    Midway Island: 미드웨이 섬
+    Hawaii: 하와이
+    Alaska: 알래스카
+    Pacific Time (US & Canada): 태평양 표준시 (미국과 캐나다)
+    Tijuana: 티후아나
+    Arizona: 애리조나
+    Chihuahua: 치와와
+    Mazatlan: 마사 틀란
+    Mountain Time (US & Canada): 산지 표준시 (미국과 캐나다)
+    Central America: 중앙 아메리카
+    Central Time (US & Canada): 중부 표준시 (미국과 캐나다)
+    Guadalajara: 과달라하라
+    Mexico City: 멕시코 시티
+    Monterrey: 몬테레이
+    Saskatchewan: 서스 캐처 원
+    Bogota: 보고타
+    Eastern Time (US & Canada): 동부 표준시 (미국과 캐나다)
+    Indiana (East): 인디애나 (동부)
+    Lima: 리마
+    Quito: 키토
+    Atlantic Time (Canada): 대서양 표준시 (캐나다)
+    Caracas: 카라카스
+    Georgetown: 조지 타운
+    La Paz: 라 파스
+    Santiago: 산티아고
+    Newfoundland: 뉴 펀들 랜드
+    Brasilia: 브라질리아
+    Buenos Aires: 부에노스 아이레스
+    Greenland: 그린 랜드
+    Montevideo: 몬테비데오
+    Mid-Atlantic: 중부 대서양
+    Azores: 아 조레스
+    Cape Verde Is: 카보 베르데입니다.
+    Casablanca: 카사 블랑카
+    Dublin: 더블린
+    Edinburgh: 에딘버러
+    Lisbon: 리스본
+    London: 런던
+    Monrovia: 몬로 비아
+    UTC: UTC
+    Amsterdam: 암스테르담
+    Belgrade: 베오그라드
+    Berlin: 베를린
+    Bern: 베른
+    Bratislava: 브라 티 슬라바
+    Brussels: 브뤼셀
+    Budapest: 부다페스트
+    Copenhagen: 코펜하겐
+    Ljubljana: 류블 랴나
+    Madrid: 마드리드
+    Paris: 파리
+    Prague: 프라하
+    Rome: 로마
+    Sarajevo: 사라예보
+    Skopje: 스코 페
+    Stockholm: 스톡홀름
+    Vienna: 비엔나
+    Warsaw: 바르샤바
+    West Central Africa: 중서부 아프리카
+    Zagreb: 자그레브
+    Athens: 아테네
+    Bucharest: 부카레스트
+    Cairo: 카이로
+    Harare: 하라레
+    Helsinki: 헬싱키
+    Istanbul: 이스탄불
+    Jerusalem: 예루살렘
+    Kaliningrad: 칼리닌그라드
+    Kyiv: 키예프
+    Pretoria: 프리토리아
+    Riga: 리가
+    Sofia: 소피아
+    Tallinn: 탈린
+    Vilnius: 빌 뉴스
+    Baghdad: 바그다드
+    Kuwait: 쿠웨이트
+    Minsk: 민스크
+    Moscow: 모스크바
+    Nairobi: 나이로비
+    Riyadh: 리야드
+    St Petersburg: 세인트 피터스 버그
+    Volgograd: 볼고그라드
+    Tehran: 테헤란
+    Baku: 바쿠
+    Muscat: 무스카트
+    Samara: 사마라
+    Tbilisi: 트빌리시
+    Yerevan: 레반
+    Kabul: 카불
+    Ekaterinburg: 카테 린 부르크
+    Islamabad: 이슬라마바드
+    Karachi: 카라치
+    Tashkent: 타슈켄트
+    Chennai: 첸나이
+    Kolkata: 콜카타
+    Mumbai: 뭄바이
+    New Delhi: 뉴 델리
+    Sri Jayawardenepura: 스리랑카 Jayawardenepura
+    Kathmandu: 카트만두
+    Almaty: 알마티
+    Astana: 아스타나
+    Dhaka: 다카
+    Novosibirsk: 노보시비르스크
+    Urumqi: 우루무치
+    Rangoon: 랑군
+    Bangkok: 방콕
+    Hanoi: 하노이
+    Jakarta: 자카르타
+    Krasnoyarsk: 크라스 노야 르 스크
+    Beijing: 베이징
+    Chongqing: 충칭
+    Hong Kong: 홍콩
+    Irkutsk: 이르쿠츠크
+    Kuala Lumpur: 쿠알라 룸푸르
+    Perth: 퍼스
+    Singapore: 싱가포르
+    Taipei: 타이페이
+    Ulaanbaatar: 울란바토르
+    Osaka: 오사카
+    Sapporo: 삿포로
+    Seoul: 서울
+    Tokyo: 도쿄
+    Yakutsk: 야쿠 츠크
+    Adelaide: 애들레이드
+    Darwin: 다윈
+    Brisbane: 브리즈번
+    Canberra: 캔버라
+    Guam: 괌
+    Hobart: 호바트
+    Melbourne: 멜버른
+    Port Moresby: 포트 모르즈비
+    Sydney: 시드니
+    Vladivostok: 블라디보스톡
+    Magadan: 마가
+    New Caledonia: 뉴 칼레도니아
+    Solomon Is: 솔로몬입니다.
+    Srednekolymsk: 스레드 네 콜림 스크
+    Auckland: 오클랜드
+    Fiji: 피지
+    Kamchatka: 캄차카
+    Marshall Is: 마샬입니다.
+    Wellington: 웰링턴
+    Chatham Is: 채텀입니다.
+    Nuku'alofa: 누쿠 알로 파
+    Samoa: 사모​​아
+    Tokelau Is: 토켈 라우입니다.
+  ko: ko
+  ko_iso: ko

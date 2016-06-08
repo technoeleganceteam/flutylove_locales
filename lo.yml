@@ -1,0 +1,1484 @@
+---
+lo:
+  1_we_have_just_launched_our_service_title: ພວກເຮົາໄດ້ເປີດຕົວພຽງແຕ່ການບໍລິການຂອງພວກເຮົາ!
+  common_keywords: ວັນທີ່ແບບອອນໄລນ໌, ວັນທີ່ຮັກ, webcam ໌ວັນທີ, ຄວາມໄວວັນທີ, webcam
+    ສົນທະວັນທີ, Ruby on Rails ເວັບໄຊວັນທີ, ເວັບໄຊວັນທີ multilanguage
+  common_description: ສາກົນເຄືອຂ່າຍການບັນເທີງເພື່ອສັງຄົມກ້າວຫນ້າທາງດ້ານຫຼາຍທີ່ສຸດສໍາລັບວັນທີ
+    "Flutylove"
+  user: User
+  user_to_search_connection: ຄົ້ນຫາ
+  video: Video
+  note: ຫມາຍເຫດ
+  photo_album: ອັລບັມຮູບພາບ
+  from: ຈາກ
+  to: ໄປ
+  vkontakte: Vkontakte
+  facebook: ເຟສບຸກ
+  twitter: Twitter
+  google_oauth2: ກູໂກ
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: ຊາຍ
+  - female:
+      name: ຍິງ
+  - transgender:
+      name: Transgender
+  - male-female:
+      name: ຜູ້ຍິງ
+  - double-female:
+      name: ຍິງ Double
+  - double-male:
+      name: Double ຊາຍ
+  orientation:
+  - heterosexual: ກັບເພດກົງຂ້າມ
+  - homosexual: Homosexual
+  - bisexual: ກະເທີຍ
+  search_for:
+  - chatting: ສົນທະນາ
+  - get_friends: ໄດ້ຮັບເພື່ອນ
+  - flirtation: flirtation
+  - marriage: ການແຕ່ງງານ
+  - other: ອື່ນ ໆ
+  body_type:
+    slim: Slim
+    normal: ປົກກະຕິ
+    athletic: ກິລາ
+    chubby: Chubby
+  relationship:
+    single: Single
+    in_a_relationship: ໃນຄວາມສໍາພັນ
+    married: ທີ່ແຕ່ງງານແລ້ວ
+    nothing_serious: ບໍ່ມີຫຍັງຮ້າຍແຮງ
+  children:
+    dont_have: ບໍ່ມີ
+    dont_have_and_dont_want_to: ບໍ່ມີແລະບໍ່ຕ້ອງການທີ່ຈະ
+    don_t_have_but_planning: ບໍ່ມີແຕ່ການວາງແຜນ
+    have_enough: ມີ
+    have_and_planning_more: ມີແລະການວາງແຜນເພີ່ມເຕີມ
+    unable_to_have_children: ບໍ່ສາມາດທີ່ຈະມີລູກ
+  living:
+    with_parents: ມີພໍ່ແມ່
+    with_marriage_partner: ມີຄູ່ຮ່ວມງານແຕ່ງງານ
+    alone: Alone
+    with_friends: ກັບເພື່ອນມິດທີ່ (s)
+  education:
+    nothing: ບໍ່ມີຫຍັງ
+    college_technical_college: ວິທະຍາໄລ / ວິທະຍາໄລເທກນິກ
+    postgraduate: Postgraduate
+    phd_md_post_doctorate: ປະລິນຍາເອກ / MD / ຕອບທີ່ບໍ່ມີ
+  hair_color:
+    blonde: ຜິວເນື້ອສີຂາວ
+    dark_blond: ຜິວເນື້ອສີຂາວຊ້ໍາ
+    brown: ສີນ້ໍາຕານ
+    black: Black
+    red: Red
+    gray: ສີຂີ້ເຖົ່າ
+    other: ອື່ນ ໆ
+  income:
+    unemployed: ຫວ່າງງານ
+    unstable_earnings: ລາຍ Unstable
+    small_stable_earnings: ລາຍໄດ້ຫມັ້ນຄົງຂະຫນາດນ້ອຍ
+    medium_stable_earnings: ລາຍໄດ້ຫມັ້ນຄົງຂະຫນາດກາງ
+    higher_than_average_income: ສູງກວ່າລາຍຮັບສະເລ່ຍ
+    high_income: ລາຍໄດ້ສູງ
+  smoking:
+    not_smoke: ບໍ່ສູບຢາ
+    not_smoke_and_detest: ບໍ່ສູບຢາແລະກຽດຊັງການສູບຢາ
+    smoke_in_a_social_setting: ບາງຄັ້ງໃນການສ້າງຕັ້ງສັງຄົມ
+    smoke_only_after_drinking: Smoke ພຽງແຕ່ຫຼັງຈາກການດື່ມ
+    smoke_occasionally: ຄວັນຢາສູບເປັນບາງໂອກາດ
+    smoke_often: ມັກສູບຢາ
+  alcohol:
+    not_drinking: ບໍ່ດື່ມ
+    drink_occalionally: ດື່ມເປັນບາງໂອກາດ
+    drink_in_a_social_setting: ດື່ມໃນການສ້າງຕັ້ງສັງຄົມ
+    drink_often: ດື່ມມັກ
+  drugs:
+    dont_use: ບໍ່ໄດ້ນໍາໃຊ້
+    contra_drugs: ຢາເສບຕິດ Contra
+    tried_out_some: ພະຍາຍາມອອກບາງ
+    light_drugs_occasionally: ຢາເສບຕິດ Light ເປັນບາງໂອກາດ
+    regular: ປະກະຕິ
+  sponsor:
+    i_want_to_find_a_sponsor: ຂ້າພະເຈົ້າຕ້ອງການທີ່ຈະຊອກຫາຜູ້ເປັນ
+    willing_to_become_a_sponsor: ເຕັມໃຈທີ່ຈະກາຍເປັນຜູ້ໃຫ້ທຶນໄດ້
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: ບໍ່ໄດ້ຊອກຫາສໍາລັບການສະຫນັບສະຫນູນແລະບໍ່ເຕັມໃຈທີ່ຈະກາຍເປັນຫນຶ່ງ
+  category_name:
+    strategy: ແຜນຍຸດທະສາດ
+    rpg: RPG
+    3d_shooters: shooters 3D
+    racing: ແຂ່ງລົດ
+    arcade: ຄອມ
+    economic: ເສດຖະກິດ
+    simulators: ຈໍາລອງ
+    logic: ຕາມເຫດຜົນ
+    adventure: ໄຟອັນຕລາຍ
+    board_games: Board
+    gambling: ການພະນັນ
+    news: News
+    communication: ການສື່ສານ
+    multimedia: Multimedia
+    drawing: Drawing
+    educational: ການສຶກສາ
+    e_commerce: E- ການຄ້າ
+    other: ອື່ນ ໆ
+  shared:
+    header:
+      people: ປະຊາຊົນ
+      chat: Chat
+      groups: Groups
+      forum: Forum
+      requests: ການຮ້ອງຂໍ
+      about: ກ່ຽວກັບໂຄງການ
+      help: Help
+      user_applications: ຄໍາຮ້ອງສະຫມັກ
+    liked_users:
+      liked: ທີ່ຖືກໃຈ
+      all: ທັງຫມົດ
+      you_have_not_liked_any_users_yet: ທ່ານບໍ່ໄດ້ຊອບຜູ້ໃຊ້ໃດ ໆ
+    most_liked_users:
+      most_liked_users: ຜູ້ໃຊ້ທີ່ນິຍົມ
+    installed_user_applications:
+      installed_applications: ຄໍາຮ້ອງສະຫມັກການຕິດຕັ້ງ
+      all: ທັງຫມົດ
+      you_have_not_installed_any_apps_yet: ທ່ານບໍ່ໄດ້ຕິດຕັ້ງຄໍາຮ້ອງສະຫມັກໃດ ໆ
+    user_applications:
+      uploaded_apps: ຄໍາຮ້ອງສະຫມັກ Uploaded
+      all: ທັງຫມົດ
+      you_have_not_uploaded_any_apps_yet: ທ່ານຍັງບໍ່ໄດ້ອັບຄໍາຮ້ອງສະຫມັກໃດ ໆ
+    right_sidebar:
+      news: News
+      all: ທັງຫມົດ
+      read_more: ອ່ານເພີ່ມເຕີມ
+    footer:
+      footer_text: ເຄືອຂ່າຍການບັນເທີງທາງດ້ານສັງຄົມລະຫວ່າງປະເທດສໍາລັບວັນທີ "Flutylove"
+      privacy: ຄວາມເປັນສ່ວນຕົວ
+      terms: ເງື່ອນໄຂ
+      feedback: ຜົນຕອບຮັບ
+      abuse: Abuse
+    languages_select_modal:
+      available_languages: ພາສາທີ່ໃຊ້
+    site_map_modal:
+      faq: FAQ
+      about: ກ່ຽວກັບ
+      static_pages: ຫນ້າ Static
+      common_pages: ຫນ້າສາມັນ
+      user_pages: ຫນ້າ User
+      terms: ເງື່ອນໄຂ
+      privacy: ຄວາມເປັນສ່ວນຕົວ
+      people: ປະຊາຊົນ
+      user_applications: ຄໍາຮ້ອງສະຫມັກ
+      user_requests: ການຮ້ອງຂໍ
+      news: News
+      feedback: ຜົນຕອບຮັບ
+      abuse: Abuse
+      chats: ສົນ
+      photo_albums: albums Photo
+      notes: Notes
+    pagination_link:
+      next_page: ຫນ້າຖັດໄປ
+    user_edit_menu:
+      content: Content
+      profile: ຂໍ້ມູນ
+      site_settings: ການຕັ້ງຄ່າເວັບໄຊ
+      privacy: ຄວາມເປັນສ່ວນຕົວ
+      services: ບໍລິການ
+    activities_navigation:
+      all: ທັງຫມົດ
+      photos: Photos
+      photo_albums: albums Photo
+      notes: Notes
+    notifications_navigation:
+      all: ທັງຫມົດ
+      likes: Likes
+      friend_requests: ການຮ້ອງຂໍ Friend
+      profile_views: ຂໍ້ມູນສ່ວນຕົວ
+    user_to_friend_connections_navigation:
+      friends: Friends
+      friends_online: ເພື່ອນອອນໄລນ໌
+      outcome_requests: ການຮ້ອງຂໍຜົນໄດ້ຮັບ
+      income_requests: ການຮ້ອງຂໍມາ
+    user_applications_navigation:
+      all: ທັງຫມົດ
+      new: ໃຫມ່
+      popular: ເປັນທີ່ນິຍົມ
+      often_installed: ຕິດຕັ້ງປົກກະຕິແລ້ວ
+      manage: ການຄຸ້ມຄອງ
+    user_requests_navigation:
+      all: ທັງຫມົດ
+      popular: ເປັນທີ່ນິຍົມ
+      my_requests: ການຮ້ອງຂໍຂອງຂ້າພະເຈົ້າ
+    user_navbar_menu:
+      sign_in: ເຂົ້າສູ່ລະບົບ
+      sign_up: ຂຽນເຂົ້າເຖິງ
+    email_signature:
+      mailer: Mailer
+      technoelegance: Technoelegance ກັດ
+    translations:
+      select_gender: ເລືອກບົດບາດຍິງຊາຍ
+      select_orientation: ເລືອກປະຖົມນິເທດ
+      select_search_for: ເລືອກຄົ້ນຫາສໍາລັບ
+    need_to_sign_in_modal:
+      you_need_to_sign_in: ທ່ານຈໍາເປັນຕ້ອງເຂົ້າສູ່ລະບົບກ່ອນທີ່ຈະປະຕິບັດນີ້
+      available_sign_in_methods: ທ່ານ
+    sign_up_methods:
+      usual_register_link: ການຈົດທະບຽນປົກກະຕິ
+      register_text: ນອກຈາກ% {usual_registration} ທ່ານສາມາດລົງທະບຽນຜ່ານການບໍລິການທີ່ນິຍົມທີ່ສຸດແລະເຄືອຂ່າຍທາງສັງຄົມ
+    bootstrap_gallery:
+      previous: ກ່ອນຫນ້າ
+      next: ຕໍ່ໄປ
+    user_notification_title:
+      you_liked: ທ່ານ liked ໂດຍ
+      wrote_message_to_you: ຂຽນຂໍ້ຄວາມກັບທ່ານ
+      viewed_your_profile: ເບິ່ງຂໍ້ມູນຂອງທ່ານ
+      liked_your_photo: ທີ່ຖືກໃຈຮູບພາບຂອງທ່ານ
+      liked_your_note: ທີ່ຖືກໃຈບັນທຶກຂອງທ່ານ
+      liked_your_request: ທີ່ຖືກໃຈການຮ້ອງຂໍຂອງທ່ານ
+      liked_your_video: ທີ່ຖືກໃຈວິດີໂອຂອງທ່ານ
+      liked_your_application: ທີ່ຖືກໃຈຄໍາຮ້ອງສະຫມັກຂອງທ່ານ
+      requested_a_friendship: ຂໍມິດຕະພາບ
+  authentications:
+    authentication:
+      turn_on: ເຮັດໃຫ້ສຸດ
+      turn_off: ປິດ
+      turned_on: ກ່ຽວກັບການຫັນ
+      turned_off: ປິດ
+    index:
+      enabled_services: ການບໍລິການ
+  users:
+    profile:
+      submit: ບັນທຶກ
+      name: ຊື່
+      meet_with: ພົບກັບ
+      gender: ເພດ
+      type_in_your_location: ປະເພດຢູ່ໃນນະຄອນຂອງທ່ານ
+      about_me: ຄໍາບາງຢ່າງກ່ຽວກັບຕົວທ່ານເອງ (ນອກເຫນືອໄປຈາກຮູບແບບຂ້າງລຸ່ມນີ້)
+      sex_keywords: ຄວາມສົນໃຈໃນການຮ່ວມເພດ
+      enter_your_name: ກະລຸນາໃສ່ຊື່ຂອງທ່ານ
+      more_options: ເພີ່ມເຕີມ
+      orientation: ປະຖົມນິເທດ
+      location: ສະຖານທີ່ຕັ້ງ
+      search_for: ຄົ້ນຫາສໍາລັບ
+      intimacy: Intimacy
+      in_age: ໃນອາຍຸສູງສຸດ
+      from: ຈາກ
+      to: ກັບ
+      interests: ຄວາມສົນໃຈ
+      height: ສູງ
+      weight: ນ້ໍາຫນັກ
+      relationship: ຄວາມສໍາພັນ
+      children: ເດັກນ້ອຍ
+      living: ດໍາລົງຊີວິດ
+      education: ການສຶກສາ
+      jobs: ວຽກ
+      income: ລາຍໄດ້
+      languages: ພາສາ
+      smoking: ການສູບຢາ
+      alcohol: Alcohol
+      drugs: ຢາເສບຕິດ
+      contacts: ຕິດຕໍ່ພົວພັນ
+      contact_name: ຊື່ຜູ້ຕິດຕໍ່
+      contact_value: ຕິດຕໍ່ມູນຄ່າ
+      save: ບັນທຶກ
+      about_yourself: ກ່ຽວກັບຕົວທ່ານເອງ
+    settings:
+      submit: ບັນທຶກ
+      locale: ພາສາ ​​Interface
+      change_password: ການປ່ຽນແປງລະຫັດຜ່ານ
+      interface_language: ພາສາ ​​Interface
+    index:
+      users: ຜູ້ໃຊ້
+      clear_search: ການຊອກຫາ
+    dashboard:
+      hello: ສະບາຍດີ
+      here_some_of_your_statistics: ຕໍ່ໄປນີ້ເປັນສະຖິຕິຂອງທ່ານ
+      chats: ສົນ
+      photos: Photos
+      notes: Notes
+      photo_albums: albums Photo
+    avatar:
+      photo: Photo
+      drag_and_drop_your_file: Drag ແລະການຫຼຸດລົງໄຟລ໌ຂອງທ່ານ
+      here: ນີ້
+      or: ຫຼື
+      from_other_sites: ຈາກສະຖານທີ່ອື່ນໆ
+      write_down_link_for_your_image: ຂຽນການເຊື່ອມຕໍ່ຂອງຮູບພາບຂອງທ່ານ
+      url_for_image: Url ສໍາລັບຮູບພາບ
+      upload: Upload
+      from_facebook: ຈາກເຟສບຸກ
+      turn_on_facebook: ເປີດເຟສບຸກ
+      you_can_upload_your_photos_from_facebook: ທ່ານສາມາດອັບຮູບພາບຂອງທ່ານຈາກເຟສບຸກ
+      from_vkontakte: ຈາກ Vkontakte
+      you_can_upload_your_photos_from_vkontakte: ທ່ານສາມາດອັບຮູບພາບຂອງທ່ານຈາກ Vkontakte
+      turn_on_vkontakte: ເປີດ Vkontakte
+      from_instagram: ຈາກ Instagram
+      you_can_upload_your_photos_from_instagram: ທ່ານສາມາດອັບຮູບພາບຂອງທ່ານຈາກ Instagram
+      turn_on_instagram: Turn on Instagram
+      from_dropbox: ຈາກ Dropbox
+      you_can_upload_your_photos_from_dropbox: ທ່ານສາມາດອັບຮູບພາບຂອງທ່ານຈາກ Dropbox
+      turn_on_dropbox: ເປີດ Dropbox
+      edit_photo: ແກ້ໄຂຮູບພາບ
+      delete_photo: ຮູບພາບ Delete
+      are_you_sure: ທ່ານແນ່ໃຈວ່າ?
+    available_photos_modal:
+      available_photos: ຮູບພາບທີ່ມີຢູ່
+    update:
+      your_password_was_successfully_changed: ລະຫັດຜ່ານຂອງທ່ານໄດ້ຖືກປ່ຽນແປງສົບຜົນສໍາເລັດ
+      your_profile_was_successfully_updated: profile ຂອງທ່ານໄດ້ຖືກປັບປຸງຢ່າງສໍາເລັດຜົນ
+    edit_photo:
+      edit_photo: ແກ້ໄຂຮູບພາບ
+      crop: ການປູກພືດ
+      close: ປິດ
+      save_changes: ທຶກການປ່ຽນແປງ
+    contact:
+      contact_name_placeholder: ເຟສບຸກ / Skype / Vk / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: ກ່ຽວກັບຂ້າພະເຈົ້າ
+      orientation: ປະຖົມນິເທດ
+      meet_with: ພົບກັບ
+      desirable_age: ອາຍຸສູງສຸດທີ່ພຶງປະສົງ
+      from: ຈາກ
+      to: ກັບ
+      interests: ຄວາມສົນໃຈ
+      height: ສູງ
+      sm: sm
+      kg: kg
+      relationship: ຄວາມສໍາພັນ
+      children: ເດັກນ້ອຍ
+      living: ດໍາລົງຊີວິດ
+      education: ການສຶກສາ
+      jobs: ວຽກ
+      income: ລາຍໄດ້
+      languages: ພາສາ
+      smoking: ການສູບຢາ
+      alcohol: Alcohol
+      drugs: ຢາເສບຕິດ
+      contacts: ຕິດຕໍ່ພົວພັນ
+    user_info:
+      offline: ອອຟໄລ
+      online: ອອນໄລນ໌
+      age: ອາຍຸ
+    loading_modal_images:
+      loading_images: ຮູບພາບກໍາລັງໂຫລດ
+    password_form:
+      new_password: ລະຫັດຜ່ານໃຫມ່
+      confirm_new_password: ຢືນຢັນລະຫັດຜ່ານໃຫມ່
+      change_password: ການປ່ຽນແປງລະຫັດຜ່ານ
+    show:
+      photos: Photos
+      all: ທັງຫມົດ
+      notes: Notes
+      view: ເບິ່ງ
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: ວາງທີ່ສໍາຄັນຮັບ
+      submit: ຍື່ນສະເຫນີການ
+    contents:
+      users_which_i_like: ຜູ້ໃຊ້ທີ່ຂ້າພະເຈົ້າຕ້ອງການ
+      all: ທັງຫມົດ
+      my_videos_likes: ເຊັ່ນດຽວກັນກັບວິດີໂອຂອງຂ້າພະເຈົ້າ
+      my_photos_likes: ຮູບພາບຂອງຂ້າພະເຈົ້າເຊັ່ນດຽວກັນ
+      my_notes_likes: ບັນທຶກຂອງຂ້າພະເຈົ້າເຊັ່ນດຽວກັນ
+      my_user_applications_likes: ຄໍາຮ້ອງສະຫມັກຂອງຂ້າພະເຈົ້າເຊັ່ນດຽວກັນ
+      my_user_requests_likes: ການຮ້ອງຂໍຂອງຂ້າພະເຈົ້າເຊັ່ນດຽວກັນ
+    more_profile_info:
+      photo_albums: albums Photo
+      view_all_photo_albums: ເບິ່ງບັ້ມຮູບພາບທັງຫມົດ
+      create_more: ສ້າງເພີ່ມເຕີມ
+      view_all_videos: ເບິ່ງທັງຫມົດວິດີໂອ
+      notes: Notes
+      view_all_notes: ເບິ່ງບັນທຶກທັງຫມົດ
+      requirements_lists_to_partner: ຕ້ອງການລາຍການທີ່ຈະຄູ່ຮ່ວມງານ
+      requirement: ຕ້ອງການ
+      view_all_requirements_lists: ເບິ່ງລາຍການຄວາມຕ້ອງການທັງຫມົດ
+      profile_verification: ຂໍ້ມູນຢັ້ງຢືນ
+      your_profile_is_successfully_verified: profile ຂອງທ່ານໄດ້ຖືກກວດສອບຢ່າງສໍາເລັດຜົນ
+      create: ສ້າງ
+      you_have_not_any_requirements_lists_yet: ທ່ານມີບໍ່ກໍານົດໃດໆທີ່ບັນຊີລາຍຊື່ yet
+      you_have_not_any_notes_yet: ທ່ານມີບໍ່ອ່ືນໃດ ໆ
+      you_have_not_any_photo_albums_yet: ທ່ານມີບໍ່ອັນລະບັ້ມພາບໃດ ໆ
+      you_have_not_any_videos_yet: ທ່ານມີບໍ່ວິດີໂອໃດ ໆ
+      your_profile_is_not_verified_yet: profile ຂອງທ່ານບໍ່ໄດ້ຮັບການ verified
+      verify_through_twitter: ກວດສອບໂດຍຜ່ານ Twitter
+      verify_through_facebook: ກວດສອບໂດຍຜ່ານເຟສບຸກ
+      verify_through_mail_ru: ກວດສອບໂດຍຜ່ານການ Mail.ru
+    privacy:
+      privacy: ຄວາມເປັນສ່ວນຕົວ
+  searches:
+    form:
+      location: ສະຖານທີ່ຕັ້ງ
+      from: ຈາກ
+      to: ກັບ
+      age: ອາຍຸ
+      gender: ເພດ
+    form_content:
+      city: City
+      gender: ເພດ
+      age_from: ອາຍຸຈາກ
+      to: ກັບ
+      online: ອອນໄລນ໌
+      verified: Verified
+      has_avatar: ມີ avatar
+      region: Region
+      more: ເພີ່ມເຕີມ
+      country: ປະເທດ
+      about_me: ກ່ຽວກັບຂ້າພະເຈົ້າ
+      interests: ຄວາມສົນໃຈ
+      languages: ພາສາ
+      names: Names
+      height: ສູງ
+      from: ຈາກ
+      weight: ນ້ໍາຫນັກ
+      relationship: ຄວາມສໍາພັນ
+      education: ການສຶກສາ
+      orientation: ປະຖົມນິເທດ
+      search_for: ຄົ້ນຫາສໍາລັບ
+      children: ເດັກນ້ອຍ
+      living: ດໍາລົງຊີວິດ
+      smoking: ການສູບຢາ
+      alcohol: Alcohol
+      drugs: ຢາເສບຕິດ
+      income: ລາຍໄດ້
+    show:
+      users: ຜູ້ໃຊ້
+      clear_search: ການຊອກຫາ
+  welcome:
+    index:
+      people: ປະຊາຊົນ
+      requests: ການຮ້ອງຂໍ
+      user_applications: ຄໍາຮ້ອງສະຫມັກ
+      about: ກ່ຽວກັບ
+      features: ຄຸນນະສົມບັດ
+      registration: ການຈົດທະບຽນ
+      sign_in: ເຂົ້າສູ່ລະບົບ
+      welcome_main_title: ຍິນດີຕ້ອນຮັບ Flutylove!
+      welcome_main_text: ນີ້ແມ່ນສະຖານທີ່ບ່ອນທີ່ທ່ານສາມາດຊອກຫາຄວາມຮັກທີ່ສົມບູນແບບຂອງທ່ານ
+      find_more: ຄົ້ນຫາເພີ່ມເຕີມ
+      about_title: Flutylove ແມ່ນເຄືອຂ່າຍການບັນເທີງຕ່າງປະເທດສັງຄົມສໍາລັບວັນທີ
+      about_text: ມີລັກສະນະຈໍານວນຫຼາຍທີ່ທ່ານສາມາດນໍາໃຊ້ສໍາລັບການບັນເທີງແລະວັນທີແມ່ນ!
+      find_more_features: ຄົ້ນຫາຄຸນສົມບັດຫລາຍ
+      at_our_service: ຄຸນນະສົມບັດຂອງການບໍລິການຂອງພວກເຮົາ
+      many_languages: ພາສາຈໍານວນຫຼາຍ
+      text_about_many_languages: ການບໍລິການຂອງພວກເຮົາໄດ້ຖືກແປຫຼາຍກ່ວາ 70 ພາສາ
+      check_it_out: ກວດເບິ່ງວ່າມັນອອກ
+      videochats: ວິດີໂອແຊດ
+      text_about_videochats: ທ່ານສາມາດສົນທະນາກັບຄູ່ຮ່ວມງານຂອງທ່ານທີ່ມີ VIDEOCAM
+      try_it_now: ພະຍາຍາມໃນປັດຈຸບັນ
+      search: ຄົ້ນຫາ
+      text_about_search: ທ່ານສາມາດຄົ້ນຫາພາລາມິເຕີທີ່ຫຼາກຫຼາຍແລະມັນເປັນການຟຣີ!
+      watch_this: Watch ນີ້
+      more_features: ຄຸນນະສົມບັດເພີ່ມເຕີມ
+      text_about_more_features: ທ່ານສາມາດເບິ່ງວິດີໂອ, ຫຼິ້ນເກມແລະເຮັດສິ່ງອື່ນຈໍານວນຫຼາຍ?
+      register_and_learn_more: ລົງທະບຽນແລະຮຽນຮູ້ເພີ່ມເຕີມ
+      install_our_apps: ຕິດຕັ້ງກິດຂອງພວກເຮົາຈາກໃນເວທີເປັນທີ່ນິຍົມ
+      register_header: ການຈົດທະບຽນ
+  feedbacks:
+    new:
+      feedback_title: ຜົນຕອບຮັບ
+    form:
+      feedback_name: ຊື່ຂອງທ່ານ
+      feedback_email: ອີເມວຂອງທ່ານ
+      close: ປິດ
+      send: ແນະນໍາ
+      feedback_recaptcha: reCaptcha
+      cancel: ຍົກເລີກ
+    success:
+      success_feedback: ຂໍຂອບໃຈທ່ານ! ພວກເຮົາໄດ້ຮັບຄໍາຄຶດຄໍາເຫັນຂອງທ່ານ.
+      close: ປິດ
+      cancel: ຍົກເລີກ
+      more: ສົ່ງຫຼາຍ
+  abuses:
+    new:
+      abuse_title: Abuse
+    form:
+      abuse_name: ຊື່ຂອງທ່ານ
+      abuse_email: ອີເມວຂອງທ່ານ
+      abuse_title: Abuse
+      close: ປິດ
+      send: ແນະນໍາ
+      abuse_recaptcha: reCaptcha
+      abuse_link: Link
+      cancel: ຍົກເລີກ
+    success:
+      success_abuse: ຂໍຂອບໃຈທ່ານ! ພວກເຮົາໄດ້ຮັບການລ່ວງລະເມີດຂອງທ່ານ.
+      close: ປິດ
+      cancel: ຍົກເລີກ
+      more: ສົ່ງຫຼາຍ
+  layouts:
+    welcome:
+      welcome_title: ຍິນດີຕ້ອນຮັບ Flutylove! ເວັບໄຊວັນທີກ້າວຫນ້າທາງດ້ານຫຼາຍທີ່ສຸດ.
+  recaptcha:
+    errors:
+      verification_failed: ບໍ່ຕອບກັບ
+      recaptcha_unreachable: reCaptcha ເປັນ unreachable
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: ພວກເຮົາໄດ້ເປີດຕົວພຽງແຕ່ການບໍລິການຂອງພວກເຮົາ!
+      we_have_just_launched_our_service_text: ມື້ນີ້ພວກເຮົາເປີດບໍລິການຂອງພວກເຮົາສະນັ້ນທຸກຄົນສາມາດເຮັດໄດ້
+      sign_up: ເຂົ້າເຖິງ
+      and_use_it: ແລະນໍາໃຊ້ມັນ.
+      wishes_and_requests: ຖ້າຫາກທ່ານມີຄວາມປາດຖະຫນາໃດຫນຶ່ງຫຼືຮ້ອງຂໍ, ທ່ານສາມາດເຂົ້າເຖິງແລະຂຽນ
+      here: ນີ້
+      with_love: ດ້ວຍຄວາມຮັກ,
+      flutylove_team: Team Flutylove
+    index:
+      all_news: ຂ່າວທັງຫມົດ
+      read_more: ອ່ານເພີ່ມເຕີມ
+  chats:
+    panel_head:
+      online: ອອນໄລນ໌
+      offline: ອອຟໄລ
+    pagination_link:
+      next_page: ຫນ້າຖັດໄປ
+    form_additions:
+      submit: ຍື່ນສະເຫນີການ
+      videochat: ວິດີໂອແຊດ
+    videochat_request_link:
+      connect_to_videochat: ເຊື່ອມຕໍ່ກັບວິດີໂອແຊດ
+    modal_form:
+      recipient: ຜູ້ຮັບ
+      message: ຂໍ້ຄວາມ
+      close: ປິດ
+      submit: ຍື່ນສະເຫນີການ
+    waiting_video_answer_button:
+      waiting_for_response: ລໍຖ້າສໍາລັບການຕອບສະຫນອງ ...
+    chat_created:
+      message_was_sent: ຂໍ້ຄວາມຖືກສົ່ງ
+      close: ປິດ
+  messages:
+    pagination_link:
+      next_page: ຫນ້າຖັດໄປ
+  notifications:
+    user_to_friend_connection:
+      action: ປະຕິບັດ
+    notification:
+      offline: ອອຟໄລ
+      online: ອອນໄລນ໌
+    like:
+      action: ປະຕິບັດ
+    photo_album_view:
+      action: ປະຕິບັດ
+    user_view:
+      action: ປະຕິບັດ
+  user_applications:
+    user_application:
+      who_uploaded: ອັບໂຫລດໂດຍ
+      all_uploaded_applications_by: ຄໍາຮ້ອງສະຫມັກການອັບທັງຫມົດໂດຍ
+    form:
+      name: ຊື່
+      user_application_name: ຊື່ຄໍາຮ້ອງສະຫມັກ
+      description: ລາຍລະອຽດ
+      description_text: ລາຍລະອຽດຂໍ້ຄວາມ
+      iframe_url: Iframe url
+      icon_for_application: Application icon
+      upload_icon: Download icon
+      public: ສາທາລະນະ?
+      category_name: Category
+      create: ສ້າງ
+      edit: ແກ້ໄຂ
+    show:
+      application: Application
+      return_to_uploaded_applications: ເພື່ອອັບໂຫລດຄໍາຮ້ອງສະຫມັກ
+      edit_application: ແກ້ໄຂຄໍາຮ້ອງສະຫມັກ
+      return_to_all_applications: ກັບຄືນໄປຄໍາຮ້ອງສະຫມັກທັງຫມົດ
+    manage:
+      installed_applications: ຄໍາຮ້ອງສະຫມັກການຕິດຕັ້ງ
+      uploaded_applications: ຄໍາຮ້ອງສະຫມັກ Uploaded
+      all: ທັງຫມົດ
+    index:
+      applications_uploaded_by: ຄໍາຮ້ອງສະຫມັກທີ່ອັບໂຫລດໂດຍ
+      return_to_all_applications: ກັບຄືນໄປຄໍາຮ້ອງສະຫມັກທັງຫມົດ
+      create_new: ສ້າງໃຫມ່
+      return_to_manage_applications: ກັບການຄຸ້ມຄອງຄໍາຮ້ອງສະຫມັກ
+    installed:
+      installed_applications: ຄໍາຮ້ອງສະຫມັກການຕິດຕັ້ງ
+      return_to_all_applications: ກັບຄືນໄປຄໍາຮ້ອງສະຫມັກທັງຫມົດ
+      return_to_manage_applications: ກັບການຄຸ້ມຄອງຄໍາຮ້ອງສະຫມັກ
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: ກ່ອນເບິ່ງຄໍາຮ້ອງສະຫມັກນີ້ທ່ານຈໍາເປັນຕ້ອງເຂົ້າສູ່ລະບົບໃນຄັ້ງທໍາອິດ
+    need_to_install:
+      need_to_install_first: ທ່ານຕ້ອງການຕິດຕັ້ງຄໍາຮ້ອງສະຫມັກນີ້ຄັ້ງທໍາອິດ
+      install_application: ການຕິດຕັ້ງຄໍາຮ້ອງສະຫມັກ
+  likes:
+    index:
+      liked_items: ລາຍການທີ່ຖືກໃຈ
+      return_to_my_content: ກັບຄືນໄປຫາເນື້ອໃນຂອງຂ້າພະເຈົ້າ
+  videos:
+    index:
+      return_to_edit_profile: ເພື່ອແກ້ໄຂໂປຣໄຟລ
+      create_new: ສ້າງໃຫມ່
+      return_to_profile: Return to profile
+    video:
+      edit: ແກ້ໄຂ
+      are_you_sure: ທ່ານແນ່ໃຈວ່າ?
+      delete: ລົບ
+    modal_form:
+      create_new_video: ສ້າງວິດີໂອໃຫມ່
+      close: ປິດ
+      create: ສ້າງ
+    form_content:
+      name: ຊື່
+      video_name: ຊື່ Video
+      source: Url ຂອງລະຫັດ embed
+      video_url_or_embed_code: url ວິດີໂອຂອງລະຫັດ embed ວິດີໂອ
+    show:
+      video: Video
+      return_to_all_videos: Return to ວິດີໂອທັງຫມົດ
+      edit_video: ແກ້ໄຂວິດີໂອ
+    edit:
+      edit_video: ແກ້ໄຂວິດີໂອ
+      return_to_view_video: Return to view video
+      view_video: ເບິ່ງວິດີໂອ
+    form:
+      edit: ແກ້ໄຂ
+  photo_albums:
+    index:
+      photo_albums: albums Photo
+      return_to_editing_profile: ເພື່ອແກ້ໄຂໂປຣໄຟລ
+      create_new: ສ້າງໃຫມ່
+      return_to_profile: Return to profile
+    photo_album:
+      edit: ແກ້ໄຂ
+      create: ສ້າງ
+      are_you_sure: ທ່ານແນ່ໃຈວ່າ?
+      delete: ລົບ
+    edit:
+      edit_photo_album: Edit ອັລບັມຮູບພາບ
+      return_to_photo_albums: ການເວັບບອດຮູບພາບ
+      view_photo_album: ເບິ່ງອັລບັມຮູບພາບ
+    form_content:
+      name: ຊື່
+    form:
+      edit: ແກ້ໄຂ
+      create: ສ້າງ
+    photo_album_uploader:
+      drag_and_drop_your_file: Drag ແລະການຫຼຸດລົງໄຟລ໌ຂອງທ່ານ
+      here: ນີ້
+      or: ຫຼື
+      from_other_sites: ຈາກສະຖານທີ່ອື່ນໆ
+      write_down_link_for_your_image: ຂຽນການເຊື່ອມຕໍ່ຂອງຮູບພາບຂອງທ່ານ
+      url_for_image: Url ສໍາລັບຮູບພາບ
+      upload: Upload
+      from_facebook: ຈາກເຟສບຸກ
+      turn_on_facebook: ເປີດເຟສບຸກ
+      you_can_upload_your_photos_from_facebook: ທ່ານສາມາດອັບຮູບພາບຂອງທ່ານຈາກເຟສບຸກ
+      from_vkontakte: ຈາກ Vkontakte
+      you_can_upload_your_photos_from_vkontakte: ທ່ານສາມາດອັບຮູບພາບຂອງທ່ານຈາກ Vkontakte
+      turn_on_vkontakte: ເປີດ Vkontakte
+      from_instagram: ຈາກ Instagram
+      you_can_upload_your_photos_from_instagram: ທ່ານສາມາດອັບຮູບພາບຂອງທ່ານຈາກ Instagram
+      turn_on_instagram: Turn on Instagram
+      from_dropbox: ຈາກ Dropbox
+      you_can_upload_your_photos_from_dropbox: ທ່ານສາມາດອັບຮູບພາບຂອງທ່ານຈາກ Dropbox
+      turn_on_dropbox: ເປີດ Dropbox
+    show:
+      return_to_photo_albums: ການເວັບບອດຮູບພາບ
+      edit_photo_album: Edit ອັລບັມຮູບພາບ
+    modal_form:
+      create_new_photo_album: ສ້າງອັລບັມຮູບພາບໃຫມ່
+      close: ປິດ
+      create: ສ້າງ
+  user_requests:
+    form:
+      content: Content
+      edit: ແກ້ໄຂ
+      create: ສ້າງ
+  notes:
+    index:
+      notes: Notes
+      return_to_edit_profile: ເພື່ອແກ້ໄຂໂປຣໄຟລ
+      create_new: ສ້າງໃຫມ່
+      return_to_profile: Return to profile
+    note:
+      edit: ແກ້ໄຂ
+      are_you_sure: ທ່ານແນ່ໃຈວ່າ?
+      delete: ລົບ
+    show:
+      note: ຫມາຍເຫດ
+      return_to_notes: ກັບຄືນການບັນທຶກ
+      edit_note: ດັດແກ້ບັນທຶກ
+    form_content:
+      content: Content
+      edit: ແກ້ໄຂ
+      create: ສ້າງ
+    edit:
+      edit_note: ດັດແກ້ບັນທຶກ
+      return_to_notes: ກັບຄືນການບັນທຶກ
+      view_note: ເບິ່ງບັນທຶກ
+  user_to_search_connections:
+    index:
+      requirements_lists: ລາຍການຄວາມຕ້ອງການ
+      return_to_editing_profile: ເພື່ອແກ້ໄຂໂປຣໄຟລ
+      create_new: ສ້າງໃຫມ່
+    user_to_search_connection:
+      edit: ແກ້ໄຂ
+      are_you_sure: ທ່ານແນ່ໃຈວ່າ?
+      delete: ລົບ
+    edit:
+      edit_requirements_list: ແກ້ໄຂລາຍການຄວາມຕ້ອງການ
+      return_to_requirements_lists: ບັນຊີລາຍຊື່ຕ້ອງການ
+    form_content:
+      name: ຊື່
+      name_of_your_requirements_list: ຊື່ຂອງບັນຊີລາຍຊື່ຕ້ອງການຂອງທ່ານ
+    form:
+      edit: ແກ້ໄຂ
+    show:
+      return_to_requirements_lists: ບັນຊີລາຍຊື່ຕ້ອງການ
+  photos:
+    index:
+      photos: Photos
+      return_to_photo_albums: Return to ບັ້ມຮູບພາບ
+      return_to_profile: ການຂໍ້ມູນ
+  errors:
+    messages:
+      already_confirmed: ໄດ້ຮັບການຢັ້ງຢືນແລ້ວ, ກະລຸນາພະຍາຍາມເຂົ້າສູ່ລະບົບ
+      confirmation_period_expired: ຕ້ອງໄດ້ຮັບການຢັ້ງຢືນພາຍໃນ% {ໄລຍະເວລາ}, ກະລຸນາຂໍເປັນຫນຶ່ງໃນໃຫມ່
+      expired: ໄດ້ຫມົດອາຍຸແລ້ວ, ກະລຸນາຂໍເປັນຫນຶ່ງໃນໃຫມ່
+      not_found: ບໍ່ໄດ້ພົບເຫັນ
+      not_locked: ບໍ່ໄດ້ມີຊາຍແດນຕິດ
+      not_saved:
+        one: '1 error ຫ້າມ% ນີ້ {resource} ຈາກຈະຖືກບັນທືກ:'
+        other: "% {ນັບ} ຄວາມຜິດພາດຫ້າມ% ນີ້ {resource} ຈາກຈະຖືກບັນທືກ:"
+    bad_request:
+      bad_request: ຂໍ Bad
+      bad_request_description: ເຄື່ອງແມ່ຂ່າຍທີ່ສາມາດຫຼືບໍ່ຈະຮ້ອງຂໍການອັນເນື່ອງມາຈາກຄວາມຜິດພາດຂອງລູກຄ້າປາກົດຂື້ນ
+      go_to_root: ໄປທີ່ຮາກ
+    unprocessable_entity:
+      unprocessable_entity: ທີ່ຍັງບໍ່ໄດ້ນິຕິບຸກຄົນ
+      unprocessable_entity_description: ການຮ້ອງຂໍແມ່ນດີສ້າງຕັ້ງຂຶ້ນແຕ່ບໍ່ສາມາດໄດ້ຮັບການປະຕິບັດຕາມຍ້ອນຄວາມຜິດພາດ
+        semantic
+      go_to_root: ໄປທີ່ຮາກ
+    not_found:
+      not_found: ບໍ່ພົບ
+      not_found_description: ການຊັບພະຍາກອນຂໍບໍ່ສາມາດພົບເຫັນແຕ່ອາດຈະມີໃນອະນາຄົດ
+      go_to_root: ໄປທີ່ຮາກ
+    forbidden:
+      forbidden: ຕ້ອງຫ້າມ
+      forbidden_description: ການຮ້ອງຂໍແມ່ນການຮ້ອງຂໍທີ່ຖືກຕ້ອງ, ແຕ່ວ່າເຄື່ອງແມ່ຂ່າຍແມ່ນການປະຕິເສດທີ່ຈະຕອບສະຫນອງຕໍ່ກັບມັນ
+      go_to_root: ໄປທີ່ຮາກ
+    internal_server_error:
+      internal_server_error: Error Server ພາຍໃນ
+      internal_server_error_description: ບາງສິ່ງບາງຢ່າງໄດ້ຜິດພາດ. ພວກເຮົາຈະແກ້ໄຂໄດ້ໃນທັນທີທີ່ເປັນໄປໄດ້.
+      go_to_root: ໄປທີ່ຮາກ
+  pages:
+    privacy:
+      privacy: ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ Flutylove
+      general_provisions: ບົດບັນຍັດທົ່ວໄປ
+      p_1_1: 11. ກົດລະບຽບເຫຼົ່ານີ້ແມ່ນມີເອກະສານຢ່າງເປັນທາງການຂອງຈໍາກັດຄວາມຮັບຜິດຊອບບໍລິສັດ
+        "Technoelegance", ຕັ້ງຢູ່ໃນ 101000, Moscow, Ulanskiy pereulok 13, stroeniye
+        4, pomeshcheniye 1 (hereafter Flutylove, ບໍລິສັດ, ພວກເຮົາ), ແລະກໍານົດຂັ້ນຕອນຂອງການປຸງແຕ່ງຂໍ້ມູນແລະຄວາມປອດໄພຂໍ້ມູນຂ່າວສານຂອງບຸກຄົນ
+        ຜູ້ທີ່ໄດ້ບັນລຸອາຍຸສູງສຸດຂອງ 18 ປີ, ແລະຜູ້ທີ່ນໍາໃຊ້ເວັບໄຊທ໌ https://flutylove.com
+        (hereafter ເວັບໄຊທ໌) ແລະການບໍລິການຂອງຕົນ (hereafter ຜູ້ໃຊ້).
+      p_1_2: 12. ຈຸດປະສົງຂອງລະບຽບການເຫຼົ່ານີ້ແມ່ນເພື່ອຮັບປະກັນການປ້ອງກັນອັນເນື່ອງມາຈາກຂໍ້ມູນຜູ້ໃຊ້,
+        ລວມທັງຂໍ້ມູນສ່ວນຕົວ, ຈາກການເຂົ້າເຖິງຮັບອະນຸຍາດແລະການເປີດເຜີຍ.
+      p_1_3: 13. ການພົວພັນທີ່ກ່ຽວຂ້ອງກັບການເກັບກໍາ, ການເກັບຮັກສາ, ການແຈກຢາຍແລະຄວາມປອດໄພຂອງຂໍ້ມູນຜູ້ໃຊ້ເວັບໄຊທ໌ແມ່ນການຄຸ້ມຄອງໂດຍລ​​ະບຽບການເຫຼົ່ານີ້,
+        ເອກະສານຢ່າງເປັນທາງການຂອງບໍລິສັດແລະນິຕິກໍາໃນປະຈຸບັນຂອງສະຫະພັນລັດເຊຍ.
+      p_1_4: 14. ສະບັບປະຈຸບັນຂອງລະບຽບການ, ຊຶ່ງເປັນເອກະສານສາທາລະນະ, ສາມາດໃຊ້ໄດ້ກັບຜູ້ໃຊ້ອິນເຕີເນັດໃນເວລາທີ່ປະຕິບັດຕາມ
+        http://flutylove.com/pages/privacy ການເຊື່ອມຕໍ່. ບໍລິສັດມີສິດທີ່ຈະປັບປຸງແກ້ໄຂລະບຽບການເຫຼົ່ານີ້.
+        ໃນກໍລະນີການປ່ຽນແປງທີ່ຈະເຮັດໃຫ້ລະບຽບການ, ບໍລິສັດຈະແຈ້ງໃຫ້ຜູ້ໃຊ້ໄດ້ໂດຍປຊຊກິນການສະບັບໃຫມ່ຂອງກົດລະບຽບກ່ຽວກັບເວັບໄຊທ໌ທີ່
+        http://flutylove.com/pages/privacy ທີ່ຢູ່ແບບຖາວອນໄດ້, ບໍ່ຕໍ່ກວ່າ 10 ວັນກ່ອນທີ່ຈະໄດ້ປະສິດທິຜົນ
+        ວັນຂອງການປ່ຽນແປງ. ສະບັບທີ່ຜ່ານມາຂອງລະບຽບການເກັບຮັກສາໄວ້ໃນການຮວບຮວມເອກະສານຂອງບໍລິສັດ.
+      p_1_5: 15. ລະບຽບການເຫຼົ່ານີ້ໄດ້ຮັບການພັດທະນາແລະໄດ້ຖືກນໍາໃຊ້ໃຫ້ສອດຄ່ອງກັບສັນຍາຂອງຜູ້ໃຊ້.
+        ໃນກໍລະນີຂອງການຂັດແຍ້ງລະຫວ່າງລະບຽບການເຫຼົ່ານີ້ແລະເອກະສານຢ່າງເປັນທາງການຂອງບໍລິສັດ,
+        ລະບຽບການເຫຼົ່ານີ້ຕ້ອງໄດ້ຮັບການບັງຄັບໃຊ້.
+      p_1_6: 16. ໂດຍການນໍາໃຊ້ເວັບໄຊທ໌ໄດ້, ທ່ານຕົກລົງເຫັນດີກັບຂໍ້ກໍານົດແລະເງື່ອນໄຂຂອງການນະໂຍບາຍຄວາມເປັນສ່ວນຕົວນີ້.
+        ກະລຸນາອ່ານໃຫ້ເຂົາເຈົ້າລະມັດລະວັງ. ຖ້າຫາກວ່າທ່ານບໍ່ເຫັນດີກັບຂໍ້ກໍານົດຂອງນະໂຍບາຍຄວາມເປັນສ່ວນຕົວນີ້,
+        ຫຼືທ່ານຍັງບໍ່ທັນໄດ້ບັນລຸອາຍຸສູງສຸດຂອງ 18 ປີ, ທ່ານອາດຈະບໍ່ນໍາໃຊ້ເວັບໄຊທ໌ແລະບໍລິການຂອງຕົນ.
+        ໂດຍການນໍາໃຊ້ເວັບໄຊທ໌ໄດ້, ໂດຍບໍ່ສົນເລື່ອງບໍ່ວ່າຈະເປັນທ່ານເປັນຜູ້ໃຊ້ທີ່ຈົດທະບຽນຂອງ
+        Flutylove ຫຼືບໍ່, ທ່ານຢືນຢັນວ່າທ່ານໄດ້ຢ່າງເຕັມສ່ວນຍອມຮັບນະໂຍບາຍຄວາມເປັນສ່ວນຕົວນີ້,
+        ແລະຕົກລົງເຫັນດີປະຕິບັດຕາມມັນ.
+      the_website_using_conditions: ເວັບໄຊທ໌ການນໍາໃຊ້ເງື່ອນໄຂ
+      p_2_1: '21. ການນໍາໃຊ້ Flutylove ເວັບໄຊທ໌, ທ່ານຈໍາເປັນຕ້ອງລົງທະບຽນ. ຂໍ້ມູນຂ່າວສານດັ່ງຕໍ່ໄປນີ້ຄວນຈະໄດ້ຮັບການກໍານົດໄວ້ໃນໄລຍະການຈົດທະບຽນ:
+        ຊື່, ທີ່ຢູ່ອີເມວ, ບົດບາດຍິງຊາຍ, ວັນເດືອນປີເກີດຂໍ້ມູນສະຖານທີ່. ຜູ້ໃຊ້ອາດຈະສະຫນອງລາຍລະອຽດສ່ວນບຸກຄົນເພີ່ມເຕີມຢູ່ໃນ
+        / ຄວາມປາດຖະຫນາຂອງເຂົາເຈົ້າເອງ. ຜູ້ໃຊ້ສາມາດແກ້ໄຂຫລືປັບປຸງຂໍ້ມູນສ່ວນບຸກຄົນໃນທຸກເວລາ.
+        ບໍລິສັດມີສິດທີ່ຈະຮ້ອງຂໍໃຫ້ມີເອກະສານສະຫນັບສະຫນູນເພີ່ມເຕີມໃນກໍລະນີຂອງການປ່ຽນແປງບົດບາດຍິງຊາຍແລະວັນທີເດືອນປີເກີດຂອງຜູ້ໃຊ້ໄດ້.'
+      p_2_2: '22. ໂດຍອະນຸຍາດໃຫ້ເຂົ້າເຖິງໄດ້ເວັບໄຊທ໌ແລະການບໍລິການຂອງຕົນ, ບໍລິສັດ, ການສະແດງໃນລັກສະນະສົມເຫດສົມຜົນແລະໃນສາດສະຫນາທີ່ດີ,
+        ພິຈາລະນາວ່າຜູ້ໃຊ້: ຮູ້ວ່າສໍາລັບການຈົດທະບຽນໃນເວັບໄຊທ໌ທີ່ມັນເປັນສິ່ງຈໍາເປັນຈະມີອາຍຸຫລາຍກວ່າ
+        18 ປີ; ມີທັງຫມົດສິດໃນການຈະສາມາດລົງທະບຽນໃນເວັບໄຊທ໌ນີ້ແລະນໍາໃຊ້ມັນ; ສະແດງຂໍ້ມູນຂ່າວສານທີ່ຖືກຕ້ອງກ່ຽວກັບຕົນເອງ
+        / ຕົນເອງຕາມການຮ້ອງຂໍສໍາລັບການໃຊ້ບໍລິການຂອງເວັບໄຊທ໌ໄດ້; ແມ່ນຮູ້ວ່າຂໍ້ມູນສ່ວນບຸກຄົນກ່ຽວກັບເວັບໄຊທ໌,
+        ສະຫນອງໃຫ້ໂດຍຜູ້ໃຊ້, ອາດຈະກາຍເປັນທີ່ມີຢູ່ສໍາລັບຜູ້ຊົມໃຊ້ອື່ນໆຂອງເວັບໄຊທ໌ແລະອິນເຕີເນັດຜູ້ຊົມໃຊ້ເຊັ່ນດຽວກັນ,
+        ສາມາດໄດ້ຮັບການຄັດລອກແລະແຈກຢາຍໂດຍຜູ້ໃຊ້ອື່ນໆ; ແມ່ນຮູ້ວ່າບາງປະເພດຂອງຂໍ້ມູນຂ່າວສານ,
+        ການຍົກຍ້າຍກັບຜູ້ຊົມໃຊ້ອື່ນໆ, ບໍ່ສາມາດໄດ້ຮັບການໂຍກຍ້າຍອອກໂດຍຜູ້ໃຊ້; ແມ່ນຮູ້ຈັກກັບກົດລະບຽບເຫຼົ່ານີ້,
+        ເຫັນດີນໍາກັບເຂົາເຈົ້າແລະປະຕິບັດສິດທິທີ່ກໍານົດໄວ້ແລະພັນທະ.'
+      p_2_3: 23. ບໍລິສັດບໍ່ໄດ້ຢືນຢັນຄວາມຖືກຕ້ອງຂອງທີ່ໄດ້ຮັບ (ເກັບກໍາ) ຂໍ້ມູນກ່ຽວກັບຜູ້ຊົມໃຊ້ໄດ້,
+        ມີຂໍ້ຍົກເວັ້ນຂອງກໍລະນີໃນເວລາທີ່ການຢັ້ງຢືນດັ່ງກ່າວແມ່ນມີຄວາມຈໍາເປັນເພື່ອປະຕິບັດພັນທະຂອງບໍລິສັດກັບຜູ້ໃຊ້.
+      information_processing_objectives: ຂໍ້ມູນການປຸງແຕ່ງວັດຖຸປະສົງ
+      p_3_1: 31. ບໍລິສັດໄດ້ດໍາເນີນການການປະມວນຜົນຂໍ້ມູນກ່ຽວກັບຜູ້ຊົມໃຊ້, ລວມທັງຂໍ້ມູນສ່ວນບຸກຄົນຂອງເຂົາເຈົ້າ,
+        ໃນຄໍາສັ່ງເພື່ອປະຕິບັດພັນທະຂອງບໍລິສັດກັບຜູ້ຊົມໃຊ້ສໍາລັບການນໍາໃຊ້ຂອງເວັບໄຊທ໌ແລະການບໍລິການຂອງຕົນ.
+      p_3_2: 32 ບໍລິສັດມີສິດທິໃນການປະຕິບັດການປຸງແຕ່ງຂອງຂໍ້ມູນສ່ວນບຸກຄົນໂດຍບໍ່ມີການແຈ້ງໃຫ້ອົງການຄຸ້ມຄອງສໍາລັບການປົກປັກຮັກສາສິດທິຂອງຫົວຂໍ້ໃດຫນຶ່ງຂໍ້ມູນສ່ວນບຸກຄົນ.
+      structure_of_the_user_information: ໂຄງສ້າງຂອງຂໍ້ມູນຜູ້ໃຊ້
+      p_4_1: '41. ຂໍ້ມູນສ່ວນບຸກຄົນຂອງຜູ້ໃຊ້ປະກອບມີ:'
+      p_4_1_1: 4.1.1. ຊື່, ທີ່ຢູ່ອີເມວ, ບົດບາດຍິງຊາຍ, ວັນເດືອນປີເກີດ, ຂໍ້ມູນສະຖານທີ່,
+        ແລະເບີໂທລະສັບ, ທີ່ສະຫນອງໃຫ້ໂດຍຜູ້ຊົມໃຊ້ແລະຄວນຈະເປັນພຽງພໍພຽງແຕ່ສໍາລັບການຈົດທະບຽນໃນເວັບໄຊທ໌ໄດ້;
+      p_4_1_2: 4.1.2. ຂໍ້ມູນຂ່າວສານທີ່ສະຫນອງໃຫ້ໂດຍຜູ້ໃຊ້ (ສໍາລັບຮູບພາບການຍົກຕົວຢ່າງ,
+        ຂໍ້ມູນກ່ຽວກັບນິສັຍອັນຕະລາຍແລະອື່ນໆ);
+      p_4_1_3: 413. ສະຫນອງໃຫ້ນອກຈາກນັ້ນໂດຍຜູ້ໃຊ້ໂດຍອີງຕາມການຮ້ອງຂໍຂອງບໍລິສັດເພື່ອປະຕິບັດພັນທະຂອງບໍລິສັດກັບຜູ້ຊົມໃຊ້,
+        ປະກົດອອກຈາກຂໍ້ຕົກລົງຂອງຜູ້ໃຊ້. ບໍລິສັດມີສິດ, ໂດຍສະເພາະ, ເພື່ອຮ້ອງຂໍໃຫ້ຜູ້ໃຊ້ສໍາເນົາຂອງເອກະສານປະຈໍາຕົວຫຼືເອກະສານອື່ນໆທີ່ມີຊື່,
+        ບົດບາດຍິງຊາຍແລະວັນທີເດືອນປີເກີດ, ເຊັ່ນດຽວກັນກັບຂໍ້ມູນເພີ່ມເຕີມອື່ນໆທີ່, ການຕັດສິນໃຈຂອງບໍລິສັດ,
+        ຈະມີຄວາມຈໍາເປັນແລະ ພຽງພໍສໍາລັບການກໍານົດຂອງຜູ້ໃຊ້ດັ່ງກ່າວແລະຈະລົບລ້າງການທາລຸນແລະການລະເມີດສິດທິຂອງພາກສ່ວນທີສາມ.
+      p_4_2: '42. ການປຸງແຕ່ງຂໍ້ມູນຜູ້ຊົມໃຊ້ອື່ນໆຂອງໂດຍບໍລິສັດເວັບໄຊທ໌ການບໍລິຫານຍັງຂະບວນການຂໍ້ມູນອື່ນໆກ່ຽວກັບຜູ້ຊົມໃຊ້,
+        ຊຶ່ງປະກອບມີ:'
+      p_4_2_1: 421. ຂໍ້ມູນທົ່ວໄປ, ທີ່ໄດ້ຮັບອັດຕະໂນມັດໂດຍ http ເຄື່ອງແມ່ຂ່າຍໃນເວລາທີ່ການເຂົ້າເຖິງເວັບໄຊທ໌ແລະການປະຕິບັດຕິດຕໍ່ກັນຂອງຜູ້ໃຊ້
+        (IP-address ຂອງເຈົ້າພາບ, ປະເພດຂອງລະບົບປະຕິບັດການຂອງຜູ້ໃຊ້ໄດ້, ຫນ້າເວັບຕ່າງໆຂອງເວັບໄຊທ໌ໄດ້ໄປຢ້ຽມຢາມໂດຍຜູ້ໃຊ້).
+      p_4_2_2: 4.2.2. ຂໍ້ມູນທີ່ໄດ້ຮັບອັດຕະໂນມັດໃນເວລາທີ່ການເຂົ້າເຖິງເວັບໄຊທ໌ການນໍາໃຊ້ຫມາຍ
+        (cookies)
+      p_4_2_3: 423. ຂໍ້ມູນທີ່ໄດ້ຮັບເປັນຜົນມາຈາກການປະຕິບັດສະມາຊິກຂອງກ່ຽວກັບເວັບໄຊທ໌;
+      p_4_2_4: 424. ຂໍ້ມູນທີ່ໄດ້ຮັບເປັນຜົນມາຈາກການກະທໍາຂອງຜູ້ຊົມໃຊ້ອື່ນໆທີ່ກ່ຽວກັບເວັບໄຊທ໌ໄດ້.
+      p_5_1: '51. ການປຸງແຕ່ງຂໍ້ມູນສ່ວນບຸກຄົນແມ່ນການດໍາເນີນບົນພື້ນຖານຂອງຫຼັກການພື້ນຖານດັ່ງຕໍ່ໄປນີ້:
+        a) ຈຸດປະສົງທີ່ຖືກຕ້ອງແລະວິທີການຂອງການປຸງແຕ່ງຂອງຂໍ້ມູນສ່ວນບຸກຄົນ; b) ຄວາມສັດຊື່;
+        c) ປະຕິບັດຕາມຈຸດປະສົງການປຸງແຕ່ງຂໍ້ມູນສ່ວນບຸກຄົນທີ່ມີຈຸດປະສົງທີ່ກໍາຫນົດໄວ້ແລະໄດ້ປະກາດໃນເວລາທີ່ການເກັບກໍາຂໍ້ມູນສ່ວນບຸກຄົນ,
+        ເຊັ່ນດຽວກັນກັບປະຕິບັດຕາມຂອງຂໍ້ມູນຂອງບໍລິສັດໄດ້; d) ປະຕິບັດຕາມຂອງປະລິມານແລະປະເພດຂອງການປຸງແຕ່ງຂອງຂໍ້ມູນສ່ວນບຸກຄົນ,
+        ແລະປະຕິບັດຕາມວິທີການຂອງການປຸງແຕ່ງຂອງຂໍ້ມູນສ່ວນບຸກຄົນທີ່ມີຈຸດປະສົງຂອງການປຸງແຕ່ງຂອງຕົນໄດ້;
+        e) inadmissibility ຂອງການລວມຖານຂໍ້ມູນການສ້າງຕັ້ງສໍາລັບຈຸດປະສົງທີ່ບໍ່ສອດຄ່ອງ,
+        ປະກອບດ້ວຍຂໍ້ມູນສ່ວນບຸກຄົນ.'
+      p_5_1_1: 511. ການເກັບກໍາຂໍ້ມູນສ່ວນບຸກຄົນຂອງຜູ້ໃຊ້ແມ່ນປະຕິບັດກ່ຽວກັບເວັບໄຊທ໌ໃນເວລາທີ່ລົງທະບຽນ,
+        ເຊັ່ນດຽວກັນກັບໃນອະນາຄົດໃນເວລາທີ່ຜູ້ໃຊ້ເພີ່ມຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບຕົນເອງ /
+        ຕົນເອງການນໍາໃຊ້ເຄື່ອງມືເວັບໄຊທ໌ກ່ຽວກັບການລິເລີ່ມຂອງເຂົາ / ຂອງຕົນເອງ.
+      p_5_1_2: 512. ຂໍ້ມູນສ່ວນບຸກຄົນຂອງຜູ້ໃຊ້ຈະຖືກເກັບໄວ້ສະເພາະໃນຮູບແບບເອເລັກໂຕຣນິກແລະການປຸງແຕ່ງໂດຍການນໍາໃຊ້ລະບົບອັດຕະໂນມັດ,
+        ມີຂໍ້ຍົກເວັ້ນຂອງກໍລະນີທີ່ການປຸງແຕ່ງຄູ່ມືການໃຊ້ຂໍ້ມູນສ່ວນບຸກຄົນເປັນສິ່ງຈໍາເປັນໃນທັດສະນະຂອງກອງປະຊຸມຄວາມຕ້ອງການນິຕິບັນຍັດ.
+      p_5_1_3: 513. ຂໍ້ມູນສ່ວນຕົວຂອງຜູ້ໃຊ້ຍັງບໍ່ໄດ້ຮັບການຍົກຍ້າຍກັບພາກສ່ວນທີສາມໃດໆ,
+        ຍົກເວັ້ນໃນກໍລະນີສະຫນອງໃຫ້ສະແດງໂດຍລ​​ະບຽບການເຫຼົ່ານີ້ແລະຂໍ້ຕົກລົງຂອງຜູ້ໃຊ້.
+        ດ້ວຍຄວາມຍິນຍອມຂອງຜູ້ໃຊ້ໄດ້, ຂໍ້ມູນຜູ້ໃຊ້ສ່ວນບຸກຄົນສາມາດໄດ້ຮັບການຕິດຕໍ່ກັບຄູ່ທີ່ສາມຂອງບໍລິສັດພາຍໃຕ້ເງື່ອນໄຂຂອງສົມມຸດຕິຖານຂອງພັນທະເພື່ອຮັບປະກັນຄວາມລັບຂອງຂໍ້ມູນທີ່ໄດ້ຮັບ,
+        ໂດຍສະເພາະ, ໃນເວລາທີ່ການນໍາໃຊ້ການບໍລິການແລະຄໍາຮ້ອງສະຫມັກ. ສະຫນອງຂໍ້ມູນຂອງຜູ້ໃຊ້ສ່ວນບຸກຄົນກ່ຽວກັບການຮ້ອງຂໍຂອງລັດຖະບານ
+        (ທ້ອງຖິ່ນ) ແມ່ນດໍາເນີນໃນຂັ້ນຕອນທີ່ຕ້ອງການໂດຍກົດຫມາຍວ່າດ້ວຍ.
+      p_5_1_4: '514. ຂໍ້ມູນຜູ້ໃຊ້ສ່ວນບຸກຄົນຈະຖືກລົບອອກໃນເວລາທີ່: - ຂໍ້ມູນຂອງຕົນເອງ,
+        ການລຶບຖິ້ມຈາກຫນ້າໂດຍຜູ້ໃຊ້ໄດ້; - ຫນ້າເປັນຂອງຕົນເອງ, ການລຶບໂດຍຜູ້ໃຊ້; - ຂໍ້ມູນຂອງຜູ້ໃຊ້ແລະຫນ້າສ່ວນບຸກຄົນຂອງຕົນຖືກໂຍກຍ້າຍອອກໂດຍບໍລິສັດໄດ້.
+        ໃນກໍລະນີຂອງການລົບຫນ້າໂດຍຜູ້ໃຊ້ຕົວມັນເອງ, ບໍລິສັດເກັບຂໍ້ມູນສ່ວນບຸກຄົນຂອງຜູ້ໃຊ້ໄດ້ກ່ຽວກັບການສື່ມວນຊົນເອເລັກໂຕຣນິກພາຍໃນ
+        210 ວັນຫຼັງຈາກຫນ້າສ່ວນບຸກຄົນທີ່ຖືກຍ້າຍອອກ. ຂໍ້ມູນສ່ວນບຸກຄົນຈະຖືກລົບອອກຕາມສິ້ນສຸດຂອງການ
+        210 ມື້ຫຼັງຈາກການຫນ້າສ່ວນບຸກຄົນທີ່ຖືກຍ້າຍອອກ. ຈົນກ່ວາໄລຍະເວລານີ້ຫມົດອາຍຸຂອງຜູ້ໃຊ້ມີສິດທິໃນການຟື້ນຟູຫນ້າສ່ວນບຸກຄົນໄດ້.'
+      users_rights_and_obligations: ສິດແລະພັນທະຂອງຜູ້ໃຊ້ຂອງ
+      p_6_1: '61. ຜູ້ໃຊ້ທີ່ມີສິດທິໃນການ:'
+      p_6_1_1: 611. ການເຂົ້າເຖິງຂໍ້ມູນຂ່າວສານກ່ຽວກັບການໃຫ້ເຂົາ / ນາງໂດຍບໍ່ມີຂໍ້ຈໍາກັດແລະຄ່າໃຊ້ຈ່າຍໂດຍການແກ້ໄຂຫນ້າສ່ວນບຸກຄົນຂອງຕົນກ່ຽວກັບເວັບໄຊທ໌ໄດ້ມີການນໍາໃຊ້ເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານ;
+      p_6_1_2: 6.1.2. ເປັນອິດສະຫຼະເຮັດໃຫ້ການປ່ຽນແປງແລະແກ້ໄຂເພື່ອໃຫ້ຂໍ້ມູນກ່ຽວກັບຫນ້າສ່ວນບຸກຄົນຂອງຜູ້ໃຊ້ໄດ້ກ່ຽວກັບເວັບໄຊທ໌ໄດ້,
+        ໃນສະພາບທີ່ປ່ຽນແປງດັ່ງກ່າວແລະການກວດແກ້ມີຂຶ້ນກັບ, ວັນທີແລະຂໍ້ມູນທີ່ແທ້ຈິງ;
+      p_6_1_3: 6.1.3. ເອົາຂໍ້ມູນຈາກຫນ້າສ່ວນຕົວກ່ຽວກັບເວັບໄຊທ໌ໄດ້;
+      p_6_1_4: 6.1.4. ຮ້ອງຂໍໃຫ້ບໍລິສັດທີ່ຈະໄດ້ຮັບຂໍ້ມູນເພີ່ມເຕີມ, ບລັອກຫລືລົບຂໍ້ມູນສ່ວນບຸກຄົນ,
+        ຖ້າຫາກວ່າຂໍ້ມູນດັ່ງກ່າວແມ່ນບໍ່ຄົບຖ້ວນ, outdated, ບໍ່ຖືກຕ້ອງ, ໄດ້ຮັບການຜິດກົດຫມາຍຫຼືບໍ່ມີຄວາມຈໍາເປັນສໍາລັບຈຸດປະສົງການປະກາດຂອງການປຸງແຕ່ງຫຼືຖ້າຫາກວ່າການປະຕິບັດທີ່ລະບຸໄວ້ໃນວັກ
+        613 ຂອງເຫຼົ່ານີ້ ກົດລະບຽບບໍ່ສາມາດໄດ້ຮັບການປະຕິບັດເປັນອິດສະຫຼະ;
+      p_6_1_5: 6.1.5. ບົນພື້ນຖານຂອງການຮ້ອງຂໍໄດ້, ໄດ້ຮັບຂໍ້ມູນຈາກບໍລິສັດກ່ຽວກັບການປຸງແຕ່ງຂອງ
+        / ຂໍ້ມູນສ່ວນບຸກຄົນຂອງເຂົາເຈົ້າໄດ້.
+      p_6_2: '62. ຂໍ້ມູນຂ່າວສານດັ່ງຕໍ່ໄປນີ້ກ່ຽວກັບຜູ້ໃຊ້ເວັບໄຊທ໌ການຈົດທະບຽນແມ່ນສະເຫມີໄປສາມາດໃຊ້ໄດ້ກັບຜູ້ໃຊ້ທີ່ຈົດທະບຽນ:
+        ຊື່, ເພດ, ອາຍຸ, ຮູບພາບຂໍ້ມູນສ່ວນຕົວແລະຂໍ້ມູນອື່ນໆຖ້າຫາກວ່າຜູ້ໃຊ້ໄດ້ລົງມັນ.'
+      p_6_3: 63. ບໍລິສັດ bears ຄວາມຮັບຜິດຊອບສໍາລັບການເປີດເຜີຍຂໍ້ມູນສ່ວນບຸກຄົນຂອງຜູ້ໃຊ້ໄດ້ໂດຍຜູ້ໃຊ້ອື່ນໆຂອງເວັບໄຊທ໌ຜູ້ທີ່ມີການເຂົ້າເຖິງຂໍ້ມູນດັ່ງກ່າວບໍ່ມີ.
+      p_6_4: 64. ໃນກໍລະນີຂອງຂໍ້ມູນສ່ວນບຸກຄົນ (ຂໍ້ມູນຜູ້ຊົມໃຊ້ອື່ນໆ) ການໂຍກຍ້າຍຈາກຫນ້າສ່ວນຕົວຂອງຜູ້ໃຊ້ຂອງຫຼືການປົດຕໍາແຫນ່ງຂອງຫນ້າສ່ວນບຸກຄົນຂອງຜູ້ໃຊ້ໄດ້ຈາກເວັບໄຊທ໌ຂໍ້ມູນຂອງຜູ້ໃຊ້ໄດ້ຄັດລອກໂດຍຜູ້ໃຊ້ອື່ນໆຫຼືເກັບຮັກສາໄວ້ຢູ່ຫນ້າຜູ້ອື່ນຖືກຮັກສາໄວ້.
+      users_information_protection_measures: ຜູ້ໃຊ້ມາດຕະການປົກປັກຮັກສາຂໍ້ມູນຂ່າວສານ
+      p_7_1: 71. ບໍລິສັດໃຊ້ເວລາມາດຕະການດ້ານວິຊາການ, ການຈັດຕັ້ງແ​​ລະທາງດ້ານກົດຫມາຍເພື່ອຮັບປະກັນວ່າຂໍ້ມູນສ່ວນບຸກຄົນຂອງຜູ້ໃຊ້ໄດ້ຮັບການປົກປ້ອງຈາກການເຂົ້າເຖິງຮັບອະນຸຍາດຫຼືອຸບັດຕິເຫດ,
+        ການລຶບ, ການດັດແກ້, ສະກັດ, ສໍາເນົາແລະການເຜີຍແຜ່ເຊັ່ນດຽວກັນກັບຈາກການກະທໍາຮັບອະນຸຍາດອື່ນໆ.
+      p_7_2: 72. ເຂົ້າສູ່ລະບົບຜູ້ໃຊ້ຂອງ (ທີ່ຢູ່ອີເມວຫຼືເບີໂທລະສັບມືຖື) ແລະລະຫັດຜ່ານໄດ້ຖືກນໍາໃຊ້ໃນການເຂົ້າເຖິງເວັບໄຊທ໌ໄດ້.
+        ຜູ້ໃຊ້ທີ່ຮັບຜິດຊອບສໍາລັບການຮັກສາຂໍ້ມູນນີ້ເປັນຄວາມລັບ. ຜູ້ໃຊ້ອາດຈະບໍ່ໂອນໄດ້ເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານທີ່ຈະພາກສ່ວນທີສາມແລະຍັງມີຫນ້າທີ່ຕ້ອງໃຊ້ມາດຕະການເພື່ອຮັບປະກັນຄວາມລັບຂອງຕົນ.
+      limitation_of_the_regulations_applicability: ຂອບເຂດຂອງກົດລະບຽບການນໍາໃຊ້
+      p_8: ລະບຽບການເຫຼົ່ານີ້ບໍ່ໄດ້ຂະຫຍາຍການປະຕິບັດງານແລະຊັບພະຍາກອນອິນເຕີເນັດຂອງພາກສ່ວນທີສາມ.
+        ບໍລິສັດ bears ຄວາມຮັບຜິດຊອບສໍາລັບການກະທໍາຂອງບຸກຄົນທີ່ສາມທີ່ໄດ້ຮັບການເຂົ້າເຖິງຂໍ້ມູນຂອງຜູ້ໃຊ້ຜ່ານອິນເຕີເນັດຫຼືການບໍລິການເວັບໄຊທ໌ທີ່ບໍ່ມີ.
+        ການບໍລິຫານເວັບໄຊທ໌ແນະນໍາໃຫ້ກັບຜູ້ໃຊ້ໃນການວິທີການບັນຫາທີ່ມີຈໍານວນເງິນຂອງຂໍ້ມູນຂ່າວສານຈັດພີມມາກ່ຽວກັບເວັບໄຊທ໌ໃນລັກສະນະຄວາມຮັບຜິດຊອບ.
+      user_requests: ການຮ້ອງຂໍ User
+      p_9_1: '91. ຜູ້ໃຊ້ມີສິດທີ່ຈະສົ່ງຄໍາຂໍເປັນບໍລິສັດລວມທັງການຮ້ອງຂໍກ່ຽວກັບການນໍາໃຊ້ຂໍ້ມູນສ່ວນບຸກຄົນໃນຮູບແບບລາຍລັກອັກສອນທີ່ຢູ່ດັ່ງຕໍ່ໄປນີ້:
+        ລັດເຊຍ, 101000, Moscow, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye 1
+        ຫຼືໃນຮູບແບບຂອງເອກະສານເອເລັກໂຕຣນິກ ລົງນາມໂດຍມີລາຍເຊັນເອເລັກໂຕຣນິກທີ່ມີຄຸນນະໃນສອດຄ່ອງກັບກົດຫມາຍຂອງສະຫະພັນລັດເຊຍ,
+        ຜ່ານທາງອີເມວ: support@flutylove.com.'
+      p_9_2: '92. ການຮ້ອງຂໍຜູ້ໃຊ້ຂອງຕ້ອງປະກອບດ້ວຍຂໍ້ມູນຂ່າວສານດັ່ງຕໍ່ໄປນີ້: ຈໍານວນຂອງເອກະສານການກໍານົດຂອງຜູ້ໃຊ້ຫຼືຕົວແທນຂອງຕົນ;
+        ວັນທີຂອງບັນຫາຂອງເອກະສານຢູ່ຂ້າງເທິງແລະສິດອໍານາດບັນຫາ; ຂໍ້ມູນການຢືນຢັນການມີສ່ວນຮ່ວມຂອງຜູ້ໃຊ້ໄດ້ໃນການພົວພັນກັບປະຕິບັດການ
+        (ໂດຍສະເພາະ, ການເຊື່ອມຕໍ່ຈາກຫນ້າ) ລາຍເຊັນຂອງສະມາຊິກຫຼື / ຜູ້ຕາງຫນ້າຂອງເຂົາເຈົ້າ.'
+      p_9_3: 93. ຂອງບໍລິສັດດໍາເນີນການພິຈາລະນາແລະຕອບສະຫນອງຕໍ່ກັບຄໍາຮ້ອງຂໍຂອງຜູ້ໃຊ້ໄດ້ພາຍໃນ
+        30 ວັນຫຼັງຈາກທີ່ມັນໄດ້ຮັບ.
+      p_9_4: 94. ຈົດຫມາຍທັງຫມົດທີ່ໄດ້ຮັບໂດຍບໍລິສັດຈາກຜູ້ໃຊ້ (ລາຍລັກອັກສອນຫຼືການຮ້ອງຂໍເອເລັກໂຕຣນິກ)
+        ຖືກຈັດເປັນຂໍ້ມູນຂ່າວສານຈໍາກັດການເຂົ້າເຖິງແລະອາດຈະບໍ່ຖືກເປີດເຜີຍໂດຍບໍ່ມີການຍິນຍອມເຫັນດີລາຍລັກອັກສອນຂອງຜູ້ໃຊ້ໄດ້.
+        ຂໍ້ມູນສ່ວນຕົວແລະຂໍ້ມູນອື່ນໆກ່ຽວກັບຜູ້ໃຊ້ທີ່ສົ່ງການຮ້ອງຂໍອາດຈະບໍ່ໄດ້ຮັບການນໍາໃຊ້,
+        ໂດຍບໍ່ມີການຍິນຍອມເຫັນດີພິເສດຂອງຜູ້ໃຊ້ໄດ້, ທີ່ແຕກຕ່າງກ່ວາສໍາລັບການຕອບສະຫນອງຕາມການຮ້ອງຂໍຫຼືໃນກໍລະນີທີ່ສະຫນອງໃຫ້ຢ່າງຊັດເຈນໂດຍກົດຫມາຍສາມາດນໍາໃຊ້.
+    terms:
+      terms: ສັນຍາ User Flutylove
+      welcome: ຍິນດີຕ້ອນຮັບ Flutylove!
+      about_terms: 'ເງື່ອນໄຂໃນການນໍາໃຊ້ (ເຊັ່ນດຽວກັນກັບເອກະສານທີ່ໄດ້ກ່າວມານີ້, ລວມທັງນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ)
+        ແມ່ນສັນຍາຂອງການຍືດຫມັ້ນໃນສອດຄ່ອງກັບມາດຕາ 428 ຂອງພົນລະເຮືອນລະຫັດຂອງສະຫະພັນລັດເຊຍ
+        (ອ້າງເຖິງ hereinafter ກັບເປັນ "ສັນຍາ") ລະຫວ່າງ ບຸກຄົນຜູ້ທີ່ໄດ້ບັນລຸ 18 ປີຂອງອາຍຸສູງສຸດ
+        (ອ້າງເຖິງ hereinafter ກັບເປັນ "ສະມາຊິກ" ແລະບໍລິສັດ (ຫຼື "ພວກເຮົາ") - ຂອບເຂດຈໍາກັດຄວາມຮັບຜິດຊອບບໍລິສັດ
+        "Technoelegance" (LLC "Technoelegance") (ທີ່ຢູ່ທາງດ​​້ານກົດຫມາຍ: 101000, Moscow,
+        Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye 1), ຕໍ່ໄປນີ້ເອີ້ນວ່າ Flutylove,
+        ອີງຕາມການທີ່ທ່ານສາມາດນໍາໃຊ້ເວັບໄຊທ໌ນີ້ແລະການບໍລິການທີ່ກ່ຽວຂ້ອງທັງຫມົດທີ່ສະຫນອງໃຫ້ໂດຍຜ່ານການເວັບໄຊທ໌ຫຼືຄໍາຮ້ອງສະຫມັກ
+        (ເອີ້ນເປັນ "ການບໍລິການ"). ເວັບໄຊທ໌ຈະເຂົ້າໃຈຫມາຍຄວາມວ່າທຸກຂອງ ສະບັບຂອງຕົນ,
+        ການອະນຸຍາດພາຍໃຕ້ຊື່ໂດເມນ flutylove.com ແລະດໍາເນີນການສໍາລັບຊະນິດຂອງອຸປະກອນ,
+        ລວມທັງສະບັບເວັບໄຊຕ໌, ຄໍາຮ້ອງສະຫມັກໂທລະສັບມືຖືແລະຄໍາຮ້ອງສະຫມັກສໍາລັບການເຄືອຂ່າຍສັງຄົມ.ໂດຍການນໍາໃຊ້ເວັບໄຊທ໌ນີ້ທ່ານຕົກລົງເຫັນດີກັບຂໍ້ກໍານົດຂອງສັນຍາແລະນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ.
+        ກະລຸນາອ່ານໃຫ້ເຂົາເຈົ້າລະມັດລະວັງ. ຖ້າຫາກວ່າທ່ານບໍ່ເຫັນດີກັບຂໍ້ກໍານົດຂອງສັນຍາແລະນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ,
+        ຫຼືທ່ານຍັງບໍ່ທັນໄດ້ບັນລຸອາຍຸສູງສຸດຂອງ 18 ປີ, ທ່ານອາດຈະບໍ່ນໍາໃຊ້ເວັບໄຊທ໌ແລະບໍລິການຂອງຕົນ.ໂດຍການນໍາໃຊ້ເວັບໄຊທ໌,
+        ໂດຍບໍ່ສົນເລື່ອງທີ່ທ່ານກໍາລັງລົງທະບຽນສະມາຊິກຂອງ Flutylove ຫຼືບໍ່, ທ່ານຕົກລົງເຫັນດີຢ່າງສົມບູນກັບສັນຍານີ້ແລະນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງພວກເຮົາ,
+        ທີ່ຖືກລວມເຂົ້າໃນສັນຍາສະບັບນີ້ໂດຍການເຊື່ອມຕໍ່ແລະແມ່ນມີຢູ່ໃນເວັບໄຊທ໌, ແລະປະຕິບັດຕາມມັນ.ກ່ຽວກັບການຮ້ອງຂໍຂອງຜູ້ໃຊ້,
+        ບໍລິສັດໄດ້ດໍາເນີນການເຊັນຂໍ້ຕົກລົງນີ້ໃນຮູບແບບ hardcopy ແລະສົ່ງໄປທີ່ບຸກຄົນທີ່ຮ້ອງຂໍເອກະສານ.ບໍລິສັດສະຫງວນສິດທີ່ຈະປັບປຸງແກ້ໄຂສັນຍາຂອງຜູ້ໃຊ້ແລະເອກະສານຫມາຍເຖິງມັນ.
+        ຈະຮູ້ເຖິງການປ່ຽນແປງທີ່ທ່ານຕ້ອງການທີ່ຈະຮັກສາຂຶ້ນກັບ, ວັນທີຂໍ້ມູນຂ່າວສານກ່ຽວກັບການປ່ຽນແປງດັ່ງກ່າວເປັນປົກກະຕິ.
+        ພວກເຮົາຈະແຈ້ງໃຫ້ທ່ານກ່ຽວກັບການປ່ຽນແປງທີ່ພວກເຮົາໄດ້ຢູ່ໃນຫນ້ານີ້ຂ້າງລຸ່ມນີ້.
+        ການປ່ຽນແປງບໍ່ກ່ຽວຂ້ອງກັບຄືນໄປບ່ອນແລະຈະມີຜົນສັກສິດພາຍໃນສິບວັນນັບຈາກວັນທີຂອງການພິມເຜີຍແຜ່.
+        ຢ່າງໃດກໍຕາມ, ໃນກໍລະນີພວກເຂົາເຈົ້າທີ່ກ່ຽວຂ້ອງກັບການປະຕິບັດຂອງບໍລິການໃຫມ່ຫຼືການປ່ຽນແປງຂອງກົດຫມາຍດັ່ງກ່າວ,
+        ມັນຈະໄດ້ຮັບການນໍາໃຊ້ໃນທັນທີ. ຖ້າຫາກວ່າທ່ານບໍ່ເຫັນດີກັບການປ່ຽນແປງໃນຂໍ້ຕົກລົງ,
+        ທ່ານຕ້ອງໄດ້ຢຸດການນໍາໃຊ້ເວັບໄຊທ໌ແລະຄໍາຮ້ອງສະຫມັກຂອງຕົນ.'
+      consent_to_accept_the_terms_of_user_agreement: 1 ຍິນຍອມເຫັນດີກັບການຍອມຮັບເງື່ອນໄຂຂອງຂໍ້ຕົກລົງຂອງຜູ້ໃຊ້.
+      p_1: ໄດ້. ສັນຍາເອເລັກໂຕຣນິກ. ຂໍ້ຕົກລົງນີ້ແມ່ນການສະບັບເອເລັກໂຕຣນິກຂອງການເຮັດສັນຍາ,
+        ເຊິ່ງອະທິບາຍເງື່ອນໄຂຂອງການນໍາໃຊ້ຂອງເວັບໄຊທ໌ແລະການບໍລິການ. ໂດຍການຕັດໄມ້ເພື່ອເວັບໄຊທ໌ຫຼືເປັນຜູ້ໃຊ້,
+        ທ່ານຍອມຮັບຂໍ້ຕົກລົງນີ້ແລະຕົກລົງເຫັນດີກັບທຸກເງື່ອນໄຂ, ເງື່ອນໄຂແລະແຈ້ງການທີ່ໄດ້ຖືກບັນຈຸຫລືອ້າງອິງບໍ່ມີ.
+        ທ່ານຢືນຢັນແລະຕົກລົງເຫັນດີວ່າຜູ້ໃຊ້ Flutylove ອາດຈະເປັນສ່ວນຫນຶ່ງຂອງຊຸມຊົນອອນໄລນ໌ທີ່ປະກອບມີເວັບໄຊທ໌ອື່ນໆທີ່ເປັນຂອງບໍລິສັດຫຼືສາຂາຂອງຕົນໄດ້.
+        ເພາະສະນັ້ນ, ຂໍ້ມູນກ່ຽວກັບເວັບໄຊທ໌ທີ່ສາມາດເບິ່ງໄດ້ຢູ່ໃນເວັບໄຊທ໌ທີ່ຄ້າຍຄືກັນແລະຈ່າຍຄ່າຈອງຈາກເວັບໄຊທ໌ສາມາດຕິດຕໍ່ສື່ສານກັບຈອງຈ່າຍອື່ນໆຈາກເວັບໄຊທ໌ທັງຫມົດ.
+        b. ແບບຟອມເອເລັກໂຕຣນິກ. ໂດຍການຕັດໄມ້ເພື່ອເວັບໄຊທ໌ຫຼືເປັນຜູ້ໃຊ້, ທ່ານຍິນຍອມເຫັນດີເພື່ອໃຫ້ທ່ານທີ່ມີສັນຍາເອເລັກໂຕຣນິກ.
+        c. ຮູບແບບ hardcopy. ທ່ານມີສິດທີ່ຈະໄດ້ຮັບ hardcopy ຂອງສັນຍານີ້ໄດ້. ທ່ານສາມາດຮ້ອງຂໍໃຫ້ມີສະບັບ
+        hardcopy ຂອງສັນຍານີ້ກ່ອນຫຼືຫຼັງຈາກທີ່ມັນຈະໄດ້ຮັບການລົງນາມຢູ່ໃນຮູບແບບເອເລັກໂຕຣນິກ.
+        ກະລຸນາ, ຕິດຕໍ່ຫາບໍລິການລູກຄ້າຂອງພວກເຮົາສໍາລັບຂໍ້ມູນເພີ່ມເຕີມ. d. ການເຂົ້າເຖິງແລະການດາວໂຫຼດ.
+        ໃນຄໍາສັ່ງທີ່ຈະເຂົ້າເຖິງແລະດາວນ໌ໂຫລດຂໍ້ຕົກລົງເອເລັກໂຕຣນິກນີ້, ທ່ານຈະຕ້ອງມີການເຂົ້າເຖິງອິນເຕີເນັດໄດ້ໂດຍກົງຫຼືໂດຍຜ່ານການອຸປະກອນທີ່ມີການເຂົ້າເຖິງຊັບພະຍາກອນເວັບໄຊຕ໌.
+        ທ່ານຈໍາເປັນຕ້ອງມີອຸປະກອນຈໍາເປັນເພື່ອເຊື່ອມຕໍ່ອິນເຕີເນັດ, ຊື່ຄອມພິວເຕີ, ໂມເດັມຫລືອຸປະກອນການເຂົ້າເຖິງອື່ນໆ.
+        ກະລຸນາ, ພິມສໍາເນົາຂອງສັນຍາສະບັບນີ້ແລະຮັກສາມັນ. , ເພື່ອດາວໂຫລດຮູບແບບເອເລັກໂຕຣນິກຂອງສັນຍາດັ່ງກ່າວ,
+        ຊ່ວຍປະຢັດກັບຄອມພິວເຕີຂອງທ່ານໂດຍການຊ່ວຍເຫຼືອຂອງບັນນາທິການຫນັງສືໃດຫນຶ່ງ.
+      the_right_of_using_the_website: 2. ທຸກໆສິດທິຂອງການນໍາໃຊ້ເວັບໄຊທ໌ໄດ້.
+      p_2: ທ່ານຈະຕ້ອງຢູ່ຢ່າງຫນ້ອຍສິບແປດ (18) ປີທີ່ຈະກາຍເປັນຜູ້ໃຊ້ທີ່ລົງທະບຽນຂອງເວັບໄຊທ໌ນີ້.
+        ໃນກໍລະນີບໍ່ປະຕິບັດຕາມຄວາມຕ້ອງການ, ການເຂົ້າເຖິງເວັບໄຊທ໌ຈະໄດ້ຮັບການປະຕິເສດ.
+        ການນໍາໃຊ້ເວັບໄຊທ໌ໄດ້, ຜູ້ໃຊ້ຄວນຈະຮູ້ວ່າຂໍ້ມູນສ່ວນບຸກຄົນການຈັດພີມມາກ່ຽວກັບເວັບໄຊທ໌ສາມາດມີສໍາລັບຜູ້ຊົມໃຊ້ອິນເຕີເນັດອື່ນໆ,
+        ແລະບໍລິສັດຈະບໍ່ຮັບຜິດຊອບຄວາມຮັບຜິດຊອບສໍາລັບການປະຕິບັດຂອງເຂົາເຈົ້າ. ໂດຍການນໍາໃຊ້ເວັບໄຊທ໌ນີ້ທີ່ທ່ານຫມັ້ນໃຈແລະດໍາເນີນການທີ່ທ່ານມີສິດ,
+        ອໍານາດແລະຄວາມເປັນໄປໄດ້ທີ່ຈະເຂົ້າໄປໃນສັນຍານີ້, ແລະການຍິນຍອມປະຕິບັດຕາມຂໍ້ກໍານົດແລະເງື່ອນໄຂທັງຫມົດຂອງຕົນ.
+        ເປັນຜູ້ໃຊ້ທີ່ທ່ານຫມັ້ນໃຈແລະດໍາເນີນການທີ່ທ່ານບໍ່ເຄີຍໄດ້ຮັບປະສົບການຄວາມເຊື່ອຫມັ້ນສໍາລັບການກະທໍາຜິດທາງອາຍາກ່ຽວຂ້ອງກັບຄວາມຮຸນແຮງທາງເພດ.
+        ເວັບໄຊທ໌ໄດ້ຖືກອອກແບບສໍາລັບການນໍາໃຊ້ສ່ວນບຸກຄົນເທົ່ານັ້ນ. ມັນຖືກຫ້າມບໍ່ໃຫ້ນໍາໃຊ້ເວັບໄຊທ໌ສໍາລັບຈຸດປະສົງການຄ້າໃດໆ.
+        ນິຕິບຸກຄົນຂອງບໍລິສັດບໍ່ສາມາດເປັນສະມາຊິກຂອງເວັບໄຊທ໌ນີ້, ເຊັ່ນດຽວກັນກັບບໍ່ສາມາດໃຊ້ບໍລິການນີ້ຫຼືເວັບໄຊທ໌ກ່ຽວກັບຈຸດປະສົງຂອງເຂົາເຈົ້າ.
+        ຜິດກົດຫມາຍແລະ / ຫຼືຮັບອະນຸຍາດການນໍາໃຊ້ຂອງເວັບໄຊທ໌, ລວມທັງການເກັບກໍາຊື່ຜູ້ໃຊ້ແລະ
+        / ຫຼືທີ່ຢູ່ອີເມວໂດຍການຊ່ວຍເຫຼືອຂອງເຄື່ອງມືເອເລັກໂຕຣນິກຫຼືອື່ນໆສໍາລັບຈຸດປະສົງຂອງການສົ່ງຂໍ້ຄວາມບໍ່ພຶງປະສົງແລະການເຊື່ອມຕໍ່ໄດ້ຖືກສະແຫວງຫາແລະບໍລິສັດອາດຈະໃຊ້ເວລາການປະຕິບັດທີ່ເຫມາະສົມຕາມກົດຫມາຍ,
+        ລວມທັງ ຂໍອຸທອນກັບການບັງຄັບໃຊ້ກົດຫມາຍ.
+      pricing_and_registration: 3 ລາຄາແລະການຈົດທະບຽນ
+      p_3: ທ່ານສາມາດກາຍເປັນຜູ້ໃຊ້ຂອງ Flutylove ໃນ freewill ແລະພື້ນຖານທີ່ຮັບຜິດຊອບໂດຍການລົງທະບຽນກ່ຽວກັບເວັບໄຊທ໌ໄດ້.
+        ໃນຖານະເປັນຜູ້ໃຊ້, ທ່ານອາດຈະນໍາໃຊ້ລະດັບການສະເພາະຂອງການບໍລິການແລະໂອກາດຂອງເວັບໄຊທ໌ໄດ້.
+        ຜູ້ໃຊ້ຂອງເວັບໄຊທ໌ເປັນບຸກຄົນໄດ້ລົງທະບຽນໃນເວັບໄຊທ໌ທີ່ອີງຕາມຄໍາສັ່ງການສ້າງຕັ້ງຂຶ້ນແລະຜູ້ທີ່ໄດ້ບັນລຸໄດ້
+        18 ປີຂອງອາຍຸສູງສຸດ. ໃນເວລາທີ່ທະບຽນໃນເວັບໄຊທ໌ຂອງຜູ້ໃຊ້ແມ່ນຕ້ອງໄດ້ສະຫນອງຂໍ້ມູນທີ່ຈໍາເປັນແລະກ່ຽວຂ້ອງສໍາລັບການບໍລິສັດເພື່ອໃຫ້ສໍາເລັດຫນ້າຜູ້ໃຊ້,
+        ລວມທັງການເຂົ້າສູ່ລະບົບ (ທີ່ຢູ່ອີເມວຫຼືເບີໂທລະສັບ) ແລະລະຫັດຜ່ານສໍາລັບການເຂົ້າເຖິງເວັບໄຊທ໌ໄດ້,
+        ເຊັ່ນດຽວກັນກັບຊື່, ທີ່ມີ ແມ່ນເປັນເອກະລັກສໍາລັບຜູ້ໃຊ້ທຸກຄົນ. ຮູບແບບສໍາລັບການຈົດທະບຽນສາມາດຮ້ອງຂໍຂໍ້ມູນເພີ່ມເຕີມຈາກຜູ້ໃຊ້.
+        ຜູ້ໃຊ້ທີ່ຮັບຜິດຊອບສໍາລັບຄວາມຖືກຕ້ອງ, ຄວາມເປັນຈິງ, ຄົບຖ້ວນແລະສອດຄ່ອງກັບກົດຫມາຍວ່າດ້ວຍຂອງສະຫະພັນລັດເຊຍຂອງຂໍ້ມູນຂ່າວສານທີ່ສະຫນອງໃຫ້ຢູ່ໃນການຈົດທະບຽນ,
+        ແລະຊັດເຈນຈາກການຮຽກຮ້ອງຂອງພາກສ່ວນທີສາມ. ໃນເວລາທີ່ລົງທະບຽນຜູ້ໃຊ້ຕົກລົງເຫັນດີກັບສັນຍານີ້ແລະດໍາເນີນການສິດທິກໍານົດໄວ້ແລະພາລະຜູກພັນ,
+        ທີ່ກ່ຽວຂ້ອງກັບການນໍາໃຊ້ແລະການເຮັດວຽກຂອງເວັບໄຊທ໌ໄດ້. ຜູ້ໃຊ້ໄດ້ຮັບການເຂົ້າເຖິງຢ່າງເຕັມທີ່ກັບການນໍາໃຊ້ຂອງຫນ້າເວັບໄຊທ໌ໄດ້.
+        ບໍລິສັດປະຕິບັດສິດທິແລະພັນທະໃນການຂອງຜູ້ໃຊ້, ກໍານົດໄວ້ໃນລະບຽບການເຫຼົ່ານີ້, ຫຼັງຈາກການລົງທະບຽນສົບຜົນສໍາເລັດຂອງຜູ້ໃຊ້ໃນເວັບໄຊທ໌ການປຸງແຕ່ງຂໍ້ມູນສ່ວນບຸກຄົນຂອງສະມາຊິກຂອງແມ່ນອີງຕາມກົດຫມາຍວ່າດ້ວຍຂອງສະຫະພັນລັດເຊຍ.
+        ການບໍລິຫານເວັບໄຊທ໌ຂະບວນການຂໍ້ມູນສ່ວນບຸກຄົນຂອງຜູ້ໃຊ້ໃນຄໍາສັ່ງທີ່ຈະໃຫ້ຜູ້ຊົມໃຊ້ທີ່ມີການເຂົ້າເຖິງການນໍາໃຊ້ຂອງຫນ້າເວັບໄຊທ໌,
+        ລວມທັງການໄດ້ຮັບສ່ວນບຸກຄົນ (ເປົ້າຫມາຍ) ໂຄສະນາການ; ການຢັ້ງຢືນ, ການຄົ້ນຄວ້າແລະການວິເຄາະຂອງຂໍ້ມູນເຫລົ່ານັ້ນ,
+        ໃຫ້ການສະຫນັບສະຫນູນແລະປັບປຸງການເຮັດວຽກແລະພາກສ່ວນຂອງເວັບໄຊທ໌ໄດ້, ເຊັ່ນດຽວກັນກັບການພັດທະນາຫນ້າທີ່ໃຫມ່ແລະພາກສ່ວນ.
+        ບໍລິສັດຈະປະຕິບັດທີ່ຈໍາເປັນທັງຫມົດເພື່ອປົກປັກຮັກສາຂໍ້ມູນສ່ວນບຸກຄົນຂອງຜູ້ໃຊ້ກັບການເຂົ້າເຖິງຮັບອະນຸຍາດ,
+        ການປ່ຽນແປງ, ການເປີດເຜີຍຫຼືລົບ. ບໍລິສັດໃຫ້ການເຂົ້າເຖິງຂໍ້ມູນສ່ວນບຸກຄົນຂອງຜູ້ໃຊ້ພຽງແຕ່ຜູ້ພະນັກງານ,
+        ຜູ້ຮັບເຫມົາແລະຕົວແທນຂອງບໍລິສັດ, ຜູ້ທີ່ຕ້ອງການຂໍ້ມູນນີ້ໃນຄໍາສັ່ງທີ່ຈະສະຫນັບສະຫນູນການເຮັດວຽກເວັບໄຊທ໌ແລະເພື່ອໃຫ້ຜູ້ໃຊ້ທີ່ມີການເຂົ້າເຖິງການນໍາໃຊ້ຂອງຕົນ.
+        ບໍລິສັດຂອງເວັບໄຊທ໌ທີ່ມີສິດທິໃນການນໍາໃຊ້ຂໍ້ມູນຂ່າວສານສະຫນອງໃຫ້ໂດຍຜູ້ໃຊ້, ລວມທັງຂໍ້ມູນສ່ວນບຸກຄົນ,
+        ໃນຄໍາສັ່ງເພື່ອຮັບປະກັນປະຕິບັດຕາມຂໍ້ກໍານົດຂອງກົດຫມາຍໃນປະຈຸບັນຂອງສະຫະພັນລັດເຊຍໄດ້
+        (ລວມທັງການປ້ອງກັນແລະ / ຫຼືສະກັດກັ້ນການທີ່ຜິດກົດຫມາຍແລະ / ຫຼືທີ່ຜິດກົດຫມາຍເປັນ
+        ການກະທໍາຂອງຜູ້ຊົມໃຊ້). ການເປີດເຜີຍຂໍ້ມູນຂ່າວສານສະຫນອງໃຫ້ໂດຍຜູ້ໃຊ້ອາດຈະໄດ້ຮັບພຽງແຕ່ໃນສອດຄ່ອງກັບກົດຫມາຍໃນປະຈຸບັນຂອງສະຫະພັນລັດເຊຍຕາມການສະເຫນີຂອງສານ,
+        ອົງການການບັງຄັບໃຊ້ກົດຫມາຍ, ເຊັ່ນດຽວກັນກັບໃນກໍລະນີອື່ນໆຕາມທີ່ໄດ້ສະຫນອງໃຫ້ໂດຍກົດຫມາຍສາມາດນໍາໃຊ້ຂອງສະຫະພັນລັດເຊຍ.
+        ໃນຂອບເຂດທີ່ບໍລິສັດປະມວນຜົນຂໍ້ມູນສ່ວນຕົວຂອງຜູ້ໃຊ້ສໍາລັບການປະຕິບັດຂອງລະບຽບການເຫຼົ່ານີ້ໄດ້ຮັບຄວາມຍິນຍອມຂອງຜູ້ໃຊ້ໄດ້ກັບການປຸງແຕ່ງຂອງຂໍ້ມູນສ່ວນບຸກຄົນບໍ່ຈໍາເປັນຕ້ອງຢູ່ໃນຄຸນງາມຄວາມດີຂອງຂໍ້ກໍານົດຂອງກົດຫມາຍກ່ຽວກັບຂໍ້ມູນສ່ວນບຸກຄົນ.
+        ເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານໄດ້ຮັບຄັດເລືອກໂດຍຜູ້ໃຊ້ແມ່ນຂໍ້ມູນທີ່ຈໍາເປັນແລະພຽງພໍສໍາລັບການເຂົ້າເຖິງຜູ້ໃຊ້ທີ່ຈະເວັບໄຊທ໌ໄດ້.
+        ຜູ້ໃຊ້ທີ່ມີສິດທິໃນການໃຫ້ / ເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານຂອງເຂົາເຈົ້າຕໍ່ກັບພາກສ່ວນທີສາມ,
+        ແລະເປັນຢ່າງແທ້ຈິງທີ່ຮັບຜິດຊອບສໍາລັບຄວາມປອດໄພຂອງຕົນ, ການເລືອກວິທີການຂອງການເກັບຮັກສາເຂົາເຈົ້າກ່ຽວກັບການເປັນພື້ນຖານເອກະລາດ.
+        ການນໍາໃຊ້ / ຮາດແວແລະຊອບແວຂອງເຂົາເຈົ້າຜູ້ໃຊ້ອາດຈະອະນຸຍາດໃຫ້ເກັບຮັກສາຂອງເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານ
+        (ໂດຍຜ່ານການ cookies) ສໍາລັບການອະນຸຍາດອັດຕະໂນມັດຕໍ່ມາເວັບໄຊທ໌ໄດ້. ການດໍາເນີນການປະຕິບັດດ້ວຍການນໍາໃຊ້ຊື່ຜູ້ໃຊ້ແລະລະຫັດຜ່ານຂອງຜູ້ໃຊ້ໄດ້ມີການພິຈາລະນາທີ່ຈະໄດ້ຮັບຄໍາຫມັ້ນສັນຍາໂດຍຜູ້ໃຊ້,
+        ເວັ້ນເສຍແຕ່ວ່າກົງກັນຂ້າມແມ່ນພິສູດໄດ້ໂດຍຜູ້ໃຊ້. ຜູ້ໃຊ້ທີ່ຖືກພັນທະທີ່ຈະແຈ້ງໃນທັນທີບໍລິສັດໃນສອດຄ່ອງກັບຂັ້ນຕອນການສ້າງຕັ້ງຂຶ້ນໃນກໍລະນີຂອງການເຂົ້າເຖິງຊື່ຜູ້ໃຊ້ແລະລະຫັດຜ່ານແລະ
+        / ຫຼືຫນ້າບັນຊີ, ຫຼືການເປີດເຜີຍຂອງເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານ. ຫຼັງຈາກການລົງທະບຽນຜູ້ໃຊ້ໄດ້ຮັບປະສິດທິໃນການສ້າງ,
+        ການນໍາໃຊ້, ແລະກໍານົດເນື້ອໃນຂອງ / ຫນ້າສ່ວນບຸກຄົນຂອງຕົນເອງຂອງເຂົາເຈົ້າກ່ຽວກັບຈຸດປະສົງຂອງຕົນເອງ,
+        ມີຄວາມສົນໃຈແລະບໍ່ຄິດໄດ້, ເຊັ່ນດຽວກັນກັບໄດ້ຮັບໂອກາດໃນການເຂົ້າເຖິງແລະຕອບຂໍ້ມູນກ່ຽວກັບຫນ້າສ່ວນບຸກຄົນຂອງຜູ້ຊົມໃຊ້ອື່ນໆ
+        . ຜູ້ໃຊ້ເປັນເຈົ້າຂອງຂໍ້ມູນທີ່ຂຽນຢູ່ໃນຫນ້າສ່ວນບຸກຄົນແມ່ນຮູ້ວ່າມີຂໍ້ຍົກເວັ້ນກໍລະນີທີ່ຖືກສ້າງຕັ້ງຂຶ້ນໂດຍລະບຽບການເຫຼົ່ານີ້ແລະນິຕິກໍາໃນປະຈຸບັນຂອງສະຫະພັນລັດເຊຍໄດ້,
+        ບໍລິສັດບໍ່ໄດ້ມີສ່ວນຮ່ວມໃນການພັດທະນາແລະການນໍາໃຊ້ຂອງເນື້ອຫາແລະບໍ່ໄດ້ຄວບຄຸມ ການເຂົ້າເຖິງຫນ້າຂອງຜູ້ໃຊ້ໄດ້ຈາກຜູ້ຊົມໃຊ້ອື່ນໆ.
+      terms_4: 4 ເງື່ອນໄຂ.
+      p_4: ສັນຍານີ້ຢ່າງເຕັມສ່ວນຍັງຄົງຢູ່ໃນຜົນບັງຄັບໃຊ້ແລະຜົນກະທົບເປັນທີ່ທ່ານນໍາໃຊ້ເວັບໄຊທ໌ໄດ້.
+        ທ່ານສາມາດຢຸດເຊົາການເປັນຜູ້ໃຊ້ຂອງເວັບໄຊທ໌ໄດ້ໂດຍການຖອນຫນ້າຂອງທ່ານໃນທີ່ໃຊ້ເວລາໃດກໍ່ຕາມ,
+        ສໍາລັບເຫດຜົນໃດຫນຶ່ງ, ໂດຍການຕິດຕໍ່ບໍລິການລູກຄ້າອອນໄລນ໌ຂອງພວກເຮົາຫຼືໂດຍການນໍາໃຊ້ການບໍລິການຂອງເວັບໄຊທ໌ໄດ້.
+        ບໍລິສັດສະຫງວນສິດໃນການລຶບຫນ້າສ່ວນບຸກຄົນຂອງທ່ານໃນທຸກເວລາ. ພວກເຮົາບໍ່ມີພັນທະແຈ້ງໃຫ້ທ່ານຊາບກ່ອນທີ່ຈະລົບຫນ້າ,
+        ຖ້າຫາກວ່າບໍລິສັດມີເຫດຜົນທີ່ຈະເຊື່ອວ່າທ່ານໄດ້ລະເມີດຂໍ້ກໍານົດຂອງຂໍ້ຕົກລົງ. ພວກເຮົາບໍ່ມີພັນທະທີ່ຈະເປີດເຜີຍເຫດຜົນສໍາລັບການລົບຂອງບັນຊີຂອງທ່ານ;
+        ໃນບາງກໍລະນີການເປີດເຜີຍຂໍ້ມູນດັ່ງກ່າວອາດຈະຖືກຫ້າມບໍ່ໃຫ້. ຫຼັງຈາກການລຶບຂອງຫນ້າຂອງທ່ານ,
+        ສະພາບການທັງຫມົດທີ່ອາດຈະຖືກຕ້ອງຫຼັງຈາກເລີກສັນຍານີ້ໂດຍທໍາມະຊາດຂອງເຂົາເຈົ້າຈະຢູ່ໃນຜົນບັງຄັບໃຊ້ຫຼັງຈາກດັ່ງກ່າວ.
+        ຖ້າຫາກວ່າທ່ານລົບຫນ້າຂອງທ່ານໂດຍຜ່ານເວັບໄຊທ໌ທີ່ຈະຂອງທ່ານເອງໄດ້, ພວກເຮົາອາດຈະຮ້ອງຂໍໃຫ້ທ່ານລະບຸເຫດຜົນຂອງການລົບດັ່ງກ່າວ.
+      account_security: 5 ບັນຊີຫຼັກຊັບ.
+      p_5: ທ່ານມີຄວາມຮັບຜິດຊອບສໍາລັບການປົກປັກຮັກສາຄວາມລັບຂອງຊື່ຜູ້ໃຊ້ແລະລະຫັດຜ່ານຂອງທ່ານ,
+        ເຊິ່ງຈະໄດ້ຮັບການກໍານົດເວລາຂອງການຈົດທະບຽນ. ນອກຈາກນີ້, ທ່ານແມ່ນຈໍາເປັນທີ່ຮັບຜິດຊອບສໍາລັບການປະຕິບັດທັງຫມົດທີ່ເກີດຂຶ້ນພາຍໃຕ້ຊື່ຜູ້ໃຊ້ແລະລະຫັດຜ່ານຂອງທ່ານ.
+        ທ່ານຕົກລົງເຫັນດີກັບ (a) ທັນທີແຈ້ງໃຫ້ພວກເຮົາກ່ຽວກັບການນໍາໃຊ້ຮັບອະນຸຍາດຂອງເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານຂອງທ່ານ,
+        ເຊັ່ນດຽວກັນກັບການລະເມີດຄວາມປອດໄພອື່ນໆ, ແລະ (b) ການທ່ອງທ່ຽວຈາກບັນຊີຂອງທ່ານຢູ່ໃນຕອນທ້າຍຂອງແຕ່ລະກອງປະຊຸມ.
+        ເວັບໄຊທ໌ບໍ່ແມ່ນຄວາມຮັບຜິດຊອບສໍາລັບຄວາມເສຍຫາຍຫຼືການສູນເສຍໃດໆທີ່ເກີດຈາກການບໍ່ປະຕິບັດຕາມການສະຫນອງນີ້.
+        ທ່ານຄວນຈະລະມັດລະວັງໂດຍສະເພາະແມ່ນໃນເວລາທີ່ການເຂົ້າເຖິງບັນຊີຂອງທ່ານໂດຍຜ່ານຄອມພິວເຕີສາທາລະນະໃນຄໍາສັ່ງທີ່ບຸກຄົນທີ່ລັກບໍ່ສາມາດ
+        spy ຫລືບັນທຶກລະຫັດຜ່ານຫຼືຂໍ້ມູນສ່ວນບຸກຄົນອື່ນໆຂອງທ່ານ. ນອກນັ້ນທ່ານຍັງຢືນຢັນແລະຕົກລົງເຫັນດີວ່າອິນເຕີເນັດແມ່ນບໍ່ເຄີຍຫມົດສ່ວນຕົວແລະຄວາມປອດໄພ.
+        ທ່ານເຂົ້າໃຈດີວ່າຂໍ້ຄວາມຫຼືຂໍ້ມູນທີ່ທ່ານຕອບກ່ຽວກັບເວັບໄຊທ໌ທີ່ອາດຈະໄດ້ຮັບການອ່ານຫຼືນໍາໃຊ້ໂດຍຜູ້ໃຊ້ອື່ນໆ,
+        ເຖິງແມ່ນວ່າຖ້າຫາກວ່າມີການເຕືອນໄພພິເສດທີ່ຂໍ້ມູນໄດ້ຖືກເຊື່ອງໄວ້.
+      your_interaction_with_other_users_of_the_website: 6 ພົວພັນຂອງທ່ານກັບຜູ້ນໍາໃຊ້ອື່ນໆຂອງເວັບໄຊທ໌.
+      p_6: ໄດ້. ທ່ານຕ້ອງຮັບຜິດຊອບສໍາລັບການພົວພັນຂອງທ່ານກັບຜູ້ນໍາໃຊ້ອື່ນໆ. ທ່ານຕ້ອງເຂົ້າໃຈວ່າບໍລິສັດບໍ່ໄດ້ຢືນຢັນຜູ້ໃຊ້ຂອງເຂົາເຈົ້າກັບວ່າພວກເຂົາມີການບັນທຶກຄະດີອາຍາ.
+        ບໍລິສັດຍັງບໍ່ໄດ້ຮ້ອງຂໍໃຫ້ມີຂໍ້ມູນກ່ຽວກັບທີ່ຜ່ານມາຂອງຜູ້ໃຊ້ຂອງຕົນແລະບໍ່ກວດສອບຂໍ້ມູນນີ້.
+        ບໍລິສັດທີ່ເຮັດໃຫ້ຮັບປະກັນກ່ຽວກັບການ BEHAVIOR USER ແລະເຫມາະສົມຂອງເຂົາເຈົ້າມີຜູ້ຊົມໃຊ້ເສດຫລືໃນອະນາຄົດ.
+        ເວລາດຽວກັນບໍລິສັດສະຫງວນສິດທີ່ຕ້ອງການກວດສອບຜູ້ໃຊ້ສໍາລັບການບັນທຶກຄະດີອາຍາຫຼືປະຕິບັດການຮັບຮອງອື່ນໆໃນເວລາທີ່ການນໍາໃຊ້ຂໍ້ມູນຂ່າວສານທີ່ມີຢູ່.
+        b. ໃນກໍລະນີບໍລິສັດບໍ່ຮັບຜິດຊອບສໍາລັບຄວາມເສຍຫາຍໃດໆບໍ່ວ່າຈະເປັນໂດຍກົງ, ທາງອ້ອມ,
+        ໂດຍທົ່ວໄປຫຼືມີລັກສະນະສະເພາະໃດຫນຶ່ງ, ການຊົດເຊີຍ, ແລະ / ຫຼື incidental, ທີ່ໄດ້ຮັບໂດຍທ່ານຫຼືບຸກຄົນອື່ນໆທີ່ເປັນຜົນມາຈາກການນໍາໃຊ້ຂອງເວັບໄຊທ໌,
+        ລວມທັງ, ແຕ່ບໍ່ຈໍາກັດ, ການບາດເຈັບທາງດ້ານຮ່າງກາຍ, ຄວາມກົດດັນແລະ / ຫຼືຄວາມເສຍຫາຍອື່ນໆ,
+        ໄດ້ຮັບໂດຍການທ່ານເປັນຜົນມາຈາກການສື່ສານຫຼືການປະຊຸມກັບສະມາຊິກທີ່ຈົດທະບຽນອື່ນໆຂອງເວັບໄຊທ໌ຫຼືປະຊາຊົນ,
+        ທີ່ທ່ານ deal ມີໃນເວັບໄຊນີ້. ທ່ານເຫັນດີຕົກລົງມັດລະວັງທຸກຄວາມເປັນໄປໄດ້ໃນເວລາທີ່ສື່ສານກັບຜູ້ຊົມໃຊ້ອື່ນໆ,
+        ໂດ​​ຍສະເພາະແມ່ນໃນກໍລະນີເຫຼົ່ານັ້ນ, ໃນເວລາທີ່ທ່ານຕັດສິນໃຈທີ່ກອງປະຊຸມໃຫ້ເຂົາເຈົ້າໃນຊີວິດທີ່ແທ້ຈິງ.
+        ທ່ານຄວນຈະຮູ້, ສິ່ງທີ່ບໍລິສັດບໍ່ໄດ້ໃຫ້ການປະກາດຫຼືຮັບປະກັນເນື່ອງກ່ຽວກັບການທີ່ເຫມາະສົມກັບຜູ້ຊົມໃຊ້ຂອງເວັບໄຊນີ້.
+        ທ່ານບໍ່ຄວນໃຫ້ຂໍ້ມູນທາງການເງິນໃຫ້ຜູ້ຊົມໃຊ້ອື່ນໆຂອງເວັບໄຊທ໌ (ສໍາລັບຕົວຢ່າງຂໍ້ມູນທີ່ກ່ຽວກັບເຄຣດິດຂອງທ່ານຫຼືພາດສະຕິກບັດ).
+        c. ການບໍລິການສາມາດແປຊື່ຫຼືຊື່ຂອງຕົວເມືອງຂອງທ່ານກັບພາສາທີ່ຂອງທ່ານ; d. ການບໍລິການ,
+        ບໍ່ແມ່ນການຮັບຜິດຊອບສໍາລັບການປະຕິບັດທີ່ລະບຸໄວ້ໃນບົດຄວາມນີ້. ໃນກໍລະນີທີ່ທ່ານບໍ່ຕົກລົງເຫັນດີກັບເຂົາເຈົ້າຫມົດຫຼືບາງສ່ວນ,
+        ກະລຸນາທັນທີທັນໃດອອກຈາກເວັບໄຊທ໌;
+      the_information_posted_by_you_on_flutylove: 7 ຂໍ້ມູນຂ່າວສານຈັດພີມມາໂດຍທ່ານສຸດ
+        FLUTYLOVE
+      p_7: ໄດ້. ທ່ານມີຄວາມຮັບຜິດຊອບ sole ສໍາລັບຂໍ້ມູນທີ່ທ່ານເຜີຍແຜ່ຫຼືສະແດງໃຫ້ເຫັນ
+        (hereinafter "post") ກ່ຽວກັບການບໍລິການຫລືໂອນໃຫ້ຜູ້ຊົມໃຊ້ອື່ນໆ. ເຈົ້າຍັງບໍ່ໄດ້ອະນຸຍາດໃຫ້ການແລ້ວກ່ຽວກັບການບໍລິການຫລືໂອນໃຫ້ຜູ້ຊົມໃຊ້ອື່ນໆຂໍ້ມູນຂ່າວສານໃດໆກ່ຽວກັບການ
+        defamatory, ບໍ່ຖືກຕ້ອງ, ໃຊ້ໃນທາງຜິດ, obscene, vulgar ແລະການຮຸກຮານເນື້ອໃນ,
+        ຂໍ້ມູນກ່ຽວກັບເນື້ອໃນທາງເພດ, ເຊັ່ນດຽວກັນກັບຂໍ້ມູນຂ່າວສານໄພຂົ່ມຂູ່ຕໍ່ຫຼືການສະກົດຮອຍ,
+        ຂໍ້ມູນຂ່າວສານຂອງລັກສະນະການຈໍາແນກເຊື້ອຊາດຫຼື ຂໍ້ມູນທີ່ຜິດກົດຫມາຍ, ຫຼືຂໍ້ມູນອື່ນໆທີ່ເປັນການລະເມີດຫຼືລະເມີດສິດທິຂອງພາກສ່ວນອື່ນ
+        (ລວມທັງແຕ່ບໍ່ຈໍາກັດ, ສິດທິຊັບສິນທາງປັນຍາ, ສິດທິຂອງຄວາມເປັນສ່ວນຕົວແລະສາທາລະນະ).
+        ເຈົ້າຍັງບໍ່ໄດ້ອະນຸຍາດໃຫ້ສະຫນອງບໍ່ຖືກຕ້ອງ, ຜິດພາດຫຼືບໍ່ຖືກຕ້ອງຂໍ້ມູນຂ່າວສານຂອງບໍລິສັດຫຼືອື່ນໃດ.
+        ຖ້າຫາກວ່າຂໍ້ມູນທີ່ສະຫນອງໃຫ້ແກ່ບໍລິສັດ Flutylove ຫຼື User ອື່ນຕໍ່ມາຈະກາຍເປັນບໍ່ຖືກຕ້ອງ,
+        ຜິດພາດຂອງທີ່ບໍ່ຖືກຕ້ອງ, ທ່ານທັນທີຕ້ອງໄດ້ແຈ້ງໃຫ້ບໍລິສັດ Flutylove ຂອງການປ່ຽນແປງດັ່ງກ່າວ.
+        ທ່ານສົ່ງແລະຮັບປະກັນວ່າຂໍ້ມູນທັງຫມົດສະຫນອງໃຫ້ໃນໄລຍະການຈົດທະບຽນຖືກຕ້ອງແລະເປັນຄວາມຈິງ,
+        ແລະທ່ານທັນທີມີການປ່ຽນແປງຂໍ້ມູນຂ່າວສານທີ່ຕໍ່ມາກາຍເປັນບໍ່ຖືກຕ້ອງ, ຜິດພາດຫຼືບໍ່ຖືກຕ້ອງ.
+        b. ທ່ານເຂົ້າໃຈແລະຕົກລົງເຫັນດີວ່າພວກເຮົາສະຫງວນສິດທິໃນການ, ແຕ່ບໍ່ຈໍາເປັນຕ້ອງຕິດຕາມກວດກາຂໍ້ມູນຂ່າວສານຫຼືເນື້ອຫາທີ່ຖືກຍົກຍ້າຍການບໍລິການຫຼືຈັດພີມມາໃນການເຂົ້າເຖິງສາທາລະນະກ່ຽວກັບການບໍລິການ.
+        ພວກເຮົາມີສິດທີ່ຈະລຶບຂໍ້ມູນໃດໆຫຼືເນື້ອໃນດັ່ງກ່າວໂດຍບໍ່ມີການກໍາຫນົດເຫດຜົນແລະການແຈ້ງເຕືອນ.
+        c. ວັດຖຸທັງຫມົດທີ່ສະແດງເທິງເວັບໄຊທ໌, ລວມທັງອົງປະກອບການອອກແບບ, ຂໍ້ຄວາມ, ຮູບພາບ,
+        ຮູບ, ວິດີໂອ, ຄິບ, ໂຄງການ, ດົນຕີ, ສຽງແລະວັດຖຸອື່ນໆແລະຫ້ອງສະຫມຸດຂອງ (hereinafter
+        - ຂໍ້ມູນຂ່າວສານ), ເປັນຊັບສິນຂອງສິດທິພິເສດຂອງບໍລິສັດ, ສະມາຊິກຂອງ ໄດ້ເວັບໄຊທ໌ແລະສິດທິອື່ນໆຖືສິດທິທັງຫມົດກັບວັດຖຸເຫຼົ່ານີ້ມີການປົກປ້ອງ.
+        d. ເວັ້ນເສຍແຕ່ໄດ້ສ້າງຕັ້ງຂຶ້ນໃນສອດຄ່ອງກັບຂໍ້ຕົກລົງນີ້, ເຊັ່ນດຽວກັນກັບກົດຫມາຍໃນປະຈຸບັນຂອງສະຫະພັນລັດເຊຍ,
+        ບໍ່ມີຂໍ້ມູນອາດຈະໄດ້ຮັບການຄັດລອກ (ຊ້ໍາ), ການປຸງແຕ່ງ, ແຈກຢາຍ, ການສະແດງໃນກອບການ,
+        ການຈັດພີມມາ, ການດາວໂຫຼດ, ການຍົກຍ້າຍ, ຂາຍຫຼືນໍາໃຊ້ໃນວິທີການອື່ນໆໃນ ທັງຫມົດຫຼືໃນຕ່ອນໂດຍບໍ່ມີການອະນຸຍາດລ່ວງຫນ້າຈາກເຈົ້າຂອງ,
+        ເວັ້ນເສຍແຕ່ວ່າຜູ້ຖືສິດທິຢ່າງຊັດເຈນສະແດງຍິນຍອມເຫັນດີຂອງຕົນໃນການນໍາໃຊ້ຂອງຂໍ້ມູນຂ່າວສານໂດຍບຸກຄົນໃດຫນຶ່ງ.
+        e. ໂດຍປຊຊກິນຂໍ້ມູນຂ່າວສານກ່ຽວກັບເວັບໄຊທ໌ຕາມກົດຫມາຍຂອງການເປັນຜູ້ໃຊ້, ຜູ້ໃຊ້ໄດ້ສະຫນອງການເຂົ້າເຖິງສໍາລັບຜູ້ຊົມໃຊ້ອື່ນໆສໍາລັບການສິດທິບໍ່ແມ່ນສະເພາະການນໍາໃຊ້ມັນດ້ວຍການເບິ່ງ,
+        ການຫຼິ້ນ (ລວມທັງສໍາເນົາ) ແລະສິດທິອື່ນໆເພື່ອຈຸດປະສົງຂອງການນໍາໃຊ້ທີ່ບໍ່ແມ່ນການຄ້າສ່ວນບຸກຄົນ,
+        ເວັ້ນເສຍແຕ່ກໍລະນີໃນເວລາທີ່ການນໍາໃຊ້ດັ່ງກ່າວເຮັດໃຫ້ມີຫຼືອາດຈະເຮັດໃຫ້ເກີດອັນຕະລາຍຕໍ່ຜົນປະໂຫຍດຂອງຜູ້ຖືສິດທິໃນການປ້ອງກັນໂດຍກົດຫມາຍ.
+        f. ການນໍາໃຊ້ຂໍ້ມູນຂ່າວສານໂດຍຜູ້ໃຊ້, ເຊິ່ງການເຂົ້າເຖິງໄດ້ຮັບ solely ສໍາລັບສ່ວນບຸກຄົນບໍ່ແມ່ນການຄ້າການນໍາໃຊ້,
+        ອະນຸຍາດໃຫ້ຕາມ​​ສະພາບການທີ່ອາການທັງຫມົດຂອງການປະພັນ (ລິຂະສິດ) ຫຼືແຈ້ງການອື່ນໆຂອງການປະພັນຈະໄດ້ຮັບການເກັບຮັກສາໄວ້,
+        ຊື່ຂອງຜູ້ຂຽນແລະຜະລິດຕະພັນຂອງຕົນ ຈະໄດ້ຮັບການປະໄວ້ໂດຍບໍ່ມີການປ່ຽນແປງ. g. ຜູ້ໃຊ້ຍັງມີບໍລິສັດທີ່ມີສິດທິບໍ່ແມ່ນສະເພາະທີ່ຈະນໍາໃຊ້ຂໍ້ມູນການຈັດພີມມາກ່ຽວກັບເວັບໄຊທ໌ແລະເປັນຂອງເຂົາ
+        / ນາງຕາມກົດຫມາຍໂດຍບໍ່ມີການພິຈາລະນາເພື່ອຮັບປະກັນການເຮັດວຽກຂອງເວັບໄຊທ໌ຂອງບໍລິສັດພາຍໃນປະຕິບັດຂອງສະຖາປັດຕະແລະການເຮັດວຽກຂອງ
+        ໄດ້ເວັບໄຊທ໌. ສິດທິບໍ່ແມ່ນສະເພາະຫມາຍເຖິງຂ້າງເທິງນີ້ແມ່ນອະນຸຍາດໃຫ້ສໍາລັບການບັນຈຸເຂົ້າຮຽນເນື້ອໃນເວັບໄຊທ໌ແລະເອົາອານາເຂດຂອງປະເທດໄດ້ທັງຫມົດໃນທົ່ວໂລກ.
+        ບໍລິສັດມີສິດທິໃນການໂອນສິດທິຫມາຍເຖິງວັກນີ້ກັບພາກສ່ວນທີສາມໄດ້. ຜູ້ໃຊ້ເຫັນດີວ່າບໍລິສັດມີສິດທິໃນການນໍາໃຊ້ທາງເລືອກທີ່ເປັນປະໂຫຍດແລະດ້ານວິຊາການຂອງເວັບໄຊທ໌,
+        ການສະຫນອງການສະແດງການແບ່ງປັນເນື້ອໃນໂດຍຜູ້ໃຊ້, ລວມທັງຈຸດປະສົງຂອງການສະແດງຂໍ້ມູນຂ່າວສານການໂຄສະນາເປັນ.
+        hi. ໃນກໍລະນີຜູ້ໃຊ້ໄດ້ລຶບຂໍ້ມູນຈາກເວັບໄຊທ໌, ສິດທິບໍ່ແມ່ນສະເພາະຈະຖືກຍຶດອັດຕະໂນມັດ,
+        ແຕ່ເນື່ອງຈາກຂໍ້ກໍາຫນົດຂອງເວັບໄຊທ໌ຂອງບໍລິສັດສະຫງວນສິດທີ່ຈະຊ່ວຍປະຢັດສໍາເນົາສໍາຮອງຂໍ້ມູນພາຍໃນທີ່ໃຊ້ເວລາທີ່ກໍານົດໄວ້ແລະບ່ອນທີ່ຕ້ອງການ.
+        i. ນອກຈາກຂໍ້ມູນຂ່າວສານເອກະຊົນ, ຜູ້ໃຊ້ທີ່ມີສິດທິໃນການອັບໂຫລດ, ຫຼືເປີດເຜີຍໃນວິທີການທີ່ແຕກຕ່າງກັນ
+        (ໂດຍການເຜີຍແພ່ໃນເວັບໄຊທ໌) ຂໍ້ມູນຂອງສະຖານທີ່ອື່ນໆ, ຖານຂໍ້ມູນແລະຄຸນສົມບັດທາງປັນຍາອື່ນໆໄດ້ໃນເມື່ອບໍ່ມີຂອງຢ່າງຊັດເຈນສະແດງຍິນຍອມເຫັນດີກັບການກະທໍາດັ່ງກ່າວນັ້ນຈາກລິຂະສິດບໍ່ມີ
+        ເຈົ້າຂອງ. j. ເວັ້ນເສຍແຕ່ວ່າຖ້າບໍ່ດັ່ງນັ້ນຖືກບັນທຶກໄວ້ໃນລະບຽບການເຫຼົ່ານີ້,
+        ສິ່ງໃດແດ່ໃນລະບຽບການເຫຼົ່ານີ້ບໍ່ສາມາດໄດ້ຮັບການພິຈາລະນາເປັນການຍົກຍ້າຍຂອງສິດທິໃນການຂໍ້ມູນຂ່າວສານໄດ້.
+        k. ຂໍ້ມູນທັງຫມົດທີ່ທ່ານເຜີຍແຜ່ກ່ຽວກັບຂໍ້ມູນຜູ້ໃຊ້ຂອງທ່ານ, ຈະຕ້ອງຖືກຕ້ອງ, ຂຶ້ນກັບ,
+        ວັນທີແລະຄົບຖ້ວນສົມບູນ. ຜູ້ໃຊ້ຢ່າງແທ້ຈິງແຕ່ພຽງຜູ້ດຽວຮັບຜິດຊອບສໍາລັບຂໍ້ມູນທີ່ໄດ້ອັບໂຫລດຫຼືເປີດເຜີຍໃນວິທີການທີ່ແຕກຕ່າງກັນ
+        (ຈັດພີມມາ) ກ່ຽວກັບເວັບໄຊທ໌ຫຼືມີການຊ່ວຍເຫຼືອຂອງຜູ້ໃຊ້ໄດ້. ຜູ້ໃຊ້ບໍ່ໄດ້ມີສິດທີ່ຈະອັບໂຫລດ,
+        ໂອນຫຼືເນື້ອໃນກ່ຽວກັບເວັບໄຊທ໌ໄດ້, ຖ້າຫາກວ່າລາວ / ນາງບໍ່ມີສິດເຫມາະສົມທີ່ຈະໃຊ້ເວລາການດໍາເນີນການດັ່ງກ່າວ,
+        ການກໍ່ສ້າງຫຼືການມອບຫມາຍເພື່ອໃຫ້ເຂົາ / ນາງໃນສອດຄ່ອງກັບກົດຫມາຍຂອງສະຫະພັນລັດເຊຍໄດ້.
+        ຂອງບໍລິສັດສາມາດ, ແຕ່ບໍ່ຈໍາເປັນ, ເພື່ອທ່ອງເວັບໄຊທ໌ສໍາລັບການເນື້ອໃນທີ່ຜິດກົດຫມາຍແລະອະນຸຍາດໃຫ້ລຶບຫຼືຍ້າຍ
+        (ໂດຍບໍ່ມີການແຈ້ງການ) ເນື້ອຫາຫຼືຜູ້ຊົມໃຊ້ໃນການຕັດສິນໃຈ sole ຂອງຕົນ, ສໍາລັບເຫດຜົນໃດຫນຶ່ງຫຼືບໍ່ມີສາເຫດ,
+        ລວມທັງບໍ່ມີຂອບເຂດຈໍາກັດທີ່ຈະຍ້າຍອອກ, ຫລືລົບຂໍ້ມູນນັ້ນ, ອີງຕາມການຄວາມຄິດເຫັນສ່ວນບຸກຄົນຂອງບໍລິສັດໄດ້ລະເມີດກົດຂໍ້ຕົກລົງນີ້,
+        ກົດຫມາຍຂອງສະຫະພັນລັດເຊຍແລະ / ຫຼືອາດຈະລະເມີດສິດທິໃນການ, ໄດ້ຮັບບາດເຈັບ, ຫຼືອັນຕະລາຍຕໍ່ຄວາມປອດໄພຂອງຜູ້ໃຊ້ອື່ນຫຼືພາກສ່ວນທີສາມ.
+        ເວັບໄຊທ໌ປະກອບດ້ວຍ (ຫຼືອາດຈະມີ) ການເຊື່ອມຕໍ່ກັບສະຖານທີ່ອື່ນໆໃນອິນເຕີເນັດ (ເວັບໄຊທ໌ຂອງພາກສ່ວນທີສາມ)
+        ເຊັ່ນດຽວກັນກັບບົດຄວາມ, ຮູບພາບ, ຮູບ, ຮູບພາບ, ດົນຕີ, ສຽງ, ວິດີໂອ, ຂໍ້ມູນຂ່າວສານ,
+        ຄໍາຮ້ອງສະຫມັກ, ຊອຟແວແລະຂໍ້ມູນອື່ນໆທີ່ເປັນຂອງຫຼືມາ ຈາກພາກສ່ວນທີສາມ (ເນື້ອໃນພາກສ່ວນທີສາມ),
+        ຊຶ່ງເປັນຜົນມາຈາກການກິດຈະກໍາສິນທາງປັນຍາແລະປ້ອງກັນໂດຍສອດຄ່ອງກັບກົດຫມາຍຂອງສະຫະພັນລັດເຊຍ.
+        ເຫຼົ່ານີ້ພາກສ່ວນທີສາມແລະຂໍ້ມູນຂອງເຂົາເຈົ້າຍັງບໍ່ໄດ້ກວດສອບບໍລິສັດສໍາລັບການປະຕິບັດຕາມນີ້ຫລືຄວາມຕ້ອງການອື່ນໆ
+        (ຄວາມຖືກຕ້ອງ, ຄົບຖ້ວນ, ຄວາມຊື່ສັດ, ແລະອື່ນໆ). ຂອງບໍລິສັດແມ່ນບໍ່ໄດ້ຮັບຜິດຊອບສໍາລັບເນື້ອໃນໃດໆກໍຕາມທີ່ຢູ່ໃນສະຖານທີ່ພາກສ່ວນທີສາມທີ່ໃຫ້ຜູ້ຊົມໃຊ້ສາມາດເຂົ້າເຖິງໂດຍຜ່ານເວັບໄຊທ໌ຫຼືໂດຍຜ່ານການຂໍ້ມູນຂ່າວສານພາກສ່ວນທີສາມໄດ້,
+        ລວມທັງການ, ແຕ່ບໍ່ຈໍາກັດຄວາມຄິດເຫັນຫຼືຂໍ້ກໍານົດໃດໆສະແດງອອກໃນສະຖານທີ່ພາກສ່ວນທີສາມຫຼື
+        ໃນຂໍ້ມູນຂ່າວສານຂອງເຂົາເຈົ້າ. ການເຊື່ອມຕໍ່ກັບເວັບໄຊໃດກໍ່ຕາມ, ຜະລິດຕະພັນ, ແລະການບໍລິການ,
+        ຂໍ້ມູນຂ່າວສານຂອງລັກສະນະການຄ້າແລະບໍ່ແມ່ນການຄ້າທີ່ມີຢູ່ໃນເວັບໄຊທ໌ນີ້ບໍ່ແມ່ນເປັນການອະນຸມັດຫຼືຄໍາແນະນໍາສໍາລັບການຜະລິດຕະພັນເຫຼົ່ານີ້
+        (ບໍລິການ) ຈາກບໍລິສັດ. ຖ້າຫາກວ່າຜູ້ໃຊ້ໄດ້ຕັດສິນໃຈທີ່ຈະອອກຈາກເວັບໄຊທ໌ແລະໄປເວັບໄຊທ໌ຂອງພາກສ່ວນທີສາມຫຼືການນໍາໃຊ້ຫຼືການຕິດຕັ້ງຊອບແວພາກສ່ວນທີສາມ,
+        ລາວ / ນາງບໍ່ດັ່ງນັ້ນຢູ່ໃນຄວາມສ່ຽງຂອງຕົນເອງຂອງເຂົາເຈົ້າແລະຈາກປັດຈຸບັນລະບຽບການເຫຼົ່ານີ້ແມ່ນບໍ່ມີຕໍ່ໄປອ​​ີກແລ້ວນໍາໄປໃຊ້ກັບຜູ້ໃຊ້.
+        ການປະຕິບັດຜູ້ໃຊ້ນອກຈາກນັ້ນໄດ້ຖືກນໍາພາໂດຍກົດລະບຽບການນໍາໃຊ້ແລະນະໂຍບາຍ, ລວມທັງການປະຕິບັດທຸລະກິດຂອງບຸກຄົນຜູ້ທີ່ມີຂໍ້ມູນທີ່ເຂົາ
+        / ນາງແມ່ນການນໍາໃຊ້.
+      forbidden_actions: 8 ACTIONS ຫ້າມ.
+      p_8: ໄດ້. ມັນຖືກຫ້າມບໍ່ໃຫ້ "ຮັກສາເບິ່ງຢ່າງໃກ້ຊິດກ່ຽວກັບການ" ຫຼືລົບກວນຄົນໃດຄົນນຶ່ງໃນວິທີການອື່ນໆ.
+        b. ມັນຖືກຫ້າມບໍ່ໃຫ້ໃຊ້ບອທ໌, ໄວຣັສ, ຄໍາຮ້ອງສະຫມັກໃນການຊອກຫາສະຖານທີ່ / ສານສະກັດຈາກ,
+        ຫຼືອຸປະກອນຄູ່ມືຫຼືອັດຕະໂນມັດຫຼືຂະບວນການເພື່ອສະກັດ, ດັດຊະນີ, "spying" ຫຼືການແຜ່ພັນໃນວິທີການອື່ນຫຼືການຫລີກເວັ້ນໂຄງປະກອບການນໍາທິດແລະການສະແດງຂອງບໍລິການຫຼືເນື້ອໃນຂອງຕົນ
+        . c. ມັນຖືກຫ້າມບໍ່ໃຫ້ຕອບ, ແຈກຢາຍ, ຫລືການແຜ່ພັນ everyway ຂໍ້ມູນລິຂະສິດ, ເຄື່ອງຫມາຍການຄ້າ,
+        ຫຼືຂໍ້ມູນອື່ນໆປ້ອງກັນໂດຍການລິຂະສິດໂດຍບໍ່ມີການອະນຸຍາດຈາກເຈົ້າຂອງລິຂະສິດ. d.
+        ມັນຖືກຫ້າມບໍ່ໃຫ້ເອົາລິຂະສິດ, ເຄື່ອງຫມາຍການຄ້າຫຼືແຈ້ງການຫງວນລິຂະສິດອື່ນ ໆ ທີ່ມີກ່ຽວກັບການບໍລິການ.
+        e. ມັນຖືກຫ້າມບໍ່ໃຫ້ແຊກແຊງໃນ​​ຫລືເຮັດການດໍາເນີນງານຂອງການບໍລິການແລະເວັບໄຊທ໌,
+        ຫຼືການບໍລິການແລະເຄືອຂ່າຍການເຊື່ອມຕໍ່ກັບການບໍລິການຫຼືເວັບໄຊທ໌ໄດ້. f. ມັນຖືກຫ້າມບໍ່ໃຫ້ເຜີຍແຜ່,
+        ອີເມວຫຼືການຍົກຍ້າຍໃນວິທີການທີ່ແຕກຕ່າງກັນຂໍ້ມູນຂ່າວສານທີ່ປະກອບດ້ວຍໄວຣັສຫຼືລະຫັດຄອມພິວເຕີອື່ນໆ,
+        ໄຟລ໌ຫຼືໂຄງການອອກແບບເພື່ອແຊກແຊງ, ທໍາລາຍຫຼືຈໍາກັດການທໍາງານຂອງຊອບແວຄອມພິວເຕີ,
+        ອຸປະກອນຫຼືສາຍໂທລະສັບອຸປະກອນໃດຫນຶ່ງ. g. ມັນໄດ້ຖືກຫ້າມໃນການປອມແປງຫົວຫຼືຄວບຄຸມການອອກແບບສໍາລັບຈຸດປະສົງຂອງປອມຄວາມຫມາຍທີ່ແທ້ຈິງຂອງຂໍ້ມູນຂ່າວສານທີ່ໃຊ້ຮ່ວມກັນໂດຍຜ່ານການບໍລິການໄດ້.
+        h. ມັນຖືກຫ້າມບໍ່ໃຫ້ "forge" ຫຼື "ສໍາເນົາ" ສ່ວນຫນຶ່ງຂອງການບໍລິການຫຼືເວັບໄຊທ໌ໂດຍບໍ່ມີການອະນຸຍາດລາຍລັກອັກສອນກ່ອນທີ່ຈະຈາກ
+        Flutylove ແຕ່ຢ່າງໃດ. ນອກຈາກນີ້, ທ່ານອາດຈະບໍ່ນໍາໃຊ້ tags ໃດ meta ຫຼືລະຫັດ,
+        ຫຼືອຸປະກອນອື່ນໆທີ່ມີການເຊື່ອມຕໍ່ໃດໆກັບ Flutylove, ການບໍລິການຫຼືເວັບໄຊທ໌ຢູ່ໃນຄໍາສັ່ງເພື່ອຫັນບຸກຄົນໃດຫນຶ່ງກັບເວັບໄຊສໍາລັບຈຸດປະສົງໃດຫນຶ່ງ.
+        i. ມັນຖືກຫ້າມບໍ່ໃຫ້ດັດແປງ, ປັບ, sublicense, ແປ, ຂາຍ, ການປັບໂຄງສ້າງ, decipher,
+        decompile ຫຼື disassemble ສ່ວນຫນຶ່ງຂອງການບໍລິການຫຼືເວັບໄຊທ໌, ຫຼືຊອບແວການນໍາໃຊ້
+        used ໃນເວັບໄຊທ໌ຫຼືສໍາລັບການມັນໃດກໍ່ຕາມ, ເຊ​​ັ່ນດຽວກັນກັບສົ່ງເສີມໃຫ້ຄົນອື່ນໃຊ້ເວລາການປະຕິບັດທີ່ຄ້າຍຄືກັນ
+        . j. ມັນໄດ້ຖືກຫ້າມເພື່ອຂໍ້ມູນຂ່າວສານທີ່ມີເນື້ອໃນ pornographic ແລະ / ຫຼື erotic.
+      the_changes_in_the_service: 9 ການປ່ຽນແປງໃນການບໍລິການ.
+      p_9: Flutylove ສະຫງວນສິດທີ່ໃຊ້ເວລາທີ່ຈະປ່ຽນແປງຫຼືປິດການທໍາງານຊົ່ວຄາວຫຼືຖາວອນການບໍລິການ
+        (ຫຼືມັນເປັນສ່ວນຫນຶ່ງ) ໂດຍບໍ່ມີການແຈ້ງການ. ທ່ານຕົກລົງເຫັນດີທີ່ Flutylove ບໍ່ຮັບຜິດຊອບຕໍ່ກັບທ່ານຫຼືພາກສ່ວນທີສາມສໍາລັບການດັດແປງໃດໆ,
+        ມີການຊົ່ວຄາວຫຼືປິດການໃຊ້ງານສະບັບສົມບູນຂອງການບໍລິການ.
+      ip_address_blocking: 10 IP ADDRESS ຕັນ.
+      p_10: ໃນຄໍາສັ່ງເພື່ອປົກປັກຮັກສາຄວາມສົມບູນຂອງເວັບໄຊທ໌ໄດ້, Flutylove ສະຫງວນສິດທິໃນການໃຊ້ເວລາຢູ່ໃນສະດວກສະບາຍຂອງຕົນເອງເພື່ອປ້ອງກັນການທີ່ຢູ່
+        IP ຂອງຜູ້ໃຊ້ທີ່ແນ່ນອນ.
+      relations_between_users_online: 11 ພົວພັນລະຫວ່າງຜູ້ໃຊ້ອອນໄລນ໌
+      p_11: ທ່ານຕ້ອງຮັບຜິດຊອບສໍາລັບການຕິດຕໍ່ພົວພັນຂອງທ່ານກັບຜູ້ນໍາໃຊ້ອື່ນໆຂອງ Flutylove.
+        Flutylove ສະຫງວນສິດທີ່, ແຕ່ບໍ່ແມ່ນພັນທະຂອງ, ເພື່ອຕິດຕາມກວດກາການໂຕ້ຖຽງກັນລະຫວ່າງທ່ານແລະຜູ້ຊົມໃຊ້ອື່ນໆ.
+      security_and_communication: 12 ຄວາມປອດໄພແລະການສື່ສານ.
+      p_12: 'ການນໍາໃຊ້ຂອງເວັບໄຊທ໌ແລະ / ຫຼືການບໍລິການຍັງແມ່ນການຄຸ້ມຄອງໂດຍນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງພວກເຮົາ.
+        ໃນເວລາທີ່ທ່ານກາຍເປັນຜູ້ໃຊ້, ທ່ານຕົກລົງເຫັນດີແລະຍິນຍອມເຫັນດີທີ່ຈະໄດ້ຮັບອີເມວຈາກພວກເຮົາ.
+        ອີເມວເຫຼົ່ານີ້ອາດຈະເປັນຕົວແທນຂອງການແຈ້ງເຕືອນກ່ຽວກັບການດໍາເນີນງານຫລືການແຈ້ງເຕືອນອື່ນ
+        ໆ ທີ່ກ່ຽວຂ້ອງກັບການບໍລິການ, ເຊັ່ນ: ແຈ້ງການການບໍລິຫານແລະການປະກາດຢ່າງເປັນທາງການກ່ຽວກັບການປ່ຽນແປງ,
+        ຫຼືອີເມວທີ່ມີຂໍ້ສະເຫນີທຸລະກິດ, ອຸປະກອນການສົ່ງເສີມການຂາຍ, ການສະເຫນີພິເສດຈາກພວກເຮົາ,
+        ຫຼືຂໍ້ມູນກ່ຽວກັບການກະທໍາຂອງຜູ້ຊົມໃຊ້ອື່ນໆກ່ຽວກັບການຂອງທ່ານ ບັນຊີຜູ້ໃຊ້. ກະລຸນາອ່ານນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງພວກເຮົາຢາກຮູ້ເພີ່ມເຕີມກ່ຽວກັບການແຈ້ງການດັ່ງກ່າວ.'
+      denial_of_responsibility: 13 ປະຕິເສດຮັບຜິດຊອບ.
+      p_13: ໄດ້. Flutylove ບໍ່ແມ່ນຄວາມຮັບຜິດຊອບສໍາລັບການຂໍ້ມູນຂ່າວສານທີ່ບໍ່ຖືກຕ້ອງຫຼືບໍ່ຖືກຕ້ອງທີ່ໂພດໃນເວັບໄຊທ໌ຫຼືທີ່ກ່ຽວຂ້ອງກັບການບໍລິການ,
+        ຜູ້ຊົມໃຊ້ຂອງເວັບໄຊທ໌ຫລືຮາດແວຫຼືຊອບແວທີ່ກ່ຽວຂ້ອງກັບການບໍລິການຂອງພວກເຮົາຫຼືຖືກນໍາໃຊ້ບໍ່ມີໃດຫນຶ່ງ.
+        Flutylove ບໍ່ແມ່ນຄວາມຮັບຜິດຊອບສໍາລັບການລັກສະນະການ, ທັ​​ງສອງອອນໄລນ໌ແລະອອຟໄລ,
+        ຂອງຜູ້ໃຊ້ຂອງເວັບໄຊທ໌ຂອງທ່ານ. Flutylove ບໍ່ໄດ້ໃຊ້ເວລາກ່ຽວກັບຄວາມຮັບຜິດຊອບສໍາລັບການໃດໆຄວາມຜິດພາດ,
+        ການປະຖິ້ມ, ການຂັດຂວາງ, ການລຶບ, ຄວາມເສຍຫາຍຫຼືການຊັກຊ້າໃນການດໍາເນີນງານຫລືການດໍາເນີນງານ,
+        ຄວາມລົ້ມເຫຼວຂອງການສື່ສານອອນໄລນ໌, ການລັກຫຼືການທໍາລາຍ, ການເຂົ້າເຖິງຮັບອະນຸຍາດຫຼືການປ່ຽນແປງຂອງສາຍການສື່ສານຂອງຜູ້ໃຊ້ໄດ້.
+        Flutylove ບໍ່ແມ່ນຄວາມຮັບຜິດຊອບສໍາລັບບັນຫາຫລື malfunction ດ້ານວິຊາການຂອງເຄືອຂ່າຍໂທລະສັບຫຼືສາຍ,
+        ລະບົບຄອມພິວເຕີອອນໄລນ໌, ເຄື່ອງແມ່ຂ່າຍຫຼືຜູ້ໃຫ້ບໍລິ, ອຸປະກອນຄອມພິວເຕີ, ຊອບແວ,
+        mail ຫຼືຜູ້ນຄວາມລົ້ມເຫຼວໃນບັນຊີຜູ້ໃຊ້, ບັນຫາດ້ານວິຊາການຫຼື congestion ໃນອິນເຕີເນັດຫຼືຢູ່ໃນເວັບໄຊທ໌ໃດ
+        ຫຼືປະສົມປະສານຂອງຕົນ, ລວມທັງອຸປະຕິເຫດຫຼືການບາດເຈັບໃນການໃຊ້ຫຼືພາກສ່ວນທີສາມທີ່ກ່ຽວຂ້ອງກັບຄອມພິວເຕີ,
+        ຫຼືເປັນຜົນມາຈາກການມີສ່ວນຮ່ວມໃນຫຼືຂໍ້ມູນການດາວໂຫລດທີ່ກ່ຽວຂ້ອງກັບເຄືອຂ່າຍແລະ
+        / ຫຼືການບໍລິການ. ພາຍໃຕ້ສະຖານະການທີ່ບໍ່ມີບໍລິສັດ Flutylove ຫຼືຂອງພີ່ນ້ອງຂອງຕົນ,
+        ຕົວແທນການໂຄສະນາ, ຜູ້ກໍ່ຕັ້ງຫຼືຄູ່ຮ່ວມງານການແຜ່ກະຈາຍຈະບໍ່ຮັບຜິດຊອບສໍາລັບການສູນເສຍຫຼືຄວາມເສຍຫາຍ,
+        ລວມທັງການບາດເຈັບສ່ວນບຸກຄົນຫຼືການເສຍຊີວິດ, ເນື່ອງຈາກວ່າການນໍາໃຊ້ຂອງເວັບໄຊທ໌ຫຼືການບໍລິການ,
+        ເນື້ອຫາໃດໆກໍຕາມທີ່ກ່ຽວກັບເວັບໄຊທ໌ , ຫຼືຕິດຕໍ່ພົວພັນລະຫວ່າງຜູ້ໃຊ້ຂອງເວັບໄຊທ໌ໄດ້,
+        ທັງສອງອອນໄລນ໌ແລະອອຟໄລໃດ. ເວັບໄຊທ໌ແລະການບໍລິການໃຫ້ບໍລິການກ່ຽວກັບການຄືດັ່ງທີ່ເປັນພື້ນຖານ,
+        ແລະ Flutylove ສະແດງປະຕິເສດການຮັບປະກັນໃດໆ​​ຫຼືການສອດຄ່ອງກັບຈຸດປະສົງສະເພາະໃດຫນຶ່ງ,
+        ຫຼືບໍ່ມີການລະເມີດສິດທິຂອງໃຜ. Flutylove ບໍ່ສາມາດຮັບປະກັນແລະບໍ່ໄດ້ສັນຍາຂອງຜົນການຄົ້ນຫາສະເພາະໃດຫນຶ່ງຈາກການນໍາໃຊ້ເວັບໄຊທ໌ແລະ
+        / ຫຼືການບໍລິການ.
+      links: 14 ການເຊື່ອມຕໍ່.
+      p_14: ໄດ້. Flutylove ບໍ່ແມ່ນຄວາມຮັບຜິດຊອບສໍາລັບການຂໍ້ມູນຂ່າວສານທີ່ບໍ່ຖືກຕ້ອງຫຼືບໍ່ຖືກຕ້ອງທີ່ໂພດໃນເວັບໄຊທ໌ຫຼືທີ່ກ່ຽວຂ້ອງກັບການບໍລິການ,
+        ຜູ້ຊົມໃຊ້ຂອງເວັບໄຊທ໌ຫລືຮາດແວຫຼືຊອບແວທີ່ກ່ຽວຂ້ອງກັບການບໍລິການຂອງພວກເຮົາຫຼືຖືກນໍາໃຊ້ບໍ່ມີໃດຫນຶ່ງ.
+        Flutylove ບໍ່ແມ່ນຄວາມຮັບຜິດຊອບສໍາລັບການລັກສະນະການ, ທັ​​ງສອງອອນໄລນ໌ແລະອອຟໄລ,
+        ຂອງຜູ້ໃຊ້ຂອງເວັບໄຊທ໌ຂອງທ່ານ. Flutylove ບໍ່ໄດ້ໃຊ້ເວລາກ່ຽວກັບຄວາມຮັບຜິດຊອບສໍາລັບການໃດໆຄວາມຜິດພາດ,
+        ການປະຖິ້ມ, ການຂັດຂວາງ, ການລຶບ, ຄວາມເສຍຫາຍຫຼືການຊັກຊ້າໃນການດໍາເນີນງານຫລືການດໍາເນີນງານ,
+        ຄວາມລົ້ມເຫຼວຂອງການສື່ສານອອນໄລນ໌, ການລັກຫຼືການທໍາລາຍ, ການເຂົ້າເຖິງຮັບອະນຸຍາດຫຼືການປ່ຽນແປງຂອງສາຍການສື່ສານຂອງຜູ້ໃຊ້ໄດ້.
+        Flutylove ບໍ່ແມ່ນຄວາມຮັບຜິດຊອບສໍາລັບບັນຫາຫລື malfunction ດ້ານວິຊາການຂອງເຄືອຂ່າຍໂທລະສັບຫຼືສາຍ,
+        ລະບົບຄອມພິວເຕີອອນໄລນ໌, ເຄື່ອງແມ່ຂ່າຍຫຼືຜູ້ໃຫ້ບໍລິ, ອຸປະກອນຄອມພິວເຕີ, ຊອບແວ,
+        mail ຫຼືຜູ້ນຄວາມລົ້ມເຫຼວໃນບັນຊີຜູ້ໃຊ້, ບັນຫາດ້ານວິຊາການຫຼື congestion ໃນອິນເຕີເນັດຫຼືຢູ່ໃນເວັບໄຊທ໌ໃດ
+        ຫຼືປະສົມປະສານຂອງຕົນ, ລວມທັງອຸປະຕິເຫດຫຼືການບາດເຈັບໃນການໃຊ້ຫຼືພາກສ່ວນທີສາມທີ່ກ່ຽວຂ້ອງກັບຄອມພິວເຕີ,
+        ຫຼືເປັນຜົນມາຈາກການມີສ່ວນຮ່ວມໃນຫຼືຂໍ້ມູນການດາວໂຫລດທີ່ກ່ຽວຂ້ອງກັບເຄືອຂ່າຍແລະ
+        / ຫຼືການບໍລິການ. ພາຍໃຕ້ສະຖານະການທີ່ບໍ່ມີບໍລິສັດ Flutylove ຫຼືຂອງພີ່ນ້ອງຂອງຕົນ,
+        ຕົວແທນການໂຄສະນາ, ຜູ້ກໍ່ຕັ້ງຫຼືຄູ່ຮ່ວມງານການແຜ່ກະຈາຍຈະບໍ່ຮັບຜິດຊອບສໍາລັບການສູນເສຍຫຼືຄວາມເສຍຫາຍ,
+        ລວມທັງການບາດເຈັບສ່ວນບຸກຄົນຫຼືການເສຍຊີວິດ, ເນື່ອງຈາກວ່າການນໍາໃຊ້ຂອງເວັບໄຊທ໌ຫຼືການບໍລິການ,
+        ເນື້ອຫາໃດໆກໍຕາມທີ່ກ່ຽວກັບເວັບໄຊທ໌ , ຫຼືຕິດຕໍ່ພົວພັນລະຫວ່າງຜູ້ໃຊ້ຂອງເວັບໄຊທ໌ໄດ້,
+        ທັງສອງອອນໄລນ໌ແລະອອຟໄລໃດ. ເວັບໄຊທ໌ແລະການບໍລິການໃຫ້ບໍລິການກ່ຽວກັບການຄືດັ່ງທີ່ເປັນພື້ນຖານ,
+        ແລະ Flutylove ສະແດງປະຕິເສດການຮັບປະກັນໃດໆ​​ຫຼືການສອດຄ່ອງກັບຈຸດປະສົງສະເພາະໃດຫນຶ່ງ,
+        ຫຼືບໍ່ມີການລະເມີດສິດທິຂອງໃຜ. Flutylove ບໍ່ສາມາດຮັບປະກັນແລະບໍ່ໄດ້ສັນຍາຂອງຜົນການຄົ້ນຫາສະເພາະໃດຫນຶ່ງຈາກການນໍາໃຊ້ເວັບໄຊທ໌ແລະ
+        / ຫຼືການບໍລິການ.
+      limitation_of_responsibility: 15 ຂໍ້ຈໍາກັດຮັບຜິດຊອບ.
+      p_15: ເວັບໄຊທ໌ແລະການເຮັດວຽກລວມທັງສະຄິບທັງຫມົດ, ການນໍາໃຊ້, ເນື້ອໃນແລະການອອກແບບເວັບໄຊທ໌ໄດ້ຖືກສະຫນອງໃຫ້
+        AN AS ແມ່ນເປັນພື້ນຖານ. ບໍລິສັດປະຕິເສດຄວາມຮັບປະກັນວ່າເວັບໄຊທ໌ຫຼືການເຄື່ອນໄຫວຂອງມັນອາດຈະເຫມາະສົມຫຼືບໍ່ເຫມາະສົມກັບສໍາລັບຈຸດປະສົງສະເພາະໃດຫນຶ່ງຂອງການນໍາໃຊ້.
+        ບໍລິສັດບໍ່ສາມາດຮັບປະກັນແລະບໍ່ໄດ້ສັນຍາຜົນໄດ້ຮັບເພາະໃດຫນຶ່ງຈາກການນໍາໃຊ້ຂອງເວັບໄຊແລະ
+        / ຫຼືຫນ້າທີ່ຂອງຕົນ; ເພື່ອຫຼີກເວັ້ນການສັບສົນ, ຜູ້ໃຊ້ຄວນຈະສັງເກດເບິ່ງຂໍ້ຄວນລະວັງຄວາມປອດໄພໃນເວລາທີ່ການດາວໂຫຼດຈາກເວັບໄຊທ໌ຫຼືໂດຍຜ່ານການເຊື່ອມຕໍ່ກັບຄອມ,
+        ແລະການນໍາໃຊ້ຂອງເອກະສານໃດໆ, ເຊັ່ນດຽວກັນກັບ SOFTWARE. ບໍລິສັດຂໍແນະນໍາໃຫ້ນໍາໃຊ້ຊອບແວອະນຸຍາດເທົ່ານັ້ນເຊັ່ນດຽວກັນກັບສະແກນໄວ;
+        ໂດຍການນໍາໃຊ້ເວັບໄຊທ໌ໄດ້, ຜູ້ໃຊ້ເຫັນວ່າດາວໂຫຼດຈາກເວັບໄຊຫຼືການຊ່ວຍເຫຼືອຂອງເນື້ອໃນຢູ່ໃນພຣະອົງ
+        / ຄວາມສ່ຽງຂອງຕົນເອງແລະຮັບຜິດຊອບ sole ສໍາລັບຜົນເປັນໄປໄດ້ຂອງການນໍາໃຊ້ຂໍ້ມູນນີ້,
+        ລວມທັງຄວາມເສຍຫາຍທີ່ວ່າມັນອາດຈະເປັນສາເຫດການໃຊ້ຄອມພິວເຕີຫຼືກັບພາກສ່ວນທີສາມ ກິດຈະການ,
+        ຂໍ້ມູນສູນເສຍ, ຫລືຄວາມເສຍຫາຍອື່ນໆ; ພາຍໃຕ້ສະຖານະການທີ່ບໍ່ມີບໍລິສັດຫຼືຕົວແທນຂອງຕົນຮັບຜິດຊອບຄວາມຮັບຜິດຊອບບໍ່ມີການໃຫ້ກັບຜູ້ໃຊ້ຫລືໄປຍັງພາກສ່ວນທີສາມສໍາລັບທາງອ້ອມ,
+        ອຸບັດເຫດແລະບໍ່ຍອມເສຍຫາຍໃດໆ, ລວມທັງການສູນເສຍຜົນປະໂຫຍດ, ຫຼືການສູນເສຍຂໍ້ມູນ,
+        ຄວາມເສຍຫາຍຕໍ່ກຽດສັກສີ, ຄຸນຄ່າແລະຊື່ສຽງທຸລະກິດ, ເກີດຂຶ້ນຈາກການ ການນໍາໃຊ້ເວັບໄຊທ໌,
+        ເນື້ອໃນຂອງຕົນ OR ຂໍ້ມູນອື່ນ ໆ ທີ່ທ່ານຫຼືບຸກຄົນອື່ນໆທີ່ໄດ້ຮັບການເຂົ້າເຖິງເວັບໄຊທ໌,
+        ເຖິງແມ່ນວ່າຖ້າຫາກວ່າບໍລິສັດໄດ້ເຕືອນ OR ຊີ້ໃຫ້ເຫັນຄວາມເປັນໄປໄດ້ຂອງຄວາມເສຍຫາຍດັ່ງກ່າວ.
+      responsibilities_of_the_parties: 16 ຄວາມຮັບຜິດຊອບຂອງພາກສ່ວນທີ່.
+      p_16: ສັນຍານີ້ແມ່ນການປົກຄອງແລະສອດຄ່ອງກັບກົດຫມາຍຂອງສະຫະພັນລັດເຊຍ. ບັນຫາທີ່ບໍ່ໄດ້ຮັບການແກ້ໄຂໂດຍສັນຍາດັ່ງກ່າວຈະໄດ້ຮັບການຕົກລົງຢູ່ໃນສອດຄ່ອງກັບກົດຫມາຍຂອງສະຫະພັນລັດເຊຍ.
+        ໃນກໍລະນີຂອງການຜິດຖຽງກັນຫຼືຖຽງທີ່ກ່ຽວຂ້ອງກັບການປະຕິບັດລະບຽບການເຫຼົ່ານີ້, ຜູ້ຊົມໃຊ້ແລະບໍລິສັດຈະເຮັດໃຫ້ຄວາມພະຍາຍາມເພື່ອແກ້ໄຂບັນຫາໃຫ້ເຂົາເຈົ້າໂດຍຜ່ານການເຈລະຈາທຸກ.
+        ໃນກໍລະນີການໂຕ້ຖຽງກັນຈະບໍ່ແກ້ໄຂໂດຍການເຈລະຈາ, ການໂຕ້ຖຽງກັນຈະໄດ້ຮັບການຕົກລົງຢູ່ໃນສອດຄ່ອງກັບກົດຫມາຍສາມາດນໍາໃຊ້ຂອງສະຫະພັນລັດເຊຍ.
+        ສັນຍານີ້ແມ່ນປະຕິບັດໃນພາສາລັດເຊຍແລະສາມາດໄດ້ຮັບການສະຫນອງໃຫ້ແກ່ຜູ້ໃຊ້ສໍາລັບການທົບທວນຄືນໃນພາສາອື່ນ.
+        ໃນກໍລະນີຂອງຄວາມແຕກຕ່າງຂອງສະບັບພາສາຂອງລະບຽບການໃນພາສາລັດເຊຍແລະສະບັບພາສາຂອງຕົນໃນພາສາອື່ນໄດ້,
+        ສະບັບພາສາລັດເຊຍຂອງຂໍ້ກໍານົດຂອງລະບຽບການນີ້ຈະໄດ້ຮັບການນໍາໃຊ້. ຖ້າຫາກວ່າສໍາລັບເຫດຜົນຫຼືຄົນອື່ນ,
+        ຫນຶ່ງຫຼືຫຼາຍຂໍ້ກໍານົດຂອງກົດລະບຽບເຫຼົ່ານີ້ຈະໄດ້ຮັບການປະກາດບໍ່ຖືກຕ້ອງຫລືເສຍ,
+        ນີ້ບໍ່ໄດ້ມີຜົນກະທົບທີ່ຖືກຕ້ອງຫລືການບັງຄັບໃຊ້ຂໍ້ກໍານົດທີ່ຍັງເຫຼືອ.
+      other_provisions_and_changes: 17 ຂໍ້ກໍານົດອື່ນໆແລະການປ່ຽນແປງ.
+      p_17: ສັນຍານີ້ແມ່ນສັນຍາທີ່ແທ້ຈິງລະຫວ່າງທ່ານແລະ Flutylove ກ່ຽວກັບການນໍາໃຊ້ຂອງເວັບໄຊທ໌ແລະ
+        / ຫຼືການບໍລິການ. ຖ້າຫາກວ່າການສະຫນອງຂອງ voids ສັນຍານີ້, ສ່ວນທີ່ເຫຼືອຂອງສັນຍາດັ່ງກ່າວຍັງຖືກຕ້ອງຂອງຕົນໃນຜົນກະທົບຢ່າງເຕັມທີ່.
+        ຂໍ້ຕົກລົງນີ້ອາດຈະໄດ້ຮັບການແກ້ໄຂໂດຍ Flutylove ໃນທຸກເວລາ. ກະລຸນາບໍ່ລັ່ງເລທີ່ຈະຕິດຕໍ່ຫາພວກເຮົາທີ່ມີຄໍາຖາມກ່ຽວກັບສັນຍານີ້.
+      read_this: ຂ້າພະເຈົ້າໄດ້ອ່ານຂໍ້ຕົກລົງນີ້ແລະຍອມຮັບທຸກເງື່ອນໄຂຂອງມັນ.
+    about:
+      about_flutylove: ກ່ຽວກັບ Flutylove
+      about_flutylove_text: Flutylove ແມ່ນເຄືອຂ່າຍການບັນເທີງຕ່າງປະເທດສັງຄົມສໍາລັບວັນທີ.
+        ໃນທີ່ນີ້ທ່ານສາມາດຊອກຫາຫມູ່ເພື່ອນ, soulmate ເປັ​​ນ, ຄູ່ຮ່ວມງານຫຼືພຽງແຕ່ໃຊ້ເວລາທີ່ໃຊ້ເວລາຂອງທ່ານທີ່ມີຄວາມສຸກໂດຍບໍ່ມັກຫຼີ້ນເກມຫຼືສັງເກດເບິ່ງວິດີໂອ
+        / ຮູບພາບ.
+      flutylove_features: 'ໃນເວລາທີ່ທ່ານຈະເຂົ້າເຖິງຢູ່ໃນເວັບໄຊຂອງພວກເຮົາ, ທ່ານສາມາດຊອກຫາຄຸນນະສົມບັດຈໍານວນຫຼາຍເຊັ່ນ:'
+      video_call_feature: ທ່ານສາມາດສົນທະນາກັບຄູ່ຮ່ວມງານກັບ webcam
+      extended_search: ທ່ານສາມາດໃຊ້ການຄົ້ນຫາການຂະຫຍາຍສໍາລັບການຟຣີ
+      multilanguages: ທ່ານສາມາດຄົ້ນຫາຄູ່ຮ່ວມງານຈາກປະເທດອື່ນ, ເນື່ອງຈາກວ່າການບໍລິການຂອງພວກເຮົາຄາດວ່າຈະນໍາໃຊ້ໂດຍລະດັບຄວາມກ້ວາງຂອງປະຊາຊົນຈາກບັນດາປະເທດອື່ນໆນັບຕັ້ງແ​​ຕ່ມັນໄດ້ຖືກແປຫຼາຍກ່ວາ
+        70 ພາສາ
+      play_games_chatting_etc: ທ່ານສາມາດສົນທະນາກັບປະຊາຊົນອື່ນໆ, ຫລິ້ນເກມແລະເຮັດອີກສິ່ງສັງຄົມ
+      we_are_in_social_networks: 'ພວກເຮົາຢູ່ໃນເຄືອຂ່າຍສັງຄົມ:'
+      facebook: ເຟສບຸກ
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: ກູໂກບວກ
+      instagram: Instagram
+      github: GitHub
+      we_use_open_source_and_high_technology: ພວກເຮົານໍາໃຊ້ເຕັກໂນໂລຊີສູງແລະຫ້ອງສະຫມຸດເປັນແຫຼ່ງເປີດ.
+        ພວກເຮົາສະເຫມີພະຍາຍາມເພື່ອໃຫ້ໄດ້ຮັບທີ່ດີກວ່າແລະການປັບປຸງການບໍລິການຂອງພວກເຮົາ.
+      partners_and_investors: ພວກເຮົາເປີດບໍລິການການຮ່ວມມືແລະພວກເຮົາຈະຕ້ອງການເພື່ອຊອກຫານັກລົງທຶນ.
+        ຖ້າຫາກວ່າທ່ານຕ້ອງການທີ່ຈະຮ່ວມມືກັບພວກເຮົາກະລຸນາຕິດຕໍ່ຫາພວກເຮົາທີ່ partnership@flutylove.com
+    faq:
+      faq: FAQ
+      what_is_flutylove: Flutylove ເປັ​​ນແນວໃດ?
+      about_flutylove: Flutylove ແມ່ນເຄືອຂ່າຍການບັນເທີງຕ່າງປະເທດສັງຄົມສໍາລັບວັນທີ.
+        ໃນທີ່ນີ້ທ່ານສາມາດຊອກຫາຫມູ່ເພື່ອນ, soulmate ເປັ​​ນ, ຄູ່ຮ່ວມງານຫຼືພຽງແຕ່ໃຊ້ເວລາທີ່ໃຊ້ເວລາຂອງທ່ານທີ່ມີຄວາມສຸກໂດຍບໍ່ມັກຫຼີ້ນເກມຫຼືສັງເກດເບິ່ງວິດີໂອ
+        / ຮູບພາບ.
+      what_features_has_flutylove: ຈະເປັນແນວໃດລັກສະນະມີ Flutylove?
+      flutylove_features: ໃນທີ່ນີ້ທ່ານສາມາດສົນທະນາກັບ VIDEOCAM, ການນໍາໃຊ້ຄົ້ນຫາການຂະຫຍາຍ,
+        ບັນດາຄູ່ຮ່ວມຄົ້ນຫາຈາກປະເທດອື່ນ, ຫລິ້ນເກມແລະເຮັດວັດຖຸດິບທາງສັງຄົມອື່ນໆ.
+      i_have_some_requests: ຂ້າພະເຈົ້າມີການຮ້ອງຂໍບາງ
+      you_can_write_request: ທ່ານສາມາດເຂົ້າເຖິງແລະຂຽນ
+      here: ນີ້
+      i_have_seen_some_typo_or_wrong_translation: ຂ້າພະເຈົ້າໄດ້ເຫັນ typo ຫຼືການແປພາສາບໍ່ຖືກຕ້ອງ
+      you_can_send_pull_request_to_our: ທ່ານສາມາດສົ່ງຄໍາຮ້ອງຂໍ Pull ກັບພວກເຮົາ
+      i_have_seen_some_error: ຂ້າພະເຈົ້າໄດ້ເຫັນຄວາມຜິດພາດບາງ
+      you_can_send: ທ່ານສາມາດສົ່ງຄໍາຄິດເຫັນໃຫ້ພວກເຮົາໂດຍ
+      feedback: ແບບຟອມນີ້
+      to_us_or_write_to_our_info_mail: ຫຼືຂຽນອີເມລ໌ເພື່ອ support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: ຍິນດີຕ້ອນຮັບ Flutylove
+      you_have_successfully_signed_up_to_flutylove: ທ່ານໄດ້ສໍາເລັດເຖິງ Flutylove
+      you_can_sign_in_with_your_social_networks: ຖ້າຫາກວ່າທ່ານຕ້ອງການທີ່ຈະເຂົ້າສູ່ລະບົບອີກເທື່ອຫນຶ່ງທີ່ທ່ານສາມາດເຂົ້າກັບບັນຊີເຄືອຂ່າຍສັງຄົມຂອງທ່ານ
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: ຖ້າຫາກວ່າທ່ານຕ້ອງການທີ່ຈະເຂົ້າສູ່ລະບົບທີ່ມີອີເມລແລະລະຫັດຜ່ານທີ່ທ່ານສາມາດມີການປ່ຽນແປງລະຫັດຜ່ານໂດຍອອກອາການແລະໃຫ້ຄລິກໃສ່ການເຊື່ອມຕໍ່ຂ້າງລຸ່ມນີ້
+      change_password: ການປ່ຽນແປງລະຫັດຜ່ານ
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: ທີ່ບໍ່ຖືກຕ້ອງ
+            search_for:
+              search_for_error: ທີ່ບໍ່ຖືກຕ້ອງ
+            birth_date:
+              birth_date_error: ຈໍາເປັນຕ້ອງຫຼາຍກ່ວາ 18 ແລະນ້ອຍກວ່າ 115
+            interests:
+              interests_error: ຈໍາເປັນຕ້ອງມີສັນຍາລັກຫນ້ອຍກ່ວາ 2000
+            jobs:
+              jobs_error: ຈໍາເປັນຕ້ອງມີສັນຍາລັກຫນ້ອຍກ່ວາ 2000
+            languages:
+              languages_error: ຈໍາເປັນຕ້ອງມີສັນຍາລັກຫນ້ອຍກ່ວາ 2000
+            sex_keywords:
+              sex_keywords_error: ຈໍາເປັນຕ້ອງມີສັນຍາລັກຫນ້ອຍກ່ວາ 2000
+            my_turn_ons:
+              my_turn_ons_error_error: ທີ່ບໍ່ຖືກຕ້ອງ
+            contacts:
+              contacts_length_error: ຈໍາເປັນຕ້ອງມີສັນຍາລັກຫນ້ອຍກ່ວາ 2000
+              contacts_size_error: ຈໍາເປັນຕ້ອງຫນ້ອຍກ່ວາ 21 ຕິດຕໍ່ພົວພັນ
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: ມີມູນຄ່າທີ່ບໍ່ຖືກຕ້ອງ
+  devise:
+    confirmations:
+      confirmed: ບັນຊີຂອງທ່ານໄດ້ຖືກຢືນຢັນສົບຜົນສໍາເລັດ.
+      send_instructions: ທ່ານຈະໄດ້ຮັບອີເມລ໌ທີ່ມີຄໍາແນະນໍາກ່ຽວກັບວິທີການຢືນຢັນບັນຊີຂອງທ່ານໃນສອງສາມນາທີ.
+      send_paranoid_instructions: ຖ້າຫາກວ່າທີ່ຢູ່ອີເມວຂອງທ່ານຢູ່ໃນຖານຂໍ້ມູນຂອງພວກເຮົາ,
+        ທ່ານຈະໄດ້ຮັບອີເມລ໌ທີ່ມີຄໍາແນະນໍາກ່ຽວກັບວິທີການຢືນຢັນບັນຊີຂອງທ່ານໃນສອງສາມນາທີ.
+      new:
+        send_mail_for_confirm_your_email: ສົ່ງອີເມວການຍືນຍັນອີເມວຂອງທ່ານ
+        submit: ຍື່ນສະເຫນີການ
+    failure:
+      already_authenticated: ເຈົ້າຍັງບໍ່ໄດ້ເຊັນສັນຍາໃນ.
+      inactive: ບັນຊີຂອງທ່ານບໍ່ໄດ້ເປີດນໍາໃຊ້ເທື່ອ.
+      invalid: ອີເມວບໍ່ຖືກຕ້ອງຫລືລະຫັດຜ່ານ.
+      locked: ບັນຊີຂອງທ່ານໄດ້ຖືກລັອກ.
+      last_attempt: ທ່ານມີຄວາມພະຍາຍາມເພີ່ມເຕີມກ່ອນທີ່ຈະບັນຊີຂອງທ່ານຈະໄດ້ຮັບການມີຊາຍແດນຕິດ.
+      not_found_in_database: ອີເມວບໍ່ຖືກຕ້ອງຫລືລະຫັດຜ່ານ.
+      timeout: ກອງປະຊຸມຂອງທ່ານຫມົດອາຍຸແລ້ວ. ກະລຸນາເຂົ້າສູ່ລະບົບອີກເທື່ອຫນຶ່ງທີ່ຈະສືບຕໍ່.
+      unauthenticated: ທ່ານຈໍາເປັນຕ້ອງເຂົ້າສູ່ລະບົບຫລືລົງທະບຽນກ່ອນທີ່ຈະສືບຕໍ່.
+      unconfirmed: ທ່ານມີເພື່ອຢືນຢັນບັນຊີຂອງທ່ານກ່ອນທີ່ຈະດໍາເນີນການຕໍ່.
+    mailer:
+      confirmation_instructions:
+        subject: ຄໍາແນະນໍາການຢັ້ງຢືນ
+        welcome_to_flutylove: ຍິນດີຕ້ອນຮັບ Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: ທ່ານສາມາດຢືນຢັນອີເມວຂອງທ່ານໂດຍຜ່ານການເຊື່ອມຕໍ່ຂ້າງລຸ່ມນີ້
+        confirm_my_account: ຢືນຢັນອີເມວຂອງຂ້າພະເຈົ້າ
+      reset_password_instructions:
+        hello: ສະບາຍດີ
+        subject: ຄໍາແນະນໍາລະຫັດຜ່ານ Reset
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: ມີບາງຄົນໄດ້ຮ້ອງຂໍການເຊື່ອມຕໍ່ກັບການປ່ຽນແປງລະຫັດຜ່ານຂອງທ່ານ.
+          ທ່ານສາມາດເຮັດໄດ້ໂດຍຜ່ານການເຊື່ອມຕໍ່ຂ້າງລຸ່ມນີ້.
+        change_my_password: ການປ່ຽນແປງລະຫັດຜ່ານຂອງຂ້າພະເຈົ້າ
+        if_you_didnt_request_this_please_ignore_this_email: ຖ້າຫາກວ່າທ່ານບໍ່ໄດ້ຮ້ອງຂໍນີ້ກະລຸນາບໍ່ສົນໃຈອີເມວນີ້.
+    omniauth_callbacks:
+      failure: ບໍ່ສາມາດແທ້ຈິງທີ່ທ່ານຈາກ% {ປະເພດ} ເພາະວ່າ "% {ເຫດຜົນ}".
+      success: authenticated ສົບຜົນສໍາເລັດຈາກ% ບັນຊີ {ປະເພດ}.
+    passwords:
+      no_token: ທ່ານບໍ່ສາມາດເຂົ້າເຖິງຫນ້ານີ້ໂດຍບໍ່ມີການມາຈາກອີເມວປ່ຽນລະຫັດຜ່ານ. ຖ້າຫາກວ່າທ່ານມາຈາກ
+        email ປັບລະຫັດຜ່ານກະລຸນາເຮັດໃຫ້ແນ່ໃຈວ່າທ່ານໄດ້ນໍາໃຊ້ URL ເຕັມສະຫນອງໃຫ້.
+      send_instructions: ທ່ານຈະໄດ້ຮັບອີເມລ໌ທີ່ມີຄໍາແນະນໍາກ່ຽວກັບວິທີການປັບລະຫັດຜ່ານຂອງທ່ານໃນສອງສາມນາທີ.
+      send_paranoid_instructions: ຖ້າຫາກວ່າທີ່ຢູ່ອີເມວຂອງທ່ານຢູ່ໃນຖານຂໍ້ມູນຂອງພວກເຮົາ,
+        ທ່ານຈະໄດ້ຮັບການເຊື່ອມຕໍ່ການຟື້ນຕົວລະຫັດຜ່ານທີ່ຢູ່ອີເມວຂອງທ່ານໃນສອງສາມນາທີ.
+      updated: ລະຫັດຜ່ານຂອງທ່ານໄດ້ຖືກປ່ຽນແປງສົບຜົນສໍາເລັດ. ທ່ານກໍາລັງຢູ່ໃນປັດຈຸບັນໃນ.
+      updated_not_active: ລະຫັດຜ່ານຂອງທ່ານໄດ້ຖືກປ່ຽນແປງສົບຜົນສໍາເລັດ.
+      new:
+        forgot_your_password: ການກູ້ຄືນລະຫັດຜ່ານຂອງທ່ານ
+        reset_password: ແນະຟື້ນຕົວ url
+      edit:
+        change_your_password: ການປ່ຽນແປງລະຫັດຜ່ານຂອງທ່ານ
+        new_password: ລະຫັດຜ່ານໃຫມ່
+        change_password: ການປ່ຽນແປງ
+    registrations:
+      destroyed: Bye! ບັນຊີຂອງທ່ານໄດ້ຖືກຍົກເລີກຢ່າງສໍາເລັດຜົນ. ພວກເຮົາຫວັງວ່າເພື່ອເຂົ້າໄປເບິ່ງທ່ານອີກເທື່ອຫນຶ່ງໃນໄວໆນີ້.
+      signed_up: ຍິນດີຕ້ອນຮັບ! ທ່ານໄດ້ເຊັນຂຶ້ນຢ່າງສໍາເລັດຜົນ.
+      signed_up_but_inactive: ທ່ານໄດ້ລົງທະບຽນສົບຜົນສໍາເລັດ. ຢ່າງໃດກໍຕາມ, ພວກເຮົາບໍ່ສາມາດເຂົ້າສູ່ລະບົບທ່ານໃນເນື່ອງຈາກວ່າບັນຊີຂອງທ່ານແມ່ນຍັງບໍ່ທັນເປີດໃຊ້ວຽກ.
+      signed_up_but_locked: ທ່ານໄດ້ລົງທະບຽນສົບຜົນສໍາເລັດ. ຢ່າງໃດກໍຕາມ, ພວກເຮົາບໍ່ສາມາດເຂົ້າສູ່ລະບົບທ່ານໃນເນື່ອງຈາກວ່າບັນຊີຂອງທ່ານແມ່ນມີຊາຍແດນຕິດ.
+      signed_up_but_unconfirmed: ຂໍ້ຄວາມທີ່ມີການເຊື່ອມຕໍ່ການຢັ້ງຢືນເປັນ A ໄດ້ຖືກສົ່ງໄປທີ່ຢູ່ອີເມວຂອງທ່ານ.
+        ກະລຸນາເປີດການເຊື່ອມຕໍ່ໃນການກະຕຸ້ນບັນຊີຂອງທ່ານ.
+      update_needs_confirmation: ທ່ານປັບປຸງບັນຊີຂອງທ່ານສົບຜົນສໍາເລັດ, ແຕ່ພວກເຮົາຈໍາເປັນຕ້ອງໄດ້ຢືນຢັນທີ່ຢູ່ອີເມວຂອງທ່ານໃຫມ່.
+        ກະລຸນາກວດສອບອີເມວຂອງທ່ານແລະຄລິກໃສ່ການເຊື່ອມຕໍ່ຢືນຢັນທີ່ຈະສິ້ນສຸດການຢືນຢັນທີ່ຢູ່ອີເມວຂອງທ່ານໃຫມ່.
+      updated: ທ່ານປັບປຸງບັນຊີຂອງທ່ານສົບຜົນສໍາເລັດ.
+      new:
+        sign_up: ຂຽນເຂົ້າເຖິງ
+        name: ຊື່
+        password: ລະຫັດຜ່ານ
+        register: ຂຽນເຂົ້າເຖິງ
+    shared:
+      links:
+        sign_in: ເຂົ້າສູ່ລະບົບ
+        sign_up: ຂຽນເຂົ້າເຖິງ
+        didnt_receive_confirmation_instructions: ບໍ່ໄດ້ຮັບຄໍາແນະນໍາການຢັ້ງຢືນ?
+        sign_in_with: ຂຽນເຂົ້າໃນກັບ
+        fast_login_almost_one_click: ເຂົ້າສູ່ລະບົບໄວ (ເກືອບຫນຶ່ງຄລິກ)
+    sessions:
+      signed_in: ສູ່ລະບົບສົບຜົນສໍາເລັດ.
+      signed_out: ເຊັນອອກສົບຜົນສໍາເລັດ.
+      new:
+        sign_in: ເຂົ້າສູ່ລະບົບ
+        password: ລະຫັດຜ່ານ
+        remember_me: ຈືຂໍ້ມູນການຂ້າພະເຈົ້າ
+        forgot_your_password: ລືມລະຫັດຜ່ານຂອງທ່ານ?
+    unlocks:
+      send_instructions: ທ່ານຈະໄດ້ຮັບອີເມລ໌ທີ່ມີຄໍາແນະນໍາກ່ຽວກັບວິທີການປົດລັອກບັນຊີຂອງທ່ານໃນສອງສາມນາທີ.
+      send_paranoid_instructions: ຖ້າຫາກວ່າບັນຊີຂອງທ່ານຢູ່, ທ່ານຈະໄດ້ຮັບອີເມລ໌ທີ່ມີຄໍາແນະນໍາກ່ຽວກັບວິທີປົດລັອກໃນບໍ່ເທົ່າໃດນາທີ.
+      unlocked: ບັນຊີຂອງທ່ານໄດ້ຮັບການປົດລັອກສົບຜົນສໍາເລັດ. ກະລຸນາເຂົ້າສູ່ລະບົບທີ່ຈະສືບຕໍ່.
+  timezones:
+    American Samoa: ອາເມລິກາຊາມົວ
+    International Date Line West: Date Line International West
+    Midway Island: ເກາະມິດເວ
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Pacific Time (US & Canada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: ຊິວາວາ
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): ເວລາພູເຂົາ (ສະຫະລັດແລະການາດາ)
+    Central Time (US & Canada): Central Time (US & Canada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): ເວລາພາກຕາເວັນອອກ (ສະຫະລັດແລະການາດາ)
+    Indiana (East): Indiana (ຕາເວັນອອກ)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlantic ທີ່ໃຊ້ເວລາ (ການາດາ)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Greenland
+    Montevideo: Montevideo
+    Mid-Atlantic: ກາງ Atlantic
+    Azores: Azores
+    Cape Verde Is: Cape Verde ຄື.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lisbon
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrade
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Brussels
+    Budapest: Budapest
+    Copenhagen: Copenhagen
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Prague
+    Rome: Rome
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Vienna
+    Warsaw: Warsaw
+    West Central Africa: West Central Africa
+    Zagreb: Zagreb
+    Athens: Athens
+    Bucharest: Bucharest
+    Cairo: Cairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: ເຢຣູຊາເລັມ
+    Kaliningrad: Kaliningrad
+    Kyiv: Kyiv
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Baghdad
+    Kuwait: ຄູເວດ
+    Minsk: Minsk
+    Moscow: Moscow
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: ເຊນປີເຕີເບີກ
+    Volgograd: Volgograd
+    Tehran: Tehran
+    Abu Dhabi: ອາບູດາບີ
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Yerevan
+    Kabul: Kabul
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: ຮ່າໂນ້ຍ
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: ປັກກິ່ງ
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: ສິງກະໂປ
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: New Caledonia
+    Solomon Is: Solomon ເປັນ.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: ຟິຈິ
+    Kamchatka: Kamchatka
+    Marshall Is: Marshall Is.
+    Wellington: Wellington
+    Chatham Is: Chatham ເປັນ.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau ແມ່ນ.
+  lo: lo
+  lo_iso: lo

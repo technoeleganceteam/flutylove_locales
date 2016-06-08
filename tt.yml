@@ -1,0 +1,1174 @@
+---
+tt:
+  1_we_have_just_launched_our_service_title: Biz sadece bizim hizmet başlattı!
+  common_keywords: tarihlendirmelerinin online tarihlendirmelerinin, aşk tarihlendirmelerinin,
+    web kamerası partner, hız partner, chat partner, Ruby on Rails sitesini kalma,
+    çok dilli tanışma siteleri
+  common_description: tarihlemeleri için en gelişmiş uluslararası sosyal eğlence ağı
+    "Flutylove"
+  default_album: varsayılan albüm
+  user: Kullanıcı
+  user_to_search_connection: Arama
+  video: video
+  note: Not
+  photo_album: Fotoğraf Albümü
+  from: itibaren
+  to: için
+  vkontakte: Vkontakte,
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Erkek
+  - female:
+      name: Kadın
+  - transgender:
+      name: Transseksüel
+  - male-female:
+      name: Erkek-Dişi
+  - double-female:
+      name: Çift kadın
+  - double-male:
+      name: Çift erkek
+  orientation:
+  - heterosexual: Heteroseksüel
+  - homosexual: Homoseksüel
+  - bisexual: Biseksüel
+  search_for:
+  - get_friends: Alın arkadaşlar
+  - flirtation: Flirtation
+  - marriage: Evlilik
+  - other: Diğer
+  body_type:
+    slim: İnce
+    normal: Normal
+    chubby: Tombul
+  relationship:
+    single: Tek
+    married: Evli
+  children:
+    dont_have: yok
+    dont_have_and_dont_want_to: yok ve istemiyorum
+    don_t_have_but_planning: var ama planlama yok
+    have_enough: Var
+    have_and_planning_more: Var ve daha planlama
+  education:
+    nothing: şey
+    secondary_school: Ortaokul
+    college_technical_college: okul / Meslek Yüksekokul
+    university: Üniversitesi
+    postgraduate: Lisansüstü
+    phd_md_post_doctorate: Doktora / MD / Cevap doktora
+  hair_color:
+    blonde: Sarışın
+    dark_blond: Koyu sarışın
+    brown: Brown
+    black: Siyah
+    red: Kırmızı
+    gray: Gri
+    other: Diğer
+  income:
+    unstable_earnings: Kararsız kazanç
+    small_stable_earnings: Küçük istikrarlı kazanç
+    medium_stable_earnings: Orta istikrarlı kazanç
+    high_income: Yüksek gelir
+  smoking:
+    not_smoke_and_detest: sigara ve sigara nefret değil
+    smoke_only_after_drinking: Duman sadece içtikten sonra
+    smoke_occasionally: Duman bazen
+    smoke_often: Duman sık sık
+  alcohol:
+    drink_occalionally: İçecek bazen
+    drink_often: İçecek genellikle
+  drugs:
+    dont_use: kullanmayın
+    contra_drugs: Contra ilaçlar
+    tried_out_some: dışarı çalıştı bazı
+    light_drugs_occasionally: Işık ilaçlar bazen
+  sponsor:
+    i_want_to_find_a_sponsor: Ben bir sponsor bulmak istiyorum
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: sponsor arıyor değil
+      ve biri haline istekli değil
+  category_name:
+    strategy: Strateji
+    rpg: RPG
+    3d_shooters: 3D atıcılar
+    racing: Yarış
+    arcade: Arcade
+    economic: Ekonomik
+    simulators: Simülatörleri
+    logic: Mantık
+    adventure: Macera
+    board_games: Toplu oyunlar
+    gambling: Kumar
+    news: Haberleri
+    communication: İletişim
+    multimedia: Multimedya
+    drawing: Çizim
+    educational: Eğitim
+    e_commerce: E-Ticaret
+    other: Diğer
+  shared:
+    header:
+      people: İnsanlar
+      chat: Sohbet
+      groups: Gruplar
+      forum: Forum
+      requests: İstekler
+      help: Yardım
+      user_applications: Uygulamalar
+    liked_users:
+      liked: Beğendim
+      all: Tüm
+      you_have_not_liked_any_users_yet: Henüz kullanıcıları makbul değil
+    most_liked_users:
+      most_liked_users: Popüler kullanıcılar
+    installed_user_applications:
+      installed_applications: Yüklü uygulamalar
+      all: Tüm
+      you_have_not_installed_any_apps_yet: Henüz herhangi bir uygulama yüklü değil
+    user_applications:
+      uploaded_apps: Yüklenen uygulamaları
+      all: Tüm
+      you_have_not_uploaded_any_apps_yet: Henüz herhangi bir uygulama yüklendi değil
+    right_sidebar:
+      news: Haberleri
+      all: Tüm
+      read_more: Devamı
+    footer:
+      privacy: Gizlilik
+      terms: Şartlar
+      feedback: Görüşleri
+      abuse: Kötüye
+    languages_select_modal:
+      available_languages: Mevcut diller
+    site_map_modal:
+      site_map: Site haritası
+      faq: SSS
+      about: Hakkında
+      static_pages: Statik sayfalar
+      common_pages: Ortak sayfalar
+      user_pages: Kullanıcı sayfaları
+      terms: Şartlar
+      privacy: Gizlilik
+      people: İnsanlar
+      user_applications: Uygulamalar
+      user_requests: İstekler
+      news: Haberleri
+      feedback: Görüşleri
+      abuse: Kötüye
+      chats: Sohbetler
+      videos: Videolar
+      photo_albums: Foto albümler
+      notes: Notlar
+    pagination_link:
+      next_page: Sonraki sayfa
+    user_edit_menu:
+      content: İçerik
+      profile: Profil
+      site_settings: Site ayarları
+      privacy: Gizlilik
+      services: Hizmetler
+    activities_navigation:
+      all: Tüm
+      photos: Resimleri
+      photo_albums: Foto albümler
+      notes: Notlar
+      videos: Videolar
+    notifications_navigation:
+      all: Tüm
+      likes: Beğeniler
+      friend_requests: Arkadaş istekleri
+      profile_views: Profil gösterimi
+      photo_album_views: Resimleri görünümleri
+    user_to_friend_connections_navigation:
+      friends: Arkadaşlar
+      friends_online: Online Arkadaşlarım
+      outcome_requests: Sonuç istekleri
+      income_requests: Gelir istekleri
+    user_applications_navigation:
+      all: Tüm
+      new: Yeni
+      popular: Popüler
+      often_installed: Genellikle yüklü
+      manage: yönetme
+    user_requests_navigation:
+      all: Tüm
+      popular: Popüler
+    user_navbar_menu:
+      sign_in: Oturum açın
+      sign_up: kaydol
+    email_signature:
+      info: Bilgisi
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: seçin cinsiyet
+      select_orientation: seçin oryantasyon
+      select_search_for: seç arama
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Bu eylem önce oturum açmanız gerekir
+    sign_up_methods:
+      usual_register_link: zamanki kaydı
+    bootstrap_gallery:
+      next: Sonraki
+    user_notification_title:
+      wrote_message_to_you: size mesaj yazdı
+      viewed_your_profile: Profilinizi Görüntülenen
+      liked_your_photo: fotoğrafını Beğendim
+      liked_your_note: notunuzu Beğendim
+      liked_your_request: isteğinizi Beğendim
+      liked_your_video: videonuzu Beğendim
+      liked_your_application: uygulama Beğendim
+      requested_a_friendship: bir dostluk Talep
+  authentications:
+    authentication:
+      turn_off: kapatma
+      turned_on: üzerine döndü
+      turned_off: kapattım
+    index:
+      enabled_services: Etkin hizmetler
+  users:
+    profile:
+      submit: kaydet
+      name: Adı
+      meet_with: tanışın ile
+      gender: Cinsiyet
+      enter_your_name: Adınızı girin
+      more_options: Daha
+      orientation: Oryantasyon
+      birth_date: Doğum tarihi
+      location: Yer
+      search_for: ara
+      intimacy: Samimiyet
+      from: itibaren
+      to: için
+      interests: İlgi
+      height: Yükseklik
+      weight: Ağırlık
+      body_type: Vücut tipi
+      hair_color: Saç rengi
+      relationship: İlişki
+      children: Çocuklar
+      living: Yaşam
+      education: Eğitim
+      jobs: İş
+      income: Gelir
+      languages: Diller
+      smoking: Sigara
+      alcohol: Alkol
+      drugs: İlaçlar
+      contacts: İletişim
+      contact_name: İletişim adı
+      contact_value: İletişim değeri
+      save: kaydet
+    settings:
+      submit: kaydet
+      locale: Arayüz dili
+      change_password: Şifre değiştir
+      interface_language: Arayüz dili
+      time_zone: Saat dilimi
+    dialog_modal:
+      send_message: Mesaj gönder
+    index:
+      users: Kullanıcılar
+      clear_search: temizle arama
+    dashboard:
+      hello: Merhaba
+      chats: Sohbetler
+      messages: Mesajlar
+      photos: Resimleri
+      videos: Videolar
+      notes: Notlar
+      photo_albums: Foto albümler
+    avatar:
+      photo: Fotoğraf
+      uploading_file: yükleniyor dosyası
+      handling_file: Taşıma dosyası
+      drag_and_drop_your_file: sürükleyin ve dosya açılır
+      or: veya
+      upload_file: dosya yükleme
+      write_down_link_for_your_image: senin resmin linki yere yazın
+      upload: yükle
+      edit_photo: düzenleme fotoğraf
+      delete_photo: Sil fotoğraf
+      are_you_sure: Emin misiniz?
+    available_photos_modal:
+      available_photos: Mevcut fotolar
+    edit_photo:
+      edit_photo: düzenleme fotoğraf
+      crop: Kırpma
+      close: Kapat
+      save_changes: kaydet değişiklikler
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: URL / nick / id / vb
+    user:
+      orientation: Oryantasyon
+      meet_with: tanışın ile
+      desirable_age: Arzulanan yaş
+      from: itibaren
+      to: için
+      interests: İlgi
+      height: Yükseklik
+      sm: sm
+      kg: kg
+      body_type: Vücut tipi
+      hair_color: Saç rengi
+      relationship: İlişki
+      children: Çocuklar
+      living: Yaşam
+      education: Eğitim
+      jobs: İşler
+      income: Gelir
+      languages: Diller
+      smoking: Sigara
+      alcohol: Alkol
+      drugs: İlaçlar
+      contacts: İletişim
+    user_info:
+      offline: Çevrimdışı
+      online: Çevrimiçi
+      age: Yaş
+    loading_modal_images:
+      loading_images: Yükleme görüntüleri
+    password_form:
+      new_password: Yeni şifre
+      old_password: Eski şifre
+      change_password: Şifre değiştir
+    show:
+      photos: Resimleri
+      all: Tüm
+      videos: Videolar
+      notes: Notlar
+      view: Görünüm
+    dropbox_token_form:
+      key: Anahtar
+      paste_recieved_key: Yapıştır alınan anahtar
+      submit: Gönder
+    contents:
+      all: Tüm
+    more_profile_info:
+      photo_albums: Foto albümler
+      view_all_photo_albums: tüm fotoğraf albümleri görüntüle
+      create_more: daha oluşturun
+      videos: Videolar
+      view_all_videos: Tüm videoları
+      notes: Notlar
+      view_all_notes: Tüm notlar
+      requirements_lists_to_partner: Gereksinimler ortağı listeler
+      requirement: Gereği
+      view_all_requirements_lists: Tüm gereksinimleri listeleri
+      profile_verification: Profil doğrulama
+      create: oluştur
+      verify_through_twitter: Twitter üzerinden doğrulama
+      verify_through_facebook: Facebook üzerinden doğrulama
+      verify_through_mail_ru: Mail.ru aracılığıyla doğrulama
+    privacy:
+      privacy: Gizlilik
+  searches:
+    form:
+      location: Yer
+      from: itibaren
+      to: için
+      age: Yaş
+      gender: Cinsiyet
+    form_content:
+      city: Şehir
+      gender: Cinsiyet
+      age_from: Yaş
+      to: için
+      online: Çevrimiçi
+      verified: Doğrulanmış
+      has_avatar: avatar Has
+      region: Bölge
+      more: Daha
+      country: Ülke
+      interests: İlgi
+      languages: Diller
+      names: İsimler
+      height: Yükseklik
+      from: itibaren
+      weight: Ağırlık
+      body_type: Vücut tipi
+      relationship: İlişki
+      hair_color: Saç rengi
+      education: Eğitim
+      orientation: Oryantasyon
+      children: Çocuklar
+      living: Yaşam
+      smoking: Sigara
+      alcohol: Alkol
+      drugs: İlaçlar
+      income: Gelir
+    show:
+      users: Kullanıcılar
+      clear_search: temizle arama
+  welcome:
+    index:
+      people: İnsanlar
+      requests: İstekler
+      user_applications: Uygulamalar
+      about: Hakkında
+      features: Özellikler
+      registration: Kayıt
+      sign_in: Oturum açın
+      find_more: Daha fazlası için
+      about_title: Flutylove tarihlemeleri için uluslararası sosyal eğlence ağı
+      about_text: sen eğlenceleri ve tarihlemeleri için kullanabileceğiniz birçok
+        özellikleri vardır!
+      many_languages: Birçok dil
+      check_it_out: Check it out
+      videochats: görüntülü sohbet
+      try_it_now: Şimdi deneyin
+      search: Arama
+      text_about_search: ve ücretsiz!
+      watch_this: izle
+      more_features: Diğer özellikler
+      register_and_learn_more: Kayıt ve daha fazla bilgi edinmek
+      install_our_apps: popüler platformlarda bizim uygulamalarını yükleyin
+      register_header: Kayıt
+  feedbacks:
+    new:
+      feedback_title: Görüşleri
+    form:
+      feedback_content: Geri Bildirim içerik
+      close: Kapat
+      send: Gönder
+      feedback_recaptcha: Güvenlik Sorgulama
+      cancel: İptal
+    success:
+      success_feedback: teşekkür ederiz! Biz geri alınan var.
+      close: Kapat
+      cancel: İptal
+      more: daha Gönder
+  abuses:
+    new:
+      abuse_title: Kötüye
+    form:
+      abuse_content: Kötüye içeriği
+      abuse_title: Kötüye
+      close: Kapat
+      send: Gönder
+      abuse_recaptcha: Güvenlik Sorgulama
+      abuse_link: Bağlantı
+      cancel: İptal
+    success:
+      success_abuse: teşekkür ederiz! Biz kötüye alınan var.
+      close: Kapat
+      cancel: İptal
+      more: daha Gönder
+  recaptcha:
+    errors:
+      verification_failed: Başarısız recaptcha
+      recaptcha_unreachable: Güvenlik Sorgulama erişilemiyor
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_text: Bugün yüzden herkes olabilir hizmetimizi
+        başlatmak
+      sign_up: kaydolmak
+      and_use_it: ve kullanın.
+      flutylove_team: Flutylove Takımı
+    index:
+      read_more: Devamı
+  chats:
+    panel_head:
+      online: Çevrimiçi
+      offline: Çevrimdışı
+    pagination_link:
+      next_page: Sonraki sayfa
+    form:
+      message_text: Mesaj metni
+    form_additions:
+      submit: Gönder
+      videochat: Videochat
+    show:
+      messages: Mesajlar
+    index:
+      messages: Mesajlar
+    videochat_request_link:
+      connect_to_videochat: bağlayın görüntülü sohbet etmek
+    modal_form:
+      send_message: Mesaj gönder
+      recipient: Alıcı
+      message: Mesajı
+      close: Kapat
+      submit: Gönder
+    waiting_video_answer_button:
+      waiting_for_response: yanıt bekleniyor ...
+    chat_created:
+      send_message: Mesaj gönder
+      message_was_sent: Mesaj gönderildi
+      close: Kapat
+  messages:
+    pagination_link:
+      next_page: Sonraki sayfa
+    form:
+      message_text: Mesaj metni
+  notifications:
+    user_to_friend_connection:
+      action: Eylem
+    notification:
+      offline: Çevrimdışı
+      online: Çevrimiçi
+    like:
+      action: Eylem
+    photo_album_view:
+      action: Eylem
+    user_view:
+      action: Eylem
+  user_applications:
+    user_application:
+      who_uploaded: Gönderen
+      all_uploaded_applications_by: Yüklenen tüm uygulamalar tarafından
+    form:
+      name: Adı
+      user_application_name: Uygulama adı
+      description: Açıklama
+      description_text: Açıklama metni
+      iframe_url: Iframe url
+      icon_for_application: Uygulama simgesi
+      upload_icon: İndirme simgesi
+      public: Kamu?
+      category_name: Kategori
+      create: oluştur
+      edit: Düzenleme
+    show:
+      application: Uygulama
+      return_to_uploaded_applications: uygulamasını yükledi için
+      edit_application: düzenleme uygulaması
+    manage:
+      installed_applications: Yüklü uygulamalar
+      uploaded_applications: Yüklenen uygulamaları
+      all: Tüm
+    index:
+      create_new: Yeni oluştur
+    installed:
+      installed_applications: Yüklü uygulamalar
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: görünümde önce bu uygulama
+        ilk oturum açmanız gerekir
+    need_to_install:
+      need_to_install_first: Önce bu uygulamayı yüklemeniz gerekir
+  likes:
+    index:
+      liked_items: Beğendim ürün
+  videos:
+    index:
+      videos: Videolar
+      create_new: Yeni oluştur
+      return_to_profile: Dönüş profil
+    video:
+      edit: Düzenleme
+      are_you_sure: Emin misiniz?
+      delete: Sil
+    modal_form:
+      create_new_video: yeni video oluşturun
+      close: Kapat
+      create: oluştur
+    form_content:
+      name: Adı
+      video_name: video ismi
+    show:
+      video: video
+      edit_video: Video düzenle
+    edit:
+      edit_video: Video düzenle
+      view_video: Görüntüle Video
+    form:
+      edit: Düzenleme
+  photo_albums:
+    index:
+      photo_albums: Foto albümler
+      create_new: Yeni oluştur
+      return_to_profile: Dönüş profil
+    photo_album:
+      edit: Düzenleme
+      create: oluştur
+      are_you_sure: Emin misiniz?
+      delete: Sil
+    edit:
+      edit_photo_album: düzenleme fotoğraf albümü
+      view_photo_album: isimli fotoğraf albümü
+    form_content:
+      name: Adı
+      photo_album_name: Fotoğraf Albümü adı
+    form:
+      edit: Düzenleme
+      create: oluştur
+    photo_album_uploader:
+      drag_and_drop_your_file: sürükleyin ve dosya açılır
+      or: veya
+      upload_file: dosya yükleme
+      write_down_link_for_your_image: senin resmin linki yere yazın
+      upload: yükle
+    show:
+      photo_album: Fotoğraf Albümü
+      edit_photo_album: düzenleme fotoğraf albümü
+    modal_form:
+      create_new_photo_album: Yeni fotoğraf albümü oluşturma
+      close: Kapat
+      create: oluştur
+  user_requests:
+    form:
+      content: İçerik
+      edit: Düzenleme
+      create: oluştur
+  notes:
+    index:
+      notes: Notlar
+      create_new: Yeni oluştur
+      return_to_profile: Dönüş profil
+    note:
+      edit: Düzenleme
+      are_you_sure: Emin misiniz?
+      delete: Sil
+    show:
+      note: Not
+      edit_note: Notu düzenle
+    form_content:
+      content: İçerik
+      note_content: Not içeriği
+      edit: Düzenleme
+      create: oluştur
+    edit:
+      edit_note: Notu düzenle
+      view_note: Görünüm notu
+  user_to_search_connections:
+    index:
+      requirements_lists: Koşullar listeleri
+      create_new: Yeni oluştur
+    user_to_search_connection:
+      edit: Düzenleme
+      are_you_sure: Emin misiniz?
+      delete: Sil
+    edit:
+      edit_requirements_list: düzenleme gereksinimleri listeleri
+      view_requirements_list: Görüntüle gereksinimleri listesi
+    form_content:
+      name: Adı
+    form:
+      edit: Düzenleme
+    show:
+      requirements_list: Koşullar listesi
+      edit_requirements_list: düzenleme gereksinimleri listesi
+  photos:
+    index:
+      photos: Resimleri
+      return_to_profile: profile
+  errors:
+    messages:
+      already_confirmed: zaten teyit edildi, oturum açmayı deneyin
+      confirmation_period_expired: "% {dönem} içinde teyit edilmesi gerekir yeni bir
+        isteyin"
+      expired: ", yeni bir isteyin"
+      not_found: bulunamadı
+      not_locked: kilitli değildi
+      not_saved:
+        one: '1 hata kaydedilmesini bu% {kaynak} yasak:'
+        other: "% kaydedilmesini bu% {kaynak} yasak hataları {count}:"
+    bad_request:
+      bad_request: Bad Request
+      request_result: Talep sonucu
+      go_to_root: köküne git
+    unprocessable_entity:
+      unprocessable_entity: İşlenemeyen Varlık
+      request_result: Talep sonucu
+      go_to_root: köküne git
+    not_found:
+      not_found: Bulunamadı
+      request_result: Talep sonucu
+      go_to_root: köküne git
+    forbidden:
+      forbidden: Yasak
+      request_result: Talep sonucu
+      go_to_root: köküne git
+    internal_server_error:
+      internal_server_error: Dahili Sunucu Hatası
+      request_result: Talep sonucu
+      internal_server_error_description: Bir şeyler ters gitti. Biz en kısa sürede
+        bunu çözecektir.
+      go_to_root: köküne git
+  af_full: 739 kişisel verilerin konuların haklarının korunması için yetkili makama
+    haber vermeden kişisel verilerin işlenmesi yürütmek hakkına sahiptir.
+  pages:
+    privacy:
+      privacy: Flutylove Gizlilik Politikası
+      general_provisions: Genel hükümler
+      p_1_1: 1.1. Bu Yönetmelik bulunan Limited Şirketi "Technoelegance" nin resmi
+        bir belge vardır 101000, Moskova, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1 (Flutylove, Şirket, biz bundan böyle) ve veri işleme ve bireylerin bilgi
+        güvenliği usulleri belirlemek kim 18 yaşını ulaşmıştır ve kimi web sitesi
+        https://flutylove.com (Web sitesi bundan sonra) ve hizmet (kullanıcıları anılacaktır)
+        kullanın.
+      p_1_2: 1.2. Bu Yönetmeliğin amacı, yetkisiz erişim ve ifşa kişisel veriler dahil
+        olmak üzere kullanıcı bilgilerinin nedeniyle koruma, sağlamaktır.
+      p_1_3: 1.3. toplama, depolama, dağıtım ve Web Sitesi kullanıcının bilgi güvenliği
+        ile ilgili ilişkiler bu Yönetmeliğin, Şirket'in diğer resmi belgeleri ve Rusya
+        Federasyonu mevcut mevzuat tarafından yönetilir.
+      p_1_4: 1.4. Bağlantı http://flutylove.com/pages/privacy~~dobj takip ederken
+        bir kamu belgedir Yönetmeliği, geçerli sürümü, herhangi bir internet kullanıcı
+        için kullanılabilir. Şirket, bu Yönetmelik değiştirme hakkına sahiptir. durumunda
+        değişiklik Yönetmelik yapılır, Şirket etkili önce, daimi adresi http://flutylove.com/pages/privacy~~pobj
+        de web sitesinde en geç 10 gün Yönetmeliği yeni sürümünü yayınlayarak kullanıcılara
+        bildirecektir değişikliklerin tarihi. Yönetmelikler önceki sürümleri Şirket
+        belgeleri arşivinde saklanır.
+      p_1_5: 1.5. Bu Yönetmelik geliştirilmiştir ve Kullanıcı Anlaşması uyarınca kullanılmaktadır.
+        Bu Yönetmelik ve Şirket'in diğer resmi belgeler arasında herhangi bir aykırı
+        olması halinde, bu Yönetmelik yürürlüğe gerekir.
+      p_1_6: 1.6. Web sitesini kullanarak, bu Gizlilik Politikası şartlarını ve koşullarını
+        kabul etmiş olursunuz. Lütfen dikkatlice okuyun. Bu Gizlilik Politikası şartlarını
+        kabul etmiyorsanız veya 18 yaşına gelmemiş ise, web sitesi ve Hizmetleri kullanamaz.
+        Web sitesini kullanarak, ne olursa olsun, kayıtlı Flutylove kullanıcı olup
+        olmadığını, sen tam bu Gizlilik Politikası'nı kabul ettiğinizi onaylamak ve
+        onu takip kabul ediyorum.
+      p_2_1: '2.1. Web Flutylove kullanmak için kayıt olmanız gerekmektedir. isim,
+        e-posta adresi, cinsiyet, doğum tarihi, konum bilgisi: Aşağıdaki bilgiler
+        kayıt sırasında belirtilmelidir. Kullanıcı kendi / kendi isteği ek kişisel
+        bilgilerini verebilir. Kullanıcı düzenleyebilir veya herhangi bir zamanda
+        kişisel bilgileri güncelleyebilir. Şirket ilgili değişikliğin cinsiyet ve
+        Kullanıcı doğum tarihi durumunda ek destekleyici belgeleri talep etme hakkına
+        sahiptir.'
+      p_2_2: 2.2. Web sitesinde kayıt için 18 yaşını doldurmuş için gerekli olduğunu
+        anlar;:, Web Sitesi ve hizmetlerinin, Şirkete erişim sağlayan makul bir şekilde
+        ve iyi niyetle hareket ederek, Kullanıcı kanaatindedir gerekli tüm haklara
+        bu Web sitesindeki kayıt ve kullanmak mümkün olmalıdır; kendisi hakkında doğru
+        bilgi gösterir / kendini Web hizmetleri kullanımına yönelik taleplerini göre;
+        Kullanıcı tarafından sağlanan web sitesinde kişisel bilgiler, hem de, kopyalanan
+        ve diğer kullanıcılar tarafından dağıtılabilir Sitesi ve internet kullanıcılarının
+        diğer kullanıcılar için kullanılabilir hale gelebilir farkında olduğunu; Diğer
+        kullanıcılar aktarılan bilgilerin bazı türleri, kullanıcı tarafından kaldırılamaz
+        farkındadır; Bu Yönetmeliğin haberdardır, onlarla aynı fikirde ve belirtilen
+        hak ve yükümlülükleri üstlenir.
+      p_2_3: 2.3. Böyle doğrulama kullanıcıya Şirketin yükümlülüklerini yerine getirmek
+        için gerekli olduğunda Şirket durumlar haricinde, kullanıcılar hakkında alınan
+        (toplanan) bilgilerin doğruluğunu etmez.
+      information_processing_objectives: Bilgi işleme hedefleri
+      p_3_1: 3.1. Şirket Web Sitesi ve hizmetlerinin kullanımı için kullanıcıları
+        Şirket'in yükümlülüklerini yerine getirmek amacıyla, kendi kişisel veriler
+        dahil olmak üzere kullanıcılar hakkında bilgi işlem yürütmektedir.
+      p_4_1: '4.1. Kullanıcıların kişisel bilgileri içerir:'
+      p_4_1_1: 4.1.1. ad, e-posta adresi, cinsiyet, Kullanıcılar tarafından sağlanan
+        ve web sitesinde kayıt için yeterli olması gerekiyordu doğum, konum bilgileri
+        ve telefon numarası, tarihi;
+      p_4_1_2: 4.1.2. (Örneğin fotoğraf, zararlı alışkanlıkları vb hakkında bilgi
+        almak için) Kullanıcı tarafından sağlanan bilgiler;
+      p_4_1_3: 4.1.3. ayrıca kullanıcı sözleşmesinden görünen, Kullanıcılara Şirketin
+        yükümlülüklerini yerine getirmek amacıyla Şirket isteğine göre Kullanıcı tarafından
+        sağlanan. Şirket Şirket takdirine bağlı olarak, gerekli olacaktır, kimlik
+        belgesi ya da isim, cinsiyet ve doğum tarihini içeren herhangi bir diğer belgeler,
+        yanı sıra diğer ek bilgilerin bir kopyasını ve kullanıcı istemek için özellikle
+        bir hakkı vardır böyle Kullanıcı tanımlaması için yeterli ve üçüncü tarafların
+        haklarının istismarı ve ihlali ortadan kaldıracaktır.
+      p_4_2: '4.2. Firma Web Sitesi İdaresi tarafından Diğer Kullanıcının bilgi işlem
+        de içeren Kullanıcılar, ilgili diğer bilgileri işler:'
+      p_4_2_1: 4.2.1. Web sitesi ve kullanıcı sonraki eylemleri erişirken otomatik
+        http-sunucusu tarafından alınan ortak veri, (host IP adresi, kullanıcının
+        işletim sisteminin türü, Web sayfaları kullanıcı tarafından ziyaret).
+      p_4_2_2: 4.2.2. imleri (çerezler) kullanarak Web Sitesi erişirken otomatik olarak
+        alınır bilgiler;
+      p_4_2_3: 4.2.3. Web Sitesi Kullanım eylemleri sonucunda alınan bilgi;
+      p_4_2_4: 4.2.4. Web sitesinde diğer kullanıcıların eylemleri sonucunda alınan
+        bilgi.
+      users_information_processing: Kullanıcı bilgi işlem
+      p_5_1: '5.1. Kişisel veri işleme aşağıdaki ilkeler temelinde yürüten: a) meşru
+        amaçlar ve kişisel verilerin işlenmesi araçları; b) dürüstlük; c) amaçları
+        ile kişisel veri işleme amaçları uyum önceden belirlenmiş ve kişisel verilerin
+        yanı sıra, Şirket''in kimlik uyumunu toplarken ilan; d) hacim ve kişisel verilerin
+        işlenmesi tipine ve onun işleme amaçlı kişisel verilerin işlenmesi araçlarının
+        uyum uyum; Uyumsuz amaçlar için oluşturulan veritabanlarını birleştiren kişisel
+        verileri içeren e) kabul edilemezlik.'
+      p_5_1_1: 5.1.1. kayıt yanı sıra gelecekte kullanıcı onun / onu kendi inisiyatifiyle
+        Sitesi araçlarını kullanarak kendisi / kendisi hakkında daha fazla bilgi ekler
+        ne zaman Kullanıcının kişisel verilerin toplanması web sitesinde yapılır.
+      p_5_1_2: 5.1.2. Kullanıcıların kişisel verilerin kişisel verilerin manuel işleme
+        yasama ihtiyaçlarını karşılamada açısından gerekli olduğu durumlarda hariç,
+        otomatik sistemler kullanılarak elektronik ortamda münhasıran depolanır ve
+        işlenir.
+      p_5_1_3: 5.1.3. Kullanıcının kişisel verileri açıkça bu Yönetmelik ve Kullanıcı
+        Sözleşmesi tarafından sağlanan durumlar dışında, herhangi bir üçüncü şahıslara
+        transfer edilmez. kullanıcının onayı ile, kişisel kullanıcı veri hizmetleri
+        ve uygulamaları kullanırken, özellikle, alınan bilgilerin gizliliğini sağlamak
+        için bir zorunluluk varsayımı koşul altında Şirket üçüncü counterparties iletilebilir.
+        Kanun gereği hükümet yetkilileri (yerel yönetimler) isteği üzerine kullanıcının
+        kişisel veri hazırlama prosedürü gerçekleştirilir.
+      p_5_1_4: '5.1.4. , Veri kendini silinen Kullanıcı tarafından sayfasından şunlardır:
+        - zaman kişisel kullanıcı verileri silinir - Sayfa kendiliğinden silinmiş
+        Kullanıcı tarafından; - Kullanıcı bilgi ve kişisel sayfa Şirket tarafından
+        kaldırılır. kişisel sayfası kaldırıldıktan sonra Kullanıcı kendisi tarafından
+        sayfa silme durumunda, Şirket, 210 gün içinde elektronik ortamda Kullanıcının
+        kişisel verileri saklar. kişisel sayfası çıkarıldıktan sonra kişisel verilerin
+        210 gün sona ermesi silinir. Bu süre sona erene kadar, Kullanıcı kişisel sayfası
+        geri hakkına sahiptir.'
+      users_rights_and_obligations: Kullanıcı hak ve yükümlülükleri
+      p_6_1: '6.1. Kullanıcı hakkına sahiptir:'
+      p_6_1_1: 6.1.1. kullanıcı adı ve şifre kullanımı ile Web üzerinde kişisel sayfası
+        düzenleyerek kısıtlama olmadan / onun hakkında onu bilgilere erişmek ve ücretsiz
+        olarak;
+      p_6_1_2: 6.1.2. bağımsız bu tür değişiklikler ve düzeltmeler içeriyor şartıyla
+        web sitesinde Kullanıcının kişisel sayfadaki bilgilerin değişiklik ve düzeltmeler
+        yapmak up-to-date ve gerçek bilgiler;
+      p_6_1_3: 6.1.3. Web sitesinde kişisel sayfasından bilgileri kaldırmak;
+      p_6_1_4: 6.1.4. Bu tür veriler kanunsuz alınan, modası geçmiş, eksik, yanlış
+        ya da işleme beyan amacıyla ya da gerekirse değilse Şirket, daha özel bilgiler,
+        blok almak veya kişisel verileri silmek için talep bu paragrafında 6.1.3 belirtilen
+        eylemler Yönetmelikler bağımsız hayata olamaz;
+      p_6_1_5: 6.1.5. istek temelinde, onun / onu kişisel verilerin işlenmesi ile
+        ilgili Şirketten bilgi almak.
+      p_6_2: '6.2. kayıtlı herhangi bir Web User hakkında aşağıdaki bilgileri kayıtlı
+        her zaman mevcuttur: kullanıcı adı, cinsiyet, yaş, profil fotoğrafı ve diğer
+        bilgileri Kullanıcı yayınlanmıştır varsa.'
+      p_6_3: 6.3. Şirket bu tür verileri eriştiğiniz web sitesinin diğer kullanıcıları
+        tarafından Kullanıcının kişisel verilerin açıklanması için herhangi bir sorumluluk
+        taşımaktadır.
+      p_6_4: 6.4. Kişisel verilerin (diğer kullanıcı bilgileri) Kullanıcının kişisel
+        sayfasından veya Web sitesinden Kullanıcının kişisel sayfasından kaldırılması
+        çıkarılma durumunda, Kullanıcı bilgileri, diğer kullanıcılar tarafından kopyalanan
+        veya korunmuş diğer Kullanıcıların sayfalarında saklanan.
+      users_information_protection_measures: Kullanıcıların bilgi koruma önlemleri
+      p_7_1: 7.1. Şirket Kullanıcının kişisel verilerin yetkisiz veya kazara erişim
+        silme, modifikasyon, engelleme, kopyalama ve yaygınlaştırılması yanı sıra
+        diğer yetkisiz eylemlerden korunmasını sağlamak için, teknik, örgütsel ve
+        yasal tedbirleri alır.
+      p_7_2: 7.2. Kullanıcının giriş (e-posta adresi veya cep telefonu numarası) ve
+        şifre Sitesi erişmek için kullanılır. Kullanıcı bu bilgileri gizli tutulmasından
+        sorumludur. Kullanıcı üçüncü şahıslara kullanıcı adı ve şifre devredemez ve
+        aynı zamanda gizliliğini sağlamak için gerekli tedbirleri almakla yükümlüdür.
+      user_requests: Kullanıcı istekleri
+      p_9_1: '9.1. Rusya, 101000, Moskova, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1 veya elektronik belge şeklinde: Kullanıcılar şu adresten yazılı olarak kişisel
+        verilerin kullanımı ile ilgili taleplerini de içeren Şirket''e istekleri göndermek
+        etme hakkına sahip support@flutylove.com: E-posta ile, Rusya Federasyonu mevzuatı
+        uyarınca nitelikli elektronik imza ile imzalanmış.'
+      p_9_2: '9.2. Kullanıcının isteği aşağıdaki bilgileri içermelidir: Kullanıcı
+        veya onun temsilcisi kimlik belgesinin sayısını; Yukarıdaki belge ve ruhsatı
+        veren otoritenin verildiği tarih; operatör ile ilişkilerde Kullanıcı katılımını
+        onaylayan bilgileri (özellikle sayfaya link); Kullanıcı ve / veya kendisine
+        temsilcisinin imzası.'
+      p_9_3: 9.3. Şirket düşünün ve o alındıktan sonra 30 gün içinde Kullanıcının
+        isteğine yanıt vermek için taahhüt eder.
+      p_9_4: 9.4. Kullanıcılar (yazılı ya da elektronik istekleri) Şirket tarafından
+        alınan tüm yazışmalar kısıtlı erişim bilgileri olarak sınıflandırılır ve Kullanıcı
+        yazılı onayı olmaksızın ifşa edilemez. istek gönderildi Kullanıcı hakkında
+        kişisel veriler ve diğer bilgileri farklı istek veya açıkça yürürlükte olan
+        yasa tarafından sağlanan durumlarda yanıt daha Kullanıcının özel izni olmadan,
+        kullanılamaz.
+    terms:
+      terms: Flutylove Kullanım Koşulları
+      consent_to_accept_the_terms_of_user_agreement: 1. MUVAFAKAT KULLANICI sözleşmesinin
+        koşullarını kabul İÇİN.
+      the_right_of_using_the_website: 2. WEB KULLANIMI HAKKI.
+      p_2: ". gereksinimlerine uyulmaması durumunda, Web erişim reddedilir. Web Sitesini
+        kullanarak, kullanıcı web sitesinde yayınlanan kişisel bilgiler diğer internet
+        kullanıcıları için kullanılabilir olabilir farkında olmalı ve şirket kendi
+        eylemleri için sorumluluk üstlenmek değil. tüm şartları ve koşulları takip
+        etmek size iddia ve bu Anlaşmanın içine girmek için bir hak, yetki ve imkanı
+        var taahhüt Bu Web Sitesini kullanarak ve rıza ile. Eğer iddia ve cinsel şiddete
+        ilişkin suç için mahkumiyet acı hiçbir zaman taahhüt Kullanıcı olmak. Web
+        sitesi sadece kişisel kullanım için tasarlanmıştır. Herhangi bir ticari amaçlarla
+        Web sitesini kullanmak yasaktır. Kurumsal kişiler bu Web sitesinin kullanıcıları
+        olamaz, yanı sıra bu hizmet veya kendi amaçları üzerinde Website kullanamazsınız.
+        Yasadışı ve / veya istenmeyen mesajlar ve bağlantıları göndermek amacıyla
+        elektronik veya diğer araçlar yardımıyla toplanması kullanıcı adı ve / veya
+        e-posta adresleri de dahil olmak üzere, web sitesinin kullanarak yetkisiz
+        takip ve Şirket de dahil olmak üzere, yasaya göre uygun tedbirleri alabilir
+        kolluk kuvvetleri için bir itiraz."
+      pricing_and_registration: 3. FİYATLANDIRMA VE KAYIT
+      terms_4: 4. KOŞULLARI.
+      account_security: 5. HESAP GÜVENLİĞİ.
+      forbidden_actions: 8. YASAK EYLEMLER.
+      p_9: Flutylove değiştirmek veya geçici veya kalıcı olarak hizmetini devre dışı
+        bırakmak için herhangi bir zamanda hakkını saklı tutar (veya herhangi bir
+        o parçası) haber vermeden. Sen Flutylove herhangi bir değişiklik, geçici kullanılabilirlik
+        veya Hizmetin tam devre dışı bırakılması için size veya herhangi bir üçüncü
+        şahıslara sorumlu olmadığını kabul edersiniz.
+      ip_address_blocking: 10. IP ADRESİ BLOK.
+      security_and_communication: 12. GÜVENLİK VE HABERLEŞME.
+      links: 14. BAĞLANTILAR.
+      other_provisions_and_changes: 17. DİĞER HÜKÜMLER VE DEĞİŞİKLİKLER.
+      read_this: BU SÖZLEŞMEYİ OKUYUN VE TÜM ŞARTLARI KABUL OLDU.
+    about:
+      about_flutylove_text: Flutylove tarihlemeleri için uluslararası sosyal eğlence
+        ağıdır. Burada arkadaş, bir Ruh, ortak bulmak ya da sadece oyunlar oynayarak
+        keyfini ile vakit geçirmek veya video / fotoğraf izleyin.
+      we_are_in_social_networks: 'Biz sosyal ağlar vardır:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte,
+      google_plus: Google plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Biz yüksek teknoloji ve açık kaynak
+        kütüphaneleri kullanın. Biz her zaman daha iyi ve hizmetimizi geliştirmek
+        için çalışıyoruz.
+      partners_and_investors: Biz ortaklık için açılan ve yatırımcılar bulmak istiyorum.
+        Eğer bizimle işbirliği isterseniz partnership@flutylove.com adresinden bizimle
+        irtibata geçin
+    faq:
+      faq: SSS
+      what_is_flutylove: Flutylove nedir?
+      about_flutylove: Flutylove tarihlemeleri için uluslararası sosyal eğlence ağıdır.
+        Burada arkadaş, bir Ruh, ortak bulmak ya da sadece oyunlar oynayarak keyfini
+        ile vakit geçirmek veya video / fotoğraf izleyin.
+      flutylove_features: Burada oyun oynamak, diğer ülkelerden genişletilmiş arama,
+        arama ortaklarını kullanın ve diğer sosyal maddeleri yapmak, videocams ile
+        sohbet edebilirsiniz.
+      i_have_some_requests: Ben bazı istekleri var
+      you_can_write_request: Sen kaydolmak ve yazabilirsiniz
+      i_have_seen_some_typo_or_wrong_translation: bazı yazım hatası ya da yanlış tercüme
+        gördük
+      github_repository: github depo
+      i_have_seen_some_error: Ben bazı hata gördük
+      to_us_or_write_to_our_info_mail: veya support@flutylove.com için e-posta yazmak
+  vi_full: 819, diğer ülkelerden ortaklar arama yapabilirsiniz
+  user_mailer:
+    welcome_email:
+      you_can_sign_in_with_your_social_networks: tekrar size sosyal ağ hesabı ile
+        oturum açabilirsiniz oturum açmak isterseniz
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Eğer
+        işareti dışarı ile şifrenizi değiştirebilirsiniz e-posta ve şifre ile oturum
+        açın ve aşağıdaki link tıklayın isterseniz
+      change_password: Şifre değiştir
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            birth_date:
+              birth_date_error: fazla 18 ve az sonra 115 olması gerekiyor
+            interests:
+              interests_error: az 2000 sembolden olması gerekir
+            jobs:
+              jobs_error: az 2000 sembolden olması gerekir
+            languages:
+              languages_error: az 2000 sembolden olması gerekir
+            sex_keywords:
+              sex_keywords_error: az 2000 sembolden olması gerekir
+            contacts:
+              contacts_length_error: az 2000 sembolden olması gerekir
+              contacts_size_error: az 21 kişi olması gerekir
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: geçersiz bir değere sahip
+  devise:
+    confirmations:
+      send_instructions: "."
+      send_paranoid_instructions: e-posta adresinizi oluşturulmadı varsa, birkaç dakika
+        içinde hesabınızı onaylamak konusunda talimatları içeren bir e-posta alacaksınız.
+      new:
+        send_mail_for_confirm_your_email: onaylamak e-posta için e-posta gönder
+        submit: Gönder
+    failure:
+      invalid: Geçersiz e-posta veya şifre.
+      last_attempt: "."
+      not_found_in_database: Geçersiz e-posta veya şifre.
+    mailer:
+      confirmation_instructions:
+        subject: Onay talimatları
+        confirm_my_account: benim e-posta onaylayın
+      reset_password_instructions:
+        hello: Merhaba
+        subject: Şifreyi talimatları
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Birisi
+          isteklerini şifrenizi değiştirmek için bir bağlantı vardır. Aşağıdaki bağlantı
+          üzerinden yapabilirsiniz.
+        if_you_didnt_request_this_please_ignore_this_email: Eğer bu e-postayı görmezden
+          lütfen istemediyseniz.
+      unlock_instructions:
+        subject: kilidini Talimatlar
+    omniauth_callbacks:
+      failure: '% {tür} "% {reason}" Çünkü sizi kimlik doğrulaması olamazdı.'
+      success: başarıyla% {tür} hesabından kimlik doğrulaması.
+    passwords:
+      send_instructions: "."
+      send_paranoid_instructions: e-posta adresinizi oluşturulmadı varsa, birkaç dakika
+        içinde e-posta adresinize bir şifre kurtarma bağlantı alacaksınız.
+      new:
+        forgot_your_password: şifrenizi kurtarma
+        reset_password: Gönder url kurtarmak
+      edit:
+        change_your_password: şifrenizi değiştirin
+        new_password: Yeni şifre
+        confirm_password: Parolayı onayla
+        change_password: Değişim
+    registrations:
+      signed_up: hoş geldiniz! Sen başarıyla imzaladı.
+      new:
+        sign_up: kaydol
+        name: Adı
+        password: Şifre
+        password_confirmation: Şifre onayı
+        register: kaydol
+    shared:
+      links:
+        sign_in: Oturum açın
+        sign_up: kaydol
+        didnt_receive_confirmation_instructions: onay talimatı alınan değil mi?
+        fast_login_almost_one_click: Hızlı giriş (neredeyse tek bir tıklama)
+    sessions:
+      signed_in: başarıyla oturum açıldı.
+      signed_out: başarıyla oturum açıldı.
+      new:
+        sign_in: Oturum açın
+        password: Şifre
+        remember_me: Beni hatırla
+        forgot_your_password: Şifreni mi unuttun?
+    unlocks:
+      send_instructions: "."
+  timezones:
+    American Samoa: Amerikan Samoası
+    International Date Line West: International Date Line West
+    Midway Island: Midway Adası
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Pasifik Saati (ABD ve Kanada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain Time (ABD ve Kanada)
+    Central America: Orta Amerika
+    Central Time (US & Canada): Central Time (ABD ve Kanada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Doğu Saati (ABD ve Kanada)
+    Indiana (East): Indiana (Doğu)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlantik Zamanı (Kanada)
+    Caracas: Karakas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Grönland
+    Montevideo: Montevideo
+    Mid-Atlantic: Orta Atlantik
+    Azores: Azores
+    Cape Verde Is: Cape Verde Adaları.
+    Casablanca: Kazablanka
+    Dublin: Dublin
+    Edinburgh: Edinburg
+    Lisbon: Lizbon
+    London: Londra
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrad
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Brüksel
+    Budapest: Budapeşte
+    Copenhagen: Kopenhag
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Prag
+    Rome: Roma
+    Sarajevo: Saraybosna
+    Skopje: Üsküp
+    Stockholm: Stockholm
+    Vienna: Viyana
+    Warsaw: Varşova
+    West Central Africa: Batı Orta Afrika
+    Zagreb: Zagreb
+    Athens: Atina
+    Bucharest: Bükreş
+    Cairo: Kahire
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: İstanbul
+    Jerusalem: Kudüs
+    Kaliningrad: Kaliningrad
+    Kyiv: Kiev
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofya
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Bağdat
+    Kuwait: Kuveyt
+    Minsk: Minsk
+    Moscow: Moskova
+    Nairobi: Nairobi
+    Riyadh: Riyad
+    St Petersburg: Petersburg
+    Volgograd: Volgograd
+    Tehran: Tahran
+    Baku: Bakü
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tiflis
+    Yerevan: Erivan
+    Kabul: Kabil
+    Ekaterinburg: Ekaterinburg
+    Islamabad: İslamabad
+    Karachi: Karachi
+    Tashkent: Taşkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: Yeni Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Katmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumçi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Pekin
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapur
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seul
+    Tokyo: Tokyo
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: Yeni Kaledonya
+    Solomon Is: Solomon mi.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fiji
+    Kamchatka: Kamçatka
+    Marshall Is: Marshall mi.
+    Wellington: Wellington
+    Chatham Is: Chatham mi.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau mi.
+  tt: tt
+  tt_iso: tt

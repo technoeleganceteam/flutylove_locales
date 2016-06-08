@@ -1,0 +1,980 @@
+---
+zh-CN:
+  1_we_have_just_launched_our_service_title: 我们刚刚推出了我们的服务！
+  common_keywords: 测年，在线测年，爱测年，网络摄像头约会，快速约会，网络摄像头聊天交友，Ruby on Rails的交友网站，多语言交友网站
+  common_description: 国际最先进的社交娱乐网络测年“Flutylove”
+  default_album: 默认专辑
+  user: 用户
+  user_to_search_connection: 搜索
+  video: 视频
+  photo_album: 相册
+  to: 到
+  vkontakte: 的Vkontakte
+  facebook: 的Facebook
+  twitter: 微博
+  google_oauth2: 谷歌
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: 男
+  - female:
+      name: 女
+  - transgender:
+      name: 变性
+  - male-female:
+      name: 男，女
+  - double-female:
+      name: 双女
+  - double-male:
+      name: 双雄
+  orientation:
+  - heterosexual: 异性
+  - homosexual: 同性恋
+  - bisexual: 双性恋
+  search_for:
+  - get_friends: 获取朋友
+  - marriage: 婚姻
+  body_type:
+    slim: 修身
+    normal: 正常
+    chubby: 丘比
+  relationship:
+    in_a_relationship: 在一个关系
+    married: 已婚
+    nothing_serious: 不严重
+  children:
+    dont_have: 别有
+    dont_have_and_dont_want_to: 不用，不希望
+    don_t_have_but_planning: 不要有，但规划
+    have_enough: 有无
+    have_and_planning_more: 已经和计划更多
+    unable_to_have_children: 无法生孩子
+  living:
+    with_parents: 和父母
+    with_marriage_partner: 婚姻伴侣
+    with_friends: 和朋友（S）
+  education:
+    secondary_school: 中学
+    college_technical_college: 大学/大专
+    university: 大学
+    phd_md_post_doctorate: 博士/医学博士/博士后
+  hair_color:
+    dark_blond: 暗色金发
+    red: 红
+  income:
+    unemployed: 失业
+    unstable_earnings: 收益不稳定
+    small_stable_earnings: 小收益稳定
+    medium_stable_earnings: 中等收益稳定
+    higher_than_average_income: 平均收入更高
+    high_income: 高收入
+  smoking:
+    not_smoke: 不吸烟
+    not_smoke_and_detest: 不吸烟和吸烟厌恶
+    smoke_in_a_social_setting: 有时在社交场合
+    smoke_occasionally: 偶尔烟
+    smoke_often: 烟雾经常
+  alcohol:
+    not_drinking: 不喝酒
+    drink_occalionally: 有时候
+    drink_in_a_social_setting: 饮料在社交场合
+    drink_often: 经常喝酒
+  drugs:
+    dont_use: 不要使用
+    contra_drugs: 魂斗罗药
+    tried_out_some: 尝试了一些
+    light_drugs_occasionally: 偶尔药
+  sponsor:
+    i_want_to_find_a_sponsor: 我想找到一个赞助商
+    willing_to_become_a_sponsor: 愿意成为赞助商
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: 不找赞助商并不甘心成为一体
+  category_name:
+    strategy: 策略
+    rpg: RPG
+    3d_shooters: 3D射击游戏
+    arcade: 街机
+    economic: 经济
+    simulators: 模拟器
+    logic: 逻辑
+    adventure: 冒险
+    gambling: 赌博
+    news: 新闻
+    e_commerce: 电子商务
+  shared:
+    header:
+      forum: 论坛
+      about: 关于项目
+      user_applications: 应用
+    liked_users:
+      liked: 喜欢
+      you_have_not_liked_any_users_yet: 你还没有任何喜欢的用户还
+    most_liked_users:
+      most_liked_users: 流行的用户
+    installed_user_applications:
+      installed_applications: 安装的应用程序
+      you_have_not_installed_any_apps_yet: 您还没有安装任何应用程序还
+    user_applications:
+      uploaded_apps: 上传应用程序
+      you_have_not_uploaded_any_apps_yet: 您还没有上传过任何应用程序还
+    right_sidebar:
+      news: 新闻
+      read_more: 阅读更多
+    footer:
+      footer_text: 国际社交娱乐网络测年“Flutylove”
+      feedback: 反馈
+      abuse: 滥用
+    languages_select_modal:
+      available_languages: 可用语言
+    site_map_modal:
+      site_map: 网站地图
+      faq: 常见问题解答
+      static_pages: 静态页面
+      common_pages: 常见的网页
+      user_pages: 用户页面
+      user_applications: 应用
+      news: 新闻
+      feedback: 反馈
+      abuse: 滥用
+      videos: 视频
+      photo_albums: 相册
+    pagination_link:
+      next_page: 下一页
+    user_edit_menu:
+      content: 内容
+      profile: 简介
+      site_settings: 站点设置
+      services: 服务
+    activities_navigation:
+      photos: 照片
+      photo_albums: 相册
+      videos: 视频
+    notifications_navigation:
+      likes: 喜欢
+      friend_requests: 好友请求
+      profile_views: 个人资料显示
+      photo_album_views: 照片意见
+    user_to_friend_connections_navigation:
+      friends: 朋友
+      friends_online: 在线的朋友
+      outcome_requests: 结果的请求
+      income_requests: 收入要求
+    user_applications_navigation:
+      popular: 流行
+      often_installed: 经常安装
+      manage: 管理
+    user_requests_navigation:
+      popular: 流行
+      my_requests: 我的请求
+    user_navbar_menu:
+      sign_in: 登陆
+      sign_up: 注册
+    email_signature:
+      mailer: 梅勒
+      technoelegance: Technoelegance有限公司
+    translations:
+      select_gender: 选择性别
+      select_orientation: 选择方向
+      select_search_for: 选择搜索
+    need_to_sign_in_modal:
+      you_need_to_sign_in: 需要此操作前登录
+    sign_up_methods:
+      usual_register_link: 平常登记
+      register_text: 另外％{} usual_registration你可以通过最流行的服务和社交网络注册
+    bootstrap_gallery:
+      previous: 上一页
+    user_notification_title:
+      you_liked: 您可以通过喜欢
+      wrote_message_to_you: 写邮件给你
+      viewed_your_profile: 看您的个人资料
+      liked_your_photo: 喜欢你的照片
+      liked_your_note: 喜欢你的笔记
+      liked_your_request: 喜欢你的要求
+      liked_your_video: 喜欢你的视频
+      liked_your_application: 喜欢你的应用程序
+      requested_a_friendship: 请求友谊
+  authentications:
+    authentication:
+      turn_on: 开启
+      turn_off: 关闭
+      turned_on: 开机状态
+      turned_off: 熄灭
+    index:
+      enabled_services: 启用服务
+  users:
+    profile:
+      meet_with: 会见
+      gender: 性别
+      type_in_your_location: 在你的城市
+      about_me: 对自己有些话（除了下面形成）
+      sex_keywords: 兴趣在性生活
+      enter_your_name: 输入您的姓名
+      more_options: 更多
+      orientation: 方向
+      birth_date: 出生日期
+      search_for: 搜索
+      intimacy: 亲密
+      in_age: 年龄
+      interests: 兴趣
+      height: 高度
+      body_type: 体型
+      hair_color: 头发颜色
+      relationship: 关系
+      jobs: 工作
+      income: 收入
+      languages: 语言
+      smoking: 吸烟
+      contacts: 联系方式
+      contact_name: 联系人姓名
+      contact_value: 联系的价值
+      about_yourself: 关于自己
+    settings:
+      locale: 界面语言
+      change_password: 更改密码
+      interface_language: 界面语言
+      time_zone: 时区
+    dialog_modal:
+      send_message: 发送信息
+    index:
+      clear_search: 清除搜索
+    dashboard:
+      hello: 你好
+      here_some_of_your_statistics: 在这里，你的一些统计数据
+      messages: 消息
+      photos: 照片
+      videos: 视频
+      photo_albums: 相册
+    avatar:
+      photo: 照片
+      uploading_file: 上传文件
+      handling_file: 处理文件
+      drag_and_drop_your_file: 拖放文件
+      upload_file: 上传文件
+      from_other_sites: 从其他网站
+      write_down_link_for_your_image: 写下您的图像链接
+      url_for_image: 网址图像
+      from_facebook: 从Facebook
+      turn_on_facebook: 打开Facebook的
+      you_can_upload_your_photos_from_facebook: 你可以上传你的照片从Facebook
+      from_vkontakte: 从历史Vkontakte
+      you_can_upload_your_photos_from_vkontakte: 你可以上传你的照片从历史Vkontakte
+      turn_on_vkontakte: 打开的Vkontakte
+      from_instagram: 从Instagram的
+      you_can_upload_your_photos_from_instagram: 你可以上传你的照片的Instagram
+      turn_on_instagram: 打开Instagram的
+      from_dropbox: 从Dropbox的
+      you_can_upload_your_photos_from_dropbox: 你可以上传你的照片的Dropbox
+      turn_on_dropbox: 开启保管箱
+      edit_photo: 编辑照片
+      delete_photo: 删除照片
+      are_you_sure: 你确定吗？
+    available_photos_modal:
+      available_photos: 可用照片
+    update:
+      your_password_was_successfully_changed: 您的密码更改成功
+      your_profile_was_successfully_updated: 您的个人资料已成功更新
+    edit_photo:
+      edit_photo: 编辑照片
+      close: 关闭
+      save_changes: 保存更改
+    contact:
+      contact_name_placeholder: 的Facebook / SKYPE / VK的/ etc
+      contact_value_placeholder: URL /尼克/ ID /等
+    user:
+      about_me: 关于我
+      orientation: 方向
+      meet_with: 会见
+      desirable_age: 年龄可取
+      interests: 兴趣
+      height: 高度
+      body_type: 体型
+      hair_color: 头发颜色
+      relationship: 关系
+      jobs: 乔布斯
+      income: 收入
+      languages: 语言
+      smoking: 吸烟
+      contacts: 联系方式
+    user_info:
+      offline: 当前离线
+      age: 年龄
+    loading_modal_images:
+      loading_images: 加载图像
+    password_form:
+      new_password: 新密码
+      confirm_new_password: 确认新密码
+      old_password: 旧密码
+      change_password: 更改密码
+    show:
+      photos: 照片
+      videos: 视频
+    dropbox_token_form:
+      paste_recieved_key: 粘贴收到钥匙
+    contents:
+      users_which_i_like: 我喜欢
+      my_videos_likes: 我喜欢的视频
+      my_photos_likes: 我喜欢的照片
+      my_notes_likes: 我的笔记我喜欢
+      my_user_applications_likes: 我喜欢的应用
+      my_user_requests_likes: 我喜欢的请求
+    more_profile_info:
+      photo_albums: 相册
+      view_all_photo_albums: 查看所有相册
+      create_more: 创造更多
+      videos: 视频
+      view_all_videos: 查看视频
+      view_all_notes: 查看所有笔记
+      requirements_lists_to_partner: 要求列出了合作伙伴
+      requirement: 要求
+      view_all_requirements_lists: 查看所有需求列表
+      profile_verification: 个人资料验证
+      your_profile_is_successfully_verified: 您的个人资料已成功验证
+      you_have_not_any_requirements_lists_yet: 你没有任何要求，还列出
+      you_have_not_any_notes_yet: 你没有任何笔记还
+      you_have_not_any_photo_albums_yet: 你没有任何照片相册
+      you_have_not_any_videos_yet: 你没有任何视频
+      your_profile_is_not_verified_yet: 您的个人资料尚未验证
+      verify_through_twitter: 验证通过Twitter
+      verify_through_facebook: 验证通过Facebook
+      verify_through_mail_ru: 验证通过Mail.ru
+  searches:
+    form:
+      age: 年龄
+      gender: 性别
+    form_content:
+      gender: 性别
+      has_avatar: 有头像
+      more: 更多
+      about_me: 关于我
+      interests: 兴趣
+      languages: 语言
+      height: 高度
+      body_type: 体型
+      relationship: 关系
+      hair_color: 头发颜色
+      orientation: 方向
+      search_for: 搜索
+      smoking: 吸烟
+      income: 收入
+    show:
+      clear_search: 清除搜索
+  welcome:
+    index:
+      user_applications: 应用
+      features: 特点
+      registration: 报名
+      sign_in: 登陆
+      welcome_main_title: 欢迎Flutylove！
+      welcome_main_text: 在这里，你可以找到你的完美爱情的地方
+      find_more: 查找更多
+      about_title: Flutylove是国际社交娱乐网络测年
+      about_text: 有许多功能，可用于娱乐和测年！
+      find_more_features: 查找更多的功能
+      many_languages: 许多语言
+      text_about_many_languages: 我们的服务被翻译超过70种语言
+      check_it_out: 检查出来
+      videochats: Videochats
+      text_about_videochats: 您可以用videocams你的伴侣聊天
+      try_it_now: 现在就来试试
+      text_about_search: 您可以使用多个搜索参数，它是免费的！
+      watch_this: 关注此
+      more_features: 更多功能
+      text_about_more_features: 您可以观看视频，玩游戏，做很多其他的事情！
+      register_and_learn_more: 注册并了解更多
+      install_our_apps: 从流行的平台上安装我们的应用程序
+      register_header: 报名
+  feedbacks:
+    new:
+      feedback_title: 反馈
+    form:
+      feedback_name: 你的名字
+      feedback_email: 您的电子邮件
+      feedback_content: 反馈内容
+      close: 关闭
+      feedback_recaptcha: 的Recaptcha
+      cancel: 取消
+    success:
+      success_feedback: 谢谢！我们已经收到您的反馈意见。
+      close: 关闭
+      cancel: 取消
+  abuses:
+    new:
+      abuse_title: 滥用
+    form:
+      abuse_name: 你的名字
+      abuse_email: 您的电子邮件
+      abuse_content: 虐待内容
+      abuse_title: 滥用
+      close: 关闭
+      abuse_recaptcha: 的Recaptcha
+      abuse_link: 链接
+      cancel: 取消
+    success:
+      success_abuse: 谢谢！我们已经收到您的滥用。
+      close: 关闭
+      cancel: 取消
+  layouts:
+    welcome:
+      welcome_title: 欢迎Flutylove！最先进的交友网站。
+  recaptcha:
+    errors:
+      verification_failed: 验证码失败
+      recaptcha_unreachable: 的Recaptcha不可达
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: 我们刚刚推出了我们的服务！
+      we_have_just_launched_our_service_text: 今天我们推出我们的服务，让每个人都可以
+      sign_up: 报名
+      and_use_it: 并使用它。
+      wishes_and_requests: 如果您有任何愿望或要求，你可以注册并写
+      with_love: 有了爱，
+      flutylove_team: Flutylove团队
+    index:
+      all_news: 全部新闻
+      read_more: 阅读更多
+  chats:
+    panel_head:
+      offline: 当前离线
+    pagination_link:
+      next_page: 下一页
+    form:
+      message_text: 消息文本
+    form_additions:
+      videochat: 视频聊天
+    show:
+      messages: 消息
+    index:
+      messages: 消息
+    videochat_request_link:
+      connect_to_videochat: 连接到视频聊天
+    modal_form:
+      send_message: 发送信息
+      close: 关闭
+    waiting_video_answer_button:
+      waiting_for_response: 等待回应...
+    chat_created:
+      send_message: 发送信息
+      message_was_sent: 留言已经发送
+      close: 关闭
+  messages:
+    pagination_link:
+      next_page: 下一页
+    form:
+      message_text: 消息文本
+  notifications:
+    notification:
+      offline: 当前离线
+  user_applications:
+    user_application:
+      who_uploaded: 通过上传
+      all_uploaded_applications_by: 所有上传的应用程序通过
+    form:
+      user_application_name: 应用程序名称
+      description: 说明
+      description_text: 文字说明
+      iframe_url: iframe网址
+      icon_for_application: 应用程序图标
+      upload_icon: 下载图标
+      public: 公众？
+    show:
+      return_to_uploaded_applications: 要上传的应用程序
+      edit_application: 编辑应用程序
+      return_to_all_applications: 返回到所有应用程序
+    manage:
+      installed_applications: 安装的应用程序
+      uploaded_applications: 上传应用程序
+    index:
+      applications_uploaded_by: 应用通过上传
+      return_to_all_applications: 返回到所有应用程序
+      create_new: 新建
+      return_to_manage_applications: 返回到管理应用程序
+    installed:
+      installed_applications: 安装的应用程序
+      return_to_all_applications: 返回到所有应用程序
+      return_to_manage_applications: 返回到管理应用程序
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: 视图前这个程序，你需要先登录
+    need_to_install:
+      need_to_install_first: 您需要首先安装此应用程序
+      install_application: 安装应用程序
+  likes:
+    index:
+      liked_items: 喜欢的物品
+      return_to_my_content: 回到我的内容
+  videos:
+    index:
+      videos: 视频
+      return_to_edit_profile: 要编辑的个人资料
+      create_new: 新建
+      return_to_profile: 返回简介
+    video:
+      are_you_sure: 你确定吗？
+      delete: 删除
+    modal_form:
+      create_new_video: 创建新视频
+      close: 关闭
+    form_content:
+      video_name: 视频名称
+      source: 网址的嵌入代码
+      video_url_or_embed_code: 视频的视频嵌入代码的网址
+    show:
+      video: 视频
+      return_to_all_videos: 返回所有视频
+      edit_video: 编辑视频
+    edit:
+      edit_video: 编辑视频
+      return_to_view_video: 返回查看视频
+      view_video: 查看视频
+  photo_albums:
+    index:
+      photo_albums: 相册
+      return_to_editing_profile: 要编辑的个人资料
+      create_new: 新建
+      return_to_profile: 返回简介
+    photo_album:
+      are_you_sure: 你确定吗？
+      delete: 删除
+    edit:
+      edit_photo_album: 编辑相册
+      return_to_photo_albums: 到相册
+      view_photo_album: 查看相册
+    form_content:
+      photo_album_name: 相册名称
+    photo_album_uploader:
+      drag_and_drop_your_file: 拖放文件
+      upload_file: 上传文件
+      from_other_sites: 从其他网站
+      write_down_link_for_your_image: 写下您的图像链接
+      url_for_image: 网址图像
+      from_facebook: 从Facebook
+      turn_on_facebook: 打开Facebook的
+      you_can_upload_your_photos_from_facebook: 你可以上传你的照片从Facebook
+      from_vkontakte: 从历史Vkontakte
+      you_can_upload_your_photos_from_vkontakte: 你可以上传你的照片从历史Vkontakte
+      turn_on_vkontakte: 打开的Vkontakte
+      from_instagram: 从Instagram的
+      you_can_upload_your_photos_from_instagram: 你可以上传你的照片的Instagram
+      turn_on_instagram: 打开Instagram的
+      from_dropbox: 从Dropbox的
+      you_can_upload_your_photos_from_dropbox: 你可以上传你的照片的Dropbox
+      turn_on_dropbox: 开启保管箱
+    show:
+      photo_album: 相册
+      return_to_photo_albums: 到相册
+      edit_photo_album: 编辑相册
+    modal_form:
+      create_new_photo_album: 创建新相册
+      close: 关闭
+  user_requests:
+    form:
+      content: 内容
+  notes:
+    index:
+      return_to_edit_profile: 要编辑的个人资料
+      create_new: 新建
+      return_to_profile: 返回简介
+    note:
+      are_you_sure: 你确定吗？
+      delete: 删除
+    show:
+      return_to_notes: 返回笔记
+      edit_note: 编辑笔记
+    form_content:
+      content: 内容
+      note_content: 注意内容
+    edit:
+      edit_note: 编辑笔记
+      return_to_notes: 返回笔记
+      view_note: 查看笔记
+  user_to_search_connections:
+    index:
+      requirements_lists: 需求列表
+      return_to_editing_profile: 要编辑的个人资料
+      create_new: 新建
+    user_to_search_connection:
+      are_you_sure: 你确定吗？
+      delete: 删除
+    edit:
+      edit_requirements_list: 编辑需求列表
+      return_to_requirements_lists: 到需求列表
+      view_requirements_list: 查看需求列表
+    form_content:
+      name_of_your_requirements_list: 你的要求列表的名称
+    show:
+      requirements_list: 需求清单
+      return_to_requirements_lists: 到需求列表
+      edit_requirements_list: 编辑需求清单
+  photos:
+    index:
+      photos: 照片
+      return_to_photo_albums: 返回相册
+      return_to_profile: 要分析
+  errors:
+    messages:
+      already_confirmed: 已经确认，请尝试在签约
+      confirmation_period_expired: 需要进行内部％{}期间确认，请申请一个新的
+      expired: 已过期，请申请一个新的
+      not_found: 未找到
+      not_locked: 没有锁
+      not_saved:
+        one: 1错误，无法储存禁止此％{}资源：
+        other: "％{}计数被禁止保存此％{}资源错误："
+    bad_request:
+      bad_request: 错误的请求
+      request_result: 请求结果
+      bad_request_description: 服务器不能或无法处理请求由于一个明显的客户端错误
+      go_to_root: 去根
+    unprocessable_entity:
+      unprocessable_entity: 处理的实体
+      request_result: 请求结果
+      unprocessable_entity_description: 的要求是格式良好的，但由于语义错误无法遵循
+      go_to_root: 去根
+    not_found:
+      not_found: 未找到
+      request_result: 请求结果
+      not_found_description: 请求的资源无法被找到，但可能会在将来可用的
+      go_to_root: 去根
+    forbidden:
+      request_result: 请求结果
+      forbidden_description: 请求是一个有效的请求，但服务器拒绝对此作出回应
+      go_to_root: 去根
+    internal_server_error:
+      request_result: 请求结果
+      internal_server_error_description: 出了错。我们将尽快修复它。
+      go_to_root: 去根
+  pages:
+    privacy:
+      privacy: Flutylove隐私政策
+      general_provisions: 一般规定
+      p_1_1: 1.1。本条例是有限责任公司“Technoelegance”的正式文件，位于101000，莫斯科，Ulanskiy pereulok 13，stroeniye
+        4，pomeshcheniye 1（以下简称Flutylove，本公司，我们的），并确定数据处理和个人信息安全的程序谁已经达到18岁，谁使用网站https://flutylove.com（以下简称网站）和服务（以下简称用户）。
+      p_1_2: 1.2。这些规定的目的是确保应有的保护用户信息，包括个人资料，未经授权的访问和披露。
+      p_1_3: 1.3。与收集，存储，分发和网站用户的信息安全相关的关系由本条例，本公司其他正式文件和俄罗斯联邦现行法律管辖。
+      p_1_4: 1.4。条例，这是一个公开的文档的当前版本，下面的链接http://flutylove.com/pages/privacy时可用于任何互联网用户。本公司有权修改这些规则的权利。若更改了规则作出，本公司将通过之前的有效发布的条例的新版本，在永久地址http://flutylove.com/pages/privacy的网站，不得迟于10天通知用户的变化日期。条例以前​​版本存储在公司的文档归档。
+      p_1_5: 1.5。这些条例已经开发并根据用户协议被使用。在这些法规和公司其他正式文件之间的任何违反情况下，这些规定必须强制执行。
+      p_1_6: 1.6。通过使用网站，您同意本隐私政策的条款和条件。请仔细阅读。如果您不同意本隐私政策中的条款，或者你还没有达到18岁的年龄，你可能无法使用本网站及其服务。使用本网站，无论你是否是Flutylove的注册用户或没有，你确认你完全接受这个隐私政策，并同意遵循它。
+      the_website_using_conditions: 在使用网站的条件
+      p_2_1: 2.1。使用本网站Flutylove，你​​需要注册。姓名，电子邮件地址，性别，出生日期，位置信息：应在注册时指定的以下信息。用户可以提供他/她自己的意愿额外个人信息。用户可以编辑或随时更新个人信息。本公司有权要求额外证明文件的性别变化和用户的出生日期的情况下的权利。
+      p_2_2: 2.2。通过允许访问网站及其服务，本公司，以合理的方式和善意，认为用户：认识到了网站上注册，必须要年满18岁;拥有所有必要的权利，以便能够在本网站注册并使用它;表示对自己的准确信息/根据对使用本网站的服务的要求自己;意识到，在网站上的个人信息，由用户提供的，有可能成为可用的网站和网民为好，可以复制和由其他用户分布的其他用户;是注​​意，某些类型的信息，传送到其他用户，不能由用户除去相识本条例，同意与他们进行指定的权利和义务。
+      p_2_3: 2.3。当这种验证是必要的，以便满足用户对公司的义务，本公司不核实有关用户的接收（收集）信息的准确性，案件除外。
+      information_processing_objectives: 信息处理的目标
+      p_3_1: 3.1。公司奉行用户信息，包括他们的个人数据信息处理，以满足对使用本网站及其服务的公司义务的用户。
+      p_3_2: 3.2本公司有权进行个人数据的处理没有通知主管机关对个人资料当事人的权利的保护的权利。
+      p_4_1: 4.1。用户的个人数据包括：
+      p_4_1_1: 4.1.1。姓名，电子邮件地址，性别，出生日期，位置信息，和电话号码，这是由用户提供的和应该是刚好够在网站上的注册的日期;
+      p_4_1_2: 4.1.2。这是由用户提供（例如照片，关于有害习惯等信息）的信息;
+      p_4_1_3: 4.1.3。另外通过用户​​根据，以履行公司义务的用户，从用户协议显示本公司要求提供的。本公司拥有的权利，特别是要求用户身份证明文件或包含姓名，性别和出生日期的任何其他文件，以及其他的附加信息，在公司的决定，将是必要的副本，足以满足此类用户的识别和将消除第三方权利滥用和侵犯。
+      p_4_2: 4.2。由本公司网站管理其他用户的信息处理也处理有关用户，其中包含的其他信息：
+      p_4_2_1: 4.2.1。共同的数据，访问的网站和用户的后续操作时，由HTTP服务器自动接收（主机的IP地址，用户的操作系统的类型，网站的网页由用户访问）。
+      p_4_2_2: 4.2.2。访问使用书签（饼干）的网站时会自动接收到的信息;
+      p_4_2_3: 4.2.3。该被接收作为对网站的用户的行动的结果的信息;
+      p_4_2_4: 4.2.4。该被接收作为对网站的其他用户的操作的结果的信息。
+      users_information_processing: 用户信息处理
+      p_5_1: 5.1。个人数据处理的下列原则基础上开展：一）合法用途和个人数据的处理方式;二）诚实; c）对个人数据处理的目的与宗旨遵守规定和收集的个人资料，以及本公司的凭证的合规性声明时;
+        D）的数量和处理个人数据的类型，以及其处理的目的，个人数据的处理方式遵守的合规性;五）创建的数据库结合不兼容的目的，载有个人资料的不予受理。
+      p_5_1_1: 5.1.1。用户的个人数据的收集是当​​寄存器，以及在未来当用户添加约他/她自己使用他/她主动的网站工具的详细信息在网站上进行。
+      p_5_1_2: 5.1.2。用户的个人数据被专门存储在电子格式和处理使用自动化系统，与其中需要考虑满足法律要求的个人资料的手工处理的情况除外。
+      p_5_1_3: 5.1.3。用户的个人数据不会转让给任何第三方，除非这些条例和用户协议明确规定的情况。与用户的同意下，个人用户数据可以传送到的义务的假设的情况下，公司的第三对手，以确保接收到的信息的保密性，特别是，使用服务和应用程序时。对政府部门（地方政府）的请求，用户的个人数据配置在过程中所要求的法律进行。
+      p_5_1_4: 5.1.4。 ;数据是自删除从由用户的页面 - ：当个人用户数据被删除 - 页面是自删除由用户; - 用户的信息和其个人网页是由公司删除。在用户本身的情况下删除网页时，个人网页被删除后，公司专卖店内上210天其电子媒体用户的个人资料。个人页面被删除后的个人资料，在210天期满删除。直到本周期到期时，用户必须恢复个人页面的权利。
+      users_rights_and_obligations: 用户的权利和义务
+      p_6_1: 6.1。用户有以下权利：
+      p_6_1_1: 6.1.1。访问有关他/她没有任何限制和免费的通过配合使用的登录名和密码的网站编辑的个人网页;
+      p_6_1_2: 6.1.2。独立进行修改和更正网站上的用户的个人页面上的信息，在这样的变化和修正包含了病情的最新和真实的信息;
+      p_6_1_3: 6.1.3。移除网站上的个人页面中的信息;
+      p_6_1_4: 6.1.4。要求本公司以获得更具体的信息，块或删除个人数据，如果这些数据是不完整的，过时的，不准确，非法收取或没有必要进行处理的申报目的或如果这些第6.1.3条所规定的动作法规不能独立执行;
+      p_6_1_5: 6.1.5。的请求的基础上，接收来自所述公司关于他/她的个人数据的处理的信息。
+      p_6_2: 6.2。任何注册的网站用户的以下信息可随时注册用户：用户的姓名，性别，年龄，个人资料照片和其他信息，如果用户已经发布了。
+      p_6_3: 6.3。本公司承担由谁访问过这些数据本网站的其他用户披露用户的个人资料不承担任何责任。
+      p_6_4: 6.4。在个人数据（其他用户信息）从用户的个人页面或删除从本网站用户的个人页面中移除的情况下，其他用户复制或存储在其他用户的网页是保存用户的信息。
+      users_information_protection_measures: 用户信息保护措施
+      p_7_1: 7.1。本公司以技术，组织和法律措施，以确保用户的个人数据从未经授权或意外，删除，修改，拦截，复制和传播，以及其他未经授权的行为保护。
+      p_7_2: 7.2。用户的登录（电子邮件地址或手机号码）和密码用于访问本网站。用户负责保持该信息的机密性。用户可能无法登录名和密码转让给第三方，也有义务采取措施，以确保其机密性。
+      limitation_of_the_regulations_applicability: 限制条例的适用性
+      p_8: 这些法规不扩展到第三方的行动和互联网资源。本公司承担第三方谁获得了通过互联网或网站服务的用户信息的行为不承担任何责任。网站管理建议用户信息以负责任的态度在网站上公布的数额处理这一问题。
+      user_requests: 用户请求
+      p_9_1: 9.1。该用户必须将请求发送到公司，包括关于在下列地址以书面形式使用个人数据的请求权：俄罗斯，101000，莫斯科，Ulanskiy pereulok
+        13，stroeniye 4，pomeshcheniye 1或电子文件的形式由合格的电子签名，根据俄罗斯联邦法律签署，由电子邮件：support@flutylove.com。
+      p_9_2: 9.2。用户的请求必须包含以下信息：用户或其代表人身份证明文件号码;上述文件及发证机关签发的日期;信息确认与操作关系在用户参与（特别是链接的网页）;用户或他/她的代表签名。
+      p_9_3: 9.3。本公司承诺以考虑并收到之日起30日内向用户请求做出响应。
+      p_9_4: 9.4。从用户（书面或电子申请）公司收到的所有信件被列为限制访问的信息和未经用户的书面同意不得公开。个人数据和有关谁发送请求的用户的其他信息可能不被使用，而无需用户的特别许可，不同于为响应于该请求，或在适用法律明确提供的实例。
+    terms:
+      terms: Flutylove用户协议
+      welcome: 欢迎Flutylove！
+      about_terms: 使用这些术语之间（以及文件本文提及的，包括隐私权政策）的附着力按照俄罗斯联邦民法典（以下简称“协议”）第428合同谁已经达到18岁的个人（以下简称“用户”和本公司（或“我们”）
+        - 有限责任公司“Technoelegance”（LLC“Technoelegance”）（法定地址：101000，莫斯科，Ulanskiy pereulok
+        13，stroeniye 4，pomeshcheniye 1），以下称为Flutylove，根据该可以使用该网站并通过网站或应用程序（一般称为“服务”提供的所有相关联的服务）。的网站被理解为是指任何的它的版本，域名flutylove.com下结合和各种设备，包括基于网络的版本，移动应用和社交网络应用程序运行。使用本网站您同意协议的条款和隐私权政策。请仔细阅读。如果你不与协议条款和隐私权政策同意，或者你还没有达到18岁的年龄，你可能无法使用本网站及其服务。通过使用网站，无论你是注册Flutylove的用户与否，你本协议和我们的隐私政策，这是包括链接本协议中，是网站提供的完全同意，并遵守它。在用户的要求，本公司承诺登录硬拷贝构成本协议并将其发送给个人请求的文件。本公司保留修改用户协议，并提交给它的任何文件的权利。要知道，你需要保持向上最新的定期变化等信息的变化。我们将通知您我们将在下面这个页面上所做的更改。更改不会追溯并自公布之日起十日内生效。然而，如果它们与新服务的执行或立法的修改相关联的，它将被立即应用。如果你不与协议中的变化一致，必须停止使用本网站及其应用。
+      consent_to_accept_the_terms_of_user_agreement: 1.同意接受用户协议的条款。
+      p_1: 一个。电子协议。本协议的合同，这说明使用本网站和服务的条款的电子版本。通过登录本网站或成为一个用户，你接受本协议并同意所有条款，条件和所包含或引用的有通知。您确认并同意，Flutylove的用户可能是一个在线社区，包括属于本公司或其附属公司的其他网站的一部分。因此，在网站上的配置文件可以在其他类似的网站，并从一个网站付费订户被视为可以与来自其他网站的付费用户通信。湾电子表格中。通过登录本网站或成为一个用户，您同意向您提供的电子协议。
+        C。硬拷贝的形式。你必须接受本协议的硬拷贝的权利。您可以要求本协议的纸质版之前或之后它会以电子形式签署。请联系我们的客户服务，以获取更多信息。 ð。访问和下载。为了访问并下载该电子协定，则必须能够访问因特网或直接通过与访问网络资源的设备。你需要有必要的设备连接互联网，即电脑，调制解调器或其他接入设备。请打印本协议的副本，并保持它。要下载协议的电子形式，通过任何文本编辑器的帮助下将其保存到您的计算机。
+      the_right_of_using_the_website: 2.使用本网站的权利。
+      p_2: 您必须至少十八（18）岁，成为该网站的注册用户。在不符合要求的情况下，进入网站将被拒绝。使用本网站，用户应该知道，在本网站公布的个人信息可以提供给其他互联网用户，而本公司不承担对自己的行为承担责任。通过使用这个网站，你断言和保证你有权利，权力和可能性，订立本协议，并同意遵守所有的条款和条件。成为你断言和保证你从来没有遭受被定罪，有关性暴力犯罪行为的用户。该网站旨在仅用于个人使用。严禁使用本​​网站用于任何商业用途。企业法人不能成为这个网站的用户，以及不能使用本服务或他们的目的网站。非法和/或使用本网站，包括通过发送不良信息和链接为目的的电子或其他工具的帮助下收集用户名和/或电子邮件地址，未经授权的追求，公司可以依法采取适当行动，包括呼吁执法部门。
+      pricing_and_registration: 3.定价和注册
+      p_3: 您可以通过在网站上注册成为Flutylove的用户在自愿和免费的基础上。作为用户，你可以使用的服务和网站的机会的具体范围。本网站的用户是按照既定的秩序和谁已经达到18岁的网站上注册的个人。当在网站上注册的用户有义务提供本公司必要和相关的信息以完成用户页面，包括对访问网站的登录（电子邮件地址或电话号码）和密码，以及名称，该名称对于每个用户唯一的。要注册的窗体可以要求用户附加信息。用户负责的有效性，现实性，完整性和遵守俄罗斯联邦在注册时提供的信息的法律，并且从第三方索赔的清晰度。当注册用户同意本协议，承担规定的权利和义务，在使用和网站的功能有关。用户获得完全访问使用本网站的功能。本公司承诺的权利和义务给用户，在这些条例规定，用户对网站注册成功后，用户的个人数据的处理是根据俄罗斯联邦的法律进行。网站管理流程的用户的个人数据，以便为用户提供以网站功能的使用，包括接收个性化（针对性）广告的接入;验证，研究以及这些数据的分析，使支持和提高网站的功能和路段，以及开发新的功能和章节。本公司采取一切必要行动，以防止未经授权的访问，修改，披露或擦除用户的个人资料。该公司提供了访问用户的个人数据仅供本公司的员工，承包商和代理商，谁为了支持本网站功能，并为用户提供访问其使用需要这些信息。本网站的本公司有权使用由用户提供的信息，包括个人资料，以确保符合俄罗斯联邦现行法律要求的权利（包括非法和/或不合法的预防和/或抑制用户的操作）。由用户提供的信息的披露只能按照俄罗斯联邦现行立法在法庭上，执法部门的要求进行，以及在其他情况下为俄罗斯联邦的适用法律规定。此外，该公司处理用户对本条例执行的个人数据的范围内，凭借个人数据法的规定不要求用户同意的个人数据的处理。登录和由用户选择的口令是为用户访问该网站必要和充分的信息。用户必须给他/她的登录名和密码给第三方的权利，是其安全性绝对负责，选择将它们存储在独立的基础上的方式。使用他/她的硬件和软件，用户可允许在网站上随后进行的自动认证登录名和密码（通过cookies）的存储。与使用用户的用户名和密码所采取的任何行动被认为是由用户提交，除非有相反是由用户证明。用户有义务立即通知本公司根据于向用户名和密码的用户名和密码和/或帐户页面，或泄露未经授权的访问情况的既定程序。注册后用户获得创建，使用，并确定他/她自己的个人网页上的自利和非商业目的的内容，以及得到其他用户的个人页面访问和发布信息的机会的权利。用户为张贴的个人页面上的信息，业主知道，随着这些条例和俄罗斯联邦现行立法规定的情况外，本公司不参与开发和利用的内容，不控制访问用户的页面从其他用户。
+      terms_4: 4.条款。
+      p_4: 本协议，只要您使用本网站充分仍然有效。您可以停止在任何时间删除您的网页，以任何理由，通过我们的在线客服联系或使用本网站的服务作为网站的用户。本公司保留其在任何时候删除您的个人页面的权利。我们没有义务删除页面之前通知您，如果公司有有理由相信您已违反了协议的条款。我们没有义务披露删除帐户的原因;在某些情况下，这样的信息的公开内容可能被禁止。您的网页删除后，所有的条件，这可能是有效的根据其性质本协议终止后，将在该终止后生效。如果您通过您自己的意愿网站删除您的网页，我们可能会要求您指定此类删除的原因。
+      account_security: 5.确保帐户安全。
+      p_5: 你负责你的用户名和密码，这将在注册时设置的机密性保护。此外，您对您的用户名和密码进行的所有操作绝对负责。您同意（一）立即通知我们约在每届会议结束时任何未经授权使用您的登录名和密码，以及任何其他安全漏洞，以及（b）退出您的帐户。该网站是不负责从这一规定的违规而引起的任何损害或损失。通过公共计算机，以便未经授权的人无法窥视或记录您的密码或其他任何个人信息访问您的账户时，应特别小心。您还确认并同意，互联网是不可能完全的隐私和安全。你明白，你张贴在网站的任何消息或信息可被读取或由其他用户使用，即使有一个特殊的警告信息是隐藏的。
+      your_interaction_with_other_users_of_the_website: 6.你和网站的其他用户的交互。
+      p_6: 一个。您自行负责您与其他用户互动。你应该明白，本公司并无核实其使用者是否有犯罪记录。该公司还没有请求的信息涉及其用户的过去，不验证这些信息。公司不保证与用户行为及其与实际的或将来的用户的兼容性。
+        AT同时公司有权以验证用户提供犯罪记录或进行其他验证在任何时候通过提供的公共信息。湾在任何情况下，公司不承担任何损失无论他们是直接的，间接的，一般还是有特殊性，补充和/或偶发性，获得了由您或任何其他个人成为网站使用，包括的结果，包括但不限于，人身伤害，应力和/或其他损害，取得您根据通讯或会议与网站或人员其他注册用户，即您提供该网站交易的结果。您同意采取一切可能的预防措施在与其他用户进行交流，特别是在这种情况下，当你决定要迎接他们在现实生活中。你应该知道，什么公司不给一个声明的或暗示的保证关于与本网站的用户的兼容性。你不应该放弃的财务信息的网站（例如关于您的信用卡或塑料卡）中的其他用户。
+        C。该服务可以转换您的姓名或城镇其他语言的名称; ð。该服务是不负责本文中列出的操作。如果你不同意他们的观点完全或部分，请立即离开网站;
+      the_information_posted_by_you_on_flutylove: 7.张贴你FLUTYLOVE中的信息
+      p_7: 一个。您必须对您发布或展示的服务（以下简称“文章”），或转移到其他用户的信息承担全部责任。您不得张贴在服务或转让给其他用户种族歧视性质的诽谤，不准确，辱骂，淫秽，粗俗和侵略性内容的任何信息，有关性内容的信息，以及威胁或跟踪信息，信息或违法信息，或者侵犯或违反任何他方权利的任何其他信息（包括但不限于知识产权，隐私和公开权）。您不得提供不准确，误导或虚假信息对本公司或任何其他用户。如果提供给公司Flutylove的信息或其他用户随后变得不准确，虚假误导，您必须立即通知公司这种变化的Flutylove。您提交并保证在注册过程中提供的所有信息是准确和真实的，你马上更改随后变得不准确，误导或虚假的任何信息。湾您理解并同意，我们保留的权利，但没有义务监视被转移到服务或张贴在服务公众获取的信息或内容。我们必须删除任何此类信息或内容，不给予任何理由和通知的权利。
+        C。网站上显示的所有对象，包括设计元素，文本，图形，图表，视频，脚本，程序，音乐，声音和其他对象及其库（以下简称 - 信息），是本公司的独家代理权财产的用户本网站和其他权利人，对这些对象的所有权利受到保护。
+        ð。除建立了符合本协议，以及俄罗斯联邦现行法律，没有信息可以被复制（复制），处理，分发，在一帧展示，出版，下载，传输，以出售或者使用其他方式全部或部分未经持有人事先许可，除非权利人明确表示同意接受任何个人免费使用的信息。即通过张贴在依法属于用户的网站上的信息，用户提供其他用户通过查看，播放（包括复制），使用它的非独家权利，并只用于个人非商业用途的目的，其他权利的机会，除非情况下，当使用等造成或可能造成损害受法律保护权利人的利益。
+        F。利用用户的信息，从而获得了获得了只用于个人非商业使用的，在条件允许的作者的迹象（版权）或作者的其他通知将被保留，作者和其产品的名称会留下没有变化。
+        G。用户也为该公司带来了使用在本网站公布，并属于他的信息的非独家权利/她的合法不考虑，以确保结构和功能的性能范围内本公司网站的运作网站。上面提到的非独家权利被授予在网站上的内容布局和覆盖国家的领土遍布世界各地。本公司有权转让提到这一段给第三方的权利的权利。用户同意本公司有权使用本网站的功能和技术选择，提供的内容共享以及用户的显示，包括广告信息显示的目的的权利。喜。万一用户删除网站内的信息，非独家权利将被自动撤销，但由于网站的技术规范本公司有权要求保存所需要的时间和地点内的信息的备份副本的权利。一世。除了私人信息，用户无权上传，或以不同的方式披露（通过公布在网站上）等网站，数据库和其他知识产权的信息在没有明确表示同意著作权等行为所有者。学家除非另有在这些条例指出，本条例东西不能被看作是独家代理权转移到的信息。
+        ķ。所有您在您的用户配置文件发布的信息，一定要准确，最新，完整。用户是用于上传或以不同的方式披露的信息绝对全权负责（转贴）在网站上或者与用户的帮助。该用户没有上传，转让或张贴在网站上的内容，如果他/她没有适当的权限采取这样的行动，收购或委托给他/她根据俄罗斯联邦法律的权利。本公司可以，但没有义务，浏览网站的任何非法内容，并允许删除或移动（恕不另行通知）任何内容或用户自行决定，以任何理由或无原因，包括但不限于移动，或删除，根据公司的个人意见违反本协议的信息，俄罗斯联邦的立法和/或可能侵犯权利，伤害或危及其他用户或第三方的安全。该网站包含（或可能包含）其他网站的链接在互联网上（第三方网站），以及文章，照片，插图，图形，音乐，声音，视频，信息，应用，软件和其他信息属于或来来自第三方（第三方内容），这是智力活动的结果，并根据俄罗斯联邦的立法保护。这些第三方及其信息不属于本公司与本或其他要求（准确性，完整性，诚实等）符合性验证。本公司不负责发布在第三方网站的任何内容给该用户获得访问通过网站或通过第三方信息，包括但不限于对第三方网站或表示任何意见或声明在他们的信息。到任何网站，产品和服务的链接，本网站上的商业和非商业性质的任何信息不为这些产品（服务）本公司批准或建议。如果用户决定离开网站，并转到第三方网站或使用或安装第三方软件，他/她在自己的风险，并从那个时候起，这些规定将不再适用于用户这样做。进一步的用户操作由适用的规则和政策，包括那些个人信息的他/她将要使用的业务实践指导。
+      forbidden_actions: 8. FORBIDDEN行动。
+      p_8: 一个。禁止将“保持密切关注”或扰乱任何人在其他方式。湾禁止使用机器人，病毒，应用软件，搜索/提取物网站，或其他手动或自动设备或过程来提取，索引，“间谍”或以其他方式复制或规避导航结构和服务或其内容的显示。
+        C。严禁张贴，散发，或复制任何everyway版权信息，商标或其他信息，未经著作权人事先同意受版权保护。 ð。禁止以除去包含在服务上的任何著作权，商标权或其他版权声明。即严禁干扰或中断服务和网站，或服务和网络连接服务或网站的运行。
+        F。禁止发布，电子邮件或转让不同的方式包含病毒或其他计算机代码，旨在干扰，破坏或限制任何计算机软件，硬件或通讯设备功能的文件或程序的任何信息。 G。禁止伪造标题或操纵标识为掩饰，通过服务共享的任何信息的真正含义的目的。
+        H。禁止以“开拓”或“复制”服务或未经Flutylove事先书面许可，本网站的任何部分。此外，您不得使用任何meta标签或代码，或含有以Flutylove，服务或本网站链接的任何其他设备，以任何人重定向到另一个网站为任何目的。一世。禁止修改，改编，再许可，翻译，出售，重组，译码，编译或反汇编服务或网站，或者在网站上或所使用的所有软件的任何部分，以及鼓励其他国家采取类似行动。学家严禁发布色情和/或色情内容的任何信息。
+      the_changes_in_the_service: 9.在服务的变化。
+      p_9: Flutylove保留随时有权改变或禁用暂时或永久的服务（或其任何它的一部分），恕不另行通知。您同意Flutylove不负责对您或任何第三方进行任何修改，临时可用性或服务的完全禁止。
+      ip_address_blocking: 10，IP封锁。
+      p_10: 为了保护网站的完整性，Flutylove保留在任何时间在其自己的便利有权阻止某些用户的IP地址。
+      relations_between_users_online: 11 USERS关系之间的网上
+      p_11: 您对与Flutylove的其他用户的互动承担全部责任。 Flutylove保留权利，但没有义务，监控您与其他用户之间的纠纷。
+      security_and_communication: 12.安全和沟通。
+      p_12: 使用本网站和/​​或服务也是由我们的隐私政策的约束。当你成为一个用户，您同意并同意接收我们的电子邮件。这些邮件可能代表有关操作或与业务相关的其他通知，如约的其他用户关于行动的行政通知和关于修改正式公告，或含有商业计划书，宣传材料，特别优惠，从我们的电子邮件或信息通知你用户帐号。请阅读我们的隐私政策，以了解更多关于此类通知。
+      denial_of_responsibility: 13 DENIAL责任感。
+      p_13: 一个。 Flutylove不负责在本网站公布任何不正确或不准确的信息或相关的服务，网站或任何硬件或软件与我们的业务相关或使用那里的用户。 Flutylove是不负责的行为，包括在线和离线，本网站的任何用户。
+        Flutylove不承担责任的任何错误，遗漏，中断，删除，操作或操作，通信线路故障，盗窃或破坏，未经授权的访问或用户的通信线路改变损坏或延误。 Flutylove不承担任何电话网络或线路，计算机在线系统，服务器或提供商，计算机设备，软件，用户帐户的邮件或播放器故障，技术问题或拥堵的互联网或任何网站的任何问题或技术故障或其组合，包括事故或伤害使用者或相关的计算机的任何第三方，或者如在参与或与网络和/或服务下载信息的结果。在任何情况下的Flutylove公司或其任何附属机构，因为使用本网站或本服务，广告代理，创始人或分销合作伙伴将不承担任何损失或损害，包括人身伤害或死亡，任何内容在本网站公布或本网站的用户，在线和离线之间的任何互动。提供上作为服务的网站和IS​​的基础上，并Flutylove明确否认对特定用途的，或不侵犯任何人的权利的任何保证或健身。
+        Flutylove不能保证，并没有从使用本网站和/​​或服务承诺的任何具体结果。
+      links: 14.链接。
+      p_14: 一个。 Flutylove不负责在本网站公布任何不正确或不准确的信息或相关的服务，网站或任何硬件或软件与我们的业务相关或使用那里的用户。 Flutylove是不负责的行为，包括在线和离线，本网站的任何用户。
+        Flutylove不承担责任的任何错误，遗漏，中断，删除，操作或操作，通信线路故障，盗窃或破坏，未经授权的访问或用户的通信线路改变损坏或延误。 Flutylove不承担任何电话网络或线路，计算机在线系统，服务器或提供商，计算机设备，软件，用户帐户的邮件或播放器故障，技术问题或拥堵的互联网或任何网站的任何问题或技术故障或其组合，包括事故或伤害使用者或相关的计算机的任何第三方，或者如在参与或与网络和/或服务下载信息的结果。在任何情况下的Flutylove公司或其任何附属机构，因为使用本网站或本服务，广告代理，创始人或分销合作伙伴将不承担任何损失或损害，包括人身伤害或死亡，任何内容在本网站公布或本网站的用户，在线和离线之间的任何互动。提供上作为服务的网站和IS​​的基础上，并Flutylove明确否认对特定用途的，或不侵犯任何人的权利的任何保证或健身。
+        Flutylove不能保证，并没有从使用本网站和/​​或服务承诺的任何具体结果。
+      limitation_of_responsibility: 15.限制责任感。
+      p_15: 本网站及其功能，包括所有的脚本，应用程序，内容和设计本网站是在AS提供了基础。该公司不承担该网站或它的功能可能是使用特定用途的适合或不提供任何担保。本公司不能保证，不会达成任何具体结果从网站和/或它的功能的使用;为了避免混淆，用户应当遵守安全注意事项当下载从网站或THROUGH张贴的链接和所有文件的使用，以及软件。本公司强烈推荐，以及仅使用授权软件的杀毒软件;使用本网站，用户同意，从中下载网站或它的帮助任何内容他/她自己的风险全权负责将这些信息使用，包括它可能会导致用户的计算机或第三他人损害的，可能的结果缔约方，数据丢失，或任何其他损害;在任何情况下本公司或其代理人不承担任何责任到用户或任何第三方的任何间接的，偶然的，UNWILFUL损害，包括遗失效益，或者数据丢失，损坏的荣誉，尊严和商业信誉，产生于本网站，其内容或任何其他资料上使用，而您或任何其他人那里收到ACCESS通过网站，即使该公司警告或注明此类损害的可能性。
+      responsibilities_of_the_parties: 16.缔约方的责任。
+      p_16: 本协议管辖，并根据俄罗斯联邦的立法解释。那些没有在协议解决的问题应根据俄罗斯联邦的立法来解决。在有关本条例的实施有关的任何纠纷或争议的情况下，用户和本公司将尽一切努力通过谈判来解决这些问题。万一纠纷不会因谈判解决，争议应根据俄罗斯联邦的适用法律来解决。本协议在俄语执行，可以用另一种语言提供给用户进行审核。在条例俄罗斯语言和另一种语言版本的版本差异的情况下，在这个条例的规定俄语语言的版本也应适用。如果由于某种原因，这些条例的一个或多个条款将被宣布无效或作​​废，这并不影响其他条款的有效性和可执行性。
+      other_provisions_and_changes: 17.其他条款和变化。
+      p_17: 本协议的网站和/或服务的使用关于您和Flutylove之间的真正的协议。如果本协议的空隙中的任何条款，本协议的其余部分保持其充分发挥作用的有效性。本协议可由Flutylove随时修正。请不要犹豫，有关本协议的任何问题，请联系我们。
+      read_this: 我已阅读本协议并同意其所有条款。
+    about:
+      about_flutylove: 关于Flutylove
+      about_flutylove_text: Flutylove是国际社交娱乐网络测年。在这里你可以找到朋友，一个知己，合作伙伴或只花你的时间享受玩游戏或观看视频/照片。
+      flutylove_features: 当你将签署在我们网站上，你可以找到许多功能，如：
+      video_call_feature: 您可以用摄像头聊天的合作伙伴
+      extended_search: 您可以免费使用扩展搜索
+      multilanguages: 您可以搜索来自其他国家的合作伙伴，因为我们的服务预计将在广泛的来自其他国家的人使用，因为它被翻译超过70种语言
+      play_games_chatting_etc: 您可以与其他人聊天，玩游戏，做一套社会的东西
+      we_are_in_social_networks: 我们在社交网络：
+      twitter: 微博
+      google_plus: 谷歌加
+      we_use_open_source_and_high_technology: 我们用高新技术和开源库。我们总是试图变得更好，改善我们的服务。
+      partners_and_investors: 我们打开了合作伙伴关系，我们希望找到投资者。如果您想与我们合作，请partnership@flutylove.com与我们联系
+    faq:
+      faq: 常见问题解答
+      what_is_flutylove: 什么是Flutylove？
+      about_flutylove: Flutylove是国际社交娱乐网络测年。在这里你可以找到朋友，一个知己，合作伙伴或只花你的时间享受玩游戏或观看视频/照片。
+      what_features_has_flutylove: 哪些功能具有Flutylove？
+      flutylove_features: 在这里，您可以与videocams聊天，使用扩展搜索，搜索合作伙伴来自其他国家，玩游戏，做其他社会的东西。
+      i_have_some_requests: 我有一些要求
+      you_can_write_request: 你可以注册并写
+      i_have_seen_some_typo_or_wrong_translation: 我看到了一些错字或错译
+      you_can_send_pull_request_to_our: 您可以拉入请求发送给我们
+      github_repository: GitHub的库
+      i_have_seen_some_error: 我已经看到了一些错误
+      you_can_send: 您可以向我们发送反馈
+      feedback: 这种形式
+      to_us_or_write_to_our_info_mail: 或写电子邮件给support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: 欢迎Flutylove
+      you_have_successfully_signed_up_to_flutylove: 您已成功签署了Flutylove
+      you_can_sign_in_with_your_social_networks: 如果您想再次登录，您可以与您的社交网络帐户登录
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: 如果您想请用电子邮件和密码，您可以通过登出更改密码，然后点击下面链接
+      change_password: 更改密码
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: 不正确
+            search_for:
+              search_for_error: 不正确
+            birth_date:
+              birth_date_error: 需要大于18和小于115
+            interests:
+              interests_error: 需要少于2000个字符
+            jobs:
+              jobs_error: 需要少于2000个字符
+            languages:
+              languages_error: 需要少于2000个字符
+            sex_keywords:
+              sex_keywords_error: 需要少于2000个字符
+            my_turn_ons:
+              my_turn_ons_error_error: 不正确
+            contacts:
+              contacts_length_error: 需要少于2000个字符
+              contacts_size_error: 需要为小于21的接触
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: 有无效值
+  devise:
+    confirmations:
+      confirmed: 您的帐户已成功确认。
+      send_instructions: 您将收到一封电子邮件，了解如何确认您的帐户在几分钟内说明。
+      send_paranoid_instructions: 如果您的电子邮件地址，在我们的数据库中存在，您将收到一封电子邮件，了解如何确认您的帐户在几分钟内说明。
+      new:
+        send_mail_for_confirm_your_email: 发​​送邮件确认您的电子邮件
+    failure:
+      already_authenticated: 您在已签署的。
+      inactive: 您的帐户尚未激活。
+      invalid: 无效的电子邮件或密码。
+      locked: 您的帐户被锁定。
+      last_attempt: 你多了一个尝试之前，你的帐户将被锁定。
+      not_found_in_database: 无效的电子邮件或密码。
+      timeout: 您的会话过期。请重新登录才能继续。
+      unauthenticated: 您需要登录或继续之前注册。
+      unconfirmed: 你必须继续前确认您的帐户。
+    mailer:
+      confirmation_instructions:
+        subject: 确认指令
+        welcome_to_flutylove: 欢迎Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: 您可以通过下面的链接确认您的电子邮件
+        confirm_my_account: 确认我的电子邮件
+      reset_password_instructions:
+        hello: 你好
+        subject: 重置密码的说明
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: 有人做过请求链接更改密码。您可以通过下面的链接做到这一点。
+        change_my_password: 更改我的密码
+        if_you_didnt_request_this_please_ignore_this_email: 如果您没有请求此请忽略此电子邮件。
+      unlock_instructions:
+        subject: 解锁指令
+    omniauth_callbacks:
+      failure: 无法从％{}样，因为“％{}原因”验证您的身份。
+      success: 成功地从％{}实物验证帐户。
+    passwords:
+      no_token: 你不能没有从密码重置电子邮件来访问此页面。如果你来自一个密码重置邮件，请确保您使用所提供的完整的URL。
+      send_instructions: 您将收到一封电子邮件，如何在几分钟内重置密码。
+      send_paranoid_instructions: 如果您的电子邮件地址，在我们的数据库中，您将收到在几分钟内您的电子邮件地址的密码恢复链接。
+      updated: 您的密码更改成功。您现在登录。
+      updated_not_active: 您的密码更改成功。
+      new:
+        forgot_your_password: 找回密码
+        reset_password: 发送URL恢复
+      edit:
+        change_your_password: 更改密码
+        new_password: 新密码
+        confirm_password: 确认密码
+        change_password: 变化
+    registrations:
+      destroyed: 再见！您的帐户已成功取消。我们希望很快再见到你。
+      signed_up: 欢迎您！您已成功签约。
+      signed_up_but_inactive: 您已成功签约。但是，由于您的帐户尚未激活，我们不能签你进去。
+      signed_up_but_locked: 您已成功签约。但是，由于您的帐户被锁定，我们不能签你进去。
+      signed_up_but_unconfirmed: 带确认链接的邮件已发送到您的电子邮件地址。请打开激活帐户的链接。
+      update_needs_confirmation: 您已成功更新您的帐户，但我们需要验证您的新电子邮件地址。请检查您的电子邮件，并点击确认链接来完成确认新的电子邮件地址。
+      updated: 您已成功更新您的帐户。
+      new:
+        sign_up: 注册
+        password: 密码
+        password_confirmation: 密码确认
+        register: 注册
+    shared:
+      links:
+        sign_in: 登陆
+        sign_up: 注册
+        didnt_receive_confirmation_instructions: 没有收到确认指令？
+        sign_in_with: 登陆与
+        fast_login_almost_one_click: 快速登录（几乎点击）
+    sessions:
+      signed_in: 签名成功。
+      signed_out: 签署了成功。
+      new:
+        sign_in: 登陆
+        password: 密码
+        remember_me: 记住我
+        forgot_your_password: 忘记密码？
+    unlocks:
+      send_instructions: 您将收到一封电子邮件，了解如何解除您的帐户在几分钟内说明。
+      send_paranoid_instructions: 如果您的帐户存在，您会收到一封电子邮件，了解如何解锁几分钟的说明。
+      unlocked: 您的帐户已经成功解锁。请登入继续。
+  timezones:
+    American Samoa: 美属萨摩亚
+    International Date Line West: 国际日期变更线西
+    Midway Island: 中途岛
+    Pacific Time (US & Canada): 太平洋时间（美国和加拿大）
+    Tijuana: 蒂华纳
+    Chihuahua: 奇瓦瓦
+    Mountain Time (US & Canada): 山地时间（美国和加拿大）
+    Central America: 中美洲
+    Central Time (US & Canada): 中部时间（美国和加拿大）
+    Mexico City: 墨西哥城
+    Eastern Time (US & Canada): 东部时间（美国和加拿大）
+    Indiana (East): 印第安纳（东）
+    Atlantic Time (Canada): 大西洋时间（加拿大）
+    Georgetown: 乔治敦
+    La Paz: 拉巴斯
+    Newfoundland: 纽芬兰
+    Buenos Aires: 布宜诺斯艾利斯
+    Greenland: 格陵兰
+    Montevideo: 蒙得维的亚
+    Mid-Atlantic: 中大西洋
+    Azores: 亚速尔群岛
+    Cape Verde Is: 佛得角群岛。
+    London: 伦敦
+    Monrovia: 蒙罗维亚
+    Berlin: 柏林
+    Bratislava: 布拉迪斯拉发
+    Ljubljana: 卢布尔雅那
+    Madrid: 马德里
+    Rome: 罗马
+    Sarajevo: 萨拉热窝
+    Skopje: 斯科普里
+    West Central Africa: 西中非
+    Athens: 雅典
+    Harare: 哈拉雷
+    Vilnius: 维尔纽斯
+    Baghdad: 巴格达
+    Kuwait: 科威特
+    Nairobi: 内罗毕
+    St Petersburg: 圣彼得堡
+    Volgograd: 伏尔加格勒
+    Abu Dhabi: 阿布扎比
+    Baku: 巴库
+    Muscat: 马斯喀特
+    Samara: 萨马拉
+    Yerevan: 埃里温
+    Islamabad: 伊斯兰堡
+    Tashkent: 塔什干
+    Chennai: 奈
+    Kolkata: 加尔各答
+    New Delhi: 新德里
+    Sri Jayawardenepura: 斯里兰卡Jayawardenepura
+    Astana: 阿斯塔纳
+    Dhaka: 达卡
+    Novosibirsk: 新西伯利亚
+    Rangoon: 仰光
+    Hanoi: 河内
+    Jakarta: 雅加达
+    Krasnoyarsk: 克拉斯诺亚尔斯克
+    Hong Kong: 香港
+    Irkutsk: 伊尔库茨克
+    Kuala Lumpur: 吉隆坡
+    Ulaanbaatar: 乌兰巴托
+    Yakutsk: 雅库茨克
+    Adelaide: 阿德莱德
+    Canberra: 堪培拉
+    Guam: 关岛
+    Hobart: 霍巴特
+    Port Moresby: 莫尔兹比港
+    Vladivostok: 符拉迪沃斯托克
+    Magadan: 马加丹
+    New Caledonia: 新喀里多尼亚
+    Solomon Is: 所罗门群岛。
+    Srednekolymsk: 中科雷姆斯克
+    Auckland: 奥克兰
+    Marshall Is: 马绍尔群岛。
+    Chatham Is: Chatham酒店。
+    Nuku'alofa: 努库阿洛法
+    Samoa: 萨摩亚
+    Tokelau Is: 托克劳是。
+  zh-CN: zh-CN
+  zh-CN_iso: zh-CN

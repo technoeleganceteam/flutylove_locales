@@ -1,0 +1,980 @@
+---
+zh-TW:
+  1_we_have_just_launched_our_service_title: 我們剛剛推出了我們的服務！
+  common_keywords: 測年，在線測年，愛測年，網絡攝像頭約會，快速約會，網絡攝像頭聊天交友，Ruby on Rails的交友網站，多語言交友網站
+  common_description: 國際最先進的社交娛樂網絡測年“Flutylove”
+  default_album: 默認專輯
+  user: 用戶
+  user_to_search_connection: 搜索
+  video: 視頻
+  photo_album: 相冊
+  to: 到
+  vkontakte: 的Vkontakte
+  facebook: 的Facebook
+  twitter: 微博
+  google_oauth2: 谷歌
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: 男
+  - female:
+      name: 女
+  - transgender:
+      name: 變性
+  - male-female:
+      name: 男，女
+  - double-female:
+      name: 雙女
+  - double-male:
+      name: 雙雄
+  orientation:
+  - heterosexual: 異性
+  - homosexual: 同性戀
+  - bisexual: 雙性戀
+  search_for:
+  - get_friends: 獲取朋友
+  - marriage: 婚姻
+  body_type:
+    slim: 修身
+    normal: 正常
+    chubby: 丘比
+  relationship:
+    in_a_relationship: 在一個關係
+    married: 已婚
+    nothing_serious: 不嚴重
+  children:
+    dont_have: 別有
+    dont_have_and_dont_want_to: 不用，不希望
+    don_t_have_but_planning: 不要有，但規劃
+    have_enough: 有無
+    have_and_planning_more: 已經和計劃更多
+    unable_to_have_children: 無法生孩子
+  living:
+    with_parents: 和父母
+    with_marriage_partner: 婚姻伴侶
+    with_friends: 和朋友（S）
+  education:
+    secondary_school: 中學
+    college_technical_college: 大學/大專
+    university: 大學
+    phd_md_post_doctorate: 博士/醫學博士/博士後
+  hair_color:
+    dark_blond: 暗色金發
+    red: 紅
+  income:
+    unemployed: 失業
+    unstable_earnings: 收益不穩定
+    small_stable_earnings: 小收益穩定
+    medium_stable_earnings: 中等收益穩定
+    higher_than_average_income: 平均收入更高
+    high_income: 高收入
+  smoking:
+    not_smoke: 不吸煙
+    not_smoke_and_detest: 不吸煙和吸煙厭惡
+    smoke_in_a_social_setting: 有時在社交場合
+    smoke_occasionally: 偶爾煙
+    smoke_often: 煙霧經常
+  alcohol:
+    not_drinking: 不喝酒
+    drink_occalionally: 有時候
+    drink_in_a_social_setting: 飲料在社交場合
+    drink_often: 經常喝酒
+  drugs:
+    dont_use: 不要使用
+    contra_drugs: 魂斗羅藥
+    tried_out_some: 嘗試了一些
+    light_drugs_occasionally: 偶爾藥
+  sponsor:
+    i_want_to_find_a_sponsor: 我想找到一個贊助商
+    willing_to_become_a_sponsor: 願意成為贊助商
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: 不找贊助商並不甘心成為一體
+  category_name:
+    strategy: 策略
+    rpg: RPG
+    3d_shooters: 3D射擊遊戲
+    arcade: 街機
+    economic: 經濟
+    simulators: 模擬器
+    logic: 邏輯
+    adventure: 冒險
+    gambling: 賭博
+    news: 新聞
+    e_commerce: 電子商務
+  shared:
+    header:
+      forum: 論壇
+      about: 關於項目
+      user_applications: 應用
+    liked_users:
+      liked: 喜歡
+      you_have_not_liked_any_users_yet: 你還沒有任何喜歡的用戶還
+    most_liked_users:
+      most_liked_users: 流行的用戶
+    installed_user_applications:
+      installed_applications: 安裝的應用程序
+      you_have_not_installed_any_apps_yet: 您還沒有安裝任何應用程序還
+    user_applications:
+      uploaded_apps: 上傳應用程序
+      you_have_not_uploaded_any_apps_yet: 您還沒有上傳過任何應用程序還
+    right_sidebar:
+      news: 新聞
+      read_more: 閱讀更多
+    footer:
+      footer_text: 國際社交娛樂網絡測年“Flutylove”
+      feedback: 反饋
+      abuse: 濫用
+    languages_select_modal:
+      available_languages: 可用語言
+    site_map_modal:
+      site_map: 網站地圖
+      faq: 常見問題解答
+      static_pages: 靜態頁面
+      common_pages: 常見的網頁
+      user_pages: 用戶頁面
+      user_applications: 應用
+      news: 新聞
+      feedback: 反饋
+      abuse: 濫用
+      videos: 視頻
+      photo_albums: 相冊
+    pagination_link:
+      next_page: 下一頁
+    user_edit_menu:
+      content: 內容
+      profile: 簡介
+      site_settings: 站點設置
+      services: 服務
+    activities_navigation:
+      photos: 照片
+      photo_albums: 相冊
+      videos: 視頻
+    notifications_navigation:
+      likes: 喜歡
+      friend_requests: 好友請求
+      profile_views: 個人資料顯示
+      photo_album_views: 照片意見
+    user_to_friend_connections_navigation:
+      friends: 朋友
+      friends_online: 在線的朋友
+      outcome_requests: 結果的請求
+      income_requests: 收入要求
+    user_applications_navigation:
+      popular: 流行
+      often_installed: 經常安裝
+      manage: 管理
+    user_requests_navigation:
+      popular: 流行
+      my_requests: 我的請求
+    user_navbar_menu:
+      sign_in: 登陸
+      sign_up: 註冊
+    email_signature:
+      mailer: 梅勒
+      technoelegance: Technoelegance有限公司
+    translations:
+      select_gender: 選擇性別
+      select_orientation: 選擇方向
+      select_search_for: 選擇搜索
+    need_to_sign_in_modal:
+      you_need_to_sign_in: 需要此操作前登錄
+    sign_up_methods:
+      usual_register_link: 平常登記
+      register_text: 另外％{} usual_registration你可以通過最流行的服務和社交網絡註冊
+    bootstrap_gallery:
+      previous: 上一頁
+    user_notification_title:
+      you_liked: 您可以通過喜歡
+      wrote_message_to_you: 寫郵件給你
+      viewed_your_profile: 看您的個人資料
+      liked_your_photo: 喜歡你的照片
+      liked_your_note: 喜歡你的筆記
+      liked_your_request: 喜歡你的要求
+      liked_your_video: 喜歡你的視頻
+      liked_your_application: 喜歡你的應用程序
+      requested_a_friendship: 請求友誼
+  authentications:
+    authentication:
+      turn_on: 開啟
+      turn_off: 關閉
+      turned_on: 開機狀態
+      turned_off: 熄滅
+    index:
+      enabled_services: 啟用服務
+  users:
+    profile:
+      meet_with: 會見
+      gender: 性別
+      type_in_your_location: 在你的城市
+      about_me: 對自己有些話（除了下面形成）
+      sex_keywords: 興趣在性生活
+      enter_your_name: 輸入您的姓名
+      more_options: 更多
+      orientation: 方向
+      birth_date: 出生日期
+      search_for: 搜索
+      intimacy: 親密
+      in_age: 年齡
+      interests: 興趣
+      height: 高度
+      body_type: 體型
+      hair_color: 頭髮顏色
+      relationship: 關係
+      jobs: 工作
+      income: 收入
+      languages: 語言
+      smoking: 吸煙
+      contacts: 聯繫方式
+      contact_name: 聯繫人姓名
+      contact_value: 聯繫的價值
+      about_yourself: 關於自己
+    settings:
+      locale: 界面語言
+      change_password: 更改密碼
+      interface_language: 界面語言
+      time_zone: 時區
+    dialog_modal:
+      send_message: 發送信息
+    index:
+      clear_search: 清除搜索
+    dashboard:
+      hello: 你好
+      here_some_of_your_statistics: 在這裡，你的一些統計數據
+      messages: 消息
+      photos: 照片
+      videos: 視頻
+      photo_albums: 相冊
+    avatar:
+      photo: 照片
+      uploading_file: 上傳文件
+      handling_file: 處理文件
+      drag_and_drop_your_file: 拖放文件
+      upload_file: 上傳文件
+      from_other_sites: 從其他網站
+      write_down_link_for_your_image: 寫下您的圖像鏈接
+      url_for_image: 網址圖像
+      from_facebook: 從Facebook
+      turn_on_facebook: 打開Facebook的
+      you_can_upload_your_photos_from_facebook: 你可以上傳你的照片從Facebook
+      from_vkontakte: 從歷史Vkontakte
+      you_can_upload_your_photos_from_vkontakte: 你可以上傳你的照片從歷史Vkontakte
+      turn_on_vkontakte: 打開的Vkontakte
+      from_instagram: 從Instagram的
+      you_can_upload_your_photos_from_instagram: 你可以上傳你的照片的Instagram
+      turn_on_instagram: 打開Instagram的
+      from_dropbox: 從Dropbox的
+      you_can_upload_your_photos_from_dropbox: 你可以上傳你的照片的Dropbox
+      turn_on_dropbox: 開啟保管箱
+      edit_photo: 編輯照片
+      delete_photo: 刪除照片
+      are_you_sure: 你確定嗎？
+    available_photos_modal:
+      available_photos: 可用照片
+    update:
+      your_password_was_successfully_changed: 您的密碼更改成功
+      your_profile_was_successfully_updated: 您的個人資料已成功更新
+    edit_photo:
+      edit_photo: 編輯照片
+      close: 關閉
+      save_changes: 保存更改
+    contact:
+      contact_name_placeholder: 的Facebook / SKYPE / VK的/ etc
+      contact_value_placeholder: URL /尼克/ ID /等
+    user:
+      about_me: 關於我
+      orientation: 方向
+      meet_with: 會見
+      desirable_age: 年齡可取
+      interests: 興趣
+      height: 高度
+      body_type: 體型
+      hair_color: 頭髮顏色
+      relationship: 關係
+      jobs: 喬布斯
+      income: 收入
+      languages: 語言
+      smoking: 吸煙
+      contacts: 聯繫方式
+    user_info:
+      offline: 當前離線
+      age: 年齡
+    loading_modal_images:
+      loading_images: 加載圖像
+    password_form:
+      new_password: 新密碼
+      confirm_new_password: 確認新密碼
+      old_password: 舊密碼
+      change_password: 更改密碼
+    show:
+      photos: 照片
+      videos: 視頻
+    dropbox_token_form:
+      paste_recieved_key: 粘貼收到鑰匙
+    contents:
+      users_which_i_like: 我喜歡
+      my_videos_likes: 我喜歡的視頻
+      my_photos_likes: 我喜歡的照片
+      my_notes_likes: 我的筆記我喜歡
+      my_user_applications_likes: 我喜歡的應用
+      my_user_requests_likes: 我喜歡的請求
+    more_profile_info:
+      photo_albums: 相冊
+      view_all_photo_albums: 查看所有相冊
+      create_more: 創造更多
+      videos: 視頻
+      view_all_videos: 查看視頻
+      view_all_notes: 查看所有筆記
+      requirements_lists_to_partner: 要求列出了合作夥伴
+      requirement: 要求
+      view_all_requirements_lists: 查看所有需求列表
+      profile_verification: 個人資料驗證
+      your_profile_is_successfully_verified: 您的個人資料已成功驗證
+      you_have_not_any_requirements_lists_yet: 你沒有任何要求，還列出
+      you_have_not_any_notes_yet: 你沒有任何筆記還
+      you_have_not_any_photo_albums_yet: 你沒有任何照片相冊
+      you_have_not_any_videos_yet: 你沒有任何視頻
+      your_profile_is_not_verified_yet: 您的個人資料尚未驗證
+      verify_through_twitter: 驗證通過Twitter
+      verify_through_facebook: 驗證通過Facebook
+      verify_through_mail_ru: 驗證通過Mail.ru
+  searches:
+    form:
+      age: 年齡
+      gender: 性別
+    form_content:
+      gender: 性別
+      has_avatar: 有頭像
+      more: 更多
+      about_me: 關於我
+      interests: 興趣
+      languages: 語言
+      height: 高度
+      body_type: 體型
+      relationship: 關係
+      hair_color: 頭髮顏色
+      orientation: 方向
+      search_for: 搜索
+      smoking: 吸煙
+      income: 收入
+    show:
+      clear_search: 清除搜索
+  welcome:
+    index:
+      user_applications: 應用
+      features: 特點
+      registration: 報名
+      sign_in: 登陸
+      welcome_main_title: 歡迎Flutylove！
+      welcome_main_text: 在這裡，你可以找到你的完美愛情的地方
+      find_more: 查找更多
+      about_title: Flutylove是國際社交娛樂網絡測年
+      about_text: 有許多功能，可用於娛樂和測年！
+      find_more_features: 查找更多的功能
+      many_languages: 許多語言
+      text_about_many_languages: 我們的服務被翻譯超過70種語言
+      check_it_out: 檢查出來
+      videochats: Videochats
+      text_about_videochats: 您可以用videocams你的伴侶聊天
+      try_it_now: 現在就來試試
+      text_about_search: 您可以使用多個搜索參數，它是免費的！
+      watch_this: 關注此
+      more_features: 更多功能
+      text_about_more_features: 您可以觀看視頻，玩遊戲，做很多其他的事情！
+      register_and_learn_more: 註冊並了解更多
+      install_our_apps: 從流行的平台上安裝我們的應用程序
+      register_header: 報名
+  feedbacks:
+    new:
+      feedback_title: 反饋
+    form:
+      feedback_name: 你的名字
+      feedback_email: 您的電子郵件
+      feedback_content: 反饋內容
+      close: 關閉
+      feedback_recaptcha: 的Recaptcha
+      cancel: 取消
+    success:
+      success_feedback: 謝謝！我們已經收到您的反饋意見。
+      close: 關閉
+      cancel: 取消
+  abuses:
+    new:
+      abuse_title: 濫用
+    form:
+      abuse_name: 你的名字
+      abuse_email: 您的電子郵件
+      abuse_content: 虐待內容
+      abuse_title: 濫用
+      close: 關閉
+      abuse_recaptcha: 的Recaptcha
+      abuse_link: 鏈接
+      cancel: 取消
+    success:
+      success_abuse: 謝謝！我們已經收到您的濫用。
+      close: 關閉
+      cancel: 取消
+  layouts:
+    welcome:
+      welcome_title: 歡迎Flutylove！最先進的交友網站。
+  recaptcha:
+    errors:
+      verification_failed: 驗證碼失敗
+      recaptcha_unreachable: 的Recaptcha不可達
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: 我們剛剛推出了我們的服務！
+      we_have_just_launched_our_service_text: 今天我們推出我們的服務，讓每個人都可以
+      sign_up: 報名
+      and_use_it: 並使用它。
+      wishes_and_requests: 如果您有任何願望或要求，你可以註冊並寫
+      with_love: 有了愛，
+      flutylove_team: Flutylove團隊
+    index:
+      all_news: 全部新聞
+      read_more: 閱讀更多
+  chats:
+    panel_head:
+      offline: 當前離線
+    pagination_link:
+      next_page: 下一頁
+    form:
+      message_text: 消息文本
+    form_additions:
+      videochat: 視頻聊天
+    show:
+      messages: 消息
+    index:
+      messages: 消息
+    videochat_request_link:
+      connect_to_videochat: 連接到視頻聊天
+    modal_form:
+      send_message: 發送信息
+      close: 關閉
+    waiting_video_answer_button:
+      waiting_for_response: 等待回應...
+    chat_created:
+      send_message: 發送信息
+      message_was_sent: 留言已經發送
+      close: 關閉
+  messages:
+    pagination_link:
+      next_page: 下一頁
+    form:
+      message_text: 消息文本
+  notifications:
+    notification:
+      offline: 當前離線
+  user_applications:
+    user_application:
+      who_uploaded: 通過上傳
+      all_uploaded_applications_by: 所有上傳的應用程序通過
+    form:
+      user_application_name: 應用程序名稱
+      description: 說明
+      description_text: 文字說明
+      iframe_url: iframe網址
+      icon_for_application: 應用程序圖標
+      upload_icon: 下載圖標
+      public: 公眾？
+    show:
+      return_to_uploaded_applications: 要上傳的應用程序
+      edit_application: 編輯應用程序
+      return_to_all_applications: 返回到所有應用程序
+    manage:
+      installed_applications: 安裝的應用程序
+      uploaded_applications: 上傳應用程序
+    index:
+      applications_uploaded_by: 應用通過上傳
+      return_to_all_applications: 返回到所有應用程序
+      create_new: 新建
+      return_to_manage_applications: 返回到管理應用程序
+    installed:
+      installed_applications: 安裝的應用程序
+      return_to_all_applications: 返回到所有應用程序
+      return_to_manage_applications: 返回到管理應用程序
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: 視圖前這個程序，你需要先登錄
+    need_to_install:
+      need_to_install_first: 您需要首先安裝此應用程序
+      install_application: 安裝應用程序
+  likes:
+    index:
+      liked_items: 喜歡的物品
+      return_to_my_content: 回到我的內容
+  videos:
+    index:
+      videos: 視頻
+      return_to_edit_profile: 要編輯的個人資料
+      create_new: 新建
+      return_to_profile: 返回簡介
+    video:
+      are_you_sure: 你確定嗎？
+      delete: 刪除
+    modal_form:
+      create_new_video: 創建新視頻
+      close: 關閉
+    form_content:
+      video_name: 視頻名稱
+      source: 網址的嵌入代碼
+      video_url_or_embed_code: 視頻的視頻嵌入代碼的網址
+    show:
+      video: 視頻
+      return_to_all_videos: 返回所有視頻
+      edit_video: 編輯視頻
+    edit:
+      edit_video: 編輯視頻
+      return_to_view_video: 返回查看視頻
+      view_video: 查看視頻
+  photo_albums:
+    index:
+      photo_albums: 相冊
+      return_to_editing_profile: 要編輯的個人資料
+      create_new: 新建
+      return_to_profile: 返回簡介
+    photo_album:
+      are_you_sure: 你確定嗎？
+      delete: 刪除
+    edit:
+      edit_photo_album: 編輯相冊
+      return_to_photo_albums: 到相冊
+      view_photo_album: 查看相冊
+    form_content:
+      photo_album_name: 相冊名稱
+    photo_album_uploader:
+      drag_and_drop_your_file: 拖放文件
+      upload_file: 上傳文件
+      from_other_sites: 從其他網站
+      write_down_link_for_your_image: 寫下您的圖像鏈接
+      url_for_image: 網址圖像
+      from_facebook: 從Facebook
+      turn_on_facebook: 打開Facebook的
+      you_can_upload_your_photos_from_facebook: 你可以上傳你的照片從Facebook
+      from_vkontakte: 從歷史Vkontakte
+      you_can_upload_your_photos_from_vkontakte: 你可以上傳你的照片從歷史Vkontakte
+      turn_on_vkontakte: 打開的Vkontakte
+      from_instagram: 從Instagram的
+      you_can_upload_your_photos_from_instagram: 你可以上傳你的照片的Instagram
+      turn_on_instagram: 打開Instagram的
+      from_dropbox: 從Dropbox的
+      you_can_upload_your_photos_from_dropbox: 你可以上傳你的照片的Dropbox
+      turn_on_dropbox: 開啟保管箱
+    show:
+      photo_album: 相冊
+      return_to_photo_albums: 到相冊
+      edit_photo_album: 編輯相冊
+    modal_form:
+      create_new_photo_album: 創建新相冊
+      close: 關閉
+  user_requests:
+    form:
+      content: 內容
+  notes:
+    index:
+      return_to_edit_profile: 要編輯的個人資料
+      create_new: 新建
+      return_to_profile: 返回簡介
+    note:
+      are_you_sure: 你確定嗎？
+      delete: 刪除
+    show:
+      return_to_notes: 返回筆記
+      edit_note: 編輯筆記
+    form_content:
+      content: 內容
+      note_content: 注意內容
+    edit:
+      edit_note: 編輯筆記
+      return_to_notes: 返回筆記
+      view_note: 查看筆記
+  user_to_search_connections:
+    index:
+      requirements_lists: 需求列表
+      return_to_editing_profile: 要編輯的個人資料
+      create_new: 新建
+    user_to_search_connection:
+      are_you_sure: 你確定嗎？
+      delete: 刪除
+    edit:
+      edit_requirements_list: 編輯需求列表
+      return_to_requirements_lists: 到需求列表
+      view_requirements_list: 查看需求列表
+    form_content:
+      name_of_your_requirements_list: 你的要求列表的名稱
+    show:
+      requirements_list: 需求清單
+      return_to_requirements_lists: 到需求列表
+      edit_requirements_list: 編輯需求清單
+  photos:
+    index:
+      photos: 照片
+      return_to_photo_albums: 返回相冊
+      return_to_profile: 要分析
+  errors:
+    messages:
+      already_confirmed: 已經確認，請嘗試在簽約
+      confirmation_period_expired: 需要進行內部％{}期間確認，請申請一個新的
+      expired: 已過期，請申請一個新的
+      not_found: 未找到
+      not_locked: 沒有鎖
+      not_saved:
+        one: 1錯誤，無法儲存禁止此％{}資源：
+        other: "％{}計數被禁止保存此％{}資源錯誤："
+    bad_request:
+      bad_request: 錯誤的請求
+      request_result: 請求結果
+      bad_request_description: 服務器不能或無法處理請求由於一個明顯的客戶端錯誤
+      go_to_root: 去根
+    unprocessable_entity:
+      unprocessable_entity: 處理的實體
+      request_result: 請求結果
+      unprocessable_entity_description: 的要求是格式良好的，但由於語義錯誤無法遵循
+      go_to_root: 去根
+    not_found:
+      not_found: 未找到
+      request_result: 請求結果
+      not_found_description: 請求的資源無法被找到，但可能會在將來可用的
+      go_to_root: 去根
+    forbidden:
+      request_result: 請求結果
+      forbidden_description: 請求是一個有效的請求，但服務器拒絕對此作出回應
+      go_to_root: 去根
+    internal_server_error:
+      request_result: 請求結果
+      internal_server_error_description: 出了錯。我們將盡快修復它。
+      go_to_root: 去根
+  pages:
+    privacy:
+      privacy: Flutylove隱私政策
+      general_provisions: 一般規定
+      p_1_1: 1.1。本條例是有限責任公司“Technoelegance”的正式文件，位於101000，莫斯科，Ulanskiy pereulok 13，stroeniye
+        4，pomeshcheniye 1（以下簡稱Flutylove，本公司，我們的），並確定數據處理和個人信息安全的程序誰已經達到18歲，誰使用網站https://flutylove.com（以下簡稱網站）和服務（以下簡稱用戶）。
+      p_1_2: 1.2。這些規定的目的是確保應有的保護用戶信息，包括個人資料，未經授權的訪問和披露。
+      p_1_3: 1.3。與收集，存儲，分發和網站用戶的信息安全相關的關係由本條例，本公司其他正式文件和俄羅斯聯邦現行法律管轄。
+      p_1_4: 1.4。條例，這是一個公開的文檔的當前版本，下面的鏈接http://flutylove.com/pages/privacy時可用於任何互聯網用戶。本公司有權修改這些規則的權利。若更改了規則作出，本公司將通過之前的有效發布的條例的新版本，在永久地址http://flutylove.com/pages/privacy的網站，不得遲於10天通知用戶的變化日期。條例以前版本存儲在公司的文檔歸檔。
+      p_1_5: 1.5。這些條例已經開發並根據用戶協議被使用。在這些法規和公司其他正式文件之間的任何違反情況下，這些規定必須強制執行。
+      p_1_6: 1.6。通過使用網站，您同意本隱私政策的條款和條件。請仔細閱讀。如果您不同意本隱私政策中的條款，或者你還沒有達到18歲的年齡，你可能無法使用本網站及其服務。使用本網站，無論你是否是Flutylove的註冊用戶或沒有，你確認你完全接受這個隱私政策，並同意遵循它。
+      the_website_using_conditions: 在使用網站的條件
+      p_2_1: 2.1。使用本網站Flutylove，你​​需要註冊。姓名，電子郵件地址，性別，出生日期，位置信息：應在註冊時指定的以下信息。用戶可以提供他/她自己的意願額外個人信息。用戶可以編輯或隨時更新個人信息。本公司有權要求額外證明文件的性別變化和用戶的出生日期的情況下的權利。
+      p_2_2: 2.2。通過允許訪問網站及其服務，本公司，以合理的方式和善意，認為用戶：認識到了網站上註冊，必須要年滿18歲;擁有所有必要的權利，以便能夠在本網站註冊並使用它;表示對自己的準確信息/根據對使用本網站的服務的要求自己;意識到，在網站上的個人信息，由用戶提供的，有可能成為可用的網站和網民為好，可以複製和由其他用戶分佈的其他用戶;是注​​意，某些類型的信息，傳送到其他用戶，不能由用戶除去相識本條例，同意與他們進行指定的權利和義務。
+      p_2_3: 2.3。當這種驗證是必要的，以便滿足用戶對公司的義務，本公司不核實有關用戶的接收（收集）信息的準確性，案件除外。
+      information_processing_objectives: 信息處理的目標
+      p_3_1: 3.1。公司奉行用戶信息，包括他們的個人數據信息處理，以滿足對使用本網站及其服務的公司義務的用戶。
+      p_3_2: 3.2本公司有權進行個人數據的處理沒有通知主管機關對個人資料當事人的權利的保護的權利。
+      p_4_1: 4.1。用戶的個人數據包括：
+      p_4_1_1: 4.1.1。姓名，電子郵件地址，性別，出生日期，位置信息，和電話號碼，這是由用戶提供的和應該是剛好夠在網站上的註冊的日期;
+      p_4_1_2: 4.1.2。這是由用戶提供（例如照片，關於有害習慣等信息）的信息;
+      p_4_1_3: 4.1.3。另外通過用戶根據，以履行公司義務的用戶，從用戶協議顯示本公司要求提供的。本公司擁有的權利，特別是要求用戶身份證明文件或包含姓名，性別和出生日期的任何其他文件，以及其他的附加信息，在公司的決定，將是必要的副本，足以滿足此類用戶的識別和將消除第三方權利濫用和侵犯。
+      p_4_2: 4.2。由本公司網站管理其他用戶的信息處理也處理有關用戶，其中包含的其他信息：
+      p_4_2_1: 4.2.1。共同的數據，訪問的網站和用戶的後續操作時，由HTTP服務器自動接收（主機的IP地址，用戶的操作系統的類型，網站的網頁由用戶訪問）。
+      p_4_2_2: 4.2.2。訪問使用書籤（餅乾）的網站時會自動接收到的信息;
+      p_4_2_3: 4.2.3。該被接收作為對網站的用戶的行動的結果的信息;
+      p_4_2_4: 4.2.4。該被接收作為對網站的其他用戶的操作的結果的信息。
+      users_information_processing: 用戶信息處理
+      p_5_1: 5.1。個人數據處理的下列原則基礎上開展：一）合法用途和個人數據的處理方式;二）誠實; c）對個人數據處理的目的與宗旨遵守規定和收集的個人資料，以及本公司的憑證的合規性聲明時;
+        D）的數量和處理個人數據的類型，以及其處理的目的，個人數據的處理方式遵守的合規性;五）創建的數據庫結合不兼容的目的，載有個人資料的不予受理。
+      p_5_1_1: 5.1.1。用戶的個人數據的收集是當寄存器，以及在未來當用戶添加約他/她自己使用他/她主動的網站工具的詳細信息在網站上進行。
+      p_5_1_2: 5.1.2。用戶的個人數據被專門存儲在電子格式和處理使用自動化系統，與其中需要考慮滿足法律要求的個人資料的手工處理的情況除外。
+      p_5_1_3: 5.1.3。用戶的個人數據不會轉讓給任何第三方，除非這些條例和用戶協議明確規定的情況。與用戶的同意下，個人用戶數據可以傳送到的義務的假設的情況下，公司的第三對手，以確保接收到的信息的保密性，特別是，使用服務和應用程序時。對政府部門（地方政府）的請求，用戶的個人數據配置在過程中所要求的法律進行。
+      p_5_1_4: 5.1.4。 ;數據是自刪除從由用戶的頁面 - ：當個人用戶數據被刪除 - 頁面是自刪除由用戶; - 用戶的信息和其個人網頁是由公司刪除。在用戶本身的情況下刪除網頁時，個人網頁被刪除後，公司專賣店內上210天其電子媒體用戶的個人資料。個人頁面被刪除後的個人資料，在210天期滿刪除。直到本週期到期時，用戶必須恢復個人頁面的權利。
+      users_rights_and_obligations: 用戶的權利和義務
+      p_6_1: 6.1。用戶有以下權利：
+      p_6_1_1: 6.1.1。訪問有關他/她沒有任何限制和免費的通過配合使用的登錄名和密碼的網站編輯的個人網頁;
+      p_6_1_2: 6.1.2。獨立進行修改和更正網站上的用戶的個人頁面上的信息，在這樣的變化和修正包含了病情的最新和真實的信息;
+      p_6_1_3: 6.1.3。移除網站上的個人頁面中的信息;
+      p_6_1_4: 6.1.4。要求本公司以獲得更具體的信息，塊或刪除個人數據，如果這些數據是不完整的，過時的，不準確，非法收取或沒有必要進行處理的申報目的或如果這些第6.1.3條所規定的動作法規不能獨立執行;
+      p_6_1_5: 6.1.5。的請求的基礎上，接收來自所述公司關於他/她的個人數據的處理的信息。
+      p_6_2: 6.2。任何註冊的網站用戶的以下信息可隨時註冊用戶：用戶的姓名，性別，年齡，個人資料照片和其他信息，如果用戶已經發布了。
+      p_6_3: 6.3。本公司承擔由誰訪問過這些數據本網站的其他用戶披露用戶的個人資料不承擔任何責任。
+      p_6_4: 6.4。在個人數據（其他用戶信息）從用戶的個人頁面或刪除從本網站用戶的個人頁面中移除的情況下，其他用戶複製或存儲在其他用戶的網頁是保存用戶的信息。
+      users_information_protection_measures: 用戶信息保護措施
+      p_7_1: 7.1。本公司以技術，組織和法律措施，以確保用戶的個人數據從未經授權或意外，刪除，修改，攔截，複製和傳播，以及其他未經授權的行為保護。
+      p_7_2: 7.2。用戶的登錄（電子郵件地址或手機號碼）和密碼用於訪問本網站。用戶負責保持該信息的機密性。用戶可能無法登錄名和密碼轉讓給第三方，也有義務採取措施，以確保其機密性。
+      limitation_of_the_regulations_applicability: 限制條例的適用性
+      p_8: 這些法規​​不擴展到第三方的行動和互聯網資源。本公司承擔第三方誰獲得了通過互聯網或網站服務的用戶信息的行為不承擔任何責任。網站管理建議用戶信息以負責任的態度在網站上公佈的數額處理這一問題。
+      user_requests: 用戶請求
+      p_9_1: 9.1。該用戶必須將請求發送到公司，包括關於在下列地址以書面形式使用個人數據的請求權：俄羅斯，101000，莫斯科，Ulanskiy pereulok
+        13，stroeniye 4，pomeshcheniye 1或電子文件的形式由合格的電子簽名，根據俄羅斯聯邦法律簽署，由電子郵件：support@flutylove.com。
+      p_9_2: 9.2。用戶的請求必須包含以下信息：用戶或其代表人身份證明文件號碼;上述文件及發證機關簽發的日期;信息確認與操作關係在用戶參與（特別是鏈接的網頁）;用戶或他/她的代表簽名。
+      p_9_3: 9.3。本公司承諾以考慮並收到之日起30日內向用戶請求做出響應。
+      p_9_4: 9.4。從用戶（書面或電子申請）公司收到的所有信件被列為限制訪問的信息和未經用戶的書面同意不得公開。個人數據和有關誰發送請求的用戶的其他信息可能不被使用，而無需用戶的特別許可，不同於為響應於該請求，或在適用法律明確提供的實例。
+    terms:
+      terms: Flutylove用戶協議
+      welcome: 歡迎Flutylove！
+      about_terms: 使用這些術語之間（以及文件本文提及的，包括隱私權政策）的附著力按照俄羅斯聯邦民法典（以下簡稱“協議”）第428合同誰已經達到18歲的個人（以下簡稱“用戶”和本公司（或“我們”）
+        - 有限責任公司“Technoelegance”（LLC“Technoelegance”）（法定地址：101000，莫斯科，Ulanskiy pereulok
+        13，stroeniye 4，pomeshcheniye 1），以下稱為Flutylove，根據該​​可以使用該網站並通過網站或應用程序（一般稱為“服務”提供的所有相關聯的服務）。的網站被理解為是指任何的它的版本，域名flutylove.com下結合和各種設備，包括基於網絡的版本，移動應用和社交網絡應用程序運行。使用本網站您同意協議的條款和隱私權政策。請仔細閱讀。如果你不與協議條款和隱私權政策同意，或者你還沒有達到18歲的年齡，你可能無法使用本網站及其服務。通過使用網站，無論你是註冊Flutylove的用戶與否，你本協議和我們的隱私政策，這是包括鏈接本協議中，是網站提供的完全同意，並遵守它。在用戶的要求，本公司承諾登錄硬拷貝構成本協議並將其發送給個人請求的文件。本公司保留修改用戶協議，並提交給它的任何文件的權利。要知道，你需要保持向上最新的定期變化等信息的變化。我們將通知您我們將在下面這個頁面上所做的更改。更改不會追溯並自公佈之日起十日內生效。然而，如果它們與新服務的執行或立法的修改相關聯的，它將被立即應用。如果你不與協議中的變化一致，必須停止使用本網站及其應用。
+      consent_to_accept_the_terms_of_user_agreement: 1.同意接受用戶協議的條款。
+      p_1: 一個。電子協議。本協議的合同，這說明使用本網站和服務的條款的電子版本。通過登錄本網站或成為一個用戶，你接受本協議並同意所有條款，條件和所包含或引用的有通知。您確認並同意，Flutylove的用戶可能是一個在線社區，包括屬於本公司或其附屬公司的其他網站的一部分。因此，在網站上的配置文件可以在其他類似的網站，並從一個網站付費訂戶被視為可以與來自其他網站的付費用戶通信。灣電子表格中。通過登錄本網站或成為一個用戶，您同意向您提供的電子協議。
+        C。硬拷貝的形式。你必須接受本協議的硬拷貝的權利。您可以要求本協議的紙質版之前或之後它會以電子形式簽署。請聯繫我們的客戶服務，以獲取更多信息。 ð。訪問和下載。為了訪問並下載該電子協定，則必須能夠訪問因特網或直接通過與訪問網絡資源的設備。你需要有必要的設備連接互聯網，即電腦，調製解調器或其他接入設備。請打印本協議的副本，並保持它。要下載協議的電子形式，通過任何文本編輯器的幫助下將其保存到您的計算機。
+      the_right_of_using_the_website: 2.使用本網站的權利。
+      p_2: 您必須至少十八（18）歲，成為該網站的註冊用戶。在不符合要求的情況下，進入網站將被拒絕。使用本網站，用戶應該知道，在本網站公佈的個人信息可以提供給其他互聯網用戶，而本公司不承擔對自己的行為承擔責任。通過使用這個網站，你​​斷言和保證你有權利，權力和可能性，訂立本協議，並同意遵守所有的條款和條件。成為你斷言和保證你從來沒有遭受被定罪，有關性暴力犯罪行為的用戶。該網站旨在僅用於個人使用。嚴禁使用本網站用於任何商業用途。企業法人不能成為這個網站的用戶，以及不能使用本服務或他們的目的網站。非法和/或使用本網站，包括通過發送不良信息和鏈接為目的的電子或其他工具的幫助下收集用戶名和/或電子郵件地址，未經授權的追求，公司可以依法採取適當行動，包括呼籲執法部門。
+      pricing_and_registration: 3.定價和註冊
+      p_3: 您可以通過在網站上註冊成為Flutylove的用戶在自願和免費的基礎上。作為用戶，你可以使用的服務和網站的機會的具體範圍。本網站的用戶是按照既定的秩序和誰已經達到18歲的網站上註冊的個人。當在網站上註冊的用戶有義務提供本公司必要和相關的信息以完成用戶頁面，包括對訪問網站的登錄（電子郵件地址或電話號碼）和密碼，以及名稱，該名稱對於每個用戶唯一的。要註冊的窗體可以要求用戶附加信息。用戶負責的有效性，現實性，完整性和遵守俄羅斯聯邦在註冊時提供的信息的法律，並且從第三方索賠的清晰度。當註冊用戶同意本協議，承擔規定的權利和義務，在使用和網站的功能有關。用戶獲得完全訪問使用本網站的功能。本公司承諾的權利和義務給用戶，在這些條例規定，用戶對網站註冊成功後，用戶的個人數據的處理是根據俄羅斯聯邦的法律進行。網站管理流程的用戶的個人數據，以便為用戶提供以網站功能的使用，包括接收個性化（針對性）廣告的接入;驗證，研究以及這些數據的分析，使支持和提高網站的功能和路段，以及開發新的功能和章節。本公司採取一切必要行動，以防止未經授權的訪問，修改，披露或擦除用戶的個人資料。該公司提供了訪問用戶的個人數據僅供本公司的員工，承包商和代理商，誰為了支持本網站功能，並為用戶提供訪問其使用需要這些信息。本網站的本公司有權使用由用戶提供的信息，包括個人資料，以確保符合俄羅斯聯邦現行法律要求的權利（包括非法和/或不合法的預防和/或抑制用戶的操作）。由用戶提供的信息的披露只能按照俄羅斯聯邦現行立法在法庭上，執法部門的要求進行，以及在其他情況下為俄羅斯聯邦的適用法律規定。此外，該公司處理用戶對本條例執行的個人數據的範圍內，憑藉個人數據法的規定不要求用戶同意的個人數據的處理。登錄和由用戶選擇的口令是為用戶訪問該網站必要和充分的信息。用戶必須給他/她的登錄名和密碼給第三方的權利，是其安全性絕對負責，選擇將它們存儲在獨立的基礎上的方式。使用他/她的硬件和軟件，用戶可允許在網站上隨後進行的自動認證登錄名和密碼（通過cookies）的存儲。與使用用戶的用戶名和密碼所採取的任何行動被認為是由用戶提交，除非有相反是由用戶證明。用戶有義務立即通知本公司根據於向用戶名和密碼的用戶名和密碼和/或帳戶頁面，或洩露未經授權的訪問情況的既定程序。註冊後用戶獲得創建，使用，並確定他/她自己的個人網頁上的自利和非商業目的的內容，以及得到其他用戶的個人頁面訪問和發布信息的機會的權利。用戶為張貼的個人頁面上的信息，業主知道，隨著這些條例和俄羅斯聯邦現行立法規定的情況外，本公司不參與開發和利用的內容，不控制訪問用戶的頁面從其他用戶。
+      terms_4: 4.條款。
+      p_4: 本協議，只要您使用本網站充分仍然有效。您可以停止在任何時間刪除您的網頁，以任何理由，通過我們的在線客服聯繫或使用本網站的服務作為網站的用戶。本公司保留其在任何時候刪除您的個人頁面的權利。我們沒有義務刪除頁面之前通知您，如果公司有有理由相信您已違反了協議的條款。我們沒有義務披露刪除帳戶的原因;在某些情況下，這樣的信息的公開內容可能被禁止。您的網頁刪除後，所有的條件，這可能是有效的根據其性質本協議終止後，將在該終止後生效。如果您通過您自己的意願網站刪除您的網頁，我們可能會要求您指定此類刪除的原因。
+      account_security: 5.確保帳戶安全。
+      p_5: 你負責你的用戶名和密碼，這將在註冊時設置的機密性保護。此外，您對您的用戶名和密碼進行的所有操作絕對負責。您同意（一）立即通知我們約在每屆會議結束時任何未經授權使用您的登錄名和密碼，以及任何其他安全漏洞，以及（b）退出您的帳戶。該網站是不負責從這一規定的違規而引起的任何損害或損失。通過公共計算機，以便未經授權的人無法窺視或記錄您的密碼或其他任何個人信息訪問您的賬戶時，應特別小心。您還確認並同意，互聯網是不可能完全的隱私和安全。你明白，你張貼在網站的任何消息或信息可被讀取或由其他用戶使用，即使有一個特殊的警告信息是隱藏的。
+      your_interaction_with_other_users_of_the_website: 6.你和網站的其他用戶的交互。
+      p_6: 一個。您自行負責您與其他用戶互動。你應該明白，本公司並無核實其使用者是否有犯罪記錄。該公司還沒有請求的信息涉及其用戶的過去，不驗證這些信息。公司不保證與用戶行為及其與實際的或將來的用戶的兼容性。
+        AT同時公司有權以驗證用戶提供犯罪記錄或進行其他驗證在任何時候通過提供的公共信息。灣在任何情況下，公司不承擔任何損失無論他們是直接的，間接的，一般還是有特殊性，補充和/或偶發性，獲得了由您或任何其他個人成為網站使用，包括的結果，包括但不限於，人身傷害，應力和/或其他損害，取得您根據通訊或會議與網站或人員其他註冊用戶，即您提供該網站交易的結果。您同意採取一切可能的預防措施在與其他用戶進行交流，特別是在這種情況下，當你決定要迎接他們在現實生活中。你應該知道，什麼公司不給一個聲明的或暗示的保證關於與本網站的用戶的兼容性。你不應該放棄的財務信息的網站（例如關於您的信用卡或塑料卡）中的其他用戶。
+        C。該服務可以轉換您的姓名或城鎮其他語言的名稱; ð。該服務是不負責本文中列出的操作。如果你不同意他們的觀點完全或部分，請立即離開網站;
+      the_information_posted_by_you_on_flutylove: 7.張貼你FLUTYLOVE中的信息
+      p_7: 一個。您必須對您發布或展示的服務（以下簡稱“文章”），或轉移到其他用戶的信息承擔全部責任。您不得張貼在服務或轉讓給其他用戶種族歧視性質的誹謗，不準確，辱罵，淫穢，粗俗和侵略性內容的任何信息，有關性內容的信息，以及威脅或跟踪信息，信息或違法信息，或者侵犯或違反任何他方權利的任何其他信息（包括但不限於知識產權，隱私和公開權）。您不得提供不準確，誤導或虛假信息對本公司或任何其他用戶。如果提供給公司Flutylove的信息或其他用戶隨後變得不準確，虛假誤導，您必須立即通知公司這種變化的Flutylove。您提交並保證在註冊過程中提供的所有信息是準確和真實的，你馬上更改隨後變得不準確，誤導或虛假的任何信息。灣您理解並同意，我們保留的權利，但沒有義務監視被轉移到服務或張貼在服務公眾獲取的信息或內容。我們必須刪除任何此類信息或內容，不給予任何理由和通知的權利。
+        C。網站上顯示的所有對象，包括設計元素，文本，圖形，圖表，視頻，腳本，程序，音樂，聲音和其他對象及其庫（以下簡稱 - 信息），是本公司的獨家代理權財產的用戶本網站和其他權利人，對這些對象的所有權利受到保護。
+        ð。除建立了符合本協議，以及俄羅斯聯邦現行法律，沒有信息可以被複製（複製），處理，分發，在一幀展示，出版，下載，傳輸，以出售或者使用其他方式全部或部分未經持有人事先許可，除非權利人明確表示同意接受任何個人免費使用的信息。即通過張貼在依法屬於用戶的網站上的信息，用戶提供其他用戶通過查看，播放（包括複製），使用它的非獨家權利，並只用於個人非商業用途的目的，其他權利的機會，除非情況下，當使用等造成或可能造成損害受法律保護權利人的利益。
+        F。利用用戶的信息，從而獲得了獲得了只用於個人非商業使用的，在條件允許的作者的跡象（版權）或作者的其他通知將被保留，作者和其產品的名稱會留下沒有變化。
+        G。用戶也為該公司帶來了使用在本網站公佈，並屬於他的信息的非獨家權利/她的合法不考慮，以確保結構和功能的性能範圍內本公司網站的運作網站。上面提到的非獨家權利被授予在網站上的內容佈局和覆蓋國家的領土遍布世界各地。本公司有權轉讓提到這一段給第三方的權利的權利。用戶同意本公司有權使用本網站的功能和技術選擇，提供的內容共享以及用戶的顯示，包括廣告信息顯示的目的的權利。喜。萬一用戶刪除網站內的信息，非獨家權利將被自動撤銷，但由於網站的技術規範本公司有權要求保存所需要的時間和地點內的信息的備份副本的權利。一世。除了私人信息，用戶無權上傳，或以不同的方式披露（通過公佈在網站上）等網站，數據庫和其他知識產權的信息在沒有明確表示同意著作權等行為所有者。學家除非另有在這些條例指出，本條例東西不能被看作是獨家代理權轉移到的信息。
+        ķ。所有您在您的用戶配置文件發布的信息，一定要準確，最新，完整。用戶是用於上傳或以不同的方式披露的信息絕對全權負責（轉貼）在網站上或者與用戶的幫助。該用戶沒有上傳，轉讓或張貼在網站上的內容，如果他/她沒有適當的權限採取這樣的行動，收購或委託給他/她根據俄羅斯聯邦法律的權利。本公司可以，但沒有義務，瀏覽網站的任何非法內容，並允許刪除或移動（恕不另行通知）任何內容或用戶自行決定，以任何理由或無原因，​​包括但不限於移動，或刪除，根據公司的個人意見違反本協議的信息，俄羅斯聯邦的立法和/或可能侵犯權利，傷害或危及其他用戶或第三方的安全。該網站包含（或可能包含）其他網站的鏈接在互聯網上（第三方網站），以及文章，照片，插圖，圖形，音樂，聲音，視頻，信息，應用，軟件和其他信息屬於或來來自第三方（第三方內容），這是智力活動的結果，並根據俄羅斯聯邦的立法保護。這些第三方及其信息不屬於本公司與本或其他要求（準確性，完整性，誠實等）符合性驗證。本公司不負責發布在第三方網站的任何內容給該用戶獲得訪問通過網站或通過第三方信息，包括但不限於對第三方網站或表示任何意見或聲明在他們的信息。到任何網站，產品和服務的鏈接，本網站上的商業和非商業性質的任何信息不為這些產品（服務）本公司批准或建議。如果用戶決定離開網站，並轉到第三方網站或使用或安裝第三方軟件，他/她在自己的風險，並從那個時候起，這些規定將不再適用於用戶這樣做。進一步的用戶操作由適用的規則和政策，包括那些個人信息的他/她將要使用的業務實踐指導。
+      forbidden_actions: 8. FORBIDDEN行動。
+      p_8: 一個。禁止將“保持密切關注”或擾亂任何人在其他方式。灣禁止使用機器人，病毒，應用軟件，搜索/提取物網站，或其他手動或自動設備或過程來提取，索引，“間諜”或以其他方式複製或規避導航結構和服務或其內容的顯示。
+        C。嚴禁張貼，散發，或複製任何everyway版權信息，商標或其他信息，未經著作權人事先同意受版權保護。 ð。禁止以除去包含在服務上的任何著作權，商標權或其他版權聲明。即嚴禁干擾或中斷服務和網站，或服務和網絡連接服務或網站的運行。
+        F。禁止發布，電子郵件或轉讓不同的方式包含病毒或其他計算機代碼，旨在干擾，破壞或限制任何計算機軟件，硬件或通訊設備功能的文件或程序的任何信息。 G。禁止偽造標題或操縱標識為掩飾，通過服務共享的任何信息的真正含義的目的。
+        H。禁止以“開拓”或“複製”服務或未經Flutylove事先書面許可，本網站的任何部分。此外，您不得使用任何meta標籤或代碼，或含有以Flutylove，服務或本網站鏈接的任何其他設備，以任何人重定向到另一個網站為任何目的。一世。禁止修改，改編，再許可，翻譯，出售，重組，譯碼，編譯或反彙編服務或網站，或者在網站上或所使用的所有軟件的任何部分，以及鼓勵其他國家採取類似行動。學家嚴禁發布色情和/或色情內容的任何信息。
+      the_changes_in_the_service: 9.在服務的變化。
+      p_9: Flutylove保留隨時有權改變或禁用暫時或永久的服務（或其任何它的一部分），恕不另行通知。您同意Flutylove不負責對您或任何第三方進行任何修改，臨時可用性或服務的完全禁止。
+      ip_address_blocking: 10，IP封鎖。
+      p_10: 為了保護網站的完整性，Flutylove保留在任何時間在其自己的便利有權阻止某些用戶的IP地址。
+      relations_between_users_online: 11 USERS關係之間的網上
+      p_11: 您對與Flutylove的其他用戶的互動承擔全部責任。 Flutylove保留權利，但沒有義務，監控您與其他用戶之間的糾紛。
+      security_and_communication: 12.安全和溝通。
+      p_12: 使用本網站和/或服務也是由我們的隱私政策的約束。當你成為一個用戶，您同意並同意接收我們的電子郵件。這些郵件可能代表有關操作或與業務相關的其他通知，如約的其他用戶關於行動的行政通知和關於修改正式公告，或含有商業計劃書，宣傳材料，特別優惠，從我們的電子郵件或信息通知你用戶帳號。請閱讀我們的隱私政策，以了解更多關於此類通知。
+      denial_of_responsibility: 13 DENIAL責任感。
+      p_13: 一個。 Flutylove不負責在本網站公佈任何不正確或不準確的信息或相關的服務，網站或任何硬件或軟件與我們的業務相關或使用那裡的用戶。 Flutylove是不負責的行為，包括在線和離線，本網站的任何用戶。
+        Flutylove不承擔責任的任何錯誤，遺漏，中斷，刪除，操作或操作，通信線路故障，盜竊或破壞，未經授權的訪問或用戶的通信線路改變損壞或延誤。 Flutylove不承擔任何電話網絡或線路，計算機在線系統，服務器或提供商，計算機設備，軟件，用戶帳戶的郵件或播放器故障，技術問題或擁堵的互聯網或任何網站的任何問題或技術故障或其組合，包括事故或傷害使用者或相關的計算機的任何第三方，或者如在參與或與網絡和/或服務下載信息的結果。在任何情況下的Flutylove公司或其任何附屬機構，因為使用本網站或本服務，廣告代理，創始人或分銷合作夥伴將不承擔任何損失或損害，包括人身傷害或死亡，任何內容在本網站公佈或本網站的用戶，在線和離線之間的任何互動。提供上作為服務的網站和IS的基礎上，並Flutylove明確否認對特定用途的，或不侵犯任何人的權利的任何保證或健身。
+        Flutylove不能保證，並沒有從使用本網站和/或服務承諾的任何具體結果。
+      links: 14.鏈接。
+      p_14: 一個。 Flutylove不負責在本網站公佈任何不正確或不準確的信息或相關的服務，網站或任何硬件或軟件與我們的業務相關或使用那裡的用戶。 Flutylove是不負責的行為，包括在線和離線，本網站的任何用戶。
+        Flutylove不承擔責任的任何錯誤，遺漏，中斷，刪除，操作或操作，通信線路故障，盜竊或破壞，未經授權的訪問或用戶的通信線路改變損壞或延誤。 Flutylove不承擔任何電話網絡或線路，計算機在線系統，服務器或提供商，計算機設備，軟件，用戶帳戶的郵件或播放器故障，技術問題或擁堵的互聯網或任何網站的任何問題或技術故障或其組合，包括事故或傷害使用者或相關的計算機的任何第三方，或者如在參與或與網絡和/或服務下載信息的結果。在任何情況下的Flutylove公司或其任何附屬機構，因為使用本網站或本服務，廣告代理，創始人或分銷合作夥伴將不承擔任何損失或損害，包括人身傷害或死亡，任何內容在本網站公佈或本網站的用戶，在線和離線之間的任何互動。提供上作為服務的網站和IS的基礎上，並Flutylove明確否認對特定用途的，或不侵犯任何人的權利的任何保證或健身。
+        Flutylove不能保證，並沒有從使用本網站和/或服務承諾的任何具體結果。
+      limitation_of_responsibility: 15.限制責任感。
+      p_15: 本網站及其功能，包括所有的腳本，應用程序，內容和設計本網站是在AS提供了基礎。該公司不承擔該網站或它的功能可能是使用特定用途的適合或不提供任何擔保。本公司不能保證，不會達成任何具體結果從網站和/或它的功能的使用;為了避免混淆，用戶應當遵守安全注意事項當下載從網站或THROUGH張貼的鏈接和所有文件的使用，以及軟件。本公司強烈推薦，以及僅使用授權軟件的殺毒軟件;使用本網站，用戶同意，從中下載網站或它的幫助任何內容他/她自己的風險全權負責將這些信息使用，包括它可能會導致用戶的計算機或第三他人損害的，可能的結果締約方，數據丟失，或任何其他損害;在任何情況下本公司或其代理人不承擔任何責任到用戶或任何第三方的任何間接的，偶然的，UNWILFUL損害，包括遺失效益，或者數據丟失，損壞的榮譽，尊嚴和商業信譽，產生於本網站，其內容或任何其他資料上使用，而您或任何其他人那裡收到ACCESS通過網站，即使該公司警告或註明此類損害的可能性。
+      responsibilities_of_the_parties: 16.締約方的責任。
+      p_16: 本協議管轄，並根據俄羅斯聯邦的立法解釋。那些沒有在協議解決的問題應根據俄羅斯聯邦的立法來解決。在有關本條例的實施有關的任何糾紛或爭議的情況下，用戶和本公司將盡一切努力通過談判來解決這些問題。萬一糾紛不會因談判解決，爭議應根據俄羅斯聯邦的適用法律來解決。本協議在俄語執行，可以用另一種語言提​​供給用戶進行審核。在條例俄羅斯語言和另一種語言版本的版本差異的情況下，在這個條例的規定俄語語言的版本也應適用。如果由於某種原因，這些條例的一個或多個條款將被宣布無效或作廢，這並不影響其他條款的有效性和可執行性。
+      other_provisions_and_changes: 17.其他條款和變化。
+      p_17: 本協議的網站和/或服務的使用關於您和Flutylove之間的真正的協議。如果本協議的空隙中的任何條款，本協議的其餘部分保持其充分發揮作用的有效性。本協議可由Flutylove隨時修正。請不要猶豫，有關本協議的任何問題，請聯繫我們。
+      read_this: 我已閱讀本協議並同意其所有條款。
+    about:
+      about_flutylove: 關於Flutylove
+      about_flutylove_text: Flutylove是國際社交娛樂網絡測年。在這裡你可以找到朋友，一個知己，合作夥伴或只花你的時間享受玩遊戲或觀看視頻/照片。
+      flutylove_features: 當你將簽署在我們網站上，你可以找到許多功能，如：
+      video_call_feature: 您可以用攝像頭聊天的合作夥伴
+      extended_search: 您可以免費使用擴展搜索
+      multilanguages: 您可以搜索來自其他國家的合作夥伴，因為我們的服務預計將在廣泛的來自其他國家的人使用，因為它被翻譯超過70種語言
+      play_games_chatting_etc: 您可以與其他人聊天，玩遊戲，做一套社會的東西
+      we_are_in_social_networks: 我們在社交網絡：
+      twitter: 微博
+      google_plus: 谷歌加
+      we_use_open_source_and_high_technology: 我們用高新技術和開源庫。我們總是試圖變得更好，改善我們的服務。
+      partners_and_investors: 我們打開了合作夥伴關係，我們希望找到投資者。如果您想與我們合作，請partnership@flutylove.com與我們聯繫
+    faq:
+      faq: 常見問題解答
+      what_is_flutylove: 什麼是Flutylove？
+      about_flutylove: Flutylove是國際社交娛樂網絡測年。在這裡你可以找到朋友，一個知己，合作夥伴或只花你的時間享受玩遊戲或觀看視頻/照片。
+      what_features_has_flutylove: 哪些功能具有Flutylove？
+      flutylove_features: 在這裡，您可以與videocams聊天，使用擴展搜索，搜索合作夥伴來自其他國家，玩遊戲，做其他社會的東西。
+      i_have_some_requests: 我有一些要求
+      you_can_write_request: 你可以註冊並寫
+      i_have_seen_some_typo_or_wrong_translation: 我看到了一些錯字或錯譯
+      you_can_send_pull_request_to_our: 您可以拉入請求發送給我們
+      github_repository: GitHub的庫
+      i_have_seen_some_error: 我已經看到了一些錯誤
+      you_can_send: 您可以向我們發送反饋
+      feedback: 這種形式
+      to_us_or_write_to_our_info_mail: 或寫電子郵件給support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: 歡迎Flutylove
+      you_have_successfully_signed_up_to_flutylove: 您已成功簽署了Flutylove
+      you_can_sign_in_with_your_social_networks: 如果您想再次登錄，您可以與您的社交網絡帳戶登錄
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: 如果您想請用電子郵件和密碼，您可以通過登出更改密碼，然後點擊下面鏈接
+      change_password: 更改密碼
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: 不正確
+            search_for:
+              search_for_error: 不正確
+            birth_date:
+              birth_date_error: 需要大於18和小於115
+            interests:
+              interests_error: 需要少於2000個字符
+            jobs:
+              jobs_error: 需要少於2000個字符
+            languages:
+              languages_error: 需要少於2000個字符
+            sex_keywords:
+              sex_keywords_error: 需要少於2000個字符
+            my_turn_ons:
+              my_turn_ons_error_error: 不正確
+            contacts:
+              contacts_length_error: 需要少於2000個字符
+              contacts_size_error: 需要為小於21的接觸
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: 有無效值
+  devise:
+    confirmations:
+      confirmed: 您的帳戶已成功確認。
+      send_instructions: 您將收到一封電子郵件，了解如何確認您的帳戶在幾分鐘內說明。
+      send_paranoid_instructions: 如果您的電子郵件地址，在我們的數據庫中存在，您將收到一封電子郵件，了解如何確認您的帳戶在幾分鐘內說明。
+      new:
+        send_mail_for_confirm_your_email: 發送郵件確認您的電子郵件
+    failure:
+      already_authenticated: 您在已簽署的。
+      inactive: 您的帳戶尚未激活。
+      invalid: 無效的電子郵件或密碼。
+      locked: 您的帳戶被鎖定。
+      last_attempt: 你多了一個嘗試之前，你的帳戶將被鎖定。
+      not_found_in_database: 無效的電子郵件或密碼。
+      timeout: 您的會話過期。請重新登錄才能繼續。
+      unauthenticated: 您需要登錄或繼續之前註冊。
+      unconfirmed: 你必須繼續前確認您的帳戶。
+    mailer:
+      confirmation_instructions:
+        subject: 確認指令
+        welcome_to_flutylove: 歡迎Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: 您可以通過下面的鏈接確認您的電子郵件
+        confirm_my_account: 確認我的電子郵件
+      reset_password_instructions:
+        hello: 你好
+        subject: 重置密碼的說明
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: 有人做過請求鏈接更改密碼。您可以通過下面的鏈接做到這一點。
+        change_my_password: 更改我的密碼
+        if_you_didnt_request_this_please_ignore_this_email: 如果您沒有請求此請忽略此電子郵件。
+      unlock_instructions:
+        subject: 解鎖指令
+    omniauth_callbacks:
+      failure: 無法從％{}樣，因為“％{}原因”驗證您的身份。
+      success: 成功地從％{}實物驗證帳戶。
+    passwords:
+      no_token: 你不能沒有從密碼重置電子郵件來訪問此頁面。如果你來自一個密碼重置郵件，請確保您使用所提供的完整的URL。
+      send_instructions: 您將收到一封電子郵件，如何在幾分鐘內重置密碼。
+      send_paranoid_instructions: 如果您的電子郵件地址，在我們的數據庫中，您將收到在幾分鐘內您的電子郵件地址的密碼恢復鏈接。
+      updated: 您的密碼更改成功。您現在登錄。
+      updated_not_active: 您的密碼更改成功。
+      new:
+        forgot_your_password: 找回密碼
+        reset_password: 發送URL恢復
+      edit:
+        change_your_password: 更改密碼
+        new_password: 新密碼
+        confirm_password: 確認密碼
+        change_password: 變化
+    registrations:
+      destroyed: 再見！您的帳戶已成功取消。我們希望很快再見到你。
+      signed_up: 歡迎您！您已成功簽約。
+      signed_up_but_inactive: 您已成功簽約。但是，由於您的帳戶尚未激活，我們不能簽你進去。
+      signed_up_but_locked: 您已成功簽約。但是，由於您的帳戶被鎖定，我們不能簽你進去。
+      signed_up_but_unconfirmed: 帶確認鏈接的郵件已發送到您的電子郵件地址。請打開激活帳戶的鏈接。
+      update_needs_confirmation: 您已成功更新您的帳戶，但我們需要驗證您的新電子郵件地址。請檢查您的電子郵件，並點擊確認鏈接來完成確認新的電子郵件地址。
+      updated: 您已成功更新您的帳戶。
+      new:
+        sign_up: 註冊
+        password: 密碼
+        password_confirmation: 密碼確認
+        register: 註冊
+    shared:
+      links:
+        sign_in: 登陸
+        sign_up: 註冊
+        didnt_receive_confirmation_instructions: 沒有收到確認指令？
+        sign_in_with: 登陸與
+        fast_login_almost_one_click: 快速登錄（幾乎點擊）
+    sessions:
+      signed_in: 簽名成功。
+      signed_out: 簽署了成功。
+      new:
+        sign_in: 登陸
+        password: 密碼
+        remember_me: 記住我
+        forgot_your_password: 忘記密碼？
+    unlocks:
+      send_instructions: 您將收到一封電子郵件，了解如何解除您的帳戶在幾分鐘內說明。
+      send_paranoid_instructions: 如果您的帳戶存在，您會收到一封電子郵件，了解如何解鎖幾分鐘的說明。
+      unlocked: 您的帳戶已經成功解鎖。請登入繼續。
+  timezones:
+    American Samoa: 美屬薩摩亞
+    International Date Line West: 國際日期變更線西
+    Midway Island: 中途島
+    Pacific Time (US & Canada): 太平洋時間（美國和加拿大）
+    Tijuana: 蒂華納
+    Chihuahua: 奇瓦瓦
+    Mountain Time (US & Canada): 山地時間（美國和加拿大）
+    Central America: 中美洲
+    Central Time (US & Canada): 中部時間（美國和加拿大）
+    Mexico City: 墨西哥城
+    Eastern Time (US & Canada): 東部時間（美國和加拿大）
+    Indiana (East): 印第安納（東）
+    Atlantic Time (Canada): 大西洋時間（加拿大）
+    Georgetown: 喬治敦
+    La Paz: 拉巴斯
+    Newfoundland: 紐芬蘭
+    Buenos Aires: 布宜諾斯艾利斯
+    Greenland: 格陵蘭
+    Montevideo: 蒙得維的亞
+    Mid-Atlantic: 中大西洋
+    Azores: 亞速爾群島
+    Cape Verde Is: 佛得角群島。
+    London: 倫敦
+    Monrovia: 蒙羅維亞
+    Berlin: 柏林
+    Bratislava: 布拉迪斯拉發
+    Ljubljana: 盧布爾雅那
+    Madrid: 馬德里
+    Rome: 羅馬
+    Sarajevo: 薩拉熱窩
+    Skopje: 斯科普里
+    West Central Africa: 西中非
+    Athens: 雅典
+    Harare: 哈拉雷
+    Vilnius: 維爾紐斯
+    Baghdad: 巴格達
+    Kuwait: 科威特
+    Nairobi: 內羅畢
+    St Petersburg: 聖彼得堡
+    Volgograd: 伏爾加格勒
+    Abu Dhabi: 阿布扎比
+    Baku: 巴庫
+    Muscat: 馬斯喀特
+    Samara: 薩馬拉
+    Yerevan: 埃里溫
+    Islamabad: 伊斯蘭堡
+    Tashkent: 塔什幹
+    Chennai: 奈
+    Kolkata: 加爾各答
+    New Delhi: 新德里
+    Sri Jayawardenepura: 斯里蘭卡Jayawardenepura
+    Astana: 阿斯塔納
+    Dhaka: 達卡
+    Novosibirsk: 新西伯利亞
+    Rangoon: 仰光
+    Hanoi: 河內
+    Jakarta: 雅加達
+    Krasnoyarsk: 克拉斯諾亞爾斯克
+    Hong Kong: 香港
+    Irkutsk: 伊爾庫茨克
+    Kuala Lumpur: 吉隆坡
+    Ulaanbaatar: 烏蘭巴托
+    Yakutsk: 雅庫茨克
+    Adelaide: 阿德萊德
+    Canberra: 堪培拉
+    Guam: 關島
+    Hobart: 霍巴特
+    Port Moresby: 莫爾茲比港
+    Vladivostok: 符拉迪沃斯托克
+    Magadan: 馬加丹
+    New Caledonia: 新喀裡多尼亞
+    Solomon Is: 所羅門群島。
+    Srednekolymsk: 中科雷姆斯克
+    Auckland: 奧克蘭
+    Marshall Is: 馬紹爾群島。
+    Chatham Is: Chatham酒店。
+    Nuku'alofa: 努庫阿洛法
+    Samoa: 薩摩亞
+    Tokelau Is: 托克勞是。
+  zh-TW: zh-TW
+  zh-TW_iso: zh-TW

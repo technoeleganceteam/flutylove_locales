@@ -1,0 +1,1753 @@
+---
+hu:
+  1_we_have_just_launched_our_service_title: Épp most indult a szolgáltatás!
+  common_keywords: datings online datings, szerelem datings, webkamera társkereső,
+    sebesség társkereső, webcam chat társkereső, Ruby on Rails társkereső, többnyelvű
+    társkereső
+  common_description: A legfejlettebb nemzetközi szociális szórakoztató hálózat datings
+    "Flutylove"
+  default_album: alapértelmezett album
+  user: felhasználó
+  user_to_search_connection: Keresés
+  video: Videó
+  note: megjegyzés
+  photo_album: Képgaléria
+  from: tól
+  to: A
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Férfi
+  - female:
+      name: Nő
+  - transgender:
+      name: transznemű
+  - male-female:
+      name: dugasz-aljzat
+  - double-female:
+      name: Double női
+  - double-male:
+      name: Double férfi
+  orientation:
+  - heterosexual: heteroszexuális
+  - homosexual: homoszexuális
+  - bisexual: Biszexuális
+  search_for:
+  - chatting: Csevegés
+  - get_friends: Get barátai
+  - flirtation: Flirtation
+  - marriage: Házasság
+  - other: Egyéb
+  body_type:
+    slim: Slim
+    normal: Normál
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Single
+    in_a_relationship: Egy kapcsolat
+    married: Házas
+    nothing_serious: Semmi komoly
+  children:
+    dont_have: Nem rendelkezik
+    dont_have_and_dont_want_to: Ne van, és nem akarja, hogy
+    don_t_have_but_planning: Nem kell, de a tervezés
+    have_enough: Have
+    have_and_planning_more: van, és a tervezés több
+    unable_to_have_children: Nem lehet, hogy a gyerekek
+  living:
+    with_parents: Szülőkkel
+    with_marriage_partner: A házasuló
+    alone: Alone
+    with_friends: Az ismerős (ök)
+  education:
+    nothing: Semmi
+    secondary_school: Középiskola
+    college_technical_college: Egyetem / Technical College
+    university: Egyetem
+    postgraduate: Posztgraduális
+    phd_md_post_doctorate: PhD / MD / post doktori
+  hair_color:
+    blonde: Szőke
+    dark_blond: Sötét szőke
+    brown: Brown
+    black: Fekete
+    red: Red
+    gray: Gray
+    other: Egyéb
+  income:
+    unemployed: Munkanélküli
+    unstable_earnings: Instabil jövedelem
+    small_stable_earnings: Kis stabil jövedelem
+    medium_stable_earnings: Közepes stabil jövedelem
+    higher_than_average_income: Az átlagosnál magasabb jövedelemmel
+    high_income: A magas jövedelmű
+  smoking:
+    not_smoke: Nem dohányzó
+    not_smoke_and_detest: Nem dohányzó és gyűlölik a dohányzás
+    smoke_in_a_social_setting: Néha a társadalmi környezetben
+    smoke_only_after_drinking: füst csak ivás után
+    smoke_occasionally: füst alkalmanként
+    smoke_often: füst gyakran
+  alcohol:
+    not_drinking: Nem iszik
+    drink_occalionally: ital alkalmanként
+    drink_in_a_social_setting: Drink a társadalmi környezetben
+    drink_often: Drink gyakran
+  drugs:
+    dont_use: Ne használja
+    contra_drugs: Contra gyógyszerek
+    tried_out_some: kipróbáltak néhány
+    light_drugs_occasionally: könnyű drogok alkalmanként
+    regular: Regular
+  sponsor:
+    i_want_to_find_a_sponsor: szeretnék szponzort találni
+    willing_to_become_a_sponsor: kíván válni szponzor
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Nem keresi a szponzor,
+      és nem hajlandó, hogy eggyé
+  category_name:
+    strategy: stratégia
+    rpg: RPG
+    3d_shooters: 3D lövészek
+    racing: Racing
+    arcade: Arcade
+    economic: Gazdasági
+    simulators: szimulátorok
+    logic: Logic
+    adventure: Adventure
+    board_games: Társasjáték
+    gambling: Szerencsejáték
+    news: News
+    communication: Kommunikáció
+    multimedia: Multimédia
+    drawing: Rajz
+    educational: Oktatási
+    e_commerce: E-Commerce
+    other: Egyéb
+  shared:
+    header:
+      people: Emberek
+      chat: Chat
+      groups: Csoportok
+      forum: Forum
+      requests: kérések
+      about: A projektről
+      help: Súgó
+      user_applications: alkalmazások
+    liked_users:
+      liked: Tetszett
+      all: Minden
+      you_have_not_liked_any_users_yet: Nem tetszett a felhasználók még
+    most_liked_users:
+      most_liked_users: népszerű a felhasználók
+    installed_user_applications:
+      installed_applications: Telepített alkalmazások
+      all: Minden
+      you_have_not_installed_any_apps_yet: Még nem telepített olyan alkalmazásokat,
+        míg
+    user_applications:
+      uploaded_apps: Feltöltött alkalmazások
+      all: Minden
+      you_have_not_uploaded_any_apps_yet: Még nem töltött fel alkalmazásainak
+    right_sidebar:
+      news: News
+      all: Minden
+      read_more: Bővebben
+    footer:
+      footer_text: Nemzetközi szociális szórakoztató hálózat datings "Flutylove"
+      privacy: adatvédelem
+      terms: feltételek
+      feedback: Visszajelzés
+      abuse: visszaélés
+    languages_select_modal:
+      available_languages: álló nyelvek
+    site_map_modal:
+      site_map: Oldaltérkép
+      faq: GYIK
+      about: Körülbelül
+      static_pages: Statikus oldalak
+      common_pages: közös lapok
+      user_pages: Felhasználói oldalak
+      terms: feltételek
+      privacy: adatvédelem
+      people: Emberek
+      user_applications: alkalmazások
+      user_requests: kérések
+      news: News
+      feedback: Visszajelzés
+      abuse: visszaélés
+      chats: Beszélgetések
+      videos: videók
+      photo_albums: Fényképalbum
+      notes: Notes
+    pagination_link:
+      next_page: Következő oldal
+    user_edit_menu:
+      content: tartalom
+      profile: Profile
+      site_settings: Webhelybeállítások
+      privacy: adatvédelem
+      services: Szolgáltatások
+    activities_navigation:
+      all: Minden
+      photos: fotók
+      photo_albums: Fényképalbum
+      notes: Notes
+      videos: videók
+    notifications_navigation:
+      all: Minden
+      likes: Likes
+      friend_requests: Friend kérések
+      profile_views: Profil nézetek
+      photo_album_views: fotók megtekintés
+    user_to_friend_connections_navigation:
+      friends: Barátok
+      friends_online: Barátok Online
+      outcome_requests: Eredmény kérések
+      income_requests: jövedelem kérések
+    user_applications_navigation:
+      all: Minden
+      new: Új
+      popular: Népszerű
+      often_installed: Gyakran telepítve
+      manage: kezelése
+    user_requests_navigation:
+      all: Minden
+      popular: Népszerű
+      my_requests: Saját kérések
+    user_navbar_menu:
+      sign_in: Bejelentkezés
+      sign_up: Regisztráció
+    email_signature:
+      info: Info
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: Nem kiválasztása
+      select_orientation: Select orientáció
+      select_search_for: Select keresése
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Be kell jelentkeznie, mielőtt ezt a műveletet
+      available_sign_in_methods: Te
+    sign_up_methods:
+      usual_register_link: szokásos regisztrációs
+      register_text: Emellett% {usual_registration} akkor regisztráljon legnépszerűbb
+        szolgáltatások és a szociális hálózatok
+    bootstrap_gallery:
+      previous: Előző
+      next: Következő
+    user_notification_title:
+      you_liked: Te tetszett
+      wrote_message_to_you: írta üzenetet neked
+      viewed_your_profile: megtekintett profilodra
+      liked_your_photo: tetszett a fotó
+      liked_your_note: tetszett a megjegyzés
+      liked_your_request: Tetszett a kérés
+      liked_your_video: Tetszett a videó
+      liked_your_application: Tetszett az alkalmazás
+      requested_a_friendship: Kért egy barátság
+  authentications:
+    authentication:
+      turn_on: bekapcsolása
+      turn_off: kikapcsolása
+      turned_on: Bekapcsolva
+      turned_off: kikapcsolva
+    index:
+      enabled_services: Engedélyezett szolgáltatások
+  users:
+    profile:
+      submit: mentése
+      name: neve
+      meet_with: Találkozik
+      gender: nemek
+      type_in_your_location: Írja be a városban
+      about_me: Néhány szó magáról (amellett, hogy az alábbi űrlap)
+      sex_keywords: érdekeltségek szex
+      enter_your_name: Adja meg a nevét
+      more_options: Több
+      orientation: orientációja
+      birth_date: Születési dátum
+      location: Hely
+      search_for: keresése
+      intimacy: Intimitás
+      in_age: Az életkor
+      from: származó
+      to: hogy
+      interests: Érdeklődés
+      height: magasság
+      weight: Tömeg
+      body_type: Váz
+      hair_color: Hajszín
+      relationship: kapcsolat
+      children: Gyermekek
+      living: Living
+      education: Oktatás
+      jobs: Job
+      income: jövedelem
+      languages: nyelvek
+      smoking: dohányzás
+      alcohol: Alkohol
+      drugs: Drugs
+      contacts: Kapcsolatok
+      contact_name: Kapcsolat neve
+      contact_value: Kapcsolat érték
+      save: mentése
+      about_yourself: Magáról
+    settings:
+      submit: mentése
+      locale: Interface language
+      change_password: A jelszó megváltoztatása
+      interface_language: Interface language
+      time_zone: Időzóna
+    dialog_modal:
+      send_message: Üzenet küldése
+    index:
+      users: Felhasználók
+      clear_search: Keresés törlése
+    dashboard:
+      hello: szia
+      here_some_of_your_statistics: Itt néhány statisztikát
+      chats: Beszélgetések
+      messages: üzenetek
+      photos: fotók
+      videos: videók
+      notes: Notes
+      photo_albums: Fényképalbum
+    avatar:
+      photo: Photo
+      uploading_file: Fájl feltöltése
+      handling_file: Kezelés fájl
+      drag_and_drop_your_file: Drag and drop a fájlt
+      here: itt
+      or: vagy
+      upload_file: fájl feltöltése
+      from_other_sites: más oldalakon
+      write_down_link_for_your_image: Írja le a linket a kép
+      url_for_image: URL képi
+      upload: feltöltés
+      from_facebook: tól Facebook
+      turn_on_facebook: Turn on Facebook
+      you_can_upload_your_photos_from_facebook: tölthet fel a képeket a Facebook
+      from_vkontakte: tól Vkontakte
+      you_can_upload_your_photos_from_vkontakte: tölthet fel a képeket a Vkontakte
+      turn_on_vkontakte: bekapcsolása Vkontakte
+      from_instagram: tól Instagram
+      you_can_upload_your_photos_from_instagram: Ön feltöltheti fotók Instagram
+      turn_on_instagram: bekapcsolása Instagram
+      from_dropbox: tól Dropbox
+      you_can_upload_your_photos_from_dropbox: tölthet fel a képeket a Dropbox
+      turn_on_dropbox: bekapcsolása Dropbox
+      edit_photo: Fotó szerkesztése
+      delete_photo: Fotó törlése
+      are_you_sure: Biztos vagy benne?
+    available_photos_modal:
+      available_photos: álló fotók
+    update:
+      your_password_was_successfully_changed: A jelszó sikeresen módosítva
+      your_profile_was_successfully_updated: Ön profilja sikeresen frissítve
+    edit_photo:
+      edit_photo: Fotó szerkesztése
+      crop: Crop
+      close: bezárása
+      save_changes: a Változtatások mentése
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: Rólam
+      orientation: orientációja
+      meet_with: Találkozik
+      desirable_age: kívánatos kor
+      from: származó
+      to: hogy
+      interests: Érdeklődés
+      height: magasság
+      sm: sm
+      body_type: Váz
+      hair_color: Hajszín
+      relationship: kapcsolat
+      children: Gyermekek
+      living: Living
+      education: Oktatás
+      jobs: Jobs
+      income: jövedelem
+      languages: nyelvek
+      smoking: dohányzás
+      alcohol: Alkohol
+      drugs: Drugs
+      contacts: Kapcsolatok
+    user_info:
+      offline: Offline
+      online: Online
+      age: Age
+    loading_modal_images:
+      loading_images: Képek betöltése
+    password_form:
+      new_password: Új jelszó
+      confirm_new_password: Új jelszó megerősítése
+      old_password: Régi jelszó
+      change_password: A jelszó megváltoztatása
+    show:
+      photos: fotók
+      all: Minden
+      videos: videók
+      notes: Notes
+      view: megtekintése
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: Paste kapta kulcs
+      submit: elküldése
+    contents:
+      users_which_i_like: felhasználók ami tetszik
+      all: Minden
+      my_videos_likes: Saját videók tetszik
+      my_photos_likes: Saját fotók tetszik
+      my_notes_likes: Saját jegyzetek tetszik
+      my_user_applications_likes: Saját alkalmazások tetszik
+      my_user_requests_likes: Saját kérések tetszik
+    more_profile_info:
+      photo_albums: Fényképalbum
+      view_all_photo_albums: Az összes fotóalbumok
+      create_more: létrehozása több
+      videos: videók
+      view_all_videos: Minden videó megtekintése
+      notes: Notes
+      view_all_notes: Az összes jegyzetek
+      requirements_lists_to_partner: követelmények felsorolja a partner
+      requirement: követelmény
+      view_all_requirements_lists: Az összes megtekintése követelmények listák
+      profile_verification: Profiligazoló
+      your_profile_is_successfully_verified: A profil sikeres ellenőrzése
+      create: létrehozása
+      you_have_not_any_requirements_lists_yet: Nem olyan követelményeket sorol még
+      you_have_not_any_notes_yet: Van nem olyan jegyzetek még
+      you_have_not_any_photo_albums_yet: Nem minden fotó albumot sem
+      you_have_not_any_videos_yet: Nem még egyetlen videót
+      your_profile_is_not_verified_yet: A profil ellenőrzése még nem
+      verify_through_twitter: Ellenőrizze a Twitter
+      verify_through_facebook: Ellenőrizze a Facebook
+      verify_through_mail_ru: ellenőrzése révén Mail.ru
+    privacy:
+      privacy: adatvédelem
+  searches:
+    form:
+      location: Hely
+      from: származó
+      to: hogy
+      age: Age
+      gender: nemek
+    form_content:
+      city: Város
+      gender: nemek
+      age_from: Életkoruk
+      to: hogy
+      online: Online
+      verified: Ellenőrzött
+      has_avatar: Van logója
+      region: Region
+      more: Több
+      country: Ország
+      about_me: Rólam
+      interests: Érdeklődés
+      languages: nyelvek
+      names: nevek
+      height: magasság
+      from: származó
+      weight: Tömeg
+      body_type: Váz
+      relationship: kapcsolat
+      hair_color: Hajszín
+      education: Oktatás
+      orientation: orientációja
+      search_for: keresése
+      children: Gyermekek
+      living: Living
+      smoking: dohányzás
+      alcohol: Alkohol
+      drugs: Drugs
+      income: jövedelem
+    show:
+      users: Felhasználók
+      clear_search: Keresés törlése
+  welcome:
+    index:
+      people: Emberek
+      requests: kérések
+      user_applications: alkalmazások
+      about: Körülbelül
+      features: funkciók
+      registration: Regisztráció
+      sign_in: Bejelentkezés
+      welcome_main_title: Üdvözöljük Flutylove!
+      welcome_main_text: Ez az a hely, ahol megtalálható a tökéletes szerelem
+      find_more: További
+      about_title: Flutylove a nemzetközi szociális szórakoztató hálózat datings
+      about_text: Sok olyan funkciók, amelyek segítségével a szórakoztatóipar datings!
+      find_more_features: További jellemzők
+      at_our_service: jellemzői a szolgáltatás
+      many_languages: Sok nyelv
+      text_about_many_languages: Szolgáltatásunk lefordítva több mint 70 nyelven
+      check_it_out: Check it out
+      videochats: Videochats
+      text_about_videochats: Beszélgethet a partnere videocams
+      try_it_now: Próbálja ki most
+      search: Keresés
+      text_about_search: Kereshet több paraméter és ez ingyenes!
+      watch_this: megnézése
+      more_features: További funkciók
+      text_about_more_features: Megnézheti videók, játszani, és nem sok más dolog!
+      register_and_learn_more: Regisztráció és további információ
+      install_our_apps: Telepítse az alkalmazásokat a népszerű platformon
+      register_header: Regisztráció
+  feedbacks:
+    new:
+      feedback_title: Visszajelzés
+    form:
+      feedback_name: Az Ön neve
+      feedback_email: Az e-mail
+      feedback_content: Feedback tartalom
+      close: bezárása
+      send: küldése
+      feedback_recaptcha: Recaptcha
+      cancel: Mégsem
+    success:
+      success_feedback: Köszönöm! Mi már megkaptuk a visszajelzést.
+      close: bezárása
+      cancel: Mégsem
+      more: küldése több
+  abuses:
+    new:
+      abuse_title: visszaélés
+    form:
+      abuse_name: Az Ön neve
+      abuse_email: Az e-mail
+      abuse_content: visszaélés tartalom
+      abuse_title: visszaélés
+      close: bezárása
+      send: küldése
+      abuse_recaptcha: Recaptcha
+      abuse_link: link
+      cancel: Mégsem
+    success:
+      success_abuse: Köszönöm! Mi már megkaptuk a visszaélés.
+      close: bezárása
+      cancel: Mégsem
+      more: küldése több
+  layouts:
+    welcome:
+      welcome_title: Üdvözöljük Flutylove! A legfejlettebb társkereső oldalon.
+  recaptcha:
+    errors:
+      verification_failed: sikerült recaptcha
+      recaptcha_unreachable: Recaptcha elérhetetlen
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Épp most indult a szolgáltatás!
+      we_have_just_launched_our_service_text: Ma indítani a szolgáltatást, így mindenki
+      sign_up: regisztráljon
+      and_use_it: és használja.
+      wishes_and_requests: Ha bármilyen kívánsága, illetve, akkor iratkozzon fel és
+        írta
+      here: itt
+      with_love: Szeretettel,
+      flutylove_team: Flutylove csapat
+    index:
+      all_news: Minden hír
+      read_more: Bővebben
+  chats:
+    panel_head:
+      online: Online
+      offline: Offline
+    pagination_link:
+      next_page: Következő oldal
+    form:
+      message_text: közlés
+    form_additions:
+      submit: elküldése
+      videochat: Videochat
+    show:
+      messages: üzenetek
+    index:
+      messages: üzenetek
+    videochat_request_link:
+      connect_to_videochat: Csatlakozás videochat
+    modal_form:
+      send_message: Üzenet küldése
+      recipient: címzett
+      message: Message
+      close: bezárása
+      submit: elküldése
+    waiting_video_answer_button:
+      waiting_for_response: Várakozás a válaszra ...
+    chat_created:
+      send_message: Üzenet küldése
+      message_was_sent: Üzenet elküldve
+      close: bezárása
+  messages:
+    pagination_link:
+      next_page: Következő oldal
+    form:
+      message_text: közlés
+  notifications:
+    user_to_friend_connection:
+      action: Action
+    notification:
+      offline: Offline
+      online: Online
+    like:
+      action: Action
+    photo_album_view:
+      action: Action
+    user_view:
+      action: Action
+  user_applications:
+    user_application:
+      who_uploaded: Feltöltötte
+      all_uploaded_applications_by: Minden feltöltött alkalmazások
+    form:
+      name: neve
+      user_application_name: Alkalmazás neve
+      description: Leírás
+      description_text: leírás szövege
+      iframe_url: Iframe url
+      icon_for_application: Alkalmazás ikonra
+      upload_icon: Letöltés ikon
+      public: Public?
+      category_name: Kategória
+      create: létrehozása
+      edit: szerkesztése
+    show:
+      application: Application
+      return_to_uploaded_applications: A feltöltött alkalmazás
+      edit_application: szerkesztése alkalmazás
+      return_to_all_applications: Vissza az összes alkalmazás
+    manage:
+      installed_applications: Telepített alkalmazások
+      uploaded_applications: Feltöltött alkalmazások
+      all: Minden
+    index:
+      applications_uploaded_by: alkalmazások által feltöltött
+      return_to_all_applications: Vissza az összes alkalmazás
+      create_new: Új
+      return_to_manage_applications: Vissza az alkalmazások kezelésére
+    installed:
+      installed_applications: Telepített alkalmazások
+      return_to_all_applications: Vissza az összes alkalmazás
+      return_to_manage_applications: Vissza az alkalmazások kezelésére
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Mielőtt nézet az alkalmazás
+        be kell jelentkeznie az első
+    need_to_install:
+      need_to_install_first: kell telepíteni az alkalmazást,
+      install_application: Alkalmazás telepítése
+  likes:
+    index:
+      liked_items: Nekem tetsző elemek
+      return_to_my_content: visszatérni a tartalmat
+  videos:
+    index:
+      videos: videók
+      return_to_edit_profile: A szerkesztő profilja
+      create_new: Új
+      return_to_profile: Vissza a profilhoz
+    video:
+      edit: szerkesztése
+      are_you_sure: Biztos vagy benne?
+      delete: törlése
+    modal_form:
+      create_new_video: Új videó
+      close: bezárása
+      create: létrehozása
+    form_content:
+      name: neve
+      video_name: videó neve
+      source: URL a kódot
+      video_url_or_embed_code: Videó URL-t a videó kódot
+    show:
+      video: Videó
+      return_to_all_videos: Vissza az összes videót
+      edit_video: Videó szerkesztése
+    edit:
+      edit_video: Videó szerkesztése
+      return_to_view_video: Vissza nézet videó
+      view_video: Videó megtekintése
+    form:
+      edit: szerkesztése
+  photo_albums:
+    index:
+      photo_albums: Fényképalbum
+      return_to_editing_profile: A szerkesztő profilja
+      create_new: Új
+      return_to_profile: Vissza a profilhoz
+    photo_album:
+      edit: szerkesztése
+      create: létrehozása
+      are_you_sure: Biztos vagy benne?
+      delete: törlése
+    edit:
+      edit_photo_album: szerkesztése fotóalbum
+      return_to_photo_albums: A fotóalbumok
+      view_photo_album: megtekintése fotóalbum
+    form_content:
+      name: neve
+      photo_album_name: Képgaléria neve
+    form:
+      edit: szerkesztése
+      create: létrehozása
+    photo_album_uploader:
+      drag_and_drop_your_file: Drag and drop a fájlt
+      here: itt
+      or: vagy
+      upload_file: fájl feltöltése
+      from_other_sites: más oldalakon
+      write_down_link_for_your_image: Írja le a linket a kép
+      url_for_image: URL képi
+      upload: feltöltés
+      from_facebook: tól Facebook
+      turn_on_facebook: Turn on Facebook
+      you_can_upload_your_photos_from_facebook: tölthet fel a képeket a Facebook
+      from_vkontakte: tól Vkontakte
+      you_can_upload_your_photos_from_vkontakte: tölthet fel a képeket a Vkontakte
+      turn_on_vkontakte: bekapcsolása Vkontakte
+      from_instagram: tól Instagram
+      you_can_upload_your_photos_from_instagram: Ön feltöltheti fotók Instagram
+      turn_on_instagram: bekapcsolása Instagram
+      from_dropbox: tól Dropbox
+      you_can_upload_your_photos_from_dropbox: tölthet fel a képeket a Dropbox
+      turn_on_dropbox: bekapcsolása Dropbox
+    show:
+      photo_album: Képgaléria
+      return_to_photo_albums: A fotóalbumok
+      edit_photo_album: szerkesztése fotóalbum
+    modal_form:
+      create_new_photo_album: Új fotóalbum
+      close: bezárása
+      create: létrehozása
+  user_requests:
+    form:
+      content: tartalom
+      edit: szerkesztése
+      create: létrehozása
+  notes:
+    index:
+      notes: Notes
+      return_to_edit_profile: A szerkesztő profilja
+      create_new: Új
+      return_to_profile: Vissza a profilhoz
+    note:
+      edit: szerkesztése
+      are_you_sure: Biztos vagy benne?
+      delete: törlése
+    show:
+      note: megjegyzés
+      return_to_notes: Vissza jegyzetek
+      edit_note: Megjegyzés szerkesztése
+    form_content:
+      content: tartalom
+      note_content: Megjegyzés tartalom
+      edit: szerkesztése
+      create: létrehozása
+    edit:
+      edit_note: Megjegyzés szerkesztése
+      return_to_notes: Vissza jegyzetek
+      view_note: Jegyzet megtekintése
+  user_to_search_connections:
+    index:
+      requirements_lists: követelmények listák
+      return_to_editing_profile: A szerkesztő profilja
+      create_new: Új
+    user_to_search_connection:
+      edit: szerkesztése
+      are_you_sure: Biztos vagy benne?
+      delete: törlése
+    edit:
+      edit_requirements_list: szerkesztése követelmények listák
+      return_to_requirements_lists: A követelmények listák
+      view_requirements_list: megtekintése követelmények listája
+    form_content:
+      name: neve
+      name_of_your_requirements_list: neve igényei lista
+    form:
+      edit: szerkesztése
+    show:
+      requirements_list: követelmények listája
+      return_to_requirements_lists: A követelmények listák
+      edit_requirements_list: szerkesztése követelmények listája
+  photos:
+    index:
+      photos: fotók
+      return_to_photo_albums: Vissza fotóalbumok
+      return_to_profile: A profil
+  errors:
+    messages:
+      already_confirmed: már megerősítette, kérjük próbáljon meg bejelentkezni
+      confirmation_period_expired: kell erősítenie belül% {period}, kérjen újat
+      expired: lejárt, kérjen újat
+      not_found: nem talált
+      not_locked: nem volt zárva
+      not_saved:
+        one: '1 hiba tiltja ezt% {forrás} került mentésre:'
+        other: "% {count} hiba tiltja ezt% {forrás} került mentésre:"
+    bad_request:
+      bad_request: Bad Request
+      request_result: kér eredmény
+      bad_request_description: A kiszolgáló nem tudja vagy nem tudja feldolgozni a
+        kérelmet miatt nyilvánvaló klienshiba
+      go_to_root: lépés gyökér
+    unprocessable_entity:
+      unprocessable_entity: Feldolgozhatatlan entitás
+      request_result: kér eredmény
+      unprocessable_entity_description: A kérelmet jól formált, de nem tudta követni
+        miatt szemantikai hiba
+      go_to_root: lépés gyökér
+    not_found:
+      not_found: Nem talált
+      request_result: kér eredmény
+      not_found_description: A kért erőforrás nem található, de elérhető lesz a jövőben
+      go_to_root: lépés gyökér
+    forbidden:
+      forbidden: Tiltott
+      request_result: kér eredmény
+      forbidden_description: A kérelem érvényes kérelmet, de a szerver elutasítja
+        a válaszadásra
+      go_to_root: lépés gyökér
+    internal_server_error:
+      internal_server_error: Internal Server Error
+      request_result: kér eredmény
+      internal_server_error_description: Hiba történt. Mi lesz megjavítani, amilyen
+        hamar csak lehetséges.
+      go_to_root: lépés gyökér
+  pages:
+    privacy:
+      privacy: Flutylove Adatvédelem
+      general_provisions: Általános rendelkezések
+      p_1_1: '1.1. Ezek a rendelkezések hivatalos dokumentuma, amely Korlátolt Felelősségű
+        Társaság "Technoelegance", található 101000 Moszkva, Ulanskiy pereulok 13
+        stroeniye 4. pomeshcheniye 1 (a továbbiakban Flutylove, a cég, akkor), és
+        meghatározza eljárások adatfeldolgozás és információs biztonság az egyének
+        aki elérte a 18 éves kor, és akik a honlap https://flutylove.com (a továbbiakban:
+        Weboldal) és szolgáltatások (a továbbiakban: felhasználó).'
+      p_1_2: 1.2. A cél ezeknek rendeletek megfelelő védelmének biztosítása a felhasználói
+        adatokat, beleértve a személyes adatokat, a jogosulatlan hozzáférés és nyilvánosságra
+        hozatal.
+      p_1_3: 1.3. A kapcsolatok járó gyűjtése, tárolása, elosztása és biztonságát
+        honlap felhasználói adatokat szabályozza ezeket a rendeleteket, egyéb hivatalos
+        dokumentumok a Társaság és a jelenlegi jogszabályok az Orosz Föderáció.
+      p_1_4: 1.4. A jelenlegi verzió a rendeletek, amelyek a nyilvános dokumentum,
+        elérhető bármely internet-felhasználó, ha az alábbi link http://flutylove.com/pages/privacy.
+        A Társaság a jogot, hogy ezeket szabályzat. Amennyiben a változások történtek
+        a Szabályzat a Társaság értesíti a felhasználókat közzéteszi az új verzió
+        a rendeletek a Honlapot lakcímét http://flutylove.com/pages/privacy, legkésőbb
+        10 nappal a tényleges időpontja a változásokat. A korábbi verziók a rendeletek
+        tárolja dokumentációját archívumban a Társaság.
+      p_1_5: 1.5. Ezek a rendeletek már kidolgozták és használják megfelelően a felhasználói
+        megállapodást. Amennyiben bármilyen megsértésének között e rendeletek és más
+        hivatalos dokumentumok, a Társaság e rendeletek érvényre kell juttatni.
+      p_1_6: 1.6. A honlap használatával Ön elfogadja a feltételeket a Privacy Policy.
+        Kérjük, olvassa el figyelmesen. Ha nem ért egyet a jelen adatvédelmi politika,
+        vagy ha még nem érte el a 18 éves kor, akkor nem használhatja a weboldal és
+        szolgáltatások. A honlap használatával, függetlenül attól, hogy a regisztrált
+        felhasználói Flutylove vagy nem, akkor erősítse meg, hogy teljes mértékben
+        elfogadja a jelen adatvédelmi szabályzat, és elfogadja, hogy kövessük.
+      the_website_using_conditions: A honlap használatával feltételek
+      p_2_1: '2.1. Ahhoz, hogy a honlap Flutylove, regisztrálnia kell. A következő
+        információkat kell megadni a regisztráció során: név, e-mail cím, nem, születési
+        dátum, hely adatait. A Felhasználó további személyes adatokat az ő / saját
+        kívánsága. A Felhasználó módosíthatja vagy frissítheti személyes adatait bármikor.
+        A Társaság a jogot, hogy további igazoló dokumentumok megváltozása esetén
+        nem és születési idejét a Felhasználó.'
+      p_2_2: '2.2. Azáltal, hogy a hozzáférést a weboldal és annak szolgáltatásai,
+        a Társaság eljárva ésszerű módon és jóhiszeműen úgy véli, hogy a felhasználó:
+        felismeri, hogy a regisztráció a honlap van szükség, hogy több mint 18 év;
+        az összes szükséges jogot, hogy képes regisztrálni a weboldalon, és használja
+        azt; azt jelzi, pontos információk magát / magának szerint a kérelmeket a
+        használata a weboldal szolgáltatásaira; tudatában van annak, hogy a személyes
+        adatokat a honlap által nyújtott, a felhasználó, akkor elérhetővé válik a
+        többi felhasználót a honlap és az Internet használók is másolhatók és forgalmazza
+        a többi felhasználó számára; tudatában van annak, hogy bizonyos típusú információkat,
+        át a másik felhasználó, nem lehet eltávolítani a felhasználó által; tisztában
+        van e szabályzat, egyetért velük, és vállalja a meghatározott jogait és kötelezettségeit.'
+      p_2_3: 2.3. A Társaság nem ellenőrzi a pontosságát kapott (gyűjtött) tájékoztatás
+        a felhasználók számára, kivéve az eseteket, amikor az ilyen ellenőrzés szükséges
+        annak érdekében, hogy teljesítse a társaság kötelezettségeiért a felhasználónak.
+      information_processing_objectives: információ feldolgozása céljainak
+      p_3_1: 3.1. A Társaság végzi az adatok feldolgozását a felhasználókról, beleértve
+        a személyes adatokat is, annak érdekében, hogy teljesítse a társaság kötelezettségeiért
+        a felhasználók számára a használata a honlap és a szolgáltatásokat.
+      p_3_2: 3.2 A Társaság jogosult elvégezni a személyes adatok feldolgozása értesítése
+        nélkül az illetékes hatóság jogok védelmét a személyes adatok érintettek.
+      structure_of_the_user_information: szerkezete a felhasználói adatokat
+      p_4_1: '4.1. Személyes adatok A felhasználók a következőket tartalmazza:'
+      p_4_1_1: 4.1.1. név, e-mail cím, nem, születési idő, hely információk és telefonszámát,
+        amelyeket a Felhasználók által megadott és állítólag csak elég a regisztráció
+        a weboldalon;
+      p_4_1_2: 4.1.2. az információkat, amelyek a felhasználó által megadott (például
+        képek, információk a vészes szokások stb);
+      p_4_1_3: 4.1.3. továbbá a felhasználó által megadott szerint a Társaság kérésére
+        teljesítése érdekében a társaság kötelezettségeiért a Felhasználók megjelenő
+        származó felhasználói megállapodást. A Társaság a jogot, különösen, hogy kérje
+        a felhasználó másolatot a személyazonosító igazolvány vagy bármilyen más dokumentum,
+        amely tartalmazza a nevét, nemét és születési dátumát, valamint egyéb kiegészítő
+        információt, amelyet a Társaság belátása szerint lesz szükség, és elegendő
+        azonosításához ilyen felhasználói és megszüntetné a visszaélés és sérti a
+        harmadik személyek jogait.
+      p_4_2: '4.2. Más felhasználó információfeldolgozás a Társaság által a honlap
+        adminisztráció is feldolgozza egyéb információkat a felhasználók számára,
+        amely a következőket tartalmazza:'
+      p_4_2_1: 4.2.1. közös adatok automatikusan megkapta http-szervert, ha a honlap
+        és az azt követő intézkedések a felhasználó (IP-címét a fogadó írja a felhasználó
+        az operációs rendszer, a honlap oldalait látogatják a felhasználó).
+      p_4_2_2: 4.2.2. információt, amely automatikusan fogadja elérésekor a honlap
+        használatával könyvjelzőket (cookie-k);
+      p_4_2_3: 4.2.3. információk, amelyek eredményeképpen kapott a Felhasználó akciók
+        a weboldalon;
+      p_4_2_4: 4.2.4. információk, amelyek eredményeképpen kapott tevékenységek más
+        felhasználók a honlapot.
+      users_information_processing: Felhasználó információfeldolgozás
+      p_5_1: '5.1. A személyes adatok feldolgozását végzi alapján a következő elvek
+        alapján: a) törvényes célokat és eszközöket, a személyes adatok feldolgozása;
+        b) az őszinteség; c) a megfelelési személyes adatok feldolgozása céljából
+        a célra meghatározott, és kijelentette, gyűjtése során a személyes adatok,
+        valamint a megfelelés a hitelesítő a Társaság; d) a megfelelési mennyisége
+        és típusa a személyes adatok feldolgozása, valamint a megfelelőségi eszközök
+        a személyes adatok céljából való feldolgozása; e) elfogadhatatlansága kombinálásával
+        létrehozott adatbázisok összeférhetetlen célokra, személyes adatokat tartalmazó.'
+      p_5_1_1: 5.1.1. A személyes adatok gyűjtését a felhasználó végzi a honlap, amikor
+        nyilvántartás, valamint a jövőben, amikor a felhasználó ad több információt
+        magáról / magának a Honlapon az ő / saját kezdeményezésére.
+      p_5_1_2: 5.1.2. A felhasználók személyes adatainak tárolása kizárólag elektronikus
+        formában és feldolgozni azokat az automatizált rendszerek, kivéve az esetekben,
+        amikor a kézi személyes adatok feldolgozása szükséges, tekintettel megfelel
+        a jogszabályi követelményeknek.
+      p_5_1_3: 5.1.3. A felhasználó személyes adatait nem kerülnek át harmadik félnek,
+        kivéve, ha kifejezetten erre vonatkozó e rendeletek és a felhasználói megállapodást.
+        Hozzájárulásával a felhasználó személyes felhasználói adatokat lehet továbbítani
+        harmadik felekre a Társaság azzal a feltétellel feltételezése köteles biztosítani
+        a bizalmas információ érkezett, különösen akkor, ha a szolgáltatásokat és
+        alkalmazásokat. A felhasználó személyes adatszolgáltatási igény a kormányzati
+        hatóságok (helyi hatóságok) végzik, az eljárás törvény által megkívánt.
+      p_5_1_4: '5.1.4. A felhasználó személyes adatai törlésre kerülnek, ha: - az
+        adatok nem magától törlődik az oldalról a Felhasználó által; - Oldal magától
+        törli a Felhasználó - A felhasználó adatait és személyes oldal eltávolítjuk
+        a Társaság. Abban az esetben, az oldal törlését a Felhasználó maga, a Társaság
+        tárolja a Felhasználó személyes adatait az elektronikus média követő 210 napon
+        belül a személyes oldal távolítani. A személyes adatok törlésre kerülnek leteltével
+        210 nap után a személyes oldal távolítani. Ezen időszak letelte után a felhasználónak
+        joga van, hogy visszaállítsa a személyes oldalára.'
+      users_rights_and_obligations: Felhasználó jogai és kötelezettségei
+      p_6_1: '6.1. A felhasználónak joga van:'
+      p_6_1_1: 6.1.1. hozzáférés az információk róla / vele korlátozások nélkül és
+        díjmentesen szerkesztésével személyes oldal a honlap használatával a felhasználónevét
+        és jelszavát,
+      p_6_1_2: 6.1.2. függetlenül változtatásokat és javításokat az információkat
+        a Felhasználó személyes oldal a honlap, azzal a feltétellel, hogy az ilyen
+        változtatásokat és javításokat tartalmaz up-to-date és valós információkat;
+      p_6_1_3: 6.1.3. távolítsa el az információt a személyes oldal a honlap;
+      p_6_1_4: 6.1.4. kérheti a Társaság, hogy több konkrét információt, zárolását
+        vagy törlését a személyes adatok, ha ezek az adatok hiányosak, elavultak,
+        pontatlan, jogellenesen kapott vagy nem szükségesek a bejelentett feldolgozás
+        céljából, vagy ha a tevékenységek meghatározott 6.1.3 ezeknek rendeletek nem
+        hajtható végre önállóan;
+      p_6_1_5: 6.1.5. alapján kérelmet, kapják meg az információt a Társaság feldolgozása
+        tekintetében az / személyes adatokat.
+      p_6_2: '6.2. Az alábbi információkat minden regisztrált honlapja Felhasználó
+        mindig rendelkezésre áll a regisztrált Felhasználó: felhasználó neve, neme,
+        kora, profilképét és egyéb információk, ha a felhasználó elküldte.'
+      p_6_3: 6.3. A Társaságot nem terheli felelősség a közzététel Felhasználó személyes
+        adatait más felhasználók a honlapot, akik elérhető ilyen adatokat.
+      p_6_4: 6.4. Abban az esetben a személyes adatok (más felhasználói információkat)
+        eltávolítása a Felhasználó személyes oldalát vagy eltávolítása a Felhasználó
+        személyes oldal a honlap, a felhasználó adatait át más felhasználók vagy tárolt
+        más felhasználók oldalain megmarad.
+      users_information_protection_measures: felhasználói adatok védelmi intézkedések
+      p_7_1: 7.1. A Társaság olyan műszaki, szervezési és jogi intézkedéseket annak
+        érdekében, hogy a Felhasználó személyes adatait védve van az illetéktelen
+        vagy véletlen hozzáférés, törlés, módosítás, blokkoló, másolás és terjesztése,
+        valamint egyéb jogosulatlan tevékenységek.
+      p_7_2: 7.2. A felhasználó bejelentkezési (e-mail címét, vagy mobil szám) és
+        a jelszó eléréséhez használt honlapot. A felhasználó felelős azért, hogy ez
+        az információ bizalmas. A felhasználó nem adhatja át a bejelentkezési név
+        és jelszó harmadik felek is köteles intézkedéseket, hogy biztosítsa annak
+        titkosságát.
+      limitation_of_the_regulations_applicability: korlátozása rendeletek alkalmazhatósága
+      p_8: E rendeletek nem terjednek ki az intézkedések és internetes források harmadik
+        felek. A Társaság nem vállal felelősséget az intézkedések a harmadik fél,
+        aki kapott hozzáférést a felhasználói adatokat az interneten keresztül, vagy
+        a honlap szolgáltatásainak. A honlap adminisztráció azt javasolja a felhasználóknak,
+        hogy a megközelítés a problémát az információk mennyisége a Weboldalon közzétett
+        felelős módon.
+      user_requests: felhasználói kérések
+      p_9_1: '9.1. A felhasználóknak joguk kéréseket küldjön a Társaság megkereséseket
+        is beleértve használatával kapcsolatos személyes adatokat írásban a következő
+        címen: Oroszország, 101000 Moszkva, Ulanskiy pereulok 13 stroeniye 4 pomeshcheniye
+        1 vagy elektronikus okirat formájában által aláírt minősített elektronikus
+        aláírás jogszabályaival összhangban az orosz Föderáció által az e-mail: support@flutylove.com.'
+      p_9_2: '9.2. A felhasználó kérésére tartalmaznia kell a következő adatokat:
+        a több azonosító okmány a felhasználó vagy képviselője; kibocsátásának dátumát
+        a fenti dokumentum és a kibocsátó hatóság; alátámasztó információt felhasználó
+        részvételét kapcsolatai az üzemeltető (különösen a link az oldalon); aláírása
+        a Felhasználó vagy / képviselője.'
+      p_9_3: 9.3. A Társaság vállalja, hogy fontolja meg, és válaszoljon a felhasználó
+        kérésére 30 napon belül azután, hogy megkapta.
+      p_9_4: 9.4. Minden levelezést a Társaság által kapott a Felhasználók (írott
+        vagy elektronikus kérelem) besorolása korlátozott hozzáférésű információ-
+        és nem hozhatók nyilvánosságra nélkül a felhasználó írásbeli hozzájárulása
+        szükséges. A személyes adatok és egyéb információk a felhasználó, aki elküldte
+        a kérelmet nem lehet használni, anélkül, hogy a felhasználó külön engedélyével,
+        másképp, mint a válasz a kérésre, vagy abban az esetben, kifejezetten erre
+        törvényi szabályozás vonatkozik.
+    terms:
+      terms: Flutylove Felhasználói megállapodás
+      welcome: Üdvözöljük Flutylove!
+      about_terms: 'Jelen felhasználási feltételek (valamint az említett dokumentumokat
+        jelenti, beleértve Adatvédelem) a szerződés tapadási cikke szerint 428 a polgári
+        törvénykönyv, az Orosz Föderáció (a továbbiakban: "a megállapodás") a egyén,
+        aki elérte a 18 éves (a továbbiakban: a "User" és a Társaság (vagy "mi") -
+        korlátolt Felelősségű Társaság "Technoelegance" (LLC "Technoelegance") (hivatalos
+        címe: 101000, Moszkva, Ulanskiy pereulok 13, stroeniye 4. pomeshcheniye 1),
+        a továbbiakban: Flutylove, amely szerint akkor használja ezt a honlapot és
+        minden kapcsolódó szolgáltatásokat kínált a honlap vagy alkalmazás (általában
+        a "szolgáltatások"). a weboldal értendő bármely változatai, kombinált alatt
+        a domain név flutylove.com és működteti a különböző eszközök, beleértve a
+        web-alapú változata, a mobil alkalmazások és az alkalmazások számára a társadalmi
+        hálózatok.A weboldal használatával Ön elfogadja a feltételeket a megállapodás
+        és Adatvédelem. Kérjük, olvassa el figyelmesen. Ha nem ért egyet a feltételekkel
+        a megállapodást és adatvédelmi politikát, vagy ha még nem érte el a 18 éves
+        kor, akkor nem használhatja a weboldal és szolgáltatások.Segítségével honlap,
+        függetlenül Ön regisztrált felhasználója Flutylove vagy nem, akkor teljes
+        mértékben egyetért a megállapodás és a Privacy Policy, ami benne van a megállapodás,
+        amelyet a link, és rendelkezésre áll a honlap, és betartja.A felhasználó kérésére
+        a Társaság vállalja, hogy aláírják ezt a megállapodást a nyomtatott formában,
+        és elküldi azt a kérelmező személy a dokumentumokat.A Társaság fenntartja
+        a jogot, hogy a Felhasználó a megállapodás és az említett dokumentum azt.
+        Ahhoz, hogy tisztában van a változások meg kell tartani up-to-date a tájékoztatást
+        ilyen változásokat rendszeresen. Mi tájékoztatni fogja a módosításokat, amelyeket
+        ezen az oldalon alul. Változások nem vonatkoznak vissza lépnek hatályba számított
+        tíz napon belül a közzététel napjától. Azonban abban az esetben azok végrehajtásához
+        kapcsolódó új szolgáltatások vagy a törvényi szabályozás módosításának, akkor
+        azonnal alkalmazni kell. Ha nem ért egyet a változtatásokkal a megállapodás,
+        akkor abba kell hagynia a honlap és alkalmazásai.'
+      consent_to_accept_the_terms_of_user_agreement: 1. BELEEGYEZÉS elfogadni a feltételeket
+        FELHASZNÁLÓI MEGÁLLAPODÁS.
+      p_1: egy. Elektronikus megállapodást. Ez a megállapodás egy elektronikus változata
+        a szerződés, amely leírja a felhasználási feltételeket a honlap és a szolgáltatások.
+        Bejelentkezik a honlap, vagy válás felhasználó, akkor elfogadja ezt a Megállapodást
+        és valamennyi feltételt, és észreveszi, hogy tartalmazza vagy a hivatkozott
+        ott. Ön megerősíti és elfogadja, hogy a felhasználók a Flutylove lehet része
+        egy online közösség, amely magában foglalja a más weboldalakon tartozó illetve
+        leányvállalataival. Ezért a profilokat a honlapon lehet megtekinteni más hasonló
+        weboldalak és fizető előfizetők egy webhely képes kommunikálni a többi fizető
+        előfizetők minden weboldalak. b. Elektronikus formában. Bejelentkezik a honlap,
+        vagy válás Felhasználó beleegyezik, hogy az Ön számára az elektronikus megállapodást.
+        c. Nyomtatott formában. Jogod van, hogy megkapja a papíralapú e megállapodás.
+        Kérheti a nyomtatott kiadásában a megállapodás előtt vagy után kerül aláírásra,
+        elektronikus formában. Kérjük, lépjen kapcsolatba ügyfélszolgálatunkkal további
+        információkért. d. Access és a letöltéshez. Annak érdekében, hogy a hozzáférés
+        és letölthető az elektronikus megállapodás, akkor kell az internet-hozzáférést,
+        vagy közvetlenül az eszközöket a hozzáférést a webes erőforrásokat. Be kell,
+        hogy szükséges berendezések csatlakozni az internethez, azaz a számítógép,
+        modem vagy más eszközről. Kérjük, nyomtassa ki ezt a megállapodást, és megtartják
+        azt. Letöltéséhez elektronikus formában a megállapodás, mentse a számítógép
+        segítségével bármilyen szövegszerkesztővel.
+      the_right_of_using_the_website: 2. JOBBRA használatától.
+      p_2: Te legalább tizennyolc (18) éves lesz egy regisztrált felhasználó a honlap.
+        Abban az esetben, nem követelményeknek való megfelelés, amelyek a Honlap elutasításra
+        kerül. A honlap használatával, a felhasználó tisztában kell lenniük azzal,
+        hogy a személyes adatokat a Weboldalon közzétett rendelkezésre állhat a többi
+        felhasználó, és a cég nem vállal felelősséget a tetteikért. A weboldal használatával
+        Ön azt állítják, és vállalják, hogy van egy jobb, hatóság és lehetősége, hogy
+        jön létre a megállapodás, és hozzájárul ahhoz, hogy kövesse a feltételeket.
+        Becoming a felhasználó akkor állítják, és vállalják, hogy még soha nem szenvedett
+        miatti elítélés bűncselekmény a szexuális erőszakot. A weboldal célja, kizárólag
+        személyes használatra. Tilos használni a honlap semmilyen kereskedelmi célra.
+        Vállalati egységek nem lehetnek a felhasználók ezt a honlapot, valamint nem
+        tudja használni ezt a szolgáltatást, illetve a honlap a saját céljaikra. Illegális
+        és / vagy jogosulatlan használata a Honlap, beleértve a felhasználói név és
+        / vagy e-mail címeket a segítségével az elektronikus vagy egyéb eszközök küldése
+        céljából kívánatos üzeneteket és kapcsolatokat folytat, és a Társaság megteheti
+        a megfelelő intézkedéseket a törvény szerint, beleértve a fordul a bűnüldöző
+        hatóságok.
+      pricing_and_registration: 3. ÁRKÉPZÉS ÉS REGISZTRÁCIÓ
+      p_3: Te képes lesz a felhasználó a Flutylove a szabad akarat és ingyenes alapon
+        regisztráció a weboldalon. Mivel a felhasználó, akkor használja speciális
+        szolgáltatások köre és lehetőségek a honlap. A Felhasználó a honlap az egyén
+        a honlapon regisztrált szerint megállapított sorrendben és aki elérte a 18
+        éves korig. A regisztráció során a weboldal a felhasználó köteles a szükséges
+        és fontos információkat a Társaság a teljes felhasználói oldalon, beleértve
+        a login (e-mail cím vagy telefonszám) és a jelszót a hozzáférést a honlap,
+        valamint a nevét, amely egyedi minden felhasználó számára. Az űrlap a bejegyzés
+        további információkat kérhet a Felhasználó. A Felhasználó felelős az érvényességi,
+        aktualitását, teljességét és a törvények betartását az Orosz Föderáció, a
+        tájékoztatás a regisztráció és tisztaság származó harmadik fél követelését.
+        A regisztráció során a felhasználó egyetért ezzel a megállapodás, és vállalják
+        meghatározott jogok és kötelezettségek, kapcsolódó használatával és működésével
+        honlap. A felhasználó kap teljes hozzáférést a segítségével a honlap funkcióit.
+        A Társaság vállalja jogokat és kötelezettséget a Felhasználó, ebben a Szabályzatban
+        meghatározott, miután a sikeres regisztráció a Felhasználó a weboldal a felhasználó
+        személyes adatainak feldolgozása alapján készül törvény az Orosz Föderáció.
+        A honlap adminisztrációs folyamatok Felhasználó személyes adatait annak érdekében,
+        hogy a felhasználó számára egy hozzáférést a használat honlap funkciók, többek
+        között megkapta a személyre szabott (célzott) reklám; ellenőrzés, kutatás
+        és elemzés az említett adatokat, így támogatni és javítani a funkciók és szakaszok
+        a honlap, valamint új funkciók és szakaszok. A Társaság minden szükséges intézkedést
+        megtesz, hogy megvédje a személyes adatokat a felhasználó a jogosulatlan hozzáférés,
+        megváltoztatás, nyilvánosságra hozás vagy törlés. A cég hozzáférést biztosít
+        a személyes adatok a felhasználó csak azokat a munkavállalókat, alvállalkozói
+        és ügynökei a Társaság számára, akiknek ezt az információt annak érdekében,
+        hogy támogassa a honlap funkciót, és hogy a felhasználó a hozzáférést a segítségével.
+        A Társaság a honlap joga van használni az információt, amelyet a felhasználó,
+        beleértve a személyes adatokat, annak érdekében, hogy megfelel a követelményeknek
+        jelenlegi szabályozás az Orosz Föderáció (ideértve a szabálytalanságok megelőzését
+        és / vagy gátló illegális és / vagy jogellenes akciók a felhasználó). Az információ
+        közzététele a felhasználó által megadott lehet csak megfelelően a jelenlegi
+        szabályozás az Orosz Föderáció kérésére a bíróság, a bűnüldöző szervek, valamint
+        más esetekben, amennyiben az alkalmazandó jogszabályok által az Orosz Föderáció.
+        Olyan mértékben, hogy a vállalati folyamatok a személyes adatait a Felhasználó
+        végrehajtásához az e szabályzat, a Felhasználó hozzájárul ahhoz, hogy a személyes
+        adatok feldolgozása nem szükséges rendelkezések értelmében a személyi adatok.
+        A bejelentkezés és a választott jelszó a felhasználó szükséges és elégséges
+        információt a felhasználói hozzáférést a honlap. A felhasználó jogosult, hogy
+        az ő / neki bejelentkezési név és jelszó harmadik felek, és teljesen felelős
+        a biztonság, választja az utat tárolja azokat független alapon. Használja
+        a / saját hardver és szoftver a felhasználó engedélyezheti a tároló a bejelentkezési
+        név és jelszó (cookie-k) a későbbi automatikus engedélyezés a weboldalon.
+        Minden olyan intézkedés felhasználásával felhasználó felhasználónevét és jelszavát
+        kell tekinteni által elkövetett felhasználó, kivéve, ha az ellenkező bizonyításáig
+        a Felhasználó. A Felhasználó köteles haladéktalanul tájékoztatni a Társaság
+        összhangban megállapított eljárás esetén az illetéktelen hozzáférést a felhasználónév
+        és jelszó és / vagy a számla oldalon, vagy nyilvánosságra hozatala a felhasználónevét
+        és jelszavát. A regisztrációt követően a Felhasználó elnyeri a jogot, hogy
+        létrehozása, használata, és határozza meg a tartalom az ő / ő egyéni oldalaink
+        önérdekű és nem kereskedelmi célokra, valamint kap a lehetőséget, hogy hozzáférjen,
+        és tegye az információkat a személyes oldalak más felhasználók . A Felhasználó
+        a tulajdonos közzétett tájékoztató személyes oldal tisztában van azzal, hogy
+        az esetek kivételével létrehozott a szabályzat és a jelenlegi jogszabályok
+        az Orosz Föderáció, a Társaság nem vesz részt a fejlesztési és a tartalom
+        nem szabályozza hozzáférést biztosít a felhasználó az oldalon más felhasználók.
+      terms_4: 4. FELTÉTELEK.
+      p_4: Ez a megállapodás teljes mértékben marad érvényben és hatályban, amíg használja
+        a honlapot. Akkor ne legyen a felhasználó a honlap eltávolításával az oldalt
+        bármikor, bármilyen okból, vegye fel a kapcsolatot az online ügyfélszolgálat,
+        vagy használja a szolgáltatást a honlap. A Társaság fenntartja a jogot, hogy
+        törölje a személyes oldalt bármikor. Nem vagyunk kötelesek értesíteni, mielőtt
+        az oldal törlését, ha a Társaságnak az oka azt feltételezni, hogy Ön megsértette
+        a Szerződés feltételeit. Nem vagyunk kötelesek nyilvánosságra hozni a miért
+        törli a fiók; Egyes esetekben az ilyen információk közzététele tilos. Miután
+        a törlést az oldal, mind a feltételeket, amelyek érvényesek megszűnése után
+        a megállapodás jellegénél fogva hatályos lesz az elállást követően. Ha törölni
+        az oldalt a weboldalon keresztül a saját akarata, akkor arra kérjük, hogy
+        adja meg az okát az ilyen törlés.
+      account_security: 5. FIÓKBIZTONSÁGGAL.
+      p_5: Ön felelős titoktartás megőrzése a felhasználónevét és jelszavát, amelyet
+        beállítani a nyilvántartásba vétel időpontjában. Továbbá, ha teljesen felelős
+        minden olyan tevékenységet, amelyek az Ön felhasználónevét és jelszavát. Ön
+        vállalja, hogy (a) azonnal jelezzék, ha bármilyen jogosulatlan használata
+        a belépési nevet és jelszót, valamint minden egyéb biztonsági megsértése,
+        és (b) exit fiókjából végén minden alkalommal. A honlap nem felel az olyan
+        károkért vagy eredő veszteségek nem tartása ennek a rendelkezésnek. Meg kell
+        különösen óvatos, amikor a fiók elérésével egy nyilvános számítógép érdekében,
+        hogy illetéktelen személyek nem kém, vagy rögzíti a jelszót vagy más személyes
+        adatait. Azt is megerősítik, és egyetértenek abban, hogy az internet soha
+        nem volt teljesen titkos és biztonságos. Ön megérti, hogy minden üzenetet
+        és információt közzéteszi a Weboldalon lehet olvasni, vagy használja a többi
+        felhasználó, akkor is, ha van egy különleges figyelmeztetés, hogy az információ
+        rejtve.
+      your_interaction_with_other_users_of_the_website: 6. interakció más felhasználókkal
+        a honlapon.
+      p_6: egy. ÖN egyedül felelős a kölcsönhatás más felhasználók. Tudni kell, hogy
+        a vállalat nem igazolhatja a felhasználók számára, hogy azok a bűnügyi nyilvántartásban.
+        A vállalat azt is nem kér a múltról szóló információkat igénybe vevők és nem
+        érvényesíti ezt az információt. A Társaság nem vállal szavatosságot a felhasználói
+        magatartás és hogy azok megfeleljenek a jelenlegi vagy jövőbeli felhasználók.
+        UGYANAKKOR A Társaság fenntartja a jogot, hogy a felhasználók, a bűnügyi nyilvántartásban
+        vagy végezhet más bármikor ellenőrizhető a rendelkezésre álló nyilvános információ.
+        b. Semmi esetre sem a cég nem FELEL A legyenek azok KÖZVETLEN, ÁLTALÁNOS vagy
+        egy SAJÁTOSSÁGA kompenzációs, ÉS / VAGY VÉLETLEN KAPOTT VAGY MÁS egyének használata
+        miatt a honlap, BELEÉRTVE, DE NEM KIZÁRÓLAG, sérüléshez, STRESSZ ÉS / VAGY
+        MÁS KÁR KAPOTT EREDMÉNYEKÉPPEN vagy találkozások EGYÉB regisztrált felhasználója
+        a honlapon vagy népet, hogy foglalkozik a honlapon. ÖN vállalhatják minden
+        lehetséges óvintézkedést kommunikáció során a többi felhasználóval, különösen
+        azokban az esetekben, amikor úgy dönt, hogy találkozzon velük a valós életben.
+        Tisztában kell lennie azzal, amit a cég nem ad bevallott vagy BURKOLT GARANCIA
+        való összeegyeztethetősége A felhasználók ezen HONLAP. Amit nem alkalmazhat
+        a pénzügyi információknak a többi felhasználó számára a weboldalon (például
+        INFORMÁCIÓK A hitel- vagy műanyag kártyák). c. A Szolgáltató tudják fordítani
+        a nevét vagy a város más nyelveken; d. A szolgáltatás nem felelős az intézkedések
+        a cikkben felsorolt. Abban az esetben, ha nem ért egyet velük, teljesen vagy
+        részben, kérjük, azonnal a webhely elhagyása;
+      the_information_posted_by_you_on_flutylove: 7. az információs küldte ÖN FLUTYLOVE
+      p_7: 'egy. Kizárólag Ön felelős az információ, amit közzé, vagy bizonyítani
+        (a továbbiakban: "post") a Szolgálat, vagy át a többi felhasználó. Nem megengedett,
+        hogy tegye a Szolgáltatás vagy át más felhasználók minden olyan információt,
+        rágalmazó, pontatlan, sértő, obszcén, vulgáris, agresszív tartalom, az információ
+        a szexuális tartalom, valamint a veszélyeztető vagy vadászott információk,
+        a faji megkülönböztetés jellegével vagy illegális adatokat, illetve az egyéb
+        információkat, amelyek sértik vagy jogait sérti bármely más fél (beleértve,
+        korlátozás nélkül, a szellemi tulajdonjogok, jogait magánélet és a nyilvánosság).
+        Nem szabad, hogy pontatlan, félrevezető vagy hamis információkat a Társaság
+        vagy más felhasználó. Ha a szolgáltatott információ a cég Flutylove vagy egy
+        másik felhasználó a későbbiekben válik pontatlan, félrevezető hamis, azonnal
+        értesíti a társaságot Flutylove ilyen változás. Elküldi és garantálja, hogy
+        minden információt a regisztráció során megadott pontos és igaz, és akkor
+        azonnal változtassa meg minden olyan információt, amely a későbbiekben válik
+        pontatlan, félrevezető vagy hamis. b. Ön tudomásul veszi és elfogadja, hogy
+        fenntartjuk a jogot, de nem köteles a nyomon követheti az információkat vagy
+        tartalmakat, amelyek át a Szolgáltatás vagy kiküldött nyilvános hozzáférést
+        a szolgáltatás. Jogunk van-e törölni az ilyen információk vagy tartalom hozzárendelése
+        nélkül bármilyen okból és értesítés. c. Minden objektum jelenik meg a honlap,
+        beleértve design elemek, szövegek, grafikák, illusztrációk, videók, szkriptek,
+        programok, zene, hang és egyéb objektumok és könyvtárak (a továbbiakban -
+        Information) tulajdonát képezik kizárólagos jogok a Társaság, a felhasználók
+        a a honlap és más jogtulajdonosok minden jogot ezek az objektumok védelmét.
+        d. Kivéve, ha megfelelően megállapított e megállapodás, valamint a jelenlegi
+        szabályozás Orosz Föderáció nincs információ lehet másolni (reprodukálható),
+        feldolgozott, forgalmazott, megjelenik egy keret, megjelent, letölthető, átruházott,
+        eladott vagy felhasznált egyéb módon egészben vagy darabokban nélkül előzetes
+        engedélye jogosultjának, kivéve, ha a jogtulajdonos kifejezetten kifejezte
+        beleegyezését szabad használatát az információ minden egyén számára. e. Közzéteszi
+        az információ a honlapon jogszerűen tartozó felhasználó, a felhasználói hozzáférést
+        biztosít a többi felhasználó számára nem kizárólagos jogot, hogy használja
+        azt megtekintésével, a lejátszás (beleértve a másolás) és egyéb jogok kizárólag
+        a személyes, nem-kereskedelmi használatra, hacsak az esetekben, amikor az
+        ilyen használat okoz vagy kárt okozhat a érdekeit a jogosult a törvény által
+        védett. f. A használata az információ a Felhasználó, amely hozzáférést szerzett
+        kizárólag személyes, nem kereskedelmi használata, megengedett után a feltétellel,
+        hogy minden jelét a szerzőség (szerzői jogok) vagy egyéb közlemények szerzőség
+        fogják tartani, a szerző nevét és a termék marad változtatás nélkül. g. A
+        Felhasználó továbbá a Társaság nem kizárólagos jogot, hogy az információkat
+        a Weboldalon közzétett tartozó, neki / neki jogszerűen ellenérték nélkül annak
+        érdekében, hogy biztosítsa a működéséhez a Társaság honlapján belül a teljesítmény
+        az építészet és a funkcionalitás a honlap. A nem kizárólagos jogot a fent
+        említett biztosított az Content elhelyezése a honlap, és fedezi az országok
+        területén a világ minden tájáról. A Társaság a jogot, hogy át az említett
+        jogokat e bekezdés harmadik fél számára. Felhasználó elfogadja, hogy a társaság
+        a jogot, hogy a funkcionális és technikai lehetőségeit a honlap, amely a megjelenítő
+        a tartalom megosztása a felhasználó által, beleértve a célra megjelenítésére
+        hirdetési információk. Szia. Amennyiben a Felhasználó törli az adatokat a
+        honlap, nem kizárólagos jogot automatikusan visszavonásra kerül, ám a műszaki
+        előírásokat a honlap a Társaság fenntartja a jogot, hogy mentse biztonsági
+        másolatot az adatok az előírt határidőn belül, és ahol szükséges. én. Eltekintve
+        a személyes adatokat, a felhasználónak nincs joga feltölteni, vagy nyilvánosságra
+        hozzák a különböző módon (közzétételével a honlap) az információs egyéb területek,
+        az adatbázisok és más szellemi tulajdon hiányában kifejezetten kifejezett
+        hozzájárulása az ilyen tevékenységeket a szerzői jog tulajdonos. j. Hacsak
+        másként kell jegyezni a szabályzatban semmit a jelen szabályzatban nem tekinthető
+        átadása kizárólagos jogok a tájékoztatás. k. Minden információ, amit közzé
+        a felhasználói profil, pontosnak kell lennie, up-to-date és teljes. A Felhasználó
+        teljesen egyedül felelős minden olyan információ, amelyet feltöltött illetve
+        nyilvánosságra hozták a különböző módon (kiküldött) a honlap, vagy a segítségével
+        a felhasználó. A felhasználó nem rendelkezik a jogosult feltölteni, átadása
+        vagy postai úton a tartalom a honlapon, ha ő / ő nem rendelkezik a megfelelő
+        jogosultságokkal, hogy ilyen intézkedést, szerzett vagy átruházott neki /
+        neki jogszabályokkal összhangban az Orosz Föderáció. A társaság képes, de
+        nem köteles, böngészni a weboldal bármely jogellenes tartalom és hagyjuk törölni
+        vagy áthelyezni (értesítés nélkül) minden olyan tartalom, vagy a felhasználók
+        saját belátása szerint, bármilyen okból vagy anélkül okait, beleértve korlátozás
+        nélkül mozogni, vagy törölni információkat, az egyéni vélemény a Társaság
+        megsérti ezt a megállapodást, a jogszabályok, az orosz Föderáció és / vagy
+        jogait sérti, megsérül, vagy veszélyeztetheti a másik felhasználó vagy harmadik
+        felek. A honlap tartalmaz (vagy tartalmazhat) linkek más oldalakra az interneten
+        (a harmadik fél weboldala), valamint a cikkek, fotók, illusztrációk, grafikák,
+        zene, hang, videó, információk, alkalmazások, szoftverek és egyéb információk
+        tartozó vagy jön harmadik felek (harmadik féltől származó tartalom), ami annak
+        az eredménye a szellemi tevékenység és a védelemben jogszabályaival összhangban
+        az orosz Föderáció. Ezek a harmadik felek és információk nem ellenőrizte a
+        Társaság a termék megfelel e vagy más követelmények (pontosság, teljesség,
+        az őszinteség, stb.) A Társaság nem vállal felelősséget semmilyen tartalom
+        felkerül a harmadik fél helyek, amelyekre a felhasználó nyeresége elérheti
+        a weboldalon keresztül vagy a harmadik féltől származó információkat, beleértve,
+        de nem korlátozva a véleményeket vagy nyilatkozatok kifejezve a harmadik fél
+        helyek, vagy azok információk. A link minden oldalon, a termék, és a szolgáltatás
+        minden olyan információt, kereskedelmi és nem kereskedelmi jellegű ezen a
+        honlapon nem jóváhagyási vagy ajánlás e termékek (szolgáltatások) a Társaság.
+        Ha a felhasználó úgy dönt, hogy elhagyja a honlapot, és megy a harmadik fél
+        weboldala vagy használni, vagy telepíthet harmadik féltől származó szoftvert,
+        ő / ő nem így saját kockázatára és attól a pillanattól kezdve ezek a rendeletek
+        már nem alkalmazzák a Felhasználó. További felhasználói műveletek vezérlik
+        az alkalmazandó szabályokat és irányelveket, beleértve az üzleti gyakorlat,
+        akiknek az információ ő / ő fogja használni.'
+      forbidden_actions: 8. TILOS AKCIÓK.
+      p_8: egy. Tilos a "szoros megfigyelés a" vagy zavarja az a személy, más módon.
+        b. Tilos használni botoktól, vírusok, alkalmazások keresni / kivonat oldalak,
+        vagy más kézi vagy automatikus eszköz vagy folyamat kivonat, index, "kémkedés"
+        reprodukálni vagy más módon megkerülni a navigációs rendszer és megjelenítése
+        a Szolgáltatás vagy annak tartalmát . c. Tilos küldeni, terjeszteni, reprodukálni
+        vagy minden tekintetben semmilyen jogvédett információt, védjegyek vagy egyéb
+        információ szerzői jogvédelem alatt előzetes hozzájárulása nélkül a szerzői
+        jog tulajdonosa. d. Tilos eltávolítani bármilyen szerzői jog, védjegy vagy
+        egyéb szerzői jogi figyelmeztetést a szolgáltatás. e. Tilos beavatkozni vagy
+        működését pedig Szolgálat és a honlap, vagy a szolgáltatások és a kapcsolódó
+        hálózatokat a Szolgáltatás vagy a Weboldal. f. Tilos közzétenni, e-mailben
+        vagy átadása a különböző módon minden olyan információt, amely a vírusok vagy
+        más számítógépes kódot, fájlt vagy programot, hogy zavarja, megsemmisíteni
+        vagy korlátozhatja a működését bármilyen számítógépes szoftver, hardver vagy
+        távközlési berendezés. g. Tilos a fejrész meghamisítására vagy manipulálni
+        kijelölése céljából leplezze a valódi jelentését megosztott adatait a szolgáltatás.
+        h. Tilos a "kovácsolni" vagy "másolat" bármely részét a Szolgáltatás vagy
+        a Weboldal előzetes írásbeli engedélye Flutylove. Is, akkor lehet, hogy nem
+        használ semmilyen meta tag vagy kód, vagy más eszközök bármelyikét tartalmazó
+        linkeket Flutylove, a Szolgáltatás vagy a Weboldal érdekében átirányítani
+        bármely személy a másik oldalon bármilyen célból. én. Tilos módosítani, adaptálni,
+        továbblicencelésére lefordítani, eladni, átszervezésére, megfejteni, vagy
+        részekre bontása bármely részét a Szolgáltatás vagy a Weboldal vagy bármilyen
+        szoftvert használnak a honlap, vagy azt, valamint arra ösztönzi, hogy mások
+        hasonló intézkedéseket . j. Tilos közzé olyan információt pornográf és / vagy
+        erotikus tartalom.
+      the_changes_in_the_service: 9. a változások a szolgáltatás.
+      p_9: Flutylove fenntartja magának a jogot, hogy bármikor megváltoztassa vagy
+        letiltani ideiglenesen vagy véglegesen a Szolgáltatást (vagy azok egy részének)
+        előzetes értesítés nélkül. Ön elfogadja, hogy Flutylove nem felelős az Ön
+        vagy bármely harmadik fél számára semmilyen módosítás, átmeneti rendelkezésre
+        álló vagy teljes letiltása a Szolgáltatás.
+      ip_address_blocking: 10. IP ADDRESS blokkoló.
+      p_10: védelme érdekében integritásának a honlap, Flutylove fenntartja magának
+        a jogot, hogy bármikor saját kényelmét blokkolni az IP-címeket az egyes felhasználók.
+      relations_between_users_online: 11. KAPCSOLATAIRÓL users online
+      p_11: Ön egyedül felelős a kölcsönhatás más felhasználókkal Flutylove. Flutylove
+        fenntartja magának a jogot, de nem kötelezettséget, hogy ellenőrizze viták
+        közted és a többi felhasználó.
+      security_and_communication: 12. biztonsági és kommunikációs.
+      p_12: használata a Honlap és / vagy a Szolgáltatás is vonatkoznak az adatvédelmi
+        irányelveit. Ha lesz egy felhasználó, akkor elfogadja és hozzájárul ahhoz,
+        hogy e-maileket kapni tőlünk. Ezek az e-maileket is képviseli a értesítések
+        műveletek vagy egyéb értesítéseket szolgáltatással társított, például adminisztratív
+        közlemények és hivatalos bejelentések változásokat, illetve e-maileket tartalmazó
+        kereskedelmi ajánlatokat, promóciós anyagok, akciók tőlünk, illetve információt
+        a tevékenységekre a többi felhasználó merül fel Felhasználói fiók. Kérjük,
+        olvassa el adatvédelmi irányelveinket többet tudni az ilyen bejelentéseket.
+      denial_of_responsibility: 13. ELUTASÍTÁSRÓL felelősség.
+      p_13: egy. Flutylove nem felelős semmilyen helytelen vagy pontatlan információkat
+        a Weboldalon közzétett vagy szolgáltatással társított, a felhasználók a honlap,
+        vagy bármely hardver vagy szoftver kapcsolatos mi Service vagy ott használt.
+        Flutylove nem felelős magatartás, online és offline, bármely felhasználó a
+        honlap. Flutylove nem veszi felelősséget esetleges hibákért, hiányosságokért,
+        megszakításokkal, törlés, sérülés vagy késedelmes művelet vagy a műveletek,
+        a kommunikációs vonal meghibásodása, lopás vagy megsemmisítés, jogosulatlan
+        hozzáférés, vagy megváltoztatása a kommunikációs vonalakon a felhasználó.
+        Flutylove nem felelős bármilyen probléma vagy műszaki hibás működés minden
+        telefonhálózatok vagy sorokat, számítógép online rendszerek, szerverek vagy
+        szolgáltatók, számítógépes berendezések, szoftverek, e-mail vagy játékosok
+        nem a felhasználói fiókot, technikai problémák vagy zsúfoltság az Internet
+        vagy valamennyi honlapja vagy annak kombinációja, beleértve a baleseteket
+        vagy sérülését a felhasználók vagy harmadik fél kapcsolatban áll egy számítógép,
+        vagy annak eredményeként való részvétel vagy letöltésére vonatkozó információkat
+        a hálózat és / vagy a szolgáltatás. Semmilyen körülmények között a Flutylove
+        Társaság vagy annak bármely leányvállalata, hirdetési ügynökök, alapítók,
+        illetve elosztó partnerek nem felelősek semmilyen veszteségért vagy kárért,
+        beleértve a személyi sérülés vagy halál, azért, mert a segítségével a Weboldal
+        vagy a Szolgáltatás bármely tartalom a Weboldalon közzétett vagy bármely kölcsönhatás
+        a felhasználók között a honlap, online és offline egyaránt. A honlap és a
+        Szolgáltatást az AS IS alapján és Flutylove kifejezetten kizár minden garanciát
+        vagy fitness egy adott célra, vagy hiánya sérti bárki jogait. Flutylove nem
+        tudja garantálni, és nem ígér semmilyen konkrét eredményt a használata a Honlap
+        és / vagy a Szolgáltatás.
+      links: 14. linkeket.
+      p_14: egy. Flutylove nem felelős semmilyen helytelen vagy pontatlan információkat
+        a Weboldalon közzétett vagy szolgáltatással társított, a felhasználók a honlap,
+        vagy bármely hardver vagy szoftver kapcsolatos mi Service vagy ott használt.
+        Flutylove nem felelős magatartás, online és offline, bármely felhasználó a
+        honlap. Flutylove nem veszi felelősséget esetleges hibákért, hiányosságokért,
+        megszakításokkal, törlés, sérülés vagy késedelmes művelet vagy a műveletek,
+        a kommunikációs vonal meghibásodása, lopás vagy megsemmisítés, jogosulatlan
+        hozzáférés, vagy megváltoztatása a kommunikációs vonalakon a felhasználó.
+        Flutylove nem felelős bármilyen probléma vagy műszaki hibás működés minden
+        telefonhálózatok vagy sorokat, számítógép online rendszerek, szerverek vagy
+        szolgáltatók, számítógépes berendezések, szoftverek, e-mail vagy játékosok
+        nem a felhasználói fiókot, technikai problémák vagy zsúfoltság az Internet
+        vagy valamennyi honlapja vagy annak kombinációja, beleértve a baleseteket
+        vagy sérülését a felhasználók vagy harmadik fél kapcsolatban áll egy számítógép,
+        vagy annak eredményeként való részvétel vagy letöltésére vonatkozó információkat
+        a hálózat és / vagy a szolgáltatás. Semmilyen körülmények között a Flutylove
+        Társaság vagy annak bármely leányvállalata, hirdetési ügynökök, alapítók,
+        illetve elosztó partnerek nem felelősek semmilyen veszteségért vagy kárért,
+        beleértve a személyi sérülés vagy halál, azért, mert a segítségével a Weboldal
+        vagy a Szolgáltatás bármely tartalom a Weboldalon közzétett vagy bármely kölcsönhatás
+        a felhasználók között a honlap, online és offline egyaránt. A honlap és a
+        Szolgáltatást az AS IS alapján és Flutylove kifejezetten kizár minden garanciát
+        vagy fitness egy adott célra, vagy hiánya sérti bárki jogait. Flutylove nem
+        tudja garantálni, és nem ígér semmilyen konkrét eredményt a használata a Honlap
+        és / vagy a Szolgáltatás.
+      limitation_of_responsibility: 15. A felelősség korlátozása.
+      p_15: a honlap és funkciókat, beleértve az összes parancsfájlt, alkalmazások,
+        tartalom és forma A honlap BOCSÁTÁSA AS IS TÖRTÉNIK. A TÁRSASÁG kizár minden,
+        hogy a honlap VAGY függvények is alkalmas, illetve alkalmatlan EGY ADOTT használati
+        cél. A Társaság nem tudja garantálni, és nem ígér semmilyen konkrét eredménnyel
+        használni a honlap és / vagy annak funkcióját; A félreértések elkerülése végett,
+        a felhasználó tartsa be a biztonsági óvintézkedéseket, amikor a letöltést
+        a weboldalán vagy a kiküldött LINKS, és használatát a fájlokat, valamint a
+        szoftver. A TÁRSASÁG erősen ajánlott használni egyetlen engedélyezett szoftvert,
+        valamint a víruskereső szoftver; A Weboldal használatával, a felhasználó ELFOGADJA,
+        HOGY letöltések OLDAL VAGY melynek segítségével bármilyen tartalmat HIS /
+        saját kockázatára és kizárólagosan felelnek lehetséges eredményét felhasználási
+        területei információkat, beleértve a KÁR, hogy lehet okokat felhasználó számítógépén,
+        illetve harmadik FÉL, adatvesztést, vagy bármilyen más kárért; SEMMILYEN KÖRÜLMÉNYEK
+        KÖZÖTT A társaság vagy SZEREK felelősséget nem vállal A FELHASZNÁLÓ vagy bármely
+        harmadik félnek SEMMILYEN közvetett, véletlen ÉS UNWILFUL KÁR, beleértve az
+        elmaradt haszon, vagy elveszett adatok, kár, hogy becsület, a méltóság vagy
+        üzleti hírnév, SZÁRMAZIK USE A weboldal tartalmára vagy bármely más információt,
+        AZ ÖN VAGY MÁS SZEMÉLY kapott hozzáférési a weboldalon keresztül, még ha a
+        cég, figyelmeztetést vagy jelzi, hogy az KÁRESEMÉNYRE.
+      responsibilities_of_the_parties: 16. FELELŐSSÉGE a felek.
+      p_16: Ez a megállapodás létrejöttére és értelmezni jogszabályaival összhangban
+        az Orosz Föderáció. Kérdések, amelyek nem rendezik a megállapodás által kell
+        rendezni jogszabályaival összhangban az Orosz Föderáció. Amennyiben bármilyen
+        vita vagy viták végrehajtásával kapcsolatos, e szabályzatban, a felhasználó
+        és a társaság mindent megtesz, hogy megoldja őket tárgyalások útján. Amennyiben
+        a vitás nem oldódott meg a tárgyalások, viták kell rendezni, összhangban az
+        alkalmazandó jogszabályokkal az Orosz Föderáció. Ez a megállapodás végre orosz
+        nyelv és lehet adni a felhasználói felülvizsgálatra egy másik nyelven. Eltérés
+        esetén a változat a rendeletek orosz nyelv és verzió egy másik nyelven, a
+        változat orosz nyelven a rendelet rendelkezéseinek kell alkalmazni. Ha az
+        egyik vagy másik ok miatt, egy vagy több e rendeletek rendelkezései érvénytelenné
+        válik, vagy elévül, ez nem befolyásolja az érvényességét vagy végrehajthatóságát
+        a fennmaradó rendelkezések.
+      other_provisions_and_changes: 17. EGYÉB RENDELKEZÉSEK és változásokat.
+      p_17: Ez a megállapodás az igazi megállapodást Ön és Flutylove kapcsolatos segítségével
+        a weboldal és / vagy a Szolgáltatás. Ha bármely rendelkezése a megállapodás
+        üregek, a többi a megállapodás továbbra is az érvényesség teljes hatása. E
+        megállapodás alapján módosítható Flutylove bármikor. Kérjük, ne habozzon kapcsolatba
+        lépni velünk bármilyen kérdése ezt a megállapodást.
+      read_this: ELOLVASTAM EZT Szerződést és elfogadod annak valamennyi szabályát.
+    about:
+      about_flutylove: A Flutylove
+      about_flutylove_text: Flutylove a nemzetközi szociális szórakoztató hálózat
+        datings. Itt megtalálja a barátok, a lélektársi, partnerekkel vagy csak tölteni
+        az idejét élvezik a játékot, vagy videók / fényképek.
+      flutylove_features: 'Ha regisztrál a honlapunkon, akkor megtudja, számos olyan
+        funkciót tartalmaz, mint például:'
+      video_call_feature: Beszélgethet partner webkamera
+      extended_search: használhatja keresôrendszereivel ingyen
+      multilanguages: kereshetünk más országokból származó partnerekkel, mert a szolgáltatás
+        várhatóan használni a széles körű emberek más országokban, mivel azt lefordították
+        több mint 70 nyelven
+      play_games_chatting_etc: lehet beszélgetni másokkal, játszani, és nem egy másik
+        társadalmi töm
+      we_are_in_social_networks: 'vagyunk a társadalmi hálózatok:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Az általunk használt magas technológiák
+        és nyílt forráskódú könyvtárakat. Igyekszünk mindig jobb és javítsa a szolgáltatás.
+      partners_and_investors: nyitottak vagyunk a partneri és szeretnénk megtalálni
+        a befektetők. Ha szeretne együttműködni velünk, kérjük, írjon nekünk partnership@flutylove.com
+    faq:
+      faq: GYIK
+      what_is_flutylove: Mi Flutylove?
+      about_flutylove: Flutylove a nemzetközi szociális szórakoztató hálózat datings.
+        Itt megtalálja a barátok, a lélektársi, partnerekkel vagy csak tölteni az
+        idejét élvezik a játékot, vagy videók / fényképek.
+      what_features_has_flutylove: Mit tartalmaz olyan Flutylove?
+      flutylove_features: Itt lehet beszélgetni videocams, a kiterjesztett keresés,
+        keresés más országokból származó partnerekkel, játszani, és nem más társadalmi
+        töm.
+      i_have_some_requests: Van néhány kérést
+      you_can_write_request: Akkor iratkozzon fel és írd
+      here: itt
+      i_have_seen_some_typo_or_wrong_translation: Láttam már néhány elgépelés vagy
+        rossz fordítás
+      you_can_send_pull_request_to_our: küldhet Pull kérés a mi
+      github_repository: GitHub repository
+      i_have_seen_some_error: Láttam néhány hibát
+      you_can_send: Akkor küldje el nekünk visszajelzést
+      feedback: ezt az űrlapot
+      to_us_or_write_to_our_info_mail: vagy írjon e-mailt a support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Üdvözöljük Flutylove
+      you_have_successfully_signed_up_to_flutylove: Sikeresen feliratkozott Flutylove
+      you_can_sign_in_with_your_social_networks: Ha szeretne bejelentkezni, újra lehet
+        bejelentkezni a közösségi hálózatba
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Ha
+        szeretne bejelentkezni, az e-mail és jelszó segítségével megváltoztathatja
+        jelszavát jel, és kattintson az alábbi linkre
+      change_password: A jelszó megváltoztatása
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: hibás
+            search_for:
+              search_for_error: hibás
+            birth_date:
+              birth_date_error: kell legyen nagyobb, mint 18 és kevesebb, mint 115
+            interests:
+              interests_error: kell lehet kevesebb, mint a 2000 szimbólumot
+            jobs:
+              jobs_error: kell lehet kevesebb, mint a 2000 szimbólumot
+            languages:
+              languages_error: kell lehet kevesebb, mint a 2000 szimbólumot
+            sex_keywords:
+              sex_keywords_error: kell lehet kevesebb, mint a 2000 szimbólumot
+            my_turn_ons:
+              my_turn_ons_error_error: hibás
+            contacts:
+              contacts_length_error: kell lehet kevesebb, mint a 2000 szimbólumot
+              contacts_size_error: kell lehet kevesebb, mint 21 Kapcsolatok
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: érvénytelen érték
+  devise:
+    confirmations:
+      confirmed: Fiókja sikeresen megerősítette.
+      send_instructions: kap egy e-mailt arról, hogy miként kell erősítenie a fiók
+        néhány perc alatt.
+      send_paranoid_instructions: Ha az e-mail cím létezik az adatbázisban, akkor
+        kap egy e-mailt arról, hogy miként kell erősítenie a fiók néhány perc alatt.
+      new:
+        send_mail_for_confirm_your_email: E-mail küldése az e-mail megerősítés
+        submit: elküldése
+    failure:
+      already_authenticated: Ön már bejelentkezett.
+      inactive: Fiókja még nincs aktiválva.
+      invalid: Rossz email cím vagy jelszó.
+      locked: Ön számlája zárolva van.
+      last_attempt: Van még egy kísérletet, mielőtt a fiók lesz zárva.
+      not_found_in_database: Rossz email cím vagy jelszó.
+      timeout: A munkamenet lejárt. Kérjük, jelentkezzen be ismét a folytatáshoz.
+      unauthenticated: be kell jelentkeznie, vagy regisztráljon a folytatás előtt.
+      unconfirmed: Meg kell erősítenie a fiók a folytatás előtt.
+    mailer:
+      confirmation_instructions:
+        subject: megerősítése utasítások
+        welcome_to_flutylove: Üdvözöljük Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: lehet megerősíteni
+          az e-mail útján az alábbi linkre
+        confirm_my_account: megerősítenek email
+      reset_password_instructions:
+        hello: szia
+        subject: Jelszó visszaállítása utasítások
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Valakinek
+          kérések egy linket, hogy változtassa meg a jelszavát. Ezt megteheti az alábbi
+          linkre.
+        change_my_password: Jelszó módosítása
+        if_you_didnt_request_this_please_ignore_this_email: Ha nem kérte ezt hagyja
+          figyelmen kívül ezt a levelet.
+      unlock_instructions:
+        subject: Unlock utasítások
+    omniauth_callbacks:
+      failure: Nem sikerült hitelesíteni Önt% {fajta} mert "% {ok}".
+      success: sikeresen azonosította a következőtől:% {fajta} venni.
+    passwords:
+      no_token: Nem lehet elérni ezt az oldalt nélkül érkező jelszó-visszaállító e.
+        Ha jön egy jelszó-visszaállító e, kérjük, győződjön meg róla, használta a
+        teljes URL-jét.
+      send_instructions: kap egy e-mailt arról, hogyan kell állítani a jelszavát,
+        néhány perc alatt.
+      send_paranoid_instructions: Ha az e-mail cím létezik az adatbázisban, akkor
+        kap egy jelszót helyreállító linket e-mail címét, néhány perc alatt.
+      updated: A jelszó megváltoztatásáról. Most már bejelentkezett.
+      updated_not_active: A jelszó megváltoztatásáról.
+      new:
+        forgot_your_password: Jelszó visszaállítása
+        reset_password: küldése vissza url
+      edit:
+        change_your_password: jelszó módosítása
+        new_password: Új jelszó
+        confirm_password: Jelszó megerősítése
+        change_password: Change
+    registrations:
+      destroyed: Bye! Az Ön fiókja sikeresen törölték. Reméljük, hogy hamarosan újra
+        találkozunk.
+      signed_up: Welcome! Ön már feliratkozott sikeresen.
+      signed_up_but_inactive: Ön feliratkozott sikeresen. Azonban nem tudtunk bejelentkezteti
+        mert fiókja még nincs aktiválva.
+      signed_up_but_locked: Ön feliratkozott sikeresen. Azonban nem tudtunk bejelentkezteti
+        mert fiókja le van zárva.
+      signed_up_but_unconfirmed: Egy üzenet egy megerősítő linket elküldtük az e-mail
+        címre. Kérjük, nyissa meg a linket, hogy aktiválja fiókját.
+      update_needs_confirmation: Te módosította fiókja sikeresen, de szükségünk van,
+        hogy ellenőrizze az új e-mail címet. Kérjük, ellenőrizze az e-mail és kattintson
+        a megerősítés linkre, hogy véglegesítse megerősíti az új e-mail címet.
+      updated: Frissítetted fiókja sikeresen.
+      new:
+        sign_up: Regisztráció
+        name: neve
+        password: jelszó
+        password_confirmation: jelszó megerősítése
+        register: Regisztráció
+    shared:
+      links:
+        sign_in: Bejelentkezés
+        sign_up: Regisztráció
+        didnt_receive_confirmation_instructions: Nem kapta megerősítő utasítást?
+        sign_in_with: Jelentkezzen be
+        fast_login_almost_one_click: Gyors bejelentkezés (Majdnem egy kattintással)
+    sessions:
+      signed_in: Aláírták sikeresen.
+      signed_out: Aláírt sikeresen végre.
+      new:
+        sign_in: Bejelentkezés
+        password: jelszó
+        remember_me: Emlékezz rám
+        forgot_your_password: Elfelejtette a jelszavát?
+    unlocks:
+      send_instructions: kap egy e-mailt arról, hogy miként oldja a fiók néhány perc
+        alatt.
+      send_paranoid_instructions: Ha fiókja van, akkor kap egy e-mailt arról, hogy
+        miként oldja meg néhány perc alatt.
+      unlocked: Fiókja kinyitása sikeresen. Kérjük, jelentkezzen be a folytatáshoz.
+  timezones:
+    American Samoa: Amerikai Szamoa
+    International Date Line West: International Date Vonal West
+    Midway Island: Midway Island
+    Hawaii: Hawaii
+    Alaska: Alaszka
+    Pacific Time (US & Canada): Csendes-óceáni idő (USA és Kanada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain Time (USA és Kanada)
+    Central America: Közép-Amerika
+    Central Time (US & Canada): Central Time (USA és Kanada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Eastern Time (USA és Kanada)
+    Indiana (East): Indiana (East)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlanti idő (Kanada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Greenland
+    Montevideo: Montevideo
+    Mid-Atlantic: közép-atlanti
+    Azores: szigetek
+    Cape Verde Is: Cape Verde.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lisszabon
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrád
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Brüsszel
+    Budapest: Budapest
+    Copenhagen: Koppenhága
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Párizs
+    Prague: Prága
+    Rome: Róma
+    Sarajevo: Szarajevó
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Bécs
+    Warsaw: Varsó
+    West Central Africa: West Central Africa
+    Zagreb: Zagreb
+    Athens: Athén
+    Bucharest: Bucharest
+    Cairo: Cairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Isztambul
+    Jerusalem: Jeruzsálem
+    Kaliningrad: Kalinyingrád
+    Kyiv: Kijev
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Bagdadban
+    Kuwait: Kuvait
+    Minsk: Minsk
+    Moscow: Moszkva
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: St. Petersburg
+    Volgograd: Volgograd
+    Tehran: Teherán
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Jereván
+    Kabul: Kabul
+    Ekaterinburg: Jekatyerinburg
+    Islamabad: Iszlámábád
+    Karachi: Karachi
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasznojarszk
+    Beijing: Peking
+    Chongqing: Chongqing
+    Hong Kong: Hongkong
+    Irkutsk: Irkutszk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapore
+    Taipei: Taipei
+    Ulaanbaatar: Ulánbátor
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Szöul
+    Tokyo: Tokyo
+    Yakutsk: Jakutszki
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vlagyivosztok
+    Magadan: Magadan
+    New Caledonia: Új-Kaledónia
+    Solomon Is: Solomon.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fiji
+    Kamchatka: Kamcsatka
+    Marshall Is: Marshall Is.
+    Wellington: Wellington
+    Chatham Is: Chatham Is.
+    Nuku'alofa: Nukualofa
+    Samoa: Szamoa
+    Tokelau Is: Tokelau Is.
+  hu: hu
+  hu_iso: hu

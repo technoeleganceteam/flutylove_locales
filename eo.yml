@@ -1,0 +1,1713 @@
+---
+eo:
+  1_we_have_just_launched_our_service_title: Ni ĵus lanĉis nian servon!
+  common_keywords: dataciones, enreta dataciones, amo dataciones, Webcam datiĝas,
+    rapido datiĝas, webcam konversacio datiĝas, Ruby on Rails datiĝanta retejon, Multalingva
+    datado ejo
+  common_description: La plej altnivelaj internaciaj sociaj entretenimiento reto por
+    dataciones "Flutylove"
+  default_album: Defaŭlta albumo
+  user: Uzanto
+  user_to_search_connection: Serĉu
+  video: Video
+  note: Noto
+  photo_album: Fotoalbumo
+  from: El
+  to: Por
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Masklo
+  - female:
+      name: Female
+  - transgender:
+      name: transgénero
+  - male-female:
+      name: Male-Female
+  - double-female:
+      name: Duobla ino
+  - double-male:
+      name: Duobla masklo
+  orientation:
+  - heterosexual: malgeja
+  - homosexual: Geja
+  - bisexual: Ambaŭseksema
+  search_for:
+  - chatting: Babilante
+  - get_friends: Get amikojn
+  - flirtation: flirtas
+  - marriage: Geedziĝo
+  - other: Aliaj
+  body_type:
+    slim: Slim
+    normal: Normala
+    athletic: Atleta
+    chubby: Chubby
+  relationship:
+    single: Sola
+    in_a_relationship: En rilato
+    married: Edziĝinta
+    nothing_serious: Nenio serioza
+  children:
+    dont_have: Ne havas
+    dont_have_and_dont_want_to: Ne havas kaj ne volas
+    don_t_have_but_planning: Ne havas sed planado
+    have_enough: Havu
+    have_and_planning_more: Havu kaj planas pli
+    unable_to_have_children: Nekapabla havi infanojn
+  living:
+    with_parents: Kun gepatroj
+    with_marriage_partner: Kun geedzeco partnero
+    alone: Alone
+    with_friends: Kun amiko (j)
+  education:
+    nothing: Nenio
+    secondary_school: Malĉefa lernejo
+    college_technical_college: Kolegio / Teknika kolegio
+    university: Universitato
+    postgraduate: Postgrado
+    phd_md_post_doctorate: PhD / MD / Afiŝu doctorado
+  hair_color:
+    blonde: Blonde
+    dark_blond: Malhela blonda
+    brown: Bruna
+    black: Nigra
+    red: Ruĝa
+    gray: Gray
+    other: Aliaj
+  income:
+    unemployed: Senlaborulo
+    unstable_earnings: Rapidema enspezarojn
+    small_stable_earnings: Malgrandaj stabilaj enspezoj
+    medium_stable_earnings: Meza stabilaj enspezoj
+    higher_than_average_income: Higher ol duonan enspezon
+    high_income: Alta enspezoj
+  smoking:
+    not_smoke: Ne fumado
+    not_smoke_and_detest: Ne fumas kaj abomenas fumado
+    smoke_in_a_social_setting: Iam en socia fikso
+    smoke_only_after_drinking: Fumo nur trinkinte
+    smoke_occasionally: Fumo foje
+    smoke_often: Fumo ofte
+  alcohol:
+    not_drinking: Ne trinkante
+    drink_occalionally: Trinku foje
+    drink_in_a_social_setting: Trinku en socia fikso
+    drink_often: Trinku ofte
+  drugs:
+    dont_use: Ne uzu
+    contra_drugs: Contra drogoj
+    tried_out_some: Provita kelkajn
+    light_drugs_occasionally: Lumo drogoj foje
+    regular: Regula
+  sponsor:
+    i_want_to_find_a_sponsor: Mi volas trovi mecenaton
+    willing_to_become_a_sponsor: Willing fariĝi sponsoro
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Ne serĉas sponsoron kaj
+      ne volante fariĝi unu
+  category_name:
+    strategy: Strategio
+    rpg: RPG
+    3d_shooters: 3D pafistoj
+    racing: Racing
+    arcade: Arcade
+    economic: Ekonomia
+    simulators: Simuliloj
+    logic: Logiko
+    adventure: Aventuro
+    board_games: Estraro ludoj
+    gambling: Gambling
+    news: Novaĵoj
+    communication: Konekto
+    multimedia: Multimedia
+    drawing: Desegno
+    educational: Edukaj
+    e_commerce: E-Komerco
+    other: Aliaj
+  shared:
+    header:
+      people: Homoj
+      chat: Babilejo
+      groups: Grupoj
+      forum: Forumo
+      requests: Petoj
+      about: Pri projekto
+      help: Helpo
+      user_applications: Aplikoj
+    liked_users:
+      liked: Ŝatis
+      all: Ĉiuj
+      you_have_not_liked_any_users_yet: Vi ne ŝatis ajnan uzantoj ankoraŭ
+    most_liked_users:
+      most_liked_users: Populara uzantoj
+    installed_user_applications:
+      installed_applications: Instalita aplikojn
+      all: Ĉiuj
+      you_have_not_installed_any_apps_yet: Vi ne instalis neniun aplikoj ankoraŭ
+    user_applications:
+      uploaded_apps: Alŝutitaj aplikoj
+      all: Ĉiuj
+      you_have_not_uploaded_any_apps_yet: Vi ne alŝutita ajna aplikoj ankoraŭ
+    right_sidebar:
+      news: Novaĵoj
+      all: Ĉiuj
+      read_more: Legu pli
+    footer:
+      footer_text: Internacia socia distro reto por dataciones "Flutylove"
+      privacy: Privateco
+      terms: Kondiĉoj
+      feedback: rimarkojn
+      abuse: ofendon
+    languages_select_modal:
+      available_languages: Disponeblaj lingvoj
+    site_map_modal:
+      site_map: Paĝarmapo
+      faq: Demandoj
+      about: Pri
+      static_pages: Statikaj paĝoj
+      common_pages: Oftaj paĝoj
+      user_pages: Uzanto paĝoj
+      terms: Kondiĉoj
+      privacy: Privateco
+      people: Homoj
+      user_applications: Aplikoj
+      user_requests: Petoj
+      news: Novaĵoj
+      feedback: rimarkojn
+      abuse: ofendon
+      chats: Babilejoj
+      videos: Videoj
+      photo_albums: Fotoalbumoj
+      notes: Notoj
+    pagination_link:
+      next_page: Sekva paĝo
+    user_edit_menu:
+      content: Enhavo
+      profile: Profilo
+      site_settings: retejo fiksojn
+      privacy: Privateco
+      services: Servoj
+    activities_navigation:
+      all: Ĉiuj
+      photos: Fotoj
+      photo_albums: Fotoalbumoj
+      notes: Notoj
+      videos: Videoj
+    notifications_navigation:
+      all: Ĉiuj
+      likes: likes
+      friend_requests: Amiko petoj
+      profile_views: Profilo vidpunktoj
+      photo_album_views: Fotoj vidpunktoj
+    user_to_friend_connections_navigation:
+      friends: Geamikoj
+      friends_online: Amikoj salutintaj
+      outcome_requests: Rezulto petoj
+      income_requests: Enspezoj petoj
+    user_applications_navigation:
+      all: Ĉiuj
+      new: Nova
+      popular: Populara
+      often_installed: Ofte instalita
+      manage: Administri
+    user_requests_navigation:
+      all: Ĉiuj
+      popular: Populara
+      my_requests: Mia petoj
+    user_navbar_menu:
+      sign_in: Ensaluti
+      sign_up: Registriĝi
+    email_signature:
+      info: Info
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: Elektu sekso
+      select_orientation: Elektu orientiĝo
+      select_search_for: Elektu serĉo
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Vi devas ensaluti antaŭ tiu ago
+      available_sign_in_methods: Vi
+    sign_up_methods:
+      usual_register_link: kutima registriĝo
+      register_text: Cetere% {usual_registration} vi povas registriĝi per plej popularaj
+        servoj kaj sociaj retoj
+    bootstrap_gallery:
+      previous: Antaŭa
+      next: Sekva
+    user_notification_title:
+      you_liked: Vi ŝatis per
+      wrote_message_to_you: Wrote mesaĝon al vi
+      viewed_your_profile: Viewed vian profilon
+      liked_your_photo: Ŝatis via foto
+      liked_your_note: Ŝatis vian noton
+      liked_your_request: Ŝatis vian peton
+      liked_your_video: Ŝatis via video
+      liked_your_application: Ŝatis via aplikaĵo
+      requested_a_friendship: Petitaj amikeco
+  authentications:
+    authentication:
+      turn_on: Turnu on
+      turn_off: Elŝalti
+      turned_on: ŝaltis
+      turned_off: malŝaltita
+    index:
+      enabled_services: Enabled servoj
+  users:
+    profile:
+      submit: Konservi
+      name: Nomo
+      meet_with: Renkontu kun
+      gender: Sekso
+      type_in_your_location: Tajpu vian urbon
+      about_me: Kelkaj vortoj pri vi mem (krom formi sube)
+      sex_keywords: Interesoj en sex
+      enter_your_name: Entajpu vian nomon
+      more_options: Pli
+      orientation: Orientiĝo
+      birth_date: Naskiĝtago
+      location: Loko
+      search_for: Serĉi
+      intimacy: intimeco
+      in_age: En aĝo
+      from: el
+      to: al
+      interests: Interesoj
+      height: Alteco
+      weight: Pezo
+      body_type: Korpo tipo
+      hair_color: Haro koloro
+      relationship: Rilato
+      children: Infanoj
+      living: Vivanta
+      education: Edukado
+      jobs: Ijob
+      income: Enspezoj
+      languages: Lingvoj
+      smoking: Fumado
+      alcohol: Alkoholo
+      drugs: Drogoj
+      contacts: Kontaktoj
+      contact_name: Kontakto nomon
+      contact_value: Kontakto valoro
+      save: Konservi
+      about_yourself: Pri mem
+    settings:
+      submit: Konservi
+      locale: Interfaco lingvo
+      change_password: Ŝanĝi pasvorton
+      interface_language: Interfaco lingvo
+      time_zone: Horzono
+    dialog_modal:
+      send_message: Sendi mesaĝon
+    index:
+      users: Uzantoj
+      clear_search: Klara serĉo
+    dashboard:
+      hello: Saluton
+      here_some_of_your_statistics: Jen kelkaj el viaj statistikoj
+      chats: Babilejoj
+      messages: Mesaĝoj
+      photos: Fotoj
+      videos: Videoj
+      notes: Notoj
+      photo_albums: Fotoalbumoj
+    avatar:
+      photo: Foto
+      uploading_file: Alŝutante dosiero
+      handling_file: Handling dosieron
+      drag_and_drop_your_file: Trenu kaj faligu dosieron
+      here: tie
+      or: aŭ
+      upload_file: alŝuta dosiero
+      from_other_sites: De aliaj lokoj
+      write_down_link_for_your_image: Skribi malsupren ligon de via bildo
+      url_for_image: Url por bildo
+      upload: Alŝuti
+      from_facebook: De Facebook
+      turn_on_facebook: Turnu on Facebook
+      you_can_upload_your_photos_from_facebook: Vi povas alŝuti viajn fotojn de Facebook
+      from_vkontakte: De Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Vi povas alŝuti viajn fotojn de Vkontakte
+      turn_on_vkontakte: Turnu on Vkontakte
+      from_instagram: De Instagram
+      you_can_upload_your_photos_from_instagram: Vi povas alŝuti viajn fotojn de Instagram
+      turn_on_instagram: Turnu on Instagram
+      from_dropbox: De Dropbox
+      you_can_upload_your_photos_from_dropbox: Vi povas alŝuti viajn fotojn de Dropbox
+      turn_on_dropbox: Turnu sur Dropbox
+      edit_photo: Redakti foto
+      delete_photo: Forigi foto
+      are_you_sure: Ĉu vi certas?
+    available_photos_modal:
+      available_photos: Havebla fotoj
+    update:
+      your_password_was_successfully_changed: Via pasvorto estis sukcese ŝanĝita
+      your_profile_was_successfully_updated: Via profilo estis sukcese ĝisdatigita
+    edit_photo:
+      edit_photo: Redakti foto
+      crop: Crop
+      close: Fermi
+      save_changes: Konservi ŝanĝojn
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: url / nick / identigilo / etc
+    user:
+      about_me: Pri mi
+      orientation: Orientiĝo
+      meet_with: Renkontu kun
+      desirable_age: Dezirinda aĝo
+      from: el
+      to: al
+      interests: Interesoj
+      height: Alteco
+      sm: sm
+      kg: kg
+      body_type: Korpo tipo
+      hair_color: Haro koloro
+      relationship: Rilato
+      children: Infanoj
+      living: Vivanta
+      education: Edukado
+      jobs: Jobs
+      income: Enspezoj
+      languages: Lingvoj
+      smoking: Fumado
+      alcohol: Alkoholo
+      drugs: Drogoj
+      contacts: Kontaktoj
+    user_info:
+      offline: Senkonekta
+      online: Online
+      age: Aĝo
+    loading_modal_images:
+      loading_images: Ŝarĝante bildoj
+    password_form:
+      new_password: Nova pasvorto
+      confirm_new_password: Konfirmu novan pasvorton
+      old_password: Malnova pasvorton
+      change_password: Ŝanĝi pasvorton
+    show:
+      photos: Fotoj
+      all: Ĉiuj
+      videos: Videoj
+      notes: Notoj
+      view: View
+    dropbox_token_form:
+      key: Ŝlosilo
+      paste_recieved_key: Alglui ricevita ŝlosilo
+      submit: Proponu
+    contents:
+      users_which_i_like: Uzantoj kiu mi ŝatas
+      all: Ĉiuj
+      my_videos_likes: Mia filmetoj similaĵoj
+      my_photos_likes: Mia fotoj similaĵoj
+      my_notes_likes: Mia notoj similaĵoj
+      my_user_applications_likes: Mia aplikoj ŝatas
+      my_user_requests_likes: Mia petoj similaĵoj
+    more_profile_info:
+      photo_albums: Fotoalbumoj
+      view_all_photo_albums: Rigardi ĉiujn fotoalbumojn
+      create_more: Krei pli
+      videos: Videoj
+      view_all_videos: Vidi ĉiujn filmetoj
+      notes: Notoj
+      view_all_notes: Vidi ĉiujn notojn
+      requirements_lists_to_partner: Postuloj listigas al partnero
+      requirement: Postulo
+      view_all_requirements_lists: Vidi ĉiujn postulojn listoj
+      profile_verification: Profilo konfirmo
+      your_profile_is_successfully_verified: Via profilo estas sukcese kontrolita
+      create: Krei
+      you_have_not_any_requirements_lists_yet: 'Vi ne havas postulojn: listo tamen'
+      you_have_not_any_notes_yet: Vi ne havas notojn ankoraŭ
+      you_have_not_any_photo_albums_yet: Vi ne havas fotoalbumojn ankoraŭ
+      you_have_not_any_videos_yet: Vi ne havas videos ankoraŭ
+      your_profile_is_not_verified_yet: Via profilo ne kontrolas ankoraŭ
+      verify_through_twitter: Kontroli tra Twitter
+      verify_through_facebook: Kontroli tra Facebook
+      verify_through_mail_ru: Kontroli tra Mail.ru
+    privacy:
+      privacy: Privateco
+  searches:
+    form:
+      location: Loko
+      from: el
+      to: al
+      age: Aĝo
+      gender: Sekso
+    form_content:
+      city: Urbo
+      gender: Sekso
+      age_from: Aĝo de
+      to: al
+      online: Online
+      verified: Konfirmita
+      has_avatar: Ĉu avataro
+      region: Regiono
+      more: Pli
+      country: Lando
+      about_me: Pri mi
+      interests: Interesoj
+      languages: Lingvoj
+      names: Nomoj
+      height: Alteco
+      from: el
+      weight: Pezo
+      body_type: Korpo tipo
+      relationship: Rilato
+      hair_color: Haro koloro
+      education: Edukado
+      orientation: Orientiĝo
+      search_for: Serĉi
+      children: Infanoj
+      living: Vivanta
+      smoking: Fumado
+      alcohol: Alkoholo
+      drugs: Drogoj
+      income: Enspezoj
+    show:
+      users: Uzantoj
+      clear_search: Klara serĉo
+  welcome:
+    index:
+      people: Homoj
+      requests: Petoj
+      user_applications: Aplikoj
+      about: Pri
+      features: Karakterizaĵoj
+      registration: Aliĝilo
+      sign_in: Ensaluti
+      welcome_main_title: Bonvenon Flutylove!
+      welcome_main_text: Tio estas la loko kie vi povas trovi vian perfekta amo
+      find_more: Trovu pli
+      about_title: Flutylove estas la internacia socia distro reto por dataciones
+      about_text: Estas multaj karakterizaĵoj kiuj vi povas uzi por distroj kaj dataciones!
+      find_more_features: Trovu pli karakterizaĵoj
+      at_our_service: Trajtoj de nia servo
+      many_languages: Multaj lingvoj
+      text_about_many_languages: Nia servo estas tradukita al pli de 70 lingvoj
+      check_it_out: Provu ĝin
+      videochats: Videochats
+      text_about_videochats: Vi povas babili kun via partnero kun videocams
+      try_it_now: Provu ĝin nun
+      search: Serĉu
+      text_about_search: Vi povas serĉi kun multnombraj parametroj kaj estas senpaga!
+      watch_this: Priatenti
+      more_features: Pli karakterizaj
+      text_about_more_features: Vi povas rigardi videojn, teatraĵo ludojn kaj fari
+        multajn aliajn aferojn!
+      register_and_learn_more: Registru kaj lerni pli
+      install_our_apps: Instali nian apps de la populara platformoj
+      register_header: Aliĝilo
+  feedbacks:
+    new:
+      feedback_title: rimarkojn
+    form:
+      feedback_name: Via nomo
+      feedback_email: Via retpoŝta
+      feedback_content: rimarkojn enhavo
+      close: Fermi
+      send: Sendu
+      feedback_recaptcha: Recaptcha
+      cancel: Nuligi
+    success:
+      success_feedback: Dankon! Ni ricevita vian retrosciigon.
+      close: Fermi
+      cancel: Nuligi
+      more: Sendu pli
+  abuses:
+    new:
+      abuse_title: ofendon
+    form:
+      abuse_name: Via nomo
+      abuse_email: Via retpoŝta
+      abuse_content: ofendon enhavo
+      abuse_title: ofendon
+      close: Fermi
+      send: Sendu
+      abuse_recaptcha: Recaptcha
+      abuse_link: Link
+      cancel: Nuligi
+    success:
+      success_abuse: Dankon! Ni ricevita via misuzo.
+      close: Fermi
+      cancel: Nuligi
+      more: Sendu pli
+  layouts:
+    welcome:
+      welcome_title: Bonvenon Flutylove! La plej progresinta datado ejo.
+  recaptcha:
+    errors:
+      verification_failed: Malsukcesaj recaptcha
+      recaptcha_unreachable: Recaptcha estas neatingebla
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Ni ĵus lanĉis nian servon!
+      we_have_just_launched_our_service_text: Hodiaŭ ĵeti nia servo por ĉiuj povas
+      sign_up: subskriboj
+      and_use_it: kaj uzi ĝin.
+      wishes_and_requests: Se vi havas dezirojn aŭ petojn, vi povas subskribi kaj
+        skribis tion
+      here: tie
+      with_love: Kun amo,
+      flutylove_team: Flutylove Teamo
+    index:
+      all_news: Ĉiuj novaĵoj
+      read_more: Legu pli
+  chats:
+    panel_head:
+      online: Online
+      offline: Senkonekta
+    pagination_link:
+      next_page: Sekva paĝo
+    form:
+      message_text: Mesaĝo teksto
+    form_additions:
+      submit: Proponu
+      videochat: Videochat
+    show:
+      messages: Mesaĝoj
+    index:
+      messages: Mesaĝoj
+    videochat_request_link:
+      connect_to_videochat: Konekti al videochat
+    modal_form:
+      send_message: Sendi mesaĝon
+      recipient: Ricevanto
+      message: Mesaĝo
+      close: Fermi
+      submit: Proponu
+    waiting_video_answer_button:
+      waiting_for_response: Atendante respondon ...
+    chat_created:
+      send_message: Sendi mesaĝon
+      message_was_sent: Mesaĝo sendita
+      close: Fermi
+  messages:
+    pagination_link:
+      next_page: Sekva paĝo
+    form:
+      message_text: Mesaĝo teksto
+  notifications:
+    user_to_friend_connection:
+      action: Ago
+    notification:
+      offline: Senkonekta
+      online: Online
+    like:
+      action: Ago
+    photo_album_view:
+      action: Ago
+    user_view:
+      action: Ago
+  user_applications:
+    user_application:
+      who_uploaded: Uploaded by
+      all_uploaded_applications_by: Ĉiuj alŝutita aplikoj de
+    form:
+      name: Nomo
+      user_application_name: Apliko nomo
+      description: priskribo
+      description_text: priskribo teksto
+      iframe_url: iframe url
+      icon_for_application: Apliko Ikono
+      upload_icon: Elŝuti piktogramon
+      public: Publika?
+      category_name: Kategorio
+      create: Krei
+      edit: Redakti
+    show:
+      application: Apliko
+      return_to_uploaded_applications: Por alŝutita apliko
+      edit_application: Redakti apliko
+      return_to_all_applications: Reveno al ĉiuj aplikoj
+    manage:
+      installed_applications: Instalita aplikojn
+      uploaded_applications: Alŝutitaj aplikoj
+      all: Ĉiuj
+    index:
+      applications_uploaded_by: Aplikoj suprenirita de
+      return_to_all_applications: Reveno al ĉiuj aplikoj
+      create_new: Krei novan
+      return_to_manage_applications: Reveno administri aplikoj
+    installed:
+      installed_applications: Instalita aplikojn
+      return_to_all_applications: Reveno al ĉiuj aplikoj
+      return_to_manage_applications: Reveno administri aplikoj
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Antaŭ vido ĉi tiu apliko vi
+        bezonos ensaluti unua
+    need_to_install:
+      need_to_install_first: Vi devas instali ĉi apliko unua
+      install_application: Instali apliko
+  likes:
+    index:
+      liked_items: Ŝatis erojn
+      return_to_my_content: Reveno al miaj enhavo
+  videos:
+    index:
+      videos: Videoj
+      return_to_edit_profile: Por redaktado profilon
+      create_new: Krei novan
+      return_to_profile: Reveno al profilo
+    video:
+      edit: Redakti
+      are_you_sure: Ĉu vi certas?
+      delete: Delete
+    modal_form:
+      create_new_video: Krei nova video
+      close: Fermi
+      create: Krei
+    form_content:
+      name: Nomo
+      video_name: Video nomon
+      source: Url de embed kodo
+      video_url_or_embed_code: Video url de video embed kodo
+    show:
+      video: Video
+      return_to_all_videos: Reveno al ĉiuj videos
+      edit_video: Redakti filmetoj
+    edit:
+      edit_video: Redakti filmetoj
+      return_to_view_video: Reveno al vido video
+      view_video: Vidi video
+    form:
+      edit: Redakti
+  photo_albums:
+    index:
+      photo_albums: Fotoalbumoj
+      return_to_editing_profile: Por redaktado profilon
+      create_new: Krei novan
+      return_to_profile: Reveno al profilo
+    photo_album:
+      edit: Redakti
+      create: Krei
+      are_you_sure: Ĉu vi certas?
+      delete: Delete
+    edit:
+      edit_photo_album: Redakti foto albumo
+      return_to_photo_albums: Por fotoalbumojn
+      view_photo_album: Vidi foto albumo
+    form_content:
+      name: Nomo
+      photo_album_name: Fotoalbumo nomon
+    form:
+      edit: Redakti
+      create: Krei
+    photo_album_uploader:
+      drag_and_drop_your_file: Trenu kaj faligu dosieron
+      here: tie
+      or: aŭ
+      upload_file: alŝuta dosiero
+      from_other_sites: De aliaj lokoj
+      write_down_link_for_your_image: Skribi malsupren ligon de via bildo
+      url_for_image: Url por bildo
+      upload: Alŝuti
+      from_facebook: De Facebook
+      turn_on_facebook: Turnu on Facebook
+      you_can_upload_your_photos_from_facebook: Vi povas alŝuti viajn fotojn de Facebook
+      from_vkontakte: De Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Vi povas alŝuti viajn fotojn de Vkontakte
+      turn_on_vkontakte: Turnu on Vkontakte
+      from_instagram: De Instagram
+      you_can_upload_your_photos_from_instagram: Vi povas alŝuti viajn fotojn de Instagram
+      turn_on_instagram: Turnu on Instagram
+      from_dropbox: De Dropbox
+      you_can_upload_your_photos_from_dropbox: Vi povas alŝuti viajn fotojn de Dropbox
+      turn_on_dropbox: Turnu sur Dropbox
+    show:
+      photo_album: Fotoalbumo
+      return_to_photo_albums: Por fotoalbumojn
+      edit_photo_album: Redakti foto albumo
+    modal_form:
+      create_new_photo_album: Krei novan foto albumo
+      close: Fermi
+      create: Krei
+  user_requests:
+    form:
+      content: Enhavo
+      edit: Redakti
+      create: Krei
+  notes:
+    index:
+      notes: Notoj
+      return_to_edit_profile: Por redaktado profilon
+      create_new: Krei novan
+      return_to_profile: Reveno al profilo
+    note:
+      edit: Redakti
+      are_you_sure: Ĉu vi certas?
+      delete: Delete
+    show:
+      note: Noto
+      return_to_notes: Reveno al notoj
+      edit_note: Redakti noton
+    form_content:
+      content: Enhavo
+      note_content: Noto enhavo
+      edit: Redakti
+      create: Krei
+    edit:
+      edit_note: Redakti noton
+      return_to_notes: Reveno al notoj
+      view_note: Vidi noton
+  user_to_search_connections:
+    index:
+      requirements_lists: Postuloj listoj
+      return_to_editing_profile: Por redaktado profilon
+      create_new: Krei novan
+    user_to_search_connection:
+      edit: Redakti
+      are_you_sure: Ĉu vi certas?
+      delete: Delete
+    edit:
+      edit_requirements_list: Redakti postuloj listoj
+      return_to_requirements_lists: Por postuloj listoj
+      view_requirements_list: Vidi postuloj listo
+    form_content:
+      name: Nomo
+      name_of_your_requirements_list: Nomo de viaj postuloj listo
+    form:
+      edit: Redakti
+    show:
+      requirements_list: Postuloj listo
+      return_to_requirements_lists: Por postuloj listoj
+      edit_requirements_list: Redakti postuloj listo
+  photos:
+    index:
+      photos: Fotoj
+      return_to_photo_albums: Reveno al fotoalbumojn
+      return_to_profile: Por profilo
+  errors:
+    messages:
+      already_confirmed: jam konfirmita, bonvolu provi subskribi en
+      confirmation_period_expired: bezonoj esti konfirmita ene% {periodo}, bonvolu
+        peti novan
+      expired: eksvalidiĝis, bonvolu peti novan
+      not_found: Ne trovita
+      not_locked: ne ŝlosita
+      not_saved:
+        one: 1 eraro malpermesita tiun% {rimedo} de esti savita;
+        other: "% {count} eraroj malpermesita tiun% {rimedo} de esti savita;"
+    bad_request:
+      bad_request: Malbona Peti
+      request_result: Peto rezulto
+      bad_request_description: La servilo ne povas aŭ ne volas procesi la peton pro
+        ŝajna kliento eraro
+      go_to_root: Iru al radiko
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable Entity
+      request_result: Peto rezulto
+      unprocessable_entity_description: La peto estis bone formitaj sed ne povis esti
+        sekvitaj pro semantika eraroj
+      go_to_root: Iru al radiko
+    not_found:
+      not_found: Ne Trovita
+      request_result: Peto rezulto
+      not_found_description: La petita rimedo ne estis sed povas esti havebla en la
+        estonteco
+      go_to_root: Iru al radiko
+    forbidden:
+      forbidden: Malpermesita
+      request_result: Peto rezulto
+      forbidden_description: La peto estis validan peton, sed la servilo rifuzas respondi
+        al ĝi
+      go_to_root: Iru al radiko
+    internal_server_error:
+      internal_server_error: Interna Servilo Eraro
+      request_result: Peto rezulto
+      internal_server_error_description: Io misokazis. Ni fiksos ĝin tiel frue kiel
+        eble.
+      go_to_root: Iru al radiko
+  pages:
+    privacy:
+      privacy: Flutylove Privateca Politiko
+      general_provisions: Ĝenerala provizoj
+      p_1_1: 1.1. Tiuj Regularoj estas oficiala dokumento de Limigita Respondeco Kompanio
+        "Technoelegance", lokita en 101000, Moskvo, Ulanskiy pereulok 13 stroeniye
+        4an pomeshcheniye 1 (de nun Flutylove, la kompanio, Ni), kaj determini proceduroj
+        de datumtraktado kaj informo sekureco de individuoj kiu atingis la aĝon de
+        18 jaroj, kaj kiu uzu retejo https://flutylove.com (de nun la TTT) kaj liaj
+        servoj (de nun la uzantoj).
+      p_1_2: 1.2. La celo de tiuj Regularoj estas certigi pro protekto de la uzanto
+        informo, Inkluzivanta personajn datumojn, de senpermesa aliro kaj malkaŝo.
+      p_1_3: 1.3. La rilatoj asociita kun kolekto, stokado, dissendo kaj sekureco
+        de afiŝinto uzanto informo estas regitaj de tiuj Regularoj, aliaj oficialaj
+        dokumentoj de la kompanio kaj la aktuala leĝaro de la Rusa Federacio.
+      p_1_4: 1.4. La aktuala versio de la Regularo, kiu estas publika dokumento, estas
+        disponebla por ajna uzanto de Interreto kiam sekvante la ligilon http://flutylove.com/pages/privacy.
+        La kompanio havas la rajton modifi tiujn Regularoj. En kazo la ŝanĝoj estas
+        faritaj al la Regularoj, la kompanio devas informi la uzantojn poŝtante la
+        nova versio de la Statuto de la TTT ĉe daŭran adreson http://flutylove.com/pages/privacy,
+        ne poste ol 10 tagoj antaŭ la efektiva dato de la ŝanĝoj. La antaŭaj versioj
+        de la Regularoj estas stokitaj en la dokumentado arĥivo de la Kompanio.
+      p_1_5: 1.5. Tiuj Regularoj estis evoluigita kaj estas uzataj laŭ la Interkonsento.
+        En kazo de ajna malobservo inter tiuj Regularoj kaj aliaj oficialaj dokumentoj
+        de la kompanio, ĉi tiuj Regularoj devas esti observigita.
+      p_1_6: 1.6. Uzante la TTT, vi konsentas al la terminoj kaj kondiĉoj de ĉi tiu
+        Privateca Politiko. Bonvolu legi ilin zorge. Se vi ne konsentas kun la kondiĉoj
+        de ĉi tiu Privateca Politiko, aŭ vi ne atingis la aĝon de 18 jaroj, vi ne
+        rajtas uzi la afiŝinto kaj lia Servoj. Uzante la TTT, sendistinge de ĉu vi
+        estas registrita uzanto de Flutylove aŭ ne, vi konfirmas ke vi plene akceptas
+        tiun Privateca Politiko, kaj konsentas sekvi lin.
+      the_website_using_conditions: La afiŝinto uzante kondiĉoj
+      p_2_1: '2.1. Uzi la TTT Flutylove, vi devas registriĝi. La jenaj informoj devus
+        esti precizigita dum la registriĝo: nomo, retadreso, sekso, la dato de naskiĝo,
+        situo informo. Uzanto povas disponigi kromajn personajn detalojn en lia /
+        ŝia propra volo. Uzanto povas redakti aŭ ĝisdatigi personan informon en ajna
+        momento. La kompanio havas rajton peti kromajn subtenanta dokumentojn en kazo
+        de ŝanĝo sekso kaj dato de naskiĝo de la Vikipediisto.'
+      p_2_2: '2.2. Permesante la aliro al la TTT kaj liaj servoj, la kompanio, agante
+        en racia maniero kaj en bona fido, ĝi konsideras ke la Uzanto: rimarkas ke
+        por registriĝo sur la TTT estas necese esti super 18 jaroj; havas ĉiujn necesajn
+        rajtojn por povi registri en ĉi Retpaĝo kaj uzi ĝin; indikas precizan informon
+        pri si mem / sin laŭ la petoj por la uzo de la Servoj de la TTT; estas konscia
+        ke persona informo sur la ejo, provizita de la uzanto, povas fariĝi havebla
+        por aliaj uzantoj de la Retejo kaj retumantoj ankaŭ, povas esti kopiita kaj
+        distribuita de la aliaj uzantoj; estas konscia ke kelkaj tipoj de informo,
+        kopiitaj al la aliaj uzantoj, ne sxanceligxas de la Uzanto; estas acquainted
+        kun tiuj Regularoj, konsentas kun ili kaj ĝi entreprenas la specifita rajtoj
+        kaj devoj.'
+      p_2_3: 2.3. La kompanio ne kontroli la precizecon de la ricevita (kolektis)
+        informoj pri la uzantoj, kun la escepto de kazoj kiam tia konfirmo estas necesa
+        por plenumi la firmao devontigoj al la uzanto.
+      information_processing_objectives: Informo procesante celojn
+      p_3_1: 3.1. La kompanio efektivigas la informo prilaborado pri uzantoj, Inkluzivanta
+        liajn personajn datumojn, por plenumi la firmao devontigoj al la uzantoj por
+        la uzo de la Retejo kaj liaj servoj.
+      p_3_2: 3.2 La kompanio havas rajton efektivigi prilaborado de personaj datumoj
+        sen sciiganta la kompetenta aŭtoritato por protekto de rajtoj de personaj
+        datumoj temoj.
+      structure_of_the_user_information: Strukturo de la uzanto informoj
+      p_4_1: '4.1. Personaj datumoj de la uzantoj inkludas:'
+      p_4_1_1: 4.1.1. nomo, retadreso, sekso, dato de naskiĝo, situo informoj, kaj
+        telefonnumero, kio estas provizita de la uzantoj kaj laŭsupoze nur sufiĉe
+        por la enskribo sur la TTT;
+      p_4_1_2: 4.1.2. la informo kiu estas provizita de la uzanto (ekzemple fotoj,
+        informoj pri malutila kutimoj ktp);
+      p_4_1_3: 4.1.3. aldone provizita de la uzanto laŭ la Kompanio peton por plenumi
+        la firmao devontigoj al la uzantoj, aperante de uzanto interkonsento. La kompanio
+        havas rajton, en aparta, por peti la Uzanto kopion de la identeco dokumento
+        aŭ ajna alia dokumentoj enhavantaj la nomon, sekso kaj dato de naskiĝo, tiel
+        kiel aliaj aldonan informon kiu, ĉe la firmao bontrovo, estos necesa kaj sufiĉa
+        por la identigo de tiaj Uzanto kaj forigus la misuzo kaj malobservo de rajtoj
+        de triaj.
+      p_4_2: '4.2. Alia uzanto informo procesita de la kompanio La afiŝinto Administrado
+        ankaŭ procesas aliaj informoj pri la uzantoj, kiuj inkludas:'
+      p_4_2_1: 4.2.1. komunaj datumoj, aŭtomate ricevita de http-servilo kiam aliranta
+        la afiŝinto kaj la posta agado de la Uzanto (IP-adreso de la gastiganto, tipo
+        de la uzanto mastruma sistemo, paĝoj de la TTT vizitita de la uzanto).
+      p_4_2_2: 4.2.2. informo kiu estas aŭtomate ricevis kiam aliranta la afiŝinto
+        uzante markiloj (kuketojn);
+      p_4_2_3: 4.2.3. informo kiu estas ricevita kiel rezulto de uzanto agoj sur la
+        TTT;
+      p_4_2_4: 4.2.4. informo kiu estas ricevita kiel rezulto de la agoj de aliaj
+        uzantoj en la TTT.
+      users_information_processing: Uzanto informo prilaborado
+      p_5_1: '5.1. Personaj datumoj prilaborado efektivigas surbaze de jenaj principoj:
+        a) legitima celoj kaj rimedoj de la prilaborado de personaj datumoj; b) honesteco;
+        c) la plenumo de persona datumtraktado celoj kun celoj antaŭdeterminita kaj
+        deklaris kiam kolektanta la personajn datumojn, same kiel la plenumo de la
+        credenciales de la kompanio; d) la plenumo de la volumo kaj la tipo de traktado
+        de personaj datumoj, kaj la plenumo de rimedoj el la prilaborado de personaj
+        datumoj kun la celoj de lia prilaborado; e) inadmissibility de kombinanta
+        la kreita datumbazojn por nekongrua celoj, enhavanta personajn datumojn.'
+      p_5_1_1: 5.1.1. La kolekto de personaj datumoj de la uzanto estas efektivigita
+        sur la afiŝinto kiam registro, same kiel en estonteco kiam la uzanto aldonas
+        pli informo pri si / sin uzante la afiŝinto ilojn sur lia / ŝia propra iniciato.
+      p_5_1_2: 5.1.2. Personaj datumoj de uzantoj estas konservataj ekskluzive en
+        elektronika formato kaj procesis uzante aŭtomatigitaj sistemoj, kun la escepto
+        de kazoj kie manlibro prilaborado de personaj datumoj estas necesa konsiderante
+        kunveno la leĝdonaj postuloj.
+      p_5_1_3: 5.1.3. Uzanto personaj datumoj ne estas transferidos al ajnaj triaj
+        partioj, krom en kazoj eksplicite provizita de tiuj Regularoj kaj la Interkonsento.
+        Kun la konsento de la uzanto, persona uzanto datumoj eblas transdonita al
+        tria counterparties de la kompanio sub la kondiĉo de supozo de obligacio certigi
+        la confidencialidad de ricevita informo, en aparta, uzinte servojn kaj aplikojn.
+        Uzanto personajn datumojn provizoj sur peto de registaraj aŭtoritatoj (magistratoj)
+        efektivigas en la proceduro kiel postulita de la leĝo.
+      p_5_1_4: '5.1.4. Persona uzanto datumoj estas forigitaj kiam: - datumoj estas
+        mem-forigita de la paĝo de la User; - Paĝo estas mem-forigita de la uzanto;
+        - La uzanto informoj kaj lia persona paĝo estas forigataj de la Kompanio.
+        En kazo de paĝo forigo de la Uzanto mem, la kompanio stokas la uzanto personajn
+        datumojn sur liaj elektronikaj amaskomunikiloj ene 210 tagoj post la persona
+        paĝo estas forigita. La personaj datumoj estas forigitaj al finiĝo de 210
+        tagoj post la persona paĝo estas forigita. Ĝis tiu periodo elspiras, la Vikipediisto
+        rajtas restarigi la personan paĝon.'
+      users_rights_and_obligations: Uzanto rajtoj kaj devoj
+      p_6_1: '6.1. Uzanto rajtas:'
+      p_6_1_1: 6.1.1. aliri la informojn pri li / ŝi, sen limigoj kaj libera de akuzo
+        redaktante lia persona paĝo en la TTT per la uzo de la identiĝi kaj pasvorton;
+      p_6_1_2: 6.1.2. sendepende fari ŝanĝojn kaj korektojn al la informo sur la uzanto
+        personan paĝon en la retejo, kondiĉe ke tiaj ŝanĝoj kaj korektoj enhavi ĝis-ĝis-dato
+        kaj vera informo;
+      p_6_1_3: 6.1.3. forigi la informojn de la persona paĝo en la retejo;
+      p_6_1_4: 6.1.4. peti la kompanio por akiri pli specifaj informoj, bloko aŭ forigi
+        la personajn datumojn, se tiaj datumoj estas nekompletaj, malmoderna, malpreciza,
+        kontraŭleĝe ricevis aŭ ne estas necesaj por la deklaritaj celo prilaborado
+        aŭ se la agoj specifita en paragrafo 6.1.3 de tiuj regularoj ne esti realigita
+        sendepende;
+      p_6_1_5: 6.1.5. surbaze de peto, ricevi la informojn de la kompanio koncerne
+        la prilaborado de lia / ŝia persona datumo.
+      p_6_2: '6.2. La jenaj informoj pri registritajn afiŝinto Uzanto ĉiam disponebla
+        por la registritaj Uzanto: uzanto nomo, sekso, aĝo, profilo foto kaj aliajn
+        informojn se la Vikipediista eldonis ĝin.'
+      p_6_3: 6.3. La kompanio portas neniun pasivon por la diskonigo de la uzanto
+        personajn datumojn de aliaj uzantoj de la afiŝinto kiuj Montrita tiaj datumoj.
+      p_6_4: 6.4. En kazo de personaj datumoj (alia uzanto informo) forigo de la uzanto
+        personan paĝon aŭ forigo de la uzanto personan paĝon de la ejo, la uzanto
+        informo kopiita de aliaj uzantoj aŭ stokitaj sur aliaj uzantoj 'paĝoj savigxis.
+      users_information_protection_measures: Uzantoj 'informo protekto mezuroj
+      p_7_1: 7.1. La kompanio prenas teknikaj, organizaj kaj juraj rimedoj por certigi
+        ke la uzanto personajn datumojn estas protektitaj kontraŭ senpermesa aŭ hazarda
+        aliro, forigoj, modifo, blokado, kopiado kaj disvastigado tiel kiel de aliaj
+        senpermesa agoj.
+      p_7_2: 7.2. La uzanto salutnomo (retadreso aŭ movebla nombro) kaj pasvorto estas
+        uzitaj por aliri la TTT. Uzanto respondecas por teni tiun informon confidencial.
+        Uzanto povas ne transdoni la salutnomo kaj pasvorto al triaj kaj ankaŭ devis
+        preni mezurojn por certigi lian konfidencon.
+      limitation_of_the_regulations_applicability: Limigo de la Regularoj aplikebleco
+      p_8: tiuj Regularoj ne etendis al la agoj kaj Interreto rimedoj de triaj. La
+        kompanio portas jam kompensdevo por la agoj de triaj kiu ricevis aliro al
+        la Uzanto informo tra la Interreto aŭ la afiŝinto Servoj. La afiŝinto Administrado
+        rekomendas la Uzantoj alproksimigi la temon kun la kvanto de informo eldonita
+        en la retejo en respondeca maniero.
+      user_requests: Uzanto petoj
+      p_9_1: '9.1. La uzantoj rajtas sendi petojn al la kompanio inkludas petojn pri
+        la uzo de la personaj datumoj en skribita formo en la jena adreso: Rusio,
+        101000, Moskvo, Ulanskiy pereulok 13 stroeniye 4an pomeshcheniye 1 aŭ en la
+        formo de elektronika dokumento subskribita per kvalifikita elektronika subskribo
+        laŭ la leĝaro de Rusia Federacio, la retpoŝto: support@flutylove.com.'
+      p_9_2: '9.2. La uzanto peto devas enhavi la sekvajn informojn: la nombro de
+        la identigo dokumento de la Uzanto aŭ lia reprezentanto; dato de eldono de
+        la supre dokumenton kaj la eldonada aŭtoritato; informo konfirmante la uzanto
+        partopreno en rilatoj kun la operatoro (en aparta, la ligilon al la paĝo);
+        subskribo de la Uzanto aŭ lia / ŝia reprezentanto.'
+      p_9_3: 9.3. La Kompanio entreprenas konsideri kaj respondi al la uzanto peto
+        ene 30 Tagoj post kiam ĝi estis ricevita.
+      p_9_4: 9.4. Ĉiuj korespondado ricevita de la Kompanio de la Uzantoj (skribita
+        aŭ elektronikaj petoj) estas klasifikita kiel limigita-aliro informoj kaj
+        ne estu malkaŝitaj sen la uzanto skribita konsento. La personaj datumoj kaj
+        aliaj informoj pri la Vikipediisto kiu sendis la peton ne estu uzata sen la
+        uzanto specialajn konsento, malsame ol por respondo al la peto aŭ en la kazoj
+        eksplicite provizita de aplikebla juro.
+    terms:
+      terms: Flutylove Interkonsento
+      welcome: Bonvenon Flutylove!
+      about_terms: 'tiuj kondiĉoj de uzo (same kiel la dokumentoj referitaj en tio,
+        inkluzive Privateca Politiko) estas la kontrakto de adhesión laŭ Artikolo
+        428 de la Civila Kodo de la Rusa Federacio (cxi referita al kiel la "Interkonsento")
+        inter la individuo kiu atingis 18 jarojn de aĝo (poste nomataj kiel la "Uzanto"
+        kaj la kompanio (aŭ "ni") - Limigita Respondeco Kompanio "Technoelegance"
+        (LLC "Technoelegance") (juraj adreso: 101000, Moskvo, Ulanskiy pereulok 13
+        stroeniye 4an pomeshcheniye 1), la sekvo nomataj Flutylove, laŭ kiu vi povas
+        uzi tiun retpaĝo kaj ĉiuj asociita servoj proponitaj tra la retejo aŭ apliko
+        (ĝenerale referita kiel "servoj"). la retejo estas komprenita por signifi
+        ajnan el liaj versioj, kombinitaj sub la domajnnomo flutylove.com kaj funkciigas
+        por diversaj aparatoj, inkluzivanta retajn versio, aplikoj móviles kaj la
+        aplikoj por sociaj retoj.Uzante tiu TTT vi konsentas al la terminoj de interkonsento
+        por detaloj. Bonvolu legi ilin zorge. Se vi ne konsentas kun la kondiĉoj de
+        interkonsento kaj Privateca Politiko, aŭ vi ne atingis la aĝon de 18 jaroj,
+        vi ne rajtas uzi la afiŝinto kaj lia Servoj.Uzante afiŝinto, sendepende ci
+        estas registrita uzanto de Flutylove aŭ ne, vi konsentas tute kun ĉi Interkonsento
+        kaj la Privateca Politiko, kiu estas inkludita en ĉi Interkonsento de la ligilo
+        kaj estas havebla sur la TTT, kaj plenumi ĝin.Sur uzanto peto, la kompanio
+        entreprenas subskribi tiun Interkonsenton en presita formo kaj sendi ĝin al
+        la individuo kiu petas la dokumentojn.La kompanio rezervas la rajton modifi
+        la Interkonsento pri Uzo kaj ajna dokumento nomis ĝin. Esti konscia de la
+        ŝanĝojn vi devas teni-supren-ĝis-dato la informo sur tiaj ŝanĝoj sur regula
+        bazo. Ni informos vin pri ŝanĝoj ni faris en tiu paĝo malsupre. Ŝanĝoj ne
+        rilatas reen kaj venos en efikon ene de dek tagoj de la dato de publikigado.
+        Tamen, en kazo ili estas rilataj al la efektivigo de novaj servoj aŭ la modifo
+        de la leĝo, ĝi estos tujaj. Se vi ne konsentas kun la ŝanĝoj en la Interkonsento,
+        vi devas ĉesi uzi la afiŝinto kaj liaj aplikoj.'
+      consent_to_accept_the_terms_of_user_agreement: 1. konsentos akcepti la terminojn
+        de USER INTERKONSENTO.
+      p_1: al. Elektronika Interkonsento. Tiu Interkonsento estas elektronika versio
+        de la kontrakto, kiu priskribas la kondiĉojn de uzo de la Retejo kaj la Servoj.
+        De ensalutanta al la retejo aŭ igi Uzanto, vi akceptas ĉi Interkonsento kaj
+        konsentas al ĉiuj liaj terminoj, kondiĉoj, kaj avizoj kiuj enhavis aŭ referencita
+        tie. Vi asertas kaj konsentas ke la uzantoj de Flutylove povas esti parto
+        de reta komunumo kiu inkludas aliajn retejoj apartenantaj al la kompanio aŭ
+        ties filioj. Sekve, la profiloj de la afiŝinto videblas sur aliaj similaj
+        retejoj kaj paganta abonantoj de unu retejo povas komuniki kun aliaj paganta
+        abonantoj de ĉiuj retejoj. b. Elektronika Formo. De ensalutanta al la retejo
+        aŭ igi Uzanto, vi konsentos provizi vin per la elektronika Interkonsento.
+        c. Presita formo. Vi rajtas ricevi la presita de tiu Interkonsento. Vi povas
+        peti presita eldono de ĉi Akordo antaŭ aŭ post ĝi estos subskribita en elektronika
+        formo. Bonvolu, kontaktu nian Klienta servo por pli informo. d. Aliro kaj
+        elŝutanta. Por aliri kaj elŝuti ĉi elektronika Interkonsento, Vi devas havi
+        aliron al la interreto aŭ rekte tra la mekanismoj kun la aliro al Web rimedoj.
+        Vi bezonas havi necesan teamon konekti interreton, nome la komputilo, modemo
+        aŭ alia aliro aparato. Bonvolu, presi kopion de tiu Interkonsento kaj gardu
+        gxin. Elŝuti la elektronika formo de la Akordo, konservu ĝin sur via komputilo
+        per la helpo de ajna tekstoredaktilo.
+      the_right_of_using_the_website: 2. LA RAJTO uzi la retejon.
+      p_2: Vi devas esti almenaŭ dek ok (18) jarojn por iĝi registrita uzanto de tiu
+        ejo. En kazo de ne-plenumo de la postuloj, Aliri al la afiŝinto estos neita.
+        Uzante la ejo, la uzanto devus esti konscia ke la persona informo eldonita
+        en la retejo povas esti disponeblaj por aliaj retumantoj, kaj la kompanio
+        ne porti respondecon por siaj agoj. Uzante tiu TTT vi asertas kaj entrepreni
+        ke vi rajtas, aŭtoritato kaj eblecon eniri en ĉi Interkonsento, kaj konsentas
+        sekvi ĉiujn liajn terminojn kaj kondiĉojn. Fariĝanta Uzanto vin aserti kaj
+        entrepreni ke vi neniam suferis konvinko por leĝrompo rilataj al seksa perforto.
+        La retejo estas desegnita por persona uzo nur. Estas malpermesite uzi la TTT
+        por komercaj celoj. Korporacia entoj ne estu la uzantoj de ĉi tiu ejo, krom
+        ne uzi tiun Servo aŭ la afiŝinto sur siaj celoj. Kontraŭleĝa kaj / aŭ neaŭtorizita
+        uzo de la ejo, inkluzive de kolektado salutnomoj kaj / aŭ retadresoj per helpo
+        de la elektronika aŭ aliaj iloj por la celo de sendado nedezirindaj mesaĝoj
+        kaj ligiloj estas persekutita kaj la kompanio povas fari taŭgajn agojn laŭ
+        leĝo inkluzivante apelacion al la policaj aŭtoritatoj.
+      pricing_and_registration: 3. Prezoj kaj registriĝo
+      p_3: Vi povos fariĝi la Uzanto de Flutylove sur propravolaj kaj senpage bazo
+        de registranta sur la TTT. Kiel la uzanto, vi povas uzi specifan gamon de
+        servoj kaj ŝancoj de la TTT. Uzanto de la afiŝinto estas individua registrita
+        sur la afiŝinto laŭ establita ordo kaj kiu atingis 18 jarojn de aĝo. Kiam
+        registranta sur la TTT la uzanto estas devontigitaj por disponigi necesajn
+        kaj rilatajn informojn por la Kompanio kompletigi la uzanta paĝo, inkludante
+        la salutnomo (retadreso aŭ telefonnumero) kaj pasvorton por la aliro al la
+        ejo, same kiel la nomo, kiun estas unika por ĉiu uzanto. La formularo por
+        enskribo povas peti kromajn informojn de la Vikipediisto. Uzanto respondecas
+        pri la valideco, aktualeco, kompleteco kaj plenumo de la Leĝo de la Rusa Federacio
+        de la informo provizita ĉe registriĝo kaj ĝia klareco de asertoj de triaj.
+        Kiam registranta la Uzanto konsentas kun tiu Interkonsento kaj entrepreni
+        specifita rajtoj kaj devoj, asociita kun la uzo kaj funkciado de la TTT. Uzanto
+        ricevas plenan aliron al la uzo de la afiŝinto funkcioj. La Kompanio entreprenas
+        rajtojn kaj devon la Uzanto, specifita en tiuj Regularoj, post la sukcesa
+        registriĝo de la Uzanto de la retejo La uzanto personaj datumoj prilaborado
+        estas farita laŭ la Leĝo de la Rusa Federacio. La afiŝinto Administrado procesas
+        Uzanto personajn datumojn por provizi la Uzanto per aliro al la uzado de afiŝinto
+        funkcioj, inkluzive de ricevado personecigita (laŭcelaj) anonco; konfirmo,
+        esploro kaj analizo de tiuj datumoj, permesante subteni kaj plibonigi la funkcioj
+        kaj sekcioj de la ejo, same kiel evoluigi novajn funkciojn kaj sekcioj. La
+        kompanio prenas ĉiujn necesajn agojn por protekti la personajn datumojn de
+        la Uzanto kontraŭ senpermesa aliro, modifo, malkaŝo aŭ viŝante. La entrepreno
+        donas aliron al la personaj datumoj de la uzanto nur al tiuj oficistoj, entreprenistoj
+        kaj agentoj de la kompanio, kiuj bezonas tiun informon por apogi la afiŝinto
+        funcionalidad kaj provizi la Uzanto per aliro al lia uzo. La Kompanio de la
+        afiŝinto havas rajton uzi la informo havigita de la uzanto, inkluzive personaj
+        datumoj, por certigi observon kun la postuloj de nuna leĝaro de la Rusa Federacio
+        (inkluzive de la preventado kaj / aŭ forigo de kontraŭleĝa kaj / aŭ kontraŭleĝa
+        agoj de la uzantoj). Malkaŝo de la informo provizita de la uzanto povas esti
+        farita nur laŭ la aktuala leĝaro de la Rusa Federacio al peto de la tribunalo,
+        policagentejoj, same kiel en aliaj kazoj kiel havigita de aplikebla leĝo de
+        la Rusa Federacio. Al la punkto kiu la Kompanio procesas la personajn datumojn
+        de la Uzanto de la ekzekuto de tiuj Regularoj, la Uzanto konsenton al la prilaborado
+        de personaj datumoj ne estas nepra en virto de provizoj de leĝo sur personaj
+        datumoj. La salutnomo kaj la pasvorto elektita de la Uzanto estas necesa kaj
+        sufiĉa informo por la Uzanto aliro al la ejo. Uzanto havas rajton doni lian
+        / ŝian identiĝi kaj pasvorton por la triaj, kaj estas absolute respondeca
+        por lia sekureco, elektante la vojo de stoki ilin sur sendependa bazo. Uzante
+        lia / ŝia aparataro kaj programaro Uzanto permesos la stokadon de la identiĝi
+        kaj pasvorton (tra kuketoj) por posta aŭtomata rajtigo sur la TTT. Ajna ago
+        prenita kun la uzo de Uzanto ensalutilojn estu rigardata faritaj de la uzanto,
+        se male pruvas la Vikipediisto. La uzanto estas devigata tuj informi la kompanio
+        laŭ la establita proceduro en kazo de senpermesa aliro al la salutnomon kaj
+        pasvorton kaj / aŭ la konto paĝon, aŭ malkaŝo de la salutnomo kaj pasvorto.
+        Post registriĝo Uzanto gajnas la rajton al krei, uzi, kaj determini la enhavon
+        de lia / ŝia propra persona jenaj propra intereso kaj nekomercaj celoj, tiel
+        kiel akiri la ŝancon aliri kaj afiŝi la informo sur la personaj paĝoj de aliaj
+        uzantoj . Uzanto kiel la posedanto de la informo eldonita en persona paĝo
+        estas konscia ke kun la escepto de la kazoj fiksitaj de tiuj Regularoj kaj
+        la aktuala leĝaro de la Rusa Federacio, la kompanio ne partoprenas en la disvolviĝo
+        kaj uzo de enhavo kaj ne kontrolas aliro al la uzanto paĝo de aliaj uzantoj.
+      terms_4: 4. terminojn.
+      p_4: Ĉi Akordo plene valida kaj efekto tiel longe kiel vi uzas la retejon. Vi
+        povas ĉesi esti la Uzanto de la TTT per forigo vian paĝon en ajna momento,
+        por ajna kialo, kontaktante retan Klienta Servo aŭ uzante la servo de la TTT.
+        La kompanio rezervas lian rajton forigi vian personan paĝon ĉe ajna tempo.
+        Ni ne devas sciigi vin antaŭ ol forigi la paĝon, se la kompanio havas la kialon
+        por kredi ke vi seksperfortis la terminojn de la interkonsento. Ni ne estas
+        devigitaj al malkaŝi la kialon de forviŝo de via konto; en iuj kazoj la malkaŝo
+        de tia informo povas esti malpermesita. Post la forigo de via paĝo, ĉiuj kondiĉoj
+        kiuj povas esti valida post la finaĵo de ĉi Akordo de ilia naturo estos valida
+        post tia finaĵo. Se vi forigas vian paĝon per la TTT ĉe via propra volo, ni
+        petas vin indiki la kialon de tia forigo.
+      account_security: 5. KONTO SEKURECO.
+      p_5: Vi estas respondeca por confidencialidad konservo de via uzantonomo kaj
+        pasvorto, kio estos metita ĉe la tempo de registriĝo. Ankaŭ, vi estas absolute
+        respondeca por ĉiuj agoj faritaj per via salutnomo kaj pasvorto. Vi konsentas
+        (al) tuj sciigi nin pri ajna senpermesa uzo de via salutnomo kaj pasvorto,
+        tiel kiel ajna alia sekureco malobservo, kaj (b) eliron el via konto fine
+        de ĉiu sesio. La afiŝinto ne respondecas pri ajna damaĝoj aŭ perdojn levitaj
+        pro ne-plenumo de ĉi provizo. Vi devus esti speciale cuidadosos kiam aliranta
+        vian konton per publika komputilo por ke senpermesa personoj povis spioni
+        aŭ registri vian pasvorton aŭ ajna alia persona informo. Vi ankaux konfirmos
+        kaj konsentas ke la interreto neniam tute privata kaj sekura. Vi komprenas
+        ke ajna mesaĝojn aŭ informojn vi afiŝi en la retejo povas esti legi aŭ uzebla
+        de aliaj uzantoj, eĉ se ekzistas speciala averto ke la informo estas kaŝita.
+      your_interaction_with_other_users_of_the_website: 6. VIA interago kun aliaj
+        uzantoj de la paĝaro.
+      p_6: al. Nur vi estas responsa POR VIAJ interago kun aliaj uzantoj. Vi devus
+        kompreni ke la firmao ne kontrolas liaj uzantoj de se HAVE A krimliston. La
+        firmao ankaŭ ne petas LA INFORMO PROKSIMUME THEa ANTAŬAJ de liaj uzantoj kaj
+        ne validigi ĈI INFORMO. LA ENTREPRENO neniam garantias pri USER konduto kaj
+        lia kongruo kun la fakta aŭ futuraj uzantoj. Samtempe LA ENTREPRENO rezervas
+        la rajton kontroli la uzantoj por krimliston AŬ efektivigi ALIAJ KONTROLO
+        iam uzante HAVEBLA PUBLIKA INFORMO. b. IN NO kazoj la entrepreno ne estas
+        respondeca por ajna damaĝoj ĈU ESTAS REKTA, nerekta, ĜENERALA AŬ havas specifan
+        NATURO, kompensan KAJ / AŬ incidental, AKIRITAJ de VI AŬ AJN ALIAJ individuoj
+        kiel rezulto de uzado de la paĝaro, INKLUZIVE, sed ne limigita al, fizika
+        vundo, streso kaj / aŭ aliaj damaĝoj, AKIRITAJ de VI kiel rezulto de KOMUNIKADO
+        AŬ kUNVENOJ KUN ALIAJ registritaj uzantoj de la retejo OR POPOLO, KIU VI trakti
+        en la retejo. Vi konsentas TAKE ĉiuj antaŭgardoj komunikante kun la aliaj
+        uzantoj, speciale en tiuj kazoj, kiam vi decidas, por ataki ilin REAL LIFE.
+        Estu avertita, KION LA ENTREPRENO NE DONU deklarita aŭ implicita GARANTIOJ
+        pri kongruo kun la uzantoj de la paĝaro. VI DEVUS NE DONI LA ​​FINANCA INFORMOJ
+        al aliaj uzantoj de la paĝaro (POR EKZEMPLO LA INFORMO PROKSIMUME VIA CREDIT
+        AŬ PLASTIC CARDS). c. La Servo povas traduki vian nomon aux la nomon de via
+        urbo al aliaj lingvoj; d. La servo ne respondecas pri la agoj listigitaj en
+        tiu artikolo. En kazo vi ne konsentas kun ili tute aŭ parte, BONVOLU TUJ Lasu
+        la retejon;
+      the_information_posted_by_you_on_flutylove: 7. LA INFORMO Poŝtita de VI SUR
+        FLUTYLOVE
+      p_7: al. Nur vi estas responsa por la informo ke vi eldonos aŭ pruvi (cxi "post")
+        per la Servoj aŭ transferir al aliaj uzantoj. Vi ne rajtas afiŝi en la Servo
+        aŭ transferir al aliaj uzantoj ajna informo sur kalumnia, malpreciza, misuzan,
+        vulgaran kaj agresema enhavo, la informo sur seksa enhavo, krom minaca aŭ
+        sekvanta informo, informoj de rasa diskriminacio naturo aŭ kontraŭleĝa informo,
+        aŭ ajna alia informo ke malobservu aŭ seksperforti la rajtojn de ajna alia
+        partio (inkludante, sen limigo, aŭtorrajtoj, rajtoj de privateco kaj publikeco).
+        Vi ne rajtas disponigi malpreciza, engañosa aŭ falsa informo al la kompanio
+        aŭ ajna alia Vikipediisto. Se la informo havigita de la kompanio Flutylove
+        aŭ alia Uzanto poste iĝas malpreciza, iluzia falsaj, vi devas tuj informi
+        la kompanio Flutylove de tia ŝanĝo. Vi submetas kaj meriti ke ĉiu informo
+        provizita dum registrado estas preciza kaj vera, kaj vi tuj ŝanĝos ajnan informon
+        kiu poste iĝas malpreciza, engañosa aŭ falsa. b. Vi agnoskas ke ni rezervas
+        la rajton, sed ne devas monitori la informo aŭ enhavo kiu estas kopiita al
+        la Servo aŭ afiŝis en publika aliro en la Servoj. Ni havas rajton forigi ajnan
+        tian informon aŭ enhavon sen klarigi ajnan kialoj kaj sciigo. c. Ĉiuj objektoj
+        montrita sur la ejo, inkluzive de dezajno elementoj, teksto, grafikaĵoj, ilustraĵoj,
+        filmetoj, skriptoj, programoj, muziko, sonoj kaj aliaj objektoj kaj ilian
+        bibliotekoj (cxi - Informoj), estas propraĵo de ekskluzivaj rajtoj de la kompanio,
+        la uzantoj de la afiŝinto kaj aliaj rajtoj posedantoj, ĉiuj rajtoj al tiuj
+        celoj estas protektitaj. d. Krom kiel establita laŭ tiu Interkonsento, tiel
+        kiel la aktuala leĝaro de Rusia Federacio, neniu informo povas esti kopiita
+        (reproduktita), procesita, distribuita, montrata en kadro, eldonita, elŝutita,
+        kopiitaj, vendita aŭ uzita alimaniere en tute aŭ pecoj sen antaŭa permeso
+        de la posedanto, krom se la rajtoj posedanto eksplicite esprimita lia consentimiento
+        al la libera uzo de la Informo de ajna individuo. e. Poŝtante la Informo sur
+        la TTT laŭleĝe apartenanta al la uzanto, la Uzanto disponigas aliron por aliaj
+        uzantoj por ne-ekskluzivan rajton uzi ĝin vidi, reprodukto (inkluzive kopiado)
+        kaj aliaj rajtoj nur por la celoj de persona nekomerca uzo, se kazoj kiam
+        tia uzo kaŭzas aŭ povas kaŭzi damaĝon al interesojn de la dekstra posedanto
+        protektitaj perleĝe. f. La uzo de la Informo de la uzanto, kiu aliro estis
+        gajnis nur por persona nekomerca uzo, estas permesita sur kondiĉo ke ĉiuj
+        signoj de aŭtoreco (kopirajtoj) aŭ aliaj avizoj de autoría restos, la nomo
+        de la aŭtoro kaj lia produkto restos sen ŝanĝo. g. La Uzanto ankaŭ provizas
+        la kompanio kun ne-ekskluzivan rajton uzi la informon eldonita en la Retejo
+        kaj kiu apartenas al li / ŝi laŭleĝe sen konsidero por certigi la funkciadon
+        de la retejo de la kompanio ene la funkciado de la arkitekturo kaj funkcio
+        de la afiŝinto. La ne-ekskluzivan rajton referita supre estas donita por la
+        enhavo lokigo sur la afiŝinto kaj kovras la teritorion de la landoj ĉiuj super
+        la mondo. La kompanio havas rajton transdoni la rajtoj menciitaj ĉi alineon
+        al triaj. Uzanto konsentas ke la kompanio havas rajton uzi la funkcia kaj
+        teknika ebloj de la Retejo, havigante la montrado de la enhavo dividi de la
+        uzanto, inkluzive de la celoj de montrado de anonco informo. hi. En kazo la
+        uzanto forigas la informojn de la ejo, ne-ekskluzivan rajton estos aŭtomate
+        nuligita, sed pro la teknikaj specifoj de la TTT la kompanio rezervas la rajton
+        konservi sekurkopiojn de la Informo en la postulatan tempon kaj kie postulita.
+        i. Krom la privata informo, la Vikipediisto ne rajtas alŝuti, aŭ malkaŝi en
+        malsama maniero (publikigante sur la TTT) la informon de aliaj retejoj, datumbazoj
+        kaj aliaj intelekta proprieto en la foresto de eksplicita esprimis konsenton
+        tiajn agojn de la aŭtorrajto posedanto. j. Krom se alie notiĝas en tiuj Regularoj,
+        ion en tiuj Regularoj ne povas konsideri kiel transporto de ekskluzivaj rajtoj
+        al la Informo. k. Ĉiu informo, kiujn vi presigas en via profilo de uzanto,
+        devas esti preciza, supren-ĝis-dato kaj kompleta. Uzanto absolute sola respondeca
+        por ajna Informo kiu estis alŝutita aŭ malkaŝitaj en malsama maniero (eldonita)
+        en la retejo aŭ per la helpo de la Vikipediisto. Uzanto ne rajtas alŝuti,
+        translokigi aŭ post la enhavo sur la ejo, se li / ŝi ne havas la taŭgajn rajtojn
+        preni tian agon, akirita aŭ delegis al li / ŝi laŭ leĝaro de la Rusa Federacio.
+        La Kompanio povas, sed ne devas, tralegi la afiŝinto ajna kontraŭleĝa Enhavo
+        kaj estas permesita forigi aŭ kopii (sen avizo) ajna enhavo aŭ uzantoj en
+        ĝia sola diskreteco, por ajna kialo aŭ sen kaŭzas, inkluzive sen limigo movi,
+        aŭ forigi informojn kiuj, laŭ individua opinio de la Kompanio malobservas
+        ĉi Akordo, la leĝaro de la Rusa Federacio kaj / aŭ povas seksperforti la rajtojn,
+        vundi aŭ endanĝerigi la sekurecon de aliaj uzantoj aŭ triaj. La afiŝinto enhavas
+        (aŭ eble enhavas) ligiloj al aliaj ejoj sur la interreto (retejoj de triaj)
+        same kiel artikoloj, fotoj, ilustraĵoj, grafiko, muziko, sono, video, informoj,
+        aplikoj, programaro kaj aliaj informoj apartenantaj al aŭ veni de triaj (tria
+        enhavo), kio estas la rezulto de intelekta aktiveco kaj estas protektita laŭ
+        la leĝaro de la Rusa Federacio. Tiuj triaj kaj liaj informoj ne estas kontrolitaj
+        de la Kompanio por la plenumo de tiu aŭ alia Postuloj (precizeco, tuteco,
+        honesteco, ktp). La kompanio ne respondecas pri ajna enhavo poŝtita sur la
+        triaj lokoj al kiuj la Uzanto gajnojn aliron tra la retejo aŭ tra la triaj
+        informoj, inkludante, sed ne limigitaj al ajna opinioj aŭ deklaroj esprimita
+        sur la triaj lokoj aŭ en sia Informo. La ligilon al ajna loko, produkto kaj
+        servo, neniu informo de komerca kaj nekomerca naturo enhavis sur ĉi afiŝinto
+        ne estas aprobo aŭ rekomendo por tiuj produktoj (servoj) de la kompanio. Se
+        la uzanto decidas forlasi la afiŝinto kaj iras al la retejoj de triaj aŭ uzi
+        aŭ instali triaj programaro, li / ŝi faras tion je sia propra risko kaj de
+        tiu momento ĉi tiuj Regularoj jam ne aplikas la Vikipediisto. Plia Uzanto
+        agoj estas gvidataj de la aplikebla reguloj kaj politikoj, inkluzive de la
+        negoco praktikoj de tiuj individuoj kies Informo li / ŝi tuj uzos.
+      forbidden_actions: 8. malpermesita agoj.
+      p_8: al. Estas malpermesite "prizorgi" aŭ ĝeni homon en alia maniero. b. Estas
+        malpermesite uzi robotojn, virusoj, aplikoj serĉi / ekstrakto retpaĝoj aŭ
+        aliaj manlibro aŭ aŭtomata aparatoj aŭ procezojn por ĉerpi, indekso, "spionado"
+        aŭ reprodukti en alimaniere aŭ ĉirkaŭiri la navigado strukturo kaj montrado
+        de la Servo aŭ ĝia enhavo . c. Estas malpermesite afiŝi, disdoni, aŭ reprodukti
+        everyway ajna copyrighted informo, varmarkoj aŭ aliaj informoj protektita
+        de kopirajto sen la antaŭa konsento de la kopirajto-posedanto. d. Estas malpermesite
+        forigi ajnan kopirajtoj, varmarkoj aŭ aliaj kopirajtaj avizoj enhavita en
+        la Servoj. e. Estas malpermesite interferir en aŭ interrompi la operacion
+        de Servo kaj la TTT, aŭ servoj kaj retoj konektita al la Servoj aŭ la ejo.
+        f. Estas malpermesite eldoni, retpoŝto aŭ kopio en malsama maniero ajna informo
+        kiu enhavas virusojn aŭ ajna alia komputilo kodo, dosierojn aŭ programojn
+        desegnita interrompi, detrui aŭ limigi la funkciaron de iu ajn komputa programaro,
+        aparataro, aŭ telekomunikiloj. g. Estas malpermesite falsi kapojn aŭ manipuli
+        la designación por la celo maskante la realan signifon de ajna informo dividita
+        per la Servoj. h. Estas malpermesite "forĝejo" aŭ "kopii" ajna parto de la
+        Servoj aŭ la TTT sen la antaŭa skriba permeso de Flutylove. Ankaŭ, vi povas
+        uzi ajnan meta etikedoj aŭ kodo, aŭ aliaj aparatoj enhavantaj ligojn al Flutylove,
+        la Servo aŭ la TTT por redirect ajna persono al alia loko por iu ajn celo.
+        i. Estas malpermesite modifi, adapti, subkoncesii, traduki, vendi, restrukturi,
+        deĉifri, decompile aŭ malmunti ajnan parton de la Servo aŭ la ejo, aŭ ajna
+        softvaro uzita sur la retejo aŭ por tio, same kiel instigas aliajn fari similajn
+        agojn . j. Estas malpermesite afiŝi ajnan informon kun pornográfico kaj /
+        aŭ erotika enhavo.
+      the_changes_in_the_service: 9. LA ŜANĜOJ EN LA SERVO.
+      p_9: Flutylove rezervas la rajton kiam ajn ŝanĝi aŭ malŝalti portempe aŭ definitive
+        la Servo (aŭ ajna ĝi estas parto) sen avizo. Vi konsentas ke Flutylove ne
+        respondecas al vi aŭ ajna triaj por ajna modifoj, provizora havebleco aŭ kompletaj
+        senaktivigi de la Servo.
+      ip_address_blocking: 10. IP blokante.
+      p_10: Por protekti la integrecon de la ejo, Flutylove rezervas la rajton kiam
+        ajn ĉe lia propra conveniencia bloki IP-adresojn de iuj uzantoj.
+      relations_between_users_online: 11. RILATOJ INTER uzuloj
+      p_11: Vi estas sola respondeca por via interagoj kun aliaj uzantoj de Flutylove.
+        Flutylove rezervas la rajton, sed ne la devon, monitori disputoj inter vi
+        kaj aliaj uzantoj.
+      security_and_communication: 12. SEKURECO KAJ KOMUNIKADO.
+      p_12: Uzante la afiŝinto kaj / aŭ la servo estas ankaŭ regita nia Privateca
+        Politiko. Kiam vi fariĝis Uzanto, vi konsentas kaj konsenton ricevi retpoŝtojn
+        de ni. Tiuj retpoŝtoj povas reprezenti la sciigoj pri operacioj aŭ aliaj sciigoj
+        asociitaj kun la Servo, kiel administra avizoj kaj oficialaj anoncoj pri ŝanĝoj,
+        aŭ retpoŝtojn enhavanta komercaj proponoj, varbaj materialoj, speciala proponojn
+        de ni, aŭ informo pri la agoj de aliaj uzantoj pri via uzantokonto. Bonvolu
+        legi nian Privateca Politiko scii pli pri tia sciigoj.
+      denial_of_responsibility: 13. neado de RESPONDECO.
+      p_13: al. Flutylove ne respondecas pri ajna malĝusta aŭ malpreciza informo eldonita
+        en la retejo aŭ estas asociitaj kun la Servo, uzantoj de la TTT aŭ ajna aparataro
+        aŭ programaro asociita kun nia servo aŭ estas uzata tie. Flutylove ne respondecas
+        pri la konduto, ambaŭ linio kaj ekstere, de ajna uzanto de la TTT. Flutylove
+        ne alpreni respondecojn por eraroj, preterlasoj, ĉesigoj, forigo, damaĝo aŭ
+        malfruo en operacio aŭ operacioj, konektoj linio fiasko, ŝtelo aŭ detruo,
+        senpermesa aliro aŭ ŝanĝanta de konekto de la uzanto. Flutylove ne respondecas
+        pri eventualaj problemoj aŭ teknika misfunkcio de ajna telefono retoj aŭ linioj,
+        komputilo rete sistemoj, serviloj aŭ provizantoj, komputilo teamo, programaro,
+        poŝto aŭ ludantoj fiasko en la konton, teknikaj problemoj aŭ kongesto en Interreto
+        aŭ en ajna afiŝinto aŭ lia ĉifro, inkluzive akcidentoj aŭ lezo al uzantoj
+        aŭ ajna triaj rilate al komputilo, aŭ kiel rezulto de partopreno en aŭ elŝuti
+        informojn ligitan al la reto kaj / aŭ la Servojn. Sub neniu cirkonstancoj
+        la Flutylove Kompaniaj aŭ ties filio, publikeco agentoj, fondintoj aŭ distribuo
+        partneroj rifuzas priresponda por ajna perdo aŭ difekto, Inkluzivanta persona
+        lezo aŭ morto, pro uzo de la retejo aŭ la servo, iu enhavo poŝtita sur la
+        TTT aux alian interagoj inter uzantoj de la TTT, ambaŭ linio kaj eksterreta.
+        La afiŝinto kaj la Servo estas disponigita sur AS IS bazo kaj Flutylove eksplicite
+        disclaims ajna garantioj aŭ taŭgeco por ia specifa celo, aŭ foresto de malobservo
+        de ies rajtoj. Flutylove povas garantii kaj ne promesas de ajna specifaj rezultoj
+        de la uzo de la afiŝinto kaj / aŭ la Servojn.
+      links: 14. LIGILOJ.
+      p_14: al. Flutylove ne respondecas pri ajna malĝusta aŭ malpreciza informo eldonita
+        en la retejo aŭ estas asociitaj kun la Servo, uzantoj de la TTT aŭ ajna aparataro
+        aŭ programaro asociita kun nia servo aŭ estas uzata tie. Flutylove ne respondecas
+        pri la konduto, ambaŭ linio kaj ekstere, de ajna uzanto de la TTT. Flutylove
+        ne alpreni respondecojn por eraroj, preterlasoj, ĉesigoj, forigo, damaĝo aŭ
+        malfruo en operacio aŭ operacioj, konektoj linio fiasko, ŝtelo aŭ detruo,
+        senpermesa aliro aŭ ŝanĝanta de konekto de la uzanto. Flutylove ne respondecas
+        pri eventualaj problemoj aŭ teknika misfunkcio de ajna telefono retoj aŭ linioj,
+        komputilo rete sistemoj, serviloj aŭ provizantoj, komputilo teamo, programaro,
+        poŝto aŭ ludantoj fiasko en la konton, teknikaj problemoj aŭ kongesto en Interreto
+        aŭ en ajna afiŝinto aŭ lia ĉifro, inkluzive akcidentoj aŭ lezo al uzantoj
+        aŭ ajna triaj rilate al komputilo, aŭ kiel rezulto de partopreno en aŭ elŝuti
+        informojn ligitan al la reto kaj / aŭ la Servojn. Sub neniu cirkonstancoj
+        la Flutylove Kompaniaj aŭ ties filio, publikeco agentoj, fondintoj aŭ distribuo
+        partneroj rifuzas priresponda por ajna perdo aŭ difekto, Inkluzivanta persona
+        lezo aŭ morto, pro uzo de la retejo aŭ la servo, iu enhavo poŝtita sur la
+        TTT aux alian interagoj inter uzantoj de la TTT, ambaŭ linio kaj eksterreta.
+        La afiŝinto kaj la Servo estas disponigita sur AS IS bazo kaj Flutylove eksplicite
+        disclaims ajna garantioj aŭ taŭgeco por ia specifa celo, aŭ foresto de malobservo
+        de ies rajtoj. Flutylove povas garantii kaj ne promesas de ajna specifaj rezultoj
+        de la uzo de la afiŝinto kaj / aŭ la Servojn.
+      limitation_of_responsibility: 15. Limigo de respondeco.
+      p_15: 'LA RETEJO KAJ ĜIA FUNKCIOJ INKLUZIVE ĉiuj skriptoj, APLIKOJ, ENHAVO KAJ
+        DEZAJNO DE LA RETEJO ESTAS liveritaj AS IS FUNDAMENTOJ. LA ENTREPRENO MALRESPONDECAS
+        AJN GARANTIO KIU LA RETEJO AŬ ĜIA funkcioj povas esti taŭgaj AŬ netaŭga POR
+        DIFINITA CELO DE UZO. LA ENTREPRENO povas garantii KAJ ne promesas ajnan specifan
+        rezultatojn el uzante DE LA RETEJO KAJ / AŬ liaj funkcioj; Por eviti konfuzon,
+        la uzanto devos observi SAFETY singardecojn KIAM elŝuti el la retejo OR TRA
+        LA Posted LIGILOJ, kaj uzante DE AJN DOSIEROJ, tiel kiel programaro. LA ENTREPRENO
+        Tre Rekomendita UZI NUR koncesiata SOFTWARE krom antivirus softvaro; Uzante
+        la retejo, la UZANTO konsentas ke Elŝutoj DE SITE AŬ KUN ĜIA HELP AJN ENHAVO
+        at lia / ŝia propra risko kaj sola respondeca la eblaj rezultoj de uzante
+        DE ĈI INFORMO, INKLUZIVE AJN damaĝoj ke estu kaŭzas USER''S COMPUTER AŬ AL
+        TRIA pARTIOJ, datuma perdo aŭ alia damaĝoj; Sub neniu cirkonstanco LA ENTREPRENO
+        AŬ liaj agentoj portu respondecon al la uzanto aŭ al iu tria persono en okazo
+        nerekta, hazarda kaj UNWILFUL DANE, INKLUZIVE perdo de profito, AŬ LOST DATUMOJ,
+        damaĝo honori, DIGNO AŬ BUSINESS REPUTACIO, levigxas de la UZO DE LA RETEJO:
+        ITS ENHAVO AŬ AJN ALIAJ INFORMOJ POR kIU VI AŬ AJN ALIA persono ricevis ALIRO
+        TRA LA RETEJO, eĈ sE LA ENTREPRENO avertis AŬ indikas la eblo de tiaj damaĝoj.'
+      responsibilities_of_the_parties: 16. respondecoj de la partioj.
+      p_16: Ĉi Akordo estas regita kaj _construed_ laŭ la leĝaro de la Rusa Federacio.
+        Aferoj kiuj ne estis solvita de la Interkonsento decidigxos en konsento kun
+        la leĝaro de la Rusa Federacio. En kazo de ajna disputojn aŭ polemikoj rilate
+        al la plenumado de tiuj Regularoj, la Uzanto kaj la kompanio faros ĉiun klopodon
+        solvi ilin per intertraktadoj. En kazo la kvereloj ne solvitaj de intertraktadoj,
+        la kvereloj decidigxos en konsento kun la aplikebla leĝaro de la Rusa Federacio.
+        Tiu Interkonsento estas ekzekutita en rusa lingvo kaj povas esti provizita
+        al la Uzanto de revizio en alia lingvo. En kazo de discrepancia de la versio
+        de la Regularoj en rusa lingvo kaj ĝia versio en alia lingvo, la versio en
+        la rusa lingvo de la dispozicioj de tiu ĉi Reglamento estos aplikita. Se por
+        unu kialo aŭ alia, aŭ pluraj dispozicioj de tiuj Regularoj estos deklarita
+        nevalida aŭ ignoris, ĉi tio ne tuŝas la valideco aŭ enforceability de la ceteraj
+        provizoj.
+      other_provisions_and_changes: 17. ALIAJ DISPOZICIOJ KAJ ŜANĜAS.
+      p_17: Ĉi Interkonsento estas la vera interkonsento inter vi kaj Flutylove pri
+        la uzo de la afiŝinto kaj / aŭ la Servojn. Se ajna provizo de tiu Interkonsento
+        malplenaj, la resto de la Interkonsento restas ĝia valideco en plena efiko.
+        Ĉi Akordo povas esti modifita de Flutylove iam. Bonvolu ne hezitu kontakti
+        nin per demandojn pri ĉi Interkonsento.
+      read_this: Mi legis tiun interkonsenton kaj konsentas ĉiuj ĝiaj kondiĉoj.
+    about:
+      about_flutylove: Pri Flutylove
+      about_flutylove_text: Flutylove estas la internacia socia distro reto por dataciones.
+        Tie vi povas trovi amikojn, a soulmate, kompanianoj aŭ simple pasigi tempon
+        kun ĝuas ludante ludoj aŭ vidi videos / fotoj.
+      flutylove_features: 'Kiam vi subskribas supre sur nia ejo, vi povas trovi multajn
+        karakterizaĵojn kiel:'
+      video_call_feature: Vi povas babili kun partnero kun webcam
+      extended_search: Vi povas uzi etendita serĉo senpage
+      multilanguages: Vi povas serĉi partnerojn el aliaj landoj, ĉar nia servo atendita
+        uzi per larĝa gamo de homoj de aliaj landoj ĉar ĝi estas tradukita al pli
+        de 70 lingvoj
+      play_games_chatting_etc: Vi povas babili kun aliaj homoj, ludi ludojn kaj fari
+        alian sociaj teksaĵoj
+      we_are_in_social_networks: 'Ni estas en sociaj retoj:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google alpago
+      instagram: Instagram
+      github: GitHub
+      we_use_open_source_and_high_technology: Ni uzas altan teknologioj kaj malferma
+        fonto bibliotekoj. Ni ĉiam provas akiri pli bonan kaj plibonigi nian servon.
+      partners_and_investors: Ni estas malfermitaj por partnereco kaj ni ŝatus trovi
+        investantojn. Se vi ŝatus kunlabori kun ni bonvolu kontakti nin ĉe partnership@flutylove.com
+    faq:
+      faq: Demandoj
+      what_is_flutylove: Kio estas Flutylove?
+      about_flutylove: Flutylove estas la internacia socia distro reto por dataciones.
+        Tie vi povas trovi amikojn, a soulmate, kompanianoj aŭ simple pasigi tempon
+        kun ĝuas ludante ludoj aŭ vidi videos / fotoj.
+      what_features_has_flutylove: Kio prezentas havas Flutylove?
+      flutylove_features: Tie vi povas babili kun videocams, uzi etendita serĉo, serĉo
+        partneroj el aliaj landoj, ludi ludojn kaj fari aliajn sociajn teksaĵoj.
+      i_have_some_requests: Mi havas kelkajn petojn
+      you_can_write_request: Vi povas subskribi kaj skribi ĝin
+      here: tie
+      i_have_seen_some_typo_or_wrong_translation: Mi vidis iun tajperaro aŭ malĝusta
+        traduko
+      you_can_send_pull_request_to_our: Vi povas sendi Ektiro Peto al nia
+      github_repository: GitHub deponejo
+      i_have_seen_some_error: Mi vidis iun eraran
+      you_can_send: Vi povas sendi al ni reagojn de
+      feedback: ĉi formularo
+      to_us_or_write_to_our_info_mail: aŭ skribu retmesaĝon al support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Bonvenon Flutylove
+      you_have_successfully_signed_up_to_flutylove: Vi sukcese subskribis al Flutylove
+      you_can_sign_in_with_your_social_networks: Se vi ŝatus ensaluti denove vi povas
+        ensaluti per via socia reto konton
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Se
+        vi ŝatus ensaluti kun retpoŝto kaj pasvorto vi povas ŝanĝi la pasvorton de
+        signo ekstere kaj klaki ligi sube
+      change_password: Ŝanĝi pasvorton
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: malĝusta
+            search_for:
+              search_for_error: malĝusta
+            birth_date:
+              birth_date_error: devas esti pli granda ol 18 kaj malpli tiam 115
+            interests:
+              interests_error: devas esti malpli ol 2000 simboloj
+            jobs:
+              jobs_error: devas esti malpli ol 2000 simboloj
+            languages:
+              languages_error: devas esti malpli ol 2000 simboloj
+            sex_keywords:
+              sex_keywords_error: devas esti malpli ol 2000 simboloj
+            my_turn_ons:
+              my_turn_ons_error_error: malĝusta
+            contacts:
+              contacts_length_error: devas esti malpli ol 2000 simboloj
+              contacts_size_error: devas esti malpli ol 21 kontaktoj
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: havas nevalidan valoron
+  devise:
+    confirmations:
+      confirmed: Via konto estis sukcese konfirmita.
+      send_instructions: Vi ricevos retpoŝton kun instrukcioj pri kiel konfirmi vian
+        konton post kelkaj minutoj.
+      send_paranoid_instructions: Se via retadreso ekzistas en nia datumbazo, vi ricevos
+        retpoŝton kun instrukcioj pri kiel konfirmi vian konton post kelkaj minutoj.
+      new:
+        send_mail_for_confirm_your_email: Sendu poŝton por konfirmi vian retpoŝtan
+        submit: Proponu
+    failure:
+      already_authenticated: Vi jam ensalutis.
+      inactive: Via konto ne aktivigitaj ankoraŭ.
+      invalid: Nevalida retpoŝto aŭ pasvorto.
+      locked: Via konto estas ŝlosita.
+      last_attempt: Vi havas unu pli provon antaŭ via konto estos ŝlosita.
+      not_found_in_database: Nevalida retpoŝto aŭ pasvorto.
+      timeout: Via seanco eksvalidiĝis. Bonvolu ensaluti denove por daŭrigi.
+      unauthenticated: Vi devas ensaluti aŭ aliĝu antaŭ daŭrigi.
+      unconfirmed: Vi devas konfirmi vian konton antaŭ ol daŭrigi.
+    mailer:
+      confirmation_instructions:
+        subject: Konfirmo instrukcioj
+        welcome_to_flutylove: Bonvenon Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Vi povas konfirmi
+          vian retpoŝtan tra la ligilon sube
+        confirm_my_account: Konfirmi mian Retpoŝto
+      reset_password_instructions:
+        hello: Saluton
+        subject: Restarigi pasvorton instrukcioj
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Iu
+          havas petojn ligilon por ŝanĝi vian pasvorton. Vi povas fari tion per la
+          suba ligilo.
+        change_my_password: Ŝanĝi mian pasvorton
+        if_you_didnt_request_this_please_ignore_this_email: Se vi ne petis ĉi bonvolu
+          ignori ĉi tiun retpoŝton.
+      unlock_instructions:
+        subject: Malŝlosi Instrukcioj
+    omniauth_callbacks:
+      failure: Ne povis aŭtentigi vin de% {speco} ĉar "% {kialo}".
+      success: Sukcese aŭtentikigita de% {speco} konton.
+    passwords:
+      no_token: Vi ne povas atingi la paĝon sen venanta de pasvorta ŝanĝo retpoŝto.
+        Se vi venas de pasvorta ŝanĝo retpoŝto, bonvolu certigi vin uzi la plenan
+        URL provizita.
+      send_instructions: Vi ricevos retpoŝton kun instrukcioj pri kiel restartigi
+        vian pasvorton post kelkaj minutoj.
+      send_paranoid_instructions: Se via retadreso ekzistas en nia datumbazo, vi ricevos
+        pasvorton reakiro ligilon ĉe via retadreso en kelkaj minutoj.
+      updated: Via pasvorto estis sukcese ŝanĝita. Vi nun ensalutis.
+      updated_not_active: Via pasvorto estis sukcese ŝanĝita.
+      new:
+        forgot_your_password: Retrovi pasvorton
+        reset_password: Sendu rekuperi url
+      edit:
+        change_your_password: Ŝanĝu pasvorton
+        new_password: Nova pasvorto
+        confirm_password: Konfirmu pasvorton
+        change_password: Ŝanĝo
+    registrations:
+      destroyed: Bye! Via konto estis sukcese nuligis. Ni esperas revidi vin baldaŭ.
+      signed_up: Bonvenon! Vi jam subskribis sukcese.
+      signed_up_but_inactive: Vi jam subskribis sukcese. Tamen, ni ne povis subskribi
+        vin pro via konto ankoraŭ ne aktivigita.
+      signed_up_but_locked: Vi jam subskribis sukcese. Tamen, ni ne povis subskribi
+        vin pro via konto estas ŝlosita.
+      signed_up_but_unconfirmed: Mesaĝo kun konfirma ligilo estas sendita al via retpoŝta
+        adreso. Bonvolu malfermi la ligilon por aktivigi vian konton.
+      update_needs_confirmation: Vi ĝisdatigita via konto sukcese, sed ni devas kontroli
+        vian novan retadreson. Bonvolu kontroli vian retpoŝton kaj klakon sur la konfirma
+        ligilo fini konfirmante vian novan retadreson.
+      updated: Vi ĝisdatigita via konto sukcese.
+      new:
+        sign_up: Registriĝi
+        name: Nomo
+        password: Pasvorto
+        password_confirmation: Pasvorto konfirmo
+        register: Registriĝi
+    shared:
+      links:
+        sign_in: Ensaluti
+        sign_up: Registriĝi
+        didnt_receive_confirmation_instructions: Ne ricevita konfirmo instrukcioj?
+        sign_in_with: Ensaluti kun
+        fast_login_almost_one_click: Rapida ensaluto (Preskaŭ unu alklako)
+    sessions:
+      signed_in: Subskribita en sukcese.
+      signed_out: Subskribita eksteren sukcese.
+      new:
+        sign_in: Ensaluti
+        password: Pasvorto
+        remember_me: Memoru min
+        forgot_your_password: vi forgesis vian pasvorton?
+    unlocks:
+      send_instructions: Vi ricevos retpoŝton kun instrukcioj pri kiel malŝlosi vian
+        konton post kelkaj minutoj.
+      send_paranoid_instructions: Se via konto ekzistas, vi ricevos retpoŝton kun
+        instrukcioj pri kiel malŝlosi ĝin post kelkaj minutoj.
+      unlocked: Via konto estas malŝlosita sukcese. Bonvolu ensaluti por daŭrigi.
+  timezones:
+    American Samoa: Usona Samoo
+    International Date Line West: Internacia Dato Linio Okcidenta
+    Midway Island: Midway Island
+    Hawaii: Havajo
+    Alaska: Alasko
+    Pacific Time (US & Canada): Pacifika Tempo (Usono & Kanado)
+    Tijuana: Tijuana
+    Arizona: Arizono
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Monto Tempo (Usono & Kanado)
+    Central America: Mezameriko
+    Central Time (US & Canada): Centra Tempo (Usono & Kanado)
+    Guadalajara: Guadalajara
+    Mexico City: Meksikurbo
+    Monterrey: Monterrey
+    Saskatchewan: Saskaĉevano
+    Bogota: Bogoto
+    Eastern Time (US & Canada): Orienta Tempo (Usono & Kanado)
+    Indiana (East): Indianao (Orienta)
+    Lima: Fajlilo
+    Quito: Demetas
+    Atlantic Time (Canada): Atlantika Tempo (Kanado)
+    Caracas: Karakaso
+    Georgetown: Ĝorĝtaŭno
+    La Paz: Paz
+    Santiago: Santiago
+    Newfoundland: Novlando
+    Brasilia: Braziljo
+    Buenos Aires: Bonaero
+    Greenland: Gronlando
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Acoroj
+    Cape Verde Is: Kaboverdo Is.
+    Casablanca: Casablanca
+    Dublin: Dublino
+    Edinburgh: Edinburgo
+    Lisbon: Lisbono
+    London: Londono
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdamo
+    Belgrade: Beogrado
+    Berlin: Berlino
+    Bern: Berno
+    Bratislava: Bratislavo
+    Brussels: Bruselo
+    Budapest: Budapeŝto
+    Copenhagen: Kopenhago
+    Ljubljana: Ljubljana
+    Madrid: Madrido
+    Paris: Parizo
+    Prague: Prago
+    Rome: Romo
+    Sarajevo: Sarajevo
+    Skopje: Skopjo
+    Stockholm: Stokholmo
+    Vienna: Vieno
+    Warsaw: Varsovio
+    West Central Africa: Okcidenta Mezafriko
+    Zagreb: Zagrebo
+    Athens: Ateno
+    Bucharest: Bukareŝto
+    Cairo: Kairo
+    Harare: Harare
+    Helsinki: Helsinko
+    Istanbul: Istanbulo
+    Jerusalem: Jerusalemo
+    Kaliningrad: Kaliningrado
+    Kyiv: Kyiv
+    Pretoria: Pretorio
+    Riga: Rigo
+    Sofia: Sofia
+    Tallinn: Talino
+    Vilnius: Vilno
+    Baghdad: Bagdado
+    Kuwait: Kuvajto
+    Minsk: Minsk
+    Moscow: Moskvo
+    Nairobi: Najrobo
+    Riyadh: Riad
+    St Petersburg: Peterburgo
+    Volgograd: Volgogrado
+    Tehran: Tehrano
+    Abu Dhabi: Abudabio
+    Baku: Bakuo
+    Muscat: Maskato
+    Samara: Samara
+    Tbilisi: Tbiliso
+    Yerevan: Erevano
+    Kabul: Kabulo
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabado
+    Karachi: Karaĉio
+    Tashkent: Taŝkento
+    Chennai: Ĉenajo
+    Kolkata: Kolkata
+    Mumbai: Mumbajo
+    New Delhi: Nova Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Katmanduo
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Ranguno
+    Bangkok: Bangkok
+    Hanoi: Hanojo
+    Jakarta: Ĝakarto
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Pekino
+    Chongqing: Chongqing
+    Hong Kong: Honkongo
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perto
+    Singapore: Singapuro
+    Taipei: Tajpeo
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osako
+    Sapporo: Sapporo
+    Seoul: Seulo
+    Tokyo: Tokio
+    Yakutsk: Yakutsk
+    Adelaide: Adelajdo
+    Darwin: Darwin
+    Brisbane: Brisbano
+    Canberra: Kanbero
+    Guam: Gvamo
+    Hobart: Hobarto
+    Melbourne: Melburno
+    Port Moresby: Port Moresby
+    Sydney: Sidnejo
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: Novkaledonio
+    Solomon Is: Salomono Is.
+    Srednekolymsk: Srednekolimsk
+    Auckland: Auckland
+    Fiji: Fiĝioj
+    Kamchatka: Kamĉatko
+    Marshall Is: Marshall Estas.
+    Wellington: Wellington
+    Chatham Is: Chatham Is.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoo
+    Tokelau Is: Tokelao Is.
+  eo: eo
+  eo_iso: eo

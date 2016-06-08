@@ -1,0 +1,1586 @@
+---
+ar:
+  1_we_have_just_launched_our_service_title: لقد بدأت للتو الخدمات لدينا!
+  common_keywords: datings، datings على الانترنت، الحب datings، وكاميرا ويب التي يرجع
+    تاريخها، والسرعة التي يرجع تاريخها، وكاميرا ويب دردشة التي يرجع تاريخها، روبي
+    على القضبان تاريخ الموقع، لغات متعددة موقع التعارف
+  common_description: الأكثر تقدما الدولية شبكة الترفيه الاجتماعي للdatings "Flutylove"
+  user: العضو
+  user_to_search_connection: البحث
+  video: فيديو
+  note: ملاحظة
+  photo_album: ألبوم الصور
+  from: من
+  to: ل
+  vkontakte: فكونتاكتي
+  facebook: الفيسبوك
+  twitter: تويتر
+  google_oauth2: جوجل
+  instagram: إينستاجرام
+  dropbox_oauth2: دروببوإكس
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: ذكر
+  - female:
+      name: أنثى
+  - transgender:
+      name: المتحولين جنسيا
+  - male-female:
+      name: ذكر-أنثى
+  - double-female:
+      name: أنثى مزدوجة
+  - double-male:
+      name: الذكور مزدوج
+  orientation:
+  - heterosexual: الغيرية
+  - homosexual: مثلي الجنس
+  - bisexual: المخنث
+  search_for:
+  - chatting: الدردشة
+  - get_friends: الحصول على أصدقاء
+  - flirtation: المغازلة
+  - marriage: الزواج
+  - other: أخرى
+  body_type:
+    slim: سليم
+    normal: عادي
+    athletic: رياضي
+    chubby: السمين
+  relationship:
+    single: واحدة
+    in_a_relationship: في العلاقة
+    married: متزوج
+    nothing_serious: لا شيء خطير
+  children:
+    dont_have: لم يكن لديك
+    dont_have_and_dont_want_to: لم يكن لديك ولا أريد أن
+    don_t_have_but_planning: لا يكون ولكن التخطيط
+    have_enough: عندك
+    have_and_planning_more: ديك، والتخطيط أكثر
+    unable_to_have_children: غير قادر على إنجاب الأطفال
+  living:
+    with_parents: مع الأهل
+    with_marriage_partner: مع شريك الزواج
+    alone: وحده
+    with_friends: مع صديق (ق)
+  education:
+    nothing: لا شيء
+    college_technical_college: كلية / الكلية التقنية
+    postgraduate: الدراسات العليا
+    phd_md_post_doctorate: دكتوراه / MD / مشاركة الدكتوراه
+  hair_color:
+    blonde: شقراء
+    dark_blond: أشقر داكن
+    brown: براون
+    black: الأسود
+    red: الأحمر
+    gray: رمادي
+    other: أخرى
+  income:
+    unemployed: العاطلين عن العمل
+    unstable_earnings: أرباح غير المستقرة
+    small_stable_earnings: أرباح مستقرة الصغيرة
+    medium_stable_earnings: أرباح مستقرة متوسطة
+    higher_than_average_income: أعلى من متوسط ​​الدخل
+  smoking:
+    not_smoke: عدم التدخين
+    not_smoke_and_detest: عدم التدخين ويكرهون التدخين
+    smoke_in_a_social_setting: أحيانا في وضع اجتماعي
+    smoke_only_after_drinking: دخان فقط بعد الشرب
+    smoke_occasionally: دخان أحيانا
+    smoke_often: دخان في كثير من الأحيان
+  alcohol:
+    not_drinking: عدم شرب
+    drink_occalionally: صلاة أحيانا
+    drink_in_a_social_setting: الشراب في وضع اجتماعي
+    drink_often: شرب كثير من الأحيان
+  drugs:
+    dont_use: لا تستخدم
+    contra_drugs: المخدرات كونترا
+    tried_out_some: حاول بعض
+    light_drugs_occasionally: المخدرات الخفيفة من حين لآخر
+    regular: منتظم
+  sponsor:
+    i_want_to_find_a_sponsor: أريد أن العثور على الراعي
+    willing_to_become_a_sponsor: على استعداد لتصبح الراعي
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: لا تبحث عن راع وليس على
+      استعداد لتصبح واحدة
+  category_name:
+    strategy: استراتيجية
+    rpg: آر بي جي
+    3d_shooters: الرماة 3D
+    racing: سباق
+    arcade: ممر
+    economic: الاقتصادية
+    simulators: الصالات
+    logic: المنطق
+    adventure: مغامرة
+    gambling: القمار
+    news: أخبار
+    communication: الاتصالات
+    multimedia: الوسائط المتعددة
+    drawing: الرسم
+    educational: التعليمية
+    e_commerce: التجارة الإلكترونية
+    other: أخرى
+  shared:
+    header:
+      people: الناس
+      chat: الدردشة
+      groups: المجموعات
+      forum: المنتدى
+      requests: الطلبات
+      about: معلومات عن المشروع
+      help: مساعدة
+      user_applications: التطبيقات
+    liked_users:
+      liked: إعجابا
+      all: جميع
+      you_have_not_liked_any_users_yet: كنت لم أحب أي من المستخدمين بعد
+    most_liked_users:
+      most_liked_users: المستخدمين شعبية
+    installed_user_applications:
+      installed_applications: التطبيقات المثبتة
+      all: جميع
+      you_have_not_installed_any_apps_yet: أنت لم تقم بتثبيت أي طلبات بعد
+    user_applications:
+      uploaded_apps: التطبيقات المحمله
+      all: جميع
+      you_have_not_uploaded_any_apps_yet: لم تقم برفع أي تطبيقات بعد
+    right_sidebar:
+      news: أخبار
+      all: جميع
+      read_more: إقرأ المزيد
+    footer:
+      footer_text: الدولية شبكة الترفيه الاجتماعي للdatings "Flutylove"
+      privacy: الخصوصية
+      terms: شروط
+      feedback: تعليقات
+      abuse: إساءة
+    languages_select_modal:
+      available_languages: اللغات المتاحة
+    site_map_modal:
+      faq: التعليمات
+      about: معلومات
+      static_pages: الصفحات الثابتة
+      common_pages: الصفحات المشتركة
+      user_pages: صفحة العضو
+      terms: شروط
+      privacy: الخصوصية
+      people: الناس
+      user_applications: التطبيقات
+      user_requests: الطلبات
+      news: أخبار
+      feedback: تعليقات
+      abuse: إساءة
+      chats: دردشات
+      photo_albums: ألبومات الصور
+      notes: ملاحظات
+    pagination_link:
+      next_page: الصفحة التالية
+    user_edit_menu:
+      content: المحتوى
+      profile: الملف الشخصي
+      site_settings: إعدادات الموقع
+      privacy: الخصوصية
+      services: الخدمات
+    activities_navigation:
+      all: جميع
+      photos: صور
+      photo_albums: ألبومات الصور
+      notes: ملاحظات
+    notifications_navigation:
+      all: جميع
+      likes: إعجاب
+      friend_requests: طلبات صديق
+      profile_views: عدد المشاهدات
+    user_to_friend_connections_navigation:
+      friends: الأصدقاء
+      friends_online: الأصدقاء على الانترنت
+      outcome_requests: طلبات الختامية
+      income_requests: طلبات الدخل
+    user_applications_navigation:
+      all: جميع
+      new: جديد
+      popular: الشعبية
+      often_installed: في كثير من الأحيان تثبيت
+      manage: إدارة
+    user_requests_navigation:
+      all: جميع
+      popular: الشعبية
+      my_requests: طلباتي
+    user_navbar_menu:
+      sign_in: تسجيل الدخول
+      sign_up: اشترك
+    email_signature:
+      mailer: ميلر
+      technoelegance: Technoelegance المحدودة
+    translations:
+      select_gender: الاختيار بين الجنسين
+      select_orientation: تحديد التوجه
+      select_search_for: اختر البحث عن
+    need_to_sign_in_modal:
+      you_need_to_sign_in: تحتاج إلى تسجيل الدخول قبل هذا العمل
+      available_sign_in_methods: أنت
+    sign_up_methods:
+      usual_register_link: تسجيل المعتاد
+      register_text: بالاضافة الى٪ {usual_registration} يمكنك التسجيل من خلال الخدمات
+        الأكثر شعبية والشبكات الاجتماعية
+    bootstrap_gallery:
+      previous: السابق
+      next: التالي
+    user_notification_title:
+      you_liked: أنت يحب
+      wrote_message_to_you: كتب رسالة لك
+      viewed_your_profile: مشاهدة ملفك الشخصي
+      liked_your_photo: إعجابا صورتك
+      liked_your_note: إعجابا ملاحظتك
+      liked_your_request: إعجابا طلبك
+      liked_your_video: إعجابا الفيديو
+      liked_your_application: إعجابا طلبك
+      requested_a_friendship: طلب صداقة
+  authentications:
+    authentication:
+      turn_on: تشغيل
+      turn_off: إيقاف
+      turned_on: تحولت على
+      turned_off: تم إيقافه
+    index:
+      enabled_services: خدمات تمكين
+  users:
+    profile:
+      submit: حفظ
+      name: اسم
+      meet_with: لقاء مع
+      gender: الجنس
+      type_in_your_location: النوع في مدينتك
+      about_me: بعض الكلمات عن نفسك (بالإضافة إلى تشكيل أدناه)
+      sex_keywords: الهوايات ممارسة الجنس
+      enter_your_name: أدخل اسمك
+      more_options: المزيد
+      orientation: التوجيه
+      location: الموقع
+      search_for: البحث عن
+      intimacy: العلاقة الحميمة
+      in_age: في سن
+      from: من
+      to: ل
+      interests: الهوايات
+      height: الطول
+      weight: الوزن
+      relationship: العلاقة
+      children: الأطفال
+      living: المعيشة
+      education: التعليم
+      jobs: الوظيفة
+      income: الدخل
+      languages: اللغات
+      smoking: التدخين
+      alcohol: الكحول
+      drugs: المخدرات
+      contacts: اتصالات
+      contact_value: الاتصال
+      save: حفظ
+      about_yourself: عن نفسك
+    settings:
+      submit: حفظ
+      locale: لغة الواجهة
+      change_password: تغيير كلمة المرور
+      interface_language: لغة الواجهة
+    dialog_modal:
+      send_message: إرسال رسالة
+    index:
+      users: المستخدمين
+      clear_search: البحث واضح
+    dashboard:
+      hello: مرحبا
+      here_some_of_your_statistics: هنا بعض الإحصاءات الخاصة بك
+      chats: دردشات
+      photos: صور
+      notes: ملاحظات
+      photo_albums: ألبومات الصور
+    avatar:
+      photo: صور
+      drag_and_drop_your_file: سحب وإسقاط الملفات الخاصة بك
+      here: هنا
+      or: أو
+      from_other_sites: من مواقع أخرى
+      write_down_link_for_your_image: أكتب رابط الصورة
+      url_for_image: رابط للصورة
+      upload: تحميل
+      from_facebook: من الفيسبوك
+      turn_on_facebook: بدوره في الفيسبوك
+      you_can_upload_your_photos_from_facebook: يمكنك تحميل الصور من الفيسبوك
+      from_vkontakte: من فكونتاكتي
+      you_can_upload_your_photos_from_vkontakte: يمكنك تحميل صورك من فكونتاكتي
+      turn_on_vkontakte: بدوره على فكونتاكتي
+      from_instagram: من إينستاجرام
+      you_can_upload_your_photos_from_instagram: يمكنك تحميل صورك من إينستاجرام
+      turn_on_instagram: بدوره على إينستاجرام
+      from_dropbox: من دروببوإكس
+      you_can_upload_your_photos_from_dropbox: يمكنك تحميل صورك من دروببوإكس
+      turn_on_dropbox: بدوره على دروببوإكس
+      edit_photo: تحرير الصور
+      delete_photo: حذف الصورة
+      are_you_sure: هل أنت متأكد؟
+    available_photos_modal:
+      available_photos: صور متاحة
+    update:
+      your_password_was_successfully_changed: كلمة السر الخاصة بك تم تغيير بنجاح
+      your_profile_was_successfully_updated: ملفك الشخصي تم تحديثها بنجاح
+    edit_photo:
+      edit_photo: تحرير الصور
+      crop: المحاصيل
+      close: إغلاق
+      save_changes: على حفظ التغييرات
+    contact:
+      contact_name_placeholder: الفيسبوك / سكايب / كيه / الخ
+      contact_value_placeholder: رابط / نيك / الهوية / الخ
+    user:
+      about_me: عني
+      orientation: التوجيه
+      meet_with: لقاء مع
+      desirable_age: سن مرغوب فيه
+      from: من
+      to: ل
+      interests: الهوايات
+      height: الطول
+      sm: ن خ
+      kg: كجم
+      relationship: العلاقة
+      children: الأطفال
+      living: المعيشة
+      education: التعليم
+      jobs: وظائف
+      income: الدخل
+      languages: اللغات
+      smoking: التدخين
+      alcohol: الكحول
+      drugs: المخدرات
+      contacts: اتصالات
+    user_info:
+      offline: غير متصل
+      online: اون لاين
+      age: العمر
+    loading_modal_images:
+      loading_images: تحميل الصور
+    password_form:
+      new_password: كلمة المرور الجديدة
+      confirm_new_password: تأكيد كلمة المرور الجديدة
+      old_password: كلمة المرور القديمة
+      change_password: تغيير كلمة المرور
+    show:
+      photos: صور
+      all: جميع
+      notes: ملاحظات
+      view: مشاهدة
+    dropbox_token_form:
+      key: مفتاح
+      paste_recieved_key: لصق مفتاح تلقي
+      submit: إرسال
+    contents:
+      users_which_i_like: المستخدمين الذي أحب
+      all: جميع
+      my_videos_likes: بلدي أمثال الفيديو
+      my_photos_likes: صوري أمثال
+      my_notes_likes: ملاحظاتي أمثال
+      my_user_applications_likes: بلدي تطبيقات أمثال
+      my_user_requests_likes: بلدي طلبات أمثال
+    more_profile_info:
+      photo_albums: ألبومات الصور
+      view_all_photo_albums: عرض كل ألبومات الصور
+      create_more: خلق أكثر
+      view_all_videos: مشاهدة جميع مقاطع الفيديو
+      notes: ملاحظات
+      view_all_notes: إرسال كافة الملاحظات
+      requirement: متطلبات
+      view_all_requirements_lists: إرسال قوائم جميع المتطلبات
+      profile_verification: التحقق الشخصي
+      your_profile_is_successfully_verified: ملفك الشخصي تم التحقق بنجاح
+      create: خلق
+      you_have_not_any_requirements_lists_yet: ليس لديك أي متطلبات يسرد بعد
+      you_have_not_any_notes_yet: ليس لديك أي ملاحظات حتى الآن
+      you_have_not_any_photo_albums_yet: ليس لديك أي ألبومات الصور بعد
+      you_have_not_any_videos_yet: ليس لديك اي فيديو حتى الان
+      your_profile_is_not_verified_yet: ملفك الشخصي لم يتم التحقق منها بعد
+      verify_through_twitter: تحقق من خلال تويتر
+      verify_through_facebook: تحقق من خلال الفيسبوك
+      verify_through_mail_ru: تحقق من خلال Mail.ru
+    privacy:
+      privacy: الخصوصية
+  searches:
+    form:
+      location: الموقع
+      from: من
+      to: ل
+      age: العمر
+      gender: الجنس
+    form_content:
+      city: مدينة
+      gender: الجنس
+      age_from: العمر من
+      to: ل
+      online: اون لاين
+      verified: التحقق
+      has_avatar: له الرمزية
+      region: منطقة
+      more: المزيد
+      country: البلد
+      about_me: عني
+      interests: الهوايات
+      languages: اللغات
+      names: أسماء
+      height: الطول
+      from: من
+      weight: الوزن
+      relationship: العلاقة
+      education: التعليم
+      orientation: التوجيه
+      search_for: البحث عن
+      children: الأطفال
+      living: المعيشة
+      smoking: التدخين
+      alcohol: الكحول
+      drugs: المخدرات
+      income: الدخل
+    show:
+      users: المستخدمين
+      clear_search: البحث واضح
+  welcome:
+    index:
+      people: الناس
+      requests: الطلبات
+      user_applications: التطبيقات
+      about: معلومات
+      features: الميزات
+      registration: التسجيل
+      sign_in: تسجيل الدخول
+      welcome_main_title: مرحبا بكم في Flutylove!
+      welcome_main_text: هذا هو المكان الذي يمكنك العثور على الحب المثالي
+      find_more: البحث أكثر
+      about_title: Flutylove هي شبكة الترفيه الاجتماعية الدولية للdatings
+      about_text: وهناك العديد من المزايا التي يمكنك استخدامها لوسائل الترفيه وdatings!
+      find_more_features: البحث عن المزيد من الميزات
+      at_our_service: الميزات خدماتنا
+      many_languages: العديد من اللغات
+      text_about_many_languages: خدماتنا يتم تفعيل أكثر من 70 لغة
+      check_it_out: التحقق من ذلك
+      videochats: Videochats
+      text_about_videochats: يمكنك الدردشة مع شريك حياتك مع videocams
+      try_it_now: جربه الآن
+      search: البحث
+      text_about_search: يمكنك البحث مع معلمات متعددة وأنه مجاني!
+      watch_this: ووتش هذا
+      more_features: المزيد من الميزات
+      text_about_more_features: يمكنك مشاهدة أشرطة الفيديو، والألعاب، وتفعل أشياء
+        أخرى كثيرة!
+      register_and_learn_more: تسجيل ومعرفة المزيد
+      install_our_apps: تثبيت تطبيقات لدينا من على المنابر الشعبية
+      register_header: التسجيل
+  feedbacks:
+    new:
+      feedback_title: تعليقات
+    form:
+      feedback_name: اسمك
+      feedback_email: بريدك الإلكتروني
+      feedback_content: ملاحظات المحتوى
+      close: إغلاق
+      send: إرسال
+      feedback_recaptcha: اختبار Recaptcha
+      cancel: الغاء
+    success:
+      success_feedback: شكرا لك! لقد تلقي ملاحظاتك.
+      close: إغلاق
+      cancel: الغاء
+      more: إرسال أكثر
+  abuses:
+    new:
+      abuse_title: إساءة
+    form:
+      abuse_name: اسمك
+      abuse_email: بريدك الإلكتروني
+      abuse_title: إساءة
+      close: إغلاق
+      send: إرسال
+      abuse_recaptcha: اختبار Recaptcha
+      abuse_link: صلة
+      cancel: الغاء
+    success:
+      success_abuse: شكرا لك! لقد تلقوا الإساءة الخاص بك.
+      close: إغلاق
+      cancel: الغاء
+      more: إرسال أكثر
+  layouts:
+    welcome:
+      welcome_title: مرحبا بكم في Flutylove! الأكثر تقدما التي يرجع تاريخها الموقع.
+  recaptcha:
+    errors:
+      verification_failed: اختبار reCAPTCHA فشل
+      recaptcha_unreachable: اختبار Recaptcha غير قابلة للوصول
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: لقد بدأت للتو الخدمات لدينا!
+      we_have_just_launched_our_service_text: اليوم نطلق خدمتنا حتى يمكن الجميع
+      sign_up: الاشتراك
+      and_use_it: واستخدامها.
+      wishes_and_requests: إذا كان لديك أي رغبات أو طلبات، يمكنك الاشتراك وكتب عليه
+      here: هنا
+      with_love: مع الحب،
+    index:
+      all_news: كل الأخبار
+      read_more: إقرأ المزيد
+  chats:
+    panel_head:
+      online: اون لاين
+      offline: غير متصل
+    pagination_link:
+      next_page: الصفحة التالية
+    form_additions:
+      submit: إرسال
+      videochat: دردشة الفيديو
+    videochat_request_link:
+      connect_to_videochat: الاتصال من إجراء دردشة فيديو
+    modal_form:
+      send_message: إرسال رسالة
+      recipient: مستلم
+      message: رسالة
+      close: إغلاق
+      submit: إرسال
+    waiting_video_answer_button:
+      waiting_for_response: انتظار استجابة ...
+    chat_created:
+      send_message: إرسال رسالة
+      close: إغلاق
+  messages:
+    pagination_link:
+      next_page: الصفحة التالية
+  notifications:
+    user_to_friend_connection:
+      action: العمل
+    notification:
+      offline: غير متصل
+      online: اون لاين
+    like:
+      action: العمل
+    photo_album_view:
+      action: العمل
+    user_view:
+      action: العمل
+  user_applications:
+    user_application:
+      all_uploaded_applications_by: جميع التطبيقات التي تم تحميلها من قبل
+    form:
+      name: اسم
+      user_application_name: اسم التطبيق
+      description: الوصف
+      description_text: نص الوصف
+      iframe_url: الإطار من رابط
+      upload_icon: تحميل أيقونة
+      public: العامة؟
+      category_name: الفئة
+      create: خلق
+      edit: تحرير
+    show:
+      application: التطبيق
+      return_to_uploaded_applications: لتحميلها تطبيق
+      return_to_all_applications: العودة إلى جميع التطبيقات
+    manage:
+      installed_applications: التطبيقات المثبتة
+      uploaded_applications: التطبيقات المحمله
+      all: جميع
+    index:
+      applications_uploaded_by: التطبيقات التي تم تحميلها من قبل
+      return_to_all_applications: العودة إلى جميع التطبيقات
+      create_new: إنشاء جديد
+      return_to_manage_applications: الرجوع إلى إدارة التطبيقات
+    installed:
+      installed_applications: التطبيقات المثبتة
+      return_to_all_applications: العودة إلى جميع التطبيقات
+      return_to_manage_applications: الرجوع إلى إدارة التطبيقات
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: قبل عرض هذا التطبيق تحتاج
+        إلى تسجيل الدخول أولا
+    need_to_install:
+      need_to_install_first: تحتاج إلى تثبيت هذا التطبيق لأول مرة
+      install_application: بتثبيت تطبيق
+  likes:
+    index:
+      liked_items: البنود إعجابا
+      return_to_my_content: الرجوع إلى المحتوى الخاص بي
+  videos:
+    index:
+      return_to_edit_profile: لمحة التحرير
+      create_new: إنشاء جديد
+      return_to_profile: العودة إلى التشكيل
+    video:
+      edit: تحرير
+      are_you_sure: هل أنت متأكد؟
+      delete: حذف
+    modal_form:
+      create_new_video: خلق فيديو جديد
+      close: إغلاق
+      create: خلق
+    form_content:
+      name: اسم
+      video_name: اسم الفيديو
+      source: رابط لشفرة التضمين
+      video_url_or_embed_code: رابط الفيديو من تضمين قانون فيديو
+    show:
+      video: فيديو
+      return_to_all_videos: العودة إلى جميع مقاطع الفيديو
+      edit_video: تحرير الفيديو
+    edit:
+      edit_video: تحرير الفيديو
+      return_to_view_video: العودة إلى عرض فيديو
+      view_video: شاهد الفيديو
+    form:
+      edit: تحرير
+  photo_albums:
+    index:
+      photo_albums: ألبومات الصور
+      return_to_editing_profile: لمحة التحرير
+      create_new: إنشاء جديد
+      return_to_profile: العودة إلى التشكيل
+    photo_album:
+      edit: تحرير
+      create: خلق
+      are_you_sure: هل أنت متأكد؟
+      delete: حذف
+    edit:
+      edit_photo_album: تحرير ألبوم الصور
+      return_to_photo_albums: لألبومات الصور
+      view_photo_album: مشاهدة ألبوم صور
+    form_content:
+      name: اسم
+      photo_album_name: صور اسم الألبوم
+    form:
+      edit: تحرير
+      create: خلق
+    photo_album_uploader:
+      drag_and_drop_your_file: سحب وإسقاط الملفات الخاصة بك
+      here: هنا
+      or: أو
+      from_other_sites: من مواقع أخرى
+      write_down_link_for_your_image: أكتب رابط الصورة
+      url_for_image: رابط للصورة
+      upload: تحميل
+      from_facebook: من الفيسبوك
+      turn_on_facebook: بدوره في الفيسبوك
+      you_can_upload_your_photos_from_facebook: يمكنك تحميل الصور من الفيسبوك
+      from_vkontakte: من فكونتاكتي
+      you_can_upload_your_photos_from_vkontakte: يمكنك تحميل صورك من فكونتاكتي
+      turn_on_vkontakte: بدوره على فكونتاكتي
+      from_instagram: من إينستاجرام
+      you_can_upload_your_photos_from_instagram: يمكنك تحميل صورك من إينستاجرام
+      turn_on_instagram: بدوره على إينستاجرام
+      from_dropbox: من دروببوإكس
+      you_can_upload_your_photos_from_dropbox: يمكنك تحميل صورك من دروببوإكس
+      turn_on_dropbox: بدوره على دروببوإكس
+    show:
+      return_to_photo_albums: لألبومات الصور
+      edit_photo_album: تحرير ألبوم الصور
+    modal_form:
+      create_new_photo_album: إنشاء ألبوم صور جديد
+      close: إغلاق
+      create: خلق
+  user_requests:
+    form:
+      content: المحتوى
+      edit: تحرير
+      create: خلق
+  notes:
+    index:
+      notes: ملاحظات
+      return_to_edit_profile: لمحة التحرير
+      create_new: إنشاء جديد
+      return_to_profile: العودة إلى التشكيل
+    note:
+      edit: تحرير
+      are_you_sure: هل أنت متأكد؟
+      delete: حذف
+    show:
+      note: ملاحظة
+      return_to_notes: العودة إلى الملاحظات
+      edit_note: تحرير مذكرة
+    form_content:
+      content: المحتوى
+      edit: تحرير
+      create: خلق
+    edit:
+      edit_note: تحرير مذكرة
+      return_to_notes: العودة إلى الملاحظات
+      view_note: إرسال مذكرة
+  user_to_search_connections:
+    index:
+      requirements_lists: قوائم متطلبات
+      return_to_editing_profile: لمحة التحرير
+      create_new: إنشاء جديد
+    user_to_search_connection:
+      edit: تحرير
+      are_you_sure: هل أنت متأكد؟
+      delete: حذف
+    edit:
+      edit_requirements_list: تحرير قوائم متطلبات
+      return_to_requirements_lists: لقوائم متطلبات
+    form_content:
+      name: اسم
+      name_of_your_requirements_list: اسم قائمة الاحتياجات الخاصة بك
+    form:
+      edit: تحرير
+    show:
+      return_to_requirements_lists: لقوائم متطلبات
+  photos:
+    index:
+      photos: صور
+      return_to_photo_albums: العودة إلى ألبومات الصور
+      return_to_profile: إلى الملف الشخصي
+  errors:
+    messages:
+      already_confirmed: وقد أكد بالفعل، من فضلك حاول تسجيل الدخول
+      confirmation_period_expired: يجب أن يكون وأكد في غضون٪ {فترة}، يرجى طلب كلمة
+        مرور جديدة
+      expired: انتهت، يرجى طلب كلمة مرور جديدة
+      not_locked: كان غير مؤمن
+      not_saved:
+        other: "٪ {count} من الأخطاء يحظر على هذه الموارد٪ {} من يخلصون:"
+    bad_request:
+      request_result: طلب نتيجة
+      bad_request_description: الخادم لا يمكن أو لن معالجة الطلب بسبب خطأ العميل واضح
+      go_to_root: الذهاب إلى الجذر
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable الكيان
+      request_result: طلب نتيجة
+      unprocessable_entity_description: الطلب كان منسق بشكل جيد لكنه لم يتمكن الواجب
+        اتباعها بسبب الأخطاء الدلالية
+      go_to_root: الذهاب إلى الجذر
+    not_found:
+      not_found: لم يتم العثور على
+      request_result: طلب نتيجة
+      not_found_description: المورد المطلوب لا يمكن العثور عليها ولكن قد تكون متاحة
+        في المستقبل
+      go_to_root: الذهاب إلى الجذر
+    forbidden:
+      forbidden: المحرمة
+      request_result: طلب نتيجة
+      forbidden_description: الطلب كان طلب صالح، ولكن الخادم هو رفض للرد عليه
+      go_to_root: الذهاب إلى الجذر
+    internal_server_error:
+      internal_server_error: خطأ خادم داخلي
+      request_result: طلب نتيجة
+      go_to_root: الذهاب إلى الجذر
+  pages:
+    privacy:
+      privacy: سياسة الخصوصية Flutylove
+      general_provisions: أحكام عامة
+      p_1_1: 1.1. هذه اللائحة هي وثيقة رسمية من شركة ذات مسؤولية محدودة "Technoelegance"،
+        التي تقع في 101000، موسكو، Ulanskiy pereulok 13، stroeniye 4، pomeshcheniye
+        1 (الآخرة Flutylove، والشركة، ونحن)، وتحديد إجراءات معالجة البيانات وأمن المعلومات
+        للأفراد الذي يبلغ من العمر 18 عاما، والذين يستخدمون موقع https://flutylove.com
+        (الآخرة الموقع) وخدماتها (الآخرة المستخدمين).
+      p_1_2: 1.2. والغرض من هذه اللائحة هو ضمان الحماية الواجبة للمعلومات المستخدم،
+        بما في ذلك البيانات الشخصية، من الوصول غير المصرح به والإفصاح.
+      p_1_3: 1.3. تخضع العلاقات المرتبطة بجمع وتخزين وتوزيع وأمن المعلومات المستخدم
+        الموقع من خلال هذه اللائحة، والوثائق الرسمية الأخرى للشركة والتشريعات الحالية
+        للاتحاد الروسي.
+      p_1_4: 1.4. الإصدار الحالي من اللائحة التنفيذية، التي هي وثيقة عامة، وهي متاحة
+        لأي مستخدم للانترنت عند اتباع http://flutylove.com/pages/privacy الارتباط.
+        والشركة لديها الحق في تعديل هذه اللائحة. في حالة إجراء التغييرات على اللائحة،
+        يجب على الشركة إخطار المستخدمين عن طريق نشر النسخة الجديدة من اللائحة على
+        الموقع في http://flutylove.com/pages/privacy عنوان دائم، في موعد لا يتجاوز
+        10 يوما قبل فعالة تاريخ التغييرات. يتم تخزين الإصدارات السابقة من النظام الأساسي
+        للفي أرشيف وثائق للشركة.
+      p_1_5: 1.5. وقد وضعت هذه اللائحة وتستخدم وفقا للاتفاقية المستخدم. في حال وجود
+        أي مخالفة بين هذه الأنظمة وغيرها من الوثائق الرسمية للشركة، يجب أن ينفذ هذه
+        اللائحة.
+      p_1_6: 1.6. باستخدام هذا الموقع، فإنك توافق على الشروط والأحكام سياسة الخصوصية
+        هذه. يرجى قراءتها بعناية. إذا كنت لا توافق على شروط سياسة الخصوصية هذه، أو
+        لم تكن قد بلغ من العمر 18 عاما، لا يجوز لك استخدام الموقع وخدماته. باستخدام
+        هذا الموقع، بغض النظر عما إذا كنت مستخدما مسجلا في Flutylove أم لا، فأنت تؤكد
+        أنك تقبلها بالكامل سياسة الخصوصية هذه، وتوافق على متابعته.
+      the_website_using_conditions: الموقع باستخدام الشروط
+      p_2_1: '2.1. استخدام Flutylove موقع، تحتاج إلى تسجيل. ينبغي تحديد المعلومات
+        التالية أثناء التسجيل: اسم وعنوان البريد الإلكتروني، أو الجنس، تاريخ الميلاد،
+        معلومات عن الموقع. ويجوز أن ينص العضو تفاصيل شخصية إضافية في له / لها رغبة
+        الخاصة. يجوز للمستخدم تحرير أو تحديث المعلومات الشخصية في أي وقت. والشركة
+        لديها الحق في طلب وثائق داعمة إضافية في حالة التفرقة بين الجنسين التغيير وتاريخ
+        ميلاد المستخدم.'
+      p_2_2: '2.2. من خلال السماح للوصول إلى الموقع والخدمات، شركة، تعمل بطريقة معقولة
+        وبحسن نية، يرى أن العضو: يدرك أن للتسجيل في الموقع من الضروري أن يكون أكثر
+        من 18 سنة. لديه كل الحقوق اللازمة لتكون قادرة على التسجيل في هذا الموقع واستخدامه.
+        يشير إلى معلومات دقيقة حول نفسه / نفسها وفقا لطلبات الاستفادة من خدمات الموقع.
+        يدرك أن المعلومات الشخصية على الموقع، التي يقدمها المستخدم، قد تصبح متاحة
+        للمستخدمين الآخرين من مستخدمي الموقع والإنترنت كذلك، يمكن نسخها وتوزيعها من
+        قبل المستخدمين الآخرين. تدرك أن بعض أنواع المعلومات، ونقل إلى مستخدمين آخرين،
+        لا يمكن إزالتها من قبل المستخدم. هو على بينة هذه اللائحة، ويتفق معهم ويتعهد
+        الحقوق والالتزامات المحددة.'
+      p_2_3: 2.3. فإن الشركة لا تحقق من دقة تلقت (تجمع) معلومات حول المستخدمين، باستثناء
+        الحالات عندما تكون هذه ضرورية للتحقق من أجل الوفاء بالتزامات الشركة للمستخدم.
+      information_processing_objectives: أهداف تجهيز المعلومات
+      p_3_1: 3.1. يحمل الشركة من تجهيز معلومات حول المستخدمين، بما في ذلك البيانات
+        الشخصية الخاصة بهم، وذلك للوفاء بالتزامات الشركة للمستخدمين لاستخدام الموقع
+        وخدماته.
+      p_3_2: 3.2 الشركة لديها الحق في القيام بمعالجة البيانات الشخصية دون إخطار الجهة
+        المختصة لحماية حقوق الرعايا البيانات الشخصية.
+      structure_of_the_user_information: هيكل معلومات المستخدم
+      p_4_1: '4.1. البيانات الشخصية للمستخدمين تشمل ما يلي:'
+      p_4_1_1: 4.1.1. اسم وعنوان البريد الإلكتروني، أو الجنس، تاريخ الميلاد، معلومات
+        عن الموقع، ورقم الهاتف، والتي يتم توفيرها من قبل المستخدمين والمفترض أن يكون
+        ما يكفي لتسجيل على الموقع.
+      p_4_1_2: 4.1.2. المعلومات التي يتم توفيرها من قبل المستخدم (على سبيل المثال
+        الصور والمعلومات عن العادات الضارة الخ)؛
+      p_4_1_3: 4.1.3. قدمت بالإضافة إلى ذلك من قبل المستخدم وفقا لطلب الشركة وذلك
+        للوفاء بالتزامات الشركة للمستخدمين، والتي تظهر من اتفاق المستعمل. والشركة
+        لديها الحق، على وجه الخصوص، أن يطلب من العضو نسخة من وثيقة الهوية أو أي وثائق
+        أخرى تحتوي على الاسم والجنس وتاريخ الميلاد، فضلا عن المعلومات الإضافية الأخرى
+        التي، وفقا لتقدير الشركة، سيكون من الضروري و كافية لتحديد هذا العضو وسيقضي
+        على سوء المعاملة وانتهاك لحقوق الغير.
+      p_4_2: '4.2. معالجة المعلومات العضو الآخر من قبل الشركة وادارة الموقع أيضا بمعالجة
+        المعلومات الأخرى عن المستخدمين، والتي تشمل:'
+      p_4_2_1: 4.2.1. بيانات مشتركة، تلقى تلقائيا عن طريق HTTP خادم عند الوصول إلى
+        الموقع والإجراءات اللاحقة من المستخدم (عنوان IP للمضيف، ونوع نظام التشغيل
+        المستخدم، صفحات الموقع التي تمت زيارتها من قبل المستخدم).
+      p_4_2_2: 4.2.2. المعلومات التي تم تلقيها تلقائيا عند الوصول إلى الموقع باستخدام
+        العلامات (الكوكيز)؛
+      p_4_2_3: 4.2.3. المعلومات التي وردت نتيجة للإجراءات المستخدم على الموقع.
+      p_4_2_4: 4.2.4. المعلومات التي وردت نتيجة لتصرفات المستخدمين الآخرين على الموقع.
+      p_5_1: '5.1. معالجة البيانات الشخصية وتنفذ على أساس المبادئ التالية: أ) أغراض
+        مشروعة ووسائل معالجة البيانات الشخصية. ب) الصدق. ج) امتثال أغراض معالجة البيانات
+        الشخصية لأغراض محددة سلفا وأعلن عند جمع البيانات الشخصية، فضلا عن الامتثال
+        من وثائق تفويض الشركة. د) الامتثال لحجم ونوع من معالجة البيانات الشخصية، والامتثال
+        وسائل معالجة البيانات الشخصية مع أغراض التجهيز لها. ه) عدم جواز الجمع بين
+        قواعد البيانات التي تم إنشاؤها لأغراض غير متوافقة، التي تحتوي على بيانات شخصية.'
+      p_5_1_1: 5.1.1. ويتم جمع البيانات الشخصية للمستخدم من على الموقع عندما السجل،
+        وكذلك في المستقبل عندما يضيف المستخدم مزيد من المعلومات عن نفسه / نفسها باستخدام
+        أدوات موقع على له / لها المبادرة الخاصة.
+      p_5_1_2: 5.1.2. يتم تخزين البيانات الشخصية لمستخدمي حصرا في شكل إلكتروني ومعالجتها
+        باستخدام النظم الآلية، باستثناء الحالات التي تحتاج إلى المعالجة اليدوية من
+        البيانات الشخصية نظرا لتلبية المتطلبات التشريعية.
+      p_5_1_3: 5.1.3. لا يتم نقل بيانات المستخدم الشخصية إلى أي طرف ثالث، إلا في الحالات
+        المنصوص عليها صراحة بموجب هذه اللائحة واتفاقية المستخدم. مع موافقة المستخدم،
+        يمكن أن تنتقل بيانات المستخدم الشخصية إلى المقابلة الثالثة للشركة في ظل حالة
+        من افتراض التزام لضمان سرية المعلومات التي وردت، على وجه الخصوص، عند استخدام
+        الخدمات والتطبيقات. ويتم توفير البيانات الشخصية للمستخدم بناء على طلب من السلطات
+        الحكومية (السلطات المحلية) في الإجراء كما هو مطلوب من قبل القانون.
+      p_5_1_4: '5.1.4. يتم حذف البيانات الشخصية للمستخدم في الحالات التالية: - هي
+        البيانات من الصفحة من قبل المستخدم حذف ذاتيا، - الصفحة هي من قبل المستخدم
+        حذف ذاتيا، - تتم إزالة معلومات المستخدم والصفحة الشخصية من قبل الشركة. في
+        حالة حذف الصفحة من قبل العضو نفسه، تقوم الشركة بتخزين البيانات الشخصية للمستخدم
+        على وسائل الإعلام الإلكترونية في غضون 210 يوما بعد إزالة الصفحة الشخصية. يتم
+        حذف البيانات الشخصية عند انقضاء 210 يوما بعد إزالة الصفحة الشخصية. حتى تنتهي
+        هذه الفترة، والعضو لديه الحق في استعادة الصفحة الشخصية.'
+      users_rights_and_obligations: حقوق المستخدم والالتزامات
+      p_6_1: '6.1. المستخدم له الحق في:'
+      p_6_1_1: 6.1.1. الوصول إلى المعلومات حول له / لها دون قيود ومجانا عن طريق تحرير
+        الصفحة الشخصية على الموقع مع استخدام المستخدم وكلمة السر.
+      p_6_1_2: 6.1.2. جعل مستقل التغييرات والتصحيحات إلى المعلومات على الصفحة الشخصية
+        للمستخدم على الموقع، على شرط أن مثل هذه التغييرات والتصحيحات تحتوي على ما
+        يصل إلى تاريخ ومعلومات صحيحة.
+      p_6_1_3: 6.1.3. إزالة المعلومات من الصفحة الشخصية على الموقع.
+      p_6_1_4: 6.1.4. تطلب الشركة للحصول على معلومات أكثر تحديدا، كتلة أو حذف البيانات
+        الشخصية، إذا كانت هذه البيانات غير مكتملة، عفا عليها الزمن، غير دقيقة، تلقى
+        بصورة غير قانونية أو ليست ضرورية لغرض المعلن لمعالجة أو إذا كانت الإجراءات
+        المحددة في الفقرة 6.1.3 من هذه أنظمة لا يمكن تنفيذها بشكل مستقل.
+      p_6_1_5: 6.1.5. على أساس طلب وتلقي المعلومات من الشركة بشأن تجهيز / البيانات
+        الشخصية له.
+      p_6_2: '6.2. المعلومات التالية حول أي مسجلة موقع العضو متاحة دائما للعضو مسجل:
+        الاسم، الجنس، العمر، صورة الملف الشخصي للمستخدم وغيرها من المعلومات إذا كان
+        العضو قد نشر ذلك.'
+      p_6_3: 6.3. تتحمل الشركة أية مسؤولية عن الكشف عن البيانات الشخصية للمستخدم من
+        قبل مستخدمين آخرين للموقع الذي وصلت إليها تلك البيانات.
+      p_6_4: 6.4. في حالة البيانات الشخصية (غيرها من معلومات المستخدم) إزالة من الصفحة
+        الشخصية للمستخدم أو إزالة الصفحة الشخصية للمستخدم من الموقع، معلومات المستخدم
+        نسخ من قبل مستخدمين آخرين أو المخزنة على صفحات المستخدمين الآخرين والحفاظ
+        عليها.
+      p_7_1: 7.1. تقوم الشركة الإجراءات الفنية والتنظيمية والقانونية لضمان أن البيانات
+        الشخصية للمستخدم محمية من الوصول غير المصرح به أو العرضي أو حذف أو تعديل أو
+        حجب والنسخ والنشر وكذلك من إجراءات أخرى غير مصرح بها.
+      p_7_2: 7.2. تستخدم لتسجيل الدخول المستخدم (عنوان البريد الإلكتروني أو رقم الجوال)
+        وكلمة المرور للوصول إلى الموقع. المستخدم هو المسؤول عن حفظ سرية هذه المعلومات.
+        لا يحق للمستخدم نقل المستخدم وكلمة السر لأطراف ثالثة، ويتوجب أيضا على اتخاذ
+        التدابير اللازمة لضمان سريتها.
+      limitation_of_the_regulations_applicability: الحد من تطبيق اللوائح
+      p_8: هذه اللائحة لا تمتد إلى إجراءات وموارد الإنترنت من أطراف ثالثة. تتحمل الشركة
+        أية مسؤولية عن تصرفات الأطراف الثالثة التي حصلت على الوصول إلى معلومات المستخدم
+        من خلال الإنترنت أو خدمات مواقع الإنترنت. توصي ادارة الموقع للمستخدمين التعامل
+        مع هذه المسألة مع كمية المعلومات المنشورة على الموقع بطريقة مسؤولة.
+      user_requests: طلبات العضو
+      p_9_1: '9.1. المستخدمين لديهم الحق في إرسال طلبات للشركة بما في ذلك الطلبات
+        المتعلقة باستخدام البيانات الشخصية في شكل مكتوب في العنوان التالي: روسيا،
+        101000، موسكو، Ulanskiy pereulok 13، stroeniye 4، pomeshcheniye 1 أو في شكل
+        وثيقة إلكترونية موقعة من التوقيع الإلكتروني المؤهلين وفقا لتشريعات الاتحاد
+        الروسي، عن طريق البريد الإلكتروني: support@flutylove.com.'
+      p_9_2: '9.2. يجب أن يحتوي على طلب المستخدم على المعلومات التالية: رقم الوثيقة
+        تحديد المستخدم أو ممثلها. تاريخ إصدار الوثيقة المذكورة أعلاه، والسلطة التي
+        أصدرتها. معلومات تؤكد مشاركة العضو في العلاقات مع المشغل (على وجه الخصوص،
+        وصلة إلى صفحة)؛ توقيع العضو أو له / ممثل لها.'
+      p_9_3: 9.3. وتتعهد الشركة للنظر والاستجابة لطلب المستخدم في غضون 30 يوما بعد
+        تلقيه.
+      p_9_4: 9.4. يتم تصنيف جميع المراسلات التي تلقتها الشركة من المستخدمين (طلبات
+        إلكترونية مكتوبة أو) قدر من المعلومات وصول مقيد، ولا يجوز الكشف عنها بدون
+        موافقة خطية المستخدم. لا يجوز استخدام البيانات الشخصية وغيرها من المعلومات
+        عن العضو الذي أرسل الطلب، دون موافقة خاصة للمستخدم، بشكل مختلف من أجل الاستجابة
+        للطلب أو في الحالات المنصوص عليها صراحة بموجب القانون المعمول به.
+    terms:
+      terms: اتفاقية المستخدم Flutylove
+      welcome: مرحبا بكم في Flutylove!
+      about_terms: 'شروط الاستخدام هذه (بالإضافة إلى الوثائق المشار إليها في هذه الوثيقة،
+        بما في ذلك سياسة الخصوصية) وعقد التصاق وفقا للمادة 428 من القانون المدني للاتحاد
+        الروسي (المشار إليها فيما يلي باسم "الاتفاقية") بين الفرد الذي بلغ 18 سنة
+        من العمر (المشار إليها فيما يلي باسم "العضو" وشركة (أو "نحن") - وهو ذات مسئولية
+        محدودة شركة "Technoelegance" (ذ م م "Technoelegance") (عنوان قانوني: 101000،
+        موسكو، Ulanskiy pereulok 13، stroeniye 4، pomeshcheniye 1)، ويشار إليها فيما
+        يلي باسم Flutylove، وفقا لوالتي يمكنك استخدام هذا الموقع وجميع الخدمات المرتبطة
+        المقدمة من خلال الموقع أو التطبيق (يشار إليها عموما باسم "الخدمات"). ومن المفهوم
+        الموقع لتعني أي من إصداراته، جنبا إلى جنب تحت flutylove.com اسم النطاق وتعمل
+        لمجموعة متنوعة من الأجهزة، بما في ذلك إصدار المستندة إلى الويب والتطبيقات
+        النقالة والتطبيقات للشبكات الاجتماعية.باستخدام هذا الموقع يعني موافقتك على
+        شروط اتفاقية و سياسة الخصوصية. يرجى قراءتها بعناية. إذا كنت لا توافق مع شروط
+        الاتفاق وسياسة الخصوصية، أو لم تكن قد بلغ من العمر 18 عاما، لا يجوز لك استخدام
+        الموقع وخدماته.باستخدام موقع، بغض كنت مسجل المستخدم من Flutylove أم لا، فإنك
+        توافق تماما مع هذا الاتفاق وسياسة الخصوصية، والتي يتم تضمينها في هذا الاتفاق
+        عن طريق وصلة وهي متاحة على الموقع الإلكتروني، والامتثال له.بناء على طلب المستخدم،
+        تتعهد الشركة لتوقيع هذا الاتفاق في شكل مطبوع وإرسالها إلى شخص يطلب وثائق.تحتفظ
+        الشركة بالحق في تعديل اتفاقية المستخدم وأية وثيقة المشار إليها. ليكون على
+        بينة من التغييرات التي تحتاجها للحفاظ على ما يصل إلى تاريخ ومعلومات عن هذه
+        التغييرات على أساس منتظم. ونحن سوف أبلغكم عن التغييرات التي قمنا بها في هذه
+        الصفحة أدناه. التغييرات لا تتصل مرة أخرى، وستدخل حيز التنفيذ في غضون عشرة
+        أيام من تاريخ النشر. ومع ذلك، في حال والمرتبطة بتنفيذ خدمات جديدة أو تعديل
+        التشريعات، سيتم تطبيقها على الفور. إذا كنت لا توافق مع التغييرات في الاتفاق،
+        يجب عليك التوقف عن استخدام الموقع وتطبيقاتها.'
+      consent_to_accept_the_terms_of_user_agreement: 1. الموافقة على قبول بنود اتفاقية
+        المستخدم.
+      p_1: أ. اتفاق الإلكترونية. هذا الاتفاق هو النسخة الإلكترونية من العقد، الذي
+        يصف شروط استخدام الموقع والخدمات. من خلال الدخول إلى الموقع أو تصبح العضو
+        لذلك، تقبل هذا الاتفاق وتوافق على جميع البنود والشروط والإشعارات التي ترد
+        أو المشار إليها هناك. يؤكد أنت وتوافق على أن مستخدمي Flutylove ربما تكون جزءا
+        من مجتمع دولي على الانترنت التي تتضمن مواقع أخرى تابعة لشركة أو الشركات التابعة
+        لها. ولذلك، فإن الشخصية على الموقع ويمكن الاطلاع على مواقع أخرى مماثلة ودفع
+        المشتركين من موقع واحد يمكن التواصل مع المشتركين دفع آخرين من جميع المواقع.
+        ب. شكل الكتروني. من خلال الدخول إلى الموقع أو تصبح العضو لذلك، فإنك توافق
+        على أن توفر لك مع اتفاق الإلكترونية. ج. شكل ورقي. لديك الحق في الحصول على
+        نسخة مطبوعة من هذا الاتفاق. يمكنك طلب نسخة مطبوعة من هذا الاتفاق قبل أو بعد
+        ذلك سوف يتم التوقيع في شكل إلكتروني. من فضلك، اتصل خدمة العملاء للحصول على
+        مزيد من المعلومات. د. وصول وتحميل. من أجل الوصول إلى وتحميل هذا الاتفاق الإلكترونية،
+        يجب أن يكون الوصول إلى الإنترنت أو مباشرة من خلال الأجهزة مع إمكانية الوصول
+        إلى موارد الشبكة. تحتاج إلى أن يكون المعدات اللازمة لتوصيل الإنترنت، وهي جهاز
+        الكمبيوتر، المودم أو جهاز الوصول. من فضلك، طباعة نسخة من هذا الاتفاق والحفاظ
+        عليه. لتحميل النموذج الإلكتروني للاتفاق، حفظه على جهاز الكمبيوتر الخاص بك
+        عن طريق مساعدة من أي محرر نصوص.
+      the_right_of_using_the_website: 2. حق استخدام الموقع.
+      p_2: يجب ان تكون على الأقل ثمانية عشر (18) سنة لتصبح مستخدم مسجل من هذا الموقع.
+        في حالة عدم الامتثال لمتطلبات، سيتم رفض الوصول إلى الموقع. باستخدام هذا الموقع،
+        يجب أن يكون المستخدم على علم بأن المعلومات الشخصية المنشورة على الموقع يمكن
+        أن تكون متاحة لمستخدمي الإنترنت الآخرين، والشركة لا تتحمل المسؤولية عن أفعالهم.
+        باستخدام هذا الموقع يمكنك تأكيد وتتعهد بأن لديك الحق والسلطة وإمكانية للدخول
+        في هذا الاتفاق، والموافقة على اتباع كل البنود والشروط. تصبح العضو للك تأكيد
+        وتتعهد بأن كنت قد عانى أبدا إدانة جريمة جنائية تتعلق بالعنف الجنسي. تم تصميم
+        هذا الموقع للاستخدام الشخصي فقط. يحظر استخدام هذا الموقع لأية أغراض تجارية.
+        كيانات الشركات لا يمكن أن يكون مستخدمي هذا الموقع، وكذلك لا يمكن استخدام هذه
+        الخدمة أو الموقع على أغراضها. هو السعي غير قانونية و / أو استخدام غير مصرح
+        به لهذا الموقع، بما في ذلك جمع أسماء المستخدمين و / أو عناوين البريد الإلكتروني
+        عن طريق مساعدة من الأدوات الإلكترونية أو غيرها لغرض إرسال الرسائل غير المرغوب
+        فيها وصلات ويجوز للشركة اتخاذ الإجراءات المناسبة وفقا للقانون، بما في ذلك
+        نداء إلى سلطات إنفاذ القانون.
+      pricing_and_registration: 3. التسعير والتسجيل
+      p_3: أنت قادرة على أن تصبح المستخدم من Flutylove على المشيئة الحرة وخالية من
+        أساس تهمة من خلال التسجيل على الموقع. باسم المستخدم، يمكنك استخدام مجموعة
+        محددة من الخدمات والفرص للموقع. المستخدم للموقع هو فرد مسجل على الموقع وفقا
+        للنظام القائم والذي بلغ 18 سنة من العمر. عند التسجيل على الموقع يلتزم المستخدم
+        لتقديم المعلومات الضرورية وذات الصلة للشركة لاستكمال صفحة مستخدم، بما في ذلك
+        الدخول (عنوان البريد الإلكتروني أو رقم الهاتف) وكلمة المرور للدخول إلى الموقع،
+        وكذلك الاسم الذي هي فريدة من نوعها لكل مستخدم. استمارة التسجيل قد تطلب معلومات
+        إضافية من المستخدم. المستخدم هو المسؤول عن صحة، واقع، من اكتمالها ومطابقتها
+        مع قانون الاتحاد الروسي من المعلومات المقدمة عند التسجيل، والوضوح في الفترة
+        من المطالبات من أطراف ثالثة. عند تسجيل العضو يتفق مع هذا الاتفاق والقيام الحقوق
+        والالتزامات المحددة، المرتبطة باستخدام وتشغيل الموقع. يحصل المستخدم على حق
+        الوصول الكامل إلى استخدام وظائف الموقع. وتتعهد الشركة حقوق وعليها واجب إلى
+        المستخدم، المنصوص عليها في هذه اللائحة، بعد نجاح عملية التسجيل من المستخدم
+        على الموقع يتم معالجة البيانات الشخصية للمستخدم وفقا لقانون الاتحاد الروسي.
+        بمعالجة ادارة الموقع البيانات الشخصية للمستخدم من أجل توفير المستخدم مع وصول
+        لاستخدام وظائف الموقع، بما في ذلك تلقي شخصية (المستهدفة) الإعلان. التحقق والبحث
+        وتحليل تلك البيانات، والسماح لدعم وتحسين وظائف وأقسام الموقع، وكذلك تطوير
+        وظائف وأقسام جديدة. تقوم الشركة جميع الإجراءات اللازمة لحماية البيانات الشخصية
+        للمستخدم ضد الوصول غير المصرح به أو تعديل أو إفشاء أو المحو. وتوفر الشركة
+        إمكانية الوصول إلى البيانات الشخصية للمستخدم فقط لهؤلاء الموظفين والمقاولين
+        وعملاء الشركة، الذين يحتاجون إلى هذه المعلومات من أجل دعم وظيفة الموقع وتوفير
+        المستخدم مع إمكانية الوصول إلى ذلك بإستخدام. شركة للموقع لديها الحق في استخدام
+        المعلومات التي يقدمها المستخدم، بما في ذلك البيانات الشخصية، من أجل ضمان الامتثال
+        لمتطلبات التشريعات الحالية للاتحاد الروسي (بما في ذلك الوقاية و / أو قمع غير
+        قانونية و / أو غير قانوني تصرفات المستخدمين). قد يتم الكشف عن المعلومات المقدمة
+        من قبل المستخدم فقط وفقا للتشريعات الحالية للاتحاد الروسي بناء على طلب المحكمة،
+        ووكالات إنفاذ القانون، وكذلك في الحالات الأخرى التي ينص عليها القانون المعمول
+        به في الاتحاد الروسي. لدرجة أن الشركة بمعالجة البيانات الشخصية للمستخدم لتنفيذ
+        هذه اللائحة، ولا يشترط موافقة المستخدم لمعالجة البيانات الشخصية بمقتضى أحكام
+        القانون على البيانات الشخصية. تسجيل الدخول وكلمة السر التي اختارها المستخدم
+        والمعلومات الضرورية والكافية لوصول المستخدم إلى الموقع. المستخدم لديه الحق
+        في إعطاء له / لها المستخدم وكلمة السر لأطراف ثالثة، ويكون مسؤولا تماما عن
+        سلامته، واختيار طريقة تخزينها على أساس مستقل. باستخدام له / لها الأجهزة والبرمجيات
+        المستخدم قد يسمح للتخزين من تسجيل الدخول وكلمة المرور (من خلال الكوكيز) للحصول
+        على ترخيص التلقائي لاحق على الموقع. تعتبر أي إجراء يتخذ باستخدام إسم المستخدم
+        وكلمة المرور ليتم يرتكبها المستخدم، ما لم يثبت عكس ذلك العضو. ويلتزم العضو
+        بإبلاغ الشركة فورا وفقا للإجراءات المتبعة في حالة الوصول غير المصرح به لاسم
+        المستخدم وكلمة المرور و / أو صفحة الحساب، أو الكشف عن تسجيل الدخول وكلمة المرور.
+        بعد تسجيل مكاسب للمستخدم الحق في إنشاء واستخدام وتحديد مضمون له / لها الصفحات
+        الشخصية على أغراض الذاتي المعنية وغير التجارية، وكذلك الحصول على فرصة للوصول
+        ونشر المعلومات على الصفحات الشخصية للمستخدمين آخرين . المستخدم مثل مالك والمعلومات
+        المنشورة على الصفحة الشخصية يدرك أنه باستثناء الحالات التي وضعتها هذه اللوائح
+        والتشريعات الحالية للاتحاد الروسي، لا يشارك الشركة في تطوير واستخدام المحتوى
+        ولا تسيطر الوصول إلى صفحة المستخدم من المستخدمين الآخرين.
+      terms_4: 4. شروط.
+      p_4: هذا الاتفاق لا يزال كاملا في قوة وتأثير ما دمت استخدام الموقع. يمكنك التوقف
+        عن كونه العضو للموقع عن طريق إزالة الصفحة الخاصة بك في أي وقت، لأي سبب من
+        الأسباب، عن طريق الاتصال عبر الإنترنت خدمة العملاء أو عن طريق استخدام خدمة
+        الموقع. تحتفظ الشركة بحقها في حذف الصفحة الشخصية الخاصة بك في أي وقت. نحن
+        لسنا مضطرين لإعلامك قبل حذف الصفحة، إذا كانت الشركة لديها سبب للاعتقاد بأنك
+        قد انتهكت شروط الاتفاق. نحن غير ملزمين بالكشف عن سبب حذف الحساب الخاص بك؛
+        في بعض الحالات قد يحظر الكشف عن هذه المعلومات. بعد حذف الصفحة الخاصة بك، كل
+        الظروف التي قد تكون صالحة بعد إنهاء هذه الاتفاقية بطبيعتها ستكون سارية المفعول
+        بعد هذا الإنهاء. إذا قمت بحذف الصفحة الخاصة بك من خلال الموقع في الإرادة الخاصة
+        بك، ونحن قد يطلب منك تحديد سبب هذا الحذف.
+      account_security: 5. تأمين الحساب.
+      p_5: أنت مسؤول عن الحفاظ على سرية اسم المستخدم وكلمة المرور، والتي سوف تكون
+        وضعت في وقت التسجيل. أيضا، كنت مسؤولا تماما عن جميع الإجراءات التي تتم من
+        خلال اسم المستخدم وكلمة المرور الخاصة بك. أنت توافق على (أ) إبلاغنا فورا عن
+        أي استخدام غير مصرح به لتسجيل الدخول وكلمة المرور الخاصة بك، فضلا عن أي مخالفة
+        أمنية أخرى، و (ب) الخروج من حسابك في نهاية كل دورة. الموقع ليست مسؤولة عن
+        أي أضرار أو خسائر ناجمة عن عدم الامتثال لهذا الحكم. يجب أن تكون حذرا خصوصا
+        عند الوصول إلى الحساب الخاص بك عن طريق جهاز كمبيوتر عام من أجل أن الأشخاص
+        غير المرخص لهم لا يمكن التجسس أو تسجيل كلمة المرور الخاصة بك أو أي معلومات
+        شخصية أخرى. يمكنك أيضا تأكيد وتوافق على أن الإنترنت لم يكن أبدا الخاص تماما
+        وآمنة. عليك أن تدرك أن أي رسائل أو معلومات تقوم بنشرها على الموقع يمكن قراءة
+        أو استخدامها من قبل المستخدمين الآخرين، حتى لو كان هناك تحذير خاص أن المعلومات
+        المخفية.
+      your_interaction_with_other_users_of_the_website: 6. التفاعل مع مستخدمين آخرين
+        للموقع.
+      p_6: أ. أنت وحدك المسؤول عن التفاعل مع مستخدمين آخرين. يجب أن نفهم أن الشركة
+        لا يتحقق مستخدميها حول ما إذا كانت له سوابق جنائية. الشركة أيضا لا طلب المعلومات
+        حول ماضي مستخدميها ولا تتحقق هذه المعلومات. الشركة لا تقدم أي ضمانات بخصوص
+        سلوك المستخدم ومشتقاتها التوافق مع المستخدمين الفعليين أو المستقبلية. وفي
+        الوقت نفسه الشركة تحتفظ بحقها في التحقق من المستخدمين سجل جنائي أو القيام
+        بأعمال التحقق أخرى في أي وقت باستخدام المعلومات العامة المتاحة. ب. في أي من
+        الأحوال فإن الشركة لن تكون مسؤولة عن أي أضرار سواء أكانت مباشرة أو غير مباشرة،
+        عامة أو لها طبيعة محددة، التعويضية، و / أو عرضية أو تحصل عليها أو أي من الأفراد
+        كنتيجة لاستخدامك للموقع، بما في ذلك، سبيل المثال لا الحصر، الإصابة البدنية
+        والإجهاد و / أو أضرار أخرى، تحصل عليها نتيجة اتصال أو اجتماعات مع الأعضاء
+        المسجلين أخرى من الموقع أو الناس، التي تتعاملون معها على الموقع. أنت توافق
+        على اتخاذ كل الاحتياطات الممكنة عند الاتصال مع المستخدمين الآخرين، وخاصة في
+        تلك الحالات، عندما تقرر الالتقاء بهم في الحياة الحقيقية. يجب عليك أن تدرك،
+        ما تقوم به الشركة لا يعطي الضمانات المعلنة أو الضمنية بشأن التوافق مع مستخدمي
+        هذا الموقع. أنت لا ينبغي أن تمد المعلومات المالية لغيرهم من مستخدمي الموقع
+        (على سبيل المثال المعلومات عن الائتمان الخاصة بك أو البلاستيك CARDS). ج. خدمة
+        يمكن أن تترجم اسمك أو اسم مدينتك إلى لغات أخرى. د. الخدمة ليست مسؤولة عن الإجراءات
+        الواردة في هذه المقالة. في حال كنت لا أتفق معهم تماما أو جزئيا، يرجى فورا
+        مغادرة الموقع.
+      the_information_posted_by_you_on_flutylove: 7. على المعلومات من قبلك على FLUTYLOVE
+      p_7: أ. أنت وحدك المسؤول عن المعلومات التي تنشر أو إثبات ( "ما بعد" فيما بعد)
+        على الخدمة أو نقل للمستخدمين الآخرين. لا يسمح لك وظيفة على الخدمة أو نقل للمستخدمين
+        الآخرين أي معلومات عن محتوى التشهير، غير دقيقة أو مسيئة أو فاحشة أو المبتذلة
+        والعدوانية، والمعلومات على المحتوى الجنسي، فضلا عن المعلومات التي تهدد أو
+        المطاردة، معلومات من طبيعة التمييز العنصري أو معلومات غير قانونية، أو أي معلومات
+        أخرى تنتهك أو تنتهك حقوق أي طرف آخر (بما في ذلك، دون حصر، حقوق الملكية الفكرية،
+        وحقوق الخصوصية والدعاية). لا يسمح لك لتقديم معلومات غير دقيقة أو مضللة أو
+        كاذبة للشركة أو أي مستخدم آخر. إذا كانت المعلومات المقدمة إلى شركة Flutylove
+        أو مستخدم آخر بعد ذلك تصبح غير دقيقة أو مضللة كاذبة، يجب على الفور بإبلاغ
+        شركة Flutylove من هذا التغيير. قمت بتقديم وتضمن أن جميع المعلومات المقدمة
+        خلال عملية التسجيل هي دقيقة وصحيحة، وعليك فورا تغيير أي من المعلومات التي
+        تصبح بعد ذلك غير دقيقة أو مضللة أو كاذبة. ب. أنت تفهم وتوافق على أننا نحتفظ
+        بالحق، ولكنها غير ملزمة لمراقبة المعلومات أو المحتوى الذي يتم نقله إلى الخدمة
+        أو نشرها في وصول الجمهور على الخدمة. لدينا الحق في حذف أي من تلك المعلومات
+        أو المحتوى دون إبداء أي أسباب والإخطار. ج. كل الكائنات المعروضة على الموقع،
+        بما في ذلك عناصر التصميم، والنص، والرسومات، والرسوم التوضيحية، وأشرطة الفيديو،
+        النصوص والبرامج والموسيقى والأصوات وغيرها من الأشياء ومكتباتها (من الآن فصاعدا
+        - معلومات)، هي ملك لحقوق حصرية للشركة، ومستخدمو الموقع وغيرها من الحقوق وأصحاب،
+        وحماية جميع حقوق لهذه الكائنات. د. باستثناء ما المجرمة وفقا لهذه الاتفاقية،
+        فضلا عن التشريعات الحالية من الاتحاد الروسي، لا يجوز نسخ أي معلومات (مستنسخة)،
+        ومعالجتها، وزعت، عرض في الإطار، نشرت أو تنزيلها أو نقلها أو بيعها أو استخدامها
+        بطرق أخرى في كاملة أو مقطعة دون إذن مسبق من مالك، إلا إذا كان صاحب الحق أعرب
+        صراحة عن موافقتها على استخدام مجاني للمعلومات من قبل أي فرد. ه. عن طريق نشر
+        معلومات على الموقع ينتمون بشكل قانوني إلى المستخدم، ويوفر للمستخدم الوصول
+        للمستخدمين الآخرين على الحق غير الحصري لاستخدامه عن طريق عرض، تشغيل (بما في
+        ذلك النسخ) وغيرها من الحقوق فقط لأغراض الاستخدام الشخصي غير التجاري، إلا الحالات
+        عندما يؤدي هذا الاستخدام أو قد تسبب ضررا لمصالح صاحب الحق يحميها القانون.
+        F. يسمح للاستخدام من المعلومات من قبل المستخدم، الذي الوصول وقد اكتسبت فقط
+        لاستعمالك الشخصي غير التجاري، على شرط أن جميع علامات التأليف (حق المؤلف) أو
+        غيرها من إشعارات التأليف وستبقى، واسم المؤلف ومنتجاتها سيتم ترك دون تغيير.
+        ز. يوفر للمستخدم أيضا في الشركة مع حق غير حصري لاستخدام المعلومات المنشورة
+        على الموقع والانتماء له / لها بشكل قانوني دون النظر لضمان سير العمل في الموقع
+        الالكتروني للشركة في أداء العمارة وظيفة الموقع. يتم منح حق غير حصري المشار
+        إليها أعلاه لوضع المحتوى على الموقع ويغطي أراضي البلدان في جميع أنحاء العالم.
+        والشركة لديها الحق في نقل الحقوق المشار إليها هذه الفقرة إلى أطراف ثالثة.
+        يوافق المستخدم على أن الشركة لديها الحق في استخدام الخيارات الوظيفية والتقنية
+        للموقع، وتوفير عرض لمشاركة المحتوى من قبل المستخدم، بما في ذلك أغراض عرض المعلومات
+        الإعلان. مرحبا. في حالة المستخدم حذف المعلومات من الموقع، حق غير حصري سيتم
+        إلغاء تلقائيا، ولكن نظرا للمواصفات الفنية للموقع تحتفظ الشركة بحقها في حفظ
+        نسخ احتياطية من المعلومات في الوقت المطلوب وعند الاقتضاء. أنا. وبصرف النظر
+        عن المعلومات الخاصة، والعضو ليس لديه الحق في تحميل، أو الكشف بطريقة مختلفة
+        (عن طريق نشر على الموقع الإلكتروني) على معلومات من مواقع أخرى، وقواعد البيانات
+        وحقوق الملكية الفكرية الأخرى في ظل غياب أعرب صراحة الموافقة على مثل هذه الإجراءات
+        من حقوق التأليف والنشر مالك. ي. ما لم يذكر خلاف ذلك في هذه اللائحة، لا يمكن
+        اعتبار أي شيء في هذه اللائحة كما نقل الحقوق الحصرية للمعلومات. ك. يجب أن تكون
+        جميع المعلومات التي تنشر على الملف الشخصي للمستخدم، ودقيقة، ما يصل إلى تاريخ
+        وكاملة. المستخدم على الاطلاق وحدها المسؤولة عن أي معلومات التي تم تحميلها
+        أو الكشف عنها بطريقة مختلفة (مرسل) على الموقع الإلكتروني أو بمساعدة المستخدم.
+        لم يقم المستخدم الحق في تحميل ونقل أو نشر المحتوى على الموقع، إذا هو / هي
+        لا تملك الحقوق المناسبة لاتخاذ مثل هذا الإجراء، استحوذت أو تفويض له / لها
+        وفقا للتشريعات الاتحاد الروسي. واستطاعت الشركة، ولكن ليست ملزمة، لتصفح الموقع
+        عن أي محتوى غير قانوني، ويسمح لحذف أو نقل (بدون سابق إنذار) أي محتوى أو المستخدمين
+        وفقا لتقديرها، لأي سبب من الأسباب أو بدون أسباب، بما في ذلك سبيل المثال لا
+        الحصر للتحرك، أو حذف المعلومات التي، وفقا لرأي فردي للشركة ينتهك هذا الاتفاق،
+        وتشريعات الاتحاد الروسي و / أو تنتهك حقوق، تجرح، أو تشكل خطرا على أمن المستخدمين
+        أو أي طرف آخر. يحتوي الموقع (أو قد تحتوي على) وصلات إلى مواقع أخرى على الإنترنت
+        (مواقع أطراف ثالثة) وكذلك المواد والصور والرسوم التوضيحية والرسومات والموسيقى
+        والصوت والفيديو والمعلومات والتطبيقات والبرمجيات وغيرها من المعلومات التي
+        تنتمي إلى أو القادمة من أطراف ثالثة (محتوى الطرف الثالث)، والتي هي نتيجة للنشاط
+        الفكري ومحمي وفقا لتشريعات الاتحاد الروسي. لم يتم التحقق من هذه الأطراف الثالثة
+        والمعلومات الخاصة بهم من قبل الشركة للامتثال مع هذا أو متطلبات أخرى (دقة واكتمال
+        والصدق، وما إلى ذلك). والشركة ليست مسؤولة عن أي محتوى على مواقع الطرف الثالث
+        الذي المكاسب العضو الوصول من خلال الموقع أو من خلال المعلومات الطرف الثالث،
+        بما في ذلك سبيل المثال لا الحصر أي آراء أو بيانات أعرب على مواقع طرف ثالث
+        أو في معلومات الخاصة بهم. الرابط إلى أي موقع أو منتج أو خدمة و، أي المعلومات
+        ذات الطابع التجاري وغير التجارية الواردة في هذا الموقع ليست موافقة أو توصية
+        لهذه المنتجات (الخدمات) من الشركة. إذا قرر المستخدم لمغادرة الموقع والذهاب
+        إلى مواقع أطراف ثالثة أو استخدام أو تثبيت برامج طرف ثالث، وقال انه / انها
+        تفعل ذلك على مسؤوليتهم الخاصة ومنذ تلك اللحظة لم تعد تطبق هذه اللائحة على
+        العضو. وتسترشد المزيد من الإجراءات العضو بالقواعد والسياسات المعمول بها، بما
+        في ذلك الممارسات التجارية من الأفراد الذين انه / انها سوف تستخدم المعلومات.
+      forbidden_actions: 8. المحرمات.
+      p_8: أ. يحظر "تراقب عن كثب" أو إزعاج أي شخص بطريقة أخرى. ب. يحظر استخدام السير،
+        والفيروسات، وتطبيقات للبحث / استخراج المواقع، أو غيرها من الأجهزة اليدوية
+        أو الآلية أو العمليات لاستخراج، ومؤشر "تجسس" أو استنساخها بطريقة أخرى أو التحايل
+        على بنية التنقل وعرض من الخدمة أو محتوياته . ج. يحظر نشر أو توزيع أو إعادة
+        إنتاج افيريواي أي معلومات حقوق الطبع والنشر والعلامات التجارية، أو غيرها من
+        المعلومات التي تحميها حقوق التأليف والنشر دون الحصول على موافقة مسبقة من مالك
+        حقوق الطبع والنشر. د. يحظر إزالة أي حقوق النشر والعلامات التجارية أو غيرها
+        من إشعارات حقوق التأليف والنشر الواردة على الخدمة. ه. يحظر التدخل في أو تعطيل
+        عملية الخدمة والموقع الإلكتروني، أو الخدمات والشبكات المتصلة بالخدمة أو الموقع.
+        F. يحظر نشر أو البريد الإلكتروني أو نقل بطريقة مختلفة أي من المعلومات التي
+        تحتوي على فيروسات أو أي شفرات حاسوبية أو ملفات أو برامج معدة للتدخل، وتدمير
+        أو تقييد وظيفة أي برنامج كمبيوتر، أجهزة أو معدات الاتصالات. ز. يحظر تزوير
+        العناوين أو التلاعب في التعيين لغرض تمويه المعنى الحقيقي للأي تبادل المعلومات
+        من خلال الخدمة. ح. يحظر "قهوة" أو "نسخة" أي جزء من الخدمة أو الموقع دون إذن
+        خطي مسبق من Flutylove. أيضا، لا يجوز لك استخدام أي من العلامات الفوقية أو
+        رمز، أو غيرها من الأجهزة التي تحتوي على أي روابط لFlutylove، الخدمة أو الموقع
+        من أجل توجيه أي شخص إلى موقع آخر لأي غرض من الأغراض. أنا. يحظر تعديل أو إعادة
+        ترخيص، ترجمة، بيع، إعادة الهيكلة، فك، فك أو تفكيك أي جزء من الخدمة أو الموقع،
+        أو أي البرامج المستخدمة في هذا الموقع أو ذلك، وكذلك تشجع الآخرين على اتخاذ
+        إجراءات مماثلة . ي. يحظر نشر أية معلومات ذات المحتوى الإباحي و / أو المثيرة.
+      the_changes_in_the_service: 9. التغيرات في الخدمة.
+      ip_address_blocking: 10. IP عنوان حظر.
+      p_10: من أجل حماية سلامة الموقع، تحتفظ Flutylove الحق في أي وقت من الأوقات على
+        الراحة الخاصة لمنع عناوين IP لبعض المستخدمين.
+      relations_between_users_online: 11. العلاقات بين مستخدمي الانترنت
+      p_11: أنت وحدك المسؤول عن تعاملك مع مستخدمين آخرين من Flutylove. تحتفظ Flutylove
+        الحق، وليس الالتزام، لرصد الخلافات بينك وبين المستخدمين الآخرين.
+      security_and_communication: 12. الأمن والاتصالات.
+      p_12: طريق للموقع و / أو الخدمة يخضع أيضا لسياسة الخصوصية. عندما تصبح العضو
+        لذلك، فإنك توافق على وموافقة لتلقي رسائل البريد الإلكتروني من الولايات المتحدة.
+        قد تمثل هذه الرسائل والإخطارات عن العمليات أو غيرها من الإخطارات المرتبطة
+        الخدمة، مثل الإشعارات الإدارية والتصريحات الرسمية حول التغييرات، أو رسائل
+        البريد الإلكتروني التي تحتوي على العروض التجارية والمواد الترويجية والعروض
+        الخاصة منا، أو معلومات حول تصرفات المستخدمين أخرى تتعلق بك حساب المستخدم.
+        يرجى قراءة سياسة الخصوصية لمعرفة المزيد عن هذه الإخطارات.
+      denial_of_responsibility: 13. إنكار مسؤوليتها عن.
+      p_13: أ. Flutylove أنه غير مسئول عن أي معلومات غير صحيحة أو غير دقيقة نشرت على
+        الموقع أو يرتبط مع الخدمة، مستخدمي الموقع أو أي جهاز أو برنامج المرتبطة خدمتنا
+        أو يستخدم هناك. Flutylove أنه غير مسئول عن السلوك، سواء على الانترنت وغير
+        متصل، من أي مستخدم للموقع. Flutylove لا تحمل مسؤوليات عن أي أخطاء وهفوات،
+        انقطاع أو حذف أو تلف أو تأخير في التشغيل أو العمليات، فشل خط الاتصالات، سرقة
+        أو تدمير، والوصول غير المصرح به أو تغيير خطوط الاتصال للمستخدم. Flutylove
+        أنه غير مسئول عن أي مشاكل أو خلل فني في أي شبكة خطوط الهاتف أو، أنظمة الكمبيوتر
+        على الإنترنت، الخوادم أو مقدمي الخدمات، وأجهزة الحاسوب، والبرمجيات، والبريد
+        أو لاعبين فشل في حساب المستخدم، مشاكل تقنية أو الازدحام على شبكة الإنترنت
+        أو في أي موقع أو الجمع بينها، بما في ذلك حوادث أو إصابات للمستخدمين أو أي
+        أطراف ثالثة ذات الصلة إلى جهاز كمبيوتر، أو نتيجة المشاركة في أو تحميل المعلومات
+        المتعلقة بالشبكة و / أو الخدمة. تحت أي ظرف من الظروف شركة Flutylove أو أي
+        من الشركات التابعة لها، وكلاء الدعاية والمؤسسين أو الشركاء التوزيع لن مسؤولة
+        عن أي خسارة أو ضرر، بما في ذلك الإصابة الشخصية أو الوفاة، بسبب استخدام للموقع
+        أو خدمة، أي محتوى على الموقع ، أو أي تفاعلات بين مستخدمي الموقع، سواء على
+        الانترنت وغير متصل. الموقع ويتم توفير الخدمة على أساس كما هو، وتتنصل Flutylove
+        صراحة أي ضمانات أو الملاءمة لغرض معين، أو عدم وجود انتهاك لحقوق أي شخص. Flutylove
+        لا يمكن أن يضمن، ولا يعد بأي نتائج محددة من استخدام للموقع و / أو الخدمة.
+      links: 14. الروابط.
+      p_14: أ. Flutylove أنه غير مسئول عن أي معلومات غير صحيحة أو غير دقيقة نشرت على
+        الموقع أو يرتبط مع الخدمة، مستخدمي الموقع أو أي جهاز أو برنامج المرتبطة خدمتنا
+        أو يستخدم هناك. Flutylove أنه غير مسئول عن السلوك، سواء على الانترنت وغير
+        متصل، من أي مستخدم للموقع. Flutylove لا تحمل مسؤوليات عن أي أخطاء وهفوات،
+        انقطاع أو حذف أو تلف أو تأخير في التشغيل أو العمليات، فشل خط الاتصالات، سرقة
+        أو تدمير، والوصول غير المصرح به أو تغيير خطوط الاتصال للمستخدم. Flutylove
+        أنه غير مسئول عن أي مشاكل أو خلل فني في أي شبكة خطوط الهاتف أو، أنظمة الكمبيوتر
+        على الإنترنت، الخوادم أو مقدمي الخدمات، وأجهزة الحاسوب، والبرمجيات، والبريد
+        أو لاعبين فشل في حساب المستخدم، مشاكل تقنية أو الازدحام على شبكة الإنترنت
+        أو في أي موقع أو الجمع بينها، بما في ذلك حوادث أو إصابات للمستخدمين أو أي
+        أطراف ثالثة ذات الصلة إلى جهاز كمبيوتر، أو نتيجة المشاركة في أو تحميل المعلومات
+        المتعلقة بالشبكة و / أو الخدمة. تحت أي ظرف من الظروف شركة Flutylove أو أي
+        من الشركات التابعة لها، وكلاء الدعاية والمؤسسين أو الشركاء التوزيع لن مسؤولة
+        عن أي خسارة أو ضرر، بما في ذلك الإصابة الشخصية أو الوفاة، بسبب استخدام للموقع
+        أو خدمة، أي محتوى على الموقع ، أو أي تفاعلات بين مستخدمي الموقع، سواء على
+        الانترنت وغير متصل. الموقع ويتم توفير الخدمة على أساس كما هو، وتتنصل Flutylove
+        صراحة أي ضمانات أو الملاءمة لغرض معين، أو عدم وجود انتهاك لحقوق أي شخص. Flutylove
+        لا يمكن أن يضمن، ولا يعد بأي نتائج محددة من استخدام للموقع و / أو الخدمة.
+      limitation_of_responsibility: 15. تحديد المسؤولية.
+      p_15: الموقع وظائفها بما في ذلك جميع النصوص والتطبيقات والمحتوى وتصميم الموقع
+        يتم توفيرها على أساس كما هو. الشركة تنفي أي ضمان بأن الموقع أو وظائفها قد
+        تكون مناسبة أو غير مناسبة لغرض الاستخدام الخاصة. الشركة لا يمكن أن يضمن، ولا
+        يعد بأي نتائج محددة من استخدام للموقع و / أو وظائفها. لتجنب الارتباك، يجب
+        على المستخدم مراعاة احتياطات السلامة عند تحميل من موقع أو من خلال مواقع النشر،
+        واستخدام أية ملفات، بالإضافة إلى البرامج. الشركة يوصى باستخدام البرامج المرخصة
+        فقط، وكذلك برامج مكافحة الفيروسات. عبر استخدام الموقع، يمكن للمستخدم توافق
+        على أن التنزيل من الموقع أو ITS HELP أي محتوى في له / لها المخاطر الخاصة بها
+        وحدها المسؤولة عن النتائج المحتملة لاستخدام هذه المعلومات، بما في ذلك أي أضرار
+        أنه قد يتسبب في كمبيوتر المستخدم أو إلى المركز الثالث الأطراف، وفقدان البيانات،
+        أو أي أضرار أخرى. تحت أي ظرف من الظروف الشركة أو وكلائها تتحمل أية مسؤولية
+        للمستخدم أو إلى أي طرف ثالث عن أي أضرار غير مباشرة أو عرضية أو UNWILFUL، بما
+        في ذلك فقدان المنافع، أو فقدان البيانات، وتلف الشرف، الكرامة أو السمعة التجارية،
+        الناشئة عن استخدام هذا الموقع، ومضمونه أو أي معلومات أخرى لتكون أنت أو أي
+        شخص آخر تحصل على فرص الوصول من خلال الموقع، حتى لو كانت الشركة حذرت أو يشير
+        إلى احتمال حدوث مثل هذه الأضرار.
+      responsibilities_of_the_parties: 16. مسؤوليات الأطراف.
+      p_16: هذه الاتفاقية تخضع وتفسر وفقا لتشريعات الاتحاد الروسي. تتم تسوية القضايا
+        التي لا يسوى عن طريق الاتفاق وفقا للتشريعات الاتحاد الروسي. في حال وجود أي
+        خلافات أو الخلافات المتعلقة بتنفيذ هذه اللائحة، فإن شركة المستخدم وبذل كل
+        جهد لحلها من خلال المفاوضات. وفي حالة عدم حل النزاعات عن طريق المفاوضات، يتم
+        تسوية المنازعات وفقا للتشريعات المعمول بها في الاتحاد الروسي. يتم تنفيذ هذا
+        الاتفاق في اللغة الروسية، ويمكن أن تقدم إلى المستخدم للمراجعة في لغة أخرى.
+        في حالة وجود تناقض في إصدار لوائح في اللغة الروسية ونسختها في لغة أخرى، تطبق
+        النسخة باللغة الروسية لأحكام هذا النظام. إذا كان لسبب أو لآخر، وستعلن واحد
+        أو أكثر من أحكام هذه اللائحة غير صالح أو باطلة، وهذا لا يؤثر على صحة أو قابلية
+        تنفيذ الأحكام المتبقية.
+      other_provisions_and_changes: 17. أحكام والتغيرات الأخرى.
+      p_17: هذا الاتفاق هو اتفاق حقيقي بينك وبين Flutylove فيما يتعلق باستخدام من
+        الموقع و / أو الخدمة. إذا كان أي حكم من أحكام هذا الاتفاق الفراغات، والباقي
+        من الاتفاق لا تزال صلاحيتها في التأثير الكامل. يجوز تعديل هذه الاتفاقية من
+        قبل Flutylove في أي وقت. لا تترددوا في الاتصال بنا مع أي أسئلة بخصوص هذا الاتفاق.
+      read_this: أنا قد قرأت هذه الاتفاقية والموافقة على جميع ببنودها.
+    about:
+      about_flutylove: معلومات Flutylove
+      about_flutylove_text: Flutylove هي شبكة الترفيه الاجتماعية الدولية للdatings.
+        هنا يمكنك أن تجد الأصدقاء، نصفه أو الشركاء أو مجرد قضاء وقتك مع الاستمتاع
+        باللعب الألعاب أو مشاهدة أشرطة الفيديو / الصور.
+      flutylove_features: 'عندما كنت سوف توقع على موقعنا، يمكنك معرفة العديد من الميزات
+        مثل:'
+      video_call_feature: يمكنك الدردشة مع شريك مع كاميرا ويب
+      extended_search: يمكنك استخدام البحث الموسع مجانا
+      multilanguages: يمكنك البحث شركاء من دول أخرى، وذلك لأن خدمتنا المتوقع لاستخدامها
+        من قبل مجموعة واسعة من الناس من بلدان أخرى لأنها ترجمت أكثر من 70 لغة
+      play_games_chatting_etc: يمكنك الدردشة مع أشخاص آخرين، ولعب مباريات وتفعل المواد
+        اجتماعية أخرى
+      we_are_in_social_networks: 'نحن في الشبكات الاجتماعية:'
+      facebook: الفيسبوك
+      twitter: تويتر
+      vk: فكونتاكتي
+      google_plus: جوجل بلس
+      instagram: إينستاجرام
+      github: جيثب
+      we_use_open_source_and_high_technology: نحن نستخدم التكنولوجيا العالية والمكتبات
+        مفتوحة المصدر. نحن دائما في محاولة للحصول على أفضل وتحسين خدماتنا.
+      partners_and_investors: يتم فتحها ونحن للشراكة ونود أن العثور على مستثمرين.
+        إذا كنت ترغب في التعاون معنا يرجى الاتصال بنا على partnership@flutylove.com
+    faq:
+      faq: التعليمات
+      what_is_flutylove: ما هو Flutylove؟
+      about_flutylove: Flutylove هي شبكة الترفيه الاجتماعية الدولية للdatings. هنا
+        يمكنك أن تجد الأصدقاء، نصفه أو الشركاء أو مجرد قضاء وقتك مع الاستمتاع باللعب
+        الألعاب أو مشاهدة أشرطة الفيديو / الصور.
+      what_features_has_flutylove: ما يتميز ديه Flutylove؟
+      flutylove_features: هنا يمكنك الدردشة مع videocams، استخدم بحث موسع، شركاء البحث
+        من بلدان أخرى، ولعب مباريات وتفعل المواد الاجتماعية الأخرى.
+      i_have_some_requests: لدي بعض الطلبات
+      you_can_write_request: يمكنك الاشتراك والكتابة
+      here: هنا
+      i_have_seen_some_typo_or_wrong_translation: لقد رأيت بعض الخطأ المطبعي أو الترجمة
+        الخاطئة
+      you_can_send_pull_request_to_our: يمكنك إرسال طلب سحب لدينا
+      github_repository: جيثب مستودع
+      i_have_seen_some_error: لقد رأيت بعض الخطأ
+      you_can_send: يمكنك أن ترسل لنا ردود الفعل من قبل
+      feedback: هذا النموذج
+      to_us_or_write_to_our_info_mail: أو إرسال بريد إلكتروني إلى support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: مرحبا بكم في Flutylove
+      you_have_successfully_signed_up_to_flutylove: لقد اشتركت بنجاح لFlutylove
+      you_can_sign_in_with_your_social_networks: إذا كنت ترغب في تسجيل الدخول مرة
+        أخرى يمكنك تسجيل الدخول باستخدام حساب الشبكة الاجتماعية
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: إذا
+        كنت ترغب في الدخول مع البريد الإلكتروني وكلمة السر يمكنك تغيير كلمة المرور
+        عن طريق تسجيل الخروج وانقر على الرابط أدناه
+      change_password: تغيير كلمة المرور
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: غير صحيحة
+            search_for:
+              search_for_error: غير صحيحة
+            birth_date:
+              birth_date_error: تحتاج إلى أن تكون أكبر من 18 وأقل من 115
+            interests:
+              interests_error: تحتاج إلى أن تكون أقل من 2000 حرف
+            jobs:
+              jobs_error: تحتاج إلى أن تكون أقل من 2000 حرف
+            languages:
+              languages_error: تحتاج إلى أن تكون أقل من 2000 حرف
+            sex_keywords:
+              sex_keywords_error: تحتاج إلى أن تكون أقل من 2000 حرف
+            my_turn_ons:
+              my_turn_ons_error_error: غير صحيحة
+            contacts:
+              contacts_length_error: تحتاج إلى أن تكون أقل من 2000 حرف
+              contacts_size_error: تحتاج إلى أن تكون أقل من 21 اتصالات
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: له قيمة غير صالحة
+  devise:
+    confirmations:
+      confirmed: حسابك وأكد بنجاح.
+      send_instructions: سوف تتلقى رسالة بريد إلكتروني مع تعليمات حول كيفية تأكيد
+        حسابك في بضع دقائق.
+      send_paranoid_instructions: في حالة وجود عنوان البريد الإلكتروني الخاص بك في
+        قاعدة بياناتنا، سوف تتلقى رسالة بريد إلكتروني مع تعليمات حول كيفية تأكيد حسابك
+        في بضع دقائق.
+      new:
+        send_mail_for_confirm_your_email: إرسال البريد لتأكيد البريد الإلكتروني الخاص
+          بك
+        submit: إرسال
+    failure:
+      already_authenticated: أنت وقعت بالفعل في.
+      inactive: حسابك لم يتم تفعيله بعد.
+      invalid: البريد الإلكتروني غير صالح أو كلمة المرور.
+      locked: حسابك مقفل.
+      last_attempt: لديك محاولة واحدة أخرى قبل أن يكون مؤمنا حسابك.
+      not_found_in_database: البريد الإلكتروني غير صالح أو كلمة المرور.
+      timeout: جلستك انتهت. يرجى تسجيل الدخول مرة أخرى للمتابعة.
+      unauthenticated: تحتاج لتسجيل الدخول أو الاشتراك قبل المتابعة.
+      unconfirmed: لديك لتأكيد حسابك قبل المتابعة.
+    mailer:
+      confirmation_instructions:
+        subject: تعليمات تأكيد
+        welcome_to_flutylove: مرحبا بكم في Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: يمكنك التأكد من
+          البريد الإلكتروني من خلال الرابط أدناه
+        confirm_my_account: تأكيد البريد الإلكتروني الخاص بي
+      reset_password_instructions:
+        hello: مرحبا
+        subject: تعليمات إعادة تعيين كلمة المرور
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: شخص
+          ما لديه رابطا لتغيير كلمة المرور الخاصة بك الطلبات. يمكنك القيام بذلك من
+          خلال الرابط أدناه.
+        change_my_password: تغيير كلمة المرور الخاصة بي
+        if_you_didnt_request_this_please_ignore_this_email: إذا لم تطلب هذا الرجاء
+          تجاهل هذا البريد الإلكتروني.
+      unlock_instructions:
+        subject: تعليمات فتح
+    omniauth_callbacks:
+      failure: لا يمكن مصادقتك من٪ {نوع} لأن "٪ {السبب}".
+      success: مصادقة بنجاح من٪ {نوع} حساب.
+    passwords:
+      no_token: لا يمكنك الوصول إلى هذه الصفحة دون قادمة من البريد الإلكتروني إعادة
+        تعيين كلمة المرور. إذا كنت لا تأتي من البريد الإلكتروني إعادة تعيين كلمة المرور،
+        من فضلك تأكد من استخدام عنوان URL الكامل المقدمة.
+      send_instructions: سوف تتلقى رسالة بريد إلكتروني مع تعليمات حول كيفية إعادة
+        ضبط كلمة المرور الخاصة بك في بضع دقائق.
+      send_paranoid_instructions: في حالة وجود عنوان البريد الإلكتروني الخاص بك في
+        قاعدة بياناتنا، سوف تتلقى وصلة استعادة كلمة السر على عنوان البريد الإلكتروني
+        الخاص بك في بضع دقائق.
+      new:
+        forgot_your_password: نسيت كلمة السر الخاصة بك
+        reset_password: إرسال استعادة رابط
+      edit:
+        change_your_password: تغيير كلمة المرور الخاصة بك
+        new_password: كلمة المرور الجديدة
+        change_password: تغيير
+    registrations:
+      destroyed: وداعا! تم إلغاء حسابك بنجاح. ونحن نأمل أن نراكم مرة أخرى قريبا.
+      signed_up: أهلا وسهلا! كنت قد وقعت بنجاح.
+      signed_up_but_inactive: لقد وقعت بنجاح. ومع ذلك، لم نتمكن من تسجيل دخولك لحسابك
+        لم يتم تنشيطه بعد.
+      signed_up_but_locked: لقد وقعت بنجاح. ومع ذلك، لم نتمكن من تسجيل دخولك بسبب
+        تأمين حسابك.
+      signed_up_but_unconfirmed: رسالة مع رابط التأكيد تم إرسالها إلى عنوان البريد
+        الإلكتروني الخاص بك. يرجى فتح الرابط لتفعيل حسابك.
+      update_needs_confirmation: يمكنك تحديث حسابك بنجاح، لكننا بحاجة للتحقق من عنوان
+        بريدك الإلكتروني الجديد. يرجى التحقق من البريد الإلكتروني الخاص بك وانقر على
+        الرابط تأكيد لوضع اللمسات الأخيرة تؤكد عنوان بريدك الإلكتروني الجديد.
+      updated: يمكنك تحديث حسابك بنجاح.
+      new:
+        sign_up: اشترك
+        name: اسم
+        password: كلمة المرور
+        register: اشترك
+    shared:
+      links:
+        sign_in: تسجيل الدخول
+        sign_up: اشترك
+        didnt_receive_confirmation_instructions: لم تلقوا تعليمات التأكيد؟
+        sign_in_with: تسجيل الدخول مع
+        fast_login_almost_one_click: تسجيل الدخول السريع (تقريبا بنقرة واحدة)
+    sessions:
+      signed_in: توقيع الدخول بنجاح.
+      signed_out: توقيع بنجاح.
+      new:
+        sign_in: تسجيل الدخول
+        password: كلمة المرور
+        remember_me: تذكرني
+        forgot_your_password: نسيت كلمة المرور؟
+    unlocks:
+      send_instructions: سوف تتلقى رسالة بريد إلكتروني مع تعليمات حول كيفية فتح حساب
+        الخاص بك في بضع دقائق.
+      send_paranoid_instructions: في حالة وجود حسابك، سوف تتلقى رسالة بريد إلكتروني
+        مع تعليمات حول كيفية فتحه في بضع دقائق.
+      unlocked: حسابك تم إلغاء بنجاح. الرجاء تسجيل الدخول للمتابعة.
+  timezones:
+    American Samoa: ساموا الأمريكية
+    International Date Line West: خط التاريخ الدولي الغربية
+    Midway Island: جزيرة ميدواي
+    Hawaii: هاواي
+    Alaska: ألاسكا
+    Pacific Time (US & Canada): بتوقيت المحيط الهادئ (الولايات المتحدة وكندا)
+    Tijuana: تيخوانا
+    Arizona: أريزونا
+    Chihuahua: تشيهواهوا
+    Mazatlan: مازاتلان
+    Mountain Time (US & Canada): التوقيت الجبلي (الولايات المتحدة وكندا)
+    Central America: أمريكا الوسطى
+    Central Time (US & Canada): التوقيت المركزي (الولايات المتحدة وكندا)
+    Guadalajara: غوادالاخارا
+    Mexico City: مكسيكو سيتي
+    Monterrey: مونتيري
+    Saskatchewan: ساسكاتشوان
+    Bogota: بوغوتا
+    Eastern Time (US & Canada): بتوقيت شرق (الولايات المتحدة وكندا)
+    Indiana (East): إنديانا (الشرق)
+    Lima: ليما
+    Quito: كيتو
+    Atlantic Time (Canada): توقيت الأطلسي (كندا)
+    Caracas: كراكاس
+    Georgetown: جورج تاون
+    La Paz: لاباز
+    Santiago: سانتياغو
+    Newfoundland: نيوفاوندلاند
+    Brasilia: برازيليا
+    Buenos Aires: بوينس آيرس
+    Greenland: غرينلاند
+    Montevideo: مونتيفيديو
+    Mid-Atlantic: منتصف المحيط الأطلسي
+    Azores: الازور
+    Cape Verde Is: الرأس الأخضر هو.
+    Casablanca: الدار البيضاء
+    Dublin: دبلن
+    Edinburgh: أدنبرة
+    Lisbon: لشبونة
+    London: لندن
+    Monrovia: مونروفيا
+    UTC: UTC
+    Amsterdam: أمستردام
+    Belgrade: بلغراد
+    Berlin: برلين
+    Bern: برن
+    Bratislava: براتيسلافا
+    Brussels: بروكسل
+    Budapest: بودابست
+    Copenhagen: كوبنهاغن
+    Ljubljana: ليوبليانا
+    Madrid: مدريد
+    Paris: باريس
+    Prague: براغ
+    Rome: روما
+    Sarajevo: سراييفو
+    Skopje: سكوبي
+    Stockholm: ستوكهولم
+    Vienna: فيينا
+    Warsaw: وارسو
+    West Central Africa: غرب وسط أفريقيا
+    Zagreb: زغرب
+    Athens: أثينا
+    Bucharest: بوخارست
+    Cairo: القاهرة
+    Harare: هراري
+    Helsinki: هلسنكي
+    Istanbul: اسطنبول
+    Jerusalem: القدس
+    Kaliningrad: كالينينغراد
+    Kyiv: كييف
+    Pretoria: بريتوريا
+    Riga: ريغا
+    Sofia: صوفيا
+    Tallinn: تالين
+    Vilnius: فيلنيوس
+    Baghdad: بغداد
+    Kuwait: الكويت
+    Minsk: مينسك
+    Moscow: موسكو
+    Nairobi: نيروبي
+    Riyadh: الرياض
+    Volgograd: فولغوغراد
+    Tehran: طهران
+    Abu Dhabi: أبو ظبي
+    Baku: باكو
+    Muscat: مسقط
+    Samara: سمارة
+    Tbilisi: تبليسي
+    Yerevan: يريفان
+    Kabul: كابول
+    Ekaterinburg: ايكاترينبرغ
+    Islamabad: اسلام اباد
+    Karachi: كراتشي
+    Tashkent: طشقند
+    Chennai: تشيناي
+    Kolkata: كولكاتا
+    Mumbai: مومباي
+    New Delhi: نيودلهي
+    Sri Jayawardenepura: انكا Jayawardenepura
+    Kathmandu: كاتماندو
+    Almaty: ألماتي
+    Astana: أستانا
+    Dhaka: دكا
+    Novosibirsk: نوفوسيبيرسك
+    Urumqi: أورومتشي
+    Rangoon: رانغون
+    Bangkok: بانكوك
+    Hanoi: هانوي
+    Jakarta: جاكرتا
+    Krasnoyarsk: كراسنويارسك
+    Beijing: بكين
+    Chongqing: تشونغتشينغ
+    Hong Kong: هونج كونج
+    Irkutsk: إيركوتسك
+    Kuala Lumpur: كوالالمبور
+    Perth: بيرث
+    Singapore: سنغافورة
+    Taipei: تايبيه
+    Ulaanbaatar: أولان باتور
+    Osaka: أوساكا
+    Sapporo: سابورو
+    Seoul: سيول
+    Tokyo: طوكيو
+    Yakutsk: ياكوتسك
+    Adelaide: أديليد
+    Darwin: داروين
+    Brisbane: بريسبان
+    Canberra: كانبيرا
+    Guam: غوام
+    Hobart: هوبارت
+    Melbourne: ملبورن
+    Port Moresby: بورت مورسبي
+    Sydney: سيدني
+    Vladivostok: فلاديفوستوك
+    Magadan: ماجادان
+    New Caledonia: كاليدونيا الجديدة
+    Solomon Is: سليمان.
+    Srednekolymsk: سريدنكوليمسك
+    Auckland: أوكلاند
+    Fiji: فيجي
+    Kamchatka: كامتشاتكا
+    Marshall Is: مارشال هل.
+    Wellington: ولينغتون
+    Chatham Is: تشاتام هل.
+    Nuku'alofa: نوكو ألوفا
+    Samoa: ساموا
+    Tokelau Is: توكيلاو هل.
+  ar: ar
+  ar_iso: ar

@@ -1,0 +1,1706 @@
+---
+cs:
+  1_we_have_just_launched_our_service_title: Právě jsme spustili naše služby!
+  common_keywords: seznámení, online datování, láska seznámení, webkamera datování,
+    rychlost datování, webkamera chatu datování, Ruby on Rails seznamka, vícejazyčný
+    seznamka
+  common_description: Nejvyspělejší mezinárodní sociální síť pro zábavu seznámení
+    "Flutylove"
+  default_album: Výchozí album
+  user: Uživatel
+  user_to_search_connection: Hledání
+  video: Video
+  note: Note
+  photo_album: Fotogalerie
+  to: Chcete-li
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: odnoklassniki
+  gender:
+  - male:
+      name: Muž
+  - female:
+      name: Žena
+  - transgender:
+      name: Transgender
+  - male-female:
+      name: Male-Female
+  - double-female:
+      name: Double ženského
+  - double-male:
+      name: Double male
+  orientation:
+  - heterosexual: Heterosexuální
+  - homosexual: Homosexuální
+  - bisexual: Bisexuální
+  search_for:
+  - chatting: Chatování
+  - get_friends: Získat přátelé
+  - flirtation: Flirtation
+  - marriage: Manželství
+  - other: Další
+  body_type:
+    slim: Slim
+    normal: Normal
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Single
+    in_a_relationship: Ve vztahu
+    married: Ženatý
+    nothing_serious: Nic vážného
+  children:
+    dont_have: Nemáte
+    dont_have_and_dont_want_to: Nemáte a nechtějí
+    don_t_have_but_planning: Nemám, ale plánování
+    have_enough: Have
+    have_and_planning_more: Have a plánuje další
+    unable_to_have_children: Nelze mít děti
+  living:
+    with_parents: S rodiči
+    with_marriage_partner: S manželství partnera
+    alone: Alone
+    with_friends: S přítele (y)
+  education:
+    nothing: Nic
+    secondary_school: Střední škola
+    college_technical_college: College / průmyslová škola
+    university: University
+    postgraduate: Postgraduální
+    phd_md_post_doctorate: PhD / MD / Post doktorát
+  hair_color:
+    blonde: Blonde
+    dark_blond: Tmavé blond
+    brown: Brown
+    black: Black
+    red: Red
+    gray: Gray
+    other: Další
+  income:
+    unemployed: Nezaměstnaný
+    unstable_earnings: Nestabilní zisk
+    small_stable_earnings: Malé stabilních výnosů
+    medium_stable_earnings: střední stabilních výnosů
+    higher_than_average_income: Vyšší než průměrný příjem
+    high_income: Vysoký příjem
+  smoking:
+    not_smoke: Ne kouření
+    not_smoke_and_detest: Ne kouřit a nenávidím kouření
+    smoke_in_a_social_setting: Někdy v sociálním prostředí
+    smoke_occasionally: Kouř příležitostně
+    smoke_often: Smoke často
+  alcohol:
+    not_drinking: ne pití
+    drink_occalionally: pití příležitostně
+    drink_in_a_social_setting: Drink v sociálním prostředí
+    drink_often: pití často
+  drugs:
+    dont_use: Nepoužívejte
+    contra_drugs: Contra léky
+    tried_out_some: vyzkoušeli některé
+    light_drugs_occasionally: Lehké drogy příležitostně
+    regular: Pravidelné
+  sponsor:
+    i_want_to_find_a_sponsor: Chci najít sponzora
+    willing_to_become_a_sponsor: ochotni stát sponzorem
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Ne hledá sponzora a nechtějí,
+      aby se stal jedním
+  category_name:
+    strategy: Strategy
+    rpg: RPG
+    3d_shooters: 3D střelci
+    racing: Racing
+    arcade: Arcade
+    economic: Economic
+    simulators: Simulátory
+    logic: Logic
+    adventure: Adventure
+    board_games: Deskové hry
+    gambling: Hazardní hry
+    news: News
+    communication: Komunikace
+    multimedia: Multimedia
+    drawing: Drawing
+    educational: Vzdělávací
+    e_commerce: E-Commerce
+    other: Další
+  shared:
+    header:
+      people: Lidé
+      chat: Chat
+      groups: Skupiny
+      forum: Forum
+      requests: Žádosti
+      about: O projektu
+      help: nápovědy
+      user_applications: Aplikace
+    liked_users:
+      liked: Líbil
+      all: Vše
+      you_have_not_liked_any_users_yet: Ještě jste měl rád všechny uživatele
+    most_liked_users:
+      most_liked_users: Populární uživatelů
+    installed_user_applications:
+      installed_applications: Instalované aplikace
+      all: Vše
+      you_have_not_installed_any_apps_yet: jste dosud nenainstalovali žádné aplikace
+    user_applications:
+      uploaded_apps: Nahrané aplikací
+      all: Vše
+      you_have_not_uploaded_any_apps_yet: jste zatím nenahrál žádné aplikace
+    right_sidebar:
+      news: News
+      all: Vše
+      read_more: Čtěte více
+    footer:
+      footer_text: International sociální zábavní síť pro seznámení "Flutylove"
+      privacy: Privacy
+      terms: Podmínky
+      feedback: Feedback
+      abuse: Abuse
+    languages_select_modal:
+      available_languages: Dostupné jazyky
+    site_map_modal:
+      faq: FAQ
+      about: O
+      static_pages: Statické stránky
+      common_pages: Společné stránky
+      user_pages: Uživatelské stránky
+      terms: Podmínky
+      privacy: Privacy
+      people: Lidé
+      user_applications: Aplikace
+      user_requests: Žádosti
+      news: News
+      feedback: Feedback
+      abuse: Abuse
+      chats: Rozhovory
+      videos: Videa
+      photo_albums: Fotoalba
+      notes: Notes
+    pagination_link:
+      next_page: Další strana
+    user_edit_menu:
+      content: Content
+      profile: Profile
+      site_settings: Nastavení webu
+      privacy: Privacy
+      services: Služby
+    activities_navigation:
+      all: Vše
+      photos: Fotografie
+      photo_albums: Fotoalba
+      notes: Notes
+      videos: Videa
+    notifications_navigation:
+      all: Vše
+      likes: Líbí
+      friend_requests: žádosti Přítel
+      profile_views: Zobrazení profilu
+      photo_album_views: Fotografie pohledy
+    user_to_friend_connections_navigation:
+      friends: Přátelé
+      friends_online: Přátelé on-line
+      outcome_requests: žádosti Výsledkové
+      income_requests: žádosti ze zisku
+    user_applications_navigation:
+      all: Vše
+      new: Nové
+      popular: Popular
+      often_installed: často instalovány
+      manage: Správa
+    user_requests_navigation:
+      all: Vše
+      popular: Popular
+      my_requests: mých požadavků
+    user_navbar_menu:
+      sign_in: Přihlásit
+      sign_up: Zaregistruj se
+    email_signature:
+      info: Info
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: Select pohlaví
+      select_orientation: Select orientaci
+      select_search_for: Select hledání
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Musíte se přihlásit před touto akcí
+      available_sign_in_methods: vás
+    sign_up_methods:
+      usual_register_link: obvyklý registrační
+      register_text: Vedle% {} usual_registration můžete zaregistrovat přes nejoblíbenějších
+        služeb a sociálních sítí
+    bootstrap_gallery:
+      previous: Předchozí
+      next: Další
+    user_notification_title:
+      you_liked: jste oblíben
+      wrote_message_to_you: napsal zprávu pro vás
+      viewed_your_profile: prohlížené svůj profil
+      liked_your_photo: Líbilo se vaši fotografii
+      liked_your_note: Líbilo poznámku
+      liked_your_request: líbil váš požadavek
+      liked_your_video: Líbilo se vaše video
+      liked_your_application: Líbilo se svou přihlášku
+      requested_a_friendship: požádal o přátelství
+  authentications:
+    authentication:
+      turn_on: Zapnout
+      turn_off: Vypnout
+      turned_on: Zapnuto
+      turned_off: Vypnuto
+    index:
+      enabled_services: Povolené služby
+  users:
+    profile:
+      submit: Save
+      name: Name
+      meet_with: Seznamte se s
+      gender: Pohlaví
+      type_in_your_location: Type ve vašem městě
+      about_me: Některá slova o sobě (navíc k formě níže)
+      sex_keywords: Účasti ve pohlaví
+      enter_your_name: Zadejte své jméno
+      more_options: Více
+      orientation: Orientace
+      location: Umístění
+      search_for: Vyhledávání
+      intimacy: Intimacy
+      in_age: Ve věku
+      from: od
+      to: na
+      interests: Zájmy
+      height: Výška
+      weight: Hmotnost
+      relationship: Vztah
+      children: Děti
+      living: Living
+      education: Education
+      jobs: Job
+      income: z příjmů
+      languages: jazyky
+      smoking: Kouření
+      alcohol: Alkohol
+      drugs: Drogy
+      contacts: Kontakty
+      contact_name: Kontaktní jméno
+      contact_value: Kontakt hodnota
+      save: Save
+      about_yourself: O sobě
+    settings:
+      submit: Save
+      locale: Jazyk rozhraní
+      change_password: Změna hesla
+      interface_language: Jazyk rozhraní
+      time_zone: Časové pásmo
+    dialog_modal:
+      send_message: Poslat zprávu
+    index:
+      users: Uživatelé
+      clear_search: Clear vyhledávání
+    dashboard:
+      hello: Hello
+      here_some_of_your_statistics: zde některé ze svých statistik
+      chats: Rozhovory
+      messages: Zprávy
+      photos: Fotografie
+      videos: Videa
+      notes: Notes
+      photo_albums: Fotoalba
+    avatar:
+      photo: foto
+      uploading_file: Nahrávání souboru
+      drag_and_drop_your_file: Drag and drop soubor
+      here: zde
+      or: nebo
+      from_other_sites: Z jiných webů
+      write_down_link_for_your_image: Zapište odkaz na obrázku
+      url_for_image: URL pro obrázek
+      upload: uploadu
+      from_facebook: Z Facebooku
+      turn_on_facebook: Turn na Facebooku
+      you_can_upload_your_photos_from_facebook: můžete nahrát své fotografie z Facebooku
+      from_vkontakte: Z Vkontakte
+      you_can_upload_your_photos_from_vkontakte: můžete nahrát své fotografie z Vkontakte
+      turn_on_vkontakte: Zapněte Vkontakte
+      from_instagram: Z Instagram
+      you_can_upload_your_photos_from_instagram: můžete nahrát své fotografie z Instagram
+      turn_on_instagram: Zapněte Instagram
+      from_dropbox: Z Dropbox
+      you_can_upload_your_photos_from_dropbox: můžete nahrát své fotografie z Dropbox
+      turn_on_dropbox: Zapněte Dropbox
+      edit_photo: Edit foto
+      delete_photo: Delete foto
+      are_you_sure: Opravdu?
+    available_photos_modal:
+      available_photos: Dostupné fotografie
+    update:
+      your_password_was_successfully_changed: Vaše heslo bylo úspěšně změněno
+      your_profile_was_successfully_updated: Váš profil byl úspěšně aktualizován
+    edit_photo:
+      edit_photo: Edit foto
+      crop: Crop
+      close: Close
+      save_changes: uložíme
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: O mně
+      orientation: Orientace
+      meet_with: Seznamte se s
+      desirable_age: Žádoucí věk
+      from: od
+      to: na
+      interests: Zájmy
+      height: Výška
+      sm: sm
+      relationship: Vztah
+      children: Děti
+      living: Living
+      education: Education
+      jobs: Jobs
+      income: z příjmů
+      languages: jazyky
+      smoking: Kouření
+      alcohol: Alkohol
+      drugs: Drogy
+      contacts: Kontakty
+    user_info:
+      offline: Offline
+      online: Online
+      age: Age
+    loading_modal_images:
+      loading_images: Loading images
+    password_form:
+      new_password: Nové heslo
+      confirm_new_password: Potvrdit nové heslo
+      old_password: Staré heslo
+      change_password: Změna hesla
+    show:
+      photos: Fotografie
+      all: Vše
+      videos: Videa
+      notes: Notes
+      view: View
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: pasta obdržela klíč
+      submit: Odeslat
+    contents:
+      users_which_i_like: Uživatelé který jsem rád
+      all: Vše
+      my_videos_likes: mých videí podobnými
+      my_photos_likes: moje fotky podobnými
+      my_notes_likes: Mé poznámky podobnými
+      my_user_applications_likes: Moje aplikace podobnými
+      my_user_requests_likes: mé požadavky podobnými
+    more_profile_info:
+      photo_albums: Fotoalba
+      view_all_photo_albums: Zobrazit všechny fotoalba
+      create_more: Vytvořit více
+      videos: Videa
+      view_all_videos: Zobrazit všechny videa
+      notes: Notes
+      view_all_notes: Zobrazit všechny poznámky
+      requirements_lists_to_partner: Požadavky uvádí partnera
+      requirement: Požadavek
+      view_all_requirements_lists: View jsou uvedeny všechny požadavky
+      profile_verification: Profile ověřování
+      your_profile_is_successfully_verified: Váš profil je úspěšně ověřen
+      create: Vytvořit
+      you_have_not_any_requirements_lists_yet: nemáte žádné požadavky na seznamech
+        ještě
+      you_have_not_any_notes_yet: nemáte žádné poznámky dosud
+      you_have_not_any_photo_albums_yet: nemáte žádné fotoalba dosud
+      you_have_not_any_videos_yet: nemáte žádná videa
+      your_profile_is_not_verified_yet: Váš profil není zatím ověřena
+      verify_through_twitter: Ověřit přes Twitter
+      verify_through_facebook: Ověřit přes Facebook
+      verify_through_mail_ru: ověřit pomocí Mail.ru
+    privacy:
+      privacy: Privacy
+  searches:
+    form:
+      location: Umístění
+      from: od
+      to: na
+      age: Age
+      gender: Pohlaví
+    form_content:
+      city: City
+      gender: Pohlaví
+      age_from: Věk od
+      to: na
+      online: Online
+      verified: Ověřený
+      has_avatar: Má avatar
+      region: Kraj
+      more: Více
+      country: Země
+      about_me: O mně
+      interests: Zájmy
+      languages: jazyky
+      names: Jména
+      height: Výška
+      from: od
+      weight: Hmotnost
+      relationship: Vztah
+      education: Education
+      orientation: Orientace
+      search_for: Vyhledávání
+      children: Děti
+      living: Living
+      smoking: Kouření
+      alcohol: Alkohol
+      drugs: Drogy
+      income: z příjmů
+    show:
+      users: Uživatelé
+      clear_search: Clear vyhledávání
+  welcome:
+    index:
+      people: Lidé
+      requests: Žádosti
+      user_applications: Aplikace
+      about: O
+      features: Vlastnosti
+      registration: Registrace
+      sign_in: Přihlásit
+      welcome_main_title: Vítejte na Flutylove!
+      welcome_main_text: To je místo, kde můžete najít perfektní lásku
+      find_more: Více
+      about_title: Flutylove je mezinárodní sociální zábavní síť pro seznámení
+      about_text: Existuje mnoho funkcí, které můžete použít pro zábav a seznámení!
+      find_more_features: Najít více funkcí
+      at_our_service: Vlastnosti našich služeb
+      many_languages: Mnoho jazyků
+      text_about_many_languages: Naše služba je přeložen více než 70 jazyků
+      check_it_out: Vyzkoušejte to
+      videochats: Videochats
+      text_about_videochats: můžete chatovat se svým partnerem s videokamerami
+      try_it_now: Zkuste to teď
+      search: Hledání
+      text_about_search: Můžete hledat více parametrů a je to zdarma!
+      watch_this: Podívejte se na toto
+      more_features: Další funkce
+      text_about_more_features: Můžete si prohlédnout videa, hrát hry a dělat mnoho
+        dalších věcí!
+      register_and_learn_more: Register a dozvědět se více
+      install_our_apps: Instalace naše aplikace ze dne populárních platformách
+      register_header: Registrace
+  feedbacks:
+    new:
+      feedback_title: Feedback
+    form:
+      feedback_name: Vaše jméno
+      feedback_email: Váš e-mail
+      feedback_content: Feedback obsah
+      close: Close
+      send: Send
+      feedback_recaptcha: Recaptcha
+      cancel: Zrušit
+    success:
+      success_feedback: Děkuji! Dostali jsme vaše názory.
+      close: Close
+      cancel: Zrušit
+      more: Odeslat více
+  abuses:
+    new:
+      abuse_title: Abuse
+    form:
+      abuse_name: Vaše jméno
+      abuse_email: Váš e-mail
+      abuse_title: Abuse
+      close: Close
+      send: Send
+      abuse_recaptcha: Recaptcha
+      abuse_link: Link
+      cancel: Zrušit
+    success:
+      success_abuse: Děkuji! Dostali jsme vaši zneužívání.
+      close: Close
+      cancel: Zrušit
+      more: Odeslat více
+  layouts:
+    welcome:
+      welcome_title: Vítejte na Flutylove! Nejdokonalejší seznamka.
+  recaptcha:
+    errors:
+      verification_failed: Nepodařilo recaptcha
+      recaptcha_unreachable: Recaptcha je nedosažitelný
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Právě jsme spustili naše služby!
+      we_have_just_launched_our_service_text: Dnes jsme spustili naše služby, takže
+        každý může
+      sign_up: zaregistrovat
+      and_use_it: a použít ji.
+      wishes_and_requests: Pokud máte nějaké přání nebo požadavky, můžete se zaregistrovat
+        a napsal ji
+      here: zde
+      with_love: S láskou,
+      flutylove_team: Flutylove Team
+    index:
+      all_news: Všechny aktuality
+      read_more: Čtěte více
+  chats:
+    panel_head:
+      online: Online
+      offline: Offline
+    pagination_link:
+      next_page: Další strana
+    form_additions:
+      submit: Odeslat
+      videochat: Videochat
+    show:
+      messages: Zprávy
+    index:
+      messages: Zprávy
+    videochat_request_link:
+      connect_to_videochat: Připojení k videochat
+    modal_form:
+      send_message: Poslat zprávu
+      recipient: Příjemce
+      message: Message
+      close: Close
+      submit: Odeslat
+    waiting_video_answer_button:
+      waiting_for_response: Čekání na odpověď ...
+    chat_created:
+      send_message: Poslat zprávu
+      message_was_sent: zpráva byla odeslána
+      close: Close
+  messages:
+    pagination_link:
+      next_page: Další strana
+  notifications:
+    user_to_friend_connection:
+      action: Action
+    notification:
+      offline: Offline
+      online: Online
+    like:
+      action: Action
+    photo_album_view:
+      action: Action
+    user_view:
+      action: Action
+  user_applications:
+    user_application:
+      who_uploaded: Nahrál
+      all_uploaded_applications_by: Všechny nahrané aplikace od
+    form:
+      name: Name
+      user_application_name: Název aplikace
+      description: Popis
+      description_text: Popis Text
+      iframe_url: rámy url
+      upload_icon: Download icon
+      public: Public?
+      category_name: Kategorie
+      create: Vytvořit
+      edit: Edit
+    show:
+      application: Aplikace
+      return_to_uploaded_applications: Pro nahrání aplikace
+      edit_application: Edit aplikace
+      return_to_all_applications: Návrat ke všem aplikacím
+    manage:
+      installed_applications: Instalované aplikace
+      uploaded_applications: Nahrané aplikací
+      all: Vše
+    index:
+      applications_uploaded_by: Aplikace vkládají
+      return_to_all_applications: Návrat ke všem aplikacím
+      create_new: Vytvořit nový
+      return_to_manage_applications: Návrat na správu aplikací
+    installed:
+      installed_applications: Instalované aplikace
+      return_to_all_applications: Návrat ke všem aplikacím
+      return_to_manage_applications: Návrat na správu aplikací
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Před cílem této aplikace je
+        třeba se přihlásit v první
+    need_to_install:
+      need_to_install_first: Je třeba nejprve nainstalovat tuto aplikaci
+      install_application: Instalace aplikace
+  likes:
+    index:
+      liked_items: líbila položek
+      return_to_my_content: Návrat do mého obsahu
+  videos:
+    index:
+      videos: Videa
+      return_to_edit_profile: Chcete-li profil pro úpravu
+      create_new: Vytvořit nový
+      return_to_profile: Návrat do profilu
+    video:
+      edit: Edit
+      are_you_sure: Opravdu?
+      delete: Smazat
+    modal_form:
+      create_new_video: Vytvořit nový videoklip
+      close: Close
+      create: Vytvořit
+    form_content:
+      name: Name
+      video_name: název videa
+      source: URL kód pro vložení
+      video_url_or_embed_code: Video url kód pro vložení videa
+    show:
+      video: Video
+      return_to_all_videos: Návrat ke všem videím
+      edit_video: Úpravy videa
+    edit:
+      edit_video: Úpravy videa
+      return_to_view_video: Návrat k zobrazení videa
+      view_video: View videa
+    form:
+      edit: Edit
+  photo_albums:
+    index:
+      photo_albums: Fotoalba
+      return_to_editing_profile: Chcete-li profil pro úpravu
+      create_new: Vytvořit nový
+      return_to_profile: Návrat do profilu
+    photo_album:
+      edit: Edit
+      create: Vytvořit
+      are_you_sure: Opravdu?
+      delete: Smazat
+    edit:
+      edit_photo_album: Upravit fotoalbum
+      return_to_photo_albums: Chcete-li fotoalba
+      view_photo_album: View photo album
+    form_content:
+      name: Name
+      photo_album_name: Photo název alba
+    form:
+      edit: Edit
+      create: Vytvořit
+    photo_album_uploader:
+      drag_and_drop_your_file: Drag and drop soubor
+      here: zde
+      or: nebo
+      from_other_sites: Z jiných webů
+      write_down_link_for_your_image: Zapište odkaz na obrázku
+      url_for_image: URL pro obrázek
+      upload: uploadu
+      from_facebook: Z Facebooku
+      turn_on_facebook: Turn na Facebooku
+      you_can_upload_your_photos_from_facebook: můžete nahrát své fotografie z Facebooku
+      from_vkontakte: Z Vkontakte
+      you_can_upload_your_photos_from_vkontakte: můžete nahrát své fotografie z Vkontakte
+      turn_on_vkontakte: Zapněte Vkontakte
+      from_instagram: Z Instagram
+      you_can_upload_your_photos_from_instagram: můžete nahrát své fotografie z Instagram
+      turn_on_instagram: Zapněte Instagram
+      from_dropbox: Z Dropbox
+      you_can_upload_your_photos_from_dropbox: můžete nahrát své fotografie z Dropbox
+      turn_on_dropbox: Zapněte Dropbox
+    show:
+      photo_album: Fotogalerie
+      return_to_photo_albums: Chcete-li fotoalba
+      edit_photo_album: Upravit fotoalbum
+    modal_form:
+      create_new_photo_album: vytvořit nové fotoalbum
+      close: Close
+      create: Vytvořit
+  user_requests:
+    form:
+      content: Content
+      edit: Edit
+      create: Vytvořit
+  notes:
+    index:
+      notes: Notes
+      return_to_edit_profile: Chcete-li profil pro úpravu
+      create_new: Vytvořit nový
+      return_to_profile: Návrat do profilu
+    note:
+      edit: Edit
+      are_you_sure: Opravdu?
+      delete: Smazat
+    show:
+      note: Note
+      return_to_notes: Návrat k poznámkám
+      edit_note: Upravit poznámku
+    form_content:
+      content: Content
+      note_content: Note obsah
+      edit: Edit
+      create: Vytvořit
+    edit:
+      edit_note: Upravit poznámku
+      return_to_notes: Návrat k poznámkám
+      view_note: View note
+  user_to_search_connections:
+    index:
+      requirements_lists: uvádí požadavky
+      return_to_editing_profile: Chcete-li profil pro úpravu
+      create_new: Vytvořit nový
+    user_to_search_connection:
+      edit: Edit
+      are_you_sure: Opravdu?
+      delete: Smazat
+    edit:
+      edit_requirements_list: Upravit uvádí požadavky
+      return_to_requirements_lists: Chcete-li uvádí požadavky
+    form_content:
+      name: Name
+      name_of_your_requirements_list: Jméno vašeho seznamu požadavků
+    form:
+      edit: Edit
+    show:
+      return_to_requirements_lists: Chcete-li uvádí požadavky
+  photos:
+    index:
+      photos: Fotografie
+      return_to_photo_albums: Návrat do fotoalba
+      return_to_profile: Profil
+  errors:
+    messages:
+      already_confirmed: již bylo potvrzeno, prosím, zkuste se přihlásit
+      confirmation_period_expired: být potvrzeny v% {období}, prosím, požádat o nové
+      expired: vypršela, prosím, požádat o nové
+      not_found: nebyl nalezen
+      not_locked: nebyly zamčené
+      not_saved:
+        one: '1 chyba zakázáno tento% {} prostředků z ukládání:'
+        other: "% {count} Kvůli chybám nebyl tento% {} zdroj z ukládán:"
+    bad_request:
+      bad_request: Bad Request
+      bad_request_description: server nemůže nebo nechce zpracovat požadavek z důvodu
+        zjevné chyby klienta
+      go_to_root: Přejít na kořeni
+    unprocessable_entity:
+      unprocessable_entity: nezpracovatelné Entity
+      unprocessable_entity_description: žádost byla dobře tvarované, ale nemohl být
+        dodrženy kvůli sémantické chyby
+      go_to_root: Přejít na kořeni
+    not_found:
+      not_found: Not Found
+      not_found_description: Požadovaný zdroj nebyl nalezen, ale může být v budoucnu
+        k dispozici
+      go_to_root: Přejít na kořeni
+    forbidden:
+      forbidden: Forbidden
+      forbidden_description: byl požadavek platný požadavek, ale server odmítá reagovat
+        na to
+      go_to_root: Přejít na kořeni
+    internal_server_error:
+      internal_server_error: Internal Server Error
+      internal_server_error_description: Něco se pokazilo. Budeme to opravit co nejdříve.
+      go_to_root: Přejít na kořeni
+  pages:
+    privacy:
+      privacy: Flutylove Ochrana osobních údajů
+      general_provisions: Obecná ustanovení
+      p_1_1: 1.1. Tyto předpisy jsou úřední doklad s ručením omezeným "Technoelegance",
+        který se nachází na 101.000, Moskva, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1 (dále jen Flutylove, společnost, my), a stanovit postupy zpracování dat
+        a informační bezpečnost jednotlivců který dosáhl věku 18 let, a kteří používají
+        internetové stránky https://flutylove.com (dále jen webových stránek) a služby
+        (dále jen uživatelé).
+      p_1_2: 1.2. Účelem těchto nařízení je zajistit náležitou ochranu uživatelských
+        informací, včetně osobních údajů, před neoprávněným přístupem a zveřejněním.
+      p_1_3: 1.3. Vztahy spojené se sběrem, skladování, distribuci a zabezpečení informačních
+        internetových stránek uživatele se řídí tímto řádem, dalších oficiálních dokumentech
+        Společnosti a současná právní úprava Ruské federace.
+      p_1_4: 1.4. Aktuální verze Pravidel, které jsou veřejným dokumentem, je pro
+        všechny uživatele internetu k dispozici, když po propojení http://flutylove.com/pages/privacy~~dobj.
+        Společnost má právo na změnu těchto nařízení. V případě, že jsou provedeny
+        změny předpisů, musí společnost informovat uživatele tím, že posílá novou
+        verzi řádu na webových stránkách na adrese trvalého http://flutylove.com/pages/privacy~~pobj,
+        nejpozději 10 dnů před tím, než efektivní datum změny. Předchozí verze řádu
+        jsou uloženy v archivu firemní dokumentace.
+      p_1_5: 1.5. Tyto předpisy byly vyvinuty a jsou používány v souladu s dohodou
+        o uživatele. V případě jakéhokoliv rozporu mezi těmito předpisy a jiných úředních
+        dokumentech společnosti, musí být tyto předpisy prosazovány.
+      p_1_6: 1.6. Používáním webových stránek vyjadřujete svůj souhlas s podmínkami
+        této ochrany osobních údajů. Pečlivě si přečtěte. Pokud nesouhlasíte s podmínkami
+        této ochrany osobních údajů, nebo pokud jste nedosáhli věku 18 let, nesmíte
+        používat tyto webové stránky a jejích služeb. Užíváním webu bez ohledu na
+        to, zda jste registrovaným uživatelem Flutylove nebo ne, potvrzujete, že jste
+        plně přijmout tyto zásady, a souhlasí s tím, aby ji následoval.
+      the_website_using_conditions: stránkách s použitím podmínek
+      p_2_1: '2.1. Chcete-li použít webové stránky Flutylove, musíte se zaregistrovat.
+        Následující informace by měly být upřesněny při registraci: jméno, e-mailová
+        adresa, pohlaví, datum narození, informace o poloze. Uživatel může poskytovat
+        další osobní údaje na jeho / její vlastní přání. Uživatel si může upravit
+        nebo aktualizovat osobní údaje kdykoli. Společnost má právo požadovat dodatečné
+        doklady v případě změny pohlaví a datum narození uživatele.'
+      p_2_2: '2.2. Tím, že umožní přístup na webové stránky a jejích služeb, společnost,
+        působící v přiměřeným způsobem av dobré víře, se domnívá, že Uživatel: uvědomí,
+        že k registraci na webových stránkách je nutné být starší 18 let; má všechna
+        potřebná práva, aby bylo možné zaregistrovat se na těchto webových stránkách
+        a používat ji; označuje přesné informace o sobě / sama podle žádosti o využití
+        Služeb webových stránek; je si vědom toho, že osobní informace na webových
+        stránkách, za předpokladu, uživatelem, může být k dispozici pro ostatní uživatele
+        internetových stránek a internetových uživatelů stejně, může být kopírován
+        a distribuován ostatními uživateli; je si vědom toho, že některé typy informací,
+        lze přenést na ostatní uživatele, nemůže být odstraněn ze strany Uživatele;
+        se seznámil s těmito nařízeními, souhlasí s nimi a zavazuje se daná práva
+        a povinnosti.'
+      p_2_3: 2.3. Společnost neověřuje správnost přijaté (shromážděných) informace
+        o uživatelích, s výjimkou případů, kdy je nutné takovéto ověření za účelem
+        splnění závazků Společnosti pro uživatele.
+      information_processing_objectives: cíle Information Processing
+      p_3_1: 3.1. Společnost provádí zpracování informací o uživatelích, včetně jejich
+        osobních údajů za účelem splnění závazků Společnosti pro uživatele k používání
+        webové stránky a jejích služeb.
+      p_3_2: 3.2 Společnost má právo provádět zpracování osobních údajů, aniž by byly
+        oznámeny příslušnému orgánu pro ochranu práv subjektů osobních údajů.
+      structure_of_the_user_information: Struktura informací o uživateli
+      p_4_1: '4.1. Osobní údaje o uživateli zahrnuje:'
+      p_4_1_1: 4.1.1. jméno, e-mailová adresa, pohlaví, datum narození, informace
+        o umístění a telefonní číslo, které jsou poskytovány ze strany uživatelů a
+        měl být jen dost pro registraci na webových stránkách;
+      p_4_1_2: 4.1.2. informace, které jsou poskytovány uživatele (například fotografie,
+        informace o zhoubné návyky atd);
+      p_4_1_3: 4.1.3. dodatečně poskytnuté Uživatelem dle požadavku společnosti, aby
+        byly splněny závazky Společnosti Uživatelům, objevit se z použivatelský. Společnost
+        má právo se zejména na žádost uživatele kopii dokladu totožnosti nebo jakýchkoli
+        jiných dokumentů, které obsahují jméno, pohlaví a datum narození, jakož i
+        další doplňkové informace, které dle svého uvážení Společnosti, bude nezbytné
+        a dostačující pro identifikaci takového Uživatele a bude eliminovat zneužívání
+        a porušování práv třetích osob.
+      p_4_2: '4.2. Ostatní Uživatelská zpracování informací, které společnost na internetových
+        stránkách Správy také zpracovává další informace o uživatelích, který zahrnuje:'
+      p_4_2_1: 4.2.1. Společné údaje, podle http-server automaticky obdrželi při přístupu
+        na webové stránky a následné akce uživatele (IP-adresu počítače, typ operačního
+        systému uživatele, stránky webových stránek navštívených uživatelem).
+      p_4_2_2: 4.2.2. Informace, které jsou přijímány automaticky při přístupu k webové
+        stránky pomocí záložek (cookies);
+      p_4_2_3: 4.2.3. Informace, která je uložena v důsledku Uživatele akcí na webových
+        stránkách;
+      p_4_2_4: 4.2.4. Informace, která je uložena v důsledku jednání ostatních uživatelů
+        na webových stránkách.
+      users_information_processing: Uživatelská zpracování informací
+      p_5_1: '5.1. Zpracování osobních údajů provádí na základě těchto zásad: a) legitimní
+        účel a prostředky zpracování osobních údajů; b) poctivost; c) soulad účely
+        zpracování osobních údajů s předem stanovenou účely a deklaroval při shromažďování
+        osobních údajů, jakož i soulad pověření Společnosti; d) soulad množství a
+        typu zpracování osobních údajů a dodržování prostředků zpracování osobních
+        údajů s účelem jeho zpracování; e) nepřípustnost kombinování vytvořených databází
+        pro neslučitelné účely, obsahující osobní údaje.'
+      p_5_1_1: 5.1.1. Shromažďování osobních údajů Uživatele je prováděna na webových
+        stránkách, kdy registr, stejně jako v budoucnosti, kdy uživatel přidá Více
+        informací o sobě / sama Užíváním webu nástroje na jeho / její vlastní iniciativy.
+      p_5_1_2: 5.1.2. Osobní údaje uživatelů jsou uloženy výhradně v elektronické
+        podobě a zpracovávány pomocí automatizovaných systémů, s výjimkou případů,
+        kdy je potřeba ručního zpracování osobních údajů s ohledem na plnění legislativních
+        požadavků.
+      p_5_1_3: 5.1.3. Uživatelská osobní údaje nebudou přeneseny třetím osobám, s
+        výjimkou případů výslovně stanovených tímto řádem a uživatelské smlouvě. Se
+        souhlasem uživatele osobní uživatelská data mohou být předávány třetím protistrany
+        Společnosti pod podmínkou převzetí povinnost zajistit důvěrnost získaných
+        informací, zejména při používání služeb a aplikací. Uživatelská údaje zajišťování
+        osobní na požádání orgánů státní správy (místní orgány) se provádí v postupu,
+        jak to vyžaduje zákon.
+      p_5_1_4: '5.1.4. Osobní uživatelská data jsou odstraněny, když: - jsou údaje
+        self-ze stránky odstraněn uživatelem; - Strana je self-smazán uživatelem;
+        - Informace o uživateli a jeho osobní stránky jsou odstraněny Společností.
+        V případě, že strana mazaní sám uživatel, společnost ukládá Uživatele osobní
+        údaje o svých elektronických médií do 210 dnů po osobní stránce je odstraněn.
+        Osobní údaje budou vymazány po uplynutí 210 dní po osobní stránce je odstraněn.
+        Až do uplynutí této lhůty má uživatel právo na obnovení osobní stránku.'
+      users_rights_and_obligations: práva a povinnosti uživatelů
+      p_6_1: '6.1. Uživatel má právo na:'
+      p_6_1_1: 6.1.1. přístup k informacím o něm / ní bez omezení a zdarma úpravou
+        své osobní stránky na webové stránky s použitím přihlašovacího jména a hesla;
+      p_6_1_2: 6.1.2. samostatně provádět změny a opravy údajů na uživatelském osobním
+        na webové stránce, na podmínce, že takové změny a opravy obsahují up-to-date
+        a pravdivé informace;
+      p_6_1_3: 6.1.3. odstranit informace z osobního na webové stránce;
+      p_6_1_4: 6.1.4. Žadatelem je firma získat konkrétnější informace, zablokování
+        nebo vymazání osobních údajů, pokud tyto údaje jsou neúplné, zastaralé, nepřesné,
+        neoprávněně přijaté nebo nejsou nezbytné pro deklarovaný účel zpracování,
+        nebo v případě, že akce uvedené v odstavci 6.1.3 těchto předpisy nelze realizovat
+        nezávisle na sobě;
+      p_6_1_5: 6.1.5. Na základě žádosti obdrží informace od společnosti týkající
+        se zpracováním jeho / jejích osobních údajů.
+      p_6_2: 6.2. Následující informace o všech registrovaných internetových stránkách
+        Uživatele je vždy k dispozici pro registrované členy:, pohlaví, věk, profilová
+        fotka jméno uživatele a jiné informace, pokud má uživatel vyslán.
+      p_6_3: 6.3. Společnost nenese odpovědnost za prozrazení Uživatele osobních údajů
+        ostatních uživatelů webových stránek, kteří přistupovat těchto údajů.
+      p_6_4: 6,4. V případě osobních údajů (druhý informací o uživateli) vyjmutí z
+        Uživatele osobní stránce nebo odstranění Uživatele osobní stránku z webové
+        stránky, informace o uživateli kopírován jinými uživateli nebo uložit na stránkách
+        jiných uživatelů je zachována.
+      p_7_1: 7.1. Společnost vyžaduje technické, organizační a právní opatření, aby
+        zajistily, že uživatel má osobní údaje jsou chráněny před neoprávněným nebo
+        nahodilému přístupu, vymazání, úpravy, blokování, kopírování a šíření, jakož
+        i od jiných nepovolených akcí.
+      p_7_2: 7.2. přihlášení uživatele (e-mailovou adresu nebo číslo mobilního telefonu)
+        a heslo slouží pro přístup k webové stránky. Uživatel je odpovědný za uchovávání
+        těchto informací důvěrné. Uživatel nemusí přenést přihlašovací jméno a heslo
+        třetím osobám a je také povinen přijmout opatření k zajištění důvěrnosti.
+      limitation_of_the_regulations_applicability: Omezení použitelnosti předpisů
+      p_8: Tyto předpisy nejsou rozšířeny na akcích a internetových zdrojů třetích
+        stran. Společnost nenese odpovědnost za akce třetích stran, kteří dostali
+        přístup k informacím uživateli prostřednictvím internetu nebo na webových
+        stránkách Služeb. Správa webových stránek doporučuje uživatelům přistupovat
+        k problému s množstvím informací zveřejněných na internetových stránkách zodpovědně.
+      user_requests: uživatelských požadavků
+      p_9_1: '9.1. Uživatelé mají právo k odesílání požadavků na společnost, včetně
+        požadavků týkajících se používání osobních údajů v písemné formě na následující
+        adrese: Russia, 101000, Moskva, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1 nebo ve formě elektronického dokumentu podepsaná kvalifikovaným elektronickým
+        podpisem v souladu s právními předpisy Ruské federace, podle e-mailu: support@flutylove.com~~HEAD=pobj.'
+      p_9_2: '9.2. žádost uživatele musí obsahovat následující údaje: číslo identifikačního
+        dokladu Uživatele nebo jeho zástupce; datum vydání výše uvedeného dokumentu
+        a vydávajícího orgánu; informace potvrzující účast Uživatele ve vztazích s
+        operátorem (zejména odkaz na stránku); podpis uživatele nebo jeho / její zástupce.'
+      p_9_3: 9.3. Společnost se zavazuje zváží a odpoví na žádost uživatele do 30
+        dnů poté, co byl přijat.
+      p_9_4: 9.4. Veškerá korespondence, kterou společnost obdržela od uživatelů (písemné
+        nebo elektronické žádosti) je klasifikován jako informace s omezeným přístupem
+        a nesmí být zveřejněny bez uživatelské písemného souhlasu. Osobní údaje a
+        jiné informace o uživateli, který poslal žádost nesmí být použity bez zvláštního
+        souhlasu uživatele, jinak než za reakci na žádost nebo v případech výslovně
+        stanovených platnými právními předpisy.
+    terms:
+      terms: Flutylove Pravidla pro uživatele
+      welcome: Vítejte na Flutylove!
+      about_terms: 'těmito podmínkami použití (jakož i dokumenty uvedené v tomto dokumentu,
+        včetně ochrany osobních údajů) jsou smlouvy adheze v souladu s článkem 428
+        občanského zákoníku Ruské federace (dále jen "dohoda") mezi jednotlivec, který
+        dosáhl věku 18 let (dále jen "Uživatel" a společností (nebo "my") - společnost
+        s ručením omezeným "Technoelegance" (LLC "Technoelegance") (právní adresa:
+        101000, Moskva, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye 1), dále
+        jen Flutylove, podle kterého můžete použít tyto webové stránky a všechny související
+        služby nabízené prostřednictvím webových stránek nebo aplikací (všeobecně
+        známého jako "služby"). Webové stránky se rozumí kterýkoli z jeho verze, spojené
+        pod názvem domény flutylove.com a pracuje pro celou řadu zařízení, včetně
+        webové verze, mobilních aplikací a aplikací pro sociální sítě.Používáním této
+        webové stránky souhlasíte s podmínkami dohody a ochrany osobních údajů. Pečlivě
+        si přečtěte. Pokud nesouhlasíte s podmínkami dohody a ochrany osobních údajů,
+        nebo pokud jste nedosáhli věku 18 let, nesmíte používat tyto webové stránky
+        a jejích služeb.Používáním webových stránek bez ohledu na to jste registrovaným
+        uživatelem Flutylove nebo ne, zcela souhlasím s touto dohodou a zásadách ochrany
+        osobních údajů, která je obsažena v této dohodě odkaz a je k dispozici na
+        webových stránkách, a jsou v souladu s ním.Na žádost uživatele se společnost
+        zavazuje podepsat tuto dohodu v tištěné podobě a odeslat ji na jednotlivce
+        žádající dokumenty.Společnost si vyhrazuje právo na změnu dohody o užívání
+        a jakýkoli dokument podle něj. Chcete-li být informováni o změnách, které
+        je třeba zachovat-up-to-date informace o takových změnách v pravidelných intervalech.
+        Budeme vás informovat o změnách, které jsme provedli na této straně. Změny
+        se netýkají zpět a vstoupí v platnost do deseti dnů ode dne zveřejnění. Nicméně,
+        v případě, že jsou spojeny s implementací nových služeb nebo změnou právních
+        předpisů, bude aplikován okamžitě. Pokud nesouhlasíte se změnami dohody, je
+        nutné přestat používat webové stránky a její aplikace.'
+      consent_to_accept_the_terms_of_user_agreement: 1. SOUHLAS svůj souhlas s podmínkami
+        OF Smlouva s uživatelem.
+      p_1: a. Elektronická dohody. Tato dohoda je elektronická verze smlouvy, která
+        popisuje podmínky používání webových stránek a služeb. Po přihlášení na webových
+        stránkách nebo se stát uživatelem, můžete přijmout tuto smlouvu a souhlasí
+        se všemi podmínkami, podmínky a upozornění, které jsou obsaženy nebo odkazované
+        tam. Potvrzujete a souhlasíte s tím, že uživatelé Flutylove může být součástí
+        online komunity, která zahrnuje jiné webové stránky patřící společnosti nebo
+        jejích dceřiných společností. Proto profily na webové stránky lze prohlížet
+        na jiných podobných webových stránek a platících účastníků z jedné webové
+        stránky může komunikovat s ostatními platících účastníků ze všech webových
+        stránek. b. Elektronická forma. Po přihlášení na webové stránky nebo stává
+        uživatel, souhlasíte, aby vám s elektronickým dohody. C. Tištěné formě. Máte
+        právo obdržet tištěnou této dohody. Můžete požádat o tištěné vydání této dohody
+        před nebo po tom bude podepsána v elektronické podobě. Prosím, obraťte se
+        na náš zákaznický servis pro více informací. d. Přístup a stahování. Aby bylo
+        možné získat přístup a stáhnout tento elektronický dohodu, musíte mít přístup
+        k Internetu nebo přímo přes zařízení s přístupem k webovým zdrojům. Musíte
+        mít potřebné vybavení pro připojení k Internetu, a to počítač, modem nebo
+        jiné přístupové zařízení. Prosím, vytisknout kopii této dohody a udržet ji.
+        Chcete-li stáhnout elektronickou formu dohody, uložit ji do počítače pomocí
+        libovolného textového editoru.
+      the_right_of_using_the_website: 2. Právo na využívání webových stránek.
+      p_2: Ty musí být nejméně osmnáct (18) let, aby se stal registrovaným uživatelem
+        této webové stránky. V případě nedodržení požadavků, bude odepřen přístup
+        na webové stránky. Použití webové stránky, uživatel by si měli uvědomit, že
+        osobní údaje zveřejněny na webových stránkách může být k dispozici pro ostatní
+        uživatele internetu, a společnost nenese odpovědnost za své činy. Používáním
+        této webové stránky uplatnit, a zavazují, že máte právo, pravomoc a možnost
+        vstoupit do této dohody a souhlas s dodržovat všechny jeho podmínky. Stát
+        se Uživatel vám tvrdit, a zavazují, že jste nikdy nebyl trpěl odsouzení pro
+        trestný čin související s sexuálního násilí. Webové stránky je určen pouze
+        pro osobní potřebu. Je zakázáno používat webové stránky pro komerční účely.
+        Právnické osoby nemohou být Uživatelé této webové stránky, stejně jako nelze
+        použít tuto službu nebo webovou stránku na jejich účely. Nelegální a / nebo
+        neoprávněné použití těchto webových stránek, včetně sbírání uživatelských
+        jmen a / nebo e-mailové adresy pomocí elektronických nebo jiných nástrojů
+        za účelem zasílání nevyžádané zprávy a spojení je sledován, a Společnost může
+        přijmout vhodná opatření v souladu s právními předpisy, včetně apel na donucovací
+        orgány.
+      pricing_and_registration: 3. CENA A REGISTRACE
+      p_3: jste schopni stát Uživatele Flutylove na dobrovolný a zdarma základu prostřednictvím
+        registrace na webových stránkách. Jako uživatel, můžete použít určitý rozsah
+        základních služeb a příležitostí na webových stránkách. Uživatel těchto webových
+        stránek je individuální registrován na webových stránkách podle zavedeného
+        pořádku a který dosáhl věku 18 let. Při registraci na webové stránce je uživatel
+        povinen poskytnout potřebné a relevantní informace pro společnost dokončit
+        stránku uživatel, včetně přihlášení (e-mailovou adresu nebo telefonní číslo)
+        a heslo pro přístup k webovým stránkám, stejně jako název, který jsou jedinečné
+        pro každého uživatele. Formulář pro registraci může požadovat dodatečné informace
+        od uživatele. Uživatel je zodpovědný za platnosti, aktuálnost, úplnost a souladu
+        se zákonem Ruské federace informací poskytnutých při registraci, a její názornost
+        z nároků třetích stran. Při registraci uživatel souhlasí s touto dohodou a
+        zavázat se daná práva a povinnosti, spojené s užíváním a fungování webových
+        stránek. Uživatel dostane plný přístup k používání funkcí webové stránky.
+        Společnost se zavazuje práva a povinnosti Uživatele, uvedené v těchto předpisech,
+        po úspěšné registraci uživatele na webu Uživatelská zpracování osobních údajů
+        se provádí v souladu s právními předpisy Ruské federace. Správa webových stránek
+        zpracovává osobní údaje uživatelů s cílem poskytnout uživateli s přístupem
+        k využívání funkcí internetových stránek, včetně obdržení personalizované
+        (cílená reklama); ověřování, výzkumu a analýza těchto dat, což umožňuje podporovat
+        a zlepšovat funkce a sekce webu, stejně jako vyvíjet nové funkce a oddíly.
+        Společnost přijme veškerá nezbytná opatření k ochraně osobních údajů uživatele
+        před neoprávněným přístupem, úpravou, zveřejněním nebo mazání. Společnost
+        poskytuje přístup k osobním údajům uživatele pouze těm zaměstnancům, dodavatelům
+        a zástupcům společnosti, kteří potřebují tyto informace s cílem podpořit funkčnost
+        webových stránek a poskytnout uživateli přístup k jeho použití. The Company
+        of webových stránek má právo používat informace poskytnuté Uživatelem, včetně
+        osobních údajů, s cílem zajistit soulad s požadavky platných právních předpisů
+        Ruské federace (včetně prevence a / nebo potlačení nezákonné a / nebo nezákonné
+        akce users). Zveřejnění informací poskytnutých uživatelem lze provést pouze
+        v souladu s platnou legislativou Ruské federace na žádost soudních, donucovacích
+        orgánů, stejně jako v jiných případech stanovených platnými právními předpisy
+        Ruské federace. Do té míry, že společnost zpracovává osobní údaje uživatele,
+        pro provádění těchto předpisů, souhlas uživatele se zpracováním osobních údajů
+        není nutná na základě ustanovení zákona o osobních údajích. Přihlašovací jméno
+        a heslo zvoleném uživatelem jsou nezbytné a dostatečné informace o uživateli
+        přístup k webovým stránkám. Uživatel má právo dát jeho / její přihlašovací
+        jméno a heslo třetím osobám, a je naprosto odpovídá za její bezpečnost, výběr
+        způsobu jejich uložení na samostatném základě. Používat jeho / její hardware
+        a software Uživatel může povolit ukládání přihlašovací jméno a heslo (prostřednictvím
+        cookies) pro následné automatické registraci na webových stránkách. Jakékoli
+        opatření přijaté s použitím uživatelského jména a hesla Uživatele se považuje
+        za spáchaný uživatelem, není-li prokázán opak Uživatelem. Uživatel je povinen
+        neprodleně informovat společnost v souladu se stanoveným postupem v případě
+        neoprávněného přístupu k uživatelským jménem a heslem a / nebo na stránce
+        účtů nebo zveřejněných údajů o přihlašovací jméno a heslo. Po registraci je
+        Uživatel získává právo vytvořit, použití a stanovit obsah jeho / její vlastní
+        osobní stránky na vlastním zájmem a nekomerční účely, stejně jako získat možnost
+        přístupu a zveřejnit informace o osobních stránkách ostatních uživatelů ,
+        Uživatel jako vlastníka informací zveřejněných na osobní straně si je vědom,
+        že s výjimkou případů stanovených těmito předpisy a platnými právními předpisy
+        Ruské federace, společnost nebude podílet na vývoji a používání obsahu a neovládá
+        přístup na stránku uživatele od ostatních uživatelů.
+      terms_4: 4. termínů.
+      p_4: Tato dohoda plně zůstává v platnosti a účinnosti, pokud budete používat
+        webové stránky. Můžete přestat být uživatel webové stránky tím, že odstraní
+        vaši stránku kdykoli, z jakéhokoli důvodu kontaktovat náš online zákaznický
+        servis, nebo pomocí služby na webových stránkách. Společnost si vyhrazuje
+        právo smazat své osobní stránky kdykoliv. Nejsme povinni upozornit vás před
+        odstraněním stránku, pokud má důvod se domnívat, že jste porušili podmínky
+        dohody. Nejsme povinni zveřejnit důvodem pro vyřazení ze svého účtu; V některých
+        případech může být zakázáno zveřejňování takových informací. Po vymazání vaší
+        stránky, všechny podmínky, které mohou být v platnosti i po ukončení této
+        dohody ze strany jejich povaze bude v platnosti i po takovém ukončení. Pokud
+        smažete své stránky pomocí webové stránky na své vlastní vůle, můžeme vás
+        požádat, abyste určit důvod takového vymazání.
+      account_security: 5. Zabezpečení účtu.
+      p_5: Ty jsou zodpovědné za zachování diskrétnosti své uživatelské jméno a heslo,
+        které budou stanoveny v okamžiku registrace. Také jste si naprosto zodpovědný
+        za všechny akce, které se vyskytují pod svým uživatelským jménem a heslem.
+        Souhlasíte s tím, (a) okamžitě informovat nás o jakékoli neoprávněné použití
+        svého přihlašovacího jména a hesla, stejně jako jakýkoli jiný Narušení bezpečnosti,
+        a (b) výjezdu z účtu na konci každého sezení. Webové stránky není zodpovědný
+        za žádné škody nebo ztráty vyplývající z nedodržení tohoto ustanovení. Ty
+        by měly být obzvláště opatrní při přístupu k účtu prostřednictvím veřejně
+        přístupného počítače, aby nepovolané osoby nemohly špehovat nebo se nahraje
+        heslo nebo jiné osobní údaje. Také potvrdit a souhlasí s tím, že internet
+        nebyl nikdy zcela soukromé a bezpečné. Chápete, že všechny zprávy nebo informace,
+        které jste příspěvek na webové stránce mohou být čteny nebo používány jinými
+        uživateli, i když tam je zvláštní upozornění, že informace je skryta.
+      your_interaction_with_other_users_of_the_website: 6. vaší interakci s ostatními
+        uživateli webu.
+      p_6: a. VY sami zodpovědní za vaši interakci s ostatními uživateli. Měli byste
+        pochopit, že firma neověřuje jejich uživatelé na tom, zda mají čistý trestní
+        rejstřík. Společnost také nepožádá o informace o minulosti své uživatele a
+        neověřuje těchto informací. SPOLEČNOST NEZARUČUJE o chování uživatele a jejich
+        kompatibilitě skutečné nebo budoucích uživatelů. SOUČASNĚ Společnost si vyhrazuje
+        právo ověřit uživatele, pro záznam v trestním rejstříku nebo provádět jiné
+        kdykoli sdělit pomocí dostupných veřejných informací. b. V žádném případě
+        je firma nenese žádnou odpovědnost za ŠKODY, zda jsou přímé, GENERAL nebo
+        mají zvláštní povahu, kompenzačních, A / NEBO NÁHODNÉ, KTERÉ ZÍSKÁTE nebo
+        jakýkoli jiný jednotlivcům v důsledku používání webové stránky, VČETNĚ, A
+        TO ZEJMÉNA, zranění, stres a / nebo jiných škod, KTERÉ ZÍSKÁTE V DŮSLEDKU
+        komunikace nebo jednání s jinými registrovaným uživatelům webových stránek
+        nebo lidu, který se vypořádat s na webových stránkách. SOUHLASÍTE SE veškerá
+        možná bezpečnostní opatření při komunikaci s ostatními uživateli, zejména
+        v těch případech, když se rozhodnete s nimi setkat v reálném životě. Byste
+        měli být vědomi, co společnost neposkytuje deklarovanou ani implicitni záruky
+        týkající se slučitelnosti s uživateli těchto webových stránek. Neměli byste
+        dát finanční informace ostatním uživatelům webu (například informace o vaší
+        kreditní nebo plastové karty). C. Službu lze přeložit své jméno nebo jméno
+        svého města do jiných jazyků; d. Tato služba není odpovědný za činy uvedené
+        v tomto článku. V případě, že nemáte s nimi souhlasit úplně nebo částečně,
+        opusťte prosím ihned k webu;
+      the_information_posted_by_you_on_flutylove: 7. Informace které jste přidali
+        k FLUTYLOVE
+      p_7: a. Jste výhradně odpovědní za informace, které publikujete nebo demonstrovat
+        (dále jen "příspěvek"), o služebním nebo je přenášely na jiné uživatele. Nemáte
+        povoleno psát o služebním nebo převést na jiné uživatele žádné informace o
+        hanlivé, nepřesné, urážlivé, obscénní, vulgární a agresivní obsahu, informace
+        o sexuálním obsahem, stejně jako ohrožující nebo stalking informace, informace
+        o rasové diskriminace povahy nebo nezákonné informace, nebo jakékoli jiné
+        informace, které porušují nebo porušovat práva jakékoliv jiné strany (včetně,
+        bez omezení, práva k duševnímu vlastnictví, práv na ochranu soukromí a publicity).
+        Nejste oprávněni poskytovat nepřesné, zavádějící nebo nepravdivé informace
+        k Společností, nebo jakýmkoliv jiným uživatelem. V případě, že informace poskytnuté
+        společností Flutylove nebo jiný uživatel následně stává nepřesné, zavádějící
+        false, musíte okamžitě informovat společnost Flutylove takové změny. Odeslání
+        a zaručuje, že veškeré informace poskytnuté při registraci jsou přesné a pravdivé
+        a okamžitě změnit jakékoliv informace, které následně stává nepřesné, zavádějící
+        nebo nepravdivé. b. Berete na vědomí a souhlasí s tím, že si vyhrazujeme právo,
+        nikoli však povinnost sledovat informace nebo obsah, který je přenesen do
+        služby nebo přispíval v přístupu veřejnosti o službě. Máme právo odstranit
+        některé z těchto informací nebo obsahu bez přiřazení jakékoliv příčiny a oznámení.
+        C. Všechny objekty zobrazené na internetových stránkách, včetně designových
+        prvků, textu, grafiky, ilustrací, videa, skriptů, programů, hudby, zvuků a
+        dalších objektů a jejich knihoven (dále jen - informace), jsou majetkem výlučných
+        práv Společnosti jsou Uživatelé na webových stránkách a dalších práv držitelů,
+        všechna práva na tyto objekty jsou chráněny. d. S výjimkou jak je stanoveno
+        v souladu s touto dohodou, jakož i platnými právními předpisy Ruské federace,
+        může být žádné informace zkopírovat (reprodukovat), zpracované, distribuován,
+        vystaven v rámci, publikovat, stahovat, převedeny, prodány nebo využit jinými
+        způsoby celé nebo v kusech bez předchozího souhlasu držitele, není-li držitel
+        práv výslovně vyjádřil svůj souhlas s volným použitím informací ze strany
+        jednotlivce. E. Zveřejněním informace na webové stránce v souladu se zákonem,
+        který patří k uživateli, uživatel poskytuje přístup pro ostatní uživatele
+        pro non-výlučné právo na jeho použití sledování, přehrávání (včetně kopírování)
+        a dalších práv výhradně pro účely osobního nekomerčního využití, ledaže případech,
+        kdy takové užívání způsobuje nebo může způsobit újmu zájmům nositele práv
+        chráněných zákonem. F. Využití informací ze strany Uživatele, který byl přístup
+        získaných výhradně pro osobní nekomerční použití, je povoleno za podmínky,
+        že budou zachovány všechny známky autorství (autorská práva) nebo jiná oznámení
+        o autorství, jméno autora a jeho výrobek budou ponechány beze změny. G. Uživatel
+        také poskytuje společnost s non-výhradní právo používat údaje zveřejněny na
+        webových stránkách a které patří k němu / jí v souladu se zákonem bez ohledu
+        s cílem zajistit fungování internetových stránkách Společnosti v rámci výkonu
+        architektury a funkčnosti webová stránka. Non-výhradní právo výše uvedené
+        je poskytována na obsahu umístěním na webových stránkách a pokrývá území zemích
+        po celém světě. Společnost má právo k převodu práv uvedených tomto odstavci
+        třetím stranám. Uživatel souhlasí s tím, že společnost má právo používat funkční
+        a technické možnosti webové stránky, které poskytují zobrazování obsahu sdílení
+        Uživatelem, včetně účely zobrazování reklamních dat. Ahoj. V případě, že uživatel
+        odstraní informace z webových stránek, non-výhradní právo bude automaticky
+        zrušena, ale vzhledem k technickým specifikacím webové stránky Společnost
+        si vyhrazuje právo ukládat záložní kopie informací v požadovaném čase a pokud
+        se požaduje. i. Na rozdíl od soukromých informací, uživatel nemá právo nahrávat,
+        nebo zveřejnit jiným způsobem (zveřejněním na webových stránkách) informace
+        z jiných míst, databází a jiného duševního vlastnictví v případě neexistence
+        explicitně vyjádřen souhlas s těmito akcemi z autorských práv majitel. j.
+        Není-li uvedeno jinak je uvedeno v těchto předpisech, nic v těchto předpisech
+        nelze považovat za převod výhradních práv k těmto informacím. k. Veškeré informace,
+        které zveřejní na svém uživatelském profilu, musí být přesné, up-to-date a
+        úplné. Uživatel je naprosto výhradní odpovědnost za jakékoli informace, který
+        byl nahrán nebo zveřejněnou v jiným způsobem (přidáno) na webových stránkách
+        nebo pomocí Uživatele. Uživatel nemá právo nahrávat, převod nebo zveřejnění
+        obsahu na webových stránkách, pokud on / ona nemá příslušná práva k podnikne
+        takové kroky, které získali nebo přenesenou na něj / ní v souladu s právními
+        předpisy Ruské federace. Společnost schopný, ale není povinna, prohlížet webové
+        stránky k jakémukoli nezákonnému obsahu a nemá právo smazat nebo přesunout
+        (bez předchozího upozornění) jakýkoli obsah nebo uživatele podle vlastního
+        uvážení, z jakéhokoliv důvodu nebo bez příčiny, včetně bez omezení pohybovat,
+        nebo odstranit informace, že podle individuálního názoru společnosti rozporu
+        s touto smlouvou, právní předpisy Ruské federace a / nebo může porušovat práva,
+        zranit nebo ohrozit bezpečnost jiných uživatelů nebo třetích stran. Webová
+        stránka obsahuje (nebo může obsahovat) odkazy na jiné stránky na internetu
+        (webové stránky třetích stran), jakož i články, fotografie, ilustrace, grafiku,
+        hudbu, zvuk, video, informace, aplikace, software a další informace, které
+        patří nebo přicházející od třetích stran (obsah třetích stran), což je výsledkem
+        duševní činnosti a byly chráněny v souladu s právními předpisy Ruské federace.
+        Tyto třetí strany a jejich informace nejsou ověřeny Společností pro souladu
+        s tímto nebo s jinými požadavky (přesnost, úplnost, poctivost, atd.). Společnost
+        nenese žádnou odpovědnost za obsah zveřejněné na webových stránkách třetích
+        stran, ke kterému se uživatel získá přístup prostřednictvím webových stránek
+        nebo prostřednictvím informací o třetích stran, včetně, avšak bez omezení
+        na stanoviska, nebo prohlášení, vyjádřené na stránkách třetích stran nebo
+        v jejich informací. Odkaz na jakékoliv stránky, produkt a služby, veškeré
+        informace o obchodní a neobchodní povahy obsažené na těchto webových stránkách
+        není schválení nebo doporučení pro tyto produkty (služby) od společnosti.
+        Pokud se uživatel rozhodne opustit webové stránky a jít na webové stránky
+        třetích stran, nebo používat nebo instalovat software třetích stran, on /
+        ona činí tak na vlastní riziko a od té chvíle Tyto předpisy jsou již použita
+        pro uživatele. Další Uživatelská akce se řídí platnými pravidly a politikami,
+        včetně obchodních praktik těch osob, jejichž informace on / ona se bude používat.
+      forbidden_actions: 8. Zakázaného akcí.
+      p_8: a. Je zakázáno "bedlivě sledovat na" nebo rušit žádnou osobu jiným způsobem.
+        b. Je zakázáno používat boty, viry, aplikace pro vyhledávání / extract místa,
+        nebo jiné ruční nebo automatické zařízení nebo postupy pro extrakci, index,
+        "špehování" nebo reprodukovat jinak nebo obcházet navigační strukturu a zobrazování
+        služby nebo jeho obsah , C. Je zakázáno vystavovat, distribuovat nebo reprodukovat
+        Everyway jakékoli informace chráněné autorskými právy, ochrannými známkami
+        nebo jiné informace chráněné autorskými právy bez předchozího souhlasu vlastníka
+        autorských práv. d. Je zakázáno odstraňovat veškerá autorská práva, ochranné
+        známky nebo jiné doložky o autorských právech obsažená o službě. E. Je zakázáno
+        zasahovat do nebo narušovat fungování služby a webové stránky či služby a
+        sítě připojeni ke službě nebo na internetových stránkách. F. Je zakázáno publikovat,
+        e-mailu nebo převod odlišným způsobem jakékoli informace, které obsahují viry
+        nebo jiný počítačový kód, soubory nebo programy, jejichž cílem je narušit,
+        zničit nebo omezit funkčnost jakéhokoli počítačového softwaru, hardwaru nebo
+        telekomunikačního zařízení. G. Je zakázáno padělat hlavičky nebo manipulovat
+        označení za účelem maskovat skutečný význam veškerých informací sdílených
+        prostřednictvím služby. h. Je zakázáno "výhně" nebo "kopie" kterákoli část
+        službu nebo webovou stránku bez předchozího písemného souhlasu ze Flutylove.
+        Také nesmíte používat žádné meta tagy nebo kódy nebo jiné zařízení obsahující
+        veškeré odkazy na Flutylove, služby nebo webové stránky s cílem přesměrovat
+        jakoukoli osobu na jiném místě za jiným účelem. i. Je zakázáno měnit, přizpůsobovat,
+        sublicence, překládat, prodávat, restrukturalizovat, dešifrovat, dekompilovat
+        nebo rozkládat jakoukoli část služby nebo webové stránky, nebo jakýkoli software
+        používaný na internetových stránkách nebo pro něj, jakož i povzbuzuje ostatní,
+        aby přijaly podobná opatření , j. Je zakázáno posílat žádné informace s pornografické
+        a / nebo erotickým obsahem.
+      the_changes_in_the_service: 9. změn ve službě.
+      p_9: Flutylove si vyhrazuje právo kdykoliv změnit nebo dočasně nebo trvale zakázat
+        službu (nebo její část) bez předchozího upozornění. Souhlasíte s tím, že Flutylove
+        není odpovědná vám ani žádné třetí straně za jakékoliv modifikace, dočasné
+        dostupnost nebo úplné znemožnění služby.
+      ip_address_blocking: 10. IPADRESS blokuje.
+      p_10: V zájmu ochrany integrity webových stránek, Flutylove si vyhrazuje právo
+        kdykoliv na své vlastní pohodlí blokovat IP adresy některých uživatelů.
+      relations_between_users_online: 11. vztahy mezi uživateli ONLINE
+      p_11: Nesete plnou odpovědnost za vaše interakce s ostatními uživateli Flutylove.
+        Flutylove si vyhrazuje právo, nikoli povinnost, monitorovat spory mezi vámi
+        a ostatními uživateli.
+      security_and_communication: 12. zabezpečovacích a komunikačních.
+      p_12: Použití webové stránky a / nebo služby je také řídí našimi zásadami ochrany
+        osobních údajů. Když se stanete Uživatel, souhlasíte a souhlas dostávat e-maily
+        od nás. Tyto e-maily mohou zastupovat oznámení o operací nebo jiných oznámení
+        spojené s poskytováním služeb, jako jsou správní oznámení a oficiální oznámení
+        o změnách či e-mailů, které obsahují obchodní nabídky, propagační materiály,
+        speciální nabídky od nás, nebo informace o akcích ostatní uživatelé týkající
+        se vašeho Uživatelský účet. Přečtěte si prosím naše Zásady ochrany osobních
+        údajů dozvědět více o takových oznámení.
+      denial_of_responsibility: 13. popření odpovědnosti.
+      p_13: a. Flutylove není zodpovědný za jakékoliv nesprávné nebo nepřesné informace
+        zveřejněny na webových stránkách nebo je spojena se Službou mohou uživatelé
+        webové stránky nebo jiným hardwarem či softwarem spojené s naší službou nebo
+        je zde používán. Flutylove není zodpovědný za chování, a to jak online i offline,
+        jakéhokoli uživatele webových stránek. Flutylove nepřebírá odpovědnost za
+        případné chyby, opomenutí, přerušení, vymazání, poškození nebo zpoždění při
+        operaci nebo operace, selhání komunikace linky, krádež nebo zničení, neoprávněným
+        přístupem nebo změnou komunikačních linek uživatele. Flutylove není zodpovědná
+        za jakékoli problémy nebo technické závady telefonních sítí nebo linek, počítačových
+        online systémů, serverů nebo poskytovatelů, počítačového vybavení, software,
+        poštou nebo hráči selhání v uživatelském účtu, technické problémy či zácpě
+        na internetu nebo na jakékoliv webové stránce nebo jejich kombinace, včetně
+        úrazů nebo zranění uživatele nebo jakýchkoli třetích stran v souvislosti s
+        počítači nebo v důsledku účasti nebo stahování informací vztahujících se k
+        síti a / nebo službě. Za žádných okolností Flutylove společnost nebo některý
+        z jejích dceřiných, reklamní agenti, zakladateli nebo distribučních partnerů
+        nebude odpovědná za ztrátu nebo poškození, včetně zranění nebo smrti, protože
+        použití webové stránky nebo služby jakýkoliv obsah zveřejněn na internetových
+        stránkách nebo jakékoli interakce mezi uživateli webových stránek, online
+        i offline. Webové stránky a služba je poskytována na AS IS základ, a Flutylove
+        výslovně zříká jakýchkoli záruk nebo vhodnosti pro konkrétní účel, nebo absence
+        porušení práv kohokoli. Flutylove nemůže zaručit a neslibuje žádných konkrétních
+        výsledků z používání webové stránky a / nebo služby.
+      links: 14. odkazech.
+      p_14: a. Flutylove není zodpovědný za jakékoliv nesprávné nebo nepřesné informace
+        zveřejněny na webových stránkách nebo je spojena se Službou mohou uživatelé
+        webové stránky nebo jiným hardwarem či softwarem spojené s naší službou nebo
+        je zde používán. Flutylove není zodpovědný za chování, a to jak online i offline,
+        jakéhokoli uživatele webových stránek. Flutylove nepřebírá odpovědnost za
+        případné chyby, opomenutí, přerušení, vymazání, poškození nebo zpoždění při
+        operaci nebo operace, selhání komunikace linky, krádež nebo zničení, neoprávněným
+        přístupem nebo změnou komunikačních linek uživatele. Flutylove není zodpovědná
+        za jakékoli problémy nebo technické závady telefonních sítí nebo linek, počítačových
+        online systémů, serverů nebo poskytovatelů, počítačového vybavení, software,
+        poštou nebo hráči selhání v uživatelském účtu, technické problémy či zácpě
+        na internetu nebo na jakékoliv webové stránce nebo jejich kombinace, včetně
+        úrazů nebo zranění uživatele nebo jakýchkoli třetích stran v souvislosti s
+        počítači nebo v důsledku účasti nebo stahování informací vztahujících se k
+        síti a / nebo službě. Za žádných okolností Flutylove společnost nebo některý
+        z jejích dceřiných, reklamní agenti, zakladateli nebo distribučních partnerů
+        nebude odpovědná za ztrátu nebo poškození, včetně zranění nebo smrti, protože
+        použití webové stránky nebo služby jakýkoliv obsah zveřejněn na internetových
+        stránkách nebo jakékoli interakce mezi uživateli webových stránek, online
+        i offline. Webové stránky a služba je poskytována na AS IS základ, a Flutylove
+        výslovně zříká jakýchkoli záruk nebo vhodnosti pro konkrétní účel, nebo absence
+        porušení práv kohokoli. Flutylove nemůže zaručit a neslibuje žádných konkrétních
+        výsledků z používání webové stránky a / nebo služby.
+      limitation_of_responsibility: 15. OMEZENÍ ODPOVĚDNOSTI.
+      p_15: webové stránky a jejích funkcí VČETNĚ všechny skripty, aplikace, obsah
+        a design webu jsou poskytovány na AS JE ZÁKLAD. SPOLEČNOST ODMÍTÁ ZÁRUKY,
+        že webové stránky ani jeho funkcím mohou být vhodné nebo nevhodné pro KONKRÉTNÍ
+        účel použití. Společnost může neručí a neslibuje žádný specifický důsledkem
+        používání této webové stránky a / nebo jejích funkcí; Aby se předešlo nejasnostem,
+        by měl uživatel dodržovat bezpečnostní Bezpečnostní opatření při stažením
+        z internetové stránky nebo prostřednictvím vyslaného odkazy a využívat libovolné
+        soubory, stejně jako software. SPOLEČNOST silně doporučeno používat s licencí
+        softwaru, jakož i antivirový software; Užíváním webu, UŽIVATEL ŽE stahování
+        z webu nebo v S jeho pomocí jakýkoliv materiál jeho / její vlastní riziko
+        a výhradně odpovědní za možné výsledky použití těchto informací, včetně jakékoli
+        škody, které to může způsobí, že k počítači uživatele nebo na třetí místo
+        STRANY, Data Loss nebo jakýkoli jiný škody; V ŽÁDNÉM PŘÍPADĚ společnost nebo
+        její zástupci nenesou žádnou odpovědnost vůči uživateli nebo žádné třetí straně
+        za jakékoliv nepřímé, nahodilé a UNWILFUL ŠKODY, včetně ztráty dávek, nebo
+        ztracených dat, poškození cti, důstojnosti, popřípadě obchodní pověst, vyplývajících
+        z jejich Používání této webové stránky, její obsah nebo jakékoliv jiné informace,
+        ke kterému nebo jakákoli jiná osoba získaly přístup přes webové stránky, i
+        když společnost varovala, anebo signalizovat možnost vzniku takových škod.
+      responsibilities_of_the_parties: 16. odpovědnosti jednotlivých stran.
+      p_16: Tato smlouva se řídí a vykládá v souladu s právními předpisy Ruské federace.
+        Problémy, které nebyly vypořádány podle dohody se řeší v souladu s právními
+        předpisy Ruské federace. V případě jakýchkoliv sporů nebo spory související
+        s prováděním těchto předpisů, bude Uživatel a Společnost vynaloží veškeré
+        úsilí k jejich řešení prostřednictvím jednání. V případě, že spory nebude
+        vyřešen jednáním, budou spory řeší v souladu s platnými právními předpisy
+        Ruské federace. Tato dohoda je vyhotovena v ruském jazyce a mohou být poskytnuty
+        Uživateli k přezkoumání v jiném jazyce. V případě nesrovnalostí na znění nařízení
+        ruského jazyka a jeho verzi v jiném jazyce, musí být použita verze v ruštině
+        ustanovení tohoto nařízení. Pokud z toho či onoho důvodu, jedno nebo více
+        ustanovení těchto předpisů budou prohlášeny za neplatné či neplatná, nemá
+        to vliv na platnost a vymahatelnost zbývajících ustanovení.
+      other_provisions_and_changes: 17. jiná ustanovení a změny.
+      p_17: Tato smlouva je pravda dohoda mezi vámi a Flutylove týkající se používání
+        webové stránky a / nebo služby. V případě jakéhokoliv ustanovení této dohody
+        dutin, zbytek dohody zůstává její platnost v plné míře. Tato dohoda může být
+        změněna Flutylove kdykoliv. Neváhejte se na nás obrátit s případnými dotazy
+        ohledně této dohody.
+      read_this: JSEM SI touto dohodou a souhlasí se všemi upřesňuje svoje.
+    about:
+      about_flutylove: O Flutylove
+      about_flutylove_text: Flutylove je mezinárodní sociální zábavní síť pro seznámení.
+        Zde můžete najít přátele, blízkého přítele, partnery nebo jen trávit čas se
+        nyní tím, hraní her nebo sledování videa / fotografií.
+      flutylove_features: 'Když se zaregistrujete na našich stránkách, můžete zjistit
+        mnoho funkcí, jako například:'
+      video_call_feature: můžete chatovat s partnerem s webovou kamerou
+      extended_search: můžete použít rozšířené vyhledávání zdarma
+      multilanguages: můžete vyhledávat partnery z jiných zemí, protože naše služba
+        Očekává se, že využití v širokém spektru lidí z jiných zemí, protože se překládá
+        více než 70 jazyků
+      play_games_chatting_etc: Můžete chatovat s ostatními lidmi, hrát hry a dělat
+        jinou společenskou krmiv
+      we_are_in_social_networks: 'Jsme v sociálních sítích:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google Plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Používáme špičkových technologií a open
+        source knihovny. Vždy se snažíme být lepší a zlepšovat naše služby.
+      partners_and_investors: Jsme jsou otevřeny pro spolupráci a rádi bychom najít
+        investory. Pokud byste chtěli s námi spolupracovat, kontaktujte nás na adrese
+        partnership@flutylove.com
+    faq:
+      faq: FAQ
+      what_is_flutylove: Co je Flutylove?
+      about_flutylove: Flutylove je mezinárodní sociální zábavní síť pro seznámení.
+        Zde můžete najít přátele, blízkého přítele, partnery nebo jen trávit čas se
+        nyní tím, hraní her nebo sledování videa / fotografií.
+      what_features_has_flutylove: Jaké vlastnosti má Flutylove?
+      flutylove_features: Zde si můžete chatovat s videokamerami, použijte rozšířené
+        vyhledávání, vyhledávání partnerů z jiných zemí, hrát hry a dělat jiné společenské
+        krmiv.
+      i_have_some_requests: Mám nějaké požadavky
+      you_can_write_request: Můžete se zaregistrovat a zapsat
+      here: zde
+      i_have_seen_some_typo_or_wrong_translation: Viděl jsem nějaký překlep, nebo
+        chybný překlad
+      you_can_send_pull_request_to_our: můžete zaslat žádost Pull k odběru
+      github_repository: GitHub úložiště
+      i_have_seen_some_error: Viděl jsem nějaké chyby
+      you_can_send: Můžete nám poslat zpětnou vazbu
+      feedback: tohoto formuláře
+      to_us_or_write_to_our_info_mail: nebo napsat e-mail support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Vítejte na Flutylove
+      you_have_successfully_signed_up_to_flutylove: Úspěšně jste se zaregistrovali
+        na Flutylove
+      you_can_sign_in_with_your_social_networks: Pokud byste chtěli znovu přihlásit
+        se můžete přihlásit ke svému účtu sociální sítě
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Chcete-li
+        se přihlásit pomocí e-mailu a hesla můžete změnit heslo odhlásíte a klikněte
+        na níže uvedený odkaz
+      change_password: Změna hesla
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: nesprávné
+            search_for:
+              search_for_error: nesprávné
+            birth_date:
+              birth_date_error: musí být větší než 18 a méně než 115
+            interests:
+              interests_error: musí být menší než 2000 znaků
+            jobs:
+              jobs_error: musí být menší než 2000 znaků
+            languages:
+              languages_error: musí být menší než 2000 znaků
+            sex_keywords:
+              sex_keywords_error: musí být menší než 2000 znaků
+            my_turn_ons:
+              my_turn_ons_error_error: nesprávné
+            contacts:
+              contacts_length_error: musí být menší než 2000 znaků
+              contacts_size_error: musí být menší než 21 kontaktů
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: má neplatnou hodnotu
+  devise:
+    confirmations:
+      confirmed: Váš účet byl úspěšně potvrzena.
+      send_instructions: Obdržíte e-mail s pokyny, jak potvrdit svůj účet během několika
+        minut.
+      send_paranoid_instructions: Existuje-li vaše e-mailová adresa v naší databázi,
+        obdržíte e-mail s pokyny, jak potvrdit svůj účet během několika minut.
+      new:
+        send_mail_for_confirm_your_email: Odeslat e-mail pro potvrzení e-mailu
+        submit: Odeslat
+    failure:
+      already_authenticated: Ty jsou již přihlášeni.
+      inactive: Váš účet není aktivován dosud.
+      invalid: Neplatný e-mail nebo heslo.
+      locked: Váš účet je uzamčen.
+      last_attempt: Máte ještě jeden pokus, než bude váš účet uzamčen.
+      not_found_in_database: Neplatný e-mail nebo heslo.
+      timeout: vaše relace vypršela. Prosím, přihlaste se znovu pokračovat.
+      unauthenticated: je třeba se přihlásit nebo registrovat před pokračováním.
+      unconfirmed: musíte potvrdit svůj účet před pokračováním.
+    mailer:
+      confirmation_instructions:
+        subject: pokyny Potvrzení
+        welcome_to_flutylove: Vítejte na Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Můžete potvrdit
+          svůj e-mail prostřednictvím odkazu níže
+        confirm_my_account: Potvrdit svůj email
+      reset_password_instructions:
+        hello: Hello
+        subject: Obnovit návod heslo
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Někdo
+          žádá o odkaz na změnu hesla. To lze provést prostřednictvím odkazu níže.
+        change_my_password: změnit své heslo
+        if_you_didnt_request_this_please_ignore_this_email: Pokud jste si nevyžádali
+          tento ignorujte prosím tento e-mail.
+      unlock_instructions:
+        subject: Odemknout k obsluze
+    omniauth_callbacks:
+      failure: Nebylo možné vás ověřit z% {druh}, protože "% {} důvod".
+      success: úspěšně ověřen z% {} druhu účtu.
+    passwords:
+      no_token: Nemůžete přístup k této stránce, aniž by přišel z e-mailu k resetování
+        hesla. Pokud pocházejí z e-mailu k resetování hesla, ujistěte se, že jste
+        použili úplnou adresu URL k dispozici.
+      send_instructions: Obdržíte e-mail s pokyny, jak obnovit heslo během několika
+        minut.
+      send_paranoid_instructions: Existuje-li vaše e-mailová adresa v naší databázi,
+        obdržíte odkaz pro obnovení hesla na vaši e-mailovou adresu během několika
+        minut.
+      updated: Vaše heslo bylo úspěšně změněno. Nyní jste přihlášeni.
+      updated_not_active: Vaše heslo bylo úspěšně změněno.
+      new:
+        forgot_your_password: Obnovit heslo
+        reset_password: Send obnovit url
+      edit:
+        change_your_password: Změna hesla
+        new_password: Nové heslo
+        confirm_password: Potvrdit heslo
+        change_password: Změna
+    registrations:
+      destroyed: Bye! Váš účet byl úspěšně zrušen. Doufáme, že vás zase brzy uvidíme.
+      signed_up: Vítejte! Zaregistrovali jste úspěšně.
+      signed_up_but_inactive: jste se zaregistrovali úspěšně. Nicméně jsme vás nemohli
+        přihlásit, protože váš účet ještě není aktivován.
+      signed_up_but_locked: jste se zaregistrovali úspěšně. Nicméně jsme vás nemohli
+        přihlásit, protože váš účet je uzamčen.
+      signed_up_but_unconfirmed: zprávu s potvrzovací odkaz byl odeslán na vaši e-mailovou
+        adresu. Otevřete prosím na odkaz pro aktivaci účtu.
+      update_needs_confirmation: Úspěšně jste aktualizovali svůj účet, ale musíme
+        ověřit vaši novou e-mailovou adresu. Zkontrolujte svůj e-mail a klikněte na
+        odkaz potvrzují, aby dokončila potvrzující svou novou e-mailovou adresu.
+      updated: Úspěšně jste aktualizovali svůj účet.
+      new:
+        sign_up: Zaregistruj se
+        name: Name
+        password: Password
+        register: Zaregistruj se
+    shared:
+      links:
+        sign_in: Přihlásit
+        sign_up: Zaregistruj se
+        didnt_receive_confirmation_instructions: Copak byl odeslán potvrzující informaci?
+        sign_in_with: Přihlaste se
+        fast_login_almost_one_click: Fast login (téměř jeden klik)
+    sessions:
+      signed_in: přihlášeni úspěšně.
+      signed_out: odhlášen úspěšně.
+      new:
+        sign_in: Přihlásit
+        password: Password
+        remember_me: Zapamatovat
+        forgot_your_password: Zapomněli jste heslo?
+    unlocks:
+      send_instructions: Obdržíte e-mail s pokyny, jak odemknout svůj účet během několika
+        minut.
+      send_paranoid_instructions: Existuje-li váš účet, obdržíte e-mail s pokyny,
+        jak ji odemknout během několika minut.
+      unlocked: Váš účet byl úspěšně odemčen. Prosím, přihlaste se pro pokračování.
+  timezones:
+    American Samoa: Americká Samoa
+    International Date Line West: Mezinárodní datová čára West
+    Midway Island: Midway Island
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Pacific Time (US & Canada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain (USA a Kanada)
+    Central America: Střední Amerika
+    Central Time (US & Canada): střední čas (USA a Kanada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Východní čas (USA a Kanada)
+    Indiana (East): Indiana (Východ)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlantic Time (Kanada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Grónsko
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Azory
+    Cape Verde Is: Kapverdy.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lisabon
+    London: Londýn
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Bělehrad
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Brusel
+    Budapest: Budapest
+    Copenhagen: Copenhagen
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Praha
+    Rome: Řím
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Vídeň
+    Warsaw: Warsaw
+    West Central Africa: West Central Africa
+    Zagreb: Zagreb
+    Athens: Athens
+    Bucharest: Bukurešť
+    Cairo: Káhira
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kaliningrad
+    Kyiv: Kyiv
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Bagdád
+    Kuwait: Kuvajt
+    Minsk: Minsk
+    Moscow: Moskva
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: St. Petersburg
+    Volgograd: Volgograd
+    Tehran: Tehran
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Jerevan
+    Kabul: Kabul
+    Ekaterinburg: Jekatěrinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Taškent
+    Chennai: Chennai
+    Kolkata: Kalkata
+    Mumbai: Mumbai
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangún
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnojarsk
+    Beijing: Beijing
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapore
+    Taipei: Taipei
+    Ulaanbaatar: Ulánbátar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokio
+    Yakutsk: Jakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: Nová Kaledonie
+    Solomon Is: Šalamounovy ostrovy.
+    Srednekolymsk: Sredněkolymsk
+    Auckland: Auckland
+    Fiji: Fiji
+    Kamchatka: Kamčatka
+    Marshall Is: Marshall Is.
+    Wellington: Wellington
+    Chatham Is: Chatham Is.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau Is.
+  cs: cs
+  cs_iso: cs

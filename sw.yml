@@ -1,0 +1,1716 @@
+---
+sw:
+  1_we_have_just_launched_our_service_title: Sisi tu alizindua huduma zetu!
+  common_keywords: datings, online datings, upendo datings, webcam dating, kasi dating,
+    webcam chat dating, Ruby juu ya reli dating tovuti, multilanguage dating tovuti
+  common_description: juu zaidi ya kimataifa burudani ya kijamii mtandao kwa datings
+    "Flutylove"
+  user: mtumiaji
+  user_to_search_connection: Tafuta
+  video: Sehemu
+  note: Kumbuka
+  photo_album: Picha albamu
+  from: From
+  to: Kwa
+  vkontakte: Vkontakte
+  facebook: Picha
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Male
+  - female:
+      name: Mwanamke
+  - transgender:
+      name: Transgender
+  - male-female:
+      name: Mwanaume-Kike
+  - double-female:
+      name: Double kike
+  - double-male:
+      name: Double kiume
+  orientation:
+  - heterosexual: Heterosexual
+  - homosexual: ushoga
+  - bisexual: Bisexual
+  search_for:
+  - chatting: Chatting
+  - get_friends: Kupata marafiki
+  - flirtation: flirtation
+  - marriage: Ndoa
+  - other: nyingine
+  body_type:
+    slim: Slim
+    normal: Kawaida
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Single
+    in_a_relationship: Katika Uhusiano
+    married: Ndoa
+    nothing_serious: Hakuna mbaya
+  children:
+    dont_have: Hawana
+    dont_have_and_dont_want_to: Hawana na hawataki
+    don_t_have_but_planning: Hawana lakini mipango
+    have_enough: Have
+    have_and_planning_more: Have na mipango zaidi
+    unable_to_have_children: Haiwezekani kuwa na watoto
+  living:
+    with_parents: Na wazazi
+    with_marriage_partner: Na mpenzi ndoa
+    alone: Alone
+    with_friends: Kwa rafiki (s)
+  education:
+    nothing: Hakuna
+    secondary_school: shule ya sekondari
+    college_technical_college: chuo / chuo Ufundi
+    university: University
+    postgraduate: Uzamili
+    phd_md_post_doctorate: PhD / MD / Post udaktari
+  hair_color:
+    blonde: kuchekesha
+    dark_blond: blond giza
+    brown: Brown
+    black: Black
+    red: Red
+    gray: Gray
+    other: nyingine
+  income:
+    unemployed: Ajira
+    unstable_earnings: mapato Haidumu
+    small_stable_earnings: Ndogo mapato imara
+    medium_stable_earnings: Medium mapato imara
+    higher_than_average_income: Juu kuliko wastani wa kipato
+    high_income: High mapato
+  smoking:
+    not_smoke: Si sigara
+    not_smoke_and_detest: Si sigara na zia sigara
+    smoke_in_a_social_setting: Wakati mwingine katika mazingira ya kijamii
+    smoke_only_after_drinking: Moshi tu baada ya kunywa
+    smoke_occasionally: Moshi mara kwa mara
+    smoke_often: Moshi mara nyingi
+  alcohol:
+    not_drinking: Si kunywa
+    drink_occalionally: Drink mara kwa mara
+    drink_in_a_social_setting: Drink katika mazingira ya kijamii
+    drink_often: Drink mara nyingi
+  drugs:
+    dont_use: Je, matumizi ya
+    contra_drugs: Contra madawa
+    tried_out_some: Tried nje baadhi
+    light_drugs_occasionally: Mwanga dawa mara kwa mara
+    regular: Mara kwa mara
+  sponsor:
+    i_want_to_find_a_sponsor: nataka kupata mdhamini
+    willing_to_become_a_sponsor: Tayari kuwa mdhamini
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Si kuangalia kwa mdhamini
+      na si tayari kuwa moja
+  category_name:
+    strategy: Mkakati
+    rpg: RPG
+    3d_shooters: shooters 3D
+    racing: Mashindano
+    arcade: Arcade
+    economic: Economic
+    simulators: Simulators
+    logic: Logic
+    adventure: Adventure
+    board_games: Bodi ya michezo
+    gambling: Kamari
+    news: News
+    communication: Communication
+    multimedia: Multimedia
+    drawing: kuchora
+    educational: Elimu
+    e_commerce: E-Commerce
+    other: nyingine
+  shared:
+    header:
+      people: Watu
+      chat: Ongea
+      groups: Vikundi
+      forum: Forum
+      requests: Maombi
+      about: Kuhusu mradi
+      help: Msaada
+      user_applications: Matumizi
+    liked_users:
+      liked: Walipenda
+      all: All
+      you_have_not_liked_any_users_yet: Wewe si walipenda watumiaji yoyote
+    most_liked_users:
+      most_liked_users: Popular watumiaji
+    installed_user_applications:
+      installed_applications: maombi imewekwa
+      all: All
+      you_have_not_installed_any_apps_yet: Hujasakinisha maombi yoyote
+    user_applications:
+      uploaded_apps: maombi Uploaded
+      all: All
+      you_have_not_uploaded_any_apps_yet: Wewe si kupakiwa maombi yoyote
+    right_sidebar:
+      news: News
+      all: All
+      read_more: Soma zaidi
+    footer:
+      footer_text: International burudani ya kijamii mtandao kwa datings "Flutylove"
+      privacy: usiri
+      terms: Kanuni
+      feedback: Maoni
+      abuse: Unyanyasaji
+    languages_select_modal:
+      available_languages: Inapatikana lugha
+    site_map_modal:
+      site_map: Site map
+      faq: FAQ
+      about: Kuhusu
+      static_pages: kurasa Static
+      common_pages: kurasa Kawaida
+      user_pages: kurasa mtumiaji
+      terms: Kanuni
+      privacy: usiri
+      people: Watu
+      user_applications: Matumizi
+      user_requests: Maombi
+      news: News
+      feedback: Maoni
+      abuse: Unyanyasaji
+      chats: Gumzo
+      videos: Video
+      photo_albums: Picha Albamu
+      notes: Notes
+    pagination_link:
+      next_page: ukurasa Ifwatayo
+    user_edit_menu:
+      content: maudhui
+      profile: Profile
+      site_settings: mazingira Site
+      privacy: usiri
+      services: Services
+    activities_navigation:
+      all: All
+      photos: Picha
+      photo_albums: Picha Albamu
+      notes: Notes
+      videos: Video
+    notifications_navigation:
+      all: All
+      likes: Anapenda
+      friend_requests: maombi Friend
+      profile_views: Profile maoni
+      photo_album_views: Picha maoni
+    user_to_friend_connections_navigation:
+      friends: Friends
+      friends_online: Friends online
+      outcome_requests: maombi Outcome
+      income_requests: maombi Mapato
+    user_applications_navigation:
+      all: All
+      new: New
+      popular: Popular
+      often_installed: Mara nyingi imewekwa
+      manage: Kusimamia
+    user_requests_navigation:
+      all: All
+      popular: Popular
+      my_requests: maombi My
+    user_navbar_menu:
+      sign_in: Ingia katika
+      sign_up: Ishara ya juu
+    email_signature:
+      info: Info
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd
+    translations:
+      select_gender: Chagua jinsia
+      select_orientation: Chagua Mwelekeo
+      select_search_for: Chagua search kwa
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Unahitaji kuingia katika hatua hii kabla ya
+      available_sign_in_methods: You
+    sign_up_methods:
+      usual_register_link: usajili kawaida
+      register_text: Licha% {usual_registration} unaweza kujiandikisha kupitia huduma
+        maarufu na mitandao ya kijamii
+    bootstrap_gallery:
+      previous: Kabla
+      next: Ifwatayo
+    user_notification_title:
+      you_liked: You walipenda na
+      wrote_message_to_you: Wrote ujumbe kwa wewe
+      viewed_your_profile: Viewed wasifu wako wa
+      liked_your_photo: Walipenda picha yako
+      liked_your_note: Walipenda note yako
+      liked_your_request: Walipenda ombi lako
+      liked_your_video: Walipenda video yako
+      liked_your_application: Walipenda maombi yako
+      requested_a_friendship: tafsiri urafiki
+  authentications:
+    authentication:
+      turn_on: Kurejea kwenye
+      turn_off: Zima
+      turned_on: Akageuka juu ya
+      turned_off: Akageuka mbali
+    index:
+      enabled_services: Kuwezeshwa huduma
+  users:
+    profile:
+      submit: Save
+      name: Jina
+      meet_with: Kukutana na
+      gender: Jinsia
+      type_in_your_location: Aina katika mji wako
+      about_me: Baadhi ya maneno kuhusu wewe mwenyewe (pamoja na kuunda chini)
+      sex_keywords: Maslahi katika ngono
+      enter_your_name: Ingiza jina lako
+      more_options: Zaidi
+      orientation: Mwelekeo
+      location: Mahali
+      search_for: Tafuta kwa ajili ya
+      intimacy: Intimacy
+      in_age: Katika umri
+      from: kutoka
+      to: kwa
+      interests: Maslahi
+      height: Height
+      weight: uzito
+      body_type: Mwili aina
+      hair_color: Nywele Michezo
+      relationship: Uhusiano
+      children: Watoto
+      living: Hai
+      education: Elimu
+      jobs: Job
+      income: Mapato
+      languages: Lugha
+      smoking: Sigara
+      alcohol: Pombe
+      drugs: Madawa ya Kulevya
+      contacts: Mawasiliano
+      contact_name: Mawasiliano jina
+      save: Save
+      about_yourself: Kuhusu mwenyewe
+    settings:
+      submit: Save
+      locale: lugha Interface
+      change_password: Change password
+      interface_language: lugha Interface
+      time_zone: Wakati eneo
+    index:
+      users: Watumiaji
+      clear_search: Clear search
+    dashboard:
+      hello: Habari
+      here_some_of_your_statistics: Hapa baadhi ya takwimu yako
+      chats: Gumzo
+      photos: Picha
+      videos: Video
+      notes: Notes
+      photo_albums: Picha Albamu
+    avatar:
+      photo: Picha
+      uploading_file: Kuweka file
+      handling_file: Handling faili
+      drag_and_drop_your_file: Drag na kuacha faili yako
+      here: hapa
+      or: au
+      upload_file: upload file
+      from_other_sites: From maeneo mengine
+      write_down_link_for_your_image: Andika kiungo wa picha yako
+      url_for_image: Url kwa picha
+      upload: Pakia
+      from_facebook: Kutoka Facebook
+      turn_on_facebook: Turn katika Picha
+      you_can_upload_your_photos_from_facebook: Unaweza upload picha yako kutoka Facebook
+      from_vkontakte: From Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Unaweza upload picha yako kutoka
+        Vkontakte
+      turn_on_vkontakte: Kurejea kwenye Vkontakte
+      from_instagram: From Instagram
+      you_can_upload_your_photos_from_instagram: Unaweza upload picha yako kutoka
+        Instagram
+      turn_on_instagram: Kurejea kwenye Instagram
+      from_dropbox: From Dropbox
+      you_can_upload_your_photos_from_dropbox: Unaweza upload picha yako kutoka Dropbox
+      turn_on_dropbox: Kurejea kwenye Dropbox
+      edit_photo: Hariri picha
+      delete_photo: Delete picha
+      are_you_sure: Je, una uhakika?
+    available_photos_modal:
+      available_photos: Available picha
+    update:
+      your_password_was_successfully_changed: Neno lako la siri mara kwa mafanikio
+        iliyopita
+      your_profile_was_successfully_updated: wasifu wako mara kwa mafanikio updated
+    edit_photo:
+      edit_photo: Hariri picha
+      crop: Mazao
+      close: Karibu
+      save_changes: Save mabadiliko
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / nk
+      contact_value_placeholder: url / nick / id / nk
+    user:
+      about_me: Kuhusu mimi
+      orientation: Mwelekeo
+      meet_with: Kukutana na
+      desirable_age: umri Kuhitajika
+      from: kutoka
+      to: kwa
+      interests: Maslahi
+      height: Height
+      sm: sm
+      kg: kilo
+      body_type: Mwili aina
+      hair_color: Nywele Michezo
+      relationship: Uhusiano
+      children: Watoto
+      living: Hai
+      education: Elimu
+      jobs: Kazi
+      income: Mapato
+      languages: Lugha
+      smoking: Sigara
+      alcohol: Pombe
+      drugs: Madawa ya Kulevya
+      contacts: Mawasiliano
+    user_info:
+      offline: Offline
+      online: Online
+      age: Umri
+    loading_modal_images:
+      loading_images: Loading picha
+    password_form:
+      new_password: nenosiri New
+      confirm_new_password: Thibitisha nenosiri jipya
+      old_password: Nywila ya zamani
+      change_password: Change password
+    show:
+      photos: Picha
+      all: All
+      videos: Video
+      notes: Notes
+      view: View
+    dropbox_token_form:
+      key: muhimu
+      paste_recieved_key: Kuweka kimepata muhimu
+      submit: Kuwasilisha
+    contents:
+      users_which_i_like: Watumiaji ambayo i kama
+      all: All
+      my_videos_likes: video My anapenda
+      my_photos_likes: picha My anapenda
+      my_notes_likes: My maelezo anapenda
+      my_user_applications_likes: maombi My anapenda
+      my_user_requests_likes: My maombi anapenda
+    more_profile_info:
+      photo_albums: Picha Albamu
+      view_all_photo_albums: View albamu wote picha
+      create_more: Kujenga zaidi
+      videos: Video
+      view_all_videos: View video zote
+      notes: Notes
+      view_all_notes: View maelezo yote
+      requirements_lists_to_partner: Mahitaji unaorodhesha kwa mpenzi
+      requirement: Mahitaji
+      view_all_requirements_lists: View orodha ya mahitaji yote
+      profile_verification: Profile uhakiki
+      your_profile_is_successfully_verified: wasifu wako ni mafanikio kuthibitishwa
+      create: Kujenga
+      you_have_not_any_requirements_lists_yet: Una si mahitaji yoyote orodha bado
+      you_have_not_any_notes_yet: Una si maelezo yoyote
+      you_have_not_any_photo_albums_yet: Una mtu yoyote Albamu picha bado
+      you_have_not_any_videos_yet: Una si video yoyote
+      your_profile_is_not_verified_yet: wasifu wako si kuthibitishwa bado
+      verify_through_twitter: Kuhakiki kupitia Twitter
+      verify_through_facebook: Kuhakiki kupitia Facebook
+      verify_through_mail_ru: Kuhakiki kupitia Mail.ru
+    privacy:
+      privacy: usiri
+  searches:
+    form:
+      location: Mahali
+      from: kutoka
+      to: kwa
+      age: Umri
+      gender: Jinsia
+    form_content:
+      city: City
+      gender: Jinsia
+      age_from: Umri kutoka
+      to: kwa
+      online: Online
+      verified: Imethibitishwa
+      has_avatar: Ina avatar
+      region: Mkoa
+      more: Zaidi
+      country: Nchi
+      about_me: Kuhusu mimi
+      interests: Maslahi
+      languages: Lugha
+      names: Majina
+      height: Height
+      from: kutoka
+      weight: uzito
+      body_type: Mwili aina
+      relationship: Uhusiano
+      hair_color: Nywele Michezo
+      education: Elimu
+      orientation: Mwelekeo
+      search_for: Tafuta kwa ajili ya
+      children: Watoto
+      living: Hai
+      smoking: Sigara
+      alcohol: Pombe
+      drugs: Madawa ya Kulevya
+      income: Mapato
+    show:
+      users: Watumiaji
+      clear_search: Clear search
+  welcome:
+    index:
+      people: Watu
+      requests: Maombi
+      user_applications: Matumizi
+      about: Kuhusu
+      features: Sifa
+      registration: Usajili
+      sign_in: Ingia katika
+      welcome_main_title: Karibu Flutylove!
+      welcome_main_text: Hii ni mahali ambapo unaweza kupata upendo wako kamili
+      find_more: Kupata zaidi
+      about_title: Flutylove ni ya kimataifa ya kijamii burudani mtandao kwa datings
+      about_text: Kuna makala nyingi kwamba unaweza kutumia kwa ajili ya burudani
+        na datings!
+      find_more_features: Kupata makala zaidi
+      at_our_service: Makala ya huduma zetu
+      many_languages: Lugha nyingi
+      text_about_many_languages: huduma yetu imetafsiriwa lugha zaidi ya 70
+      check_it_out: Kuangalia ni nje
+      videochats: Videochats
+      text_about_videochats: Unaweza kuzungumza na mpenzi wako na videocams
+      try_it_now: Jaribu sasa
+      search: Tafuta
+      text_about_search: Unaweza kutafuta na vigezo mbalimbali na ni bure!
+      watch_this: Watch huu
+      more_features: Makala zaidi
+      text_about_more_features: Unaweza kutazama video, kucheza michezo na kufanya
+        mambo mengine mengi!
+      register_and_learn_more: Daftari na kujifunza zaidi
+      install_our_apps: kufunga programu yetu kutoka kwenye majukwaa maarufu
+      register_header: Usajili
+  feedbacks:
+    new:
+      feedback_title: Maoni
+    form:
+      feedback_name: Jina lako
+      feedback_email: barua pepe yako
+      feedback_content: Maoni yaliyomo
+      close: Karibu
+      send: Send
+      feedback_recaptcha: ReCAPTCHA
+      cancel: kufuta
+    success:
+      success_feedback: Asante! Sisi kimepata maoni yako.
+      close: Karibu
+      cancel: kufuta
+      more: Tuma zaidi
+  abuses:
+    new:
+      abuse_title: Unyanyasaji
+    form:
+      abuse_name: Jina lako
+      abuse_email: barua pepe yako
+      abuse_content: Unyanyasaji yaliyomo
+      abuse_title: Unyanyasaji
+      close: Karibu
+      send: Send
+      abuse_recaptcha: ReCAPTCHA
+      abuse_link: Link
+      cancel: kufuta
+    success:
+      success_abuse: Asante! Sisi kimepata matumizi mabaya yako.
+      close: Karibu
+      cancel: kufuta
+      more: Tuma zaidi
+  layouts:
+    welcome:
+      welcome_title: Karibu Flutylove! juu zaidi dating tovuti.
+  recaptcha:
+    errors:
+      verification_failed: Imeshindwa recaptcha
+      recaptcha_unreachable: ReCAPTCHA ni unreachable
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Sisi tu alizindua huduma zetu!
+      we_have_just_launched_our_service_text: Leo uzinduzi wa huduma zetu ili kila
+        mtu anaweza
+      sign_up: ishara ya juu
+      and_use_it: na matumizi yake.
+      wishes_and_requests: Kama una matakwa yoyote au maombi, unaweza ishara juu na
+        aliandika
+      here: hapa
+      with_love: Kwa upendo,
+      flutylove_team: Flutylove Team
+    index:
+      all_news: Habari zote
+      read_more: Soma zaidi
+  chats:
+    panel_head:
+      online: Online
+      offline: Offline
+    pagination_link:
+      next_page: ukurasa Ifwatayo
+    form_additions:
+      submit: Kuwasilisha
+      videochat: Videochat
+    videochat_request_link:
+      connect_to_videochat: Connect kwa videochat
+    modal_form:
+      recipient: Mpokeaji
+      message: Ujumbe
+      close: Karibu
+      submit: Kuwasilisha
+    waiting_video_answer_button:
+      waiting_for_response: Kusubiri kwa majibu ...
+    chat_created:
+      message_was_sent: Ujumbe alitumwa
+      close: Karibu
+  messages:
+    pagination_link:
+      next_page: ukurasa Ifwatayo
+  notifications:
+    user_to_friend_connection:
+      action: Hatua
+    notification:
+      offline: Offline
+      online: Online
+    like:
+      action: Hatua
+    photo_album_view:
+      action: Hatua
+    user_view:
+      action: Hatua
+  user_applications:
+    user_application:
+      who_uploaded: Imepakiwa na
+      all_uploaded_applications_by: Maombi yote uploaded na
+    form:
+      name: Jina
+      user_application_name: Maombi jina
+      description: Maelezo
+      description_text: Maelezo asilia
+      iframe_url: Iframe url
+      icon_for_application: Maombi icon
+      upload_icon: Download icon
+      public: Umma?
+      category_name: Jamii
+      create: Kujenga
+      edit: Hariri
+    show:
+      application: Maombi
+      return_to_uploaded_applications: Kwa kupakiwa maombi
+      edit_application: Hariri maombi
+      return_to_all_applications: Kurudi maombi yote
+    manage:
+      installed_applications: maombi imewekwa
+      uploaded_applications: maombi Uploaded
+      all: All
+    index:
+      applications_uploaded_by: Matumizi uploaded na
+      return_to_all_applications: Kurudi maombi yote
+      create_new: Kujenga mpya
+      return_to_manage_applications: Return kusimamia maombi
+    installed:
+      installed_applications: maombi imewekwa
+      return_to_all_applications: Kurudi maombi yote
+      return_to_manage_applications: Return kusimamia maombi
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Kabla mtazamo huu unahitaji
+        ishara katika kwanza
+    need_to_install:
+      need_to_install_first: Wewe haja ya kufunga maombi haya kwanza
+      install_application: Kufunga maombi
+  likes:
+    index:
+      liked_items: vitu Walipenda
+      return_to_my_content: Kurudi maudhui yangu
+  videos:
+    index:
+      videos: Video
+      return_to_edit_profile: Kwa editing wasifu
+      create_new: Kujenga mpya
+      return_to_profile: Return profile
+    video:
+      edit: Hariri
+      are_you_sure: Je, una uhakika?
+      delete: Futa
+    modal_form:
+      create_new_video: Kujenga video mpya
+      close: Karibu
+      create: Kujenga
+    form_content:
+      name: Jina
+      video_name: Sehemu jina
+      source: Url ya kanuni kupachika
+      video_url_or_embed_code: Sehemu url ya video kanuni kupachika
+    show:
+      video: Sehemu
+      return_to_all_videos: Kurudi video zote
+      edit_video: Hariri video
+    edit:
+      edit_video: Hariri video
+      return_to_view_video: Kurudi mtazamo video
+      view_video: View video
+    form:
+      edit: Hariri
+  photo_albums:
+    index:
+      photo_albums: Picha Albamu
+      return_to_editing_profile: Kwa editing wasifu
+      create_new: Kujenga mpya
+      return_to_profile: Return profile
+    photo_album:
+      edit: Hariri
+      create: Kujenga
+      are_you_sure: Je, una uhakika?
+      delete: Futa
+    edit:
+      edit_photo_album: Hariri albamu ya picha
+      return_to_photo_albums: Kwa Albamu picha
+      view_photo_album: View albamu ya picha
+    form_content:
+      name: Jina
+      photo_album_name: Picha albamu jina
+    form:
+      edit: Hariri
+      create: Kujenga
+    photo_album_uploader:
+      drag_and_drop_your_file: Drag na kuacha faili yako
+      here: hapa
+      or: au
+      upload_file: upload file
+      from_other_sites: From maeneo mengine
+      write_down_link_for_your_image: Andika kiungo wa picha yako
+      url_for_image: Url kwa picha
+      upload: Pakia
+      from_facebook: Kutoka Facebook
+      turn_on_facebook: Turn katika Picha
+      you_can_upload_your_photos_from_facebook: Unaweza upload picha yako kutoka Facebook
+      from_vkontakte: From Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Unaweza upload picha yako kutoka
+        Vkontakte
+      turn_on_vkontakte: Kurejea kwenye Vkontakte
+      from_instagram: From Instagram
+      you_can_upload_your_photos_from_instagram: Unaweza upload picha yako kutoka
+        Instagram
+      turn_on_instagram: Kurejea kwenye Instagram
+      from_dropbox: From Dropbox
+      you_can_upload_your_photos_from_dropbox: Unaweza upload picha yako kutoka Dropbox
+      turn_on_dropbox: Kurejea kwenye Dropbox
+    show:
+      photo_album: Picha albamu
+      return_to_photo_albums: Kwa Albamu picha
+      edit_photo_album: Hariri albamu ya picha
+    modal_form:
+      create_new_photo_album: Kujenga albamu mpya picha
+      close: Karibu
+      create: Kujenga
+  user_requests:
+    form:
+      content: maudhui
+      edit: Hariri
+      create: Kujenga
+  notes:
+    index:
+      notes: Notes
+      return_to_edit_profile: Kwa editing wasifu
+      create_new: Kujenga mpya
+      return_to_profile: Return profile
+    note:
+      edit: Hariri
+      are_you_sure: Je, una uhakika?
+      delete: Futa
+    show:
+      note: Kumbuka
+      return_to_notes: Kurudi maelezo
+      edit_note: Hariri kumbuka
+    form_content:
+      content: maudhui
+      edit: Hariri
+      create: Kujenga
+    edit:
+      edit_note: Hariri kumbuka
+      return_to_notes: Kurudi maelezo
+      view_note: View kumbuka
+  user_to_search_connections:
+    index:
+      requirements_lists: orodha Mahitaji
+      return_to_editing_profile: Kwa editing wasifu
+      create_new: Kujenga mpya
+    user_to_search_connection:
+      edit: Hariri
+      are_you_sure: Je, una uhakika?
+      delete: Futa
+    edit:
+      edit_requirements_list: Hariri orodha mahitaji
+      return_to_requirements_lists: Kwa orodha mahitaji
+      view_requirements_list: View mahitaji orodha
+    form_content:
+      name: Jina
+      name_of_your_requirements_list: Jina la orodha yako mahitaji
+    form:
+      edit: Hariri
+    show:
+      requirements_list: Mahitaji orodha
+      return_to_requirements_lists: Kwa orodha mahitaji
+      edit_requirements_list: Hariri mahitaji orodha
+  photos:
+    index:
+      photos: Picha
+      return_to_photo_albums: Kurudi Albamu picha
+      return_to_profile: Kwa maelezo mafupi
+  errors:
+    messages:
+      already_confirmed: alikuwa tayari alithibitisha, tafadhali jaribu kuingia katika
+      confirmation_period_expired: mahitaji ya kuwa alithibitisha ndani ya% {kipindi},
+        tafadhali kuomba mwezi mmoja
+      expired: umekwisha, tafadhali kuomba mwezi mmoja
+      not_found: hakuonekana
+      not_locked: hakuwa imefungwa
+      not_saved:
+        one: '1 makosa marufuku% hii {rasilimali} kutoka kuokolewa:'
+        other: "% {kuhesabu} makosa marufuku hii% {rasilimali} kutoka kuokolewa:"
+    bad_request:
+      bad_request: Bad Ombi
+      bad_request_description: server hawawezi au si mchakato wa maombi kutokana na
+        hitilafu ya dhahiri mteja
+      go_to_root: Nenda mzizi
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable Entity
+      unprocessable_entity_description: ombi ilikuwa vizuri sumu lakini hakuweza kufuatwa
+        kutokana na makosa semantic
+      go_to_root: Nenda mzizi
+    not_found:
+      not_found: Haukupatikana
+      not_found_description: rasilimali aliomba hakuweza kupatikana lakini yanaweza
+        kupatikana katika siku zijazo
+      go_to_root: Nenda mzizi
+    forbidden:
+      forbidden: Haramu
+      forbidden_description: ombi ilikuwa ombi halali, lakini seva ni kukataa kujibu
+        hilo
+      go_to_root: Nenda mzizi
+    internal_server_error:
+      internal_server_error: Ndani Server Error
+      internal_server_error_description: Kuna tatizo ambalo limetokea. Sisi kurekebisha
+        haraka iwezekanavyo.
+      go_to_root: Nenda mzizi
+  pages:
+    privacy:
+      privacy: Flutylove Sera ya faragha
+      general_provisions: masharti General
+      p_1_1: 1.1. Kanuni hizi ni hati rasmi ya Limited Liability Company "Technoelegance",
+        ziko katika 101000, Moscow, Ulanskiy Pereulok 13, stroeniye 4, pomeshcheniye
+        1 (Akhera Flutylove, Company, Sisi), na kuamua taratibu za data usindikaji
+        na usalama wa habari wa watu ambaye amefikia umri wa miaka 18, na wanaotumia
+        tovuti https://flutylove.com (Akhera tovuti) na huduma zake (Akhera Watumiaji).
+      p_1_2: 1.2. Madhumuni ya Kanuni hizi ni kuhakikisha ulinzi kutokana wa habari
+        user, ikiwa ni pamoja na data binafsi, kutoka kupata ruhusa na kujitangaza.
+      p_1_3: 1.3. mahusiano ya kuhusishwa na ukusanyaji, uhifadhi, usambazaji na usalama
+        wa taarifa tovuti ya mtumiaji ni serikali na Kanuni hizi, nyaraka nyingine
+        rasmi wa Kampuni na sheria ya sasa ya Shirikisho la Urusi.
+      p_1_4: 1.4. toleo la sasa ya Kanuni, ambayo ni hati ya umma, ni inapatikana
+        kwa mtumiaji yoyote Internet wakati kufuatia kiungo http://flutylove.com/pages/privacy.
+        Kampuni ina haki ya kurekebisha kanuni hizi. Katika kesi mabadiliko yanafanywa
+        kwa Kanuni, Kampuni itakuwa kuwaarifu watumiaji na posting toleo jipya la
+        Kanuni juu ya tovuti katika anuani kudumu http://flutylove.com/pages/privacy,
+        siku si zaidi ya 10 kabla ya ufanisi tarehe ya mabadiliko. matoleo ya awali
+        ya Kanuni ni kuhifadhiwa katika nyaraka archive ya Kampuni.
+      p_1_5: 1.5. Kanuni hizi kuwa maendeleo na zinatumika kwa mujibu wa Mkataba wa
+        mtumiaji. Katika kesi ya kukiuka yoyote kati ya Kanuni hizi na nyaraka nyingine
+        rasmi ya Company, Kanuni hizi lazima kutekelezwa.
+      p_1_6: 1.6. Kwa kutumia tovuti, wewe kukubaliana na sheria na masharti ya Sera
+        ya Siri. Tafadhali kusoma kwa makini. Kama huna kukubaliana na suala la Sera
+        ya faragha, au wewe si kufikiwa umri wa miaka 18, unaweza kutumia tovuti na
+        Huduma yake. Kwa kutumia tovuti, bila kujali kama wewe ni mwanachama wa Flutylove
+        au si, unathibitisha kuwa wewe kikamilifu kukubali Sera ya faragha, na kukubaliana
+        na kuifuata.
+      the_website_using_conditions: tovuti kwa kutumia hali ya
+      p_2_1: '2.1. Kutumia tovuti Flutylove, unahitaji kujiandikisha. taarifa zifuatazo
+        lazima maalum wakati wa usajili: jina, barua pepe, jinsia, tarehe ya kuzaliwa,
+        eneo habari. Mtumiaji anaweza kutoa ziada maelezo ya binafsi katika / nia
+        yake yake mwenyewe. Mtumiaji inaweza hariri au update habari binafsi wakati
+        wowote. Kampuni ina haki ya kuomba hati za ziada kusaidia katika kesi ya mabadiliko
+        ya jinsia na tarehe ya kuzaliwa kwa mtumiaji.'
+      p_2_2: '2.2. Kwa kuruhusu upatikanaji wa tovuti na huduma zake, Company, kaimu
+        katika namna ya busara na kwa nia njema, anaona kuwa mtumiaji: anatambua kwamba
+        kwa ajili ya usajili katika tovuti ni muhimu kuwa na umri wa zaidi ya miaka
+        18; ina haki zote muhimu kuwa na uwezo wa kujiandikisha katika tovuti hii
+        na kuitumia; inaonyesha taarifa sahihi kuhusu mwenyewe / mwenyewe kwa mujibu
+        maombi kwa ajili ya matumizi ya Huduma ya tovuti; ni kufahamu kwamba taarifa
+        binafsi juu ya tovuti, zinazotolewa na mtumiaji, inaweza kuwa inapatikana
+        kwa watumiaji wengine wa tovuti na Internet watumiaji kama vile, inaweza kunakiliwa
+        na kusambazwa na watumiaji wengine; unafahamu kwamba baadhi ya aina ya habari,
+        kuhamishwa kwa Watumiaji wengine, hawezi kuondolewa kwa mtumiaji; ni khabari
+        na Kanuni hizi, anakubaliana nao na kinafanya haki maalum na wajibu.'
+      p_2_3: 2.3. Kampuni haina kuthibitisha usahihi wa kupokea (wamekusanyika) taarifa
+        juu ya watumiaji, na ubaguzi wa kesi wakati uhakiki vile ni muhimu ili kutimiza
+        majukumu ya Kampuni kwa mtumiaji.
+      information_processing_objectives: Taarifa usindikaji malengo
+      p_3_1: 3.1. Kampuni hubeba nje usindikaji wa habari kuhusu watumiaji, pamoja
+        na data zao binafsi, ili kutimiza majukumu Kampuni ya Watumiaji kwa ajili
+        ya matumizi ya tovuti na huduma zake.
+      p_3_2: 3.2 Kampuni ina haki ya kufanya usindikaji wa data binafsi bila kumfahamisha
+        mamlaka husika kwa ajili ya kulinda haki za raia binafsi data.
+      structure_of_the_user_information: Muundo wa habari user
+      p_4_1: '4.1. Binafsi data ya Watumiaji ni pamoja na:'
+      p_4_1_1: 4.1.1. jina, barua pepe, jinsia, tarehe ya kuzaliwa, eneo habari, na
+        namba ya simu, ambayo hutolewa na Watumiaji na walidhani kuwa kutosha tu kwa
+        ajili ya usajili katika tovuti;
+      p_4_1_2: 4.1.2. Maelezo ambayo ni zinazotolewa na mtumiaji (kwa mfano picha,
+        taarifa kuhusu tabia ufisadi nk);
+      p_4_1_3: 4.1.3. kuongeza zinazotolewa na mtumiaji kulingana na ombi Company
+        ili kutimiza majukumu Kampuni ya Watumiaji, kuonekana kutoka makubaliano ya
+        mtumiaji. Kampuni ana haki, hasa, kuomba mtumiaji nakala ya hati ya utambulisho
+        au hati nyingine yoyote zenye jina, jinsia na tarehe ya kuzaliwa, kama vile
+        wengine maelezo ya ziada ambayo, kwa hiari Kampuni, itakuwa muhimu na kutosha
+        kwa ajili ya utambulisho wa mtumiaji vile na bila kuondoa unyanyasaji na ukiukwaji
+        wa haki ya tatu.
+      p_4_2: '4.2. Wengine mtumiaji usindikaji wa habari na Kampuni The Tovuti Utawala
+        pia michakato taarifa nyingine kuhusu Watumiaji, ambayo ni pamoja na:'
+      p_4_2_1: 4.2.1. data ya kawaida, moja kwa moja kupokea na http-server wakati
+        kupata tovuti na matendo ya baadae ya mtumiaji (IP-anwani ya jeshi, aina ya
+        mtumiaji mfumo wa uendeshaji, kurasa za tovuti alitembelea na user).
+      p_4_2_2: 4.2.2. habari ambayo ni moja kwa moja kupokea wakati wa kupata tovuti
+        kwa kutumia bookmarks (cookies);
+      p_4_2_3: 4.2.3. habari ambayo ni kupokea kama matokeo ya vitendo mtumiaji juu
+        ya tovuti;
+      p_4_2_4: 4.2.4. habari ambayo ni kupokea kama matokeo ya vitendo ya watumiaji
+        wengine kwenye tovuti.
+      users_information_processing: mtumiaji usindikaji wa habari
+      p_5_1: '5.1. data binafsi usindikaji ni kufanya juu ya msingi wa kanuni yafuatayo:
+        a) madhumuni halali na njia ya usindikaji wa data binafsi; b) uaminifu; c)
+        kufuata madhumuni ya binafsi data usindikaji na madhumuni predetermined na
+        alitangaza wakati kukusanya data binafsi, kama vile kufuata wa sifa wa Kampuni;
+        d) kufuata ya kiasi na aina ya usindikaji wa data binafsi, na kufuata wa njia
+        za usindikaji wa data binafsi kwa madhumuni ya usindikaji wake; e) inadmissibility
+        ya kuchanganya database kuundwa kwa madhumuni haziendani, zenye data binafsi.'
+      p_5_1_1: 5.1.1. ukusanyaji wa data binafsi ya mtumiaji unafanywa juu ya tovuti
+        wakati kujiandikisha, kama vile katika siku zijazo wakati user anaongeza habari
+        zaidi kuhusu mwenyewe / mwenyewe kwa kutumia tovuti zana juu ya mpango wake
+        / zake mwenyewe.
+      p_5_1_2: 5.1.2. data binafsi ya watumiaji ni kuhifadhiwa kwa ajili tu katika
+        mfumo wa kielektroniki na kusindika kwa kutumia mifumo automatiska, na ubaguzi
+        wa kesi ambapo mwongozo usindikaji wa data binafsi zinahitajika katika mtazamo
+        wa mkutano mahitaji ya kisheria.
+      p_5_1_3: 5.1.3. Mtumiaji data binafsi si kuhamishiwa vyama yoyote ya tatu, isipokuwa
+        katika kesi ilivyotolewa na Kanuni hizi na Mkataba wa mtumiaji. Kwa idhini
+        ya user, data binafsi user huweza kuambukizwa kwa counterparties tatu ya Kampuni
+        chini ya hali ya dhana ya wajibu wa kuhakikisha usiri wa habari kupokea, hasa,
+        wakati wa kutumia huduma na maombi. Mtumiaji data binafsi utoaji juu ya ombi
+        la mamlaka ya kiserikali (serikali za mitaa) unafanywa katika utaratibu kama
+        inavyotakiwa na sheria.
+      p_5_1_4: '5.1.4. data binafsi user ni ilifutwa wakati: - data ni binafsi ilifutwa
+        kutoka ukurasa kwa mtumiaji; - Ukurasa ni binafsi kufutwa na mtumiaji; - Habari
+        mtumiaji na ukurasa wake binafsi ni kuondolewa na Kampuni. Katika kesi ya
+        ukurasa kufuta kwa mtumiaji yenyewe, Company maduka mtumiaji data binafsi
+        kwenye vyombo vya habari yake ya umeme ndani ya siku 210 baada ya ukurasa
+        binafsi ni kuondolewa. data binafsi ni kuchapa juu ya kumalizika muda wa siku
+        210 baada ya ukurasa binafsi ni kuondolewa. Hadi kipindi hiki kumaliza muda
+        wake, mtumiaji ana haki ya kurejesha ukurasa binafsi.'
+      users_rights_and_obligations: haki na wajibu wa mtumiaji
+      p_6_1: '6.1. Mtumiaji ana haki ya:'
+      p_6_1_1: 6.1.1. kupata habari kuhusu yake / zake bila vikwazo na bila ya malipo
+        kwa kuhariri ukurasa wake binafsi juu ya tovuti na matumizi ya kuingia na
+        password;
+      p_6_1_2: 6.1.2. kujitegemea kufanya mabadiliko na marekebisho ya taarifa juu
+        ya ukurasa mtumiaji binafsi juu ya tovuti, kwa masharti kwamba mabadiliko
+        hayo na marekebisho vyenye up-to-tarehe na habari ya kweli;
+      p_6_1_3: 6.1.3. kuondoa taarifa kutoka ukurasa binafsi juu ya tovuti;
+      p_6_1_4: 6.1.4. kuomba Company kupata taarifa zaidi maalum, kuzuia au kufuta
+        data binafsi, kama takwimu hizo ni pungufu, imepitwa na wakati, sahihi, kinyume
+        cha sheria kupokea au si muhimu kwa madhumuni alitangaza ya usindikaji au
+        kama hatua maalum katika aya 6.1.3 ya haya kanuni za hauwezi kutekelezwa kwa
+        kujitegemea;
+      p_6_1_5: 6.1.5. kwa misingi ya ombi, kupokea taarifa kutoka Kampuni kuhusu usindikaji
+        wa wake / data yake binafsi.
+      p_6_2: '6.2. taarifa zifuatazo kuhusu yoyote iliyosajiliwa tovuti mtumiaji ni
+        daima inapatikana kwa mtumiaji wa usajili: user jina, jinsia, umri, picha
+        ya wasifu na taarifa nyingine kama mtumiaji ina posted yake.'
+      p_6_3: 6.3. Kampuni huzaa hakuna dhima kwa kutoa taarifa ya data binafsi mtumiaji
+        na Watumiaji wengine wa tovuti ambao kupatikana takwimu hizo.
+      p_6_4: 6.4. Katika kesi ya data binafsi (nyingine user habari) kuondolewa kutoka
+        ukurasa mtumiaji binafsi au kuondolewa kwa mtumiaji ukurasa binafsi kutoka
+        tovuti, habari mtumiaji kunakiliwa kwa Watumiaji wengine au kuhifadhiwa kwenye
+        kurasa Watumiaji wengine 'ni salama.
+      p_7_1: 7.1. Kampuni inachukua hatua za kiufundi, asasi na kisheria ili kuhakikisha
+        kuwa mtumiaji data binafsi ya ulinzi kutoka kupata ruhusa au ajali, kufutwa,
+        muundo, kuzuia, kuiga, na usambazaji kama vile kutoka hatua nyingine bila
+        ruhusa.
+      p_7_2: 7.2. login mtumiaji (barua pepe au namba ya simu) na password ni kutumika
+        kupata tovuti. User ni jukumu la kutunza habari hii siri. Mtumiaji anaweza
+        kuhamisha kuingia na password kwa upande wa tatu na pia ni wajibu wa kuchukua
+        hatua za kuhakikisha usiri wake.
+      limitation_of_the_regulations_applicability: Mipaka ya Kanuni applicability
+      p_8: Kanuni hizi si kupanuliwa kwa vitendo na rasilimali Internet ya tatu. Kampuni
+        huzaa hakuna dhima kwa matendo ya upande wa tatu ambao got upatikanaji wa
+        mtumiaji habari kwa njia ya mtandao au tovuti Services. Tovuti Tawala inapendekeza
+        kwa Watumiaji kwa njia ya suala na kiasi cha habari posted kwenye tovuti kwa
+        njia ya kuwajibika.
+      user_requests: maombi mtumiaji
+      p_9_1: '9.1. Watumiaji wana haki ya kutuma maombi kwa Kampuni ikiwa ni pamoja
+        na maombi kuhusu matumizi ya data binafsi katika mfumo wa maandishi kwa anwani
+        ifuatayo: Russia, 101000, Moscow, Ulanskiy Pereulok 13, stroeniye 4, pomeshcheniye
+        1 au katika namna ya hati za elektroniki iliyosainiwa na sahihi waliohitimu
+        umeme kwa mujibu wa sheria ya Shirikisho la Urusi, kwa barua pepe: support@flutylove.com.'
+      p_9_2: '9.2. ombi mtumiaji lazima iwe na maelezo yafuatayo: idadi ya hati ya
+        utambulisho wa mtumiaji au mwakilishi wake; tarehe ya suala la hati juu na
+        kutoa mamlaka; Maelezo ya kuthibitisha ushiriki mtumiaji katika mahusiano
+        na operator (hasa, kiungo kwenye ukurasa wa); saini ya mtumiaji au wake /
+        mwakilishi wake.'
+      p_9_3: 9.3. Kampuni kinafanya kufikiria na kujibu ombi mtumiaji ndani ya siku
+        30 baada ya kukutwa na kupokelewa.
+      p_9_4: 9.4. mawasiliano yote kupokea na Kampuni kutoka kwa Watumiaji (imeandikwa
+        au maombi ya umeme) iko katika kundi la kampuni vikwazo upatikanaji na inaweza
+        kuwa wazi bila mtumiaji ridhaa ya maandishi. data binafsi na taarifa nyingine
+        kuhusu mtumiaji ambaye alimtuma ombi inaweza kutumika, bila mtumiaji ridhaa
+        maalum, tofauti kuliko kwa kuitikia ombi au katika matukio wazi zinazotolewa
+        na sheria husika.
+    terms:
+      terms: Flutylove Mkataba wa mtumiaji
+      welcome: Karibu Flutylove!
+      about_terms: 'Hizi sheria ya matumizi (pamoja na nyaraka zilizotajwa humu, ikiwa
+        ni pamoja na Sera ya faragha) ni mkataba wa kujitoa kwa mujibu wa Ibara 428
+        ya Kanuni Civil wa Shirikisho la Urusi (Katiba inajulikana kama "Mkataba")
+        kati ya mtu ambaye umefikia umri wa miaka 18 (hapa itajulikana kama "mtumiaji"
+        na Company (au "Sisi") - Limited Liability Company "Technoelegance" (LLC "Technoelegance")
+        (kisheria address: 101000, Moscow, Ulanskiy Pereulok 13, stroeniye 4, pomeshcheniye
+        1), Katiba inajulikana kama Flutylove, kulingana na ambayo unaweza kutumia
+        tovuti hii na huduma zote zinazohusiana inayotolewa kwa njia ya tovuti au
+        maombi (kwa ujumla inajulikana kama "Services"). tovuti ni kueleweka kwa maana
+        yoyote ya matoleo yake, pamoja chini ya jina la uwanja flutylove.com na kazi
+        kwa aina ya vifaa, ikiwa ni pamoja na toleo mtandao msingi, maombi ya simu
+        na maombi kwa ajili ya mitandao ya kijamii.Kwa kutumia tovuti hii unakubali
+        masharti ya Mkataba na Sera ya faragha. Tafadhali kusoma kwa makini. Kama
+        huna kukubaliana na masharti ya Mkataba na Sera ya faragha, au wewe si kufikiwa
+        umri wa miaka 18, unaweza kutumia tovuti na Huduma yake.Kwa kutumia tovuti,
+        bila kujali wewe ni kusajiliwa mtumiaji wa Flutylove au la, unakubaliana kabisa
+        na Mkataba huu na Sera ya faragha yetu, ambayo ni pamoja na katika Mkataba
+        huu na kiungo na inapatikana kwenye tovuti, na kuzingatia hilo.Katika maombi
+        user, Kampuni kinafanya kutia saini Mkataba huu katika fomu hardcopy na kutuma
+        kwa mtu binafsi kuomba hati.Kampuni ina haki ya kurekebisha Mkataba mtumiaji
+        na hati yoyote iliyotajwa yake. Kuwa na ufahamu wa mabadiliko unahitaji kuweka-up-to-tarehe
+        habari juu ya mabadiliko hayo mara kwa mara. Sisi kuwajulisha kuhusu mabadiliko
+        tukiwa kwenye ukurasa huu hapa chini. Mabadiliko hawana kuhusisha nyuma na
+        kuja katika athari ndani ya siku kumi kuanzia tarehe ya uchapishaji. Hata
+        hivyo, katika kesi wao ni kuhusishwa na utekelezaji wa huduma mpya au marekebisho
+        ya sheria, itakuwa kutumika mara moja. Kama huna kukubaliana na mabadiliko
+        katika Mkataba, lazima kuacha kutumia tovuti na matumizi yake.'
+      consent_to_accept_the_terms_of_user_agreement: 1. IDHINI kukubali masharti ya
+        USER MAKUBALIANO.
+      p_1: ". Electronic Mkataba. Mkataba huu ni toleo la umeme wa mkataba, ambayo
+        inaeleza masharti ya matumizi ya Website na Huduma. By magogo kwa tovuti au
+        kuwa na mtumiaji, kukubali Mkataba huu na kukubaliana na masharti yote, hali,
+        na matangazo kwamba vipo au inatazamwa huko. You kuthibitisha na kukubaliana
+        kwamba Watumiaji wa Flutylove inaweza kuwa sehemu ya jamii online kuwa ni
+        pamoja na tovuti nyingine mali ya Kampuni au washirika wake. Kwa hivyo, maelezo
+        juu ya tovuti inaweza kutazamwa kwenye tovuti nyingine kama hiyo na wanachama
+        kulipa kutoka tovuti moja wanaweza kuwasiliana na wanachama wengine kulipa
+        kutoka tovuti wote. b. Electronic kidato. By magogo kwa tovuti au kuwa na
+        mtumiaji, wewe kukubaliana na kutoa kwa Mkataba elektroniki. c. Hardcopy fomu.
+        Una haki ya kupokea hardcopy ya Mkataba huu. Unaweza kuomba toleo hardcopy
+        ya Mkataba huu kabla au baada yake itakuwa saini katika fomu za elektroniki.
+        Tafadhali, wasiliana na Wateja wetu huduma kwa maelezo zaidi. d. Upatikanaji
+        na kushusha. Ili kupata na download Mkataba huu umeme, lazima uwe na upatikanaji
+        wa Internet au moja kwa moja kwa njia ya vifaa na upatikanaji wa rasilimali
+        ya mtandao. Unahitaji kuwa na vifaa muhimu kuungana Internet, yaani kompyuta,
+        Modem au upatikanaji kifaa kingine. Tafadhali, magazeti nakala ya Mkataba
+        huu na kuitunza. Kwa kushusha fomu za elektroniki ya Mkataba, ila ni kwa kompyuta
+        yako kwa msaada wa mhariri yoyote Nakala."
+      the_right_of_using_the_website: 2. HAKI YA KUTUMIA TOVUTI.
+      p_2: You lazima angalau kumi na nane wa zamani (18) miaka kuwa registered user
+        ya tovuti hii. Katika kesi ya zisizo kufuata na mahitaji, upatikanaji wa tovuti
+        atakanwa. Kwa kutumia tovuti, mtumiaji lazima kuwa na ufahamu kwamba taarifa
+        binafsi zilizowekwa katika tovuti inaweza kuwa inapatikana kwa watumiaji wengine
+        Internet, na Kampuni si kubeba dhima kwa matendo yao. Kwa kutumia tovuti hii
+        kudai na kufanya kwamba una haki, mamlaka na uwezekano wa kuingia katika Mkataba
+        huu, na kukubaliana na kufuata masharti yake yote na hali. Kuwa mtumiaji wewe
+        kudai na kufanya kwamba wewe hawajawahi mateso kutiwa hatiani kwa kosa la
+        jinai kuhusiana na unyanyasaji wa kijinsia. Tovuti imeundwa kwa ajili ya matumizi
+        binafsi tu. Ni haramu kutumia tovuti kwa madhumuni yoyote ya kibiashara. vyombo
+        vya makampuni hawezi kuwa Watumiaji wa tovuti hii, kama vile hawawezi kutumia
+        Huduma hii au tovuti juu ya malengo yao. Kinyume cha sheria na / au ruhusa
+        kutumia ya tovuti, ikiwa ni pamoja kukusanya majina ya watumiaji na / au barua
+        pepe anwani na msaada wa zana za elektroniki au nyingine kwa madhumuni ya
+        kutuma ujumbe undesirable na viungo ni walifuata na Kampuni inaweza kuchukua
+        hatua sahihi kwa mujibu wa sheria, ikiwa ni pamoja kukata rufaa kwa mamlaka
+        ya kutekeleza sheria.
+      pricing_and_registration: 3. Bei NA USAJILI
+      p_3: You uwezo wa kuwa mtumiaji wa Flutylove juu ya hiari na bila ya malipo
+        msingi kwa kusajili juu ya tovuti. Kama mtumiaji, unaweza kutumia mbalimbali
+        maalum ya huduma na fursa ya tovuti. Mtumiaji wa tovuti ni mtu binafsi kusajiliwa
+        kwenye tovuti kwa mujibu wa utaratibu imara na ambaye amefikia umri wa miaka
+        18. Wakati wa kusajili juu ya tovuti ya mtumiaji ni wajibu wa kutoa taarifa
+        muhimu na husika kwa ajili ya Kampuni ya kukamilisha ukurasa mtumiaji, ikiwa
+        ni pamoja na kuingia (barua pepe au namba ya simu) na password kwa ajili ya
+        kupata tovuti, kama vile jina, ambayo ni ya kipekee kwa kila mtumiaji. fomu
+        kwa ajili ya usajili inaweza kuomba maelezo ya ziada kutoka mtumiaji. User
+        ni jukumu la uhalali, actuality, ukamilifu na kufuata na Sheria ya Shirikisho
+        la Urusi ya taarifa zinazotolewa katika usajili, na usafi wake zake kutokana
+        na madai ya upande wa tatu. Wakati wa kusajili mtumiaji kukubaliana na Mkataba
+        huu na kufanya haki maalum na majukumu, kuhusishwa na kutumia na utendaji
+        wa tovuti. Mtumiaji anapata kupata picha kamili ya kutumia ya tovuti kazi.
+        Kampuni kinafanya haki na wajibu wa mtumiaji, maalum katika Kanuni hizi, baada
+        ya usajili na mafanikio ya mtumiaji juu ya tovuti mtumiaji binafsi data usindikaji
+        ni kufanywa kwa mujibu Sheria ya Shirikisho la Urusi. Tovuti Tawala za michakato
+        mtumiaji data binafsi ili kutoa mtumiaji na upatikanaji wa matumizi ya tovuti
+        kazi, ikiwa ni pamoja na kupokea Msako (walengwa) tangazo; ukaguzi, utafiti
+        na uchambuzi wa data hizo, kuruhusu kuunga mkono na kuboresha utendaji na
+        sehemu ya tovuti, kama vile kuendeleza kazi mpya na sehemu. Kampuni inachukua
+        hatua zote muhimu kulinda data binafsi ya mtumiaji dhidi ya kupata ruhusa,
+        marekebisho, ufumbuzi au kufutwa. Kampuni inatoa upatikanaji wa data binafsi
+        ya mtumiaji tu kwa wale wafanyakazi, makandarasi na mawakala wa Kampuni, ambao
+        wanahitaji habari hii ili kusaidia tovuti utendaji na kutoa mtumiaji na upatikanaji
+        wa kutumia yake. Kampuni ya tovuti ana haki ya kutumia taarifa zinazotolewa
+        na mtumiaji, ikiwa ni pamoja na data binafsi, ili kuhakikisha kufuata na mahitaji
+        ya sheria ya sasa ya Shirikisho la Urusi (ikiwa ni pamoja kuzuia na / au ukandamizaji
+        wa haramu na / au kinyume cha sheria matendo ya Watumiaji). Disclosure wa
+        habari zilizotolewa na mtumiaji inaweza kufanywa tu kwa mujibu wa sheria ya
+        sasa ya Shirikisho la Urusi kwa ombi la mahakama, vyombo vya kutekeleza sheria,
+        kama vile katika kesi nyingine kama zinazotolewa na sheria husika ya Shirikisho
+        la Urusi. Kwa kiasi kwamba Company michakato ya data binafsi ya mtumiaji kwa
+        ajili ya utekelezaji wa Kanuni hizi, ridhaa mtumiaji na usindikaji wa data
+        binafsi si required kwa nguvu ya masharti ya sheria juu ya data binafsi. kuingia
+        na password waliochaguliwa na mtumiaji ni muhimu na ya kutosha habari kwa
+        mtumiaji upatikanaji wa tovuti. Mtumiaji ana haki ya kutoa wake / kuingia
+        yake na password kwa upande wa tatu, na ni wajibu kabisa kwa ajili ya usalama
+        wake, kuchagua njia ya kuzihifadhi kwa misingi ya kujitegemea. Kutumia yake
+        / vifaa yake na programu Mtumiaji anaweza kibali uhifadhi wa kuingia na password
+        (kupitia cookies) kwa idhini ya moja kwa moja baadae juu ya tovuti. hatua
+        yoyote iliyochukuliwa na matumizi ya jina la mtumiaji mtumiaji na neno la
+        siri ni kuchukuliwa kuwa nia kwa mtumiaji, isipokuwa itakapothibitishwa kwa
+        mtumiaji. Mtumiaji ni wajibu wa mara moja taarifa Kampuni katika mujibu wa
+        taratibu zilizowekwa katika kesi ya kupata ruhusa kwa username na password
+        na / au ukurasa akaunti, au kutoa taarifa ya kuingia na password. Baada ya
+        usajili mtumiaji faida haki ya kuunda, kutumia, na kuamua maudhui ya / kurasa
+        yake mwenyewe binafsi juu ya madhumuni binafsi nia na yasiyo ya kibiashara,
+        kama vile kupata fursa ya kupata na baada ya taarifa juu ya kurasa binafsi
+        ya Watumiaji wengine . Mtumiaji kama mmiliki wa habari posted kwenye ukurasa
+        binafsi ni ufahamu kwamba na ubaguzi wa kesi imara na Kanuni hizi na sheria
+        ya sasa ya Shirikisho la Urusi, Kampuni haina kushiriki katika maendeleo na
+        kutumia ya bidhaa za na haina udhibiti upatikanaji wa ukurasa wa mtumiaji
+        kutoka kwa watumiaji wengine.
+      terms_4: 4. TERMS.
+      p_4: Mkataba huu bado kikamilifu katika nguvu na athari kwa muda mrefu kama
+        wewe kutumia tovuti. Unaweza kuacha kuwa mtumiaji wa tovuti kwa kuondoa ukurasa
+        wako wakati wowote, kwa sababu yoyote, kwa kuwasiliana na yetu online Huduma
+        ya Wateja au kwa kutumia huduma ya tovuti. Kampuni ina haki zake kufuta ukurasa
+        wako binafsi wakati wowote. Sisi si wajibu wa kutoa taarifa yenu kabla ya
+        kufuta ukurasa, ikiwa Kampuni ina sababu ya kuamini kwamba wewe wamevunja
+        masharti ya Mkataba. Sisi si wajibu wa kufichua sababu ya kufuta akaunti yako;
+        katika baadhi ya kesi kutoa taarifa ya habari hizo inaweza kuwa marufuku.
+        Baada ya kufuta wa ukurasa wako, masharti yote ambayo inaweza kuwa halali
+        baada ya kusitisha Mkataba huu kwa asili yao itakuwa katika nguvu baada ya
+        kuondoa hiyo. Kama kufuta ukurasa wako kupitia tovuti katika mapenzi yako
+        mwenyewe, sisi wanaweza kuuliza wewe kutaja sababu ya kufuta hizo.
+      account_security: 5. ACCOUNT SECURITY.
+      p_5: Wewe ni wajibu wa usiri utunzaji wa username na password yako, ambayo itakuwa
+        kuweka wakati wa usajili. Pia, ni wajibu kabisa kwa matendo yote kutokea chini
+        ya jina lako na password. Unakubali (a) mara moja taarifa ya sisi kuhusu matumizi
+        yoyote ya ruhusa ya kuingia na password yako, kama vile wengine wowote ukiukaji
+        wa usalama, na (b) kutoka kutoka akaunti yako mwishoni mwa kila kikao. Tovuti
+        si kuwajibika kwa uharibifu wowote au hasara kutokana na kutofuata ya sheria
+        hii. Unapaswa kuwa makini hasa wakati wa kupata akaunti yako kupitia kompyuta
+        ya umma ili watu bila ruhusa hakuweza kupeleleza au rekodi nenosiri lako au
+        taarifa zozote za kibinafsi. Wewe pia kuthibitisha na kukubaliana kwamba Internet
+        alikuwa kamwe kabisa binafsi na salama. Wewe kuelewa kwamba ujumbe wowote
+        au habari baada ya tovuti inaweza kusomwa au kutumiwa na watumiaji wengine,
+        hata kama kuna onyo maalum ambayo kampuni ni siri.
+      your_interaction_with_other_users_of_the_website: 6. mwingiliano wako na watumiaji
+        wengine wa WEBSITE.
+      p_6: ". Wewe ni kuwajibika tu kwa mwingiliano wako na watumiaji wengine. Unapaswa
+        kuelewa kwamba KAMPUNI haina kuthibitisha watumiaji YAO na kama wanatakiwa
+        rekodi ya uhalifu. KAMPUNI pia haina ombi habari kuhusu Zamani ya watumiaji
+        YAO NA haina kuhalalisha TAARIFA HII. KAMPUNI HAITOI DHAMANA KUHUSU BEHAVIOR
+        USER na utangamano wao na watumiaji halisi AU FUTURE. Wakati huo huo kampuni
+        INA HAKI kuthibitisha watumiaji KWA RECORD CRIMINAL au kubeba uhakiki NYINGINE
+        WAKATI WOWOTE KUTUMIA AVAILABLE TAARIFA KWA UMMA. b. KATIKA NO KESI KAMPUNI
+        si kuwajibika KWA HASARA YOYOTE kwamba zimetokana DIRECT, moja kwa moja, GENERAL
+        AU KUWA ASILI MAALUM, fidia, NA / AU AJALI, kupatikana kwa YOU AU watu wengine
+        kama matokeo ya kutumia WA TOVUTI, PAMOJA, LAKINI mdogo, kujeruhiwa kimwili,
+        STRESS NA / aU HASARA NYINGINE, kupatikana kwa wewe kama matokeo ya MAWASILIANO
+        aU MIKUTANO NA watumiaji wengine waliosajiliwa WA TOVUTI HII aU WATU, ndio
+        umekuwa KWENYE TOVUTI. Unakubali kuchukua kila hadhari INAWEZEKANA wakati
+        kuwasiliana na watumiaji wengine, hasa katika kesi hizo, wakati wewe kuamua
+        kukutana nao katika maisha halisi. Unapaswa kuwa na ufahamu, NINI KAMPUNI
+        haitoi INATAMKWA AU KUHISI DHAMANA KUHUSU utangamano na watumiaji wa tovuti
+        hii. Unapaswa kutoa taarifa za fedha kwa watumiaji wengine wa TOVUTI (kwa
+        mfano taarifa kuhusu CREDIT CARDS YAKO AU PLASTIC). c. Huduma inaweza kutafsiri
+        jina lako au jina la mji wako kwa lugha nyingine; d. huduma ni si kuwajibika
+        kwa matendo waliotajwa katika makala hii. Katika kesi huna kukubaliana nao
+        kabisa au sehemu, PLEASE kuondoka mara moja TOVUTI;"
+      the_information_posted_by_you_on_flutylove: 7. INFORMATION posted by YOU ILIYO
+        FLUTYLOVE
+      p_7: . Wewe ni kuwajibika tu kwa taarifa kwamba wewe kuchapisha au kuonyesha
+        (hapa "post") juu ya Huduma au kuhamisha kwa Watumiaji wengine. Wewe hawaruhusiwi
+        baada ya juu ya Huduma au kuhamisha kwa Watumiaji wengine taarifa yoyote juu
+        ya kukashifu, sahihi, matusi, obscene, vulgar na fujo maudhui, taarifa juu
+        ya maudhui ya ngono, kama vile kuhatarisha au kunyemelea habari, za ubaguzi
+        wa rangi asili au maelezo haramu, au taarifa nyingine yoyote kwamba inakiuka
+        au kukiuka haki za chama kingine chochote (pamoja na, bila ya juu, haki miliki,
+        haki za faragha na utangazaji). Wewe hawaruhusiwi kutoa sahihi, kupotosha
+        au taarifa za uongo kwa Kampuni au mtumiaji mwingine yeyote. Kama taarifa
+        zilizotolewa kwa kampuni Flutylove au mtumiaji mwingine hatimaye inakuwa sahihi,
+        kupotosha wa uongo, lazima mara moja taarifa kampuni Flutylove ya mabadiliko
+        hayo. Kuwasilisha na uthibitisho kwamba taarifa zote zinazotolewa wakati wa
+        usajili ni sahihi na kweli, na wewe mara moja kubadilisha maelezo yoyote ambayo
+        hatimaye inakuwa sahihi, zinapotosha au uongo. b. Unaelewa na kukubali kwamba
+        tuna haki, lakini si wajibu wa kufuatilia habari au maudhui kwamba ni kuhamishwa
+        na Huduma au posted katika upatikanaji wa umma juu ya Huduma. Tuna haki ya
+        kufuta yoyote ya habari hizo au maudhui bila kumshirikisha sababu yoyote na
+        taarifa. c. vitu vyote kuonyeshwa kwenye tovuti, ikiwa ni pamoja na kubuni
+        mambo, maandishi, graphics, vielelezo, video, maandiko, mipango, muziki, sauti
+        na vitu vingine na maktaba yao (hapa - Taarifa), ni mali ya haki za kipekee
+        za Kampuni, Watumiaji wa tovuti na haki nyingine wamiliki, na haki zote za
+        vitu hivi zinalindwa. d. Ila kama zilizoundwa kwa mujibu wa Mkataba huu, kama
+        vile sheria ya sasa ya Shirikisho la Urusi, hakuna taarifa inaweza kunakiliwa
+        (tena), kusindika, kusambazwa, kuonyeshwa katika sura, kuchapishwa, kupakuliwa,
+        kuhamishwa, kuuzwa au kutumika kwa njia nyingine katika yote au vipande bila
+        idhini ya mmiliki, isipokuwa mmiliki wa haki miliki wazi walionyesha ridhaa
+        yake kwa matumizi ya bure ya Habari na mtu yeyote. e. By posting Taarifa juu
+        ya tovuti halali wa mali ya mtumiaji, mtumiaji kinatoa kwa watumiaji wengine
+        kwa haki mashirika yasiyo ya kipekee ya kutumia hiyo kwa kuangalia, playback
+        (ikiwa ni pamoja kuiga) na haki nyingine kwa madhumuni ya matumizi binafsi
+        yasiyo ya kibiashara, isipokuwa kesi wakati matumizi hayo husababisha au inaweza
+        kusababisha madhara kwa maslahi ya mmiliki wa haki kulindwa na sheria. f.
+        kutumia wa Habari kwa mtumiaji, ambayo upatikanaji alikuwa alipata tu kwa
+        kutumia binafsi yasiyo ya kibiashara, inaruhusiwa juu ya hali hiyo dalili
+        zote za uandishi (haki miliki) au matangazo mengine ya uandishi yatawekwa,
+        jina la mwandishi na bidhaa zake ataachwa bila mabadiliko. g. Mtumiaji pia
+        hutoa Company na haki mashirika yasiyo ya kipekee ya kutumia habari posted
+        kwenye tovuti na mali ya yake / zake kihalali bila kuzingatia ili kuhakikisha
+        utendaji kazi wa tovuti ya Kampuni ndani ya utendaji ya usanifu na utendaji
+        wa Website. mashirika yasiyo ya kipekee haki inajulikana hapo juu ni nafasi
+        kwa ajili ya uwekaji wa maudhui juu ya tovuti na inashughulikia wilaya ya
+        nchi duniani kote. Kampuni ina haki ya kuhamisha haki zilizotajwa aya hii
+        kwa upande wa tatu. Mtumiaji anakubali kwamba Company wana haki ya kutumia
+        kazi na kiufundi chaguzi za tovuti, kutoa kuonyesha ya kugawana maudhui na
+        mtumiaji, ikiwa ni pamoja na madhumuni ya kuonyesha ya maelezo matangazo.
+        hi. Katika kesi ya mtumiaji deletes taarifa kutoka tovuti, haki mashirika
+        yasiyo ya kipekee itakuwa moja kwa moja kubadilika, lakini kutokana na ufundi
+        maalum ya tovuti Kampuni ina haki ya kuokoa nakala Backup ya Habari ndani
+        ya muda unaotakiwa na ambapo inahitajika. i. Mbali na maelezo binafsi, mtumiaji
+        hana haki ya kupakia, au kufichua kwa njia tofauti (kwa kuchapisha kwenye
+        tovuti) Habari ya maeneo mengine, databaser na nyingine miliki kutokana na
+        kukosekana kwa uwazi walionyesha ridhaa kwa hatua hizo kutoka hati miliki
+        mmiliki. j. Isipokuwa vinginevyo alibainisha katika Kanuni hizi, kitu chochote
+        katika Kanuni hizi haziwezi kuchukuliwa kama uhamisho wa haki ya kipekee ya
+        Habari. k. taarifa zote kwamba kuchapisha kwenye maelezo yako mafupi user,
+        lazima ziwe sahihi, up-to-tarehe na kamili. Mtumiaji kabisa kuwajibika tu
+        kwa ajili ya Habari yoyote ambayo ilipakiwa au wazi kwa njia tofauti (posted)
+        juu ya tovuti au kwa msaada wa mtumiaji. Mtumiaji hana haki ya kupakia, kuhamisha
+        au baada maudhui juu ya tovuti, kama yeye / yeye hana haki sahihi kwa kuchukua
+        hatua hiyo, alipewa au kutumwa kwa yake / zake kwa mujibu wa sheria ya Shirikisho
+        la Urusi. Kampuni uwezo, lakini haitakiwi, ili kuvinjari tovuti kwa maudhui
+        yoyote kinyume cha sheria na anaruhusiwa kufuta au hoja (bila taarifa) maudhui
+        yoyote au watumiaji kwa hiari yake pekee, kwa sababu yoyote au bila sababu,
+        ikiwa ni pamoja bila ya juu kwa hoja, au kufuta taarifa kwamba, kulingana
+        na maoni ya mtu binafsi ya Kampuni linakiuka Mkataba huu, sheria ya Shirikisho
+        la Urusi na / au kunaweza kukiuka haki za binadamu, kuwadhuru, au kuhatarisha
+        usalama wa watumiaji wengine au tatu. Tovuti ina (au ichukue) viungo kwa maeneo
+        mengine kwenye mtandao (tovuti ya tatu) kama vile makala, picha, vielelezo,
+        graphics, muziki, sauti, video, habari, maombi, programu na taarifa nyingine
+        mali ya au kuja kutoka pande tatu (Third yaliyomo chama), ambayo ni matokeo
+        ya shughuli miliki na ni ulinzi kwa mujibu wa sheria ya Shirikisho la Urusi.
+        vyama hizi tatu na maelezo yao si kuthibitishwa na Kampuni kwa kufuata na
+        hii au Mahitaji mengine (usahihi, ukamilifu, uaminifu, nk). Kampuni haina
+        dhamana kwa maudhui yoyote posted kwenye maeneo ya tatu ambayo faida mtumiaji
+        kupata kupitia tovuti au kwa njia ya maelezo Tatu, ikiwa ni pamoja, lakini
+        si mdogo na maoni yoyote au kauli walionyesha juu ya maeneo ya tatu au katika
+        Habari zao. kiungo na tovuti yoyote, bidhaa na huduma, taarifa yoyote ya asili
+        ya kibiashara na yasiyo ya kibiashara zilizomo kwenye tovuti hii si kibali
+        au mapendekezo kwa ajili ya bidhaa hizo (huduma) kutoka Kampuni. Kama mtumiaji
+        anaamua kuondoka tovuti na kwenda na tovuti ya tatu au kutumia au kufunga
+        programu tatu, yeye / yeye anafanya hivyo katika hatari yao wenyewe na tangu
+        wakati huo Kanuni hizi ni tena kutumika kwa mtumiaji. Mtumiaji hatua zaidi
+        ni kuongozwa na sheria husika na sera, ikiwa ni pamoja na mazoea ya biashara
+        ya watu binafsi wale ambao Habari yeye / yeye ni kwenda kutumia.
+      forbidden_actions: 8. haramu HATUA.
+      p_8: . Ni haramu "kukesha karibu juu ya" au fujo mtu yeyote katika njia nyingine.
+        b. Ni haramu kutumia roboti, virusi, maombi ya kutafuta / dondoo maeneo, au
+        vifaa vingine mwongozo au moja kwa moja au taratibu ya kutafuta, ripoti, "upelelezi"
+        au kuzaliana kwa njia nyingine au kukwepa muundo urambazaji na kuonyesha ya
+        Huduma au yaliyomo yake . c. Ni haramu baada, kusambaza, au kuzaliana everyway
+        taarifa yoyote hakimiliki, alama za biashara, au taarifa nyingine kulindwa
+        na hakimiliki bila ridhaa kutoka kwa mmiliki wa hati miliki. d. Ni haramu
+        kuondoa haki miliki yoyote, alama za biashara au matangazo mengine ya hati
+        miliki zilizomo kwenye Huduma. e. Ni haramu kuingilia kati katika au kuvuruga
+        uendeshaji wa Huduma na tovuti au huduma na mitandao ya kushikamana na Huduma
+        au tovuti. f. Ni haramu kwa kuchapisha, barua pepe au uhamisho kwa njia tofauti
+        taarifa yoyote ambayo ina virus au nyingine yoyote code kompyuta, files au
+        mipango iliyoundwa kwa kuingilia kati, kuharibu au kuzuia utendaji wa yoyote
+        programu ya kompyuta, vifaa au vifaa vya mawasiliano. g. Ni haramu yazua headers
+        au kuendesha wajibu kwa madhumuni ya kuficha maana halisi ya taarifa yoyote
+        pamoja kupitia Service. h. Ni haramu "yazua" au "nakala" sehemu yoyote ya
+        Huduma au tovuti bila ruhusa ya kimaandishi kutoka Flutylove. Pia, unaweza
+        kutumia vitambulisho yoyote meta au kanuni, au vifaa vingine vyenye viungo
+        yoyote kwa Flutylove, Huduma au tovuti ili kuelekeza mtu yeyote mwingine tovuti
+        kwa madhumuni yoyote. i. Ni haramu kurekebisha, kukabiliana, sublicense, kutafsiri,
+        kuuza, urekebishaji, decipher, decompile au disassemble sehemu yoyote ya Huduma
+        au tovuti, au programu yoyote kutumika kwenye tovuti au kwa ajili yake, kama
+        vile moyo wengine kuchukua hatua kama hiyo . j. Ni haramu baada ya taarifa
+        yoyote na maudhui pornographic na / au erotic.
+      the_changes_in_the_service: 9. MABADILIKO YA SERVICE.
+      p_9: Flutylove ina haki wakati wowote kubadili au afya kwa muda au kudumu Huduma
+        (au yoyote ni sehemu) bila ya taarifa. Unakubali kwamba Flutylove si kuwajibika
+        kwa wewe au vyama yoyote ya tatu kwa marekebisho yoyote, upatikanaji muda
+        au mlemavu kamili ya Huduma.
+      ip_address_blocking: 10. IP ADDRESS kuzuia.
+      p_10: Ili kulinda uadilifu wa tovuti, Flutylove ina haki wakati wowote katika
+        urahisi wake mwenyewe ili kuzuia anwani ya IP ya Watumiaji fulani.
+      relations_between_users_online: 11. UHUSIANO KATI YA WATUMIAJI ONLINE
+      p_11: Wewe ni kuwajibika tu kwa mwingiliano wako na watumiaji wengine wa Flutylove.
+        Flutylove ina haki, lakini si wajibu, kufuatilia migogoro kati ya wewe na
+        watumiaji wengine.
+      security_and_communication: 12. SECURITY NA MAWASILIANO.
+      p_12: Kwa kutumia ya tovuti na / au Huduma yanasimamiwa na Sera ya faragha yetu.
+        Wakati wewe kuwa mtumiaji, unakubaliana na kukubaliana na kupokea barua pepe
+        kutoka kwetu. barua pepe hizi inaweza kuwakilisha notisi kuhusu shughuli au
+        kuarifiwa mengine yanayohusiana na Service, kama vile matangazo utawala na
+        matangazo rasmi kuhusu mabadiliko, au barua pepe zenye inatoa kibiashara,
+        uendelezaji wa vifaa, inatoa maalum kutoka kwetu, au habari kuhusu matendo
+        ya watumiaji wengine habari za yako akaunti ya mtumiaji. Tafadhali soma wetu
+        Sera ya faragha kujua zaidi kuhusu kuarifiwa hiyo.
+      denial_of_responsibility: 13. kunyimwa JUKUMU.
+      p_13: ". Flutylove si kuwajibika kwa taarifa yoyote sahihi au sahihi zilizowekwa
+        katika tovuti au ni kuhusishwa na Huduma, watumiaji wa tovuti au vifaa yoyote
+        au programu kuhusishwa na Huduma zetu au ni kutumika huko. Flutylove si kuwajibika
+        kwa tabia, wote online na offline, bila user yoyote ya tovuti. Flutylove haina
+        kuchukua majukumu kwa makosa yoyote, omissions, kusumbuliwa, kufutwa, uharibifu
+        au kuchelewa katika operesheni au shughuli, mawasiliano line kushindwa, wizi
+        au uharibifu, kupata ruhusa au mabadiliko ya mistari ya mawasiliano ya mtumiaji.
+        Flutylove si kuwajibika kwa matatizo yoyote au malfunction ya kiufundi ya
+        mitandao yoyote ya simu au mistari, mifumo ya kompyuta online, huduma au watoa
+        huduma, vifaa vya kompyuta, programu, barua pepe au wachezaji kushindwa katika
+        akaunti ya mtumiaji, matatizo ya kiufundi au msongamano kwenye mtandao au
+        katika tovuti yoyote au mchanganyiko wake, ikiwa ni pamoja na ajali au jeraha
+        kwa watumiaji au vyama yoyote ya tatu kuhusiana na kompyuta, au kama matokeo
+        ya ushiriki katika au kushusha habari kuhusiana na mtandao na / au Huduma.
+        Chini hakuna mazingira Flutylove Company au yeyote wa affiliate wake, mawakala
+        matangazo, waanzilishi au washirika usambazaji si kuwajibika kwa hasara yoyote
+        au uharibifu, ikiwa ni pamoja kuumia binafsi au kifo, kwa sababu ya kutumia
+        ya tovuti au Huduma, maudhui yoyote posted juu ya Tovuti , au mwingiliano
+        wowote kati ya watumiaji wa tovuti, wote online na offline. Tovuti na Huduma
+        ni zinazotolewa juu ya AS NI msingi, na Flutylove waziwazi disclaims dhamana
+        yoyote au fitness kwa kusudi fulani, au kutokuwepo kwa ukiukaji wa haki ya
+        mtu yeyote. Flutylove hawezi kuthibitisha na haina ahadi ya matokeo yoyote
+        maalum kutoka kwa kutumia wa tovuti na / au Huduma."
+      links: 14. LINKS.
+      p_14: ". Flutylove si kuwajibika kwa taarifa yoyote sahihi au sahihi zilizowekwa
+        katika tovuti au ni kuhusishwa na Huduma, watumiaji wa tovuti au vifaa yoyote
+        au programu kuhusishwa na Huduma zetu au ni kutumika huko. Flutylove si kuwajibika
+        kwa tabia, wote online na offline, bila user yoyote ya tovuti. Flutylove haina
+        kuchukua majukumu kwa makosa yoyote, omissions, kusumbuliwa, kufutwa, uharibifu
+        au kuchelewa katika operesheni au shughuli, mawasiliano line kushindwa, wizi
+        au uharibifu, kupata ruhusa au mabadiliko ya mistari ya mawasiliano ya mtumiaji.
+        Flutylove si kuwajibika kwa matatizo yoyote au malfunction ya kiufundi ya
+        mitandao yoyote ya simu au mistari, mifumo ya kompyuta online, huduma au watoa
+        huduma, vifaa vya kompyuta, programu, barua pepe au wachezaji kushindwa katika
+        akaunti ya mtumiaji, matatizo ya kiufundi au msongamano kwenye mtandao au
+        katika tovuti yoyote au mchanganyiko wake, ikiwa ni pamoja na ajali au jeraha
+        kwa watumiaji au vyama yoyote ya tatu kuhusiana na kompyuta, au kama matokeo
+        ya ushiriki katika au kushusha habari kuhusiana na mtandao na / au Huduma.
+        Chini hakuna mazingira Flutylove Company au yeyote wa affiliate wake, mawakala
+        matangazo, waanzilishi au washirika usambazaji si kuwajibika kwa hasara yoyote
+        au uharibifu, ikiwa ni pamoja kuumia binafsi au kifo, kwa sababu ya kutumia
+        ya tovuti au Huduma, maudhui yoyote posted juu ya Tovuti , au mwingiliano
+        wowote kati ya watumiaji wa tovuti, wote online na offline. Tovuti na Huduma
+        ni zinazotolewa juu ya AS NI msingi, na Flutylove waziwazi disclaims dhamana
+        yoyote au fitness kwa kusudi fulani, au kutokuwepo kwa ukiukaji wa haki ya
+        mtu yeyote. Flutylove hawezi kuthibitisha na haina ahadi ya matokeo yoyote
+        maalum kutoka kwa kutumia wa tovuti na / au Huduma."
+      limitation_of_responsibility: 15. KIKOMO CHA JUKUMU.
+      p_15: TOVUTI NA KAZI YAKE PAMOJA maandiko yote, MATUMIZI, MAUDHUI NA DESIGN
+        WA TOVUTI ZINATOLEWA ON AN AS NI MSINGI. KAMPUNI disclaims yoyote udhamini
+        KUWA TOVUTI HII AU KAZI YAKE inaweza kuwa yanafaa au hazifai KWA MATUMIZI
+        FULANI YA MATUMIZI. KAMPUNI hawezi kuthibitisha NA haina ahadi yoyote MATOKEO
+        MAALUM KUTOKA KUTUMIA WA TOVUTI NA / AU KAZI YAKE; Ili kuepuka utata, USER
+        lazima kuchunguza USALAMA TAHADHARI wakati kushusha KUTOKA TOVUTI HII AU KUPITIA
+        LINKS posted, na KUTUMIA YA FILES YOYOTE, AS WELL AS SOFTWARE. KAMPUNI Ilipendekeza
+        KUTUMIA TU leseni SOFTWARE AS WELL AS antivirus programu; KWA KUTUMIA TOVUTI,
+        USER KUKUBALI KUWA UPAKUAJI KUTOKA SITE AU kwa msaada wake MAUDHUI YOYOTE
+        AT yake / zake mwenyewe RISK NA kuwajibika tu kwa ajili ya matokeo ya KUTUMIA
+        HABARI HII, PAMOJA HASARA YOYOTE ipate HUSABABISHA kwa kompyuta ya mtumiaji
+        AU THIRD VYAMA, DATA HASARA, aU HASARA NYINGINE; KATIKA MAZINGIRA KAMPUNI
+        au mawakala wake KUCHUKUA NO JUKUMU KWA MTUMIAJI AU chama chochote cha tatu
+        KWA YOYOTE moja kwa moja, Ajali NA UNWILFUL HASARA, PAMOJA HASARA YA BENEFIT,
+        AU LOST DATA, uharibifu wa heshima, UTU AU SIFA BUSINESS, unaojitokeza UTUMIAJI
+        WA TOVUTI HII, MAUDHUI YAKE aU MAELEZO MENGINE ambayo wewe aU mTU NYINGINE
+        WAMEPOKEA kupata kupitia tovuti, hata kama KAMPUNI WAMEWAONYENI aU inaonyesha
+        uwezekano wa HASARA vile.
+      responsibilities_of_the_parties: 16. MAJUKUMU YA VYAMA.
+      p_16: Mkataba huu ni serikali kwa na ufafanuzi kwa mujibu wa sheria ya Shirikisho
+        la Urusi. Masuala ambao walikuwa si makazi na Mkataba itakuwa makazi kwa mujibu
+        wa sheria ya Shirikisho la Urusi. Katika kesi ya migogoro yoyote au ubishi
+        kuhusiana na utekelezaji wa kanuni hizi, mtumiaji na Kampuni itafanya kila
+        juhudi ili kutatua yao kwa njia ya mazungumzo. Katika kesi migogoro si kutatuliwa
+        kwa mazungumzo, migogoro itakuwa makazi kwa mujibu wa sheria husika ya Shirikisho
+        la Urusi. Mkataba huu ni kunyongwa katika lugha ya Kirusi na wanaweza kutolewa
+        kwa mtumiaji kwa ajili ya mapitio katika lugha nyingine. Katika kesi ya tofauti
+        ya toleo la Kanuni katika lugha ya Kirusi na toleo lake katika lugha nyingine,
+        toleo katika lugha ya Kirusi ya masharti ya Kanuni hii zitatumika. Kama kwa
+        sababu moja au nyingine, moja au zaidi sheria ya kanuni hizi itakuwa alitangaza
+        batili au voided, hii haina kuathiri uhalali au enforceability wa masharti
+        iliyobaki.
+      other_provisions_and_changes: 17. MASHARTI NYINGINE NA MABADILIKO.
+      p_17: Mkataba huu ni mkataba wa kweli kati ya wewe na Flutylove kuhusu kutumia
+        ya tovuti na / au Huduma. Kama yeyote utoaji wa Mkataba huu voids, wengine
+        wa Mkataba bado uhalali wake katika athari kamili. Mkataba huu zinaweza kurekebishwa
+        na Flutylove wakati wowote. Tafadhali usisite kuwasiliana nasi kwa maswali
+        yoyote kuhusu Mkataba huu.
+      read_this: Nimesoma mkataba huu NA KUKUBALI KWA WOTE TERMS YAKE.
+    about:
+      about_flutylove: Kuhusu Flutylove
+      about_flutylove_text: Flutylove ni ya kimataifa ya kijamii burudani mtandao
+        kwa datings. Hapa unaweza kupata marafiki, soulmate, washirika au tu kutumia
+        muda wako na kufurahia kwa kucheza michezo au kuangalia video / picha.
+      flutylove_features: 'Wakati wewe ishara ya juu kwenye tovuti yetu, unaweza kujua
+        sifa nyingi kama vile:'
+      video_call_feature: Unaweza kuzungumza na mpenzi na webcam
+      extended_search: Unaweza kutumia search kupanuliwa kwa ajili ya bure
+      multilanguages: Unaweza kutafuta washirika kutoka nchi nyingine, kwa sababu
+        huduma yetu inatarajiwa kutumia na mbalimbali ya watu kutoka nchi nyingine
+        kwa vile ni kutafsiriwa lugha zaidi ya 70
+      play_games_chatting_etc: Unaweza kuzungumza na watu wengine, kucheza michezo
+        na kufanya stuffs nyingine za kijamii
+      we_are_in_social_networks: 'Sisi ni katika mitandao ya kijamii:'
+      facebook: Picha
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google pamoja
+      instagram: Instagram
+      github: github
+      we_use_open_source_and_high_technology: Sisi kutumia teknolojia ya juu na maktaba
+        wazi chanzo. Sisi daima kujaribu kupata bora na kuboresha huduma zetu.
+      partners_and_investors: Sisi ni kufunguliwa kwa ushirikiano na tungependa kupata
+        wawekezaji. Kama Ningependa kwa kushirikiana na sisi tafadhali wasiliana nasi
+        katika partnership@flutylove.com
+    faq:
+      faq: FAQ
+      what_is_flutylove: Flutylove ni nini?
+      about_flutylove: Flutylove ni ya kimataifa ya kijamii burudani mtandao kwa datings.
+        Hapa unaweza kupata marafiki, soulmate, washirika au tu kutumia muda wako
+        na kufurahia kwa kucheza michezo au kuangalia video / picha.
+      what_features_has_flutylove: nini makala ina Flutylove?
+      flutylove_features: Hapa unaweza kuzungumza na videocams, kutumia search kupanuliwa,
+        washirika search kutoka nchi nyingine, kucheza michezo na kufanya stuffs nyingine
+        za kijamii.
+      i_have_some_requests: mimi na baadhi ya maombi
+      you_can_write_request: Unaweza kujisajili na kuandika ni
+      here: hapa
+      i_have_seen_some_typo_or_wrong_translation: nimeona baadhi typo au tafsiri sahihi
+      you_can_send_pull_request_to_our: Unaweza kutuma Pull Ombi wetu
+      github_repository: github there
+      i_have_seen_some_error: nimeona baadhi ya makosa
+      you_can_send: Unaweza tutumie maoni na
+      feedback: fomu hii
+      to_us_or_write_to_our_info_mail: au kuandika barua pepe kwa support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Karibu Flutylove
+      you_have_successfully_signed_up_to_flutylove: Una mafanikio saini hadi Flutylove
+      you_can_sign_in_with_your_social_networks: Kama ungependa kuingia tena unaweza
+        kuingia na akaunti yako ya kijamii mtandao
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Kama
+        ungependa kuingia na email na password unaweza kubadilisha password na ishara
+        nje na click kuhusisha chini
+      change_password: Change password
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: sahihi
+            search_for:
+              search_for_error: sahihi
+            birth_date:
+              birth_date_error: haja ya kuwa kubwa kuliko 18 na chini kisha 115
+            interests:
+              interests_error: haja ya kuwa chini ya 2000 alama
+            jobs:
+              jobs_error: haja ya kuwa chini ya 2000 alama
+            languages:
+              languages_error: haja ya kuwa chini ya 2000 alama
+            sex_keywords:
+              sex_keywords_error: haja ya kuwa chini ya 2000 alama
+            my_turn_ons:
+              my_turn_ons_error_error: sahihi
+            contacts:
+              contacts_length_error: haja ya kuwa chini ya 2000 alama
+              contacts_size_error: haja ya kuwa na mawasiliano chini ya 21
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: ina thamani batili
+  devise:
+    confirmations:
+      confirmed: Akaunti yako mara kwa mafanikio alithibitisha.
+      send_instructions: You kupokea barua pepe na maelekezo kuhusu jinsi ya kuthibitisha
+        akaunti yako katika dakika chache.
+      send_paranoid_instructions: Kama anwani yako ya barua pepe ipo katika database
+        yetu, utakuwa kupokea barua pepe na maelekezo kuhusu jinsi ya kuthibitisha
+        akaunti yako katika dakika chache.
+      new:
+        send_mail_for_confirm_your_email: Tuma barua kwa kuthibitisha barua pepe yako
+        submit: Kuwasilisha
+    failure:
+      already_authenticated: Wewe ni tayari umeingia.
+      inactive: Akaunti yako si ulioamilishwa bado.
+      invalid: email batili au password.
+      locked: Akaunti yako imefungwa.
+      last_attempt: Una jaribio moja zaidi kabla ya akaunti yako itakuwa imefungwa.
+      not_found_in_database: email batili au password.
+      timeout: kikao wako muda wake. Tafadhali ingia tena kuendelea.
+      unauthenticated: Unahitaji kuingia katika au ishara ya juu kabla ya kuendelea.
+      unconfirmed: Una ili kuthibitisha akaunti yako kabla ya kuendelea.
+    mailer:
+      confirmation_instructions:
+        subject: maelekezo Confirmation
+        welcome_to_flutylove: Karibu Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Unaweza kuthibitisha
+          email yako kwa njia ya kiungo chini
+        confirm_my_account: Thibitisha pepe yangu
+      reset_password_instructions:
+        hello: Habari
+        subject: Rudisha maelekezo nywila
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Mtu
+          ana maombi kiungo kubadili password yako. Unaweza kufanya hivyo kwa njia
+          ya kiungo hapa chini.
+        change_my_password: Change password yangu
+        if_you_didnt_request_this_please_ignore_this_email: Kama hakuwa na ombi hili
+          tafadhali kupuuza email hii.
+      unlock_instructions:
+        subject: Unlock Maelekezo
+    omniauth_callbacks:
+      failure: Hakuweza kukuthibitisha kutoka% {aina} kwa sababu "% {sababu}".
+      success: Mafanikio kuthibitishwa kutoka% {aina} akaunti.
+    passwords:
+      no_token: Huwezi kupata ukurasa hii bila kuja kutoka email password reset. Kama
+        huna kuja kutoka email password reset, tafadhali kuhakikisha wewe kutumika
+        URL full zinazotolewa.
+      send_instructions: You kupokea barua pepe na maelekezo ya jinsi ya upya password
+        yako katika dakika chache.
+      send_paranoid_instructions: Kama anwani yako ya barua pepe ipo katika database
+        yetu, utakuwa kupokea password ahueni kiungo katika barua pepe yako katika
+        dakika chache.
+      updated: Neno lako la siri mara iliyopita kwa mafanikio. Wewe ni sasa umeingia
+        katika akaunti.
+      updated_not_active: Neno lako la siri mara iliyopita kwa mafanikio.
+      new:
+        forgot_your_password: Kuokoa password yako
+        reset_password: Send kupona url
+      edit:
+        change_your_password: Mabadiliko ya password yako
+        new_password: nenosiri New
+        confirm_password: Thibitisha nenosiri
+        change_password: Badilisha
+    registrations:
+      destroyed: Bye! Akaunti yako mara kwa mafanikio kufutwa. Tunatarajia kuona wewe
+        tena hivi karibuni.
+      signed_up: Karibu! Una saini kwa mafanikio.
+      signed_up_but_inactive: Umejiandisha mafanikio. Hata hivyo, sisi hakuweza kukuingiza
+        katika sababu akaunti yako bado ulioamilishwa.
+      signed_up_but_locked: Umejiandisha mafanikio. Hata hivyo, sisi hakuweza kukuingiza
+        katika sababu akaunti yako imefungwa.
+      signed_up_but_unconfirmed: ujumbe na kiungo uthibitisho ametumwa kwa barua pepe
+        yako. Tafadhali fungua kiungo kuamsha akaunti yako.
+      update_needs_confirmation: You updated akaunti yako kwa mafanikio, lakini tunahitaji
+        kuthibitisha anwani yako mpya. Tafadhali angalia barua pepe yako na bonyeza
+        kuthibitisha kiungo kukamilisha kuthibitisha anwani ya barua pepe yako mpya.
+      updated: You updated akaunti yako kwa mafanikio.
+      new:
+        sign_up: Ishara ya juu
+        name: Jina
+        password: Nywila
+        password_confirmation: Nywila uthibitisho
+        register: Ishara ya juu
+    shared:
+      links:
+        sign_in: Ingia katika
+        sign_up: Ishara ya juu
+        didnt_receive_confirmation_instructions: Je, si kimepata uthibitisho maelekezo?
+        sign_in_with: Kuingia na
+        fast_login_almost_one_click: haraka login (Karibu moja click)
+    sessions:
+      signed_in: Signed katika mafanikio.
+      signed_out: Umetolewa kwa mafanikio.
+      new:
+        sign_in: Ingia katika
+        password: Nywila
+        remember_me: Nikumbuke
+        forgot_your_password: Umesahau nywila yako?
+    unlocks:
+      send_instructions: You kupokea barua pepe na maelekezo kuhusu jinsi ya kufungua
+        akaunti yako katika dakika chache.
+      send_paranoid_instructions: Kama akaunti yako ipo, utakuwa kupokea barua pepe
+        na maelekezo kuhusu jinsi ya kufungua hiyo katika dakika chache.
+      unlocked: Akaunti yako imefunguliwa kwa mafanikio. Tafadhali ingia kuendelea.
+  timezones:
+    American Samoa: American Samoa
+    International Date Line West: International Tarehe Line West
+    Midway Island: Midway Kisiwa
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Pasifiki (Marekani & Canada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mlima (US & Canada)
+    Central America: Amerika ya Kati
+    Central Time (US & Canada): "(US & Canada)"
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Mashariki (US & Canada)
+    Indiana (East): Indiana (Mashariki)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlantic (Canada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Greenland
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Azores
+    Cape Verde Is: Cape Verde Isa.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lisbon
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrade
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Brussels
+    Budapest: Budapest
+    Copenhagen: Copenhagen
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Prague
+    Rome: Rome
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Vienna
+    Warsaw: Warsaw
+    West Central Africa: West Central Africa
+    Zagreb: Zagreb
+    Athens: Athens
+    Bucharest: Bucharest
+    Cairo: Cairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kaliningrad
+    Kyiv: Kyiv
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Baghdad
+    Kuwait: Kuwait
+    Minsk: Minsk
+    Moscow: Moscow
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: St Petersburg
+    Volgograd: Volgograd
+    Tehran: Tehran
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Yerevan
+    Kabul: Kabul
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Beijing
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapore
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadani
+    New Caledonia: Caledonia New
+    Solomon Is: Solomon Isa.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fiji
+    Kamchatka: Kamchatka
+    Marshall Is: Marshall Isa.
+    Wellington: Wellington
+    Chatham Is: Chatham Isa.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau Isa.
+  sw: sw
+  sw_iso: sw

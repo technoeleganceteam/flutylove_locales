@@ -1,0 +1,1719 @@
+---
+is:
+  1_we_have_just_launched_our_service_title: Við höfum bara sett þjónustu okkar!
+  common_keywords: datings, á netinu datings, ást datings, vefmyndavél Stefnumót,
+    hraði Stefnumót, webcam Dating, Ruby á Teinn deita síðuna, mismunandi tungumál
+    deita síðuna
+  common_description: The háþróaður alþjóðlega félagslega skemmtun net fyrir datings
+    "Flutylove"
+  default_album: Sjálfgefið albúm
+  user: User
+  user_to_search_connection: Leit
+  video: Video
+  note: Note
+  photo_album: Myndaalbúm
+  from: Frá
+  to: Til
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Male
+  - female:
+      name: Female
+  - transgender:
+      name: Transgender
+  - male-female:
+      name: Male-Female
+  - double-female:
+      name: Double kvenkyns
+  - double-male:
+      name: Double karlkyns
+  orientation:
+  - heterosexual: Gagnkynhneigðir
+  - homosexual: Samkynhneigðra
+  - bisexual: Tvíkynja
+  search_for:
+  - chatting: Spjalla
+  - get_friends: fá vini
+  - flirtation: Daður
+  - marriage: Hjónaband
+  - other: Annað
+  body_type:
+    slim: Slim
+    normal: Normal
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Single
+    in_a_relationship: Í sambandi
+    married: Giftur
+    nothing_serious: Ekkert alvarlegt
+  children:
+    dont_have: Ekki hafa
+    dont_have_and_dont_want_to: Ekki hafa og vilt ekki að
+    don_t_have_but_planning: Ekki hafa heldur áætlanagerð
+    have_enough: Have
+    have_and_planning_more: Have og skipuleggja fleira
+    unable_to_have_children: Ekki er hægt að eignast börn
+  living:
+    with_parents: Með foreldrum
+    with_marriage_partner: Með hjónaband samstarfsaðila
+    alone: Alone
+    with_friends: Með vinar (s)
+  education:
+    nothing: Ekkert
+    secondary_school: Framhaldsskóli
+    college_technical_college: College / Technical College
+    university: University
+    postgraduate: Framhaldsnámi
+    phd_md_post_doctorate: PhD / MD / færsla doktorspróf
+  hair_color:
+    blonde: Blonde
+    dark_blond: Dark ljóshærður
+    brown: Brown
+    black: Black
+    red: Red
+    gray: Gray
+    other: Annað
+  income:
+    unemployed: Atvinnulaus
+    unstable_earnings: Óstöðug tekjur
+    small_stable_earnings: Lítil stöðugar tekjur
+    medium_stable_earnings: Medium stöðugar tekjur
+    higher_than_average_income: Hærri en meðaltekjur
+    high_income: tekjuháum
+  smoking:
+    not_smoke: Ekki reykja
+    not_smoke_and_detest: reykja ekki og hata reykingar
+    smoke_in_a_social_setting: Stundum í félagslegu umhverfi
+    smoke_occasionally: Smoke stundum
+    smoke_often: Smoke oft
+  alcohol:
+    not_drinking: drekka ekki
+    drink_occalionally: drykkur stundum
+    drink_in_a_social_setting: drykkur í félagslegu umhverfi
+    drink_often: drykkur oft
+  drugs:
+    dont_use: Ekki nota
+    contra_drugs: Contra lyf
+    tried_out_some: Reyndi út sumir
+    light_drugs_occasionally: Light lyf stundum
+    regular: Regular
+  sponsor:
+    i_want_to_find_a_sponsor: Ég vil finna bakhjarl
+    willing_to_become_a_sponsor: Tilbúnir til að verða bakhjarl
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Ekki leita að styrktaraðila
+      og ekki tilbúin til að verða eitt
+  category_name:
+    strategy: Stefna
+    rpg: RPG
+    3d_shooters: 3D Fram
+    racing: Racing
+    arcade: Arcade
+    economic: Economic
+    simulators: Herma
+    logic: Logic
+    adventure: ævintýri
+    board_games: Borðspil
+    gambling: Fjárhættuspil
+    news: Fréttir
+    communication: Samskipti
+    multimedia: Margmiðlun
+    drawing: Teikning
+    educational: Náms
+    e_commerce: E-Commerce
+    other: Annað
+  shared:
+    header:
+      people: Fólk
+      chat: Chat
+      groups: Hópar
+      forum: Forum
+      requests: Beiðnir
+      about: Um verkefnið
+      help: Hjálp
+      user_applications: Umsóknir
+    liked_users:
+      liked: Líkaði
+      all: Allt
+      you_have_not_liked_any_users_yet: Þú hefur ekki viljað neina notendur ennþá
+    most_liked_users:
+      most_liked_users: Vinsælt notendur
+    installed_user_applications:
+      installed_applications: Uppsett forrit
+      all: Allt
+      you_have_not_installed_any_apps_yet: Þú hefur ekki sett nein forrit ennþá
+    user_applications:
+      uploaded_apps: Hlóð forrit
+      all: Allt
+      you_have_not_uploaded_any_apps_yet: Þú hefur ekki hlaðið upp neinum forritum
+        ennþá
+    right_sidebar:
+      news: Fréttir
+      all: Allt
+      read_more: Lesa meira
+    footer:
+      footer_text: International félagslega skemmtun net fyrir datings "Flutylove"
+      privacy: Privacy
+      terms: Skilmálar
+      feedback: Feedback
+      abuse: Misnotkun
+    languages_select_modal:
+      available_languages: tungumál Laus
+    site_map_modal:
+      site_map: Veftré
+      faq: FAQ
+      about: Um
+      static_pages: Static síður
+      common_pages: Common síður
+      user_pages: notanda síður
+      terms: Skilmálar
+      privacy: Privacy
+      people: Fólk
+      user_applications: Umsóknir
+      user_requests: Beiðnir
+      news: Fréttir
+      feedback: Feedback
+      abuse: Misnotkun
+      chats: Spjallrásir
+      videos: Videos
+      photo_albums: Myndaalbúm
+      notes: Skýringar
+    pagination_link:
+      next_page: Næsta síða
+    user_edit_menu:
+      content: Content
+      profile: Profile
+      site_settings: Vefsvæðisstillingar
+      privacy: Privacy
+      services: Services
+    activities_navigation:
+      all: Allt
+      photos: Myndir
+      photo_albums: Myndaalbúm
+      notes: Skýringar
+      videos: Videos
+    notifications_navigation:
+      all: Allt
+      likes: Líkar
+      friend_requests: vinarbeiðni
+      profile_views: Prófíl skoðanir
+      photo_album_views: Myndir skoðanir
+    user_to_friend_connections_navigation:
+      friends: Friends
+      friends_online: Vinir á netinu
+      outcome_requests: Outcome beiðnir
+      income_requests: Tekjur beiðnir
+    user_applications_navigation:
+      all: Allt
+      new: Nýtt
+      popular: Nýtt
+      often_installed: Oft uppsett
+      manage: Stjórna
+    user_requests_navigation:
+      all: Allt
+      popular: Nýtt
+      my_requests: beiðnum mínum
+    user_navbar_menu:
+      sign_in: Skrá inn
+      sign_up: Skráðu þig
+    email_signature:
+      info: Upplýsingar
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: Veldu kyn
+      select_orientation: Select stefnumörkun
+      select_search_for: Select leita að
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Þú þarft að skrá þig inn áður en þessari aðgerð
+      available_sign_in_methods: þig
+    sign_up_methods:
+      usual_register_link: venjulega skráning
+      register_text: auki% {usual_registration} er hægt að skrá í gegnum vinsælustu
+        þjónustu og félagslegur net
+    bootstrap_gallery:
+      previous: Fyrri
+      next: Next
+    user_notification_title:
+      you_liked: Þú líkar vel
+      wrote_message_to_you: Skrifaði skilaboð til þín
+      viewed_your_profile: Skoðað prófíl þínum
+      liked_your_photo: Líkaði myndina
+      liked_your_note: Líkaði minnismiða
+      liked_your_request: Líkaði beiðninni
+      liked_your_video: Líkaði myndbandið
+      liked_your_application: Líkaði umsókn þína
+      requested_a_friendship: Umbeðin vináttu
+  authentications:
+    authentication:
+      turn_on: Kveikja á
+      turn_off: Slökkva
+      turned_on: kveikt á
+      turned_off: Slökkt
+    index:
+      enabled_services: virkt þjónusta
+  users:
+    profile:
+      submit: Vista
+      name: Name
+      meet_with: Meet með
+      gender: Kyn
+      type_in_your_location: Type í borginni þinni
+      about_me: nokkur orð um sjálfan þig (í viðbót til að mynda hér á eftir)
+      sex_keywords: hlutdeild í kynlíf
+      enter_your_name: Sláðu inn nafnið þitt
+      more_options: Meira
+      orientation: Stefnumörkun
+      birth_date: Fæðingardagur
+      location: Staðsetning
+      search_for: Leita
+      intimacy: nánd
+      in_age: Í aldri
+      from: frá
+      to: til
+      interests: Áhugasvið
+      height: Hæð
+      weight: Þyngd
+      body_type: Body gerð
+      hair_color: Hárlitur
+      relationship: Samband
+      children: Börn
+      living: Living
+      education: Menntun
+      jobs: Job
+      income: Tekjur
+      languages: Tungumál
+      smoking: Reykingar
+      alcohol: Áfengi
+      drugs: Drugs
+      contacts: Tengiliðir
+      contact_name: Nafn tengiliðar
+      contact_value: Viltu samband við gildi
+      save: Vista
+      about_yourself: Um sjálfur
+    settings:
+      submit: Vista
+      locale: Interface tungumál
+      change_password: Breyta lykilorði
+      interface_language: Interface tungumál
+      time_zone: tímabeltis
+    dialog_modal:
+      send_message: Senda skilaboð
+    index:
+      users: notendur
+      clear_search: Hreinsa leit
+    dashboard:
+      hello: Hello
+      here_some_of_your_statistics: Hér eru nokkrar af tölfræði þína
+      chats: Spjallrásir
+      messages: Skilaboð
+      photos: Myndir
+      videos: Videos
+      notes: Skýringar
+      photo_albums: Myndaalbúm
+    avatar:
+      photo: Photo
+      uploading_file: Sendi skrá
+      handling_file: Meðhöndlun skrá
+      drag_and_drop_your_file: Draga og sleppa skrá
+      here: hér
+      or: eða
+      upload_file: hlaða skrá
+      from_other_sites: Frá öðrum stöðum
+      write_down_link_for_your_image: Skrifaðu niður tengil myndarinnar
+      url_for_image: Url fyrir myndina
+      upload: Hlaða
+      from_facebook: Frá Facebook
+      turn_on_facebook: Kveiktu á Facebook
+      you_can_upload_your_photos_from_facebook: Þú getur sett inn myndir frá Facebook
+      from_vkontakte: Frá VKontakte
+      you_can_upload_your_photos_from_vkontakte: Þú getur sett inn myndir frá VKontakte
+      turn_on_vkontakte: Kveiktu á VKontakte
+      from_instagram: Frá Instagram
+      you_can_upload_your_photos_from_instagram: Þú getur sett inn myndir frá Instagram
+      turn_on_instagram: Kveiktu á Instagram
+      from_dropbox: Frá Dropbox
+      you_can_upload_your_photos_from_dropbox: Þú getur sett inn myndir frá Dropbox
+      turn_on_dropbox: Kveiktu á Dropbox
+      edit_photo: Breyta mynd
+      delete_photo: Eyða mynd
+      are_you_sure: Ertu viss?
+    available_photos_modal:
+      available_photos: Laus myndir
+    update:
+      your_password_was_successfully_changed: lykilorð þitt var breytt
+      your_profile_was_successfully_updated: Prófíllinn þinn var uppfært
+    edit_photo:
+      edit_photo: Breyta mynd
+      crop: Skera
+      close: Close
+      save_changes: Vista breytingar
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: url / Nick / id / etc
+    user:
+      about_me: Um mig
+      orientation: Stefnumörkun
+      meet_with: Meet með
+      desirable_age: æskilegt aldur
+      from: frá
+      to: til
+      interests: Áhugasvið
+      height: Hæð
+      sm: SM
+      kg: kg
+      body_type: Body gerð
+      hair_color: Hárlitur
+      relationship: Samband
+      children: Börn
+      living: Living
+      education: Menntun
+      jobs: Jobs
+      income: Tekjur
+      languages: Tungumál
+      smoking: Reykingar
+      alcohol: Áfengi
+      drugs: Drugs
+      contacts: Tengiliðir
+    user_info:
+      offline: Offline
+      online: Online
+      age: Age
+    loading_modal_images:
+      loading_images: Hleður myndir
+    password_form:
+      new_password: Nýtt lykilorð
+      confirm_new_password: Staðfesta nýtt lykilorð
+      old_password: Gamla lykilorðið
+      change_password: Breyta lykilorði
+    show:
+      photos: Myndir
+      all: Allt
+      videos: Videos
+      notes: Skýringar
+      view: View
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: Líma borist lykillinn
+      submit: Senda
+    contents:
+      users_which_i_like: Notendur sem mér líkar
+      all: Allt
+      my_videos_likes: líkar myndböndum mínum
+      my_photos_likes: mín myndir líkar
+      my_notes_likes: minnisblöð líkar
+      my_user_applications_likes: Forritin mín líkar
+      my_user_requests_likes: beiðnum mínum líkar
+    more_profile_info:
+      photo_albums: Myndaalbúm
+      view_all_photo_albums: Skoða öll myndaalbúm
+      create_more: Búa fleira
+      videos: Videos
+      view_all_videos: Skoða öll myndbönd
+      notes: Skýringar
+      view_all_notes: Skoða allar glósur
+      requirements_lists_to_partner: Kröfur listar til félaga
+      requirement: Krafa
+      view_all_requirements_lists: Skoða allar kröfur listar
+      profile_verification: Profile netið
+      your_profile_is_successfully_verified: prófíllinn þinn er verið staðfest
+      create: Búa
+      you_have_not_any_requirements_lists_yet: Þú hefur ekki einhverjar kröfur er
+        listi ennþá
+      you_have_not_any_notes_yet: Þú hefur ekki neina glósur ennþá
+      you_have_not_any_photo_albums_yet: Þú hefur ekki neina myndaalbúm ennþá
+      you_have_not_any_videos_yet: Þú hefur ekki nein vídeó ennþá
+      your_profile_is_not_verified_yet: Prófíllinn er ekki staðfest ennþá
+      verify_through_twitter: Staðfesta gegnum Twitter
+      verify_through_facebook: Staðfesta í gegnum Facebook
+      verify_through_mail_ru: Staðfestu með Mail.ru
+    privacy:
+      privacy: Privacy
+  searches:
+    form:
+      location: Staðsetning
+      from: frá
+      to: til
+      age: Age
+      gender: Kyn
+    form_content:
+      city: City
+      gender: Kyn
+      age_from: Aldur frá
+      to: til
+      online: Online
+      verified: Staðfest
+      has_avatar: Hefur avatar
+      region: Region
+      more: Meira
+      country: Country
+      about_me: Um mig
+      interests: Áhugasvið
+      languages: Tungumál
+      names: nöfn
+      height: Hæð
+      from: frá
+      weight: Þyngd
+      body_type: Body gerð
+      relationship: Samband
+      hair_color: Hárlitur
+      education: Menntun
+      orientation: Stefnumörkun
+      search_for: Leita
+      children: Börn
+      living: Living
+      smoking: Reykingar
+      alcohol: Áfengi
+      drugs: Drugs
+      income: Tekjur
+    show:
+      users: notendur
+      clear_search: Hreinsa leit
+  welcome:
+    index:
+      people: Fólk
+      requests: Beiðnir
+      user_applications: Umsóknir
+      about: Um
+      features: Features
+      registration: Skráning
+      sign_in: Skrá inn
+      welcome_main_title: Velkomin á Flutylove!
+      welcome_main_text: Þetta er staðurinn þar sem þú getur fundið hið fullkomna
+        ást þína
+      find_more: Finna fleiri
+      about_title: Flutylove er alþjóðlegt félagslega skemmtun net fyrir datings
+      about_text: Það eru margar aðgerðir sem hægt er að nota til skemmtana og datings!
+      find_more_features: Finna fleiri aðgerðir
+      at_our_service: Lögun af þjónustu okkar
+      many_languages: mörgum tungumálum
+      text_about_many_languages: þjónustu okkar er þýdd meira en 70 tungumálum
+      check_it_out: Stöðva það út
+      videochats: Videochats
+      text_about_videochats: Þú getur spjallað við félaga þína með videocams
+      try_it_now: Prófaðu það núna
+      search: Leit
+      text_about_search: Þú getur leitað með mörgum breytum og það er ókeypis!
+      watch_this: Horfa þetta
+      more_features: Fleiri eiginleikar
+      text_about_more_features: Hægt er að skoða myndbönd, spila leiki og gera margt
+        annað!
+      register_and_learn_more: Register og læra meira
+      install_our_apps: Setja apps okkar frá á vinsælustu kostirnir
+      register_header: Skráning
+  feedbacks:
+    new:
+      feedback_title: Feedback
+    form:
+      feedback_name: þínu nafni
+      feedback_email: tölvupóstinn þinn
+      feedback_content: Feedback efni
+      close: Close
+      send: Senda
+      feedback_recaptcha: reCAPTCHA
+      cancel: Hætta
+    success:
+      success_feedback: Þakka þér! Við höfum hlaut þitt álit.
+      close: Close
+      cancel: Hætta
+      more: Senda fleira
+  abuses:
+    new:
+      abuse_title: Misnotkun
+    form:
+      abuse_name: þínu nafni
+      abuse_email: tölvupóstinn þinn
+      abuse_content: Misnotkun efni
+      abuse_title: Misnotkun
+      close: Close
+      send: Senda
+      abuse_recaptcha: reCAPTCHA
+      abuse_link: Link
+      cancel: Hætta
+    success:
+      success_abuse: Þakka þér! Við höfum hlaut misnotkun þitt.
+      close: Close
+      cancel: Hætta
+      more: Senda fleira
+  layouts:
+    welcome:
+      welcome_title: Velkomin á Flutylove! The háþróaður deita síðuna.
+  recaptcha:
+    errors:
+      verification_failed: mistókst reCAPTCHA
+      recaptcha_unreachable: reCAPTCHA er ekki til staðar
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Við höfum bara sett þjónustu okkar!
+      we_have_just_launched_our_service_text: Í dag ætlum við að ræsa þjónustu okkar
+        svo allir geta
+      sign_up: skrá sig
+      and_use_it: og nota það.
+      wishes_and_requests: Ef þú hefur einhverjar óskir eða beiðnir, getur þú skráð
+        þig og skrifaði það
+      here: hér
+      with_love: Með ást,
+      flutylove_team: Flutylove Team
+    index:
+      all_news: Allar fréttir
+      read_more: Lesa meira
+  chats:
+    panel_head:
+      online: Online
+      offline: Offline
+    pagination_link:
+      next_page: Næsta síða
+    form_additions:
+      submit: Senda
+      videochat: videochat
+    show:
+      messages: Skilaboð
+    index:
+      messages: Skilaboð
+    videochat_request_link:
+      connect_to_videochat: Tengjast myndspjalli
+    modal_form:
+      send_message: Senda skilaboð
+      recipient: Viðtakandi
+      message: Skilaboð
+      close: Close
+      submit: Senda
+    waiting_video_answer_button:
+      waiting_for_response: Bíð eftir svari ...
+    chat_created:
+      send_message: Senda skilaboð
+      message_was_sent: Skilaboð send
+      close: Close
+  messages:
+    pagination_link:
+      next_page: Næsta síða
+  notifications:
+    user_to_friend_connection:
+      action: Action
+    notification:
+      offline: Offline
+      online: Online
+    like:
+      action: Action
+    photo_album_view:
+      action: Action
+    user_view:
+      action: Action
+  user_applications:
+    user_application:
+      who_uploaded: hlóð
+      all_uploaded_applications_by: allt hlaðið umsóknir
+    form:
+      name: Name
+      user_application_name: Umsókn nafn
+      description: Lýsing
+      description_text: Lýsing texta
+      iframe_url: Iframe url
+      icon_for_application: Umsókn táknið
+      upload_icon: Sækja táknið
+      public: Public?
+      category_name: Flokkur
+      create: Búa
+      edit: Breyta
+    show:
+      application: Umsókn
+      return_to_uploaded_applications: Til hlaðið forritinu
+      edit_application: Breyta umsókn
+      return_to_all_applications: aftur í öllum forritum
+    manage:
+      installed_applications: Uppsett forrit
+      uploaded_applications: Hlóð forrit
+      all: Allt
+    index:
+      applications_uploaded_by: Umsóknir hlaðið upp
+      return_to_all_applications: aftur í öllum forritum
+      create_new: Búa til nýtt
+      return_to_manage_applications: aftur til að stjórna forritum
+    installed:
+      installed_applications: Uppsett forrit
+      return_to_all_applications: aftur í öllum forritum
+      return_to_manage_applications: aftur til að stjórna forritum
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Áður mati er þetta forrit
+        sem þú þarft að skrá þig inn fyrst
+    need_to_install:
+      need_to_install_first: Þú þarft að setja upp þetta forrit fyrst
+      install_application: Setja umsókn
+  likes:
+    index:
+      liked_items: sem líkað atriði
+      return_to_my_content: aftur í mínu efni
+  videos:
+    index:
+      videos: Videos
+      return_to_edit_profile: Til klippingu upplýsingar
+      create_new: Búa til nýtt
+      return_to_profile: aftur í uppsetningu
+    video:
+      edit: Breyta
+      are_you_sure: Ertu viss?
+      delete: Eyða
+    modal_form:
+      create_new_video: Búa til nýjan myndband
+      close: Close
+      create: Búa
+    form_content:
+      name: Name
+      video_name: Video nafn
+      source: Url á embed in merkjamál
+      video_url_or_embed_code: Myndband url vídeó embed in merkjamál
+    show:
+      video: Video
+      return_to_all_videos: aftur í öllum vídeóunum
+      edit_video: Breyta video
+    edit:
+      edit_video: Breyta video
+      return_to_view_video: aftur til að sjá myndband
+      view_video: View video
+    form:
+      edit: Breyta
+  photo_albums:
+    index:
+      photo_albums: Myndaalbúm
+      return_to_editing_profile: Til klippingu upplýsingar
+      create_new: Búa til nýtt
+      return_to_profile: aftur í uppsetningu
+    photo_album:
+      edit: Breyta
+      create: Búa
+      are_you_sure: Ertu viss?
+      delete: Eyða
+    edit:
+      edit_photo_album: Breyta myndaalbúm
+      return_to_photo_albums: Til myndaalbúm
+      view_photo_album: View myndaalbúm
+    form_content:
+      name: Name
+      photo_album_name: Myndaalbúm nafn
+    form:
+      edit: Breyta
+      create: Búa
+    photo_album_uploader:
+      drag_and_drop_your_file: Draga og sleppa skrá
+      here: hér
+      or: eða
+      upload_file: hlaða skrá
+      from_other_sites: Frá öðrum stöðum
+      write_down_link_for_your_image: Skrifaðu niður tengil myndarinnar
+      url_for_image: Url fyrir myndina
+      upload: Hlaða
+      from_facebook: Frá Facebook
+      turn_on_facebook: Kveiktu á Facebook
+      you_can_upload_your_photos_from_facebook: Þú getur sett inn myndir frá Facebook
+      from_vkontakte: Frá VKontakte
+      you_can_upload_your_photos_from_vkontakte: Þú getur sett inn myndir frá VKontakte
+      turn_on_vkontakte: Kveiktu á VKontakte
+      from_instagram: Frá Instagram
+      you_can_upload_your_photos_from_instagram: Þú getur sett inn myndir frá Instagram
+      turn_on_instagram: Kveiktu á Instagram
+      from_dropbox: Frá Dropbox
+      you_can_upload_your_photos_from_dropbox: Þú getur sett inn myndir frá Dropbox
+      turn_on_dropbox: Kveiktu á Dropbox
+    show:
+      photo_album: Myndaalbúm
+      return_to_photo_albums: Til myndaalbúm
+      edit_photo_album: Breyta myndaalbúm
+    modal_form:
+      create_new_photo_album: Búa til nýjan myndaalbúm
+      close: Close
+      create: Búa
+  user_requests:
+    form:
+      content: Content
+      edit: Breyta
+      create: Búa
+  notes:
+    index:
+      notes: Skýringar
+      return_to_edit_profile: Til klippingu upplýsingar
+      create_new: Búa til nýtt
+      return_to_profile: aftur í uppsetningu
+    note:
+      edit: Breyta
+      are_you_sure: Ertu viss?
+      delete: Eyða
+    show:
+      note: Note
+      return_to_notes: aftur í skýringum
+      edit_note: Breyta glósa
+    form_content:
+      content: Content
+      note_content: Note efni
+      edit: Breyta
+      create: Búa
+    edit:
+      edit_note: Breyta glósa
+      return_to_notes: aftur í skýringum
+      view_note: Skoða athugasemd
+  user_to_search_connections:
+    index:
+      requirements_lists: Kröfur listar
+      return_to_editing_profile: Til klippingu upplýsingar
+      create_new: Búa til nýtt
+    user_to_search_connection:
+      edit: Breyta
+      are_you_sure: Ertu viss?
+      delete: Eyða
+    edit:
+      edit_requirements_list: Breyta kröfur listar
+      return_to_requirements_lists: við kröfur listum
+      view_requirements_list: Skoða kröfur listi
+    form_content:
+      name: Name
+      name_of_your_requirements_list: Nafn listanum þörfum þínum
+    form:
+      edit: Breyta
+    show:
+      requirements_list: Kröfur lista
+      return_to_requirements_lists: við kröfur listum
+      edit_requirements_list: Breyta kröfur listi
+  photos:
+    index:
+      photos: Myndir
+      return_to_photo_albums: aftur í myndaalbúmin
+      return_to_profile: að uppsetningu
+  errors:
+    messages:
+      already_confirmed: var þegar staðfest, vinsamlegast reyndu að skrá þig inn
+      confirmation_period_expired: þurfa að vera staðfestar innan% {tímabil}, skaltu
+        biðja um nýjan
+      expired: er liðinn, vinsamlega beðið um nýjan
+      not_found: fannst ekki
+      not_locked: var ekki læst
+      not_saved:
+        one: '1 villa bönnuð þessu% {resource} frá því að vera vistað:'
+        other: "% {count} villur bönnuð þessu% {auðlind} frá því að vera vistuð:"
+    bad_request:
+      bad_request: Bad Request
+      request_result: Beiðni niðurstaða
+      bad_request_description: The framreiðslumaður geta ekki eða vilja ekki afgreiða
+        beiðnina vegna augljós biðlaravilla
+      go_to_root: Fara rót
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable Entity
+      request_result: Beiðni niðurstaða
+      unprocessable_entity_description: The beiðni var vel mynduð, en tókst ekki að
+        fylgja vegna merkingartækni villur
+      go_to_root: Fara rót
+    not_found:
+      not_found: fannst ekki
+      request_result: Beiðni niðurstaða
+      not_found_description: sem umbeðin tilföng fannst ekki, en getur verið í boði
+        í framtíðinni
+      go_to_root: Fara rót
+    forbidden:
+      forbidden: Bannað
+      request_result: Beiðni niðurstaða
+      forbidden_description: The beiðni var gild beiðni, en þjóninn er að neita að
+        svara honum
+      go_to_root: Fara rót
+    internal_server_error:
+      internal_server_error: Innri Framreiðslumaður Villa
+      request_result: Beiðni niðurstaða
+      internal_server_error_description: Eitthvað fór úrskeiðis. Við munum laga það
+        eins fljótt og auðið er.
+      go_to_root: Fara rót
+  pages:
+    privacy:
+      privacy: Flutylove Privacy Policy
+      general_provisions: Almenn ákvæði
+      p_1_1: 1.1. Reglugerðir þessar eru opinbert skjal hlutafélag "Technoelegance",
+        sem staðsett er á 101000, Moskva, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1 (hér eftir Flutylove, félagið, Við), og ákveða málsmeðferð gagnavinnslu
+        og öryggi upplýsinga einstaklinga sem náð hefur 18 ára aldri, og sem nota
+        vefsíðuna https://flutylove.com (hér website) og þjónustu þess (hér eftir
+        notendur).
+      p_1_2: 1.2. Tilgangur reglugerðar þessarar er að tryggja tilhlýðilega vernd
+        þeirra upplýsinga notanda, þ.mt persónuupplýsingum, úr óviðkomandi aðgangi
+        og birtingu.
+      p_1_3: 1.3. Tengsl tengslum við söfnun, geymslu, dreifingu og öryggi upplýsinga
+        Website notanda stjórnast af reglum þessum, önnur opinber skjöl félagsins
+        og gildandi löggjöf í Rússlandi.
+      p_1_4: 1.4. Núverandi útgáfa af reglunum, sem eru opinber skjal, er í boði fyrir
+        hvaða Internet notandi þegar í kjölfar tengilinn http://flutylove.com/pages/privacy~~dobj.
+        Félagið hefur rétt til að breyta þessum reglum. Í tilfelli breytingar eru
+        gerðar á reglugerð, skal félagið tilkynna notendum með því að senda nýja útgáfu
+        af reglunum á heimasíðu á fasta tölu http://flutylove.com/pages/privacy~~pobj,
+        eigi síðar en 10 dögum áður en áhrifarík dagsetning breytinga. Fyrri útgáfur
+        af reglugerðanna eru geymdar í skjölum skjalasafn félagsins.
+      p_1_5: 1.5. Þessar reglugerðir hafa verið þróaðar og eru notuð í samræmi við
+        Vitar. Komi bága milli þessara reglugerða og annarra opinberra skjala félagsins,
+        reglur þessar skal framfylgt.
+      p_1_6: 1.6. Með því að nota vefsvæðið samþykkir þú að skilmála og skilyrði þessa
+        persónuverndarstefnu. Vinsamlegast lestu þá vandlega. Ef þú samþykkir ekki
+        við skilmála þessa Privacy Policy, eða þú hefur ekki náð 18 ára aldri, getur
+        þú ekki notað Website og þjónustu þess. Með því að nota vefsíðu, án tillits
+        til þess hvort þú ert skráður notandi Flutylove eða ekki, staðfestir þú að
+        þú samþykkir að fullu þessa persónuverndarstefnu, og samþykkir að fylgja henni.
+      the_website_using_conditions: vefsíðu með skilyrðum
+      p_2_1: '2.1. Til að nota Website Flutylove, þú þarft að skrá. Eftirfarandi upplýsingar
+        skulu tilgreindar á skráningu: nafn, netfang, jafnrétti, fæðingardag, upplýsinga
+        um staðsetningu. Notandi getur veitt frekari persónulegar upplýsingar á hans
+        / eigin ósk hennar. Notandi getur breytt eða uppfært persónulegar upplýsingar
+        á hverjum tíma. Félagið hefur rétt til að biðja frekari fylgiskjölum ef breyting
+        kyni og fæðingardag notanda.'
+      p_2_2: '2.2. Með því að leyfa aðgang að vefsvæðinu og þjónustu þess, félaginu,
+        sem starfar á eðlilegan hátt og í góðri trú, telur að User: grein fyrir að
+        til skráningar á vefsvæðinu það er nauðsynlegt að vera yfir 18 ára aldri;
+        hefur öll nauðsynleg réttindi til að vera fær um að skrá sig á þessari vefsíðu
+        og nota það; bendir nákvæmar upplýsingar um sjálfan sig / sér samkvæmt beiðnum
+        um notkun á Þjónustunni Vefsíðunnar; er kunnugt um að persónulegar upplýsingar
+        á heimasíðu, veitt af notanda, getur orðið í boði fyrir aðra notendur af the
+        website og Internet notendur eins vel, er hægt að afrita og dreifa með öðrum
+        notendum; er ljóst að sumar tegundir af upplýsingum, flutt til annarra notenda,
+        er ekki hægt að fjarlægja með því að notandinn; er kynnt með reglum þessum,
+        sammála þeim og annast tilgreind réttindi og skyldur.'
+      p_2_3: 2.3. Félagið hefur ekki staðfest nákvæmni berast (safnaði) upplýsingar
+        um notendur, að undanskildum þeim tilvikum þegar slík sannprófun er nauðsynlegt
+        til að uppfylla skuldbindingar félagsins til notandans.
+      information_processing_objectives: upplýsingar vinnslu markmið
+      p_3_1: 3.1. Félagið framkvæmir upplýsingar vinnslu um notendur, þar á meðal
+        persónuupplýsingar þeirra, í því skyni að efna skuldbindingar félagsins til
+        notenda fyrir notkun á vefsvæðinu og þjónustu þess.
+      p_3_2: 3.2 Félagið hefur rétt til að framkvæma vinnslu persónuupplýsinga án
+        þess að tilkynna lögbæru yfirvaldi um vernd réttinda persónuupplýsinga einstaklinga.
+      structure_of_the_user_information: Uppbygging upplýsingar um notanda
+      p_4_1: '4.1. Persónuleg gögn af notendum inniheldur:'
+      p_4_1_1: 4.1.1. nafn, netfang, kyn, fæðingardag, upplýsinga um staðsetningu
+        og símanúmer, sem eru veitt af notenda og átti að vera bara nóg fyrir skráningu
+        á heimasíðu;
+      p_4_1_2: 4.1.2. þær upplýsingar sem er veitt af notanda (til dæmis myndir, upplýsingar
+        um pernicious vana osfrv);
+      p_4_1_3: 4.1.3. auki veitt af notanda í samræmi við fyrirtæki beiðni í því skyni
+        að efna skuldbindingar félagsins til notenda, birtist frá samkomulagi notanda.
+        Félagið hefur rétt til þess, einkum til að biðja um notanda afrit af kennimark
+        skjal eða önnur skjöl, sem innihalda nafn, kyn og fæðingardag, auk annarra
+        viðbótarupplýsingum sem er, að vali félagsins, verður nauðsynlegt og nægja
+        til að greina slíka Notandi og myndi koma í veg fyrir misnotkun og brot á
+        réttindum þriðja aðila.
+      p_4_2: '4.2. vinnslu upplýsinga annar notandi er af fyrirtækinu vefsíða Administration
+        ferli einnig aðrar upplýsingar um notendur, sem telst:'
+      p_4_2_1: 4.2.1. Algengustu gögn, sjálfkrafa berast http-miðlara þegar aðgangur
+        the website og síðari aðgerðir notanda (IP-tölu vélarinnar, gerð stýrikerfis
+        notandans, síður á vefsvæðinu heimsótt af notandanum).
+      p_4_2_2: 4.2.2. Upplýsingar sem er sjálfkrafa berast þegar aðgangur vefsíðu
+        með bókamerki (smákökur);
+      p_4_2_3: 4.2.3. upplýsingar sem berast vegna aðgerða notandans á heimasíðu;
+      p_4_2_4: 4.2.4. upplýsingar sem berast vegna aðgerða annarra notenda á vefsvæðinu.
+      p_5_1: '5.1. Starfsfólk gagnavinnslu er vopnaður út á grundvelli eftirfarandi
+        meginreglna: a) lögmætum tilgangi og leiðir vinnslu persónuupplýsinga; b)
+        heiðarleika; c) fylgni vinnsluhætti persónuupplýsinga tilgangi með tilliti
+        fyrirfram og lýsti þegar safna persónulegum upplýsingum, sem og að farið sé
+        persónuskilríki félagsins; d) samræmi við magn og tegund vinnslu persónuupplýsinga,
+        og farið á því að vinnslu persónuupplýsinga með því er varðar vinnslu hennar;
+        e) inadmissibility sameina búið gagnagrunna fyrir ósamrýmanlegum tilgangi,
+        inniheldur persónuupplýsingar.'
+      p_5_1_1: 5.1.1. Söfnun persónuupplýsinga á Notandi fer fram á heimasíðu þegar
+        skrá, eins og heilbrigður eins og í framtíðinni þegar notandi bætir meiri
+        upplýsingar um sjálfan sig / sjálfri nota vefsíðu verkfæri á hans / hennar
+        eigin frumkvæði.
+      p_5_1_2: 5.1.2. Persónuupplýsingar notenda eru geymd eingöngu á rafrænu formi
+        og unnin með því að nota sjálfvirk kerfi, að undanskildum þeim tilvikum þar
+        sem handbók vinnsla persónuupplýsinga er þörf í ljósi uppfylla lagaákvæði
+        kröfur.
+      p_5_1_3: 5.1.3. Persónuupplýsingar notanda eru ekki flutt til þriðja aðila,
+        nema í þeim tilvikum sem sérstaklega er kveðið um í þessum reglum og Vitar.
+        Með samþykki notanda, persónuleg notandi gögn er hægt að senda til þriðja
+        gagnaðilar félagsins undir ástandi forsendu að skyldu að tryggja trúnað um
+        berast upplýsingar, einkum þegar nota á þjónustu og forrit. Notendahandbók
+        persónuupplýsingar úthlutun á beiðni stjórnvalda (sveitarstjórna) fer fram
+        í aðferðinni sem krafist er með lögum.
+      p_5_1_4: '5.1.4. Starfsfólk notandi gögn eru eytt þegar: - gögn eru sjálfstætt
+        eytt af síðunni sem notandi; - Page er sjálf-eytt af notanda; - Upplýsingar
+        um notanda og persónulega síðu hennar eru fjarlægð með félaginu. Í tilviki
+        bls Eyði af notanda sjálft, félagið geymir persónuupplýsingar notandans á
+        rafrænum miðlum sínum innan 210 daga eftir að persónulega síðu er fjarlægt.
+        Persónuupplýsingar eru eytt þegar liðnir af 210 daga eftir að persónulega
+        síðu er fjarlægt. Þangað þetta tímabil rennur út, notandinn hefur rétt til
+        að endurheimta persónulega síðu.'
+      users_rights_and_obligations: réttindi notanda og skyldur
+      p_6_1: '6.1. Notandi hefur rétt til:'
+      p_6_1_1: 6.1.1. aðgang að upplýsingum um hann / hana án takmarkana og án endurgjalds
+        með því að breyta persónulega síðu hennar á Website með notkun notandanafn
+        og lykilorð;
+      p_6_1_2: 6.1.2. óháð gera breytingar og leiðréttingar á þeim upplýsingum um
+        persónulegar síðunni notandans á heimasíðu, með því skilyrði að slíkar breytingar
+        og leiðréttingar innihalda upp-til-dagsetning og sanna upplýsingar;
+      p_6_1_3: 6.1.3. fjarlægja þær upplýsingar úr persónulegum síðu á vefsvæðinu;
+      p_6_1_4: 6.1.4. óska félagið til að fá nánari upplýsingar, blokk eða eyða persónuupplýsingum,
+        ef slík gögn eru ófullnægjandi, gamaldags, ónákvæm ólögmætum hætti borist
+        eða eru ekki nauðsynlegar í þeim yfirlýsta tilgangi vinnslu eða ef athafnir
+        sem tilgreind eru í lið 6.1.3 í þessum Reglugerðir ekki hægt að innleiða sjálfstætt;
+      p_6_1_5: 6.1.5. á grundvelli beiðni, fá upplýsingar frá félaginu um vinnslu
+        hans / persónuupplýsinga hennar.
+      p_6_2: '6.2. Eftirfarandi upplýsingar um öll skráð Website Notandi er alltaf
+        til staðar á skráð Notandi: nafn, kyn, aldur, prófílmynd notanda og aðrar
+        upplýsingar ef Notandinn hefur staða það.'
+      p_6_3: 6.3. Félagið ber enga ábyrgð á birtingu persónuupplýsinga notandans með
+        öðrum notendum á vefsvæðinu sem hafa nálgast slík gögn.
+      p_6_4: 6.4. Í tilviki persónuupplýsinga (aðrar upplýsingar um notandann) flutningur
+        frá persónulegum síðuna Notanda eða fjarlægja persónulegar síðunni notandans
+        frá vefsvæðinu, upplýsingar um notanda afrita með öðrum notendum eða geymdar
+        á síðum annarra notenda er varðveitt.
+      p_7_1: 7.1. Félagið tekur tæknilega, skipulagi og lagalegar ráðstafanir til
+        að tryggja að persónuupplýsingar notandans eru varinn gegn óheimilum eða slysni
+        aðgangi, eyðingu, breytingu sljór, afritun og miðlun auk annarra óviðkomandi
+        aðgerðum.
+      p_7_2: 7.2. tenging notandans (Netfangið eða farsíma númer) og lykilorð eru
+        notuð til að fá aðgang að vefsvæði. Notandi er ábyrgur fyrir því að halda
+        þessum upplýsingum leyndum. Notandinn má ekki flytja notandanafn og lykilorð
+        til þriðja aðila og er einnig skylt að gera ráðstafanir til að tryggja trúnað
+        hennar.
+      limitation_of_the_regulations_applicability: Takmörkun á reglugerða notagildi
+      p_8: Þessar reglugerðir eru ekki framlengdur til aðgerða og Internet auðlindir
+        þriðja aðila. Félagið ber enga ábyrgð á aðgerðum þriðja aðila sem fékk aðgang
+        að notandi upplýsingum í gegnum Internetið eða website þjónustu. The Website
+        leggur til að notendur til að nálgast málið með magn upplýsinga sem birtar
+        eru á heimasíðu á ábyrgan hátt.
+      user_requests: notandi óskar
+      p_9_1: '9.1. Notendur hafa rétt á að senda beiðnir til félagsins, þ.mt beiðnum
+        um notkun persónuupplýsinga í skriflegu formi á eftirfarandi heimilisfang:
+        Rússland, 101000, Moskva, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1 eða í formi rafrænu skjali undirritað af auknum rafræn undirskrift í samræmi
+        við löggjöf Rússlands, með tölvupósti: support@flutylove.com~~HEAD=pobj.'
+      p_9_2: '9.2. beiðni notanda skulu innihalda eftirfarandi upplýsingar: fjöldi
+        kenninúmer skjal User eða fulltrúa hans; útgáfudag ofangreindum skjal og yfirvaldsins
+        sem gefur út skírteinið; Upplýsingar staðfestir þátttöku notandans samskipti
+        við stjórnanda (einkum á tengilinn á síðuna); undirskrift Notandi eða hans
+        / fulltrúa hennar.'
+      p_9_3: 9.3. Félagið skuldbindur sig til að íhuga og bregðast við beiðni Notanda
+        innan 30 daga eftir að það var tekið.
+      p_9_4: 9.4. Öll bréfaskipti berast félaginu frá notendum (skriflegt eða rafrænt
+        beiðnir) flokkast sem upplýsingar aðgangshömlum og má ekki birta án skriflegs
+        samþykkis notanda. The persónuupplýsingar og aðrar upplýsingar um notanda
+        sem sendi beiðnina má ekki nota án sérstaks samþykkis notanda, á annan hátt
+        en til að bregðast við beiðni eða í tilvikum beinlínis kveðið er samkvæmt
+        gildandi lögum.
+    terms:
+      terms: Flutylove Aftengjast
+      welcome: Velkomin á Flutylove!
+      about_terms: 'Þessir Notkunarskilmálar (eins og skjölum sem vísað er til hér,
+        þar á meðal Persónuvernd) eru að samningi um viðloðun í samræmi við grein
+        428 í Civil Code Rússlands (hér á eftir nefndur "samningurinn") milli einstaklingur
+        sem hefur náð 18 ára aldri (hér eftir vísað til sem "notandi" og félagsins
+        (eða "Við") - a Limited Liability Company "Technoelegance" (LLC "Technoelegance")
+        (Lögheimili: 101000, Moskva, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1), hér á eftir nefnd Flutylove, samkvæmt sem þú getur notað þessa vefsíðu
+        og öll tengd þjónustu í gegnum the website eða forrit (yfirleitt vísað sem
+        "Services"). Vefsíðan er átt við eitthvað af útgáfur hennar, ásamt undir lén
+        flutylove.com og rekur fyrir ýmsum tækjum, þar á meðal vefur-undirstaða útgáfa,
+        hreyfanlegur umsókn og umsókn um félagslega net.Með því að nota þessa vefsíðu
+        samþykkir þú að skilmála samnings og persónuverndarstefnuna. Vinsamlegast
+        lestu þá vandlega. Ef þú samþykkir ekki við skilmála samnings og persónuverndarstefnu,
+        eða þú hefur ekki náð 18 ára aldri, getur þú ekki notað Website og þjónustu
+        þess.Með því að nota vefsvæði, óháð þú ert skráður notandi á Flutylove eða
+        ekki, samþykkir þú alveg með þennan samning og persónuverndarstefnu okkar,
+        sem er innifalinn í þessum samningi á tengilinn og er í boði á vefsvæðinu,
+        og í samræmi við það.Á beiðni notanda, félagið skuldbindur sig til að undirrita
+        þennan samning í hardcopy formi og senda það til einstaklingsins beiðni skjöl.Félagið
+        áskilur sér rétt til að breyta Vitar og hvaða skjal vísað til hennar. Að vera
+        meðvitaðir um breytingarnar sem þú þarft til að halda upp-til-dagsetning upplýsingar
+        um slíkar breytingar með reglulegu millibili. Við munum upplýsa þig um breytingar
+        sem við gerðum á þessari síðu hér fyrir neðan. Breytingar varða ekki aftur
+        og mun koma til framkvæmda innan tíu daga frá birtingardegi. Hins vegar, í
+        tilfelli þeir eru í tengslum við framkvæmd nýrrar þjónustu eða breytingu á
+        löggjöf, það munu taka gildi strax. Ef þú samþykkir ekki við breytingar á
+        samningnum, verður þú að hætta að nota vefsíðu og notkun hennar.'
+      consent_to_accept_the_terms_of_user_agreement: 1. Samþykki til að samþykkja
+        skilmála Vitar.
+      p_1: a. Rafræn samningurinn. Samningur þessi er rafræn útgáfa af samningi, sem
+        lýsir skilmála notkun vefsvæðisins og þjónustu. Með því að skrá þig inn á
+        vefsvæði eða verða User Þú samþykkir samning og samþykkir alla skilmála, skilyrði
+        og fyrirvara sem koma fram eða vísað þar. Þú staðfesta og samþykkir að notendur
+        Flutylove getur verið hluti af netsamfélag sem felur aðrar vefsíður sem tilheyra
+        félaginu eða samstarfsaðilar þess. Því snið á vefsvæðinu er hægt að skoða
+        á öðrum svipuðum vefsíðum og borga áskrifenda frá einni vefsíðu er hægt að
+        hafa samskipti við aðra borga áskrifenda frá öllum vefsvæðum. b. Rafrænu formi.
+        Með því að skrá þig inn á vefsvæði eða verða User, samþykkir þú að veita þér
+        með rafrænum samningi. c. Hardcopy formi. Þú hefur rétt á að fá hardcopy þessa
+        samnings. Þú getur beðið hardcopy útgáfa af þessum samningi áður eða eftir
+        að hann verður undirritaður á rafrænu formi. Vinsamlegast hafðu samband við
+        þjónustu okkar fyrir frekari upplýsingar. d. Aðgangur og niðurhal. Til að
+        fá aðgang að og sækja þessa rafræna samning, verður þú að hafa aðgang að Internetinu
+        eða beint í gegnum tæki með aðgang að Vefföng. Þú þarft að hafa nauðsynlegan
+        búnað til að tengja internetið, þ.e. tölva, mótald eða öðrum aðgang tæki.
+        Vinsamlegast prenta út eintak af samningi þessum og halda henni. Til að hlaða
+        niður á rafrænu formi samningsins, vista það í tölvuna þína með hjálp hvaða
+        texta ritil.
+      the_right_of_using_the_website: 2. hægri notar vefsvæðið.
+      p_2: Þú verður að vera að minnsta kosti átján (18) ára að verða skráður notandi
+        á þessari vefsíðu. Í tilfelli af non-samræmi við kröfur, aðgang að vefsvæðinu
+        verði hafnað. Notkun Website, sem notandinn ætti að vera kunnugt um að persónulegar
+        upplýsingar settar á vefsíðu getur verið í boði fyrir aðra notendur Internet,
+        og félagið er ekki að bera ábyrgð á gjörðum sínum. Með því að nota þessa vefsíðu
+        sem þú halda fram og sér að þú ert rétt, vald og möguleika til að ganga inn
+        í þennan samning og samþykki að fylgja öllum skilmála og skilyrði. Becoming
+        a User þú halda og sér að þú hefur aldrei verið orðið sannfæringu fyrir refsiverðan
+        verknað í tengslum við kynferðislegt ofbeldi. The Website er hannað til einkanota
+        eingöngu. Það er bannað að nota Website fyrir viðskiptalegum tilgangi. Corporate
+        aðilar geta ekki verið notendum þessarar vefsíðu, eins og heilbrigður eins
+        hægt að nota þessa þjónustu eða vefsvæði á tilgangi þeirra. Ólöglegt og /
+        eða óviðkomandi að nota af the website, þar á meðal safna notendanöfn og /
+        eða netföng með hjálp rafrænna eða öðrum tækjum í þeim tilgangi að senda óæskileg
+        skilaboð og tengla er stunduð og getur fyrirtækið gera viðeigandi ráðstafanir
+        samkvæmt lögum, þar á meðal kæra til löggæslu yfirvalda.
+      pricing_and_registration: 3. Verðlagning og SKRÁNING
+      p_3: þú fær til að verða notanda Flutylove á sjálfviljug og án endurgjalds grundvelli
+        með því að skrá á vefsvæðinu. Sem notandi, getur þú notað sérstaka fjölbreytta
+        þjónustu og tækifærum vefsvæðinu. Notandi á vefsvæðinu er einstaklingur skráð
+        á vefsvæðinu samkvæmt komið til og sem hefur náð 18 ára aldri. Þegar þú skráir
+        á vefsvæðinu Notandinn er skylt að veita nauðsynlegar og viðeigandi upplýsingar
+        um fyrirtækið til að ljúka notandasíðu, þar á meðal innskráningu (netfang
+        eða símanúmer) og lykilorð fyrir aðgang að vefsvæðinu, auk nafnið, sem eru
+        einstök fyrir hvern notanda. The form fyrir skráningu getur óskað frekari
+        upplýsinga frá notanda. Notandi er ábyrgur fyrir gildistíma, raun, heilleika
+        og samræmi við lög Rússlands upplýsinga á skráningu, og clearness þess frá
+        kröfum þriðja aðila. Þegar þú skráir User sammála þessum samningi og skuldbinda
+        tilgreind réttindi og skyldur, í tengslum við notkun og starfsemi á vefsvæðinu.
+        Notandi fær fullan aðgang að nota af the website virka. Félagið skuldbindur
+        réttindi og skyldur til notanda, sem tilgreind eru í reglugerð þessari, eftir
+        árangursríka skráningu notanda á vefsvæðinu vinnslu persónuupplýsinga sem
+        notandinn er gert samkvæmt lögmáli Rússlands. The Website Administration vinnur
+        persónuupplýsingar notandans til að veita notandanum með aðgang að notkun
+        Website aðgerðir, þar á meðal fengu persónulega (miða) auglýsingu; sannprófun,
+        rannsóknir og greiningu á þeim gögnum, leyfa til að styðja og bæta virkni
+        og hluta af Website, sem og þróa nýjar aðgerðir og köflum. Félagið tekur allar
+        nauðsynlegar aðgerðir til að vernda persónuupplýsingar um notanda gegn óleyfilegum
+        aðgangi, breytingum, birtingu eða útþurrkun. Félagið veitir aðgang að persónulegum
+        gögnum Notandi aðeins við þá starfsmenn, verktaka og umboðsmenn félagsins,
+        sem þurfa þessar upplýsingar í því skyni að styðja við Website virkni og til
+        að veita notandanum aðgang að nota sína. Félagið á vefsvæðinu hefur rétt til
+        að nota þær upplýsingar sem kveðið af notanda, þ.mt persónuupplýsingum, í
+        því skyni að tryggja að farið sé að kröfum gildandi löggjöf Rússlands (þ.mt
+        forvarnir og / eða bælingu á ólöglegt og / eða ólöglegt aðgerðir notenda).
+        Birting upplýsinga frá notanda má aðeins vera í samræmi við gildandi löggjöf
+        Rússlands að beiðni dómstólsins, löggæslu stofnana, sem og í öðrum tilvikum
+        sem kveðið er á um gildandi lögum í Rússlandi. Að því marki sem félagið vinnur
+        úr persónuupplýsingum um notandann um framkvæmd þessarar reglugerðar, samþykki
+        notandans til vinnslu persónuupplýsinga er ekki krafist í krafti ákvæða laga
+        um persónuvernd. The innskráningu og lykilorð valið af notanda eru nauðsynlegar
+        og nægilegar upplýsingar fyrir aðgang notanda að vefsíðunni. Notandi hefur
+        rétt til að gefa hans / notandanafn sitt og lykilorð til þriðja aðila, og
+        er algerlega ábyrgur fyrir öryggi þess, að velja leið til að geyma þá á óháðum
+        grundvelli. Notkun hans / vélbúnaður hennar og hugbúnaði sem notandinn getur
+        heimilað geymslu á innskráningu og lykilorð (með kökum) fyrir síðari sjálfvirka
+        leyfi á vefsvæðinu. Sérhver aðgerð með því að nota notandanafn notanda og
+        lykilorð teljast framin af notanda, nema hið gagnstæða er sannað af notanda.
+        Notandinn er skylt að þegar í stað tilkynna félaginu í samræmi við hefðbundið
+        verklag í tilfelli af óviðkomandi aðgang að notandanafni og aðgangsorði og
+        / eða reikningssíðuna, eða birtingu á innskráningu og lykilorð. Eftir skráningu
+        User öðlast rétt til að búa, nota, og ákveða innihald hans / hennar eigin
+        persónulegum síðum á sjálf-áhuga og án viðskiptatilgangs tilgangi, auk fá
+        tækifæri til að komast og skrifa upplýsingar á persónulegum síðum annarra
+        notenda . Notandi sem eiganda upplýsinganna sem birtar eru á persónulega síðu
+        er ljóst að undanskildum tilvika komið af þessum reglugerðum og núverandi
+        löggjöf Rússlands, félagið tekur ekki þátt í þróun og notkun á efni og stjórnar
+        ekki aðgang að síðunni notanda frá öðrum notendum.
+      terms_4: 4. kjörum.
+      p_4: Samningur þessi fullu enn í gildi og áhrif svo lengi sem þú notar vefsvæðið.
+        Þú getur hætt að vera notandi á vefsvæðinu með því að fjarlægja síðuna þína
+        hvenær sem er, af hvaða ástæðu, því að hafa samband Online Customer okkar
+        Þjónusta eða með því að nota þjónustu website. Félagið áskilur sér rétt til
+        að eyða persónulegar síðunni hvenær sem er. Við erum ekki skylt að láta þig
+        vita áður en þú eyðir á síðunni, ef félagið hefur ástæðu til að ætla að þú
+        hafir brotið skilmála samningsins. Við erum ekki skylt að birta ástæðu til
+        að eyða af reikningnum þínum; í sumum tilfellum getur verið óheimil birting
+        slíkra upplýsinga. Eftir að eyða af síðunni þinni, öllum skilyrðum sem kunna
+        að vera í gildi eftir uppsögn samnings þessa í eðli sínu verður í gildi eftir
+        slíka uppsögn. Ef þú eyðir á síðuna þína í gegnum Website á eigin vild þinni,
+        getur verið að við biðjum þig um að tilgreina ástæðu slíkra eyðingu.
+      account_security: 5. Reikningur Öryggi.
+      p_5: þú ert ábyrgur fyrir trúnað varðveislu notendanafnið þitt og lykilorð,
+        sem verður sett á þeim tíma sem skráning. Einnig, þú ert algerlega ábyrgur
+        fyrir öllum aðgerðum sem eiga sér stað undir notendanafni þínu og lykilorði.
+        Þú samþykkir að (a) þegar í stað tilkynna okkur um óheimila notkun á innskráningu
+        og lykilorð, sem og annar öryggi brot, og (b) hætta reikninginn þinn í lok
+        hverrar lotu. The Website er ekki ábyrgt fyrir tjóni eða tapi sem stafar af
+        vanefnda þessa ákvæðis. Þú ættir að vera sérstaklega varkár þegar aðgang að
+        reikningnum þínum í gegnum opinber tölva til þess að óviðkomandi gætu ekki
+        njósna eða taka lykilorðið þitt eða aðrar persónulegar upplýsingar. Þú staðfestir
+        einnig og samþykkir að Netið væri aldrei fullkomlega persónulegur og örugg.
+        Þú skilur að allir skilaboð eða upplýsingar sem þú birtir á vefsvæðinu má
+        lesa eða notuð af öðrum notendum, jafnvel ef það er sérstakt viðvörun að upplýsingarnar
+        séu falin.
+      your_interaction_with_other_users_of_the_website: 6. samskiptum þínum við aðra
+        notendur af the website.
+      p_6: a. Þú berð ábyrgð á samskiptum þínum með öðrum notendum. Þú ættir að skilja
+        að félagið sé ekki staðfest notenda sinna því hvort þau hafi sakavottorð.
+        THE COMPANY heldur ekki krafist sömu upplýsinga um fortíð notenda sinna og
+        ekki fullgilda þessar upplýsingar. THE COMPANY gerir enga ábyrgð varðandi
+        hegðun notenda og samhæfni við raunverulegan eða framtíð notendum. JAFNFRAMT
+        Félagið áskilur sér rétt til að staðfesta notenda fyrir sakavottorð eða framkvæmir
+        önnur sannprófun HVENÆR nota laus opinberum upplýsingum. b. Í engu tilfellanna
+        sem fyrirtækið er ekki ábyrgt fyrir SKAÐA hvort þeir eru bein, óbeinu, GENERAL
+        eða hafa sérstakt eðli, bætandi, OG / eða tilfallandi, SEM ÞÉR EÐA NEINUM
+        ÖÐRUM einstaklinga vegna þess að nota af the website, MEÐAL, EN EKKI EINGÖNGU,
+        meiðslum, streitu og / eða öðrum tjóni, SEM ÞÚ FÆRÐ VEGNA samskipti eða fundi
+        með öðrum Innskráðir notendur vefsvæðisins eða fólks, sem þú takast á við
+        á heimasíðunni. Þú samþykkir að taka allar mögulegar varúðarskyni í samskiptum
+        við aðra notendur, sérstaklega í þeim tilvikum, þegar þú ákveður að hitta
+        þá í raunveruleikanum. Þú ættir að vita, hvaða fyrirtæki er ekki að gefa yfir
+        eða VEITT ÁBYRGÐ er varða eindrægni með notendum þessarar vefsíðu. Ekki gefa
+        þeim fjárhagsupplýsingum til annarra notenda á vefsvæðinu (td upplýsingar
+        um kredit- eða plast spil). c. Þjónustan getur þýtt nafn þitt eða nafn á bænum
+        til annarra tungumálum; d. Þjónustan er ekki ábyrgt fyrir aðgerðum sem taldar
+        eru upp í þessari grein. Í tilfelli þú ert ekki sammála þeim alveg eða að
+        hluta, VINSAMLEGAST strax yfirgefa heimasíðu;
+      the_information_posted_by_you_on_flutylove: 7. UPPLÝSINGAR Posted by ÞIG Á FLUTYLOVE
+      p_7: a. Þú ert ábyrg fyrir þeim upplýsingum sem þú birtir eða sýna (hér eftir
+        "staða") á þjónustunni eða flytja til annarra notenda. Þú hefur ekki heimild
+        til að skrifa á Þjónustunni eða flytja til annarra notenda neinar upplýsingar
+        um ærumeiðandi, ónákvæmar, móðgandi, særandi, dónaleg og árásargjarn efni,
+        upplýsingar um kynferðislegt efni, auk ógnandi eða stöngull upplýsingar, upplýsingar
+        um kynþáttamisrétti náttúrunni eða ólöglegt upplýsingar, eða aðrar upplýsingar
+        sem brjóta eða brjóta gegn réttindum annarra aðila (þ.mt, án takmörkunar,
+        hugverkarétti, réttindi einkalífs og kynningar). Þú hefur ekki heimild til
+        að veita rangar, villandi eða rangar upplýsingar til félagsins eða annar notandi.
+        Ef upplýsingarnar til félagsins Flutylove eða annan User verður síðan ónákvæm,
+        villandi rangar, verður þú þegar í stað tilkynna félaginu Flutylove slíkrar
+        breytingar. Þú leggur og ábyrgist að allar upplýsingar á skráningu er satt
+        og rétt, og þú skiptir strax einhverjar upplýsingar sem síðar verður ónákvæmar,
+        villandi eða rangar. b. Þú skilur og samþykkir að við áskiljum okkur rétt,
+        en ekki skylt að fylgjast með upplýsingar eða efni sem er flutt til þjónustunnar
+        eða staða í almennan aðgang á þjónustunni. Við höfum rétt til að eyða einhverju
+        slíkra upplýsinga eða efnis án framselja einhverjum ástæðum og tilkynningar.
+        c. Allir hlutir birt á heimasíðu, þar á meðal hönnun frumefni, texta, grafík,
+        myndir, myndbönd, forskriftir, forrit, tónlist, hljóðum og öðrum hlutum og
+        bókasöfn þeirra (hér á eftir - upplýsingar), eru eign einkarétti félagsins,
+        notendur Vefsíðan og aðrar rétthafar, öll réttindi til þessara hluta eru vernduð.
+        d. Nema eins og komið er í samræmi við ákvæði samnings þessa, sem og gildandi
+        löggjöf í Rússlandi, engar upplýsingar má afrita (afrita), unnin, dreift,
+        birtist í ramma, sem birt, niður, flutt, selt eða notað á annan hátt í heild
+        eða í hlutum án undangengins leyfi handhafa, nema rétthafa sérstaklega lýst
+        samþykki sitt frjálsa notkun upplýsinganna með hvaða einstaklingi. e. Með
+        því að senda upplýsingarnar á vefsvæðinu löglegan hátt tilheyra notanda, sem
+        notandi gefur aðgang annarra notenda fyrir utan einkaréttar til að nota það
+        með því að skoða, spilun (þar með talið afritun) og önnur réttindi eingöngu
+        í þeim tilgangi að persónulegra ekki í viðskiptalegum tilgangi, nema þeim
+        tilvikum þegar slík notkun veldur eða getur valdið skaða hagsmuni rétthafa
+        verndað með lögum. f. The notkun af upplýsingum af notanda, sem aðgangur var
+        fengist eingöngu fyrir persónulega non-auglýsing nota, er heimilt með því
+        skilyrði að öll merki um höfunda (höfundarrétt) eða aðrar tilkynningar um
+        höfunda verður haldið, nafn höfundar og vöru sína vilja vera vinstri án breytinga.
+        g. Notandi veitir einnig félagið með a non-einkarétt til að nota upplýsingarnar
+        settar á heimasíðu og tilheyra honum / henni á löglegan hátt án tillits til
+        þess að tryggja starfsemi vef félagsins innan frammistöðu arkitektúr og virkni
+        Website. The non-einkarétt vísað ofan er veitt fyrir Content staðsetningu
+        á vefsvæðinu og nær yfirráðasvæði löndum um allan heim. Félagið hefur rétt
+        til að flytja réttindi sem vísað er til þessarar málsgreinar til þriðja aðila.
+        Notandi samþykkir að félagið hefur rétt til að nota starfrænu og tæknilegu
+        möguleika á vefsvæðinu, enda sýna á Samnýting efnis af notanda, þ.mt að því
+        er varðar að sýna af auglýsingu upplýsinga. hi. Ef notandinn eyðir upplýsingar
+        frá vefsíðu, non-einkarétt verður sjálfkrafa afturkölluð, en vegna tækniforskriftir
+        vefsvæðinu félagið áskilur sér rétt til að spara afrit af upplýsingunum innan
+        tilskilins tíma og þar sem þarf. i. Burtséð frá almennum upplýsingum, Notandi
+        hefur ekki rétt til að hlaða eða birta í annan hátt (með því að birta á heimasíðunni)
+        á upplýsingar um öðrum stöðum, gagnagrunna og annarra hugverka í fjarveru
+        af beinlínis lýst samþykki slíkra aðgerða frá höfundarrétti eigandi. j. Ef
+        annað er ekki tekið fram í reglum þessum, eitthvað í þessum reglugerðum er
+        ekki hægt að líta á sem framsal einkaréttar á upplýsingum. k. Allar upplýsingar
+        sem þú birtir á notendalýsinguna, verður að vera nákvæm, upp-til-dagsetning
+        og heill. Notandinn er algerlega ábyrg fyrir hvaða upplýsingar sem var hlaðið
+        eða birt í mismunandi hátt (staða) á heimasíðu eða með aðstoð notanda. Notandi
+        hefur ekki réttindi til að hlaða, flytja eða birta efnið á vefsvæði, ef hann
+        / hún hefur ekki tilskilin réttindi til að grípa til slíkra aðgerða, aflað
+        eða falið honum / henni í samræmi við löggjöf í Rússlandi. Félagið fær, en
+        er ekki skylt, að skoða vefsíðu fyrir hvaða ólöglegu efni og er leyft að eyða
+        eða flytja (án fyrirvara) neitt efni eða notendur í einhliða, hvaða ástæðu
+        eða án orsaka, þ.mt án takmörkunar að færa, eða eyða upplýsingum sem, í samræmi
+        við einstaklingsbundnar áliti félagsins brýtur þennan samning, löggjöf Rússlands
+        og / eða brjóti í bága við réttindi skaða, eða stofni öryggi annarra notenda
+        eða þriðju aðila. Vefsvæðið inniheldur (eða geta innihaldið) tengla á aðrar
+        síður á internetinu (vefsíður þriðju aðila) auk greinar, ljósmyndir, teikningar,
+        grafík, tónlist, hljóð, vídeó, upplýsingar, forrit, hugbúnað og aðrar upplýsingar
+        sem tilheyra eða koma frá þriðja aðila (þriðja aðila), sem er afleiðing af
+        vitsmunalegri starfsemi og er vernduð í samræmi við löggjöf í Rússlandi. Þessir
+        þriðju aðilar og upplýsingar þeirra eru ekki staðfest af félaginu fyrir samræmi
+        við þetta eða aðrar kröfur (nákvæmni, heilleika, heiðarleika, o.fl.). Félagið
+        er ekki ábyrgt fyrir innihaldi staða á þriðja aðila staður sem notandinn fær
+        aðgang í gegnum vefsíðu eða í gegnum þær upplýsingar til þriðja aðila, þar
+        með talið, en ekki takmarkað við neinum skoðunum eða yfirlýsingar gefnar á
+        vefsvæði þriðja aðila eða í upplýsingum þeirra. The hlekkur til hvaða staður,
+        vöru og þjónustu, allar upplýsingar verslunar og ekki viðskiptalegs eðlis
+        sem eru á þessari vefsíðu er ekki samþykki eða meðmæli fyrir þessar vörur
+        (þjónustu) frá félaginu. Ef notandi ákveður að yfirgefa Website og fara á
+        vefsíður þriðja aðila eða til að nota eða setja þriðja aðila hugbúnað, gerir
+        hann / hún það á eigin ábyrgð og frá þeirri stundu reglur þessar eru ekki
+        lengur beitt til notanda. Frekari aðgerðir User mið af gildandi reglum og
+        stefnu, þ.mt viðskiptaháttum þeirra einstaklinga sem upplýsingar sem hann
+        / hún er að fara að nota.
+      forbidden_actions: 8. forboðna aðgerðir.
+      p_8: a. Það er bannað að "halda grannt á" eða trufla hvaða manneskja á annan
+        hátt. b. Það er bannað að nota þjörkum, vírusa, forrit til að leita / þykkni
+        staður, eða önnur handbók eða sjálfvirkur tæki eða aðferð til að vinna úr,
+        vísitölu, "njósnir" eða endurskapa í öðrum hætti eða sniðganga flakk uppbyggingu
+        og sýna á þjónustunni eða innihaldi hans . c. Það er bannað að senda, dreifa
+        eða fjölfalda everyway höfundarréttarvarið upplýsingar, vörumerki eða aðrar
+        upplýsingar verndað af höfundarrétti án samþykkis frá höfundarrétti eigandi.
+        d. Það er bannað að fjarlægja allar höfundarrétt, vörumerki eða önnur höfundarréttartilkynningarnar
+        sem eru á þjónustunni. e. Það er bannað að trufla eða trufla rekstur þjónustunnar
+        og vefsíðu eða þjónustu og net tengdur við þjónustu eða vefsvæði. f. Það er
+        bannað að birta, tölvupóst eða flytja á annan hátt þær upplýsingar sem inniheldur
+        vírusa eða önnur tölva, skrár eða forrit sem eru hönnuð til að trufla, eyðileggja
+        eða takmarka virkni hvaða tölvu hugbúnaði, vélbúnaði eða fjarskiptabúnaðar.
+        g. Það er bannað að móta haus eða vinna útnefningu í þeim tilgangi að dylja
+        raunverulega merkingu hvers kyns upplýsingar sameiginlegum gegnum þjónustuna.
+        klst. Það er bannað að "móta" eða "afrit" þann hluta þjónustunnar eða vefsíðu
+        án skriflegs leyfis frá Flutylove. Einnig getur þú ekki notað hvaða meta tags
+        eða kóða, eða önnur tæki sem innihalda tengla á Flutylove, þjónustu eða vefsvæði
+        til að beina nokkrum einstaklingi að annar staður í hvaða tilgangi. i. Það
+        er bannað að breyta, aðlaga, sublicense, þýða, selja, endurskipuleggja, ráða,
+        bakþýða eða taka í sundur einhvern hluta af þjónustunni eða website, eða hvaða
+        hugbúnaður notaður á vefsvæðinu eða fyrir það, eins og heilbrigður eins og
+        hvetur aðra til að taka til svipaðra aðgerða . j. Það er bannað að birta neinar
+        upplýsingar með klámmyndir og / eða erótískur efni.
+      the_changes_in_the_service: 9. breytingar á þjónustunni.
+      p_9: Flutylove áskilur sér rétt hvenær sem er til að breyta eða slökkva tímabundið
+        eða varanlega þjónustuna (eða það er hluti) án fyrirvara. Þú samþykkir að
+        Flutylove er ekki ábyrgt fyrir þig eða þriðja aðila fyrir hvers konar breytingar,
+        tímabundið framboði eða heill óvirkt þjónustunni.
+      ip_address_blocking: 10. IP ADDRESS sljór.
+      p_10: Í því skyni að vernda heilleika Website, Flutylove áskilur sér rétt hvenær
+        sem er á eigin þægindi þess að loka IP-tölur tilteknum notendum.
+      relations_between_users_online: 11. Tengsl milli Notendur Online
+      p_11: þú ert ábyrg fyrir samskiptum þínum við aðra notendur Flutylove. Flutylove
+        áskilur sér rétt, en ekki skyldu, til að fylgjast með deilum milli þín og
+        annarra notenda.
+      security_and_communication: 12. ÖRYGGI OG SAMSKIPTI.
+      p_12: Notkun á vefsvæðinu og / eða þjónustunnar er einnig stjórnað af persónuverndarstefnu
+        okkar. Þegar þú verður User, samþykkir þú og samþykki til að fá tilkynningar
+        frá okkur. Þessi tölvupóstur getur táknað tilkynningarnar um rekstur eða öðrum
+        tilkynningum sem tengjast þjónustunni, svo sem stjórnsýslu skiltum og opinberum
+        tilkynningum um breytingar eða tölvupósti sem innihalda auglýsing tilboð,
+        kynningarefni, sérstök tilboð frá okkur, eða upplýsingar um aðgerðir aðra
+        notendur um þinn notandi reikningur. Vinsamlegast lestu persónuverndarstefnu
+        okkar til að vita meira um slíkar tilkynningar.
+      denial_of_responsibility: 13. afneitun ábyrgð.
+      p_13: a. Flutylove er ekki ábyrgt fyrir hvaða rangar eða ónákvæmar upplýsingar
+        sem birtar eru á heimasíðunni eða er í tengslum við þjónustu, notendur vefsins
+        eða hvaða vélbúnað eða hugbúnað sem tengist þjónustunni okkar eða notuð þar.
+        Flutylove er ekki ábyrgt fyrir hegðun, bæði á netinu og offline, hvers notanda
+        á vefsvæðinu. Flutylove tekur ekki á ábyrgð fyrir einhverjar villur, yfirsjónir,
+        truflun, eyðingu, tjón eða töf í rekstri eða starfsemi, fjarskipti línu bilun,
+        þjófnaði eða eyðileggingu, fyrir óheimilum aðgangi eða breytast samskipti
+        línur af notanda. Flutylove er ekki ábyrgt fyrir öllum vandamálum eða tæknilegrar
+        bilunar af einhverju síma net eða línur, tölvan netinu kerfi, framreiðslumaður
+        eða þjónustuveitenda, tölvubúnaði, hugbúnaði, mail eða leikmenn bilun í the
+        notandi reikningur, tæknileg vandamál eða þrengslum á Netinu eða á hvaða vefsíðu
+        eða samsetningu hennar, að meðtöldu slysum eða meiðslum til notenda eða þriðju
+        aðila sem tengjast tölvu eða vegna þátttöku í eða sækja upplýsingar sem tengjast
+        við netið og / eða þjónustu. Undir engum kringumstæðum Flutylove félaginu
+        eða einhverju tengja hennar, auglýsingar agents, stofnendur eða dreifingu
+        samstarfsaðila mun ekki ábyrgð á tapi eða skemmdum, þ.mt líkamstjóns eða dauða,
+        vegna þess að nota á vefsvæðinu eða þjónustunni, allir efni staða á vefsvæðinu
+        eða einhverjar milliverkanir milli notenda á vefsvæðinu, bæði á netinu og
+        offline. The Website og þjónustan er veitt á AS er grunnur, og Flutylove skýrt
+        hafnar allir ábyrgð eða hæfni fyrir tiltekinn tilgang, eða ekki brot á réttindum
+        neinum. Flutylove getur ekki ábyrgst og ekki lofa af neinum sérstökum árangri
+        frá því að nota af the website og / eða þjónustunni.
+      links: 14. tenglum.
+      p_14: a. Flutylove er ekki ábyrgt fyrir hvaða rangar eða ónákvæmar upplýsingar
+        sem birtar eru á heimasíðunni eða er í tengslum við þjónustu, notendur vefsins
+        eða hvaða vélbúnað eða hugbúnað sem tengist þjónustunni okkar eða notuð þar.
+        Flutylove er ekki ábyrgt fyrir hegðun, bæði á netinu og offline, hvers notanda
+        á vefsvæðinu. Flutylove tekur ekki á ábyrgð fyrir einhverjar villur, yfirsjónir,
+        truflun, eyðingu, tjón eða töf í rekstri eða starfsemi, fjarskipti línu bilun,
+        þjófnaði eða eyðileggingu, fyrir óheimilum aðgangi eða breytast samskipti
+        línur af notanda. Flutylove er ekki ábyrgt fyrir öllum vandamálum eða tæknilegrar
+        bilunar af einhverju síma net eða línur, tölvan netinu kerfi, framreiðslumaður
+        eða þjónustuveitenda, tölvubúnaði, hugbúnaði, mail eða leikmenn bilun í the
+        notandi reikningur, tæknileg vandamál eða þrengslum á Netinu eða á hvaða vefsíðu
+        eða samsetningu hennar, að meðtöldu slysum eða meiðslum til notenda eða þriðju
+        aðila sem tengjast tölvu eða vegna þátttöku í eða sækja upplýsingar sem tengjast
+        við netið og / eða þjónustu. Undir engum kringumstæðum Flutylove félaginu
+        eða einhverju tengja hennar, auglýsingar agents, stofnendur eða dreifingu
+        samstarfsaðila mun ekki ábyrgð á tapi eða skemmdum, þ.mt líkamstjóns eða dauða,
+        vegna þess að nota á vefsvæðinu eða þjónustunni, allir efni staða á vefsvæðinu
+        eða einhverjar milliverkanir milli notenda á vefsvæðinu, bæði á netinu og
+        offline. The Website og þjónustan er veitt á AS er grunnur, og Flutylove skýrt
+        hafnar allir ábyrgð eða hæfni fyrir tiltekinn tilgang, eða ekki brot á réttindum
+        neinum. Flutylove getur ekki ábyrgst og ekki lofa af neinum sérstökum árangri
+        frá því að nota af the website og / eða þjónustunni.
+      limitation_of_responsibility: 15. takmörkun á ábyrgð.
+      p_15: vefsíðu og verksvið hennar meðtöldum öllum skriftum, forrit EFNI OG HÖNNUN
+        á vefsvæðinu eiga að vera AS upplýsingar er grunnur. THE COMPANY neitar ábyrgð
+        sem vefsíðu eða störfum sínum getur hentað eða óhentug FYRIR SÉR-TILGANG í
+        notkun. Félagið getur ekki ábyrgst og ekki lofa ALLIR tilteknum árangri af
+        notkun af the website og / eða störfum hennar; Til að forðast rugling, sem
+        notandinn ætti að fylgjast Öryggisráðstafanir þegar sækja FRÁ vefsíðu eða
+        í gegnum útsendur tengla og nota á neinar skrár, auk hugbúnaðar. THE COMPANY
+        mjög mælt með að NOTA aðeins leyfi hugbúnaður eins og heilbrigður eins og
+        antivirus hugbúnaður; Með því að nota HEIMASÍÐA, notandi samþykkir að niðurhal
+        frá vefsíðu eða með hjálp þess hvaða efni hans / hennar eigin áhættu og ábyrg
+        fyrir mögulegu niðurstöður frá því að nota þessar upplýsingar, þ.mt hvers
+        konar skaða sem það kann lætur tölvu notandans eða þriðju AÐILAR, gögn tap,
+        eða öðru tjóni; UNDIR ENGUM kringumstæðum félag eða umboðsmenn hans bera ekki
+        ábyrgð til notanda eða þeim þriðja aðila sem óbeinu, slysni og UNWILFUL TJÓN,
+        þ.mt tap bóta, eða glataður gögn, skemmdir heiður, virðingu eða fyrirtæki
+        mannorð, sem stafar af Notkun vefsvæðisins, innihald þess eða aðrar upplýsingar
+        sem þú eða einhver annar fengið aðgang í gegnum vefsíðu, jafnvel þótt félagið
+        varaði eða Tilgreinir möguleika á slíku tjóni.
+      responsibilities_of_the_parties: 16. Skyldur samningsaðila.
+      p_16: Samningur þessi er stjórnast af og túlka í samræmi við löggjöf í Rússlandi.
+        Þau mál sem voru ekki leystar með samninginn upp í samræmi við löggjöf í Rússlandi.
+        Komi deilur eða deilur í tengslum við framkvæmd þessarar reglugerðar, User
+        og mun félagið kappkosta að leysa þau með viðræðum. Í tilviki deilur verða
+        ekki leyst með samningaviðræðum, deilur skal upp í samræmi við gildandi löggjöf
+        í Rússlandi. Samningur þessi er framkvæmd í rússnesku tungumáli og hægt er
+        að veita notanda til endurskoðunar á öðru tungumáli. Í tilviki ósamræmi við
+        útgáfu reglugerða í rússneska tungumál og útgáfu á öðru tungumáli, útgáfa
+        á rússnesku tungumáli ákvæðum þessarar reglugerðar skal beita. Ef fyrir einn
+        ástæða eða annar, einn eða fleiri ákvæðum reglugerðar þessarar verður lýst
+        ógild eða ógild, þetta hefur ekki áhrif á gildi eða fullnustuhæfi ákvæði hinum.
+      other_provisions_and_changes: 17. ÖNNUR ÁKVÆÐI og breytingar.
+      p_17: Samningur þessi er satt samningur milli þín og Flutylove um að nota af
+        the website og / eða þjónustu. Ef einhverju ákvæði þessa samnings tóm, restin
+        af samningnum er gildi hennar í fullu gildi. Samningi þessum má breytt með
+        Flutylove hvenær sem er. Vinsamlegast ekki hika við að hafa samband við okkur
+        með einhverjar spurningar varðandi þennan samning.
+      read_this: Ég hef lesið þennan samning og samþykktu alla skilmála þess.
+    about:
+      about_flutylove: Um Flutylove
+      about_flutylove_text: Flutylove er alþjóðlegt félagslega skemmtun net fyrir
+        datings. Hér getur þú fundið vini, a soulmate, samstarfsaðila eða bara eyða
+        tíma með njóta með því að spila leiki eða horfa á vídeó / myndir.
+      flutylove_features: 'Þegar þú skráir þig á síðuna okkar, getur þú fundið út
+        margar aðgerðir, svo sem:'
+      video_call_feature: Þú getur spjallað við félaga með webcam
+      extended_search: Þú getur notað Ítarleg leit fyrir frjáls
+      multilanguages: Þú getur leitað samstarfsaðila frá öðrum löndum, vegna þess
+        að þjónusta okkar ráð fyrir að nota með breiður svið af fólki frá öðrum löndum
+        þar sem það er þýtt meira en 70 tungumálum
+      play_games_chatting_etc: Þú getur spjallað við aðra, spila leiki og gera annað
+        félagslega efni
+      we_are_in_social_networks: 'Við erum í félagslega net:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google plús
+      instagram: Instagram
+      github: github
+      we_use_open_source_and_high_technology: Við notum hár tækni og opinn bókasöfnum
+        uppspretta. Við reynum alltaf að fá betri og bæta þjónustuna okkar.
+      partners_and_investors: Við erum opnari fyrir samstarfi og viljum við finna
+        fjárfesta. Ef þú vilt vinna með okkur vinsamlegast hafðu samband við okkur
+        á partnership@flutylove.com
+    faq:
+      faq: FAQ
+      what_is_flutylove: Hvað er Flutylove?
+      about_flutylove: Flutylove er alþjóðlegt félagslega skemmtun net fyrir datings.
+        Hér getur þú fundið vini, a soulmate, samstarfsaðila eða bara eyða tíma með
+        njóta með því að spila leiki eða horfa á vídeó / myndir.
+      what_features_has_flutylove: Hvað lögun er Flutylove?
+      flutylove_features: Hér getur þú spjallað við videocams, nota Ítarleg leit,
+        leita samstarfsaðila frá öðrum löndum, spila leiki og gera aðra félagslega
+        efni.
+      i_have_some_requests: Ég hef nokkrar beiðnir
+      you_can_write_request: Þú getur skráð þig og skrifa það
+      here: hér
+      i_have_seen_some_typo_or_wrong_translation: Ég hef séð nokkur innsláttarvillu
+        eða rangt þýðingu
+      you_can_send_pull_request_to_our: Hægt er að senda draga Beiðni um okkar
+      github_repository: GitHub geymsla
+      i_have_seen_some_error: Ég hef séð nokkur villa
+      you_can_send: Þú getur sent okkur athugasemdir með
+      feedback: þessu formi
+      to_us_or_write_to_our_info_mail: eða skrifa tölvupóst á support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Velkomin á Flutylove
+      you_have_successfully_signed_up_to_flutylove: Þú hefur verið skráð sig til Flutylove
+      you_can_sign_in_with_your_social_networks: Ef þú vildi eins og til að skrá þig
+        inn aftur þú getur skráð þig inn með félagslegur net reikning þinn
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Ef
+        þú vildi eins og til að skrá sig inn með netfangi og lykilorði sem þú getur
+        breytt lykilorðinu með þig út og smelltu á tengilinn hér að neðan
+      change_password: Breyta lykilorði
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: röng
+            search_for:
+              search_for_error: röng
+            birth_date:
+              birth_date_error: þarf að vera meiri en 18 og minna síðan 115
+            interests:
+              interests_error: þarf að vera minna en 2000 tákn
+            jobs:
+              jobs_error: þarf að vera minna en 2000 tákn
+            languages:
+              languages_error: þarf að vera minna en 2000 tákn
+            sex_keywords:
+              sex_keywords_error: þarf að vera minna en 2000 tákn
+            my_turn_ons:
+              my_turn_ons_error_error: röng
+            contacts:
+              contacts_length_error: þarf að vera minna en 2000 tákn
+              contacts_size_error: þarf að vera minna en 21 dagar
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: hefur ógilt gildi
+  devise:
+    confirmations:
+      confirmed: reikninginn þinn tókst staðfest.
+      send_instructions: Þú munt fá tölvupóst með leiðbeiningum um hvernig á að staðfesta
+        reikninginn þinn í nokkrar mínútur.
+      send_paranoid_instructions: Ef netfangið þitt er hjá okkur, munt þú fá tölvupóst
+        með leiðbeiningum um hvernig á að staðfesta reikninginn þinn í nokkrar mínútur.
+      new:
+        send_mail_for_confirm_your_email: Senda póst til að staðfesta tölvupóstinn
+          þinn
+        submit: Senda
+    failure:
+      already_authenticated: þú ert nú þegar í.
+      inactive: Þessi reikningur er ekki virkur enn.
+      invalid: Ógilt netfang eða lykilorð.
+      locked: reikningurinn þinn er læstur.
+      last_attempt: Þú ert eina tilraun áður reikningurinn verður læst.
+      not_found_in_database: Ógilt netfang eða lykilorð.
+      timeout: setu útrunnið. Vinsamlegast skráðu þig inn aftur til að halda áfram.
+      unauthenticated: Þú þarft að skrá þig inn eða skrá þig áður en þú heldur áfram.
+      unconfirmed: Þú þarft að staðfesta reikninginn þinn áður en haldið er áfram.
+    mailer:
+      confirmation_instructions:
+        subject: Staðfesting leiðbeiningar
+        welcome_to_flutylove: Velkomin á Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Þú getur staðfesta
+          netfangið þitt í gegnum tengilinn hér fyrir neðan
+        confirm_my_account: Staðfesta tölvupóst minn
+      reset_password_instructions:
+        hello: Hello
+        subject: Endurstilla leiðbeiningar lykilorð
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Einhver
+          hefur beiðnum tengil til að breyta lykilorðinu þínu. Þú getur gert þetta
+          í gegnum tengilinn hér fyrir neðan.
+        change_my_password: Breyta lykilorðinu mínu
+        if_you_didnt_request_this_please_ignore_this_email: Ef þú baðst ekki um þetta
+          vinsamlegast hunsa þennan póst.
+      unlock_instructions:
+        subject: Aflæsa Leiðbeiningar
+    omniauth_callbacks:
+      failure: Gat ekki auðkennt þig frá% {tagi} vegna þess að "% {ástæða}".
+      success: Tókst sannvotta frá% {góður} reikning.
+    passwords:
+      no_token: Þú getur ekki aðgang að þessari síðu án þess að koma frá endurstilla
+        aðgangsorðið í tölvupósti. Ef þú kemur frá endurstilla aðgangsorðið í tölvupósti,
+        skaltu ganga úr skugga um að þú notaðir að fullu gefin upp.
+      send_instructions: Þú munt fá tölvupóst með leiðbeiningum um hvernig á að endurstilla
+        lykilorðið þitt í nokkrar mínútur.
+      send_paranoid_instructions: Ef netfangið þitt er hjá okkur, verður þú að fá
+        bata lykilorð tengil netfangið þitt í nokkrar mínútur.
+      updated: lykilorð þitt var breytt. Þú ert nú skráð í.
+      updated_not_active: lykilorð þitt var breytt.
+      new:
+        forgot_your_password: endurheimta lykilorðið
+        reset_password: Senda batna url
+      edit:
+        change_your_password: Breyta lykilorðinu þínu
+        new_password: Nýtt lykilorð
+        confirm_password: Staðfesta lykilorð
+        change_password: Breyta
+    registrations:
+      destroyed: Bye! Reikningur þinn var hætt. Við vonumst til að sjá þig aftur fljótlega.
+      signed_up: Velkomin! Þú hefur skráð þig með góðum árangri.
+      signed_up_but_inactive: þú hefur skráð þig með góðum árangri. Hins vegar gætum
+        við ekki skrá þig í því að reikningurinn er ekki ennþá virkt.
+      signed_up_but_locked: þú hefur skráð þig með góðum árangri. Hins vegar gætum
+        við ekki skrá þig í því að reikningurinn er læst.
+      signed_up_but_unconfirmed: skilaboð með staðfestingartengill hefur verið sendur
+        á netfangið þitt. Vinsamlegast opna tengilinn til að virkja reikninginn þinn.
+      update_needs_confirmation: Þú uppfært reikninginn þinn með góðum árangri, en
+        við þurfum að staðfesta nýja netfangið þitt. Vinsamlegast athugaðu tölvupóstinn
+        þinn og smelltu á staðfesti tengilinn til að ganga staðfestir netfangið þitt.
+      updated: Þú uppfært reikninginn þinn með góðum árangri.
+      new:
+        sign_up: Skráðu þig
+        name: Name
+        password: Lykilorð
+        register: Skráðu þig
+    shared:
+      links:
+        sign_in: Skrá inn
+        sign_up: Skráðu þig
+        didnt_receive_confirmation_instructions: Fékk ekki borist Staðfesting leiðbeiningar?
+        sign_in_with: Skráðu þig inn með
+        fast_login_almost_one_click: Fast tenging (Næstum einn smellur)
+    sessions:
+      signed_in: Undirritað í góðum árangri.
+      signed_out: Undirritaður út með góðum árangri.
+      new:
+        sign_in: Skrá inn
+        password: Lykilorð
+        remember_me: Muna eftir mér
+        forgot_your_password: Gleymt lykilorð?
+    unlocks:
+      send_instructions: Þú munt fá tölvupóst með leiðbeiningum um hvernig á að opna
+        reikning þinn í nokkrar mínútur.
+      send_paranoid_instructions: Ef reikningurinn þinn er til staðar, munt þú fá
+        tölvupóst með leiðbeiningum um hvernig á að opna hana í nokkrar mínútur.
+      unlocked: reikningurinn þinn hefur verið opið með góðum árangri. Vinsamlegast
+        skráðu þig inn til að halda áfram.
+  timezones:
+    American Samoa: Bandaríska Samóa
+    International Date Line West: Daglína West
+    Midway Island: Midway Island
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Pacific Time (US & Canada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain Time (US & Canada)
+    Central America: Mið-Ameríka
+    Central Time (US & Canada): Central Time (US & Canada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexíkóborg
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Austur (US & Canada)
+    Indiana (East): Indiana (East)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlantic Time (Canada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Grænland
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Azores
+    Cape Verde Is: Cape Verde Is.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lisbon
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrad
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Brussels
+    Budapest: Budapest
+    Copenhagen: Kaupmannahöfn
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Prag
+    Rome: Róm
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Vienna
+    Warsaw: Varsjá
+    West Central Africa: West Central Africa
+    Zagreb: Zagreb
+    Athens: Athens
+    Bucharest: Búkarest
+    Cairo: Cairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kaliningrad
+    Kyiv: Kyiv
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Baghdad
+    Kuwait: Kuwait
+    Minsk: Minsk
+    Moscow: Moscow
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: Sankti Pétursborg
+    Volgograd: Volgograd
+    Tehran: Tehran
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Yerevan
+    Kabul: Kabul
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Beijing
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapore
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: Nýja-Kaledónía
+    Solomon Is: Solomon Is.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fiji
+    Kamchatka: Kamchatka
+    Marshall Is: Marshall Is.
+    Wellington: Wellington
+    Chatham Is: Chatham Is.
+    Nuku'alofa: Nukualofa
+    Samoa: Samóa
+    Tokelau Is: Tokelau Is.
+  is: is
+  is_iso: is

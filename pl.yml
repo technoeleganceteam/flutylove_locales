@@ -1,0 +1,1711 @@
+---
+pl:
+  1_we_have_just_launched_our_service_title: Właśnie uruchomiliśmy nasz serwis!
+  common_keywords: randek, randek internetowych, miłości, randek kamera randkowych,
+    Speed ​​Dating, webcam chat randkowe, Ruby on Rails serwis randkowy, wielojęzyczny
+    serwis randkowy
+  common_description: Najbardziej zaawansowany międzynarodowa sieć rozrywki społecznościowym
+    do datowania "Flutylove"
+  default_album: Domyślny album
+  user: użytkownika
+  user_to_search_connection: Szukaj
+  video: wideo
+  photo_album: Album fotograficzny
+  vkontakte: WKontakcie
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: odnoklassniki
+  gender:
+  - male:
+      name: Mężczyzna
+  - female:
+      name: Kobieta
+  - transgender:
+      name: Transgender
+  - male-female:
+      name: Męski-żeński
+  - double-female:
+      name: podwójny żeński
+  - double-male:
+      name: dwukrotnie male
+  orientation:
+  - heterosexual: heteroseksualna
+  - homosexual: Homoseksualista
+  - bisexual: Biseksualny
+  search_for:
+  - chatting: Gadająca
+  - get_friends: zdobyć przyjaciół
+  - flirtation: Flirtowanie
+  - marriage: Małżeństwo
+  - other: Inne
+  body_type:
+    slim: Slim
+    normal: Normal
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Jedynka
+    married: Żonaty
+    nothing_serious: Nic poważnego
+  children:
+    dont_have: Nie posiadam
+    dont_have_and_dont_want_to: nie mają i nie chcą
+    don_t_have_but_planning: Nie posiadam, ale planowanie
+    have_enough: Have
+    have_and_planning_more: mieć i planuje więcej
+    unable_to_have_children: Nie można mieć dzieci
+  living:
+    with_parents: z rodzicami
+    with_marriage_partner: Z partnerem małżeńskim
+    alone: sam
+    with_friends: Z przyjaciela (s)
+  education:
+    nothing: Nic
+    secondary_school: Liceum
+    college_technical_college: Szkoła / uczelnia techniczna
+    university: University
+    postgraduate: Podyplomowe
+    phd_md_post_doctorate: dr / MD / doktorat post
+  hair_color:
+    blonde: Blond
+    dark_blond: ciemny blond
+    brown: Brown
+    black: Czarny
+    gray: Szary
+    other: Inne
+  income:
+    unemployed: Bezrobotnych
+    unstable_earnings: Niestabilne zarobki
+    small_stable_earnings: Małe stabilne zarobki
+    medium_stable_earnings: średnie zarobki stabilne
+    higher_than_average_income: Wyższe niż przeciętne dochodach
+    high_income: Wysokie dochody
+  smoking:
+    not_smoke: Nie palenia
+    not_smoke_and_detest: Nie pal i nie znoszą palenie
+    smoke_in_a_social_setting: Czasami w otoczeniu społecznym
+    smoke_occasionally: Palę okazjonalnie
+    smoke_often: dym często
+  alcohol:
+    not_drinking: Nie pije
+    drink_occalionally: piję
+    drink_in_a_social_setting: napój w otoczeniu społecznym
+    drink_often: Piję często
+  drugs:
+    dont_use: Nie używaj
+    contra_drugs: Przeciwwskazania leki
+    tried_out_some: Wypróbowaliśmy kilka
+    light_drugs_occasionally: lekkie narkotyki okazjonalnie
+    regular: Regular
+  sponsor:
+    i_want_to_find_a_sponsor: Chcę znaleźć sponsora
+    willing_to_become_a_sponsor: Chcę zostać sponsorem
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Nie szukam sponsora i
+      nie chce stać się jednym
+  category_name:
+    rpg: RPG
+    3d_shooters: strzelanek 3D
+    racing: Racing
+    arcade: Arcade
+    economic: gospodarcza
+    simulators: Symulatory
+    logic: Logic
+    adventure: Adventure
+    gambling: hazard
+    news: Aktualności
+    communication: Komunikacja
+    multimedia: Multimedia
+    drawing: Drawing
+    educational: edukacyjne
+    e_commerce: E-Commerce
+    other: Inne
+  shared:
+    header:
+      people: Ludzie
+      chat: Czat
+      groups: Grupy
+      forum: Forum
+      requests: Wnioski
+      about: O projekcie
+      help: Pomoc
+      user_applications: Aplikacje
+    liked_users:
+      liked: Liked
+      all: Wszystko
+      you_have_not_liked_any_users_yet: Nie lubił jeszcze żadnych użytkowników
+    most_liked_users:
+      most_liked_users: Najczęściej użytkownicy
+    installed_user_applications:
+      installed_applications: Zainstalowane aplikacje
+      all: Wszystko
+      you_have_not_installed_any_apps_yet: Nie zainstalowano żadnych aplikacji
+    user_applications:
+      uploaded_apps: Uploaded aplikacje
+      all: Wszystko
+      you_have_not_uploaded_any_apps_yet: Nie masz jeszcze żadnych wniosków
+    right_sidebar:
+      news: Aktualności
+      all: Wszystko
+      read_more: Czytaj więcej
+    footer:
+      footer_text: Międzynarodowa sieć rozrywki społecznościowym do datowania "Flutylove"
+      privacy: prywatności
+      terms: Regulamin
+      feedback: Odpowiedź
+      abuse: nadużycie
+    languages_select_modal:
+      available_languages: Wersje
+    site_map_modal:
+      faq: FAQ
+      about: O
+      static_pages: Statyczne strony
+      common_pages: Wspólne strony
+      user_pages: strony użytkownika
+      terms: Regulamin
+      privacy: prywatności
+      people: Ludzie
+      user_applications: Aplikacje
+      user_requests: Wnioski
+      news: Aktualności
+      feedback: Odpowiedź
+      abuse: nadużycie
+      chats: Czaty
+      videos: Filmy
+      photo_albums: Fotoalbumy
+    pagination_link:
+      next_page: Następna strona
+    user_edit_menu:
+      content: treści
+      profile: profilu
+      site_settings: Ustawienia strony
+      privacy: prywatności
+      services: Usługi
+    activities_navigation:
+      all: Wszystko
+      photos: Zdjęcia
+      photo_albums: Fotoalbumy
+      videos: Filmy
+    notifications_navigation:
+      all: Wszystko
+      likes: Likes
+      friend_requests: Przyjaciel wnioski
+      profile_views: wyświetlenia profilu
+      photo_album_views: Zdjęcia odsłon
+    user_to_friend_connections_navigation:
+      friends: Znajomi
+      friends_online: przyjaciółmi w trybie online
+      outcome_requests: wnioski rezultatu
+      income_requests: wnioski dochodowy
+    user_applications_navigation:
+      all: Wszystko
+      new: Nowa
+      popular: popularne
+      often_installed: często instalowane
+      manage: Zarządzanie
+    user_requests_navigation:
+      all: Wszystko
+      popular: popularne
+      my_requests: moje prośby
+    user_navbar_menu:
+      sign_in: Zaloguj się
+      sign_up: Zarejestruj się
+    email_signature:
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: Wybierz płeć
+      select_orientation: Wybierz orientację
+      select_search_for: Wybierz Szukaj
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Musisz się zalogować, zanim to działanie
+      available_sign_in_methods: You
+    sign_up_methods:
+      usual_register_link: zwykle Rejestracja
+      register_text: Poza% {usual_registration} możesz zarejestrować się za pośrednictwem
+        najbardziej popularnych usług i sieci społecznych
+    bootstrap_gallery:
+      previous: Poprzedni
+      next: Następna
+    user_notification_title:
+      you_liked: Jesteś lubiany przez
+      wrote_message_to_you: napisał wiadomość do ciebie
+      viewed_your_profile: oglądane swój profil
+      liked_your_photo: Podobało swoje zdjęcie
+      liked_your_note: Podobało notatkę
+      liked_your_request: Podobało żądania
+      liked_your_video: Podobało wideo
+      liked_your_application: Podobało aplikację
+      requested_a_friendship: Zamówiony przyjaźń
+  authentications:
+    authentication:
+      turn_on: Włącz
+      turn_off: Wyłącz
+      turned_on: Włączony
+      turned_off: Wyłączony
+    index:
+      enabled_services: Włączone usługi
+  users:
+    profile:
+      submit: Zapisz
+      name: Nazwa
+      gender: Płeć
+      type_in_your_location: Wpisz w Twoim mieście
+      about_me: kilka słów o sobie (oprócz formularza poniżej)
+      sex_keywords: Udziały w seksie
+      enter_your_name: Wprowadź swoją nazwę
+      more_options: Więcej
+      orientation: Orientacja
+      location: Lokalizacja
+      search_for: Szukaj
+      intimacy: Intymność
+      to: się
+      interests: Zainteresowania
+      weight: Waga
+      relationship: związku
+      children: Dzieci
+      living: Living
+      education: Edukacja
+      jobs: Praca
+      income: dochodowy
+      languages: Języki
+      smoking: Palenie
+      alcohol: Alkohol
+      drugs: Drugs
+      contacts: Kontakt
+      contact_value: Kontakt
+      save: Zapisz
+      about_yourself: O sobie
+    settings:
+      submit: Zapisz
+      locale: Język interfejsu
+      interface_language: Język interfejsu
+    dialog_modal:
+      send_message: Wysłać wiadomość
+    index:
+      clear_search: Clear Search
+    dashboard:
+      hello: Witam
+      here_some_of_your_statistics: Oto niektóre statystyki
+      chats: Czaty
+      messages: Wiadomości
+      photos: Zdjęcia
+      videos: Filmy
+      photo_albums: Fotoalbumy
+    avatar:
+      photo: zdjęcie
+      drag_and_drop_your_file: Przeciągnij i upuść plik
+      here: tutaj
+      or: lub
+      from_other_sites: Z innych stron
+      write_down_link_for_your_image: Zapisz link do obrazka
+      url_for_image: adres URL obrazu
+      upload: Prześlij
+      from_facebook: Od Facebook
+      turn_on_facebook: Włącz Facebook
+      you_can_upload_your_photos_from_facebook: You mogą przesyłać swoje zdjęcia z
+        Facebook
+      from_vkontakte: Od Vkontakte
+      you_can_upload_your_photos_from_vkontakte: You mogą przesyłać swoje zdjęcia
+        z Vkontakte
+      turn_on_vkontakte: Włącz Vkontakte
+      from_instagram: Od Instagram
+      you_can_upload_your_photos_from_instagram: You mogą przesyłać swoje zdjęcia
+        z Instagram
+      turn_on_instagram: Włącz Instagram
+      from_dropbox: Od Dropbox
+      you_can_upload_your_photos_from_dropbox: You mogą przesyłać swoje zdjęcia z
+        Dropbox
+      turn_on_dropbox: Włącz Dropbox
+      edit_photo: Edycja zdjęcia
+      delete_photo: Usuń zdjęcia
+      are_you_sure: Czy jesteś pewien?
+    available_photos_modal:
+      available_photos: Dostępne zdjęcia
+    update:
+      your_password_was_successfully_changed: Twoje hasło zostało pomyślnie zmienione
+      your_profile_was_successfully_updated: Twój profil został pomyślnie zaktualizowany
+    edit_photo:
+      edit_photo: Edycja zdjęcia
+      crop: Crop
+      close: Close
+      save_changes: Zapisz zmiany
+    contact:
+      contact_name_placeholder: Facebook / Skype / VK / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: O mnie
+      orientation: Orientacja
+      desirable_age: Pożądane wieku
+      to: się
+      interests: Zainteresowania
+      sm: sm
+      kg: kg
+      relationship: związku
+      children: Dzieci
+      living: Living
+      education: Edukacja
+      jobs: Praca
+      income: dochodowy
+      languages: Języki
+      smoking: Palenie
+      alcohol: Alkohol
+      drugs: Drugs
+      contacts: Kontakt
+    user_info:
+      offline: Offline
+      online: Online
+    loading_modal_images:
+      loading_images: Ładowanie zdjęć
+    password_form:
+      new_password: Nowe hasło
+      confirm_new_password: Potwierdź nowe hasło
+      old_password: Stare hasło
+    show:
+      photos: Zdjęcia
+      all: Wszystko
+      videos: Filmy
+      view: Zobacz
+    dropbox_token_form:
+      paste_recieved_key: Wklej otrzymaliśmy klucz
+      submit: Zatwierdź
+    contents:
+      users_which_i_like: Użytkownicy co lubię
+      all: Wszystko
+      my_videos_likes: moich filmów m.in.
+      my_photos_likes: moich zdjęć m.in.
+      my_notes_likes: moich notatek m.in.
+      my_user_applications_likes: My Applications m.in.
+      my_user_requests_likes: moje prośby m.in.
+    more_profile_info:
+      photo_albums: Fotoalbumy
+      view_all_photo_albums: Wyświetl wszystkie albumy fotograficzne
+      create_more: utworzyć więcej
+      videos: Filmy
+      view_all_videos: Zobacz wszystkie filmy
+      view_all_notes: Zobacz wszystkie notatki
+      requirements_lists_to_partner: Wymagania wymienia się partnera
+      requirement: Wymagania
+      view_all_requirements_lists: Zobacz listę wszystkich wymogów
+      profile_verification: weryfikacji profilu
+      your_profile_is_successfully_verified: Twój profil został pomyślnie zweryfikowany
+      create: Tworzenie
+      you_have_not_any_requirements_lists_yet: nie masz żadnych wymagań wymienia jeszcze
+      you_have_not_any_notes_yet: masz jeszcze żadnych notatek
+      you_have_not_any_photo_albums_yet: masz jeszcze żadnych albumy zdjęć
+      you_have_not_any_videos_yet: masz jeszcze żadnych filmów
+      your_profile_is_not_verified_yet: Twój profil nie jest jeszcze zweryfikowany
+      verify_through_twitter: sprawdzenia poprzez Twitter
+      verify_through_facebook: Zweryfikuj przez Facebook
+      verify_through_mail_ru: sprawdzenia poprzez portalu Mail.ru
+    privacy:
+      privacy: prywatności
+  searches:
+    form:
+      location: Lokalizacja
+      to: się
+      gender: Płeć
+    form_content:
+      city: Miasto
+      gender: Płeć
+      age_from: Wiek od
+      to: się
+      online: Online
+      verified: Zweryfikowane
+      has_avatar: ma awataru
+      region: Region
+      more: Więcej
+      country: Kraj
+      about_me: O mnie
+      interests: Zainteresowania
+      languages: Języki
+      names: Nazwy
+      weight: Waga
+      relationship: związku
+      education: Edukacja
+      orientation: Orientacja
+      search_for: Szukaj
+      children: Dzieci
+      living: Living
+      smoking: Palenie
+      alcohol: Alkohol
+      drugs: Drugs
+      income: dochodowy
+    show:
+      clear_search: Clear Search
+  welcome:
+    index:
+      people: Ludzie
+      requests: Wnioski
+      user_applications: Aplikacje
+      about: O
+      registration: Rejestracja
+      sign_in: Zaloguj się
+      welcome_main_title: Witamy Flutylove!
+      welcome_main_text: Jest to miejsce, gdzie można znaleźć swoją doskonałą miłość
+      find_more: Znajdź więcej
+      about_title: Flutylove jest międzynarodowa sieć rozrywki społecznościowym do
+        datowania
+      about_text: Istnieje wiele funkcji, które można wykorzystać do rozrywki i datowania!
+      find_more_features: Znajdź więcej funkcji
+      at_our_service: Cechy naszego serwisu
+      many_languages: Wiele języków
+      text_about_many_languages: nasz serwis jest przetłumaczony ponad 70 językach
+      check_it_out: Sprawdź to
+      videochats: Videochats
+      text_about_videochats: Możesz rozmawiać ze swoim partnerem z videocams
+      try_it_now: Wypróbuj teraz
+      search: Szukaj
+      text_about_search: Możesz przeszukiwać wiele parametrów i jest za darmo!
+      watch_this: Obejrzyj ten
+      more_features: Więcej funkcji
+      text_about_more_features: można oglądać filmy, grać w gry i robić wiele innych
+        rzeczy!
+      register_and_learn_more: Rejestracja i dowiedz się więcej
+      install_our_apps: zainstalować nasze aplikacje z dnia popularnych platform
+      register_header: Rejestracja
+  feedbacks:
+    new:
+      feedback_title: Odpowiedź
+    form:
+      feedback_name: Twoje imię i nazwisko
+      feedback_email: Twój email
+      close: Close
+      send: Wyślij
+      feedback_recaptcha: Odśwież
+      cancel: Anuluj
+    success:
+      success_feedback: Dziękuję! Mamy otrzymał swoją opinię.
+      close: Close
+      cancel: Anuluj
+      more: wysłać więcej
+  abuses:
+    new:
+      abuse_title: nadużycie
+    form:
+      abuse_name: Twoje imię i nazwisko
+      abuse_email: Twój email
+      abuse_title: nadużycie
+      close: Close
+      send: Wyślij
+      abuse_recaptcha: Odśwież
+      abuse_link: link
+      cancel: Anuluj
+    success:
+      success_abuse: Dziękuję! Mamy otrzymał swoją nadużycia.
+      close: Close
+      cancel: Anuluj
+      more: wysłać więcej
+  layouts:
+    welcome:
+      welcome_title: Witamy Flutylove! Najbardziej zaawansowany serwis randkowy.
+  recaptcha:
+    errors:
+      verification_failed: Failed Odśwież
+      recaptcha_unreachable: Odśwież jest nieosiągalny
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Właśnie uruchomiliśmy nasz serwis!
+      we_have_just_launched_our_service_text: Dzisiaj uruchamiamy nasz serwis tak,
+        każdy może
+      sign_up: zarejestrować
+      and_use_it: i używać go.
+      wishes_and_requests: Jeśli masz jakieś życzenia lub prośby, możesz zarejestrować
+        się i napisał
+      here: tutaj
+      with_love: Z miłością,
+      flutylove_team: Flutylove zespołu
+    index:
+      all_news: Wszystkie wiadomości
+      read_more: Czytaj więcej
+  chats:
+    panel_head:
+      online: Online
+      offline: Offline
+    pagination_link:
+      next_page: Następna strona
+    form_additions:
+      submit: Zatwierdź
+      videochat: VIDEO
+    show:
+      messages: Wiadomości
+    index:
+      messages: Wiadomości
+    videochat_request_link:
+      connect_to_videochat: Połącz z czatów wideo
+    modal_form:
+      send_message: Wysłać wiadomość
+      recipient: Odbiorca
+      message: wiadomość
+      close: Close
+      submit: Zatwierdź
+    waiting_video_answer_button:
+      waiting_for_response: Oczekiwanie na odpowiedź ...
+    chat_created:
+      send_message: Wysłać wiadomość
+      message_was_sent: wiadomość została wysłana
+      close: Close
+  messages:
+    pagination_link:
+      next_page: Następna strona
+  notifications:
+    user_to_friend_connection:
+      action: Action
+    notification:
+      offline: Offline
+      online: Online
+    like:
+      action: Action
+    photo_album_view:
+      action: Action
+    user_view:
+      action: Action
+  user_applications:
+    user_application:
+      who_uploaded: Dodane przez
+      all_uploaded_applications_by: Wszystkie przesyłane przez aplikacje
+    form:
+      name: Nazwa
+      user_application_name: Nazwa aplikacji
+      description: Opis
+      description_text: Opis tekstu
+      iframe_url: iframe url
+      upload_icon: Pobierz ikony
+      public: publiczny?
+      category_name: Kategoria
+      create: Tworzenie
+      edit: Edycja
+    show:
+      return_to_uploaded_applications: Aby przesłanych aplikacji
+      edit_application: Edycja aplikacji
+      return_to_all_applications: Powrót do wszystkich zastosowań
+    manage:
+      installed_applications: Zainstalowane aplikacje
+      uploaded_applications: Uploaded aplikacje
+      all: Wszystko
+    index:
+      applications_uploaded_by: Wnioski przesyłane przez
+      return_to_all_applications: Powrót do wszystkich zastosowań
+      create_new: Utwórz nowe
+      return_to_manage_applications: Powrót do zarządzania aplikacjami
+    installed:
+      installed_applications: Zainstalowane aplikacje
+      return_to_all_applications: Powrót do wszystkich zastosowań
+      return_to_manage_applications: Powrót do zarządzania aplikacjami
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Przed zdaniem ta aplikacja
+        musisz się zalogować pierwszy
+    need_to_install:
+      need_to_install_first: Musisz najpierw zainstalować tę aplikację
+      install_application: zainstalować aplikację
+  likes:
+    index:
+      liked_items: Podobało przedmiotów
+      return_to_my_content: Powrót do moich treści
+  videos:
+    index:
+      videos: Filmy
+      return_to_edit_profile: Do edycji profilu
+      create_new: Utwórz nowe
+      return_to_profile: Powrót do profilu
+    video:
+      edit: Edycja
+      are_you_sure: Czy jesteś pewien?
+      delete: Usuń
+    modal_form:
+      create_new_video: Utwórz nowy film
+      close: Close
+      create: Tworzenie
+    form_content:
+      name: Nazwa
+      video_name: nazwa wideo
+      source: Url kodu embed
+      video_url_or_embed_code: wideo URL wideo kodu embed
+    show:
+      video: wideo
+      return_to_all_videos: Powrót do wszystkich filmów
+      edit_video: Edycja video
+    edit:
+      edit_video: Edycja video
+      return_to_view_video: powrócić do widoku wideo
+      view_video: Zobacz film
+    form:
+      edit: Edycja
+  photo_albums:
+    index:
+      photo_albums: Fotoalbumy
+      return_to_editing_profile: Do edycji profilu
+      create_new: Utwórz nowe
+      return_to_profile: Powrót do profilu
+    photo_album:
+      edit: Edycja
+      create: Tworzenie
+      are_you_sure: Czy jesteś pewien?
+      delete: Usuń
+    edit:
+      edit_photo_album: Edycja albumu fotograficznego
+      return_to_photo_albums: Aby albumów fotograficznych
+      view_photo_album: Zobacz album fotograficzny
+    form_content:
+      name: Nazwa
+    form:
+      edit: Edycja
+      create: Tworzenie
+    photo_album_uploader:
+      drag_and_drop_your_file: Przeciągnij i upuść plik
+      here: tutaj
+      or: lub
+      from_other_sites: Z innych stron
+      write_down_link_for_your_image: Zapisz link do obrazka
+      url_for_image: adres URL obrazu
+      upload: Prześlij
+      from_facebook: Od Facebook
+      turn_on_facebook: Włącz Facebook
+      you_can_upload_your_photos_from_facebook: You mogą przesyłać swoje zdjęcia z
+        Facebook
+      from_vkontakte: Od Vkontakte
+      you_can_upload_your_photos_from_vkontakte: You mogą przesyłać swoje zdjęcia
+        z Vkontakte
+      turn_on_vkontakte: Włącz Vkontakte
+      from_instagram: Od Instagram
+      you_can_upload_your_photos_from_instagram: You mogą przesyłać swoje zdjęcia
+        z Instagram
+      turn_on_instagram: Włącz Instagram
+      from_dropbox: Od Dropbox
+      you_can_upload_your_photos_from_dropbox: You mogą przesyłać swoje zdjęcia z
+        Dropbox
+      turn_on_dropbox: Włącz Dropbox
+    show:
+      return_to_photo_albums: Aby albumów fotograficznych
+      edit_photo_album: Edycja albumu fotograficznego
+    modal_form:
+      create_new_photo_album: Utwórz nowy album fotograficzny
+      close: Close
+      create: Tworzenie
+  user_requests:
+    form:
+      content: treści
+      edit: Edycja
+      create: Tworzenie
+  notes:
+    index:
+      return_to_edit_profile: Do edycji profilu
+      create_new: Utwórz nowe
+      return_to_profile: Powrót do profilu
+    note:
+      edit: Edycja
+      are_you_sure: Czy jesteś pewien?
+      delete: Usuń
+    show:
+      return_to_notes: Powrót do notatek
+      edit_note: Edycja notatki
+    form_content:
+      content: treści
+      edit: Edycja
+      create: Tworzenie
+    edit:
+      edit_note: Edycja notatki
+      return_to_notes: Powrót do notatek
+      view_note: Zobacz note
+  user_to_search_connections:
+    index:
+      requirements_lists: Zapotrzebowania
+      return_to_editing_profile: Do edycji profilu
+      create_new: Utwórz nowe
+    user_to_search_connection:
+      edit: Edycja
+      are_you_sure: Czy jesteś pewien?
+      delete: Usuń
+    edit:
+      edit_requirements_list: Edytuj Zapotrzebowania
+      return_to_requirements_lists: Aby Zapotrzebowania
+    form_content:
+      name: Nazwa
+      name_of_your_requirements_list: Nazwa listy wymagań
+    form:
+      edit: Edycja
+    show:
+      return_to_requirements_lists: Aby Zapotrzebowania
+  photos:
+    index:
+      photos: Zdjęcia
+      return_to_photo_albums: Powrót do albumów fotograficznych
+      return_to_profile: Do profilu
+  errors:
+    messages:
+      already_confirmed: została już potwierdzona, spróbuj zalogować się
+      confirmation_period_expired: musi być potwierdzony w% {okres}, prosimy o założenie
+        nowego
+      expired: wygasła, prosimy o założenie nowego
+      not_found: Nie znaleziono
+      not_locked: nie został zablokowany
+      not_saved:
+        one: '1 błąd zabronione tę% {} z zasobów zapisywane:'
+        other: "% {count} błędów zabronionych ten zasób% {} z zapisywane:"
+    bad_request:
+      bad_request_description: Serwer nie może lub nie będzie przetwarzać żądania
+        z powodu błędu pozornej klienta
+      go_to_root: Idź do korzenia
+    unprocessable_entity:
+      unprocessable_entity: niedające się przetwarzać Entity
+      unprocessable_entity_description: wniosek został sformułowany, ale nie był w
+        stanie być stosowane ze względu na błędy semantyczne
+      go_to_root: Idź do korzenia
+    not_found:
+      not_found_description: Żądany zasób nie został odnaleziony, ale mogą być dostępne
+        w przyszłości
+      go_to_root: Idź do korzenia
+    forbidden:
+      forbidden_description: Wniosek został ważny wniosek, ale serwer odmawia odpowiedzi
+        na to
+      go_to_root: Idź do korzenia
+    internal_server_error:
+      internal_server_error: Internal Server Error
+      internal_server_error_description: Coś poszło nie tak. Będziemy to naprawić
+        jak najszybciej.
+      go_to_root: Idź do korzenia
+  pages:
+    privacy:
+      privacy: Flutylove Polityka prywatności
+      general_provisions: Postanowienia ogólne
+      p_1_1: 1.1. Przepisy te są oficjalnym dokumentem Spółka z ograniczoną odpowiedzialnością
+        "Technoelegance", znajduje się na 101000, Moskwa, Ulanskiy pereulok 13, stroeniye
+        4, pomeshcheniye 1 (dalej Flutylove Spółka, My), a także określić procedury
+        postępowania przy przetwarzaniu danych i bezpieczeństwa informacji osób który
+        osiągnął wiek 18 lat, którzy korzystają z internetowej https://flutylove.com
+        (dalej WWW) i jego usług (dalej użytkowników).
+      p_1_2: 1.2. Celem niniejszego regulaminu jest zapewnienie należytej ochrony
+        informacji o użytkowniku, w tym danych osobowych przed nieuprawnionym dostępem
+        i ujawnieniem.
+      p_1_3: 1.3. Relacje związane ze zbieraniem, przechowywaniem, dystrybucją i bezpieczeństwa
+        informacji użytkownika witryny są uregulowane niniejszym Regulaminem, inne
+        urzędowe dokumenty Spółki oraz obowiązującym ustawodawstwem Federacji Rosyjskiej.
+      p_1_4: 1.4. Aktualna wersja regulaminu, które są dokumentem publicznym, jest
+        dostępna dla każdego użytkownika Internetu, gdy po linku http://flutylove.com/pages/privacy~~dobj.
+        Spółka zastrzega sobie prawo do zmiany niniejszego Regulaminu. W przypadku
+        wprowadzenia zmian do Regulaminu, Spółka powiadamia użytkowników poprzez opublikowanie
+        nowej wersji Regulaminu na stronie internetowej pod stałym http://flutylove.com/pages/privacy~~pobj
+        adresowej, nie później niż 10 dni przed dniem data zmian. Poprzednie wersje
+        Regulaminu są przechowywane w archiwum dokumentacji Spółki.
+      p_1_5: 1,5. Przepisy te zostały opracowane i są wykorzystywane zgodnie z Umową
+        użytkownika. W przypadku jakichkolwiek sprzeczności pomiędzy niniejszym Regulaminem
+        i innymi oficjalnymi dokumentami Spółki, przepisy te muszą być przestrzegane.
+      p_1_6: 1.6. Za pomocą strony internetowej, zgadzają się Państwo z warunkami
+        niniejszej polityki prywatności. Proszę przeczytać je uważnie. Jeśli nie zgadzasz
+        się z warunkami niniejszej polityki prywatności, lub nie osiągnęły wiek 18
+        lat, nie mogą korzystać z Serwisu i jego usług. Za pomocą strony internetowej,
+        niezależnie od tego, czy jesteś zarejestrowanym użytkownikiem Flutylove czy
+        nie, użytkownik potwierdza, że ​​w pełni akceptuje niniejszą Politykę Prywatności
+        i zgadzasz się go przestrzegać.
+      the_website_using_conditions: warunków witryny za pomocą
+      p_2_1: '2.1. Aby korzystać z Flutylove witryny, trzeba się zarejestrować. Poniższe
+        informacje powinny być podane w trakcie rejestracji: imię i nazwisko, adres
+        e-mail, płeć, data urodzenia, informacje o lokalizacji. Użytkownik może podać
+        dodatkowe informacje osobiste na jego / jej własne życzenie. Użytkownik może
+        zmieniać lub aktualizować dane osobowe w dowolnym momencie. Spółka ma prawo
+        do żądania dodatkowych dokumentów uzupełniających w przypadku zmiany płci
+        i daty urodzenia Użytkownika.'
+      p_2_2: '2.2. Poprzez umożliwienie dostępu do Serwisu i jego usług, Spółka, działając
+        w sposób rozsądny iw dobrej wierze, uważa, że ​​Użytkownik: zdaje sobie sprawę,
+        że w przypadku rejestracji na stronie internetowej należy mieć ukończone 18
+        lat; posiada wszystkie niezbędne uprawnienia, aby móc zarejestrować się na
+        tej stronie i używać go; wskazuje dokładne informacje o sobie / sama według
+        żądania dotyczące korzystania z Usług Serwisu; ma świadomość, że informacje
+        osobiste na stronie internetowej, pod warunkiem przez Użytkownika, mogą stać
+        się dostępne dla innych użytkowników strony internetowej i internetowych użytkowników,
+        jak również mogą być kopiowane i rozpowszechniane przez innych użytkowników;
+        zdaje sobie sprawę, że pewne typy informacji przekazywanej do innych użytkowników,
+        nie może być usunięty przez użytkownika; zapoznał się z niniejszym Regulaminem,
+        zgadza się z nimi i zobowiązuje określone prawa i obowiązki.'
+      p_2_3: 2.3. Spółka nie weryfikuje poprawności odbieranego (zebrane) informacji
+        o użytkownikach, z wyjątkiem przypadków, gdy taka weryfikacja jest konieczna
+        w celu wypełnienia zobowiązań Spółki do użytkownika.
+      information_processing_objectives: cele przetwarzania informacji
+      p_3_1: 3.1. Spółka zajmuje się przetwarzaniem informacji o użytkownikach, w
+        tym ich danych osobowych, w celu wypełnienia zobowiązań Spółki do użytkowników
+        za korzystanie z Serwisu i jego usług.
+      p_3_2: 3.2 Spółka ma prawo do przeprowadzenia przetwarzania danych osobowych
+        bez powiadamiania właściwych władz o ochronę praw osób, których dane osobowe.
+      structure_of_the_user_information: Struktura informacji o użytkowniku
+      p_4_1: '4.1. Dane osobowe Użytkowników obejmuje:'
+      p_4_1_1: 4.1.1. imię i nazwisko, adres e-mail, płeć, data urodzenia, informacje
+        o lokalizacji i numer telefonu, które są dostarczane przez użytkowników, a
+        miał być tylko na tyle do rejestracji w Serwisie;
+      p_4_1_2: 4.1.2. informacje, które są dostarczane przez użytkownika (na przykład
+        zdjęć, informacji o zgubnych nawyków itp);
+      p_4_1_3: 4.1.3. dodatkowo przez Użytkownika zgodnie z wnioskiem Spółki w celu
+        wypełnienia zobowiązań Spółki na rzecz Użytkowników, występując z regulaminem
+        użytkownika. Spółka ma prawo w szczególności do żądania od Użytkownika kopia
+        dowodu osobistego lub innych dokumentów zawierających nazwisko, płeć i datę
+        urodzenia, jak również innych dodatkowych informacji, które, według uznania
+        Spółki, będzie konieczne i wystarczające do identyfikacji użytkownika i tak
+        by wyeliminować nadużycia i naruszenia praw osób trzecich.
+      p_4_2: '4.2. Inny użytkownik za przetwarzanie informacji przez Spółkę administracji
+        witryny przetwarza także inne informacje o użytkownikach, które obejmuje:'
+      p_4_2_1: 4.2.1. wspólne dane, automatycznie odbierane przez serwer HTTP podczas
+        uzyskiwania dostępu do stron internetowych i późniejsze działania użytkownika
+        (adres IP hosta, typ systemu operacyjnego użytkownika, stron witryny odwiedzane
+        przez użytkownika).
+      p_4_2_2: 4.2.2. informacje, które są odbierane automatycznie, gdy dostęp do
+        witryny za pomocą zakładki (cookies);
+      p_4_2_3: 4.2.3. informacje, które otrzymuje się w wyniku działań użytkownika
+        na stronie internetowej;
+      p_4_2_4: 4.2.4. informacje, które otrzymuje się w wyniku działań innych użytkowników
+        na stronie internetowej.
+      p_5_1: '5.1. Przetwarzanie danych osobowych jest przeprowadzanie na podstawie
+        następujących zasad: a) uzasadnione cele i sposoby przetwarzania danych osobowych;
+        b) uczciwość; c) zgodność celów przetwarzania danych osobowych w celach określona
+        i oświadczył podczas gromadzenia danych osobowych, a także zgodność z poświadczeniami
+        Spółki; d) zgodności ilości i rodzaju przetwarzania danych osobowych, a także
+        zgodności środkach przetwarzania danych osobowych do celów ich przetwarzania;
+        e) niedopuszczalność łączenia baz danych utworzonych w celach niezgodnych
+        zawierające dane osobowe.'
+      p_5_1_1: 5.1.1. Gromadzenie danych osobowych Użytkownika jest prowadzone w Serwisie,
+        gdy rejestr, a także w przyszłości, gdy użytkownik dodaje więcej informacji
+        na temat samego / samą siebie za pomocą narzędzi WWW na jego / jej własnej
+        inicjatywy.
+      p_5_1_2: 5.1.2. Dane osobowe użytkowników są przechowywane wyłącznie w formie
+        elektronicznej i przetwarzane za pomocą zautomatyzowanych systemów, z wyjątkiem
+        przypadków, w których wymagana jest ręczne przetwarzanie danych osobowych
+        w kontekście spełnienia wymogów prawnych.
+      p_5_1_3: 5.1.3. Dane osobowe użytkownika nie są przekazywane osobom trzecim,
+        z wyjątkiem przypadków wyraźnie przewidzianych w niniejszym Regulaminie oraz
+        Umowie użytkownika. Za zgodą użytkownika, osobiste dane użytkownika mogą być
+        przesyłane do kontrahentów trzecich Spółki pod warunkiem przejęcia obowiązku
+        zapewnienia poufności otrzymanych informacji, w szczególności podczas korzystania
+        z usług i aplikacji. Instrukcja obsługi administracyjnej danych osobowych
+        na żądanie organów rządowych (władz lokalnych) przeprowadza się w ramach procedury,
+        zgodnie z wymogami ustawy.
+      p_5_1_4: '5.1.4. Dane osobowe użytkownika są usuwane, gdy: - dane są samodzielne
+        usunięta ze strony przez użytkownika; - Strona jest samo usunięte przez Użytkownika;
+        - Informacje o użytkowniku i jego osobista strona są usuwane przez Spółkę.
+        W przypadku widoku usuwanie przez samego użytkownika, Spółka przechowuje dane
+        osobowe Użytkownika na jego nośnikach elektronicznych w ciągu 210 dni po osobista
+        strona zostanie usunięta. Dane osobowe są usuwane po upływie 210 dni od daty
+        osobista strona zostanie usunięta. Do czasu upływu tego terminu, Użytkownik
+        ma prawo do przywrócenia osobistą stronę.'
+      users_rights_and_obligations: prawa i obowiązki użytkownika
+      p_6_1: '6.1. Użytkownik ma prawo do:'
+      p_6_1_1: 6.1.1. dostęp do informacji o nim / nią bez ograniczeń i bezpłatnie
+        edytując jego osobistą stronę w Serwisie z użyciem loginu i hasła;
+      p_6_1_2: 6.1.2. samodzielnie dokonywać zmian i poprawek do informacji o osobistej
+        stronie Użytkownika w Serwisie, pod warunkiem, że takie zmiany i korekty zawierać
+        aktualne i prawdziwe informacje;
+      p_6_1_3: 6.1.3. usunąć informacje z osobistej strony na stronie internetowej;
+      p_6_1_4: 6.1.4. zwrócić się do firmy w celu uzyskania bardziej szczegółowych
+        informacji, zablokowania lub usunięcia danych osobowych, jeżeli takie dane
+        są niekompletne, nieaktualne, nieprawdziwe, bezprawnie odebrane lub nie są
+        konieczne dla deklarowanego celu przerobu lub jeśli działania określone w
+        pkt 6.1.3 z nich przepisy nie mogą być realizowane niezależnie;
+      p_6_1_5: 6.1.5. w oparciu o wniosek, otrzyma informacje od Spółki dotyczącą
+        przetwarzania jego / jej danych osobowych.
+      p_6_2: '6.2. Następujące informacje na temat każdego wpisanego serwisu internetowego
+        użytkownika jest zawsze dostępny dla zarejestrowany użytkownik: autora nazwisko,
+        płeć, wiek, zdjęcie profilowe oraz inne informacje, jeżeli Użytkownik nie
+        opublikował go.'
+      p_6_3: 6.3. Spółka nie ponosi odpowiedzialności za ujawnienie danych osobowych
+        Użytkownika przez innych Użytkowników Serwisu, którzy dostępnym takie dane.
+      p_6_4: 6.4. W przypadku danych osobowych (inne informacje użytkownika) usunięcie
+        ze strony osobowych Użytkownika lub usunięcie osobistej stronie Użytkownika
+        z Serwisu, informacji o użytkowniku kopiowane przez innych użytkowników lub
+        przechowywane na stronach innych użytkowników jest zachowana.
+      p_7_1: 7.1. Spółka podejmuje środki techniczne, organizacyjne i prawne w celu
+        zapewnienia, że ​​dane osobowe użytkownika są chronione przed nieautoryzowanym
+        dostępem, lub przypadkowego usunięcia, modyfikacji, blokowania, kopiowania
+        i rozpowszechniania, jak również z innych niedozwolonych działań.
+      p_7_2: 7.2. logowania użytkownika (adres e-mail lub numer telefonu) i hasło
+        są używane do uzyskania dostępu do strony internetowej. Użytkownik jest odpowiedzialny
+        za utrzymanie tej informacji w tajemnicy. Użytkownik nie może przenieść loginu
+        i hasła osobom trzecim, a także jest zobowiązany do podjęcia środków w celu
+        zapewnienia ich poufności.
+      limitation_of_the_regulations_applicability: Ograniczenie stosowania rozporządzeń
+      p_8: Regulaminu te nie są przedłużone do działań i zasobów internetowych osób
+        trzecich. Spółka nie ponosi odpowiedzialności za działania osób trzecich,
+        który uzyskał dostęp do danych użytkownika za pośrednictwem Internetu lub
+        serwisów. Administracja strony zaleca użytkownikom podejść do problemu z ilością
+        informacji zamieszczonych na stronie internetowej w sposób odpowiedzialny.
+      user_requests: Żądania użytkowników
+      p_9_1: '9.1. Użytkownicy mają prawo do wysyłania żądania do Spółki, w tym wniosków
+        dotyczących wykorzystania danych osobowych w formie pisemnej na adres: Rosja,
+        101000, Moskwa, Ulanskiy pereulok 13, stroeniye 4 pomeshcheniye 1 lub w formie
+        dokumentu elektronicznego podpisane przez kwalifikowanego podpisu elektronicznego
+        zgodnie z prawem Federacji Rosyjskiej, przez e-mail: support@flutylove.com~~HEAD=pobj.'
+      p_9_2: '9.2. żądanie użytkownika musi zawierać następujące informacje: numer
+        dokumentu tożsamości Użytkownika lub jego przedstawiciela; data wydania powyższego
+        dokumentu i organ wydający; informacje potwierdzające uczestnictwo użytkownika
+        w relacjach z operatorem (w szczególności link do strony); podpis Użytkownika
+        lub jego / jej przedstawiciela.'
+      p_9_3: 9.3. Spółka zobowiązuje się do rozważenia odpowiedzi na żądanie użytkownika
+        w ciągu 30 dni od daty jego otrzymania.
+      p_9_4: 9.4. Wszelka korespondencja otrzymana przez Spółkę od Użytkowników (pisemne
+        lub wnioski elektroniczne) jest klasyfikowany jako informacja ograniczonego
+        dostępu i nie może być ujawniona bez pisemnej zgody użytkownika. Dane osobowe
+        oraz inne informacje na temat użytkownika, który wysłał żądanie nie mogą być
+        wykorzystywane bez specjalnej zgody Użytkownika, inaczej niż w przypadku odpowiedzi
+        na wniosek lub, w przypadkach wyraźnie przewidzianych przez obowiązujące przepisy
+        prawa.
+    terms:
+      terms: Flutylove Umowa z użytkownikiem
+      welcome: Witamy Flutylove!
+      about_terms: 'niniejszych warunków użytkowania (jak również dokumenty, o których
+        mowa w niniejszym dokumencie, w tym Polityki Prywatności) są umowy przyczepności
+        zgodnie z artykułem 428 Kodeksu Cywilnego Federacji Rosyjskiej (zwanej dalej
+        "Umową") pomiędzy Osoba, która osiągnęła wiek 18 lat (zwana dalej "Użytkownikiem"
+        a Spółką (lub "my") - z ograniczoną odpowiedzialnością Spółka "Technoelegance"
+        (LLC "Technoelegance") (adres siedziby: 101000, Moskwa, Ulanskiy pereulok
+        13, stroeniye 4, pomeshcheniye 1), zwanego dalej Flutylove, według której
+        można korzystać z tej strony internetowej i wszystkich związanych z nimi usług
+        oferowanych za pośrednictwem Serwisu lub aplikacji (na ogół określany jako
+        "usługi"). Witryna rozumie się którykolwiek z jego wersje, połączone pod nazwą
+        domeny flutylove.com i działa na różnych urządzeniach, w tym w wersji internetowej,
+        aplikacji mobilnych oraz aplikacji sieci społecznościowych.Korzystając z tej
+        strony zgadzasz się na warunki umowy i polityki prywatności. Proszę przeczytać
+        je uważnie. Jeśli nie zgadzasz się z warunkami umowy i polityki prywatności
+        lub nie osiągnęły wiek 18 lat, nie mogą korzystać z Serwisu i jego usług.Za
+        pomocą strony internetowej, niezależnie jesteś zarejestrowanym użytkownikiem
+        Flutylove czy nie, użytkownik zgadza się całkowicie z niniejszej Umowy i naszej
+        polityki prywatności, która jest zawarta w niniejszej Umowy przez link i jest
+        dostępny na stronie internetowej, a jej wykonania.Na życzenie użytkownika,
+        Spółka zobowiązuje się do podpisania niniejszej umowy w formie papierowej
+        i przesłać go do osoby wzywającej dokumentów.Spółka zastrzega sobie prawo
+        do zmiany Umowy z użytkownikiem i każdy dokument, skierowane do niego. Aby
+        zapoznać się ze zmianami, które trzeba utrzymać się na bieżąco informacje
+        na temat tych zmian na bieżąco. Będziemy Was informować o zmianach, jakich
+        dokonaliśmy na tej stronie poniżej. Zmiany nie dotyczą tyłu i wejdzie w życie
+        w terminie dziesięciu dni od daty publikacji. Jednak w przypadku, gdy są związane
+        z wdrażaniem nowych usług lub zmiany ustawodawstwa, zostanie on natychmiast
+        zastosowane. Jeśli nie zgadzają się ze zmianami w umowie, należy zaprzestać
+        korzystania z Serwisu i jego aplikacji.'
+      consent_to_accept_the_terms_of_user_agreement: 1. ZGODA aby zaakceptować warunki
+        Umowy USER.
+      p_1: a. Układ elektroniczny. Niniejsza Umowa jest wersja elektroniczna zamówienia,
+        która opisuje zasady korzystania z Serwisu i Usług. Logując się na stronie
+        internetowej lub staje się Użytkownik akceptację niniejszej umowy i zgadza
+        się ze wszystkimi zasadami, warunkami i zawiadomień, które są zawarte lub
+        odwołuje tam. Ty twierdzisz i zgadza się, że użytkownicy Flutylove może być
+        częścią społeczności internetowej, która zawiera inne strony internetowe należące
+        do Spółki lub jej podmiotów zależnych. Dlatego też profile na stronie internetowej
+        można obejrzeć na stronach internetowych i innych podobnych płacących abonentów
+        z jednej strony mogą komunikować się z innymi płacących abonentów ze wszystkich
+        stron. b. Formie elektronicznej. Logując się na stronie internetowej lub staje
+        się Użytkownik, Użytkownik wyraża zgodę, aby zapewnić Państwu Układu elektronicznego.
+        do. forma papierowa. Masz prawo do otrzymania wydruków niniejszej Umowy. Możesz
+        poprosić o wydanie drukowanej niniejszej Umowy, przed lub po zostanie podpisana
+        w formie elektronicznej. Proszę skontaktować się z naszym działem obsługi
+        klienta, aby uzyskać więcej informacji. re. Dostęp i pobieranie. W celu uzyskania
+        dostępu i pobierz to porozumienie elektronicznej, trzeba mieć dostęp do Internetu
+        lub bezpośrednio z urządzeń z dostępem do zasobów internetowych. Trzeba mieć
+        odpowiedni sprzęt, aby połączyć się z Internetem, a mianowicie komputer, modem
+        lub inne urządzenia dostępu. Proszę wydrukować kopię niniejszej umowy i zachować
+        ją. Aby pobrać formularz elektroniczny Umowy, zapisz go do komputera z pomocą
+        dowolnego edytora tekstu.
+      the_right_of_using_the_website: 2. Prawo KORZYSTANIA Z SERWISU.
+      p_2: Musisz mieć co najmniej osiemnaście (18) lat, aby stać się zarejestrowanym
+        użytkownikiem tej strony. W przypadku niezgodności z wymaganiami, nie będzie
+        dostępu do Serwisu. Korzystanie z witryny, użytkownik powinien mieć świadomość,
+        że dane osobowe zamieszczone na stronie internetowej mogą być dostępne dla
+        innych użytkowników Internetu, a Spółka nie ponosi odpowiedzialności za swoje
+        czyny. Za pomocą tej strony internetowej dochodzenia i zobowiązują się, że
+        masz prawo, autorytet i możliwości do zawarcia niniejszej Umowy, a także zgody
+        na przestrzeganie wszystkich jej warunków. Staje się Użytkownik Ci dochodzić
+        oraz zobowiązanie, że nigdy nie zostały cierpiał skazania za przestępstwo
+        związane z przemocą seksualną. Strona jest przeznaczona wyłącznie do użytku
+        osobistego. Zabrania się wykorzystywania Serwisu w celach komercyjnych. Osoby
+        prawne nie mogą być Użytkownicy tej strony internetowej, jak również nie mogą
+        korzystać z tej usługi lub strony internetowej na swoich celach. Nielegalne
+        i / lub nieuprawnionym użyciem Serwisu, w tym zbierania nazw użytkowników
+        i / lub adresów e-mail, za pomocą elektronicznych lub innych narzędzi w celu
+        wysyłania niepożądanych wiadomości i linków jest wykonywana, a Spółka może
+        podjąć odpowiednie działania zgodnie z prawem, w tym odwołanie do organów
+        ścigania.
+      pricing_and_registration: 3. CENNIK I REJESTRACJA
+      p_3: jesteś w stanie stać Użytkownikowi Flutylove na wolnej woli i nieodpłatnego
+        nabycia poprzez rejestrację na stronie internetowej. Jako użytkownik, możesz
+        skorzystać z określonego zakresu usług i możliwości Serwisu. Użytkownik Serwisu
+        jest osoba fizyczna zarejestrowana na stronie internetowej zgodnie z ustalonym
+        porządkiem i który osiągnął wiek 18 lat. Podczas rejestracji w Serwisie Użytkownik
+        zobowiązany jest do zapewnienia niezbędnych i istotnych informacji dotyczących
+        Spółki, aby zakończyć strony użytkownika, w tym login (adres e-mail lub numer
+        telefonu) i hasło dostępu do serwisu WWW, a także imię i nazwisko, które są
+        unikalne dla każdego użytkownika. Formularz do rejestracji może zażądać dodatkowych
+        informacji od użytkownika. Użytkownik jest odpowiedzialny za ważność, aktualność,
+        kompletność i zgodność z prawem Federacji Rosyjskiej informacji dostarczonych
+        podczas rejestracji, a jej jasność od roszczeń osób trzecich. Podczas rejestracji
+        Użytkownik zgadza się z niniejszej Umowy i podejmować określone prawa i obowiązki,
+        związane z użyciem i funkcjonowania Serwisu. Użytkownik uzyskuje pełny dostęp
+        do korzystając z funkcji Serwisu. Spółka zobowiązuje prawa i obowiązku do
+        użytkownika, określonej w niniejszym Regulaminie, po pomyślnej rejestracji
+        Użytkownika w Serwisie przetwarzania danych osobowych Użytkownika jest wykonany
+        zgodnie z prawem Federacji Rosyjskiej. Administracja strony przetwarza dane
+        osobowe Użytkownika w celu zapewnienia użytkownikowi z dostępem do wykorzystania
+        funkcji strony, w tym otrzymywania spersonalizowanej (celowe) reklamy; weryfikacji,
+        badania i analizy tych danych, co pozwala na wsparcie i poprawę funkcji i
+        sekcji strony internetowej, a także rozwijać nowe funkcje i sekcje. Spółka
+        podejmuje wszelkie niezbędne działania w celu ochrony danych osobowych Użytkownika
+        przed nieautoryzowanym dostępem, zmianą, ujawnieniem lub kasowania. Firma
+        zapewnia dostęp do danych osobowych Użytkownika wyłącznie do tych pracowników,
+        kontrahentów i pracowników Spółki, którzy potrzebują tych informacji w celu
+        wspierania funkcjonalności strony internetowej i zapewnić użytkownikowi dostęp
+        do jego użytkowania. Spółka Serwisu ma prawo do korzystania z informacji dostarczonych
+        przez Użytkownika, w tym danych osobowych, w celu zapewnienia zgodności z
+        wymogami określonymi w obowiązującym ustawodawstwem Federacji Rosyjskiej (w
+        tym profilaktyki i / lub tłumienia nielegalne i / lub niezgodne z prawem działania
+        tych użytkowników). Ujawnienie informacji dostarczonych przez Użytkownika
+        mogą być dokonywane wyłącznie zgodnie z obowiązującym ustawodawstwem Federacji
+        Rosyjskiej na wniosek sądu, organów ścigania, jak również w innych przypadkach
+        przewidzianych przez obowiązujące przepisy prawa Federacji Rosyjskiej. Do
+        tego stopnia, że ​​Spółka przetwarza dane osobowe Użytkownika w celu realizacji
+        niniejszego Regulaminu, zgody użytkownika na przetwarzanie danych osobowych
+        nie jest wymagane na mocy przepisów ustawy o danych osobowych. Login i hasło
+        wybrane przez Użytkownika są konieczne i wystarczające informacje dotyczące
+        dostępu użytkownika do Serwisu. Użytkownik ma prawo do wydawania jego / jej
+        nazwy użytkownika i hasła osobom trzecim, i jest absolutnie odpowiedzialny
+        za jego bezpieczeństwo, wybierając drogę, przechowując je w sposób niezależny.
+        Korzystanie z jego / jej sprzętu i oprogramowania Użytkownik może zezwolić
+        na przechowywanie login i hasło (za pomocą plików cookie) dla kolejnych automatycznego
+        zezwolenia na Stronie. Wszelkie działania podejmowane z wykorzystaniem nazwy
+        użytkownika i hasła użytkownika są uznawane za dokonane przez Użytkownika,
+        chyba że zostanie udowodnione inaczej przez Użytkownika. Użytkownik jest zobowiązany
+        do niezwłocznego poinformowania Spółki zgodnie z procedurą ustanowioną w przypadku
+        nieautoryzowanego dostępu do nazwy użytkownika i hasła i / lub na stronie
+        konta lub ujawnienia loginu i hasła. Po rejestracji Użytkownik uzyskuje prawo
+        do tworzenia, używania i określić zawartość jego / jej własnych stron osobowych
+        w celach samolubnych i niekomercyjnych, a także uzyskać możliwość dostępu
+        i opublikować informacje na prywatnych stronach innych użytkowników , Użytkownik
+        jako właściciela informacji zamieszczonych na osobistej stronie jest świadomy,
+        że z wyjątkiem przypadków określonych przez niniejszego Regulaminu oraz obowiązującym
+        ustawodawstwem Federacji Rosyjskiej, Spółka nie uczestniczy w rozwoju i korzystania
+        z treści i nie kontroluje Dostęp do strony użytkownika od innych użytkowników.
+      terms_4: 4. warunkach.
+      p_4: Niniejsza Umowa pozostaje w pełni obowiązywać tak długo, jak korzystać
+        z Serwisu. Możesz przestać być Użytkownika z Serwisu poprzez usunięcie strony
+        w dowolnym czasie, z dowolnego powodu, kontaktując się z naszym działem obsługi
+        klienta on-line lub za pomocą usługi serwisu. Spółka zastrzega sobie prawo
+        do usunięcia swoją osobistą stronę w dowolnym momencie. Nie jesteśmy zobowiązani
+        do powiadamiania przed usunięciem strony, jeżeli Spółka ma powody sądzić,
+        że naruszył warunki umowy. Nie jesteśmy zobowiązani do ujawnienia powód usunięcia
+        konta; w niektórych przypadkach ujawnienie takich informacji może być zabronione.
+        Po deletowaniem swojej stronie, wszystkie warunki, które mogą być ważne po
+        rozwiązaniu niniejszej Umowy ze swej natury będzie obowiązywać po takim wypowiedzeniu.
+        Jeśli usuniesz swoją stronę poprzez stronę internetową własnej woli, możemy
+        poprosić, aby określić przyczynę takiego usunięcia.
+      account_security: 5. rachunku papierów wartościowych.
+      p_5: jesteś odpowiedzialny za zachowanie poufności swojej nazwy użytkownika
+        i hasła, który zostanie ustalony w momencie rejestracji. Ponadto, jesteś całkowicie
+        odpowiedzialny za wszystkie czynności wykonywane w ramach swojej nazwy użytkownika
+        i hasła. Użytkownik wyraża zgodę na (a) niezwłocznie powiadomić nas o jakiegokolwiek
+        nieuprawnionego użycia loginu i hasła, jak również każdego innego naruszenia
+        bezpieczeństwa, oraz (b) wyloguje się z konta pod koniec każdej sesji. Serwis
+        nie ponosi odpowiedzialności za jakiekolwiek szkody lub straty wynikające
+        z niezgodności tego przepisu. Należy zachować szczególną ostrożność podczas
+        uzyskiwania dostępu do konta za pomocą komputera publicznego, tak aby osoby
+        postronne nie mogły szpiegować lub nagrywać hasła lub innych danych osobowych.
+        Możesz również potwierdzić i zgadza się, że Internet był nigdy całkowicie
+        prywatne i bezpieczne. Trzeba zrozumieć, że wszelkie komunikaty lub informacje
+        zamieszczać w Serwisie mogą być odczytywane i wykorzystywane przez innych
+        użytkowników, nawet jeśli nie jest to specjalne ostrzeżenie, że informacja
+        jest ukryta.
+      your_interaction_with_other_users_of_the_website: 6. interakcji z innymi użytkownikami
+        serwisu.
+      p_6: a. JESTEŚ wyłączną odpowiedzialność za interakcje z innymi użytkownikami.
+        TY powinni zrozumieć, że SPÓŁKA nie weryfikuje swoich użytkowników o tym,
+        czy mają karalności. SPÓŁKA również nie Żąda informacji o przeszłości swoich
+        użytkowników i NIE sprawdzić poprawność informacji. Spółka nie udziela żadnych
+        gwarancji dotyczących USER zachowań i ich zgodności ze stanem faktycznym lub
+        przyszłych użytkowników. W tym samym czasie Spółka zastrzega sobie prawo do
+        weryfikacji użytkowników, dla karalności lub wykonują inną weryfikację w każdej
+        chwili dostępne informacje do publicznej wiadomości. b. W żadnym przypadku
+        FIRMA NIE PONOSI ODPOWIEDZIALNOŚCI ZA SZKODY, czy są one BEZPOŚREDNIE, ogólnych
+        lub mają szczególny charakter, wyrównawczego, oraz / lub przypadkowe, UZYSKAĆ
+        ​​PRZEZ CIEBIE LUB INNYMI jednostkom w wyniku korzystania ze strony internetowej,
+        W TYM, ALE NIE TYLKO, uraz fizyczny, stres i / lub inne SZKODY UZYSKAĆ ​​PRZEZ
+        UŻYTKOWNIKA W WYNIKU komunikacji lub spotkań z innymi zarejestrowanymi użytkownikami
+        strony internetowej lub ludzi, to mamy do czynienia z na stronie internetowej.
+        TY postanawiają podjąć wszelkie możliwe środki ostrożności podczas komunikowania
+        się z innymi użytkownikami, zwłaszcza w tych przypadkach, gdy użytkownik zdecyduje
+        się z nimi spotkać w prawdziwym życiu. TY powinni być świadomi tego, co firma
+        nie daje deklarowanych ani domniemanych gwarancji dotyczących kompatybilności
+        z użytkownikami tej strony. Nie należy podawać informacji finansowych dla
+        innych użytkowników strony internetowej (na przykład informacje na temat karty
+        kredytowej lub karty plastikowe). do. Usługa może przełożyć swoje imię i nazwisko
+        lub nazwę swojego miasta do innych językach; re. Serwis nie ponosi odpowiedzialności
+        za czyny wymienione w tym artykule. W przypadku, gdy nie zgadzają się z nimi
+        całkowicie lub częściowo, należy natychmiast wyjść ze strony;
+      the_information_posted_by_you_on_flutylove: 7. informacji zamieszczonych PRZEZ
+        CIEBIE NA FLUTYLOVE
+      p_7: a. Użytkownik ponosi wyłączną odpowiedzialność za informacje, które publikujesz
+        lub wykazania (dalej jako "post") w sprawie usług lub przesyłać innym użytkownikom.
+        Nie wolno zamieszczać w Serwisie lub przesyłać do innych użytkowników żadnych
+        informacji na temat zniesławiające, niedokładne, obraźliwe, obsceniczne, wulgarne
+        i agresywne treści, informacji o treści seksualnej, a także groźby lub stalking,
+        informacja Dyskryminacji Rasowej charakter lub nielegalnych informacji lub
+        wszelkie inne informacje, które naruszają lub naruszają prawa jakiejkolwiek
+        innej strony (w tym, bez ograniczeń, prawa własności intelektualnej, prawa
+        do prywatności i jawności). Nie masz uprawnień, aby zapewnić nieprawdziwe,
+        wprowadzające w błąd lub fałszywych informacji do Spółki lub jakiegokolwiek
+        innego użytkownika. Jeżeli informacje przekazane firmie Flutylove lub innego
+        użytkownika zostaje następnie niedokładne, mylące false, należy niezwłocznie
+        powiadomić o tym firmę Flutylove takiej zmiany. Złożyć i gwarantuje, że wszystkie
+        informacje podane podczas rejestracji są dokładne i prawdziwe, a ty od razu
+        zmieniać żadnych informacji, które następnie staje się niedokładne, błędne
+        lub nieprawdziwe. b. Użytkownik rozumie i zgadza się, że zastrzegamy sobie
+        prawo, ale nie obowiązek monitorować informacje lub treści, które są przesyłane
+        do Serwisu lub zamieszczonych w sprawie publicznego dostępu do usługi. Mamy
+        prawo do usuwania wszelkich takich informacji lub treści bez przypisywania
+        przyczyn i notyfikacji. do. Wszystkie obiekty wyświetlane na stronie internetowej,
+        w tym elementów, tekstów, grafik, ilustracji, filmów, skryptów, programów,
+        muzyki, dźwięków i innych obiektów oraz ich bibliotek (dalej - informacja),
+        stanowią własność praw wyłącznych Spółki, użytkownicy posiadacze WWW i inne
+        prawa, wszystkie prawa do tych obiektów są chronione. re. O ile nie ustalono
+        zgodnie z niniejszą Umową, a także obowiązującym ustawodawstwem Federacji
+        Rosyjskiej, żadne informacje nie mogą być kopiowane (pominięta), przetwarzane,
+        dystrybuowane, wyświetlane w ramce, publikowane, pobierane, przekazywane,
+        sprzedawane lub wykorzystywane w inny sposób, całości lub w części bez uprzedniej
+        zgody właściciela, chyba że posiadacz praw wyraźnie wyraził zgodę na bezpłatne
+        korzystanie z tych informacji przez jakiejkolwiek osoby. mi. Przez zamieszczenie
+        informacji na stronie legalnie należącego do Użytkownika, Użytkownik zapewnia
+        dostęp dla innych użytkowników na niewyłączne prawo do używania go przez przeglądanie,
+        odtwarzanie (w tym kopiowanie) oraz innych praw wyłącznie w celu osobistego,
+        niekomercyjnego użytku, chyba przypadkach, gdy takie stosowanie powoduje lub
+        może zaszkodzić interesom posiadacza prawa chronionego przez prawo. fa. Rozpoczęcie
+        wykorzystywania informacji przez Użytkownika, których dostęp uzyskano wyłącznie
+        za pomocą osobistych niekomercyjnych jest dozwolone pod warunkiem, że wszystkie
+        znaki autorskie (prawa autorskie) lub innych zawiadomień o autorstwie zostaną
+        utrzymane, nazwisko autora i jego produktu zostaną pozostawione bez zmian.
+        sol. Użytkownik zapewnia również Spółce niewyłączne prawo do korzystania z
+        informacji zamieszczonych na stronie internetowej i należącej do niego / niej
+        legalnie bez rozpatrzenia, w celu zapewnienia funkcjonowania strony internetowej
+        Spółki w ramach realizacji architektury i funkcjonalności Strona internetowa.
+        Niewyłączne prawo, o którym mowa powyżej, jest przyznawana za umieszczenie
+        treści na stronie internetowej i obejmuje terytorium krajów na całym świecie.
+        Spółka ma prawo do przeniesienia praw, o których mowa niniejszym ustępie osobom
+        trzecim. Użytkownik zgadza się, że firmy mają prawo do korzystania funkcjonalne
+        i techniczne możliwości Serwisu, zapewniając wyświetlanie wymiany treści przez
+        Użytkownika, w tym w celu wyświetlania reklamy informacji. cześć. W przypadku,
+        gdy Użytkownik nie usunie się z informacjami ze strony internetowej, niewyłączne
+        prawo zostanie automatycznie cofnięta, ale ze względu na specyfikacjach technicznych
+        Serwisu Spółka zastrzega sobie prawo do zapisywania kopii zapasowych informacji
+        w wymaganym czasie i gdzie wymagana. ja. Oprócz prywatnych informacji, Użytkownik
+        ma prawo do przesłania, ani nie ujawnia się w inny sposób (poprzez publikację
+        na stronie internetowej) informacje z innych stron, baz danych i innych praw
+        własności intelektualnej w przypadku braku jawnie wyraził zgodę na takie działania
+        z prawami autorskimi właściciel. jot. O ile nie zostanie stwierdzone w niniejszym
+        Regulaminie, wszystko w niniejszym Regulaminie nie mogą być traktowane jako
+        transfer wyłącznych praw do tych informacji. k. Wszystkie informacje, które
+        publikuje na swoim profilu użytkownika, muszą być dokładne, aktualne i kompletne.
+        Użytkownik jest absolutnie wyłączną odpowiedzialność za wszelkie informacje,
+        które zostały wrzucone lub ujawnione w inny sposób (pisał) na stronie internetowej
+        lub za pomocą Użytkownika. Użytkownik nie ma prawa do przesyłania, przekazywania
+        lub publikowania treści na stronie internetowej, jeśli on / ona nie posiada
+        odpowiednie uprawnienia do podjęcia takich działań, nabyte lub przekazane
+        mu / jej zgodnie z prawem Federacji Rosyjskiej. Spółka może, ale nie jest
+        zobowiązany, do przeglądania WWW dla dowolnej treści niezgodnych z prawem
+        i ma prawo do usunięcia lub przeniesienia (bez uprzedzenia) zawartość lub
+        użytkowników według własnego uznania, z jakiegokolwiek powodu lub bez przyczyny,
+        w tym bez ograniczeń, aby przenieść, lub usunąć informacje, które w zależności
+        od indywidualnej ocenie Spółki narusza niniejszą Umowę, ustawodawstwo Federacji
+        Rosyjskiej i / lub mogą naruszać prawa, szkodzić lub zagrażać bezpieczeństwu
+        innych użytkowników lub osób trzecich. Na stronie znajdują się (lub może zawierać)
+        linki do innych stron w Internecie (strony internetowe stron trzecich), jak
+        również artykuły, zdjęcia, ilustracje, grafiki, muzyki, dźwięku, wideo, informacje,
+        aplikacje i inne informacje należące do lub pochodzących od stron trzecich
+        (treści osoby trzeciej), co jest wynikiem aktywności intelektualnej i są chronione
+        zgodnie z ustawodawstwem Federacji Rosyjskiej. Te osoby trzecie oraz ich dane
+        nie są weryfikowane przez Spółkę za przestrzeganie tych lub innych wymagań
+        (dokładność, kompletność, rzetelność, itp). Spółka nie ponosi odpowiedzialności
+        za treści publikowane na stronach osób trzecich, do których użytkownik uzyskuje
+        dostęp za pośrednictwem Serwisu lub za pośrednictwem informacji osób trzecich,
+        w tym, ale nie ograniczając się do wszelkich opinii lub uwag wyrażonych na
+        stronach osób trzecich lub w ich informacji. Link do dowolnej witryny, produktów
+        i usług, wszelkie informacje o charakterze handlowym i niehandlowym zawartych
+        na tej stronie nie jest zatwierdzenie lub rekomendacja dla tych produktów
+        (usług) od Spółki. Jeśli użytkownik zdecyduje się opuścić stronę internetową
+        i przejdź do stron internetowych osób trzecich lub do użytkowania lub instalacji
+        oprogramowania innych firm, on / ona robi to na własne ryzyko i od tego momentu
+        Przepisy te nie są stosowane do Użytkownika. Dalsze działania użytkownika
+        są kierować się obowiązującymi przepisami i zasadami, w tym praktyk biznesowych
+        tych osób, których informacje on / ona ma zamiar użyć.
+      forbidden_actions: 8. zabronione czyny.
+      p_8: a. Zabronione jest "uważną on" lub przeszkadzać każdą osobę w inny sposób.
+        b. Zabrania się korzystania boty, wirusy, aplikacje do wyszukiwania witryn
+        / wyciągu lub innych urządzeń ręcznych lub automatycznych lub procesów, aby
+        wyodrębnić, indeks, "szpiegostwo" lub powielanie w inny sposób lub naruszeniu
+        struktury nawigacji i wyświetlania Serwisu lub jego zawartość , do. Zabrania
+        się zakładać, rozpowszechniać, ani powielać everyway żadnych informacji chronionych
+        prawem autorskim, znaki towarowe, lub innych informacji chronionych prawem
+        autorskim bez zgody właściciela praw autorskich. re. Zabronione jest usunięcie
+        wszelkich praw autorskich, znaków towarowych lub innych informacji o prawach
+        autorskich zawartych w Serwisie. mi. Zabrania się ingerować lub zakłócać funkcjonowanie
+        Serwisu oraz na stronie internetowej lub usług i sieci podłączonych do Usługi
+        lub Serwisu. fa. Zabronione jest publikowanie, przesyłanie wiadomości e-mail
+        lub w inny sposób żadnych informacji zawierających wirusy lub inne kody komputerowe,
+        pliki lub programy służące do zakłócania, niszczenia lub ograniczania funkcjonalności
+        jakiegokolwiek sprzętu komputerowego oprogramowania, sprzętu komputerowego
+        lub telekomunikacyjnego. sol. Zabrania się fałszowania nagłówków lub manipulowania
+        oznaczenie w celu ukrycia prawdziwego znaczenia wszelkie informacje udostępniane
+        za pośrednictwem Serwisu. h. Zabronione jest "kuźni" lub "kopia" Każda część
+        serwisu lub strony internetowej bez uprzedniej pisemnej zgody Flutylove. Ponadto,
+        nie może używać żadnych meta tagów lub kod lub inne urządzenia zawierające
+        linki do Flutylove, Usługi lub Serwisu w celu przekierowania każdą osobę do
+        innej witryny w dowolnym celu. ja. Zabrania się modyfikowania, adaptowania,
+        sublicencji, tłumaczyć, sprzedawać, restrukturyzacji, rozszyfrowania, dekompilować
+        lub demontować żadnej części Usługi lub Serwisu lub jakiegokolwiek oprogramowania
+        wykorzystywanego w Serwisie lub za nią, a także zachęca innych do podjęcia
+        podobnych działań , jot. Zabrania się umieszczania jakichkolwiek informacji
+        z treści pornograficznych i / lub erotycznym.
+      the_changes_in_the_service: 9. Zmiany w Serwisie.
+      p_9: Flutylove zastrzega sobie prawo w każdej chwili zmienić lub wyłączyć na
+        stałe lub czasowo z Usługi (lub jakiejkolwiek jego części) bez uprzedniego
+        powiadomienia. Zgadzasz się, że Flutylove nie ponosi odpowiedzialności wobec
+        użytkownika ani jakichkolwiek osób trzecich za wszelkie modyfikacje, czasowego
+        lub całkowitego wyłączenie dostępności Serwisu.
+      p_10: W celu ochrony integralności Serwisu, Flutylove zastrzega sobie prawo
+        w dowolnym momencie swojej własnej wygody, aby blokować adresy IP określonych
+        użytkowników.
+      relations_between_users_online: 11. STOSUNKI MIĘDZY użytkowników online
+      p_11: Użytkownik ponosi wyłączną odpowiedzialność za swoje relacje z innymi
+        użytkownikami Flutylove. Flutylove zastrzega sobie prawo, ale nie obowiązek,
+        do monitorowania sporów pomiędzy użytkownikiem a innymi użytkownikami.
+      security_and_communication: 12. bezpieczeństwa i komunikacji.
+      p_12: Korzystanie z Serwisu i / lub Serwisu podlega również naszej Polityce
+        Prywatności. Gdy stajesz się Użytkownik, Użytkownik wyraża zgodę, a zgoda
+        na otrzymywanie e-maili od nas. Wiadomości te mogą reprezentować powiadomienia
+        o operacjach lub innych zgłoszeń związanych z Usługą, takich jak zawiadomień
+        administracyjnych i oficjalne komunikaty o zmianach lub e-maile zawierające
+        oferty handlowe, materiały promocyjne, oferty specjalne od nas, lub informacji
+        o działaniach innych użytkowników dotyczące danej konto użytkownika. Prosimy
+        o zapoznanie się z naszą Polityką Prywatności, aby dowiedzieć się więcej o
+        takich powiadomień.
+      denial_of_responsibility: 13. Negacja odpowiedzialności.
+      p_13: a. Flutylove nie ponosi żadnej odpowiedzialności za błędne lub nieprawdziwe
+        informacje na stronie internetowej lub jest związany z usługą, użytkownicy
+        Serwisu lub jakiegokolwiek sprzętu lub oprogramowania związanego z naszych
+        usług lub jest tam używany. Flutylove nie ponosi odpowiedzialności za zachowanie,
+        zarówno online, jak i offline, jakiegokolwiek użytkownika Serwisu. Flutylove
+        nie ponosi odpowiedzialności za jakiekolwiek błędy, pominięcia, przerwy, usunięcia,
+        uszkodzenia lub opóźnienia w działaniu lub czynności, awarii linii komunikacyjnej,
+        kradzieży lub zniszczenia, nieautoryzowanego dostępu lub zmiany linii komunikacyjnych
+        użytkownika. Flutylove nie ponosi odpowiedzialności za jakiekolwiek problemy
+        lub usterki techniczne jakichkolwiek sieci telefonicznej lub linii, systemów
+        komputerowych online, serwerów lub dostawców, sprzętu komputerowego, oprogramowania,
+        mail lub gracze awarii na koncie użytkownika, problemy techniczne lub zatorów
+        w Internecie lub na każdej stronie lub ich kombinacji, w tym wypadku lub zranienia
+        użytkownika lub osób trzecich związanych z komputerem, lub w wyniku uczestnictwa
+        w lub pobierania informacji dotyczących sieci i / lub usługi. W żadnym wypadku
+        Flutylove Spółki lub spółki z nią powiązanej, agentów reklamowych, założycieli
+        lub partnerów nie będzie odpowiedzialne za jakiekolwiek straty lub szkody,
+        w tym uszkodzenia ciała lub śmierci z powodu korzystania z Serwisu lub Usługi,
+        wszelkie Treści zamieszczane w Serwisie lub jakieś interakcje między użytkownikami
+        Serwisu, zarówno online jak i offline. Strona internetowa i Usługa jest świadczona
+        na AS jest podstawą, a Flutylove wyraźnie zrzeka się wszelkich gwarancji lub
+        przydatności do określonego celu lub braku naruszenia czyichkolwiek praw.
+        Flutylove nie może zagwarantować i nie obiecują od konkretnych wyników z użyciem
+        Serwisu i / lub Serwisu.
+      links: 14. linków.
+      p_14: a. Flutylove nie ponosi żadnej odpowiedzialności za błędne lub nieprawdziwe
+        informacje na stronie internetowej lub jest związany z usługą, użytkownicy
+        Serwisu lub jakiegokolwiek sprzętu lub oprogramowania związanego z naszych
+        usług lub jest tam używany. Flutylove nie ponosi odpowiedzialności za zachowanie,
+        zarówno online, jak i offline, jakiegokolwiek użytkownika Serwisu. Flutylove
+        nie ponosi odpowiedzialności za jakiekolwiek błędy, pominięcia, przerwy, usunięcia,
+        uszkodzenia lub opóźnienia w działaniu lub czynności, awarii linii komunikacyjnej,
+        kradzieży lub zniszczenia, nieautoryzowanego dostępu lub zmiany linii komunikacyjnych
+        użytkownika. Flutylove nie ponosi odpowiedzialności za jakiekolwiek problemy
+        lub usterki techniczne jakichkolwiek sieci telefonicznej lub linii, systemów
+        komputerowych online, serwerów lub dostawców, sprzętu komputerowego, oprogramowania,
+        mail lub gracze awarii na koncie użytkownika, problemy techniczne lub zatorów
+        w Internecie lub na każdej stronie lub ich kombinacji, w tym wypadku lub zranienia
+        użytkownika lub osób trzecich związanych z komputerem, lub w wyniku uczestnictwa
+        w lub pobierania informacji dotyczących sieci i / lub usługi. W żadnym wypadku
+        Flutylove Spółki lub spółki z nią powiązanej, agentów reklamowych, założycieli
+        lub partnerów nie będzie odpowiedzialne za jakiekolwiek straty lub szkody,
+        w tym uszkodzenia ciała lub śmierci z powodu korzystania z Serwisu lub Usługi,
+        wszelkie Treści zamieszczane w Serwisie lub jakieś interakcje między użytkownikami
+        Serwisu, zarówno online jak i offline. Strona internetowa i Usługa jest świadczona
+        na AS jest podstawą, a Flutylove wyraźnie zrzeka się wszelkich gwarancji lub
+        przydatności do określonego celu lub braku naruszenia czyichkolwiek praw.
+        Flutylove nie może zagwarantować i nie obiecują od konkretnych wyników z użyciem
+        Serwisu i / lub Serwisu.
+      limitation_of_responsibility: 15. Ograniczenie odpowiedzialności.
+      p_15: STRONIE i jego funkcje w tym wszystkie skrypty, aplikacje, zawartość i
+        projekt strony internetowej są dostarczane w AS jest bazowych. Firma zrzeka
+        się wszelkich gwarancji w serwisie lub JEJ funkcje mogą być odpowiednie lub
+        nieodpowiednie dla KONKRETNEGO CELU. Spółka nie może zagwarantować i NIE obiecuje
+        żadnych konkretnych wyników z korzystania ze stron internetowych i / lub jego
+        funkcji; Aby uniknąć nieporozumień, użytkownik powinien Przestrzegać środków
+        ostrożności przy pobieraniu z Strony lub oddelegowanego links, i wykorzystywanie
+        jakichkolwiek plików, a także oprogramowanie. SPÓŁKA zaleca się stosowanie
+        jedynym licencjonowanym oprogramowaniem, oprogramowanie antywirusowe; Korzystając
+        ze strony, UŻYTKOWNIK POTWIERDZA, ŻE PLIKI DO POBRANIA ZE STRONY LUB Z jego
+        pomocą TREŚCI przy jego / jej własne ryzyko i wyłączną odpowiedzialność za
+        możliwe rezultaty korzystania z tych informacji, w tym wszelkich szkody, które
+        mogą powoduje DO KOMPUTERA użytkownika lub na trzecie STRONY, utratę danych
+        lub inne szkody; W żadnym wypadku Towarzystwo lub jego przedstawiciele nie
+        ponoszą odpowiedzialności dla użytkownika lub na którąkolwiek TRZECIEJ za
+        jakiekolwiek pośrednie, przypadkowe i UNWILFUL SZKODY, łącznie z utratą korzyści,
+        czy utraty danych, uszkodzenia honor, godność lub reputacji firmy, wynikające
+        z wprowadzenia WYKORZYSTANIE ze strony internetowej, jej treści lub wszelkie
+        inne informacje, do których ANI INNA OSOBA udzielono dostępu za pośrednictwem
+        strony internetowej, nawet jeśli spółka ostrzeżenie lub wskazuje na możliwość
+        wystąpienia takich szkód.
+      responsibilities_of_the_parties: 16. obowiązki stron.
+      p_16: Niniejsza Umowa podlega i będzie interpretowana zgodnie z prawem Federacji
+        Rosyjskiej. Zagadnienia, które nie zostały rozliczone na mocy Umowy będą rozstrzygane
+        zgodnie z ustawodawstwem Federacji Rosyjskiej. W przypadku jakichkolwiek sporów
+        lub kontrowersji związanych z realizacją niniejszego Regulaminu, Użytkownik
+        i Spółka dołoży wszelkich starań, aby rozwiązać je w drodze negocjacji. W
+        przypadku, gdy spór nie zostanie rozwiązany w drodze negocjacji, spory będą
+        rozstrzygane zgodnie z obowiązującym ustawodawstwem Federacji Rosyjskiej.
+        Niniejsza umowa jest wykonywana w języku rosyjskim i mogą być dostarczone
+        do Użytkownika do wglądu w innym języku. W przypadku rozbieżności wersji regulaminu
+        w języku rosyjskim, a jego wersją w innym języku, wersja w języku rosyjskim
+        z postanowieniami niniejszego regulaminu stosuje się. Jeśli z tego czy innego
+        powodu, jeden lub więcej postanowień niniejszego regulaminu zostanie uznane
+        za nieważne lub nieważne, nie ma to wpływu na ważność lub wykonalność pozostałych
+        postanowień.
+      other_provisions_and_changes: 17. INNE PRZEPISY i zmian.
+      p_17: niniejszej Umowy jest prawdziwe porozumienie między tobą a Flutylove Odnośnie
+        za pomocą strony internetowej i / lub usługi. Jeśli jakiekolwiek postanowienie
+        niniejszej Umowy pustek, reszta umowy pozostaje jego ważność w pełni skuteczne.
+        Niniejsza Umowa może zostać zmieniona przez Flutylove w dowolnym momencie.
+        Nie wahaj się skontaktować z nami w przypadku jakichkolwiek pytań dotyczących
+        niniejszej Umowy.
+      read_this: ZNAM niniejszej Umowy i zgadza się na wszystkie jej warunki.
+    about:
+      about_flutylove: O Flutylove
+      about_flutylove_text: Flutylove jest międzynarodowa sieć rozrywki społecznościowym
+        do datowania. Tutaj można znaleźć przyjaciół, bratnią duszę, partnerów lub
+        po prostu spędzić czas z cieszyć grając w gry lub oglądać filmy / zdjęcia.
+      flutylove_features: 'Kiedy zarejestrujesz się na naszej stronie, można dowiedzieć
+        się wiele funkcji, takich jak:'
+      video_call_feature: Możesz rozmawiać z partnerem z kamery
+      extended_search: można korzystać z rozszerzonego wyszukiwania za darmo
+      multilanguages: Możesz szukać partnerów z innych krajów, ponieważ nasze usługi
+        oczekuje się wykorzystania przez wielu ludzi z innych krajów, ponieważ jest
+        tłumaczony ponad 70 językach
+      play_games_chatting_etc: Możesz rozmawiać z innymi ludźmi, grać w gry i robić
+        kolejne spożywczych społecznych
+      we_are_in_social_networks: 'Jesteśmy w sieciach społecznościowych:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: WKontakcie
+      google_plus: Google Plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Używamy wysokich technologii i bibliotek
+        open source. Zawsze staramy się lepiej i poprawić nasze usługi.
+      partners_and_investors: Jesteśmy otwarci na partnerstwo i chcielibyśmy, aby
+        znaleźć inwestorów. Jeśli chcesz z nami współpracować prosimy o kontakt pod
+        adresem partnership@flutylove.com
+    faq:
+      faq: FAQ
+      what_is_flutylove: Co Flutylove?
+      about_flutylove: Flutylove jest międzynarodowa sieć rozrywki społecznościowym
+        do datowania. Tutaj można znaleźć przyjaciół, bratnią duszę, partnerów lub
+        po prostu spędzić czas z cieszyć grając w gry lub oglądać filmy / zdjęcia.
+      what_features_has_flutylove: Jakie funkcje ma Flutylove?
+      flutylove_features: Tutaj możesz porozmawiać z videocams, korzystać z rozszerzonego
+        wyszukiwania, partnerów wyszukiwania z innych krajów, grać w gry i robić inne
+        spożywczych społecznych.
+      i_have_some_requests: mam pewne wnioski
+      you_can_write_request: Możesz zarejestrować i zapisać go
+      here: tutaj
+      i_have_seen_some_typo_or_wrong_translation: Widziałem jakąś literówkę lub złego
+        tłumaczenia
+      you_can_send_pull_request_to_our: Możesz wysłać żądanie do naszego Pull
+      i_have_seen_some_error: Widziałem jakiś błąd
+      you_can_send: Możesz wysłać nam swoje opinie,
+      feedback: tej formy
+      to_us_or_write_to_our_info_mail: lub napisać e-mail do support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Witamy Flutylove
+      you_have_successfully_signed_up_to_flutylove: pomyślnym zalogowaniu do Flutylove
+      you_can_sign_in_with_your_social_networks: Jeśli chcesz zarejestrować się ponownie
+        można zalogować się przy użyciu konta sieci społecznej
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Jeśli
+        chcesz zalogować się za pomocą wiadomości e-mail i hasło można zmienić hasło,
+        wyloguj się i kliknij, aby połączyć poniżej
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: nieprawidłowe
+            search_for:
+              search_for_error: nieprawidłowe
+            birth_date:
+              birth_date_error: musi być większa niż 18, a mniej niż 115
+            interests:
+              interests_error: muszą być mniejsze niż 2000symbolami
+            jobs:
+              jobs_error: muszą być mniejsze niż 2000symbolami
+            languages:
+              languages_error: muszą być mniejsze niż 2000symbolami
+            sex_keywords:
+              sex_keywords_error: muszą być mniejsze niż 2000symbolami
+            my_turn_ons:
+              my_turn_ons_error_error: nieprawidłowe
+            contacts:
+              contacts_length_error: muszą być mniejsze niż 2000symbolami
+              contacts_size_error: muszą być mniejsze niż 21 kontaktów
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: ma nieprawidłową wartość
+  devise:
+    confirmations:
+      confirmed: konto zostało pomyślnie potwierdzone.
+      send_instructions: Otrzymasz e-mail z instrukcją jak potwierdzić swoje konto
+        w ciągu kilku minut.
+      send_paranoid_instructions: Jeśli Twój adres e-mail istnieje w naszej bazie
+        danych, otrzymasz e-mail z instrukcją jak potwierdzić swoje konto w ciągu
+        kilku minut.
+      new:
+        send_mail_for_confirm_your_email: Wyślij pocztę potwierdzić swój e-mail
+        submit: Zatwierdź
+    failure:
+      already_authenticated: jesteś już zalogowany.
+      inactive: Twoje konto nie zostało jeszcze aktywowane.
+      invalid: Nieprawidłowy e-mail lub hasło.
+      locked: Twoje konto jest zablokowane.
+      last_attempt: Masz jeszcze jedną próbę, zanim konto zostanie zablokowane.
+      not_found_in_database: Nieprawidłowy e-mail lub hasło.
+      timeout: Twoja sesja wygasła. Proszę zalogować się ponownie, aby kontynuować.
+      unauthenticated: musisz się zalogować lub zarejestrować się przed kontynuowaniem.
+      unconfirmed: Musisz potwierdzić swoje konto przed kontynuowaniem.
+    mailer:
+      confirmation_instructions:
+        subject: instrukcji potwierdzania
+        welcome_to_flutylove: Witamy Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Możesz potwierdzić
+          swój e-mail poprzez poniższy link
+        confirm_my_account: Potwierdź mój e-mail
+      reset_password_instructions:
+        hello: Witam
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Ktoś
+          żąda odnośnik do zmiany hasła. Można to zrobić za pomocą poniższego linku.
+        change_my_password: Zmień hasło
+        if_you_didnt_request_this_please_ignore_this_email: Jeśli nie wystąpiła ta
+          zignoruj ​​tę wiadomość.
+      unlock_instructions:
+        subject: Unlock Instrukcje
+    omniauth_callbacks:
+      failure: Nie można uwierzytelnić cię z% {rodzaju}, ponieważ "% {powód}".
+      success: pomyślnym uwierzytelnieniu z% {rodzaju} rachunku.
+    passwords:
+      no_token: nie można uzyskać dostęp do tej strony bez pochodzących z email resetowania
+        hasła. Jeśli nie pochodzą z e-mail resetowania hasła, należy upewnić się,
+        że używany pełny adres URL do tego celu.
+      send_instructions: Otrzymasz e-mail z instrukcjami, jak zresetować hasło w ciągu
+        kilku minut.
+      send_paranoid_instructions: Jeśli Twój adres e-mail istnieje w naszej bazie
+        danych, otrzymasz odnośnik do odzyskiwania hasła na adres e-mail w ciągu kilku
+        minut.
+      updated: Twoje hasło zostało pomyślnie zmienione. Jesteś teraz zalogowany.
+      updated_not_active: Twoje hasło zostało pomyślnie zmienione.
+      new:
+        forgot_your_password: Odzyskiwanie hasła
+        reset_password: Wysłać odzyskać url
+      edit:
+        change_your_password: Zmień swoje hasło
+        new_password: Nowe hasło
+        confirm_password: Potwierdź hasło
+        change_password: Zmień
+    registrations:
+      destroyed: Bye! Twoje konto zostało pomyślnie anulowane. Mamy nadzieję, że do
+        zobaczenia wkrótce.
+      signed_up: Witamy! Zarejestrowaniu się pomyślnie.
+      signed_up_but_inactive: zarejestrowaniu się pomyślnie. Jednak nie udało się
+        zalogować, ponieważ Twoje konto nie zostało jeszcze aktywowane.
+      signed_up_but_locked: zarejestrowaniu się pomyślnie. Jednak nie udało się zalogować,
+        ponieważ Twoje konto jest zablokowane.
+      signed_up_but_unconfirmed: wiadomość z linkiem potwierdzającym zostało wysłane
+        na Twój adres e-mail. Proszę otworzyć link do aktywacji konta.
+      update_needs_confirmation: Zmieniłeś swoje konto pomyślnie, ale musimy zweryfikować
+        swój nowy adres e-mail. Proszę sprawdzić pocztę i kliknij na link potwierdzenia,
+        aby sfinalizować potwierdzający nowy adres e-mail.
+      updated: Zmieniłeś swoje konto pomyślnie.
+      new:
+        sign_up: Zarejestruj się
+        name: Nazwa
+        password: Hasło
+        register: Zarejestruj się
+    shared:
+      links:
+        sign_in: Zaloguj się
+        sign_up: Zarejestruj się
+        didnt_receive_confirmation_instructions: Nie otrzymałem instrukcji potwierdzania?
+        sign_in_with: Zaloguj się
+        fast_login_almost_one_click: Szybkie logowanie (prawie jedno kliknięcie)
+    sessions:
+      signed_in: Zalogowano pomyślnie.
+      signed_out: Signed się pomyślnie.
+      new:
+        sign_in: Zaloguj się
+        password: Hasło
+        remember_me: Zapamiętaj mnie
+        forgot_your_password: Nie pamiętasz hasła?
+    unlocks:
+      send_instructions: Otrzymasz e-mail z instrukcją jak odblokować konto w ciągu
+        kilku minut.
+      send_paranoid_instructions: Jeśli konto nie istnieje, otrzymasz email z instrukcją,
+        jak je odblokować w ciągu kilku minut.
+      unlocked: konto zostało odblokowane z powodzeniem. Proszę się zalogować, aby
+        kontynuować.
+  timezones:
+    American Samoa: Samoa Amerykańskie
+    International Date Line West: Międzynarodowa linia zmiany daty Zachód
+    Midway Island: Midway
+    Hawaii: Hawaje
+    Alaska: Alaska
+    Pacific Time (US & Canada): czasu pacyficznego (USA i Kanada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Czas górski (USA i Kanada)
+    Central America: Ameryka Środkowa
+    Central Time (US & Canada): Central Czas (USA i Kanada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Eastern Time (USA i Kanada)
+    Indiana (East): Indiana (East)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlantic Czas (Kanada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Nowa Fundlandia
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Grenlandii
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Azory
+    Cape Verde Is: Zielonego Przylądka.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edynburg
+    Lisbon: Lizbona
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrad
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Bruksela
+    Budapest: Budapeszt
+    Copenhagen: Kopenhaga
+    Ljubljana: Ljubljana
+    Madrid: Madryt
+    Paris: Paris
+    Prague: Praga
+    Rome: Rzym
+    Sarajevo: Sarajewo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Wiedeń
+    Warsaw: Warszawa
+    West Central Africa: Zachodnia Afryka Środkowa
+    Zagreb: Zagreb
+    Athens: Ateny
+    Bucharest: Bukareszt
+    Cairo: Cairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kaliningrad
+    Kyiv: Kijów
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallin
+    Vilnius: Wilno
+    Baghdad: Bagdad
+    Kuwait: Kuwejt
+    Minsk: Mińsk
+    Moscow: Moskwa
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: Petersburg
+    Volgograd: Wołgograd
+    Tehran: Tehran
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Erywań
+    Kabul: Kabul
+    Ekaterinburg: Jekaterynburg
+    Islamabad: Islamabad
+    Karachi: Karaczi
+    Tashkent: Taszkient
+    Chennai: Chennai
+    Kolkata: Kalkuta
+    Mumbai: Bombaj
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Katmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Nowosybirsk
+    Urumqi: Urumczi
+    Rangoon: Rangun
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnojarsk
+    Beijing: Pekinie
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkuck
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapur
+    Taipei: Taipei
+    Ulaanbaatar: Ułan Bator
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Jakuck
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Władywostok
+    Magadan: Magadan
+    New Caledonia: Nowa Kaledonia
+    Solomon Is: Salomona.
+    Srednekolymsk: Sriedniekołymsk
+    Auckland: Auckland
+    Fiji: Fidżi
+    Kamchatka: Kamczatka
+    Marshall Is: Marshall Is.
+    Wellington: Wellington
+    Chatham Is: Chatham.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau Is.
+  pl: pl
+  pl_iso: pl

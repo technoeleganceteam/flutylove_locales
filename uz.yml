@@ -1,0 +1,1188 @@
+---
+uz:
+  1_we_have_just_launched_our_service_title: Biz faqat bizning xizmatini ishga tushirdi
+    qilgan!
+  common_keywords: tanishyapman, onlayn tanishyapman, sevgi tanishyapman, veb-kamera
+    dating, tezligi dating, chat Tanishuv, Rails Ruby sayt uchrashib, ko'p til biluvchi
+    dating sayt
+  common_description: tarihlemeleri uchun eng ilg'or xalqaro ijtimoiy ko'ngilochar
+    tarmoq "Flutylove"
+  default_album: Default albom
+  user: Foydalanuvchi
+  user_to_search_connection: Qidiruv
+  video: Video
+  note: Eslatma
+  photo_album: Fotoalbom
+  from: From
+  to: uchun
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Erkak
+  - female:
+      name: Ayol
+  - transgender:
+      name: tashíari
+  - male-female:
+      name: Erkak-ayol
+  - double-female:
+      name: Double ayol
+  - double-male:
+      name: Double erkak
+  orientation:
+  - heterosexual: Heterosexual
+  - homosexual: Gomoseksual
+  - bisexual: Biseksüel
+  search_for:
+  - get_friends: qiling do'stlar
+  - flirtation: Noz-karashma
+  - marriage: Nikoh
+  - other: Boshqa
+  body_type:
+    slim: Slim
+    normal: Oddiy
+    chubby: Chubby
+  relationship:
+    single: Yagona
+    married: Uylangan
+  children:
+    dont_have: yo'qmi
+    dont_have_and_dont_want_to: yo'qmi va istamayman
+    don_t_have_but_planning: bor, lekin rejalashtirish qilmang
+    have_enough: Have
+    have_and_planning_more: Have va ko'proq rejalashtirish
+  education:
+    nothing: Hech narsa
+    secondary_school: O'rta maktab
+    college_technical_college: kolleji / Texnik kollej
+    university: universiteti
+    postgraduate: Oliy Litsenziya
+    phd_md_post_doctorate: PhD / MD / Post doktorlik
+  hair_color:
+    blonde: fotosini
+    dark_blond: To'q fotosini
+    brown: Brown
+    black: qora
+    red: Red
+    gray: Gray
+    other: Boshqa
+  income:
+    unstable_earnings: Beqaror daromad
+    small_stable_earnings: kichik barqaror daromad
+    medium_stable_earnings: O'rta barqaror daromad
+    high_income: Oliy keladi
+  smoking:
+    not_smoke_and_detest: chekish va chekishni yoqtirmasa emas
+    smoke_only_after_drinking: Smoke faqat ichimlik keyin
+    smoke_occasionally: Smoke vaqti-vaqti bilan
+    smoke_often: Smoke ko'pincha
+  alcohol:
+    drink_occalionally: Ichkilik, vaqti-vaqti
+    drink_often: Ichkilik ko'pincha
+  drugs:
+    dont_use: foydalanmang
+    contra_drugs: Contra dorilar
+    tried_out_some: chiqib harakat qildi, ba'zi
+    light_drugs_occasionally: Light dorilar ba'zan
+  sponsor:
+    i_want_to_find_a_sponsor: Men Homiy istayman
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: bir Homiyning emas va
+      biri bo'lishga tayyor emas
+  category_name:
+    strategy: Strategy
+    rpg: RPG
+    3d_shooters: 3D otishma
+    racing: Racing
+    arcade: Arkada
+    economic: Iqtisodiy
+    simulators: Simulatörleri
+    logic: Mantiq
+    adventure: Sarguzasht
+    board_games: kengashi o'yinlar
+    gambling: Qimor
+    news: Yangiliklar
+    communication: Aloqa
+    multimedia: Multimedia
+    drawing: Chizmachilik
+    educational: Ta'lim
+    e_commerce: E-Commerce
+    other: Boshqa
+  shared:
+    header:
+      people: Odamlar
+      chat: Chat
+      groups: Guruhlar
+      forum: Forum
+      requests: talablar
+      help: Yordam
+      user_applications: Ilovalar
+    liked_users:
+      liked: Yoqqan
+      all: Barcha
+      you_have_not_liked_any_users_yet: Siz hali biron foydalanuvchilar yoqdi yo'q
+    most_liked_users:
+      most_liked_users: Mashhur foydalanuvchilar
+    installed_user_applications:
+      installed_applications: O'rnatilgan dasturlar
+      all: Barcha
+      you_have_not_installed_any_apps_yet: Siz hali biron dasturini o'rnatilgan yo'q
+    user_applications:
+      uploaded_apps: Uploaded ilovalar
+      all: Barcha
+      you_have_not_uploaded_any_apps_yet: Siz hali biron ilovalarni yuklangan yo'q
+    right_sidebar:
+      news: Yangiliklar
+      all: Barcha
+      read_more: Davomi
+    footer:
+      privacy: Maxfiylik
+      terms: shartlari
+      feedback: aloqa
+      abuse: bekorga
+    languages_select_modal:
+      available_languages: Mavjud tillar
+    site_map_modal:
+      site_map: Sayt xaritasi
+      faq: FAQ
+      about: haqida
+      static_pages: Statik sahifalar
+      common_pages: Common sahifalar
+      user_pages: Foydalanuvchi sahifalar
+      terms: shartlari
+      privacy: Maxfiylik
+      people: Odamlar
+      user_applications: Ilovalar
+      user_requests: talablar
+      news: Yangiliklar
+      feedback: aloqa
+      abuse: bekorga
+      chats: Chatlarni
+      videos: Videos
+      photo_albums: Foto albomlar
+      notes: eslatmalar
+    pagination_link:
+      next_page: Keyingi sahifa
+    user_edit_menu:
+      content: tarkib
+      profile: Profile
+      site_settings: Sayt sozlamalari
+      privacy: Maxfiylik
+      services: Xizmatlar
+    activities_navigation:
+      all: Barcha
+      photos: Photos
+      photo_albums: Foto albomlar
+      notes: eslatmalar
+      videos: Videos
+    notifications_navigation:
+      all: Barcha
+      likes: Given
+      friend_requests: Friend so'rovlar
+      profile_views: profili views
+      photo_album_views: Photos views
+    user_to_friend_connections_navigation:
+      friends: Do'stlar
+      friends_online: Do'stlar onlayn
+      outcome_requests: Natija so'rovlar
+      income_requests: daromad so'rovlar
+    user_applications_navigation:
+      all: Barcha
+      new: Yangi
+      popular: mashhur
+      often_installed: Ko'pincha o'rnatilgan
+      manage: boshqarish
+    user_requests_navigation:
+      all: Barcha
+      popular: mashhur
+    user_navbar_menu:
+      sign_in: Sign in
+      sign_up: o't
+    email_signature:
+      info: ma'lumot
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: tanlang gender
+      select_orientation: tanlang yo'nalishi
+    need_to_sign_in_modal:
+      you_need_to_sign_in: bu aksiyalar oldin kiring kerak
+    sign_up_methods:
+      usual_register_link: odatdagi ro'yxatdan
+    bootstrap_gallery:
+      next: Keyingi
+    user_notification_title:
+      wrote_message_to_you: sizga xabar yozgan
+      viewed_your_profile: profilini qarasa
+      liked_your_photo: o'z fotosuratingizni Yoqqan
+      liked_your_note: matningizni Yoqqan
+      liked_your_request: sizning so'rov Yoqqan
+      liked_your_video: video Yoqqan
+      liked_your_application: Arizangizni Yoqqan
+      requested_a_friendship: do'stlik Oldiga
+  authentications:
+    authentication:
+      turn_off: o'chiring
+      turned_on: yoqilgan
+      turned_off: o'chirilgan
+    index:
+      enabled_services: Yoqilgan xizmatlar
+  users:
+    profile:
+      submit: saqlash
+      name: nomi
+      meet_with: Tanishish bilan
+      gender: Gender
+      enter_your_name: Ismingizni kiriting
+      more_options: More
+      orientation: Yo'llanma
+      birth_date: Tug'ilgan sanasi
+      location: Manzil
+      intimacy: yaqin munosabat
+      from: dan
+      to: uchun
+      interests: Qiziqishlari
+      height: Balandligi
+      weight: Og'irligi
+      body_type: Korpus turi
+      hair_color: Soch rang
+      relationship: Aloqa
+      children: Bolalar
+      living: Living
+      education: Ta'lim
+      jobs: Ishlagan
+      income: daromad
+      languages: tillari
+      smoking: Smoking
+      alcohol: Alcohol
+      drugs: Preparatlar
+      contacts: Aloqa
+      contact_name: aloqa nomi
+      contact_value: aloqa qiymati
+      save: saqlash
+    settings:
+      submit: saqlash
+      locale: Interface tili
+      change_password: o'zgartirish parol
+      interface_language: Interface tili
+      time_zone: Vaqt mintaqasi
+    dialog_modal:
+      send_message: Xabar jo'nating
+    index:
+      users: foydalanuvchilar
+      clear_search: Clear qidiruv
+    dashboard:
+      hello: Salom
+      chats: Chatlarni
+      messages: Xabarlar
+      photos: Photos
+      videos: Videos
+      notes: eslatmalar
+      photo_albums: Foto albomlar
+    avatar:
+      photo: Photo
+      uploading_file: Yuklab fayl
+      handling_file: ishlov berish fayl
+      drag_and_drop_your_file: Drag va faylni tomchi
+      or: yoki
+      upload_file: upload fayl
+      write_down_link_for_your_image: rasmingizni linkni yozib
+      upload: upload
+      edit_photo: Edit foto
+      delete_photo: Delete photo
+      are_you_sure: Agar ishonchingiz komilmi?
+    available_photos_modal:
+      available_photos: Mavjud rasmlar
+    edit_photo:
+      edit_photo: Edit foto
+      crop: Crop
+      close: Close
+      save_changes: saqlash o'zgarishlar
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      orientation: Yo'llanma
+      meet_with: Tanishish bilan
+      desirable_age: orzu yoshi
+      from: dan
+      to: uchun
+      interests: Qiziqishlari
+      height: Balandligi
+      sm: sm
+      kg: kg
+      body_type: Korpus turi
+      hair_color: Soch rang
+      relationship: Aloqa
+      children: Bolalar
+      living: Living
+      education: Ta'lim
+      jobs: Jobs
+      income: daromad
+      languages: tillari
+      smoking: Smoking
+      alcohol: Alcohol
+      drugs: Preparatlar
+      contacts: Aloqa
+    user_info:
+      offline: Offline
+      online: Online
+      age: Yosh
+    loading_modal_images:
+      loading_images: Loading tasvirlar
+    password_form:
+      new_password: Yangi parol
+      old_password: Eski parol
+      change_password: o'zgartirish parol
+    show:
+      photos: Photos
+      all: Barcha
+      videos: Videos
+      notes: eslatmalar
+      view: View
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: Paste qabul asosiy
+      submit: Submit
+    contents:
+      all: Barcha
+    more_profile_info:
+      photo_albums: Foto albomlar
+      view_all_photo_albums: barcha foto albomini ko'rish
+      create_more: ko'proq yaratish
+      videos: Videos
+      view_all_videos: ko'rish videos
+      notes: eslatmalar
+      view_all_notes: ko'rish eslatma
+      requirements_lists_to_partner: talablar sherik qilish ro'yxati
+      requirement: talablar
+      view_all_requirements_lists: ko'rish talablar ro'yxati
+      profile_verification: Profile tekshirish
+      create: yaratish
+      verify_through_twitter: Twitter orqali tasdiqlang
+      verify_through_facebook: Facebook orqali tasdiqlang
+      verify_through_mail_ru: Mail.ru orqali tasdiqlang
+    privacy:
+      privacy: Maxfiylik
+  searches:
+    form:
+      location: Manzil
+      from: dan
+      to: uchun
+      age: Yosh
+      gender: Gender
+    form_content:
+      city: City
+      gender: Gender
+      to: uchun
+      online: Online
+      verified: Tasdiqlangan
+      has_avatar: aloqa Has
+      region: viloyati
+      more: More
+      country: Country
+      interests: Qiziqishlari
+      languages: tillari
+      names: Ismlar
+      height: Balandligi
+      from: dan
+      weight: Og'irligi
+      body_type: Korpus turi
+      relationship: Aloqa
+      hair_color: Soch rang
+      education: Ta'lim
+      orientation: Yo'llanma
+      children: Bolalar
+      living: Living
+      smoking: Smoking
+      alcohol: Alcohol
+      drugs: Preparatlar
+      income: daromad
+    show:
+      users: foydalanuvchilar
+      clear_search: Clear qidiruv
+  welcome:
+    index:
+      people: Odamlar
+      requests: talablar
+      user_applications: Ilovalar
+      about: haqida
+      features: xususiyatlari
+      registration: Ro'yxatdan
+      sign_in: Sign in
+      find_more: ko'proq topish
+      about_title: Flutylove tarihlemeleri uchun xalqaro ijtimoiy ko'ngilochar tarmog'i
+      about_text: Agar ermaklar va tarihlemeleri uchun foydalanishingiz mumkin qancha
+        xususiyatlari bor!
+      many_languages: Ko'pchilik tillar
+      check_it_out: uni tekshiring
+      videochats: Videochats
+      try_it_now: endi ko'ring
+      search: Qidiruv
+      text_about_search: va bepul!
+      watch_this: Watch bu
+      more_features: Qo'shimcha xususiyatlari
+      register_and_learn_more: Ro'yxatdan o'tish va qo'shimcha ma'lumot olish
+      install_our_apps: mashhur platformalarda bizning ilovalarni o'rnatish
+      register_header: Ro'yxatdan
+  feedbacks:
+    new:
+      feedback_title: aloqa
+    form:
+      feedback_content: aloqa kontent
+      close: Close
+      send: Send
+      feedback_recaptcha: Xavfsizlik oladi
+      cancel: Bekor qilish
+    success:
+      success_feedback: rahmat! Biz fikringizni qabul qilgan.
+      close: Close
+      cancel: Bekor qilish
+      more: ko'proq yuborish
+  abuses:
+    new:
+      abuse_title: bekorga
+    form:
+      abuse_content: bekorga kontent
+      abuse_title: bekorga
+      close: Close
+      send: Send
+      abuse_recaptcha: Xavfsizlik oladi
+      abuse_link: bog'laning
+      cancel: Bekor qilish
+    success:
+      success_abuse: rahmat! Biz sizning suiiste'mol qabul qilgan.
+      close: Close
+      cancel: Bekor qilish
+      more: ko'proq yuborish
+  recaptcha:
+    errors:
+      verification_failed: bo'lmadi Xavfsizlik oladi
+      recaptcha_unreachable: Xavfsizlik oladi topilmadi
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_text: Bugun biz shuning uchun har bir kishi
+        jon bizning servisdan
+      sign_up: ro'yxatdan
+      and_use_it: va uni ishlatish.
+      flutylove_team: Flutylove Team
+    index:
+      read_more: Davomi
+  chats:
+    panel_head:
+      online: Online
+      offline: Offline
+    pagination_link:
+      next_page: Keyingi sahifa
+    form:
+      message_text: Xabar matni
+    form_additions:
+      submit: Submit
+      videochat: videochat
+    show:
+      messages: Xabarlar
+    index:
+      messages: Xabarlar
+    videochat_request_link:
+      connect_to_videochat: Connect videochat uchun
+    modal_form:
+      send_message: Xabar jo'nating
+      recipient: Oluvchi
+      message: Xabar
+      close: Close
+      submit: Submit
+    waiting_video_answer_button:
+      waiting_for_response: javob kutilmoqda ...
+    chat_created:
+      send_message: Xabar jo'nating
+      message_was_sent: Xabar jo'natildi
+      close: Close
+  messages:
+    pagination_link:
+      next_page: Keyingi sahifa
+    form:
+      message_text: Xabar matni
+  notifications:
+    user_to_friend_connection:
+      action: tadbirlar
+    notification:
+      offline: Offline
+      online: Online
+    like:
+      action: tadbirlar
+    photo_album_view:
+      action: tadbirlar
+    user_view:
+      action: tadbirlar
+  user_applications:
+    user_application:
+      who_uploaded: Yukladi
+      all_uploaded_applications_by: Barcha yuklangan ilovalar bilan
+    form:
+      name: nomi
+      user_application_name: Application nomi
+      description: Tavsif
+      description_text: Tavsif matn
+      iframe_url: Iframe url
+      icon_for_application: Application icon
+      upload_icon: Download icon
+      public: Public?
+      category_name: Turkum
+      create: yaratish
+      edit: Edit
+    show:
+      application: Application
+      return_to_uploaded_applications: ariza yuklangan uchun
+      edit_application: Edit dastur
+    manage:
+      installed_applications: O'rnatilgan dasturlar
+      uploaded_applications: Uploaded ilovalar
+      all: Barcha
+    index:
+      create_new: yangi yaratish
+    installed:
+      installed_applications: O'rnatilgan dasturlar
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: nuqtai oldin bu dastur siz
+        birinchi kiring kerak
+    need_to_install:
+      need_to_install_first: Siz birinchi bo'lib, bu dasturni o'rnatish kerak
+  likes:
+    index:
+      liked_items: Yoqqan mahsulot
+  videos:
+    index:
+      videos: Videos
+      create_new: yangi yaratish
+      return_to_profile: Qaytish profil
+    video:
+      edit: Edit
+      are_you_sure: Agar ishonchingiz komilmi?
+      delete: o'chirish
+    modal_form:
+      create_new_video: yangi video yaratish
+      close: Close
+      create: yaratish
+    form_content:
+      name: nomi
+      video_name: Video nomi
+    show:
+      video: Video
+      edit_video: Edit video
+    edit:
+      edit_video: Edit video
+      view_video: View video
+    form:
+      edit: Edit
+  photo_albums:
+    index:
+      photo_albums: Foto albomlar
+      create_new: yangi yaratish
+      return_to_profile: Qaytish profil
+    photo_album:
+      edit: Edit
+      create: yaratish
+      are_you_sure: Agar ishonchingiz komilmi?
+      delete: o'chirish
+    edit:
+      edit_photo_album: Edit foto albomi
+      view_photo_album: View photo album
+    form_content:
+      name: nomi
+      photo_album_name: Fotoalbom nomi
+    form:
+      edit: Edit
+      create: yaratish
+    photo_album_uploader:
+      drag_and_drop_your_file: Drag va faylni tomchi
+      or: yoki
+      upload_file: upload fayl
+      write_down_link_for_your_image: rasmingizni linkni yozib
+      upload: upload
+    show:
+      photo_album: Fotoalbom
+      edit_photo_album: Edit foto albomi
+    modal_form:
+      create_new_photo_album: yangi foto albom yaratish
+      close: Close
+      create: yaratish
+  user_requests:
+    form:
+      content: tarkib
+      edit: Edit
+      create: yaratish
+  notes:
+    index:
+      notes: eslatmalar
+      create_new: yangi yaratish
+      return_to_profile: Qaytish profil
+    note:
+      edit: Edit
+      are_you_sure: Agar ishonchingiz komilmi?
+      delete: o'chirish
+    show:
+      note: Eslatma
+      edit_note: Edit eslatma
+    form_content:
+      content: tarkib
+      note_content: Eslatma tarkibi
+      edit: Edit
+      create: yaratish
+    edit:
+      edit_note: Edit eslatma
+      view_note: View eslatma
+  user_to_search_connections:
+    index:
+      requirements_lists: talablar ro'yxati
+      create_new: yangi yaratish
+    user_to_search_connection:
+      edit: Edit
+      are_you_sure: Agar ishonchingiz komilmi?
+      delete: o'chirish
+    edit:
+      edit_requirements_list: Edit talablar ro'yxati
+      view_requirements_list: View talablar ro'yxati
+    form_content:
+      name: nomi
+    form:
+      edit: Edit
+    show:
+      requirements_list: talablar ro'yxati
+      edit_requirements_list: Edit talablar ro'yxati
+  photos:
+    index:
+      photos: Photos
+      return_to_profile: profile
+  errors:
+    messages:
+      already_confirmed: allaqachon tasdiqlangan, urinib ko'ring iltimos
+      confirmation_period_expired: "% {davri} doirasida tasdiqlangan bo'lishi kerak,
+        yangisini talab qiling"
+      expired: ", yangisini talab qiling"
+      not_found: topilmadi
+      not_locked: qulflangan emas edi
+      not_saved:
+        one: '1 xato najot topmagan bu% {resurs} taqiqlanadi:'
+        other: "% saqlanadi bu% {resurs} taqiqlanadi xatolarni {hisoblash}:"
+    bad_request:
+      bad_request: Bad Request
+      request_result: talab natija
+      go_to_root: ildizi o'tish
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable Entity
+      request_result: talab natija
+      go_to_root: ildizi o'tish
+    not_found:
+      not_found: topilmadi
+      request_result: talab natija
+      go_to_root: ildizi o'tish
+    forbidden:
+      forbidden: Man
+      request_result: talab natija
+      go_to_root: ildizi o'tish
+    internal_server_error:
+      internal_server_error: Ichki Server xato
+      request_result: talab natija
+      internal_server_error_description: Nimadir noto'g'ri ketdi. Biz imkon qadar
+        tezroq uni tuzatish.
+      go_to_root: ildizi o'tish
+  af_full: 739 Shaxsiy ma'lumotlar sub'ektlarining huquqlarini himoya qilish uchun
+    vakolatli hokimiyatni ogohlantirmadilar shaxsiy ma'lumotlarni qayta ishlash amalga
+    oshirish huquqiga ega.
+  pages:
+    privacy:
+      privacy: Flutylove Maxfiylik siyosati
+      general_provisions: Umumiy qoidalar
+      p_1_1: 1.1. Bu Nizom joylashgan mas'uliyati cheklangan jamiyati "Technoelegance"
+        rasmiy hujjat hisoblanadi 101000, Moskva, Ulanskiy pereulok 13, stroeniye
+        4, pomeshcheniye 1 (Flutylove, Company, oxiratda) va ma'lumotlarni qayta ishlash
+        va jismoniy shaxslarning axborot xavfsizligi tartib aniqlash kim 18 yoshga
+        yetdi, va kim veb-sayt https://flutylove.com (veb-sayt oxiratda) va uning
+        xizmat (Foydalanuvchilar oxiratda) foydalaning.
+      p_1_2: 1,2. Mazkur Nizomning maqsadi ruxsatsiz foydalanish va oshkor shaxsiy
+        ma'lumotlar, shu jumladan, foydalanuvchi ma'lumotlar tufayli himoya, ta'minlashdan
+        iborat.
+      p_1_3: 1.3. yig'ish, saqlash, tarqatish va Sayt foydalanuvchi axborot xavfsizligi
+        bilan bog'liq munosabatlar ushbu Nizomga, kompaniyaning boshqa rasmiy hujjatlar
+        va Rossiya Federatsiyasi joriy qonunchiligi bilan tartibga solinadi.
+      p_1_4: 1.4. link http://flutylove.com/pages/privacy~~dobj quyidagi qachon bir
+        davlat hujjati bo'lgan Nizom, joriy versiyasi, har qanday Internet foydalanuvchiga
+        mavjud. Kompaniya ushbu Nizomni o'zgartirish huquqiga ega. holda o'zgarishlar
+        Nizomga qilingan, Kompaniya samarali oldin, Turar joyining manzili http://flutylove.com/pages/privacy~~pobj
+        da veb kechiktirmay 10 kun Nizomning yangi versiyasini chop tomonidan foydalanuvchilar
+        xabardor qiladi o'zgarishlar sana. Nizomning oldingi versiyalari kompaniyasi
+        hujjatlar arxivda saqlanadi.
+      p_1_5: 1,5. Bu Nizom ishlab chiqildi va foydalanuvchi Bitimga muvofiq ishlatiladi.
+        Bu Nizomga va kompaniyaning boshqa rasmiy hujjatlar orasida hech qanday zid
+        holda, bu nizom kuchga kerak.
+      p_1_6: 1,6. Veb-sayt foydalanib, siz bu Maxfiylik siyosati shartlariga rozilik
+        bildirasiz. Diqqat bilan o'qing. Agar bu Maxfiylik siyosati shartlariga rozi
+        bo'lmagan, yoki 18 yoshga to'lmagan bo'lsangiz, veb-sayt va uning Xizmatlar
+        foydalanish mumkin emas. Veb-sayt foydalanib, qat'i nazar, siz ro'yxatdan
+        Flutylove foydalanuvchi yoki yo'qmi, siz to'liq bu Maxfiylik siyosati qabul
+        tasdiqlash va uni kuzatib rozilik bildirasiz.
+      p_2_1: '2.1. Sayt Flutylove foydalanish uchun siz ro''yxatdan o''tish kerak.
+        nomi, elektron pochta manzili, jinsi, tug''ilgan sanasi, joyi haqida ma''lumot:
+        Quyidagi ma''lumot, ro''yxatga olish paytida belgilangan bo''lishi kerak.
+        Foydalanuvchi o''z / o''z istagiga qo''shimcha shaxsiy ma''lumotlarni taqdim
+        etishi mumkin. Foydalanuvchi tahrir yoki har qanday vaqtda shaxsiy ma''lumotlarni
+        yangilash mumkin. Kompaniya o''zgarish jinsi va foydalanuvchi tug''ilgan sanasi
+        taqdirda qo''shimcha hujjatlarni talab qilish huquqiga ega.'
+      p_2_2: 2.2. Sayt haqida ro'yxatga olish uchun 18 yoshdan bo'lishi uchun zarur
+        deb tushunadi:, Sayt va uning xizmatlari, Kompaniya kirish imkonini beruvchi
+        bir oqilona tarzda va yaxshi niyat bilan harakat, Foydalanuvchi deb hisoblaydi
+        barcha zarur huquqlarini bu veb ro'yxatga olish va uni ishlatish imkoniyatiga
+        ega bo'lish uchun bor; o'zi haqida aniq ma'lumotlar beradi / o'zini sayt xizmatlari
+        foydalanish uchun so'rovlarini muvofiq; Foydalanuvchi tomonidan taqdim saytida
+        shaxsiy ma'lumotlar, shuningdek, nusxa ko'chirish va boshqa foydalanuvchilar
+        tomonidan tarqatilgan mumkin veb-sayt va internet foydalanuvchilar, boshqa
+        foydalanuvchilar uchun mavjud bo'lishi mumkin xabardor bo'lsa; Boshqa foydalanuvchilar
+        uchun o'tkazilgan ba'zi ma'lumotlarni turlari, foydalanuvchi tomonidan o'chirildi
+        bo'lishi mumkin emas, deb xabardor bo'lsa; ushbu Nizomda xabardordir, ular
+        bilan qabul qiladi va belgilangan huquq va majburiyatlarga majburiyatini oladi.
+      p_2_3: 2,3. Bunday tekshiruv foydalanuvchiga Kompaniya majburiyatlarini bajarish
+        uchun zarur bo'lgan paytda kompaniyasi hollar bundan mustasno, foydalanuvchilar
+        haqida olgan (to'plangan) ma'lumotlarning to'g'riligini tekshirish emas.
+      information_processing_objectives: Axborot qayta ishlash maqsadlari
+      p_3_1: 3.1. Kompaniyasi veb-sayti va xizmatlaridan foydalanish uchun foydalanuvchilar
+        Kompaniyaning majburiyatlarini bajarish uchun, o'z shaxsiy ma'lumotlar, shu
+        jumladan, foydalanuvchilar haqida ma'lumot ishlash amalga oshiradi.
+      p_4_1: '4.1. Foydalanuvchilarning shaxsiy ma''lumotlarini o''z ichiga oladi:'
+      p_4_1_1: 4.1.1. nomi, elektron pochta manzili, jinsi, foydalanuvchilar tomonidan
+        taqdim etilgan va veb ro'yxatga olish uchun faqat etarli bo'lishi kerak tug'ilgan,
+        Manzil ma'lumotlar, va telefon raqami, sanasi;
+      p_4_1_2: 4.1.2. (Masalan, rasm, zararli odatlarga boshqalar haqida ma'lumot
+        olish uchun) User tomonidan taqdim etiladi ma'lumotlar;
+      p_4_1_3: 4.1.3. qo'shimcha Foydalanuvchining barcha Shartnomaga dan paydo, foydalanuvchilar
+        uchun Kompaniya majburiyatlarini bajarish uchun kompaniyasi talabiga ko'ra
+        User tomonidan taqdim etilgan. Kompaniyasi Kompaniya xohishiga ko'ra, zarur
+        bo'ladi, hisobga olish hujjati yoki nomi, jinsi va tug'ilgan sanasi o'z ichiga
+        olgan har qanday boshqa hujjatlar, shuningdek, boshqa qo'shimcha ma'lumotlarni
+        bir nusxasini va foydalanuvchilar talab qilish, xususan bir huquqiga ega bunday
+        foydalanuvchi aniqlash uchun etarli va uchinchi shaxslarning huquqlarini suiiste'mol
+        qilish va buzilishi bartaraf etish mumkin.
+      p_4_2: '4.2. Kompaniya The Sayt ma''muriyati tomonidan boshqa Foydalanuvchi
+        axborotni qayta ishlash, shuningdek, o''z ichiga oladi foydalanuvchilar haqida
+        boshqa ma''lumotlar jarayonlari:'
+      p_4_2_1: 4.2.1. Veb-sayt va Foydalanuvchi keyingi harakatlarini kirayotganda
+        avtomatik http-server tomonidan qabul umumiy ma'lumotlar, (kompyuterning IP-manzili,
+        foydalanuvchi operatsion tizimi turi, sayt sahifalarida Foydalanuvchining
+        tashrif buyurdi).
+      p_4_2_2: 4.2.2. xatcho'plar (cookie) yordamida veb-sayt kirayotganda avtomatik
+        ravishda qabul ma'lumotlar;
+      p_4_2_3: 4.2.3. Sayt haqida Foydalanuvchi harakatlari natijasida olingan ma'lumotlar;
+      p_4_2_4: 4.2.4. Veb boshqa foydalanuvchilar harakatlari natijasida olingan ma'lumotlar.
+      users_information_processing: Foydalanuvchi axborotni qayta ishlash
+      p_5_1: '5.1. Shaxsiy ma''lumotlar ishlash quyidagi tamoyillar asosida olib boradi:
+        a) qonuniy maqsad va shaxsiy ma''lumotlarni qayta ishlash vositalari; b) halollik;
+        c) maqsadida shaxsiy ma''lumotlarni qayta ishlash maqsadlari rioya oldindan
+        belgilangan va shaxsiy ma''lumotlarni, shuningdek, kompaniyaning ishonch yorliqlari
+        rioya yig''ish paytida e''lon; d) hajmi va shaxsiy ma''lumotlarni qayta ishlash
+        turiga va uni qayta ishlash maqsadlari bilan shaxsiy ma''lumotlarni qayta
+        ishlash vositalarini muvofiqlik muvofiqligi; , Mos kelmaydigan maqsadlar uchun
+        yaratilgan ma''lumotlar bazalarini mujassamlashtiruvchi shaxsiy ma''lumotlarni
+        o''z ichiga olgan e) yo''l qo''yilmaydi.'
+      p_5_1_1: 5.1.1. Ro'yxatdan o'tish, shuningdek, kelajakda foydalanuvchi o'zi
+        / o'z tashabbusi bilan veb vositalari yordamida o'zi / o'zini haqida ko'proq
+        ma'lumot qo'shadi qachon foydalanuvchi shaxsiy ma'lumotlarni to'plash veb
+        amalga oshiriladi.
+      p_5_1_2: 5.1.2. foydalanuvchilarning Shaxsiy ma'lumotlar shaxsiy ma'lumotlar
+        qo'lda qayta ishlash qonunchilik talablariga javob nuqtai zarur hollar bundan
+        mustasno, avtomatlashtirilgan tizimlari yordamida elektron formatda faqat
+        saqlanadi va qayta ishlanadi.
+      p_5_1_3: 5.1.3. Foydalanuvchining shaxsiy ma'lumotlarni oshkora ushbu Nizomda
+        va Foydalanuvchi bitim nazarda tutilgan hollar bundan mustasno, har qanday
+        uchinchi shaxslarga o'tkazilishi emas. Foydalanuvchining roziligi bilan, shaxsiy
+        foydalanuvchi ma'lumotlar xizmatlar va ilovalar foydalanganda, xususan, olingan
+        axborotning maxfiyligiga ta'minlash majburiyati sharti sharti kompaniyasi
+        uchinchi tomonlar uchun berilishi mumkin. Qonunda talab sifatida davlat organlari
+        (mahalliy hokimiyat) talabi bilan foydalanuvchining shaxsiy ma'lumotlarni
+        provisioning tartibda amalga oshiriladi.
+      p_5_1_4: '5.1.4. ; Ma''lumotlar o''z-o''zini o''chirib User tomonidan sahifasidan
+        bo''lgan: - shaxsiy foydalanuvchi ma''lumotlar o''chiriladi - Sahifa o''zini-o''chirilgan
+        User tomonidan hisoblanadi; - Foydalanuvchi haqida ma''lumot va uning shaxsiy
+        sahifasi Kompaniya tomonidan chiqariladi. shaxsiy sahifasi olib keyin Foydalanuvchi
+        o''zi tomonidan qayta nomlash Page taqdirda, Kompaniya 210 kun ichida uning
+        elektron ommaviy axborot vositalari kuni Foydalanuvchi shaxsiy ma''lumotlarni
+        saqlaydi. shaxsiy sahifasi olib keyin Shaxsiy ma''lumotlar 210 kun tugashi
+        o''chiriladi. bu davr tugaydi qadar, Foydalanuvchi bilan shaxsiy sahifasi
+        qayta tiklash huquqiga ega.'
+      users_rights_and_obligations: Foydalanuvchi huquqlari va majburiyatlari
+      p_6_1: '6.1. Foydalanuvchi huquqlarga ega:'
+      p_6_1_1: 6.1.1. login va parol foydalanish bilan veb o'z shaxsiy sahifasi tahrirlab
+        cheklovlarsiz / u haqida uni ma'lumotlarni kirish va bepul;
+      p_6_1_2: 6.1.2. mustaqil ravishda, bunday o'zgarishlar va o'zgarishlar o'z ichiga
+        olgan sharti bilan veb Foydalanuvchi Shaxsiy sahifa haqida ma'lumot o'zgartirishlar
+        va tuzatishlar, qilish hozirgi va haqiqiy ma'lumotlar;
+      p_6_1_3: 6.1.3. Sayt haqida shaxsiy sahifasidan ma'lumotlarni olib tashlash;
+      p_6_1_4: 6.1.4. Bunday ma'lumotlar noqonuniy olingan, eskirgan, to'liq noto'g'ri
+        yoki qayta ishlash e'lon maqsadida yoki zarur bo'lmasa, Company, yana o'ziga
+        xos axborot, bloklarga olish yoki shaxsiy ma'lumotlarni o'chirish uchun, talab,
+        bu bandda 6.1.3 ko'rsatilgan harakatlar Nizom mustaqil amalga mumkin emas;
+      p_6_1_5: 6.1.5. so'rov asosida, Uning / shaxsiy ma'lumotlarni qayta ishlash
+        bilan bog'liq kompaniyasi ma'lumot olish.
+      p_6_2: '6.2. har qanday ro''yxatga Website User haqida quyidagi ma''lumot ro''yxatdan
+        o''tgan har doim mavjud: Foydalanuvchi nomi, jinsi, yoshi, profili foto va
+        boshqa ma''lumotlar Foydalanuvchi uni posted bo''lsa.'
+      p_6_3: 6.3. Kompaniya bunday ma'lumotlarni kirdingiz sayt boshqa foydalanuvchilar
+        tomonidan Foydalanuvchi shaxsiy ma'lumotlarni oshkor uchun hech qanday javobgarlikni
+        o'z bo'yniga oladi.
+      p_6_4: 6,4. Shaxsiy ma'lumotlar (boshqa foydalanuvchi ma'lumotlar) Foydalanuvchi
+        Shaxsiy sahifa yoki Website Foydalanuvchi Shaxsiy sahifa bartaraf chetlashtirish
+        taqdirda, Foydalanuvchi haqida ma'lumot va boshqa foydalanuvchilar tomonidan
+        ko'chirilgan yoki saqlanib boshqa foydalanuvchilar "sahifalarida saqlanadi.
+      users_information_protection_measures: Foydalanuvchilarning axborot muhofaza
+        qilish chora-tadbirlar
+      p_7_1: 7.1. Kompaniya Foydalanuvchi shaxsiy ma'lumotlar ruxsatsiz yoki tasodifiy
+        kirish, o'chirish, o'zgartirish, blokirovka, nusxa ko'chirish, tarqatish va
+        shuningdek, boshqa ruxsatsiz harakatlar himoyalangan ishonch hosil qilish
+        uchun, texnik, tashkiliy va huquqiy chora-tadbirlar ko'radi.
+      p_7_2: 7.2. Foydalanuvchi login (elektron pochta manzili yoki mobil raqami)
+        va parol Website kirish uchun ishlatiladi. Foydalanuvchi maxfiy bu ma'lumotlarni
+        saqlash uchun javobgar bo'ladi. Foydalanuvchi uchinchi shaxslarga login va
+        parolni berishingiz mumkin emas va, shuningdek, uning maxfiyligini ta'minlash
+        uchun chora-tadbirlar qabul qilishi shart.
+      user_requests: Foydalanuvchi so'rovlar
+      p_9_1: '9,1. Rossiya, 101000, Moskva, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1 yoki elektron hujjat tarzida: Foydalanuvchilar quyidagi manzilda yozma shaklda
+        shaxsiy ma''lumotlarni ulardan foydalanish bilan bog''liq murojaatlarga shu
+        jumladan, Kompaniya so''rovlarini yuborish huquqiga ega support@flutylove.com:
+        elektron pochta orqali, Rossiya Federatsiyasi qonun hujjatlariga muvofiq malakali,
+        elektron raqamli imzo bilan imzolangan.'
+      p_9_2: '9,2. Foydalanuvchi so''rovi quyidagi ma''lumotlarni o''z ichiga olishi
+        kerak: Foydalanuvchi yoki uning vakili aniqlash hujjat sonini; Yuqoridagi
+        hujjat va hujjat chiqadigan hokimiyati masala sanasi; operator bilan munosabatlarda
+        Foydalanuvchi ishtirokini tasdiqlovchi axborot (ayniqsa, bog''lanish va sahifani);
+        Foydalanuvchi yoki uning / uning vakili imzo.'
+      p_9_3: 9,3. Kompaniya ko'rib va ​​u qabul qilingan so'ng 30 kun ichida Foydalanuvchi
+        so'roviga javob berish uchun majburiyat olgan.
+      p_9_4: 9,4. Foydalanuvchilar (yozma yoki elektron so'rovlar) dan, Kompaniya
+        tomonidan olingan barcha yozishmalar cheklangan-kirish ma'lumot sifatida tasniflanadi
+        va Foydalanuvchi yozma roziligisiz oshkor qilinishi mumkin emas. so'rov yuborib
+        Foydalanuvchi haqida shaxsiy ma'lumotlar va boshqa axborot boshqacha talabiga
+        yoki ochiq amaldagi qonun hujjatlarida nazarda tutilgan hollarda javob ko'ra,
+        Foydalanuvchi maxsus roziligisiz, foydalanish mumkin emas.
+    terms:
+      terms: Flutylove Foydalanuvchi shartnomasi
+      consent_to_accept_the_terms_of_user_agreement: 1. roziligi Foydalanuvchining
+        barcha Shartnomaga shartlarini qabul qilish uchun.
+      the_right_of_using_the_website: 2. saytidan foydalanish huquqi.
+      p_2: ". talablariga rioya qilmaslik taqdirda, veb-sayti uchun kirish taqiqlandi
+        qilinadi. Veb-sayt foydalanib, foydalanuvchi saytiga joylashtirildi shaxsiy
+        ma'lumot Boshqa Internet foydalanuvchilari uchun mavjud bo'lishi mumkin xabardor
+        bo'lishi kerak, va kompaniya o'z xatti-harakatlari uchun javobgar emas. uning
+        barcha shartlarni amal qilish siz vasf va ushbu Shartnomada kirishga o'ng,
+        vakolat va imkoniyat bor, deb o'z zimmasiga bu veb-sayt foydalanib, va roziligi
+        bilan. Siz vasf va jinsiy zo'ravonlik bilan bog'liq jinoyat uchun hukm azob
+        hech qachon, deb o'z zimmasiga bir User lozim. Veb-sayt faqat shaxsiy foydalanish
+        uchun mo'ljallangan. Bu har qanday tijorat maqsadlarida veb-sayt foydalanish
+        taqiqlanadi. Korporativ shaxslar bu sayt foydalanuvchilar bo'lishi mumkin
+        emas, shuningdek, bu xizmat yoki ularning maqsadlari ustida veb-sayt foydalana
+        olmaysiz. Noqonuniy va / yoki nomaqbul xabarlarni va yo'nalishlarga yuborish
+        maqsadida elektron yoki boshqa vositalar yordamida yig'ish foydalanuvchi nomi
+        va / yoki elektron pochta manzillari, shu jumladan, sayt yordamida ruxsatsiz
+        ta'qib va ​​kompaniyasi, jumladan, qonun hujjatlariga muvofiq tegishli choralar
+        mumkin huquq-tartibot organlariga shikoyat."
+      pricing_and_registration: 3. narx va RO'YXATGA
+      terms_4: 4. SHARTLARI.
+      account_security: 5. hisob XAVFSIZLIGI.
+      forbidden_actions: 8. MAN TADBIRLAR.
+      p_9: Flutylove o'zgartirish yoki vaqtincha yoki doimiy ravishda xizmat o'chirish
+        uchun har qanday vaqtda huquqini o'zida saqlab qoladi (yoki biron-bir u qismi)
+        ogohlantirmagan holda. Siz Flutylove har qanday o'zgarishlar, vaqtinchalik
+        mavjudligi yoki xizmati to'liq o'chirib uchun sizga yoki har qanday uchinchi
+        shaxslarga javobgar emas, deb rozilik bildirasiz.
+      ip_address_blocking: 10. IP-manzil to'sib.
+      security_and_communication: 12. XAVFSIZLIK VA ALOQA.
+      links: 14. ishoratlar.
+      other_provisions_and_changes: 17. BOShQA masalalar va o'zgarishlar.
+      read_this: Men BU bitimini bering va uning barcha shartlarga roziman.
+    about:
+      about_flutylove_text: Flutylove tarihlemeleri uchun xalqaro ijtimoiy ko'ngilochar
+        tarmoq hisoblanadi. Bu yerda siz do'stlar, bir Soulmate, hamkorlar topish
+        mumkin, yoki faqat o'yin o'ynab tomonidan bahramand bilan vaqt o'tkazish yoki
+        video / suratlarni tomosha.
+      we_are_in_social_networks: 'Biz ijtimoiy tarmoqlarda:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google Plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Biz yuqori texnologiyalar va ochiq kodli
+        kutubxona foydalaning. Biz har doim yaxshi bo'lsin va bizning xizmat yaxshilash
+        uchun harakat qiling.
+      partners_and_investors: Biz sheriklik uchun ochilgan va biz sarmoyadorlar topish
+        istardim. Biz bilan hamkorlik qilmoqchiman, agar partnership@flutylove.com
+        bizga murojaat qiling
+    faq:
+      faq: FAQ
+      what_is_flutylove: Flutylove nima?
+      about_flutylove: Flutylove tarihlemeleri uchun xalqaro ijtimoiy ko'ngilochar
+        tarmoq hisoblanadi. Bu yerda siz do'stlar, bir Soulmate, hamkorlar topish
+        mumkin, yoki faqat o'yin o'ynab tomonidan bahramand bilan vaqt o'tkazish yoki
+        video / suratlarni tomosha.
+      flutylove_features: Bu yerda siz o'yinlarni o'ynash, boshqa mamlakatlardan kengaytirilgan
+        qidirish, qidiruv hamkorlar foydalanish va boshqa ijtimoiy moddalari, albatta,
+        videocams bilan suhbat qilishingiz mumkin.
+      i_have_some_requests: Men ba'zi talablarini bor
+      you_can_write_request: Siz ro'yxatdan o'ting va uni yozish mumkin
+      i_have_seen_some_typo_or_wrong_translation: Men ba'zi matn terish yoki noto'g'ri
+        tarjima ko'rdim
+      github_repository: Github jihozi
+      i_have_seen_some_error: Men ba'zi xato ko'rdim
+      to_us_or_write_to_our_info_mail: yoki support@flutylove.com Email yozish
+  user_mailer:
+    welcome_email:
+      you_can_sign_in_with_your_social_networks: Agar yana siz ijtimoiy tarmoq hisob
+        qaydnomasi bilan tizimga kiring mumkin olmoqchi bo'lsangiz
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: siz
+        belgisi chiqib tomonidan parolni o'zgartirish mumkin elektron pochta va parol
+        bilan tizimga va quyida bog'langan uchun bosing olmoqchi bo'lsangiz
+      change_password: o'zgartirish parol
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            birth_date:
+              birth_date_error: dan katta, 18 va kam keyin 115 bo'lishi kerak
+            interests:
+              interests_error: kam 2000 ramzlar bo'lishi kerak
+            jobs:
+              jobs_error: kam 2000 ramzlar bo'lishi kerak
+            languages:
+              languages_error: kam 2000 ramzlar bo'lishi kerak
+            sex_keywords:
+              sex_keywords_error: kam 2000 ramzlar bo'lishi kerak
+            contacts:
+              contacts_length_error: kam 2000 ramzlar bo'lishi kerak
+              contacts_size_error: kam 21 kontaktlarni bo'lishi kerak
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: bekor qiymat ega
+  devise:
+    confirmations:
+      send_instructions: "."
+      send_paranoid_instructions: Sizning e-mail manzil bizning ma'lumotlar bazasida
+        mavjud bo'lsa, bir necha daqiqa ichida sizning hisob tasdiqlash haqida ko'rsatmalar
+        bilan bir xat olasiz.
+      new:
+        send_mail_for_confirm_your_email: tasdiq Sizning e-mail uchun pochta yuborish
+        submit: Submit
+    failure:
+      invalid: Noto'g'ri elektron pochta yoki parol.
+      last_attempt: "."
+      not_found_in_database: Noto'g'ri elektron pochta yoki parol.
+    mailer:
+      confirmation_instructions:
+        subject: tasdiqlash ko'rsatmalar
+        confirm_my_account: mening Email tasdiqlang
+      reset_password_instructions:
+        hello: Salom
+        subject: Reset Parolni ko'rsatmalar
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Kimdir
+          so'rovlarini Parolni o'zgartirish uchun, bir bog'dan bor. Siz quyidagi link
+          orqali buni mumkin.
+        if_you_didnt_request_this_please_ignore_this_email: siz bu elektron pochta
+          e'tiborsizlik iltimos so'raman bo'lsangiz.
+      unlock_instructions:
+        subject: Unlock ko'rsatmalar
+    omniauth_callbacks:
+      failure: '% {turdagi} "% {sababi}" chunki sizni haqiqiyligini tekshirib bo''lmadi.'
+      success: muvaffaqiyatli% {mehribon} hisobingizdan sahih.
+    passwords:
+      send_instructions: "."
+      send_paranoid_instructions: Sizning e-mail manzil bizning ma'lumotlar bazasida
+        mavjud bo'lsa, bir necha daqiqa ichida sizning elektron pochta manzili, bir
+        parol tiklash link olasiz.
+      new:
+        forgot_your_password: Parolni qayta qo'lga
+        reset_password: Send url sog'ayib
+      edit:
+        change_your_password: Parolni o'zgartirish
+        new_password: Yangi parol
+        confirm_password: Parolni tasdiqlang
+        change_password: Change
+    registrations:
+      signed_up: Xush kelibsiz! Siz muvaffaqiyatli imzolagan.
+      new:
+        sign_up: o't
+        name: nomi
+        password: Parol
+        password_confirmation: Parolni tasdiqlash
+        register: o't
+    shared:
+      links:
+        sign_in: Sign in
+        sign_up: o't
+        didnt_receive_confirmation_instructions: tasdiqlash ko'rsatmalar qabul qo'ymadimi?
+        fast_login_almost_one_click: Fast kirish (deyarli bir marta bosish)
+    sessions:
+      signed_in: muvaffaqiyatli kirgansiz.
+      signed_out: muvaffaqiyatli amalga imzo.
+      new:
+        sign_in: Sign in
+        password: Parol
+        remember_me: meni eslab
+        forgot_your_password: Parolni unutdingizmi?
+    unlocks:
+      send_instructions: "."
+  timezones:
+    American Samoa: American Samoa
+    International Date Line West: Xalqaro Sana Line West
+    Midway Island: Midway Island
+    Hawaii: Hawaii
+    Alaska: Alyaska
+    Pacific Time (US & Canada): Pacific Time (AQSh & Kanada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain Time (AQSh & Kanada)
+    Central America: Markaziy Amerika
+    Central Time (US & Canada): Markaziy Time (AQSh & Kanada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Sharqiy Time (AQSh & Kanada)
+    Indiana (East): Indiana (Sharqiy)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlantika Time (Kanada)
+    Caracas: Karakas
+    Georgetown: Jorjtaun
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: Brazilia
+    Buenos Aires: Buenos-Ayres
+    Greenland: Grenlandiya
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantika
+    Azores: Azores
+    Cape Verde Is: Kabo-Verde emasmi.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburg
+    Lisbon: Lissabon
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrad
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Bryussel
+    Budapest: Budapesht
+    Copenhagen: Kopengagen
+    Ljubljana: Ljubljina
+    Madrid: Madrid
+    Paris: Parij
+    Prague: Praga
+    Rome: Rim
+    Sarajevo: Sarayevo
+    Skopje: Skopje
+    Stockholm: Stokgolm
+    Vienna: Vena
+    Warsaw: Varshava
+    West Central Africa: G'arbiy, Markaziy Afrika
+    Zagreb: Zagreb
+    Athens: Afina
+    Bucharest: Buxarest
+    Cairo: Qohira
+    Harare: Harare
+    Helsinki: Xelsinki
+    Istanbul: Istanbul
+    Jerusalem: Quddus
+    Kaliningrad: Kaliningrad
+    Kyiv: Kiev
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnyus
+    Baghdad: Bag'dod
+    Kuwait: Kuvayt
+    Minsk: Minsk
+    Moscow: Moskva
+    Nairobi: Nayrobi
+    Riyadh: Riyod
+    St Petersburg: Sankt-Peterburg
+    Volgograd: Volgograd
+    Tehran: Tehron
+    Baku: Boku
+    Muscat: Masqat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Yerevan
+    Kabul: Kobul
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islomobod
+    Karachi: Karachi
+    Tashkent: Toshkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbay
+    New Delhi: Yangi Dehli
+    Sri Jayawardenepura: Shri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almati
+    Astana: Astana
+    Dhaka: Dakka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Xanoy
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Pekin
+    Chongqing: Chongqing
+    Hong Kong: Gonkong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapur
+    Taipei: Taypeyi
+    Ulaanbaatar: Ulan-Bator
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seul
+    Tokyo: Tokio
+    Yakutsk: Yakutsk
+    Adelaide: Adelaida
+    Darwin: Darvin
+    Brisbane: Brisbane
+    Canberra: Kanberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melburn
+    Port Moresby: Port Moresby
+    Sydney: Sidney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: Yangi Kaledoniya
+    Solomon Is: Sulaymon emasmi.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Oklend
+    Fiji: Fiji
+    Kamchatka: Kamchatka
+    Marshall Is: Marshall emasmi.
+    Wellington: Velington
+    Chatham Is: Chatham emasmi.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau emasmi.
+  uz: uz
+  uz_iso: uz

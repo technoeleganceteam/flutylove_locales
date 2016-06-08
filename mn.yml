@@ -1,0 +1,1607 @@
+---
+mn:
+  1_we_have_just_launched_our_service_title: Бид зөвхөн өөрсдийн үйлчилгээг эхлүүлсэн
+    байна!
+  common_keywords: datings, онлайн datings, хайр datings, Вэбкам болзоо, хурд болзоо,
+    камер чат болзоо, Rails дээр Ruby болзож сайт multilanguage болзооны сайт
+  common_description: datings хамгийн дэвшилтэт олон улсын нийгмийн зугаа цэнгэлийн
+    сүлжээ "Flutylove"
+  default_album: Үндсэн цомог
+  user: хэрэглэгчийн
+  user_to_search_connection: хайх
+  video: Видео
+  note: Тайлбар
+  photo_album: Зургийн цомог
+  from: эхлэн
+  to: тулд
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Эрэгтэй
+  - female:
+      name: эмэгтэй
+  - transgender:
+      name: Трансжендэр
+  - male-female:
+      name: Эрэгтэй, эмэгтэй
+  - double-female:
+      name: хоёр эмэгтэй
+  - double-male:
+      name: Давхар эр
+  orientation:
+  - heterosexual: гетеросекс
+  - homosexual: Ижил хүйстэнтэй бэлгийн
+  - bisexual: Бисекс
+  search_for:
+  - get_friends: авах найзууд
+  - flirtation: Flirtation
+  - marriage: Гэрлэлт
+  - other: Бусад
+  body_type:
+    slim: Гуалиг
+    normal: Normal
+    chubby: Chubby
+  relationship:
+    single: Нэг
+    in_a_relationship: нь харьцаанд
+    married: Гэрлэсэн
+    nothing_serious: ч чухал
+  children:
+    dont_have: байдаг юм биш үү
+    dont_have_and_dont_want_to: байхгүй, хүсэхгүй байна
+    don_t_have_but_planning: боловч төлөвлөлт байхгүй юу
+    have_enough: Байх
+    have_and_planning_more: ба түүнээс дээш төлөвлөж
+  living:
+    with_parents: эцэг эх нь
+    with_marriage_partner: гэрлэлт түнш нь
+    alone: Ганцаараа
+    with_friends: найз нь (ууд)
+  education:
+    nothing: ч
+    secondary_school: дунд сургууль
+    college_technical_college: коллеж / Техникийн коллежийн
+    university: их сургууль
+    postgraduate: төгсөлтийн дараах
+    phd_md_post_doctorate: PhD / БСХ / Post доктор
+  hair_color:
+    blonde: Blonde
+    dark_blond: хар шаргал
+    brown: Brown
+    black: Хар
+    red: Улаан
+    gray: Саарал, хар саарал
+    other: Бусад
+  income:
+    unstable_earnings: тогтворгүй орлого
+    small_stable_earnings: Жижиг тогтвортой орлого
+    medium_stable_earnings: Дунд тогтвортой орлого
+    high_income: Өндөр орлоготой
+  smoking:
+    not_smoke: тамхи татах бус,
+    not_smoke_and_detest: тамхи болон тамхи татахыг үзэн яддаг бус,
+    smoke_only_after_drinking: утаа зөвхөн ундны дараа
+    smoke_occasionally: утаа заримдаа
+    smoke_often: утаа нь ихэвчлэн
+  alcohol:
+    not_drinking: ундны бус,
+    drink_occalionally: Drink хааяа
+    drink_often: уух нь ихэвчлэн
+  drugs:
+    dont_use: хэрэглэж болохгүй
+    contra_drugs: Contra эм
+    tried_out_some: гарч оролдсон зарим
+    light_drugs_occasionally: Хөнгөн эм хааяа
+  sponsor:
+    i_want_to_find_a_sponsor: Би ивээн тэтгэгч олохын тулд хүсэж байгаа
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: нь ивээн тэтгэгч хайж,
+      нэг болох бэлэн биш
+  category_name:
+    strategy: стратеги
+    rpg: RPG
+    3d_shooters: 3D shooters
+    racing: Racing
+    arcade: Зоосон машин
+    economic: Эдийн засгийн
+    simulators: Симулятор
+    logic: Логик
+    adventure: Адал явдал Адал явдал
+    board_games: ТУЗ-ийн тоглоом
+    gambling: Мөрийтэй тоглоом
+    news: мэдээ
+    communication: Харилцаа холбоо
+    multimedia: Мультимедиа
+    drawing: Зээлжих
+    educational: боловсролын
+    e_commerce: E-Commerce
+    other: Бусад
+  shared:
+    header:
+      people: Хүмүүс
+      chat: чат
+      groups: бүлэг
+      forum: форум
+      requests: хүсэлт
+      about: Төслийн тухай
+      help: тусламж
+      user_applications: Програм
+    liked_users:
+      liked: Дуртай
+      all: мэдээлэл
+      you_have_not_liked_any_users_yet: Та одоогоор ямар ч хэрэглэгч юм таалагдаагүй
+        байна
+    most_liked_users:
+      most_liked_users: Алдартай хэрэглэгчид
+    installed_user_applications:
+      installed_applications: суулгасан програмууд
+      all: мэдээлэл
+      you_have_not_installed_any_apps_yet: Та одоогоор ямар ч програм суулгаж чадаагүй
+        байна
+    user_applications:
+      uploaded_apps: Байршуулсан програмууд
+      all: мэдээлэл
+      you_have_not_uploaded_any_apps_yet: Та одоогоор ямар ч програм байршуулж байгаагүй
+    right_sidebar:
+      news: мэдээ
+      all: мэдээлэл
+      read_more: Дэлгэрэнгүй
+    footer:
+      privacy: Нууцлалын
+      terms: нөхцөл
+      feedback: Санал хүсэлт
+      abuse: урвуулан ашиглах
+    languages_select_modal:
+      available_languages: Боломжит хэл
+    site_map_modal:
+      site_map: Сайтын газрын зураг
+      faq: Тусламж
+      about: тухай
+      static_pages: Статик хуудас
+      common_pages: Нийтлэг хуудас
+      user_pages: Хэрэглэгчийн хуудас
+      terms: нөхцөл
+      privacy: Нууцлалын
+      people: Хүмүүс
+      user_applications: Програм
+      user_requests: хүсэлт
+      news: мэдээ
+      feedback: Санал хүсэлт
+      abuse: урвуулан ашиглах
+      chats: чат
+      videos: видео
+      photo_albums: Зургийн цомог
+      notes: тэмдэглэл
+    pagination_link:
+      next_page: Дараагийн хуудас
+    user_edit_menu:
+      content: Агуулга
+      profile: мэдээлэл
+      site_settings: Сайтын тохиргоо
+      privacy: Нууцлалын
+      services: үйлчилгээ
+    activities_navigation:
+      all: мэдээлэл
+      photos: Фото зураг
+      photo_albums: Зургийн цомог
+      notes: тэмдэглэл
+      videos: видео
+    notifications_navigation:
+      all: мэдээлэл
+      likes: like цуглуулжээ
+      friend_requests: Найз хүсэлт
+      profile_views: Профайлыг үзсэн тоо
+      photo_album_views: Фото үзсэн
+    user_to_friend_connections_navigation:
+      friends: найзууд
+      outcome_requests: Үр дүн хүсэлт
+      income_requests: орлого хүсэлт
+    user_applications_navigation:
+      all: мэдээлэл
+      new: Нью-
+      popular: Алдартай
+      often_installed: Ихэнхдээ суулгасан
+      manage: удирдах
+    user_requests_navigation:
+      all: мэдээлэл
+      popular: Алдартай
+    user_navbar_menu:
+      sign_up: бүртгүүлэх
+    email_signature:
+      info: мэдээлэл
+      mailer: Захидал Түгээгч
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: хүйсийн сонгоно
+      select_orientation: чиг баримжаа олгох сонгоно
+      select_search_for: сонгоно хайлт
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Та энэ арга хэмжээний өмнө гарын үсэг зурах хэрэгтэй
+    sign_up_methods:
+      usual_register_link: ердийн бүртгэл
+      register_text: "% Үүнээс гадна {usual_registration} та хамгийн түгээмэл үйлчилгээ,
+        нийгмийн сүлжээгээр дамжуулан бүртгүүлж болно"
+    bootstrap_gallery:
+      next: Next
+    user_notification_title:
+      wrote_message_to_you: та мессеж бичсэн
+      viewed_your_profile: таны Хувийн үзсэн
+      liked_your_photo: таны зургийг таалагдсан
+      liked_your_note: таны тэмдэглэлийг таалагдсан
+      liked_your_request: таны хүсэлтийг таалагдсан
+      liked_your_video: таны видеог таалагдсан
+      liked_your_application: таны өргөдлийг таалагдсан
+      requested_a_friendship: нь нөхөрлөл хүссэн
+  authentications:
+    authentication:
+      turn_on: асаана
+      turn_off: унтрааж
+      turned_on: дээр болсон
+      turned_off: унтраасан
+    index:
+      enabled_services: идэвхжсэн үйлчилгээ
+  users:
+    profile:
+      submit: Save
+      name: нэр
+      meet_with: УУЛЗАХ нь
+      gender: Жендэрийн
+      about_me: өөрийнхөө тухай зарим үг (гадна доор бий болгох)
+      enter_your_name: Та нэрээ оруулна уу
+      more_options: More
+      orientation: чиглэл
+      birth_date: Төрсөн он сар өдөр
+      location: байршил
+      intimacy: дотно
+      in_age: нас нь
+      from: нь
+      to: нь
+      interests: Сонирхол
+      height: өндөр
+      weight: жин
+      body_type: Их биений төрөл
+      hair_color: Үс өнгө
+      relationship: харилцаа
+      children: хүүхдүүд
+      living: Амьд
+      education: Боловсрол
+      jobs: Job
+      income: орлого
+      languages: хэл
+      smoking: Тамхи татах
+      alcohol: Архи
+      drugs: эм
+      contacts: Холбоо барих
+      contact_name: Холбоо барих нэр
+      contact_value: Холбоо барих үнэ цэнэ
+      save: Save
+      about_yourself: өөртөө тухай
+    settings:
+      submit: Save
+      locale: интерфэйс хэл
+      interface_language: интерфэйс хэл
+      time_zone: Цагийн бүс
+    dialog_modal:
+      send_message: илгээх зурвас
+    index:
+      users: гишүүд
+      clear_search: Clear хайлт
+    dashboard:
+      hello: Сайн байна уу
+      chats: чат
+      messages: Мессеж
+      photos: Фото зураг
+      videos: видео
+      notes: тэмдэглэл
+      photo_albums: Зургийн цомог
+    avatar:
+      photo: зураг
+      uploading_file: байршуулж байна файл
+      handling_file: харьцах файл
+      drag_and_drop_your_file: Drag болон таны файлыг унагаах
+      here: энд
+      or: ", эсвэл"
+      upload_file: оруулах файл
+      from_other_sites: бусад сайтуудын
+      write_down_link_for_your_image: таны Зургийн холбоосыг бич
+      upload: оруулах
+      from_facebook: Facebook эхлэн
+      turn_on_facebook: Facebook дээр эргэж
+      you_can_upload_your_photos_from_facebook: Facebook таны зургийг хуулж болно
+      from_vkontakte: Vkontakte-аас
+      you_can_upload_your_photos_from_vkontakte: Vkontakte нь таны зургийг хуулж болно
+      turn_on_vkontakte: Vkontakte асаана
+      from_instagram: Instagram-аас
+      you_can_upload_your_photos_from_instagram: Instagram нь таны зургийг хуулж болно
+      turn_on_instagram: Instagram дээр эргэж
+      from_dropbox: Dropbox-аас
+      you_can_upload_your_photos_from_dropbox: Dropbox нь таны зургийг хуулж болно
+      turn_on_dropbox: Dropbox асаана
+      edit_photo: засварлах зураг
+      delete_photo: Delete зураг
+      are_you_sure: Та итгэлтэй байна уу?
+    available_photos_modal:
+      available_photos: боломжтой зурагнууд
+    update:
+      your_password_was_successfully_changed: амжилттай өөрчлөгдсөн байна
+      your_profile_was_successfully_updated: амжилттай шинэчлэгдсэн
+    edit_photo:
+      edit_photo: засварлах зураг
+      crop: газар тариалан
+      close: Close
+      save_changes: Save өөрчлөлтүүд
+    contact:
+      contact_name_placeholder: Facebook / Skype / ВК / гэх мэт
+      contact_value_placeholder: хаяг / Ник / ID / гэх мэт
+    user:
+      about_me: Миний тухай
+      orientation: чиглэл
+      meet_with: УУЛЗАХ нь
+      desirable_age: зүйтэй нас
+      from: нь
+      to: нь
+      interests: Сонирхол
+      height: өндөр
+      sm: см-ийн
+      kg: кг
+      body_type: Их биений төрөл
+      hair_color: Үс өнгө
+      relationship: харилцаа
+      children: хүүхдүүд
+      living: Амьд
+      education: Боловсрол
+      jobs: Жобс
+      income: орлого
+      languages: хэл
+      smoking: Тамхи татах
+      alcohol: Архи
+      drugs: эм
+      contacts: Холбоо барих
+    user_info:
+      offline: Оффлайн
+      online: Онлайн
+      age: Нас
+    loading_modal_images:
+      loading_images: Loading зургууд
+    password_form:
+      new_password: Шинэ нууц үг
+      confirm_new_password: баталгаажуулна
+      old_password: Хуучин нууц үг
+    show:
+      photos: Фото зураг
+      all: мэдээлэл
+      videos: видео
+      notes: тэмдэглэл
+      view: харах
+    dropbox_token_form:
+      key: гол
+      paste_recieved_key: наах -г тээх гол
+      submit: оруулах
+    contents:
+      all: мэдээлэл
+    more_profile_info:
+      photo_albums: Зургийн цомог
+      view_all_photo_albums: Бүх зургийн цомог харах
+      create_more: илүү үүсгэх
+      videos: видео
+      view_all_videos: харах л
+      notes: тэмдэглэл
+      view_all_notes: харах л тэмдэглэл
+      requirements_lists_to_partner: шаардлага түнш жагсаалт
+      requirement: шаардлага
+      view_all_requirements_lists: харах нь бүх шаардлагуудыг жагсаалт
+      profile_verification: мэдээлэл шалгах
+      your_profile_is_successfully_verified: амжилттай шалгаж байна
+      create: үүсгэх
+      you_have_not_any_requirements_lists_yet: гэсэн мэдэгдлийг хайсан хараахан жагсаасан
+        байна
+      you_have_not_any_notes_yet: хараахан биш ямар нэгэн тэмдэглэл байна
+      you_have_not_any_photo_albums_yet: одоогоор ямар нэг зургийн цомог нь ороогүй
+        байгаа
+      you_have_not_any_videos_yet: хараахан болоогүй ямар ч видео байна
+      your_profile_is_not_verified_yet: хараахан шалгаж ороогүй байна
+      verify_through_twitter: Twitter дамжуулан баталгаажуулах
+      verify_through_facebook: Facebook дамжуулан баталгаажуулах
+      verify_through_mail_ru: Mail.ru дамжуулан баталгаажуулах
+    privacy:
+      privacy: Нууцлалын
+  searches:
+    form:
+      location: байршил
+      from: нь
+      to: нь
+      age: Нас
+      gender: Жендэрийн
+    form_content:
+      city: хот
+      gender: Жендэрийн
+      to: нь
+      online: Онлайн
+      verified: баталгаажуулсан
+      has_avatar: Хөрөг Байна
+      region: бүс
+      more: More
+      country: Улс
+      about_me: Миний тухай
+      interests: Сонирхол
+      languages: хэл
+      names: нэр
+      height: өндөр
+      from: нь
+      weight: жин
+      body_type: Их биений төрөл
+      relationship: харилцаа
+      hair_color: Үс өнгө
+      education: Боловсрол
+      orientation: чиглэл
+      children: хүүхдүүд
+      living: Амьд
+      smoking: Тамхи татах
+      alcohol: Архи
+      drugs: эм
+      income: орлого
+    show:
+      users: гишүүд
+      clear_search: Clear хайлт
+  welcome:
+    index:
+      people: Хүмүүс
+      requests: хүсэлт
+      user_applications: Програм
+      about: тухай
+      features: онцлог
+      registration: бүртгүүлэх
+      welcome_main_text: та төгс хайрыг олох боломжтой газар юм
+      find_more: илүү их хай
+      about_title: Flutylove datings олон улсын нийгмийн зугаа цэнгэлийн сүлжээ юм
+      about_text: та үзвэр болон datings ашиглаж болох маш олон боломжууд байдаг!
+      find_more_features: илүү боломжуудыг хай
+      many_languages: олон хэлнүүд
+      text_about_many_languages: 70 гаруй хэлээр орчуулсан байна
+      check_it_out: үүнийг шалгах
+      videochats: Videochats
+      try_it_now: одоо үзээрэй
+      search: хайх
+      text_about_search: бөгөөд энэ нь үнэ төлбөргүй байдаг!
+      watch_this: Watch энэ
+      more_features: илүү онцлог
+      text_about_more_features: Та видео, тоглох тоглоом үзэхийн болон бусад олон
+        зүйлийг хийж чадна!
+      register_and_learn_more: Бүртгүүлэх илүү сурах
+      install_our_apps: алдартай платформ дээр бидний програм суулгах
+      register_header: бүртгүүлэх
+  feedbacks:
+    new:
+      feedback_title: Санал хүсэлт
+    form:
+      feedback_content: Санал хүсэлт агуулга
+      close: Close
+      send: илгээх
+      feedback_recaptcha: Recaptcha
+      cancel: Cancel
+    success:
+      success_feedback: Баярлалаа! Бид таны санал хүсэлтийг -г тээх байна.
+      close: Close
+      cancel: Cancel
+      more: илүү илгээх
+  abuses:
+    new:
+      abuse_title: урвуулан ашиглах
+    form:
+      abuse_content: урвуулан ашиглах агуулга
+      abuse_title: урвуулан ашиглах
+      close: Close
+      send: илгээх
+      abuse_recaptcha: Recaptcha
+      abuse_link: Link
+      cancel: Cancel
+    success:
+      success_abuse: Баярлалаа! Бид таны хүчирхийлэл -г тээх байна.
+      close: Close
+      cancel: Cancel
+      more: илүү илгээх
+  recaptcha:
+    errors:
+      verification_failed: чадсангүй recaptcha
+      recaptcha_unreachable: Recaptcha холбогдох боломжгүй байна
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: "!"
+      we_have_just_launched_our_service_text: Өнөөдөр бид үйлчилгээг эхлүүлэх болохоор
+        хүн бүр болно
+      sign_up: дээр гарын үсэг зурах
+      and_use_it: ", түүнийг ашиглах хэрэгтэй."
+      wishes_and_requests: Хэрэв та ямар ч хүслийг эсвэл хүсэлт байгаа бол, та гарын
+        үсэг зурж, үүнийг бичиж болно
+      here: энд
+      with_love: хайр нь,
+      flutylove_team: Flutylove баг
+    index:
+      all_news: мэдээлэл мэдээ
+      read_more: Дэлгэрэнгүй
+  chats:
+    panel_head:
+      online: Онлайн
+      offline: Оффлайн
+    pagination_link:
+      next_page: Дараагийн хуудас
+    form:
+      message_text: Зурвас текст
+    form_additions:
+      submit: оруулах
+      videochat: Videochat
+    show:
+      messages: Мессеж
+    index:
+      messages: Мессеж
+    videochat_request_link:
+      connect_to_videochat: Connect videochat нь
+    modal_form:
+      send_message: илгээх зурвас
+      recipient: Хүлээн авагч
+      message: Зурвас
+      close: Close
+      submit: оруулах
+    waiting_video_answer_button:
+      waiting_for_response: хариу хүлээж байна ...
+    chat_created:
+      send_message: илгээх зурвас
+      message_was_sent: Зурвас илгээх байна
+      close: Close
+  messages:
+    pagination_link:
+      next_page: Дараагийн хуудас
+    form:
+      message_text: Зурвас текст
+  notifications:
+    user_to_friend_connection:
+      action: үйл ажиллагааны
+    notification:
+      offline: Оффлайн
+      online: Онлайн
+    like:
+      action: үйл ажиллагааны
+    photo_album_view:
+      action: үйл ажиллагааны
+    user_view:
+      action: үйл ажиллагааны
+  user_applications:
+    user_application:
+      who_uploaded: өөр Uploaded
+      all_uploaded_applications_by: өөр мэдээлэл Хуулагдсан програмууд
+    form:
+      name: нэр
+      user_application_name: Програмын нэр
+      description: тодорхойлолт
+      description_text: Тайлбар текст
+      iframe_url: Iframe хаяг
+      icon_for_application: Хэрэглээний дүрс
+      upload_icon: Татаж авах дүрс
+      public: Олон нийтийн?
+      category_name: Ангилал
+      create: үүсгэх
+      edit: Засварлах
+    show:
+      application: Програмын
+      return_to_uploaded_applications: програм Хуулагдсан тулд
+      edit_application: засварлах програм
+    manage:
+      installed_applications: суулгасан програмууд
+      uploaded_applications: Байршуулсан програмууд
+      all: мэдээлэл
+    index:
+      create_new: шинэ үүсгэх
+    installed:
+      installed_applications: суулгасан програмууд
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: харах өмнө энэ програм та
+        эхлээд нэвтрэх хэрэгтэй
+    need_to_install:
+      need_to_install_first: Та эхлээд энэ програмыг суулгах хэрэгтэй
+      install_application: суулгах
+  likes:
+    index:
+      liked_items: Дуртай зүйлс
+  videos:
+    index:
+      videos: видео
+      return_to_edit_profile: засварлах хувийн тулд
+      create_new: шинэ үүсгэх
+      return_to_profile: буцах хэмжээ нь
+    video:
+      edit: Засварлах
+      are_you_sure: Та итгэлтэй байна уу?
+      delete: устгах
+    modal_form:
+      create_new_video: шинэ видеог үүсгэх
+      close: Close
+      create: үүсгэх
+    form_content:
+      name: нэр
+      video_name: Видео нэр
+    show:
+      video: Видео
+      edit_video: засварлах видео
+    edit:
+      edit_video: засварлах видео
+    form:
+      edit: Засварлах
+  photo_albums:
+    index:
+      photo_albums: Зургийн цомог
+      return_to_editing_profile: засварлах хувийн тулд
+      create_new: шинэ үүсгэх
+      return_to_profile: буцах хэмжээ нь
+    photo_album:
+      edit: Засварлах
+      create: үүсгэх
+      are_you_sure: Та итгэлтэй байна уу?
+      delete: устгах
+    edit:
+      edit_photo_album: Засах зургийн цомог
+      return_to_photo_albums: гэрэл зургийн цомог тулд
+    form_content:
+      name: нэр
+      photo_album_name: Зургийн цомог нэр
+    form:
+      edit: Засварлах
+      create: үүсгэх
+    photo_album_uploader:
+      drag_and_drop_your_file: Drag болон таны файлыг унагаах
+      here: энд
+      or: ", эсвэл"
+      upload_file: оруулах файл
+      from_other_sites: бусад сайтуудын
+      write_down_link_for_your_image: таны Зургийн холбоосыг бич
+      upload: оруулах
+      from_facebook: Facebook эхлэн
+      turn_on_facebook: Facebook дээр эргэж
+      you_can_upload_your_photos_from_facebook: Facebook таны зургийг хуулж болно
+      from_vkontakte: Vkontakte-аас
+      you_can_upload_your_photos_from_vkontakte: Vkontakte нь таны зургийг хуулж болно
+      turn_on_vkontakte: Vkontakte асаана
+      from_instagram: Instagram-аас
+      you_can_upload_your_photos_from_instagram: Instagram нь таны зургийг хуулж болно
+      turn_on_instagram: Instagram дээр эргэж
+      from_dropbox: Dropbox-аас
+      you_can_upload_your_photos_from_dropbox: Dropbox нь таны зургийг хуулж болно
+      turn_on_dropbox: Dropbox асаана
+    show:
+      photo_album: Зургийн цомог
+      return_to_photo_albums: гэрэл зургийн цомог тулд
+      edit_photo_album: Засах зургийн цомог
+    modal_form:
+      create_new_photo_album: шинэ гэрэл зургийн цомог үүсгэх
+      close: Close
+      create: үүсгэх
+  user_requests:
+    form:
+      content: Агуулга
+      edit: Засварлах
+      create: үүсгэх
+  notes:
+    index:
+      notes: тэмдэглэл
+      return_to_edit_profile: засварлах хувийн тулд
+      create_new: шинэ үүсгэх
+      return_to_profile: буцах хэмжээ нь
+    note:
+      edit: Засварлах
+      are_you_sure: Та итгэлтэй байна уу?
+      delete: устгах
+    show:
+      note: Тайлбар
+      edit_note: Засах тэмдэглэл
+    form_content:
+      content: Агуулга
+      note_content: Тайлбар агуулга
+      edit: Засварлах
+      create: үүсгэх
+    edit:
+      edit_note: Засах тэмдэглэл
+  user_to_search_connections:
+    index:
+      requirements_lists: шаардлага жагсаалт
+      return_to_editing_profile: засварлах хувийн тулд
+      create_new: шинэ үүсгэх
+    user_to_search_connection:
+      edit: Засварлах
+      are_you_sure: Та итгэлтэй байна уу?
+      delete: устгах
+    edit:
+      edit_requirements_list: засварлах шаардлага жагсаалт
+      return_to_requirements_lists: шаардлага жагсаалт тулд
+      view_requirements_list: харах шаардлага жагсаалт
+    form_content:
+      name: нэр
+    form:
+      edit: Засварлах
+    show:
+      requirements_list: шаардлага жагсаалт
+      return_to_requirements_lists: шаардлага жагсаалт тулд
+      edit_requirements_list: засварлах шаардлага жагсаалт
+  photos:
+    index:
+      photos: Фото зураг
+      return_to_profile: хэмжээ тулд
+  errors:
+    messages:
+      already_confirmed: аль хэдийн батлагдсан-д гарын үсэг зурах оролдож үзнэ үү
+      confirmation_period_expired: "% {хугацаа} дотор баталгаажуулсан байх шаардлагатай,
+        шинэ нэгийг авах хүсэлт уу"
+      expired: хугацаа дууссан, шинээр нэг хүсэлт уу
+      not_found: олж чадаагүй
+      not_locked: түгжээтэй байсан юм
+      not_saved:
+        one: '1 алдаа аврагдаж байгаа нь энэ% {нөөцийн} хориглоно:'
+        other: "% {тоо} аврагдаж байгаа нь энэ% {нөөцийг} хориглоно алдаа:"
+    bad_request:
+      bad_request: Муу авагч
+      request_result: авагч үр дүн
+      bad_request_description: улмаас илэрхий үйлчлүүлэгч алдаа
+      go_to_root: үндэс рүү очих
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable аж ахуйн нэгж
+      request_result: авагч үр дүн
+      unprocessable_entity_description: сайн байгуулагдсан байсан боловч утга алдаа
+        дагаж мөрдөх боломжгүй байсан
+      go_to_root: үндэс рүү очих
+    not_found:
+      not_found: Олдсон бус,
+      request_result: авагч үр дүн
+      not_found_description: олж чадахгүй байсан байх харин ирээдүйд байж болох
+      go_to_root: үндэс рүү очих
+    forbidden:
+      forbidden: Хориотой хот
+      request_result: авагч үр дүн
+      forbidden_description: хүчин төгөлдөр хүсэлт байсан ч сервер хариу татгалзаж
+        байна
+      go_to_root: үндэс рүү очих
+    internal_server_error:
+      internal_server_error: Дотоод Server алдаа
+      request_result: авагч үр дүн
+      internal_server_error_description: ямар нэг алдаа гарлаа. Бид аль болох хурдан
+        л засах болно.
+      go_to_root: үндэс рүү очих
+  pages:
+    privacy:
+      privacy: Flutylove Хувийн мэдээллийн талаарх Баримтлал
+      general_provisions: Нийтлэг үндэслэл
+      p_1_1: 1.1. Эдгээр журам хязгаарлагдмал хариуцлагатай компани "Technoelegance"
+        -ийн албан ёсны баримт бичиг, байрлах бөгөөд 101000, Москва, Ulanskiy pereulok
+        13 stroeniye 4 pomeshcheniye 1 (Flutylove, компани, бид цаашид), мэдээлэл
+        боловсруулах, хувь хүний ​​мэдээллийн аюулгүй байдлын журмыг тогтоох хэн нь
+        18 нас хүрсэн бөгөөд вэб https://flutylove.com (вэб сайт цаашид), түүний үйлчилгээ
+        (цаашид хэрэглэгчид) хэн ашиглаж байна.
+      p_1_2: 1.2. Энэ журмын зорилго нь улмаас хууль бусаар нэвтрэх, задлах нь, хувийн
+        мэдээлэл, түүний дотор хэрэглэгчийн мэдээллийг хамгаалах, хангах явдал юм.
+      p_1_3: 1.3. цуглуулах, хадгалах, хуваарилах, вэб хэрэглэгчийн мэдээллийн аюулгүй
+        байдлыг хангах нь холбоотой харилцааг энэхүү журмын, компанийн бусад албан
+        ёсны баримт бичиг, ОХУ-ын одоогийн хууль тогтоомжийн дагуу зохицуулна байна.
+      p_1_4: 1.4. Журам, олон нийтийн баримт бичиг нь одоогийн хувилбар, холбоос http://flutylove.com/pages/privacy~~dobj
+        дараах үед ямар ч интернэт хэрэглэгчид байдаг. Компани нь эдгээр журам, өөрчлөх
+        эрхтэй. тохиолдолд өөрчлөлт журмын хийж байгаа компани журмын шинэ хувилбарыг
+        байнгын хаяг http://flutylove.com/pages/privacy~~pobj дээр вэбсайтад, үр дүнтэй
+        өмнө нь хойш 10 хоногийн дотор байрлуулах замаар хэрэглэгчдийг мэдэгдэнэ өөрчлөлтийн
+        огноо. Журмын өмнөх хувилбаруудыг компанийн бичиг баримт архивт хадгалагдаж
+        байна.
+      p_1_5: 1.5. Эдгээр журмыг боловсруулж байгаа бөгөөд хэрэглэгчийн гэрээний дагуу
+        ашиглаж байгаа. Энэ журмын болон компанийн бусад албан ёсны баримт бичиг хоёрын
+        хооронд ямар ч зөрчсөн тохиолдолд эдгээр дүрэм хэрэгжүүлдэг байх ёстой.
+      p_1_6: 1.6. Вэб сайт ашиглан та энэ Нууцлалын бодлого нөхцөлд зөвшөөрч байна.
+        тэднийг анхааралтай уншина уу. Хэрэв та энэ Нууцлалын бодлого хувьд санал
+        нийлэхгүй байгаа бол, эсвэл та 18 нас хүрч чадахгүй байна, та Вэб сайт, түүний
+        үйлчилгээний хэрэглэж болохгүй. Вэб сайт ашиглан үл хамааран та Flutylove
+        нь бүртгэлтэй хэрэглэгч, үгүй ​​эсэхийг нь, та бүрэн энэ Нууцлалын бодлого
+        хүлээн гэдгийг батлах, түүнийг дагаж мөрдөх хүлээн зөвшөөрч байна.
+      p_2_1: '2.1. Вэб сайт Flutylove ашиглахын тулд та бүртгүүлэх хэрэгтэй. нэр,
+        и-мэйл хаяг, хүйс, төрсөн он сар өдөр, байршил мэдээлэл: Дараах мэдээллийг
+        бүртгэлийн явцад тодорхой байх ёстой. Хэрэглэгч өөрийн / өөрийн хүссэн нэмэлт
+        хувийн мэдээллийг өгч болно. Хэрэглэгчийн засах, ямар ч үед хувийн мэдээллээ
+        шинэчлэх болно. Компани нь өөрчлөлт хүйс, хэрэглэгчийн төрсөн өдрийн тохиолдолд
+        нэмэлт дэмжлэг гаргуулж авах эрхтэй.'
+      p_2_2: '2.2. Вэб сайт бүртгэлийн хувьд 18-аас дээш настай байх шаардлагатай
+        байна гэж ойлгож,: Вэб сайт, түүний үйлчилгээний компанид хандах боломж олгодог
+        боломжийн байдлаар, сайн итгэл ажиллаж гэхэд Хэрэглэгчийн гэж үзсэн шаардлагатай
+        бүх эрхийг энэ цахим хуудас дээр бүртгүүлж, ашиглах боломжтой байх ёстой;
+        Өөрийнхөө тухай үнэн зөв мэдээллийг харуулж байна / өөрөө Вэб үйлчилгээг ашиглах
+        хүсэлтийг дагуу; Хэрэглэгч заасан вэбсайтад хувийн мэдээлэл, Вэб сайт, Интернэт
+        хэрэглэгчдийн сайн хуулбарлах, бусад хэрэглэгчид тарааж болно, бусад хэрэглэгчдийн
+        хувьд боломжтой болж болно гэдгийг мэдэж байх; мэдээллийн зарим төрлийн бусад
+        хэрэглэгчдэд шилжүүлсэн, хэрэглэгчийн арилгаж чадахгүй байгаа гэдгийг мэдэж
+        байна; Эдгээр журамд заасны танилцах бөгөөд тэдэнтэй хамт хүлээн зөвшөөрч,
+        тогтоосон эрх, үүргийг хүлээнэ.'
+      p_2_3: 2.3. Компани нь хэрэглэгчид компанийн хүлээсэн үүргээ биелүүлэхийн тулд
+        ийм шалгалт шаардлагатай бол бусад тохиолдолд нь хүлээн авсан (цугларч) хэрэглэгчдийн
+        тухай мэдээллийн үнэн зөв байдлыг шалгаж байна.
+      information_processing_objectives: мэдээлэл боловсруулах зорилт
+      p_3_1: 3.1. Компани Вэб сайт, түүний үйлчилгээний ашиглах Компанийн хэрэглэгчдэд
+        хүлээсэн үүргээ биелүүлэхийн тулд, хэрэглэгчид, тэдний хувийн мэдээллийг багтаасан-ий
+        тухай мэдээлэл боловсруулалт хийдэг.
+      p_3_2: хувийн мэдээлэл хичээл эрхийг хамгаалах эрх бүхий байгууллагад мэдэгдэх
+        ямар хувийн мэдээллийг боловсруулах явуулах эрхтэй.
+      p_4_1: '4.1. Хэрэглэгчийн хувийн мэдээлэл багтана:'
+      p_4_1_1: 4.1.1. нэр, и-мэйл хаяг, хүйс, төрсөн он, байршил мэдээлэл, утасны
+        дугаар, хэрэглэгчийн өгсөн болон цахим хуудас дээр бүртгэх л хангалттай байх
+        ёстой юм огноо;
+      p_4_1_2: 4.1.2. (Жишээ нь фото зураг, сүйрэлт зуршил гэх мэт талаар мэдээлэл)
+        Хэрэглэгч хангадаг мэдээлэл;
+      p_4_1_3: 4.1.3. нэмж, хэрэглэгчдэд компанийн хүлээсэн үүргээ биелүүлэхийн тулд
+        хэрэглэгчийн гэрээнээс гарч тулд Компани нь хүсэлтийн дагуу хэрэглэгчийн өгсөн.
+        Компани нь хэрэглэгчийн хүсэлт нь таних бичиг баримт болон нэр, хүйс, төрсөн
+        он сар өдөр бүхий бусад баримт бичиг, түүнчлэн бусад нэмэлт мэдээлэл, компанийн
+        үзэмжээр, шаардлагатай хуулбар, ялангуяа эрх, байна ийм хэрэглэгчийн тодорхойлох
+        хангалттай болон гуравдагч этгээдийн эрхийг урвуулан болон зөрчлийг арилгах
+        болно.
+      p_4_2: '4.2. Компани The Вэб сайт захиргаанаас Бусад Хэрэглэгчийн мэдээлэл боловсруулах
+        бас хэрэглэгчид, багтана тухай бусад мэдээллийг боловсруулдаг:'
+      p_4_2_1: 4.2.1. нийтийн мэдээлэл, Вэб сайт, хэрэглэгчийн дараагийн арга хэмжээг
+        хандах үед HTTP-сервер автоматаар хүлээн авсан (хост дээр байгаа IP-хаяг,
+        хэрэглэгчийн үйлдлийн системийн төрөл, Вэб хуудас хэрэглэгч зочилсон).
+      p_4_2_2: 4.2.2. хавчуурга (жигнэмэг) ашиглан Вэб сайт хандах үед автоматаар
+        хүлээн авсан мэдээлэл;
+      p_4_2_3: 4.2.3. Вэб сайт дээр Хэрэглэгчийн үйл ажиллагааны үр дүнд хүлээн авсан
+        мэдээлэл;
+      p_4_2_4: 4.2.4. Вэб сайт бусад хэрэглэгчдийн үйл ажиллагааны үр дүнд хүлээн
+        авсан мэдээлэл.
+      users_information_processing: Хэрэглэгчийн мэдээлэл боловсруулах
+      p_5_1: '5.1. Хувийн мэдээлэл боловсруулах дараахь зарчмын үндсэн дээр явуулж
+        байна: а) хууль ёсны зорилгоор болон хувийн мэдээлэл боловсруулах хэрэгсэл;
+        б) шударга, в) зорилгоор хувийн мэдээлэл боловсруулах зорилгыг дагаж мөрдөх
+        урьдчилан тодорхойлсон болон хувийн мэдээлэл, түүнчлэн компанийн итгэмжлэлүүдтэй
+        нь нийцэж цуглуулах үед зарласан, г) хэмжээ, хувийн мэдээллийг боловсруулах
+        төрөл, түүний боловсруулах зорилгоор хувийн мэдээллийг боловсруулах арга мөрдөх
+        нийцсэн байх; д) нийцгүй зорилгоор бий болгосон мэдээллийн сан хослуулах,
+        хувийн мэдээллийг агуулсан Хүлээн зөвшөөрөгдөхгүй.'
+      p_5_1_1: 5.1.1. бүртгэл, түүнчлэн ирээдүйд Хэрэглэгч өөрийн / өөрийн санаачилгаар
+        вэб хэрэгслүүдийг ашиглан өөртөө / өөрөө талаар дэлгэрэнгүй мэдээллийг өгч
+        байх үед үед хэрэглэгчийн хувийн мэдээллийг цуглуулах Вэб дээр явуулсан байна.
+      p_5_1_2: 5.1.2. хэрэглэгчдийн хувийн мэдээллийг хувийн мэдээллийн гарын авлага
+        боловсруулах хууль тогтоомжийн шаардлага хангасан байдлыг харгалзан шаардлагатай
+        тохиолдолд бусад нь автомат системийг ашиглан цахим хэлбэрээр зөвхөн хадгалагдаж
+        болон боловсруулсан байна.
+      p_5_1_3: 5.1.3. Хэрэглэгчийн хувийн мэдээлэл илэрхий эдгээр журам, хэрэглэгчийн
+        хэлэлцээрт зааснаас бусад тохиолдолд, ямар нэгэн гуравдагч этгээдэд шилжүүлсэн
+        байна. хэрэглэгчийн зөвшөөрснөөр, хувийн хэрэглэгчийн өгөгдөл үйлчилгээ, програм
+        ашиглаж байгаа үед хүлээн авсан мэдээллийн нууцыг, ялангуяа хангах нь үүргийн
+        таамаглалын нөхцөлд компани гурав дахь түншүүдийн дамждаг болно. Хуульд заасны
+        дагуу төрийн эрх бүхий байгууллагад (орон нутгийн засаг захиргаа) -ийн хүсэлтээр
+        хэрэглэгчийн хувийн мэдээлэл сан байгуулах журмыг явуулж байна.
+      p_5_1_4: '5.1.4. , Мэдээлэл, өөрөө устгасан хэрэглэгчийн өөр хуудаснаас байна:
+        - үедээ Хувийн хэрэглэгчийн мэдээлэл устгагдсан байна - Хуудас өөрийгөө устгагдсан
+        хэрэглэгчийн юм; - Хэрэглэгчийн мэдээлэл, түүний хувийн хуудас компани хасагдсан
+        байна. Хэрэглэгч өөрөө хуудас устгаж тохиолдолд компани нь хувийн хуудас хасагдсан
+        хойш 210 хоногийн дотор өөрийн цахим хэвлэл мэдээллийн хэрэгсэл дээр Хэрэглэгчийн
+        хувийн мэдээллийг хадгалдаг. хувийн хуудаснаас арилгасан дараа хувийн мэдээлэл
+        210 хоногийн дуусахад устгасан байна. Энэ хугацаа дуусах хүртэл, хэрэглэгчийн
+        хувийн хуудаснаас сэргээх эрхтэй.'
+      users_rights_and_obligations: Хэрэглэгчийн эрх, үүрэг
+      p_6_1: '6.1. Хэрэглэгчийн эрхтэй:'
+      p_6_1_1: 6.1.1. мэдээллийг түүний тухай / түүнийг хязгаарлалт хийлгүйгээр, үнэ
+        төлбөргүй нэвтрэлт болон нууц үгийг ашиглан цахим хуудас дээр өөрийн хувийн
+        хуудаснаас засварлаж хандах;
+      p_6_1_2: 6.1.2. бие даан эдгээр өөрчлөлт, засварыг агуулсан нөхцөлтэйгээр вэбсайтад
+        Хэрэглэгчийн хувийн хуудсан дээр мэдээлэл өөрчлөлт, засвар, хийх хүртэл сүүлийн
+        үеийн, үнэн бодит мэдээлэл өгөх;
+      p_6_1_3: 6.1.3. Вэб сайт дээр хувийн хуудаснаас мэдээллийг устгах;
+      p_6_1_4: 6.1.4. Ийм мэдээлэл нь бүрэн бус, хуучирсан, алдаатай, хууль бусаар
+        хүлээн авсан, эсхүл боловсруулалтын зарласан зорилгоор, эсвэл шаардлагатай
+        бол биш бол компани нь илүү тодорхой мэдээлэл, блок авах буюу хувийн мэдээллийг
+        устгах хүсэлт эдгээр зүйлийн 6.1.3-д заасан үйл ажиллагаа Дүрэм бие даан хэрэгжүүлж
+        чадах нь үгүй;
+      p_6_1_5: 6.1.5. хүсэлтийн үндсэн дээр түүний / түүний хувийн мэдээллийг боловсруулах
+        талаар компанийн зүгээс мэдээлэл хүлээн авдаг.
+      p_6_2: '6.2. ямар ч бүртгэгдсэн вэб хэрэглэгчийн тухай дараах мэдээллийг бүртгэлтэй
+        хэрэглэгч нь үргэлж бэлэн байдаг: хэрэглэгчийн нэр, хүйс, нас, мэдээллийг
+        фото зураг болон бусад мэдээллийг хэрэглэгчийн үүнийг бичээгүй байна уу.'
+      p_6_3: 6.3. Компани нь эдгээр мэдээллийг нэвтэрсэн Вэб бусад хэрэглэгчдийн Хэрэглэгчийн
+        хувийн мэдээллийг ил тод болгох ямар ч хариуцлага гэрчилдэг.
+      p_6_4: 6.4. хувийн мэдээлэл (бусад хэрэглэгчийн мэдээлэл) Хэрэглэгчийн хувийн
+        хуудаснаас эсвэл вэб сайтаас Хэрэглэгчийн хувийн хуудаснаас арилгах нь зайлуулах
+        тохиолдолд Хэрэглэгчийн мэдээллийг бусад хэрэглэгчдийн хуулсан болон бусад
+        хэрэглэгчдийн хуудсан дээр хадгалагдаж хадгалагдан үлдсэн байдаг.
+      users_information_protection_measures: хэрэглэгчдийн мэдээллийг хамгаалах арга
+        хэмжээ
+      p_7_1: 7.1. Компани Хэрэглэгчийн хувийн мэдээлэл зөвшөөрөлгүй, эсвэл санамсаргүй
+        хандалт, устгах, өөрчлөх, хаах, хуулбарлах,, түгээх, түүнчлэн бусад зөвшөөрөлгүй
+        үйл ажиллагаа хамгаалж байгаа байдлыг хангах, техникийн зохион байгуулалт,
+        хууль эрх зүйн арга хэмжээ авдаг.
+      p_7_2: 7.2. Хэрэглэгчийн нэвтрэх (и-мэйл хаяг болон гар утасны дугаар) болон
+        нууц үг Вэб сайт хандахын тулд ашиглаж байна. Хэрэглэгчийн нууц мэдээллийг
+        хадгалах үүрэгтэй. Хэрэглэгчийн гуравдагч этгээдэд нэвтрэх нэр болон нууц
+        үгээ шилжүүлж болохгүй, мөн түүний нууцлалыг хангах арга хэмжээ авах үүрэгтэй.
+      p_8: гуравдагч этгээдийн үйл ажиллагаа, Интернэт нөөцийн сунгаж байна. Компани
+        нь Интернет болон вэб үйлчилгээний дамжуулан хэрэглэгчийн мэдээлэлд хандах
+        болсон гуравдагч этгээдийн үйл ажиллагаанд ямар ч хариуцлага гэрчилдэг. Вэб
+        сайт захиргаа хариуцлагатай байдлаар вэб хуудсанд байрлуулсан мэдээллийг хэмжээний
+        асуудлыг хандах хэрэглэгчдэд санал болгож байна.
+      user_requests: Хэрэглэгчийн хүсэлт
+      p_9_1: '9.1. Орос, 101000, Москва, Ulanskiy pereulok 13 stroeniye 4 pomeshcheniye
+        1 буюу цахим баримт бичгийн хэлбэрээр: Хэрэглэгчид дараах хаягаар бичгээр
+        хувийн мэдээллийг ашиглахтай холбоотой хүсэлт зэрэг компанид хүсэлт илгээх
+        эрхтэй support@flutylove.com: И-мэйл, ОХУ-ын хууль тогтоомжийн дагуу мэргэжлийн
+        цахим гарын үсэг зурах гарын үсэг зурсан.'
+      p_9_2: '9.2. Хэрэглэгчийн хүсэлт нь дараах мэдээллийг агуулсан байх ёстой: Хэрэглэгч
+        буюу түүний төлөөлөгч тодорхойлох баримт бичгийн тоо; Дээрх баримт болон гаргах
+        эрх олгосон огноо; Хэрэглэгчийн оператор нь харилцаанд оролцох нотолсон мэдээлэл
+        (тухайлбал, хуудас руу холбоос); Хэрэглэгч болон түүний / түүний төлөөлөгч
+        гарын үсэг.'
+      p_9_3: 9.3. Компани нь авч үзэх бөгөөд энэ нь хүлээн авсан өдрөөс хойш 30 хоногийн
+        дотор Хэрэглэгчийн хүсэлтэд хариу өгөх үүрэг хүлээнэ.
+      p_9_4: 9.4. Хэрэглэгчид (бичгээр, эсхүл цахим хүсэлтийг) -аас компани хүлээн
+        авсан тухай мэдээлэл харилцаа хязгаарлагдмал хандалттай мэдээлэл гэж ангилдаг
+        бөгөөд Хэрэглэгчийн бичгээр өгсөн зөвшөөрөлгүйгээр задруулж үл болно. хүсэлт
+        илгээсэн хэрэглэгчийн тухай хувийн мэдээлэл болон бусад мэдээллийг өөрөөр
+        хүсэлтээр буюу шууд холбогдох хуульд заасан тохиолдолд хариу арга хэмжээ авах
+        илүү Хэрэглэгчийн тусгай зөвшөөрөлгүйгээр хэрэглэж байж болох юм.
+    terms:
+      terms: Flutylove Хэрэглэгчийн гэрээ
+      about_terms: '428 ОХУ-ын Иргэний хуулийн (цаашид "гэрээ" гэх) дугаар зүйлд заасны
+        дагуу наалдац гэрээний байна хооронд (түүнчлэн баримт бичгийг энд, Нууцлалын
+        бодлого гэх мэт нэрлэнэ) 18 нас хүрсэн хүн хувь хүн (цаашид "Хэрэглэгч" болон
+        компанийн гэх (эсвэл "Бид") - нь хязгаарлагдмал хариуцлагатай компани "Technoelegance"
+        (ХХК "Technoelegance") (хууль ёсны хаяг: 101000, Москва, Ulanskiy pereulok
+        13 stroeniye 4 pomeshcheniye 1), цаашид Flutylove шиг та энэ вэб сайт болон
+        ерөнхийдөө "үйлчилгээний" гэх вэб эсвэл програмаас (дамжуулан санал болгож
+        буй бүх холбогдох үйлчилгээ) ашиглаж болох дагуу заасан. вэб ямар нэг утгаар
+        ойлгоно түүний хувилбарууд, домэйн нэр flutylove.com дор нэгтгэж, вэб-д суурилсан
+        хувилбар, гар програмууд болон нийгмийн сүлжээний програмууд гэх мэт төрөл
+        бүрийн төхөөрөмжүүд төлөө үйл ажиллагаа явуулдаг.Энэ вэб хуудас ашиглан та
+        гэрээний нөхцөл, нууцлалын бодлогыг хүлээн зөвшөөрч байна. тэднийг анхааралтай
+        уншина уу. Та гэрээний нөхцөл, нууцлалын бодлого хүлээн зөвшөөрч байгаа бол,
+        эсвэл та 18 нас хүрч чадахгүй байна, та Вэб сайт, түүний үйлчилгээний хэрэглэж
+        болохгүй.Вэб сайт ашиглан үл хамааран та Flutylove нь хэрэглэгч бүртгэлтэй,
+        эсвэл биш юм, та энэ Гэрээ болон бидний Нууцлалын бодлого, холбоос энэ хэлэлцээрт
+        орсон болон цахим хуудаснаас авах боломжтой юм нь бүрэн хүлээн зөвшөөрч, түүний
+        дагаж мөрдөх.хэрэглэгчийн хүсэлтээр компани нь hardcopy хэлбэрээр энэ гэрээнд
+        гарын үсэг зурж, баримт бичгийг хүсэлт хувь хүн рүү илгээх үүрэг хүлээнэ.Компани
+        Хэрэглэгчийн гэрээ болон түүнд дурдсан аливаа баримт бичгийг өөрчлөх эрхтэй.
+        Та байлгах хүртэл шинэчлэгдсэн-руу тогтмол ийм өөрчлөлтийн талаар мэдээлэл
+        хэрэгтэй өөрчлөлтийг мэдэж байх хэрэгтэй. Бид дор энэ хуудсан дээр хийсэн
+        өөрчлөлтийн талаар танд мэдэгдэх болно. Өөрчлөлт буцаж холбоотой байхгүй,
+        хэвлэгдсэн өдрөөс хойш арав хоногийн дотор хүчин төгөлдөр болно. Гэсэн хэдий
+        ч тэд энэ тохиолдолд шинэ үйлчилгээг хэрэгжүүлэх, эсхүл хууль тогтоомжид нэмэлт,
+        өөрчлөлт оруулах холбоотой байдаг, энэ нь шууд хэрэглэж болно. Та Гэрээнд
+        өөрчлөлт санал нийлэхгүй байгаа бол та Вэб сайт, түүний програмыг ашиглан
+        зогсоох ёстой.'
+      consent_to_accept_the_terms_of_user_agreement: 1. ЗӨВШӨӨРӨЛ USER гэрээний нөхцлийг
+        хүлээн зөвшөөрөх хэрэгтэй.
+      p_1: ". Цахим гэрээ. Энэхүү Гэрээ нь гэрээний Вэб сайт, үйлчилгээний ашиглах
+        нөхцөлийг тайлбарлах нь цахим хувилбар юм. Вэб сайт руу нэвтрэн орж, эсвэл
+        Хэрэглэгчийн болсноор, та энэ гэрээг хүлээн авч, бүх нөхцөл, нөхцөл, мөн багтсан
+        буюу тэнд иш татсан стандарт, мэдэгдлийн зөвшөөрч байна. Та батлах болон Flutylove
+        хэрэглэгчид компани, түүний салбар хамаарах бусад вэбсайт агуулсан онлайн
+        хамтын нийгэмлэгийн нэг хэсэг байж болох юм гэдгийг хүлээн зөвшөөрч. Тиймээс
+        Вэб сайт дээр танилцуулга бүх вэб сайт бусад төлж захиалагчдын-тэй холбогдож
+        болно бусад ижил төстэй вэб сайт, нэг вэб сайтаас төлөх захиалагчдын дээр
+        харж болно. б. Цахим хэлбэр. Вэб сайт руу нэвтрэн орж, эсвэл Хэрэглэгчийн
+        болж та цахим гэрээний таныг хангах зөвшөөрч байна. в. Hardcopy хэлбэр. Та
+        энэ хэлэлцээрийн hardcopy хүлээн авах эрхтэй. Энэ нь электрон хэлбэрээр гарын
+        үсэг зурна өмнө болон дараа нь та энэ тухай хэлэлцээр hardcopy хэвлэл авах
+        боломжтой. Хэрэв, дэлгэрэнгүй мэдээллийг манай харилцагчийн үйлчилгээг холбоо
+        барина уу. г. Хандалтын болон татаж. хандах, энэ цахим гэрээг татаж авахын
+        тулд та Интернет буюу шууд Вэб эх үүсвэрийн хамт төхөөрөмжүүдийн дамжуулан
+        хандах байх ёстой. Та интернет, тухайлбал, компьютер, модем болон бусад хандалтын
+        төхөөрөмжийг холбох шаардлагатай тоног төхөөрөмж хэрэгтэй. Хэрэв энэ гэрээний
+        хуулбарыг хэвлэж, түүнийг байлгах. Гэрээний цахим хэлбэрээр татаж авахын тулд,
+        ямар ч текст засварлагч тусламжтайгаар таны компьютер руу хадгал."
+      the_right_of_using_the_website: 2. вэб сайт ашиглах эрхтэй.
+      p_2: Та хамгийн багадаа арван найман (18) жил энэ цахим хуудас нь бүртгэлтэй
+        хэрэглэгч болох нь хуучин байх ёстой. шаардлагыг мөрдөөгүй тохиолдолд Вэб
+        сайт хандахыг хориглодог болно. Вэб сайт ашиглан хэрэглэгчийн вэб хуудсанд
+        байрлуулсан хувийн мэдээлэл нь бусад интернэт хэрэглэгчид байх болно гэдгийг
+        мэдэж байх ёстой бөгөөд Компани нь өөрийн үйлдлийнхээ төлөө хариуцлага хүлээхгүй
+        юм. Та нотлох, та энэхүү хэлэлцээрт орох эрх, эрх мэдэл, боломж байна гэдгийг
+        хийх энэ Вэб сайт зөвшөөрлийг ашиглан, түүний бүхий л нөхцөлийг дагаж байна.
+        Та нотлох, та хэзээ ч бэлгийн хүчирхийллийн холбоотой эрүүгийн гэмт хэрэг
+        үйлдсэний улмаас ял зовж байна гэж хийх нь хэрэглэгчийн болох нь. Вэб сайт
+        нь зөвхөн хувийн хэрэгцээнд зориулагдсан. Энэ нь ямар ч арилжааны зорилгоор
+        Вэб сайт ашиглахыг хориглоно. Аж ахуйн нэгжийн аж ахуйн нэгж энэ Вэб хэрэглэгчид
+        байж болохгүй, мөн түүнчлэн энэ үйлчилгээг эсвэл тэдний зориулалтаар Вэб сайт
+        ашиглаж чадахгүй. Хууль бус болон / эсвэл хүсээгүй мессеж болон холбоосыг
+        илгээх зорилгоор электрон болон бусад багаж хэрэгсэл тусламжтайгаар цуглуулж
+        хэрэглэгчийн нэрс болон / эсвэл и-мэйл хаяг, түүний дотор Вэб ашиглан хууль
+        бусаар баримталж байгаа бөгөөд Компани, түүний дотор хуулийн дагуу зохих арга
+        хэмжээ авч болно хууль сахиулах байгууллагад давж заалдах.
+      pricing_and_registration: 3. үнэ, бүртгэлийн
+      terms_4: 4. нөхцөл.
+      p_4: Энэ гэрээний бүрэн урт та Вэб сайт ашиглах талаар хүчин төгөлдөр хэвээр
+        байна. Та өөрийн хуудсыг ямар ч үед манай онлайн Харилцагчийн үйлчилгээ холбоо
+        буюу Вэб үйлчилгээг ашиглан, ямар нэгэн шалтгаанаар, арилгах замаар Вэб User
+        байх зогсоож болно. Компани нь ямар ч үед өөрийн хувийн хуудаснаас устгах
+        түүний эрхтэй. Бид хуудсыг устгахаасаа өмнө танд мэдэгдэх Компани та гэрээний
+        нөхцөлийг зөрчсөн гэж үзэх шалтгаан бол үүрэг биш юм. Бид таны данс устгах
+        шалтгааныг ил тод болгох үүрэгтэй байна; зарим тохиолдолд ийм мэдээллийг хориглоно
+        болно. Таны хуудасны устгасны дараа, бүх нөхцөл нь тэдний мөн чанар нь энэ
+        гэрээ дуусгавар болох дууссаны дараа хүчин төгөлдөр болно дараа хүчин төгөлдөр
+        болно. Хэрэв та өөрийн хүслээр үед вэб сайтаар дамжуулан таны хуудсыг устгах
+        бол бид ийм устгаж шалтгааныг зааж өгөх асуух болно.
+      account_security: 5. данс аюулгүй байдлын.
+      p_5: таны хэрэглэгчийн нэр, нууц үг, бүртгэлийн үед тогтоосон болно нууцлал
+        хадгалах үүрэгтэй. Мөн та өөрийн хэрэглэгчийн нэр болон нууц үгийг доор гарч
+        бүх үйлдлийнхээ төлөө туйлын үүрэгтэй. Та (а) нэн даруй хууль бусаар хуралдаан
+        бүрийн эцэст таны дансанд нь таны нэвтрэлт болон нууц үг ашиглах, түүнчлэн
+        өөр бусад аюулгүй байдлыг зөрчсөн, ба (б) гарах Бидний тухай мэдэгдэх хүлээн
+        зөвшөөрч байна. Вэб сайт энэ хуулийн бус дагуу үүссэн ямар нэгэн хохирол болон
+        хохирлыг хариуцлага хүлээхгүй болно. зөвшөөрөлгүй этгээд тагнахаар чадах нь
+        үгүй ​​эсвэл өөрийн нууц үг эсвэл өөр бусад хувийн мэдээллийг бүртгэж байхын
+        тулд олон нийтийн компьютер дамжуулан өөрийн бүртгэлд хандах үед та ялангуяа
+        болгоомжтой байх хэрэгтэй. Та бас баталгаажуулах, Интернэт хэзээ ч бүрэн аюулгүй
+        байдлын болон хувийн гэдгийг хүлээн зөвшөөрч байна. Та ямар нэг мэдэгдлүүд
+        эсвэл та вэб хуудсанд дараах мэдээллийг уншиж болох болон бусад хэрэглэгчдийн
+        ашигладаг гэсэн мэдээлэл нууцлаг байх нь онцгой анхааруулах байдаг ч ойлгож
+        байна.
+      p_6: ". Та бусад хэрэглэгчдэд ТАНЫ харилцаа холбоо бүрэн хариуцна. ТА КОМПАНИЙН
+        Тэд ял шийтгэлгүй эсэх талаар хэрэглэгчдэд VERIFY биш гэдгийг ойлгох хэрэгтэй.
+        Тус компани мөн хэрэглэгчдийн өнгөрсөн ТУХАЙ МЭДЭЭЛЭЛ авагч биш бөгөөд энэ
+        мэдээллийг хүчин төгөлдөр биш байна. КОМПАНИЙН USER зан байдал, нийцэх бодит
+        буюу FUTURE хэрэглэгчидтэй талаархи ямар ч баталгаа болж байна. Үүний зэрэгцээ
+        КОМПАНИЙН Эрүүгийн Бичлэг Хэрэглэгчдээс VERIFY эсвэл байгаа олон нийтийн мэдээллийн
+        АШИГЛАХ аль ч үед шалгах явуулах эрхтэй. б. NO тохиолдолд КОМПАНИ ТЭД байгаа
+        эсэхийг шууд, шууд бус, ерөнхий болон тодорхой шинж чанар, нөхөн ба / эсвэл
+        ТОХИОЛДЛЫН, та эсвэл ямар нэгэн өөр ХУВЬ ХҮНИЙ AS, вэб хуудас АШИГЛАХ зэрэг
+        үр дүн авсан, аливаа хохирлыг хариуцлага биш юм гэхдээ хязгаарлагдмал байх
+        нь бие махбодийн гэмтэл, стресс ба / эсвэл бусад хохирол, AS вэб сайт эсвэл
+        хүмүүсийн бусад бүртгэгдсэн гишүүд, вэб сайт нь та хэлэлцээ хийх холбоог бУЮУ
+        уулзалтын Ингэсний үр дүнд олж авсан. , Ялангуяа тохиолдолд, бусад хэрэглэгчдийн
+        холбогдох үед та бодит амьдрал дээр тэдэнтэй уулзахаар шийдсэн үед та боломжтой
+        бүх арга хэмжээг авах нь хүлээн зөвшөөрч байна. ТА, мэдэж байх ёстой КОМПАНИЙН
+        Энэхүү вэб сайт нь хэрэглэгчдэд нийцтэй байх талаар мэдүүлсэн буюу шууд бус
+        баталгаа өгч чадахгүй юу. ТА вэб хуудас нь (жишээ нь мэдээллийг таны кредит
+        болон хуванцар карт ТУХАЙ) БУСАД хэрэглэгчдэд санхүүгийн мэдээлэл өгөх ёсгүй.
+        в. Үйлчилгээний таны нэр болон бусад хэл дээр таны хотын нэрийг орчуулж болно;
+        г. Үйлчилгээний Энэ зүйлд дурдсан үйлдлийнхээ төлөө хариуцлага хүлээхгүй юм.
+        тохиолдолд та бүрэн буюу хэсэгчлэн тэдэнтэй санал нийлж УУ ЯАРАЛТАЙ вэб сайт
+        явахгүй бол,"
+      the_information_posted_by_you_on_flutylove: 7. FLUTYLOVE дээр та BY байрлуулсан
+        мэдээлэл
+      p_7: . Та нийтлэх буюу харуулах албаны тухай (цаашид "шуудан") болон бусад хэрэглэгчдийн
+        шилжүүлэх мэдээллийг зөвхөн үүрэгтэй. Та арьс үндсээр ялгаварлан гадуурхах
+        шинжтэй, нэр төр гутаасан буруу, хараалын, ёс журамгүй, бүдүүлэг, түрэмгий
+        агуулгын талаар ямар ч мэдээлэл, бэлгийн агуулгын талаар мэдээлэл, түүнчлэн
+        насанд аюултай, эсвэл заналхийлэл мэдээлэл, мэдээллийг албаны тухай бичлэг
+        болон бусад хэрэглэгчдийн шилжүүлэх эрхгүй байна, эсвэл хууль бус мэдээлэл,
+        зөрчих болон бусад талын эрх ашгийг зөрчсөн бусад мэдээлэл (түүний дотор ямар
+        нэг хязгаарлалтгүйгээр, оюуны өмчийн эрх, хувийн болон олон нийтийн мэдээллийн
+        эрх). Та компани эсвэл ямар нэгэн өөр хэрэглэгчид, буруу ташаа, эсвэл худал
+        мэдээлэл өгөх эрхгүй. Мэдээллийн компани Flutylove өгөх эсвэл өөр Хэрэглэгчийн
+        дараа нь хуурамч нь төөрөгдүүлсэн, алдаатай болсон бол, та нэн даруй компани
+        ийм өөрчлөлтийн Flutylove мэдэгдэх ёстой. Та гаргах, бүртгэлийн үеэр өгсөн
+        бүх мэдээлэл үнэн зөв, үнэн гэдгийг баталгаа, та нар тэр даруй дараа, буруу
+        ташаа, хуурамч болох аливаа мэдээллийг өөрчлөх. б. Та ойлгож, бид эрхтэй,
+        гэхдээ албанд шилжүүлсэн, эсхүл албаны тухай олон нийтэд байрлуулсан байна
+        мэдээлэл, агуулга нь хяналт тавих үүрэгтэй биш гэж хүлээн зөвшөөрч байна.
+        Бид ямар ч шалтгаан, мэдэгдлийг зааж ч ийм мэдээлэл, агуулга аль устгах эрхтэй.
+        в. Вэб сайт дээр гарах бүх обьектууд, зураг төсөл элемент, текст, график,
+        дүрслэл, видео, скриптүүд, хөтөлбөр, дуу хөгжим, дуу авиа болон бусад объект,
+        тэдгээрийн номын сан зэрэг (цаашид - Мэдээллийн), хэрэглэгчид компанийн давуу
+        эрхийн өмч юм вэб сайт болон бусад эрх эзэмшигч, эдгээр объектын бүх эрх хамгаалагдсан.
+        г. Бусад нь энэхүү Гэрээний, түүнчлэн ОХУ-ын одоогийн хууль тогтоомжийн дагуу
+        байгуулагдсан талаар, ямар ч мэдээллийг хуулж болно (хуулбарлаж), боловсруулсан,
+        тараасан нь хүрээнд гарч, хэвлэгдсэн, татаж авч, шилжүүлсэн, бусад аргаар
+        борлуулсан буюу ашигласан бол бүхэлд нь буюу эзэмшигчийн урьдчилан зөвшөөрөлгүйгээр
+        ширхэг, эрх эзэмшигчийн бол тодорхой ямар ч хувь хүн мэдээллийг үнэ төлбөргүй
+        ашиглах нь зөвшөөрлөө илэрхийлсэн. д. хууль ёсоор Хэрэглэгч хамаарах талаарх
+        мэдээллийг вэб сайтад байрлуулах замаар, хэрэглэгчийн харах, тоглуулах (хуулбарлах
+        гэх мэт) нь ашиглах бус, онцгой эрхийн төлөө бусад хэрэглэгчид, зөвхөн хувийн
+        арилжааны бус ашиглах зорилгоор бусад эрхийг хандах боломж олгодог, ийм хэрэглээ
+        нь шалтгаан байх үед, эсвэл тохиолдолд хэрэв хуулиар хамгаалагдсан эрх эзэмшигчийн
+        эрх ашигт хор хохирол учруулж болох юм. е. , Хандалт нь зөвхөн хувийн арилжааны
+        бус ашиглах болсон байна Хэрэглэгч аас мэдээлэл,-ын ашиглан зохиогчийн бүх
+        шинж тэмдэг (зохиогчийн) эсвэл зохиогчийн бусад зар хадгалж байх болно, зохиогч,
+        түүний бүтээгдэхүүний нэрийг нөхцөл дээр зөвшөөрнө өөрчлөлт ямар үлдэх болно.
+        г. Хэрэглэгч нь вэб хуудсанд байрлуулсан бөгөөд түүнд хамаарах мэдээллийг
+        ашиглах бус онцгой эрх бүхий Компани олгодог / түүнийг хууль ёсоор архитектур
+        болон функцийн үйл ажиллагааны хүрээнд Компанийн Вэб сайт үйл ажиллагааг хангахын
+        тулд бодолгүйгээр вэб сайт. Дээр дурдсан бус онцгой эрх вэбсайтад Агуулга
+        байрлуулах олгосон, бүх дэлхийн улс орнуудын нутаг дэвсгэрийг хамардаг байна.
+        Компани нь гуравдагч этгээдэд энэ хэсэгт заасан эрхээ шилжүүлэх эрхтэй. Хэрэглэгчийн
+        Компани сурталчилгаа мэдээлэл харуулах зорилгоор гэх мэт хэрэглэгчийн өөр
+        агуулга хуваалцах харуулах хангах Вэб үйл ажиллагааны болон техникийн боломжуудыг
+        ашиглах эрхтэй гэж хүлээн зөвшөөрдөг. сайн байна уу. тохиолдолд хэрэглэгчийн
+        Вэб мэдээллийг устгадаг, төрийн бус онцгой эрх нь автоматаар хүчингүй болно,
+        харин улмаас Вэб техникийн үзүүлэлтэд Компани шаардагдах шаардагдах цаг хугацаа,
+        хаана дотор мэдээллийн нөөц хуулбарыг аврахын тулд эрхтэй. би. Үүнээс гадна
+        хувийн мэдээллийг авч, хэрэглэгчийн тодорхой зохиогчийн ийм үйл ажиллагаанд
+        зөвшөөрөл илэрхийлсэн байхгүй бусад сайтууд, мэдээллийн бааз болон бусад оюуны
+        өмчийн мэдээлэл (Вэб дээр хэвлэн нийтлэх замаар) оруулах, эсвэл өөр байдлаар
+        тодруулах ямар ч эрхтэй эзэн. и. өөрөөр энэхүү журмын тэмдэглэгдсэн байдаг
+        л бол эдгээр журамд ямар нэг мэдээлэл онцгой эрхийг шилжүүлэх гэж үзэж болохгүй.
+        к. Хэрэв та өөрийн хэрэглэгчийн профайл дээрх хэвлэн нийтлэх бүх мэдээлэл,
+        дээр үеийн, бүрэн гүйцэд, үнэн зөв байх ёстой. Вэб сайт эсвэл хэрэглэгчийн
+        тусламжтайгаар (илгээгдсэн) Хэрэглэгчийн оруулсан, эсвэл өөр байдлаар тодруулах
+        аливаа мэдээлэл нь туйлын дангаараа хариуцдаг юм. Хэрэглэгчийн, байршуулахыг
+        шилжүүлэх буюу вэбсайтад агуулга оруулж тэр / тэр нь ОХУ-ын хууль тогтоомжийн
+        дагуу түүнд / түүнд ийм арга хэмжээ авч, олж авсан, эсхүл шилжүүлсэн авч зохих
+        эрх байхгүй бол эрхтэй байна. Компани нь боломжтой, гэхдээ ямар ч хууль бус
+        агуулгын хувьд Вэб сайт үзэх, үүрэг биш юм, устгах эсвэл (мэдэгдэлгүйгээр
+        ямар ч) ямар нэгэн агуулга буюу хэрэглэгчдийг өөрийн үзэмжээр, ямар нэгэн
+        шалтгаанаар, эсвэл шалтгаан ч үүнд ямар нэгэн хязгаарлалтгүйгээр шилжих шилжих
+        эрхтэй байна, эсвэл компанийн хувь хүний ​​бодлоор дагуу энэхүү гэрээг зөрчсөн
+        мэдээлэл, ОХУ-ын хууль тогтоомж, устгах болон / эсвэл эрхийг зөрчиж болох
+        гэмтээх, эсвэл бусад хэрэглэгчид эсвэл гуравдагч талын аюулгүй байдлыг аюул.
+        Вэб сайт (эсвэл байж болно) агуулдаг Интернэт дэх бусад газрууд руу холбодог
+        (гуравдагч этгээдийн вэб хуудас), түүнчлэн нийтлэл, гэрэл зураг, чимэглэл,
+        график, дуу хөгжим, дуу, видео, мэдээлэл, өргөдөл, програм хангамж болон бусад
+        мэдээллийг хамаарах буюу ирэх гуравдагч этгээд (гуравдагч этгээдийн агуулга),
+        оюуны үйл ажиллагааны үр дүн юм, Оросын Холбооны Улсын хууль тогтоомжийн дагуу
+        хамгаалагдсан байна. Эдгээр нь гуравдагч этгээд, тэдгээрийн мэдээллийг энэ
+        болон бусад шаардлага (үнэн зөв байдал, иж бүрдэл, шударга гэх мэт) нийцэж
+        байгаа эсэхийг компанийн шалгаж байна. Компани нь гуравдагч талын сайтууд
+        дээр байрлуулсан ямар нэгэн агуулга хариуцлага хүлээхгүй юм Хэрэглэгчийн олз
+        Вэб сайт дамжуулан, эсхүл гуравдагч этгээдийн мэдээлэл, түүний дотор дамжуулан
+        хандах боловч гуравдагч талын сайт эсвэл дээр илэрхийлсэн ямар нэгэн үзэл
+        бодлын болон тайлангийн хязгаарлагдмал байх нь тэдний мэдээлэл байна. ямар
+        ч газар, бүтээгдэхүүн болон үйлчилгээнд холбоос, энэ цахим хуудас дээр багтсан
+        арилжааны болон арилжааны бус шинж чанартай аливаа мэдээллийг компанийн эдгээр
+        бүтээгдэхүүн (үйлчилгээ) хувьд батлах буюу зөвлөмж биш юм. Хэрэглэгчийн Вэб
+        сайт үлдээж, гуравдагч этгээдийн вэб сайт руу явах, эсвэл гуравдагч талын
+        програм хангамжийг ашиглах эсвэл суулгах шийдвэрлэсэн бол тэр / тэр өөрийн
+        эрсдэлтэй бөгөөд тэр мөчид энэхүү журам нь цаашид хэрэглэгчийн хэрэглэж байгаа
+        нь тийм биш. Цаашид Хэрэглэгчийн үйл ажиллагаа нь холбогдох дүрэм, бодлого,
+        Мэдээллийн тэр / тэр хэрэглэх гэж байгаа хүмүүсийн хувь хүний ​​бизнесийн
+        үйл ажиллагаа, түүний дотор удирдлага байна.
+      forbidden_actions: 8. Хориотой АЖИЛЛАГАА.
+      p_8: . Энэ нь бусад аргаар ямар ч хүн "дээр анхааралтай ажиглах байх" эсвэл
+        саад хориглоно. б. Энэ индекс, "тагнуулын" ханд болон бусад аргаар хуулбарлах
+        эсвэл зайлсхийхийн тулд навигацийн бүтэц / ханд сайт, эсвэл бусад гарын авлага
+        эсвэл автомат төхөөрөмжийн үйл явцыг хайх бот, вирус, програмуудыг ашиглахыг
+        хориглоно болон албаны буюу түүний агуулга харуулах бол . в. Энэ нь дараах
+        тараах, эсвэл everyway зохиогчийн эрх эзэмшигчээс урьдчилан зөвшөөрөл авалгүйгээр
+        зохиогчийн эрх нь хамгаалагдсан ямар нэгэн зохиогчийн эрхэд хамаарах мэдээлэл,
+        худалдааны тэмдэг, болон бусад мэдээллийг хуулбарлах хориглоно. г. Энэ нь
+        албаны тухай агуулагдсан аливаа зохиогчийн эрх, барааны тэмдэг болон бусад
+        зохиогчийн эрхийн зар устгах хориглоно. д. Энэ нь хөндлөнгөөс оролцох, эсвэл
+        Үйлчилгээний буюу Вэб сайт холбогдсон үйлчилгээ, вэб сайт, эсвэл үйлчилгээ,
+        сүлжээний үйл ажиллагааг тасалдуулж хориглоно. е. Энэ и-мэйл эсвэл шилжүүлэх,
+        өөр өөр замаар вирус болон бусад компьютерийн код, хөндлөнгөөс оролцох, устгах
+        эсвэл ямар нэгэн компьютерийн програм хангамж, техник хангамж болон холбооны
+        тоног төхөөрөмжийн ажиллагааг хязгаарлах зорилготой файлууд болон програмуудыг
+        агуулсан аливаа мэдээллийг хэвлэн нийтлэх хориглоно. г. Энэ нь толгой сайтай,
+        эсвэл үйлчлэлээр дамжуулан хуваалцсан аливаа мэдээлэл нь бодит утгыг харагдуулах
+        зорилгоор зориулалтыг өөрчилж хориглоно. ж. Энэ нь "сайтай" эсвэл "хуулбар"
+        үйлчилгээ буюу Flutylove урьдчилан бичгээр зөвшөөрөл авалгүйгээр Вэб сайт
+        аль нэг хэсэг хориглоно. Мөн та ямар зорилгоор Өөр сайт ямар нэгэн хүнийг
+        дахин чиглүүлэх зорилгоор ямар нэг мета хаягууд болон код, эсвэл Flutylove
+        Үйлчилгээний буюу Вэб сайт ямар нэгэн холбоосуудыг агуулсан бусад төхөөрөмжүүдийг
+        ашиглаж болохгүй. би. Энэ нь бусдыг ижил арга хэмжээ авах нь дэмжиж байна
+        гэж, түүнчлэн өөрчлөх дасан зохицох, sublicense, орчуулах, худалдах, өөрчлөн
+        байгуулах, тайлах, decompile болон албаны буюу Вэб сайт буюу цахим хуудас
+        дээр буюу ашиглаж ямар нэг програм хангамж ямар ч хэсгийг дизассембл, хориглоно
+        . и. Энэ нь порно болон / эсвэл эротик агуулга бүхий аливаа мэдээллийг оруулж
+        хориглоно.
+      the_changes_in_the_service: 9. үйлчилгээ ӨӨРЧЛӨЛТ.
+      p_9: Flutylove өөрчлөх, түр буюу байнга үйлчилгээг идэвхгүй болгох ямар ч үед
+        эрхтэй (эсвэл энэ нь хэсэг) мэдэгдэлгүйгээр. Та Flutylove ямар нэгэн өөрчлөлт,
+        түр зуурын боломж буюу үйлчилгээний иж бүрэн хааж хүчингүй болгох та эсвэл
+        ямар нэгэн гуравдагч этгээдэд хариуцлага биш гэдгийг хүлээн зөвшөөрч байна.
+      ip_address_blocking: 10. IP ХАЯГ хаах.
+      p_10: Вэб сайт бүрэн бүтэн байдлыг хамгаалахын тулд, Flutylove зарим хэрэглэгчийн
+        IP хаягийг хаах өөрийн тохиромжтой ямар ч үед эрхтэй.
+      relations_between_users_online: 11. ХАРИЛЦАА хэрэглэгчдийн хооронд ЭЛЕКТРОН
+      p_11: Flutylove бусад хэрэглэгчидтэй харилцах харилцаанд дангаараа хариуцаж
+        байна. Flutylove та болон бусад хэрэглэгчдийн хооронд маргаан нь хяналт тавих
+        эрхтэй, харин үүрэг, эдэлнэ.
+      security_and_communication: 12. АЮУЛГҮЙ БАЙДЛЫН, харилцаа холбоо.
+      p_12: Мөн манай Нууцлалын бодлого дагуу зохицуулна. Та хэрэглэгчийн болсон бол
+        та зөвшөөрч, зөвшөөрлийг биднээс и-мэйл хүлээн авах. Энэ и-мэйл үйл ажиллагаа
+        эсхүл бусад хэрэглэгчид талаар авч буй арга хэмжээний талаар захиргааны зарлал,
+        өөрчлөлтийн талаар албан ёсны зар, эсвэл биднээс арилжааны санал, сурталчилгааны
+        материал, тусгай санал агуулсан и-мэйл, эсвэл мэдээлэл зэрэг албаны холбоотой
+        бусад мэдэгдлийн талаар мэдэгдэл төлөөлж болох нь таны хэрэглэгчийн бүртгэл.
+        Ийм мэдэгдлийн талаар илүү ихийг мэдэхийг манай Нууцлалын бодлогыг уншина
+        уу.
+      p_13: ". Flutylove вэб хуудсанд байрлуулсан ямар нэгэн буруу эсвэл буруу мэдээлэл
+        хариуцсан юм уу эсвэл үйлчилгээнд холбоотой байдаг, Вэб сайт, эсвэл ямар ч
+        техник хангамж болон программ хангамж нь манай албаны холбоотой эсвэл тэнд
+        ашиглаж байгаа хэрэглэгчид. Flutylove үгүй ​​биш зан хариуцаж, онлайн болон
+        офлайн аль алинд нь, Вэб ямар ч хэрэглэгчийн юм. Flutylove ямар нэгэн алдаа,
+        орхигдуулсан, тасалдлын, устгах, үйл ажиллагаа, эсвэл үйл ажиллагаа, харилцаа
+        холбооны шугам дутагдалтай, хулгай, устгах, хууль бусаар хандах, эсхүл хэрэглэгчийн
+        харилцаа холбооны шугам өөрчлөхөд гэмтээсэн буюу хугацаа хэтрүүлсэн хариуцлагыг
+        хүлээхгүй. Flutylove интернэт дээр, эсвэл ямар нэгэн Вэб сайт ямар нэгэн утасны
+        сүлжээ болон шугам, компьютерийн онлайн систем, сервер, эсвэл эрхлэгч, компьютерийн
+        тоног төхөөрөмж, программ хангамж, хэрэглэгчийн дансанд мэйл эсвэл тоглогчид
+        алдаа, техникийн асуудал болон замын түгжрэл ямар нэгэн асуудал эсвэл техникийн
+        доголдлоос хариуцлага биш юм эсвэл түүний хослол, хэрэглэгчдэд осол, гэмтэл,
+        эсвэл компьютерт холбоотой аливаа гуравдагч этгээд, эсхүл оролцсон буюу сүлжээнд
+        болон / эсвэл Үйлчилгээний холбоотой татаж мэдээллийн үр дүнд орно. ямар ч
+        нөхцөл байдалд Flutylove компани буюу түүний харъяа аль, зар сурталчилгааны
+        агентууд, учир нь Вэб эсвэл үйлчилгээний ашиглан үүсгэн байгуулагчид болон
+        түгээх түншүүд аливаа алдагдал, хохирол, Хувь хүний ​​гэмтэл эсвэл нас барсан
+        зэрэг нь хариуцлага хүлээхгүй дор ямар нэгэн Агуулга Вэб сайт дээр байрлуулсан
+        эсвэл Вэб сайт хэрэглэгчдэд аль аль нь онлайн болон офлайн хооронд ямар ч
+        харилцан үйлчлэл. Вэб сайт болон үйлчилгээ нь AS дээр хангадаг суурь IS болон
+        Flutylove илэрхий тодорхой зорилгоор, эсвэл хэн нэгний эрхийг зөрчсөн эсэхийг
+        ямар ч баталгаа, эсвэл нийтийн биеийн тамирыг хүлээхгүй. Flutylove баталгаа
+        чадахгүй, Вэб ашиглан ба / эсвэл үйлчилгээ нь ямар ч тодорхой үр дүнг амлаж
+        байна."
+      links: 14. ХОЛБООС.
+      p_14: ". Flutylove вэб хуудсанд байрлуулсан ямар нэгэн буруу эсвэл буруу мэдээлэл
+        хариуцсан юм уу эсвэл үйлчилгээнд холбоотой байдаг, Вэб сайт, эсвэл ямар ч
+        техник хангамж болон программ хангамж нь манай албаны холбоотой эсвэл тэнд
+        ашиглаж байгаа хэрэглэгчид. Flutylove үгүй ​​биш зан хариуцаж, онлайн болон
+        офлайн аль алинд нь, Вэб ямар ч хэрэглэгчийн юм. Flutylove ямар нэгэн алдаа,
+        орхигдуулсан, тасалдлын, устгах, үйл ажиллагаа, эсвэл үйл ажиллагаа, харилцаа
+        холбооны шугам дутагдалтай, хулгай, устгах, хууль бусаар хандах, эсхүл хэрэглэгчийн
+        харилцаа холбооны шугам өөрчлөхөд гэмтээсэн буюу хугацаа хэтрүүлсэн хариуцлагыг
+        хүлээхгүй. Flutylove интернэт дээр, эсвэл ямар нэгэн Вэб сайт ямар нэгэн утасны
+        сүлжээ болон шугам, компьютерийн онлайн систем, сервер, эсвэл эрхлэгч, компьютерийн
+        тоног төхөөрөмж, программ хангамж, хэрэглэгчийн дансанд мэйл эсвэл тоглогчид
+        алдаа, техникийн асуудал болон замын түгжрэл ямар нэгэн асуудал эсвэл техникийн
+        доголдлоос хариуцлага биш юм эсвэл түүний хослол, хэрэглэгчдэд осол, гэмтэл,
+        эсвэл компьютерт холбоотой аливаа гуравдагч этгээд, эсхүл оролцсон буюу сүлжээнд
+        болон / эсвэл Үйлчилгээний холбоотой татаж мэдээллийн үр дүнд орно. ямар ч
+        нөхцөл байдалд Flutylove компани буюу түүний харъяа аль, зар сурталчилгааны
+        агентууд, учир нь Вэб эсвэл үйлчилгээний ашиглан үүсгэн байгуулагчид болон
+        түгээх түншүүд аливаа алдагдал, хохирол, Хувь хүний ​​гэмтэл эсвэл нас барсан
+        зэрэг нь хариуцлага хүлээхгүй дор ямар нэгэн Агуулга Вэб сайт дээр байрлуулсан
+        эсвэл Вэб сайт хэрэглэгчдэд аль аль нь онлайн болон офлайн хооронд ямар ч
+        харилцан үйлчлэл. Вэб сайт болон үйлчилгээ нь AS дээр хангадаг суурь IS болон
+        Flutylove илэрхий тодорхой зорилгоор, эсвэл хэн нэгний эрхийг зөрчсөн эсэхийг
+        ямар ч баталгаа, эсвэл нийтийн биеийн тамирыг хүлээхгүй. Flutylove баталгаа
+        чадахгүй, Вэб ашиглан ба / эсвэл үйлчилгээ нь ямар ч тодорхой үр дүнг амлаж
+        байна."
+      p_15: AN AS дээр узуулж байгаа юм үндэс юм. КОМПАНИЙН баталгааг вэб сайт эсвэл
+        түүний чиг ашиглах тодорхой зорилго нь зохистой OR тохиромжгүй байж болох
+        хүлээхгүй. КОМПАНИЙН баталгаа өгч чадахгүй, вэб сайт AND / OR чиг үүргээ АШИГЛАХ
+        ямар тодорхой үр дүнг амлаж байх; Андуурагахгүйн тулд, хэрэглэгчийн программ
+        хангамжийг программчлах AS, вэб сайт эсвэл Posted холбоосоор дамжуулан татаж,
+        ямар ч файл ашиглаж байгаа бол бас АЮУЛГҮЙ урьдчилан сэргийлэх арга хэмжээг
+        баримтлах ёстой. КОМПАНИЙН ОНЦГОЙ вирусны эсрэг програм түүнчлэн ЗӨВХӨН лицензийн
+        програм хангамжийг ашиглах нь зүйтэй; Вэб сайт ашиглан, USER зөвшөөрсөн AT
+        ямар ч агуулга сайтаас БУЮУ ТҮҮНИЙ тусламжтайгаар DOWNLOADS өөрийн / өөрийн
+        ЭРСДЭЛ БА аливаа хохирлыг IT болно хэрэглэгчийн компьютер эсвэл гуравдагч
+        шалтгаан, түүний дотор энэ мэдээллийн АШИГЛАХ боломжит үр дүнд дангаараа хариуцдаг
+        Талууд өгөгдлийн алдагдлаас, эсвэл ямар нэгэн өөр хохирол; НӨХЦӨЛДСӨН КОМПАНИЙН
+        болон түүний туршуулууд, шууд бус осол, UNWILFUL хохирлыг USER, эсхүл гуравдагч
+        этгээдэд NO үүрэг хариуцлага, ашиг алдагдал, эсвэл төөрсөн DATA, хохирол хүндэтгэх,
+        нэр төр, ажил хэргийн нэр хүндийг зэрэг үүдэн гарсан баавгай вэб хуудас, түүний
+        агуулга болон бусад мэдээллийг ашиглах алийг нь та эсхүл бусад этгээдэд, цахим
+        хуудсаар дамжуулан холбогдох боломжгүй хүлээн авсан КОМПАНИЙН анхааруулсан
+        буюу хохирлын талтай байсан ч гэсэн.
+      p_16: Энэ гэрээний дагуу зохицуулна, ОХУ-ын хууль тогтоомжийн дагуу ойлгогдох
+        юм. Хэлэлцээрийн замаар шийдвэрлэж чадаагүй байсан асуудал нь ОХУ-ын хууль
+        тогтоомжийн дагуу шийдвэрлэнэ. Энэ журмын хэрэгжилтийн холбоотой аливаа маргаан
+        буюу маргаан гарсан тохиолдолд хэрэглэгчийн болон Компанийн хэлэлцээний замаар
+        шийдвэрлэхийг бүр хүчин чармайлт гаргах болно. тохиолдолд маргааныг хэлэлцээний
+        шийдвэрлэж байх болно, маргаан ОХУ-ын холбогдох хууль тогтоомжийн дагуу шийдвэрлэнэ.
+        Энэхүү Гэрээ нь орос хэл дээр хийгдсэн бөгөөд өөр хэл дээр хянуулахаар User
+        үзүүлж болно. Орос хэл журам, өөр хэл дээр түүний хувилбар хувилбар зөрчилдсөн
+        тохиолдолд энэ журмын заалтыг орос хэл дээр хувилбар хэрэглэж болно. нэг шалтгаанаар
+        эсвэл өөр нь, энэхүү журмын нэг буюу хэд хэдэн заалтыг хүчингүй, эсвэл юм
+        хүчингүй болох бол энэ үлдсэн заалтыг хүчин төгөлдөр болон хэрэгжих ямар ч
+        нөлөө үзүүлэхгүй.
+      other_provisions_and_changes: 17. БУСАД ЗААЛТ, өөрчлөлт.
+      p_17: Энэ гэрээний Вэб сайт болон / буюу үйлчилгээний ашиглах талаар та болон
+        Flutylove хооронд нь үнэн гэрээ юм. Энэ гэрээ нь хоосон зайг аль нэг заалт
+        бол гэрээний үлдсэн хэсэг нь бүрэн хүчин төгөлдөр түүний хүчин төгөлдөр хэвээр
+        байна. Энэхүү Гэрээ нь ямар ч үед Flutylove нэмэлт өөрчлөлт оруулж болно.
+        Энэхүү хэлэлцээрийн талаар ямар нэгэн асуулт нь бидэнтэй холбогдоорой байхгүй
+        бол уу.
+      read_this: Би Энэхүү Гэрээ нь уншиж, түүний бүх нөхцлийг зөвшөөрч байна.
+    about:
+      about_flutylove: Flutylove тухай
+      about_flutylove_text: Flutylove datings олон улсын нийгмийн зугаа цэнгэлийн
+        сүлжээ юм. Энд та найз нөхөд, нэг Soulmate, түнш олж болно, эсвэл зүгээр л
+        тоглоом тоглож өөр эдлэх нь таны цагаа өнгөрүүлэх, эсвэл видео / зураг үзэх.
+      flutylove_features: 'Та манай сайт дээр гарч гарын үсэг зурах юм бол, та ийм
+        олон боломжуудыг олж болно:'
+      extended_search: Та үнэгүй өргөтгөсөн хайлт ашиглаж болно
+      multilanguages: ", энэ нь 70-аас дээш хэлээр орчуулж байгаа болохоор манай үйлчилгээний
+        бусад улс орны ард түмний өргөн хүрээтэй хамт хэрэглэх ёстой, учир нь бусад
+        улс орны түнш хайж болно"
+      we_are_in_social_networks: 'Бид нийгмийн сүлжээнд байгаа:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google нэмэх
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Бид өндөр технологи, нээлттэй эх сангуудыг
+        ашиглана уу. Бид үргэлж сайн авч, манай үйлчилгээг сайжруулах гэж оролддог.
+      partners_and_investors: Бид хамтран нээсэн, бид хөрөнгө оруулагчдыг олох хүсч
+        байна. Та бидэнтэй хамтран ажиллахыг хүсч байгаа бол partnership@flutylove.com
+        хаягаар бидэнтэй холбоо барина уу!
+    faq:
+      faq: Тусламж
+      what_is_flutylove: Flutylove гэж юу вэ?
+      about_flutylove: Flutylove datings олон улсын нийгмийн зугаа цэнгэлийн сүлжээ
+        юм. Энд та найз нөхөд, нэг Soulmate, түнш олж болно, эсвэл зүгээр л тоглоом
+        тоглож өөр эдлэх нь таны цагаа өнгөрүүлэх, эсвэл видео / зураг үзэх.
+      what_features_has_flutylove: онцлог нь юу Flutylove байна вэ?
+      flutylove_features: Энд та, videocams чатлаж болно, бусад улс орны өргөтгөсөн
+        хайлт, хайлтын түншүүд ашиглах тоглоом тоглох болон нийгмийн бусад тэжээлийн
+        микробиологи байна.
+      i_have_some_requests: Би зарим нэг хүсэлт байна
+      you_can_write_request: Та дээр гарын үсэг зурж, үүнийг бичиж болно
+      here: энд
+      i_have_seen_some_typo_or_wrong_translation: Би зарим нэг алдаатай оруулснаас
+        эсвэл буруу орчуулах үзсэн
+      you_can_send_pull_request_to_our: манай
+      github_repository: github архивын
+      i_have_seen_some_error: Би зарим нэг алдааг харж байна
+      to_us_or_write_to_our_info_mail: буюу support@flutylove.com хаяг руу захиа бичих
+  user_mailer:
+    welcome_email:
+      you_have_successfully_signed_up_to_flutylove: амжилттай Flutylove хүртэл гарын
+        үсэг зурав
+      you_can_sign_in_with_your_social_networks: та дахин та өөрийн нийгмийн сүлжээний
+        бүртгэлээрээ нэвтэрч болно нэвтрэхийг хүсэж байгаа бол
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Та
+        тэмдэг гарч өөр нууц үгийг өөрчлөх боломжтой и-мэйл, нууц үгээрээ нэвтрэх
+        болон доорх холбоос дээр дарна уу хүсэж байгаа бол
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            birth_date:
+              birth_date_error: 18-ээс их, бага дараа нь 115 байх ёстой
+            interests:
+              interests_error: 2000-аас доошгүй тэмдэгт байх хэрэгтэй
+            jobs:
+              jobs_error: 2000-аас доошгүй тэмдэгт байх хэрэгтэй
+            languages:
+              languages_error: 2000-аас доошгүй тэмдэгт байх хэрэгтэй
+            sex_keywords:
+              sex_keywords_error: 2000-аас доошгүй тэмдэгт байх хэрэгтэй
+            contacts:
+              contacts_length_error: 2000-аас доошгүй тэмдэгт байх хэрэгтэй
+              contacts_size_error: 21-аас бага харилцаа холбоо байх хэрэгтэй
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: хүчин төгөлдөр бус үнэ цэнийг байна
+  devise:
+    confirmations:
+      confirmed: амжилттай батлагдсан байна.
+      send_instructions: "."
+      send_paranoid_instructions: Таны и-мэйл хаяг манай мэдээллийн санд байгаа бол,
+        та хэдхэн минутын дотор таны бүртгэлийг хэрхэн баталгаажуулах талаар заавар
+        бүхий и-мэйл хүлээн авах болно.
+      new:
+        send_mail_for_confirm_your_email: баталгаажуулах Таны и-мэйл захидлыг илгээх
+        submit: оруулах
+    failure:
+      already_authenticated: аль хэдийн-д гарын үсэг зурсан байна.
+      inactive: хараахан идэвхжүүлсэн байна.
+      invalid: Буруу и-мэйл эсвэл нууц үг.
+      locked: түгжигдсэн байна.
+      last_attempt: "."
+      not_found_in_database: Буруу и-мэйл эсвэл нууц үг.
+      timeout: хугацаа нь дууссан. үргэлжлүүлэхийн тулд дахин нэвтрэн орно уу.
+      unauthenticated: "-д гарын үсэг зурах, эсвэл цааш үргэлжлүүлэхээсээ өмнө бүртгүүлэх
+        хэрэгтэй."
+      unconfirmed: үргэлжлүүлэхээсээ өмнө таны бүртгэлийг баталгаажуулах хэрэгтэй.
+    mailer:
+      confirmation_instructions:
+        subject: Батлах заавар
+        confirm_my_account: миний И-мэйл баталгаажуулна
+      reset_password_instructions:
+        hello: Сайн байна уу
+        subject: Нууц үгээ сэргээнэ үү заавар
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Хэн
+          нэгэн хүсэлт нууц үгээ солих холбоос юм. Та доорх холбоосоор дамжуулан үүнийг
+          хийж чадна.
+        change_my_password: өөрчлөх
+        if_you_didnt_request_this_please_ignore_this_email: та хүсэлт аваагүй бол
+          энэ нь энэ и-мэйл хэрэгсэхгүй үү.
+      unlock_instructions:
+        subject: Unlock заавар
+    omniauth_callbacks:
+      failure: '% {төрөл} "% {шалтгаан}", учир нь та нарыг баталгаажуулах чадсангүй.'
+      success: амжилттай% {төрөл} данснаас нэвтрүүлдэг.
+    passwords:
+      no_token: нууц үг дахин и-мэйл ирж ч энэ хуудсанд нэвтэрч чадахгүй. Хэрэв та
+        нууц үг сэргээх и-мэйл ирсэн бол, та нар өгсөн бүрэн URL-г ашигласан эсэхийг
+        шалгана уу.
+      send_instructions: "."
+      send_paranoid_instructions: Таны и-мэйл хаяг манай мэдээллийн санд байгаа бол,
+        та хэдхэн минутын дотор таны и-мэйл хаягаар нь нууц үг сэргээх холбоосыг хүлээн
+        авах болно.
+      updated: амжилттай өөрчлөгдсөн. Та одоо гарын үсэг зурсан байна.
+      updated_not_active: амжилттай өөрчлөгдсөн.
+      new:
+        forgot_your_password: нууц үгээ сэргээнэ
+        reset_password: илгээх URL-г сэргээх
+      edit:
+        change_your_password: нууц үгээ өөрчлөх
+        new_password: Шинэ нууц үг
+        confirm_password: баталгаажуул Нууц үг
+        change_password: өөрчлөлт
+    registrations:
+      destroyed: "! Таны бүртгэл амжилттай цуцалсан байна. Бид удахгүй дахин таныг
+        харж гэж найдаж байна."
+      signed_up: тавтай морилно уу! Та амжилттай хүртэл гарын үсэг зурсан байна.
+      signed_up_but_inactive: амжилттай дээр гарын үсэг зурсан байна. Гэсэн хэдий
+        ч, бид таны данс хараахан идэвхжээгүй байх, учир нь та нарыг гарын үсэг чадсангүй.
+      signed_up_but_locked: амжилттай дээр гарын үсэг зурсан байна. Гэсэн хэдий ч,
+        бид таны данс түгжигдсэн байна, учир нь та нарыг гарын үсэг чадсангүй.
+      signed_up_but_unconfirmed: баталгаажуулах холбоос бүхий зурваст таны и-мэйл
+        хаяг руу илгээсэн байна. Таны бүртгэлээ идэвхжүүлэх холбоосыг нээнэ үү.
+      update_needs_confirmation: ", гэхдээ бид та шинэ и-мэйл хаягаа баталгаажуулах
+        хэрэгтэй. Таны и-мэйл шалгаж, та шинэ и-мэйл хаягаа баталгаажуулах эцэслэн
+        баталгаа холбоос дээр дарна уу."
+      updated: "."
+      new:
+        sign_up: бүртгүүлэх
+        name: нэр
+        password: Нууц үг
+        password_confirmation: Нууц үг баталгаажуулах
+        register: бүртгүүлэх
+    shared:
+      links:
+        sign_up: бүртгүүлэх
+        didnt_receive_confirmation_instructions: баталгаажуулах заавар -г тээх биш
+          үү?
+        fast_login_almost_one_click: Хурдан нэвтрэх (бараг нэг дарж)
+    sessions:
+      signed_in: амжилттай онд гарын үсэг зурсан.
+      signed_out: амжилттай гарын үсэг зурав.
+      new:
+        password: Нууц үг
+        remember_me: Намайг сана
+        forgot_your_password: Нууц үгээ мартсан?
+    unlocks:
+      send_instructions: "."
+      send_paranoid_instructions: таны бүртгэл байхгүй бол та хэдхэн минутын дотор
+        л нээхийн тулд яаж талаар заавар бүхий и-мэйл хүлээн авах болно.
+      unlocked: амжилттай түгжигдээгүй байна. үргэлжлүүлэхийн тулд нэвтэрч орно уу.
+  timezones:
+    American Samoa: Америкийн Самоа
+    International Date Line West: олон улсын огноо Line West
+    Midway Island: дундаа орох арал
+    Hawaii: Хавайн
+    Alaska: Аляскийн
+    Pacific Time (US & Canada): Номхон далайн Time (АНУ-ын & Канад)
+    Tijuana: Тихуана
+    Arizona: Аризона
+    Chihuahua: Chihuahua
+    Mazatlan: Мазатлан
+    Mountain Time (US & Canada): уулын Time (АНУ-ын & Канад)
+    Central America: Төв Америк
+    Central Time (US & Canada): Төв Time (АНУ-ын & Канад)
+    Guadalajara: Guadalajara
+    Mexico City: Мексик хот
+    Monterrey: Монтеррейн
+    Saskatchewan: Саскачеван
+    Bogota: Богота
+    Eastern Time (US & Canada): Зүүн Time (АНУ-ын & Канад)
+    Indiana (East): Индиана (Зүүн)
+    Lima: Лима
+    Quito: Кито
+    Atlantic Time (Canada): Атлантын цаг (Канад)
+    Caracas: Каракас
+    Georgetown: Жоржтауны
+    La Paz: Ла Паз
+    Santiago: Santiago
+    Newfoundland: Ньюфаундланд
+    Brasilia: Бразиль улс
+    Buenos Aires: Буэнос-Айрес
+    Greenland: Гренланд
+    Montevideo: Монтевидео
+    Mid-Atlantic: дунд Атлантын
+    Azores: Азорын Арлууд
+    Cape Verde Is: Cape Verde байна.
+    Casablanca: Касабланка
+    Dublin: Dublin
+    Edinburgh: Эдинбургийн
+    Lisbon: Лиссабоны
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Амстердам
+    Belgrade: Белград
+    Berlin: Берлин
+    Bern: Bern
+    Bratislava: Словак
+    Brussels: Брюссель
+    Budapest: Будапешт
+    Copenhagen: Копенгагены
+    Ljubljana: Словен
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Прага
+    Rome: Ромын
+    Sarajevo: Сараево
+    Skopje: Македон
+    Stockholm: Стокгольм
+    Vienna: Венийн
+    Warsaw: Варшавын
+    West Central Africa: Баруун Төв Африк
+    Zagreb: Загреб
+    Athens: Афины
+    Bucharest: Bucharest
+    Cairo: Каирын
+    Harare: Хараре
+    Helsinki: Helsinki
+    Istanbul: Стамбул
+    Jerusalem: Иерусалим
+    Kaliningrad: Калининград
+    Kyiv: Киевийн
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: София
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Багдад
+    Kuwait: Кувейт
+    Minsk: Минск
+    Moscow: Москва
+    Nairobi: Найроби
+    Riyadh: Riyadh
+    St Petersburg: Санкт-Петербург
+    Volgograd: Волгоград
+    Tehran: Тегеран
+    Baku: Баку
+    Muscat: Muscat
+    Samara: Самара
+    Tbilisi: Тбилис
+    Yerevan: Ереван
+    Kabul: Кабулын
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Карачи
+    Tashkent: Ташкент
+    Chennai: Ченнай
+    Kolkata: Kolkata
+    Mumbai: Мумбай
+    New Delhi: Шинэ Дели
+    Sri Jayawardenepura: Шри Jayawardenepura
+    Kathmandu: Катманду
+    Almaty: Алматы
+    Astana: Астана
+    Dhaka: Дака
+    Novosibirsk: Новосибирск
+    Urumqi: Урумчи
+    Rangoon: Rangoon
+    Bangkok: Бангкок
+    Hanoi: Ханой
+    Jakarta: Жакарта
+    Krasnoyarsk: Красноярск
+    Beijing: Бээжин
+    Chongqing: Чунцин
+    Hong Kong: Хонг Конг
+    Irkutsk: Эрхүүгийн
+    Kuala Lumpur: Куала Лумпур
+    Perth: Perth
+    Singapore: Сингапур
+    Taipei: Тайпей
+    Ulaanbaatar: Улаанбаатар хот
+    Osaka: Осака
+    Sapporo: Саппоро
+    Seoul: Сөүл
+    Tokyo: Токио
+    Yakutsk: Якут
+    Adelaide: Adelaide
+    Darwin: Дарвин
+    Brisbane: Брисбэн хот
+    Canberra: Канберра
+    Guam: Гуам
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Порт Морсбай
+    Sydney: Сиднейн
+    Vladivostok: Владивосток
+    Magadan: Магадан
+    New Caledonia: Шинэ Каледони
+    Solomon Is: Соломон байна.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Фижи
+    Kamchatka: Камчатка
+    Marshall Is: Маршал байна.
+    Wellington: Wellington
+    Chatham Is: Chatham байна.
+    Nuku'alofa: Nukualofa
+    Samoa: Самоа
+    Tokelau Is: Токелау байна.
+  mn: mn
+  mn_iso: mn

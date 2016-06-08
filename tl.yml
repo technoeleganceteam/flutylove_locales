@@ -1,0 +1,1854 @@
+---
+tl:
+  1_we_have_just_launched_our_service_title: Lang namin ay may inilunsad ang aming
+    serbisyo!
+  common_keywords: datings, online datings, love datings, webcam dating, bilis ng
+    dating, webcam chat dating, Ruby sa daang-bakal dating site, multilanguage dating
+    site
+  common_description: Ang pinaka-advanced international social entertainment network
+    para sa datings "Flutylove"
+  default_album: Default album
+  user: User
+  user_to_search_connection: Search
+  video: Video
+  note: Note
+  photo_album: Photo album
+  from: Mula
+  to: Upang
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Lalaki
+  - female:
+      name: Babae
+  - transgender:
+      name: Transgender
+  - male-female:
+      name: Male-Female
+  - double-female:
+      name: Double babae
+  - double-male:
+      name: Double lalaki
+  orientation:
+  - heterosexual: Heterosexual
+  - homosexual: Bading
+  - bisexual: Bisexual
+  search_for:
+  - chatting: Nakikipag-Chat
+  - get_friends: Kumuha ng mga kaibigan
+  - flirtation: Paglalandi
+  - marriage: Marriage
+  - other: Ibang
+  body_type:
+    slim: Slim
+    normal: Normal
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Single
+    in_a_relationship: Sa isang Relasyon
+    married: Kasal
+    nothing_serious: Hindi naman malala
+  children:
+    dont_have: Huwag magkaroon
+    dont_have_and_dont_want_to: Huwag magkaroon at hindi nais na
+    don_t_have_but_planning: Huwag magkaroon ngunit pagpaplano
+    have_enough: Mayroong mga
+    have_and_planning_more: Mayroong at pagpaplano ng mas
+    unable_to_have_children: Hindi ma-magkaroon ng mga bata
+  living:
+    with_parents: Sa mga magulang
+    with_marriage_partner: Sa kasal partner
+    alone: Alone
+    with_friends: Sa kaibigan (s)
+  education:
+    nothing: Nothing
+    secondary_school: Secondary school
+    college_technical_college: College / Technical college
+    university: University
+    postgraduate: postgradweyt
+    phd_md_post_doctorate: PhD / MD / Post doctorate
+  hair_color:
+    blonde: Blonde
+    dark_blond: Dark blond
+    brown: Brown
+    black: Black
+    red: Red
+    gray: Gray
+    other: Ibang
+  income:
+    unemployed: Unemployed
+    unstable_earnings: Unstable kita
+    small_stable_earnings: Small matatag kita
+    medium_stable_earnings: Katamtaman matatag kita
+    higher_than_average_income: Mas mataas kaysa average na kita
+    high_income: High income
+  smoking:
+    not_smoke: Hindi paninigarilyo
+    not_smoke_and_detest: Hindi paninigarilyo at kamuhian paninigarilyo
+    smoke_in_a_social_setting: Minsan sa isang sosyal na setting
+    smoke_only_after_drinking: Smoke lamang pagkatapos ng pag-inom
+    smoke_occasionally: Smoke Minsan
+    smoke_often: Smoke madalas
+  alcohol:
+    not_drinking: Hindi umiinom ng
+    drink_occalionally: Uminom Minsan
+    drink_in_a_social_setting: Uminom sa isang social setting
+    drink_often: Drink madalas
+  drugs:
+    dont_use: Huwag gumamit
+    contra_drugs: Contra droga
+    tried_out_some: Tried ang ilan
+    light_drugs_occasionally: Light droga
+    regular: Regular
+  sponsor:
+    i_want_to_find_a_sponsor: Gusto kong makahanap ng isang sponsor
+    willing_to_become_a_sponsor: Handang maging isang sponsor
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Hindi naghahanap para
+      sa isang sponsor at ayaw na ihayag na maging isa
+  category_name:
+    strategy: Strategy
+    rpg: RPG
+    3d_shooters: 3D shooters
+    racing: Karera
+    arcade: Arcade
+    economic: Economic
+    simulators: Simulators
+    logic: Logic
+    adventure: Adventure
+    board_games: Board
+    gambling: Gambling
+    news: News
+    communication: Communication
+    multimedia: Multimedia
+    drawing: Drawing
+    educational: Educational
+    e_commerce: E-Commerce
+    other: Ibang
+  shared:
+    header:
+      people: People
+      chat: Chat
+      groups: Grupo
+      forum: Forum
+      requests: Requests
+      about: Tungkol proyekto
+      help: Tulong
+      user_applications: Aplikasyon
+    liked_users:
+      liked: Nagustuhan
+      all: Lahat
+      you_have_not_liked_any_users_yet: Hindi ka pa nagustuhan anumang mga gumagamit
+    most_liked_users:
+      most_liked_users: Popular user
+    installed_user_applications:
+      installed_applications: Naka-install ng mga aplikasyon
+      all: Lahat
+      you_have_not_installed_any_apps_yet: Hindi ka pa naka-install ang anumang mga
+        application
+    user_applications:
+      uploaded_apps: Uploaded aplikasyon
+      all: Lahat
+      you_have_not_uploaded_any_apps_yet: Hindi ka pa upload ng anumang mga aplikasyon
+    right_sidebar:
+      news: News
+      all: Lahat
+      read_more: Magbasa nang higit pa
+    footer:
+      footer_text: International social entertainment network para sa datings "Flutylove"
+      privacy: Privacy
+      terms: Tuntunin
+      feedback: Feedback
+      abuse: abuso
+    languages_select_modal:
+      available_languages: Mga magagamit na wika
+    site_map_modal:
+      faq: FAQ
+      about: Tungkol
+      static_pages: Static pahina
+      common_pages: Common pahina
+      user_pages: pahina User
+      terms: Tuntunin
+      privacy: Privacy
+      people: People
+      user_applications: Aplikasyon
+      user_requests: Requests
+      news: News
+      feedback: Feedback
+      abuse: abuso
+      chats: Chats
+      videos: Mga video
+      photo_albums: Mga album ng larawan
+      notes: Notes
+    pagination_link:
+      next_page: Susunod na pahina
+    user_edit_menu:
+      content: Nilalaman
+      profile: Profile
+      site_settings: setting Site
+      privacy: Privacy
+      services: Services
+    activities_navigation:
+      all: Lahat
+      photos: Litrato
+      photo_albums: Mga album ng larawan
+      notes: Notes
+      videos: Mga video
+    notifications_navigation:
+      all: Lahat
+      likes: Likes
+      friend_requests: kahilingan Kaibigan
+      profile_views: Profile views
+      photo_album_views: views Litrato
+    user_to_friend_connections_navigation:
+      friends: Kaibigan
+      friends_online: Kaibigan online
+      outcome_requests: kahilingan Kinalabasan
+      income_requests: kahilingan Income
+    user_applications_navigation:
+      all: Lahat
+      new: New
+      popular: Popular
+      often_installed: Kadalasan naka-install
+      manage: Pamahalaan
+    user_requests_navigation:
+      all: Lahat
+      popular: Popular
+      my_requests: Aking kahilingan
+    user_navbar_menu:
+      sign_in: Mag-sign in
+      sign_up: Mag-sign up
+    email_signature:
+      info: Impormasyon
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: Pumili kasarian
+      select_orientation: Piliin orientation
+      select_search_for: Pumili paghahanap para
+    need_to_sign_in_modal:
+      you_need_to_sign_in: kailangan mong mag-sign in bago ang aksyon na ito
+      available_sign_in_methods: You
+    sign_up_methods:
+      usual_register_link: karaniwang registration
+      register_text: Bukod% {usual_registration} maaari kang magrehistro sa pamamagitan
+        ng pinaka-popular na mga serbisyo at mga social network
+    bootstrap_gallery:
+      previous: Nakaraan
+      next: Next
+    user_notification_title:
+      you_liked: You nagustuhan ng
+      wrote_message_to_you: Wrote mensaheng ito sa iyo
+      viewed_your_profile: Tiningnan iyong profile
+      liked_your_photo: Nagustuhan ang iyong mga larawan
+      liked_your_note: Nagustuhan iyong tala
+      liked_your_request: Nagustuhan ang iyong kahilingan
+      liked_your_video: Nagustuhan ang iyong video
+      liked_your_application: Nagustuhan inyong aplikasyon
+      requested_a_friendship: Hiniling ng isang pagkakaibigan
+  authentications:
+    authentication:
+      turn_on: I-on
+      turn_off: I-off
+      turned_on: Naka-on
+      turned_off: Naka-off
+    index:
+      enabled_services: Pinagana serbisyo
+  users:
+    profile:
+      submit: Save
+      name: Pangalan
+      meet_with: Makipagkita sa
+      gender: Kasarian
+      type_in_your_location: I-type sa iyong lungsod
+      about_me: Ang ilang mga salita tungkol sa iyong sarili (bilang karagdagan sa
+        form sa ibaba)
+      sex_keywords: Hilig kabang
+      enter_your_name: Ipasok ang iyong pangalan
+      more_options: More
+      orientation: Oryentasyon
+      location: Lokasyon
+      search_for: Maghanap para sa
+      intimacy: Intimacy
+      in_age: Sa edad
+      from: mula
+      to: sa
+      interests: Kawilihan
+      height: Taas
+      weight: Timbang
+      relationship: Relasyon
+      children: Anak
+      living: Living
+      education: Edukasyon
+      jobs: Job
+      income: Income
+      languages: Languages
+      smoking: Smoking
+      alcohol: Alcohol
+      drugs: Drugs
+      contacts: Contact
+      contact_value: Contact
+      save: Save
+      about_yourself: Tungkol sa iyong sarili
+    settings:
+      submit: Save
+      locale: Interface wika
+      change_password: Baguhin ang password
+      interface_language: Interface wika
+      time_zone: Time zone
+    dialog_modal:
+      send_message: Magpadala ng mensahe
+    index:
+      users: Users
+      clear_search: Clear search
+    dashboard:
+      hello: Kamusta
+      here_some_of_your_statistics: Narito ang ilan sa iyong mga istatistika
+      chats: Chats
+      messages: Ng Mga Mensahe
+      photos: Litrato
+      videos: Mga video
+      notes: Notes
+      photo_albums: Mga album ng larawan
+    avatar:
+      photo: Litrato
+      uploading_file: upload file
+      handling_file: Handling file
+      drag_and_drop_your_file: I-drag at drop ang iyong mga file
+      here: dito
+      or: o
+      upload_file: "-upload ng file"
+      from_other_sites: Mula sa iba pang mga site
+      write_down_link_for_your_image: Isulat link ng iyong imahe
+      url_for_image: Url para sa mga imaheng
+      upload: Upload
+      from_facebook: Mula sa Facebook
+      turn_on_facebook: Turn sa Facebook
+      you_can_upload_your_photos_from_facebook: You maaaring mag-upload ng iyong mga
+        larawan mula sa Facebook
+      from_vkontakte: Mula Vkontakte
+      you_can_upload_your_photos_from_vkontakte: You maaaring mag-upload ng iyong
+        mga larawan mula sa Vkontakte
+      turn_on_vkontakte: I-on Vkontakte
+      from_instagram: Mula Instagram
+      you_can_upload_your_photos_from_instagram: You maaaring mag-upload ng iyong
+        mga larawan mula sa Instagram
+      turn_on_instagram: I-on Instagram
+      from_dropbox: Mula Dropbox
+      you_can_upload_your_photos_from_dropbox: You maaaring mag-upload ng iyong mga
+        larawan mula sa Dropbox
+      turn_on_dropbox: I-on ang Dropbox
+      edit_photo: edit ang larawan
+      delete_photo: Delete litrato
+      are_you_sure: Sigurado ka ba?
+    available_photos_modal:
+      available_photos: Magagamit litrato
+    update:
+      your_password_was_successfully_changed: Ang iyong password ay matagumpay na
+        nabago
+      your_profile_was_successfully_updated: Ang iyong profile ay matagumpay na na-update
+    edit_photo:
+      edit_photo: edit ang larawan
+      crop: I-crop
+      close: Close
+      save_changes: save ang mga pagbabago
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: Tungkol sa akin
+      orientation: Oryentasyon
+      meet_with: Makipagkita sa
+      desirable_age: Kanais-nais edad
+      from: mula
+      to: sa
+      interests: Kawilihan
+      height: Taas
+      sm: sm
+      kg: kg
+      relationship: Relasyon
+      children: Anak
+      living: Living
+      education: Edukasyon
+      jobs: Jobs
+      income: Income
+      languages: Languages
+      smoking: Smoking
+      alcohol: Alcohol
+      drugs: Drugs
+      contacts: Contact
+    user_info:
+      offline: Offline
+      online: Online
+      age: Edad
+    loading_modal_images:
+      loading_images: Loading imahe
+    password_form:
+      new_password: New password
+      confirm_new_password: Kumpirmahin ang bagong password
+      old_password: Old password
+      change_password: Baguhin ang password
+    show:
+      photos: Litrato
+      all: Lahat
+      videos: Mga video
+      notes: Notes
+      view: View
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: Paki natanggap key
+      submit: Isumite
+    contents:
+      users_which_i_like: Users na i like
+      all: Lahat
+      my_videos_likes: Aking mga video paggusto
+      my_photos_likes: Ang aking mga larawan mga gusto
+      my_notes_likes: Aking mga tala mga gusto
+      my_user_applications_likes: My aplikasyon paggusto
+      my_user_requests_likes: Aking kahilingan kagustuhan
+    more_profile_info:
+      photo_albums: Mga album ng larawan
+      view_all_photo_albums: Tingnan ang lahat ng mga album ng larawan
+      create_more: Lumikha ng higit pang
+      videos: Mga video
+      view_all_videos: Tingnan ang lahat ng mga video
+      notes: Notes
+      view_all_notes: Tingnan ang lahat ng mga tala
+      requirements_lists_to_partner: Kinakailangan naglilista na partner
+      requirement: Kinakailangang
+      view_all_requirements_lists: Tingnan ang mga listahan lahat ng mga kinakailangan
+      profile_verification: verification Profile
+      your_profile_is_successfully_verified: Ang iyong profile ay matagumpay na na-verify
+      create: Lumikha
+      you_have_not_any_requirements_lists_yet: Mayroon kang hindi anumang mga kinakailangan
+        ay naglilista pa
+      you_have_not_any_notes_yet: Mayroon kang hindi anumang mga tala pa
+      you_have_not_any_photo_albums_yet: Mayroon kang hindi anumang mga album ng larawan
+        pa
+      you_have_not_any_videos_yet: Mayroon kang hindi anumang mga video pa
+      your_profile_is_not_verified_yet: Ang iyong profile ay hindi pa napapatunayan
+      verify_through_twitter: I-verify sa pamamagitan ng Twitter
+      verify_through_facebook: I-verify sa pamamagitan ng Facebook
+      verify_through_mail_ru: I-verify sa pamamagitan ng Mail.ru
+    privacy:
+      privacy: Privacy
+  searches:
+    form:
+      location: Lokasyon
+      from: mula
+      to: sa
+      age: Edad
+      gender: Kasarian
+    form_content:
+      city: City
+      gender: Kasarian
+      age_from: Edad mula
+      to: sa
+      online: Online
+      verified: Beripikadong
+      has_avatar: May avatar
+      region: Region
+      more: More
+      country: Bansa
+      about_me: Tungkol sa akin
+      interests: Kawilihan
+      languages: Languages
+      names: Pangalan
+      height: Taas
+      from: mula
+      weight: Timbang
+      relationship: Relasyon
+      education: Edukasyon
+      orientation: Oryentasyon
+      search_for: Maghanap para sa
+      children: Anak
+      living: Living
+      smoking: Smoking
+      alcohol: Alcohol
+      drugs: Drugs
+      income: Income
+    show:
+      users: Users
+      clear_search: Clear search
+  welcome:
+    index:
+      people: People
+      requests: Requests
+      user_applications: Aplikasyon
+      about: Tungkol
+      features: Tampok
+      registration: Registration
+      sign_in: Mag-sign in
+      welcome_main_title: Maligayang pagdating sa Flutylove!
+      welcome_main_text: Ito ay ang lugar kung saan maaari mong mahanap ang iyong
+        perpektong pag-ibig
+      find_more: Maghanap ng mas maraming
+      about_title: Flutylove ay ang internasyonal na social entertainment network
+        para sa datings
+      about_text: Mayroong maraming mga tampok na maaari mong gamitin para sa entertainments
+        at datings!
+      find_more_features: Maghanap ng mas maraming mga tampok
+      at_our_service: Tampok ng aming serbisyo
+      many_languages: Maraming wika
+      text_about_many_languages: Ang aming serbisyo ay isinalin sa higit sa 70 mga
+        wika
+      check_it_out: Tingnan ito
+      videochats: Videochats
+      text_about_videochats: Maaari mong makipag-chat sa iyong partner sa videocams
+      try_it_now: Subukan ito ngayon
+      search: Search
+      text_about_search: Makakahanap ka ng may maramihang mga parameter at ito ay
+        libre!
+      watch_this: Subaybayan itong
+      more_features: Higit pang mga tampok
+      text_about_more_features: Maaari mong tingnan ang mga video, i-play mga laro
+        at gumawa ng maraming iba pang mga bagay!
+      register_and_learn_more: Magrehistro at dagdagan ang nalalaman
+      install_our_apps: install ang aming mga app mula sa mga sikat na mga platform
+      register_header: Registration
+  feedbacks:
+    new:
+      feedback_title: Feedback
+    form:
+      feedback_name: Ang iyong pangalan
+      feedback_email: Ang iyong email
+      close: Close
+      send: Send
+      feedback_recaptcha: reCAPTCHA
+      cancel: Ikansela
+    success:
+      success_feedback: Salamat sa iyo! Aming natanggap ang iyong feedback.
+      close: Close
+      cancel: Ikansela
+      more: Magpadala mas
+  abuses:
+    new:
+      abuse_title: abuso
+    form:
+      abuse_name: Ang iyong pangalan
+      abuse_email: Ang iyong email
+      abuse_title: abuso
+      close: Close
+      send: Send
+      abuse_recaptcha: reCAPTCHA
+      abuse_link: Link
+      cancel: Ikansela
+    success:
+      success_abuse: Salamat sa iyo! Aming natanggap ang iyong pang-aabuso.
+      close: Close
+      cancel: Ikansela
+      more: Magpadala mas
+  layouts:
+    welcome:
+      welcome_title: Maligayang pagdating sa Flutylove! Ang pinaka-advanced dating
+        site.
+  recaptcha:
+    errors:
+      verification_failed: Nabigong reCAPTCHA
+      recaptcha_unreachable: reCAPTCHA ay unreachable
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Lang namin ay may inilunsad ang aming
+        serbisyo!
+      we_have_just_launched_our_service_text: Ngayon kami ilunsad ang aming serbisyo
+        upang everybody Maaari
+      sign_up: mag-sign up
+      and_use_it: at gamitin ito.
+      wishes_and_requests: Kung mayroon kang anumang mga kagustuhan o mga kahilingan,
+        maaari mong mag-sign up at isinulat
+      here: dito
+      with_love: Sa pag-ibig,
+      flutylove_team: Flutylove Team
+    index:
+      all_news: Lahat ng mga balita
+      read_more: Magbasa nang higit pa
+  chats:
+    panel_head:
+      online: Online
+      offline: Offline
+    pagination_link:
+      next_page: Susunod na pahina
+    form_additions:
+      submit: Isumite
+      videochat: Videochat
+    show:
+      messages: Ng Mga Mensahe
+    index:
+      messages: Ng Mga Mensahe
+    videochat_request_link:
+      connect_to_videochat: Kumonekta sa videochat
+    modal_form:
+      send_message: Magpadala ng mensahe
+      recipient: Tatanggap
+      message: Mensahe
+      close: Close
+      submit: Isumite
+    waiting_video_answer_button:
+      waiting_for_response: Naghihintay ng tugon ...
+    chat_created:
+      send_message: Magpadala ng mensahe
+      message_was_sent: Mensahe ay ipinadala
+      close: Close
+  messages:
+    pagination_link:
+      next_page: Susunod na pahina
+  notifications:
+    user_to_friend_connection:
+      action: Action
+    notification:
+      offline: Offline
+      online: Online
+    like:
+      action: Action
+    photo_album_view:
+      action: Action
+    user_view:
+      action: Action
+  user_applications:
+    user_application:
+      who_uploaded: Uploaded by
+      all_uploaded_applications_by: Lahat upload application sa pamamagitan ng
+    form:
+      name: Pangalan
+      user_application_name: name Application
+      description: Paglalarawan
+      description_text: Paglalarawan text
+      iframe_url: Iframe url
+      upload_icon: Ikarga icon
+      public: Public?
+      category_name: Kategorya
+      create: Lumikha
+      edit: Edit
+    show:
+      application: Application
+      return_to_uploaded_applications: Upang upload application
+      edit_application: Edit application
+      return_to_all_applications: Bumalik sa lahat ng mga application
+    manage:
+      installed_applications: Naka-install ng mga aplikasyon
+      uploaded_applications: Uploaded aplikasyon
+      all: Lahat
+    index:
+      applications_uploaded_by: Aplikasyon upload sa pamamagitan ng
+      return_to_all_applications: Bumalik sa lahat ng mga application
+      create_new: Gumawa ng bagong
+      return_to_manage_applications: Bumalik sa pamahalaan ang mga application
+    installed:
+      installed_applications: Naka-install ng mga aplikasyon
+      return_to_all_applications: Bumalik sa lahat ng mga application
+      return_to_manage_applications: Bumalik sa pamahalaan ang mga application
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Bago sa pagtingin na ito application
+        na kailangan mong mag-sign in muna
+    need_to_install:
+      need_to_install_first: Kailangan mong i-install ang application unang
+      install_application: install application
+  likes:
+    index:
+      liked_items: Nagustuhan item
+      return_to_my_content: Bumalik sa aking nilalaman
+  videos:
+    index:
+      videos: Mga video
+      return_to_edit_profile: Upang profile editing
+      create_new: Gumawa ng bagong
+      return_to_profile: Return sa profile
+    video:
+      edit: Edit
+      are_you_sure: Sigurado ka ba?
+      delete: Burahin
+    modal_form:
+      create_new_video: Gumawa ng bagong video
+      close: Close
+      create: Lumikha
+    form_content:
+      name: Pangalan
+      video_name: pangalan Video
+      source: Url ng embed code
+      video_url_or_embed_code: Video url ng video embed code
+    show:
+      video: Video
+      return_to_all_videos: Bumalik sa lahat ng mga video
+      edit_video: Edit video
+    edit:
+      edit_video: Edit video
+      return_to_view_video: Bumalik sa pagtingin ng video
+      view_video: Tingnan ang video
+    form:
+      edit: Edit
+  photo_albums:
+    index:
+      photo_albums: Mga album ng larawan
+      return_to_editing_profile: Upang profile editing
+      create_new: Gumawa ng bagong
+      return_to_profile: Return sa profile
+    photo_album:
+      edit: Edit
+      create: Lumikha
+      are_you_sure: Sigurado ka ba?
+      delete: Burahin
+    edit:
+      edit_photo_album: Edit photo album
+      return_to_photo_albums: Upang album ng larawan
+      view_photo_album: Tingnan ang album photo
+    form_content:
+      name: Pangalan
+    form:
+      edit: Edit
+      create: Lumikha
+    photo_album_uploader:
+      drag_and_drop_your_file: I-drag at drop ang iyong mga file
+      here: dito
+      or: o
+      upload_file: "-upload ng file"
+      from_other_sites: Mula sa iba pang mga site
+      write_down_link_for_your_image: Isulat link ng iyong imahe
+      url_for_image: Url para sa mga imaheng
+      upload: Upload
+      from_facebook: Mula sa Facebook
+      turn_on_facebook: Turn sa Facebook
+      you_can_upload_your_photos_from_facebook: You maaaring mag-upload ng iyong mga
+        larawan mula sa Facebook
+      from_vkontakte: Mula Vkontakte
+      you_can_upload_your_photos_from_vkontakte: You maaaring mag-upload ng iyong
+        mga larawan mula sa Vkontakte
+      turn_on_vkontakte: I-on Vkontakte
+      from_instagram: Mula Instagram
+      you_can_upload_your_photos_from_instagram: You maaaring mag-upload ng iyong
+        mga larawan mula sa Instagram
+      turn_on_instagram: I-on Instagram
+      from_dropbox: Mula Dropbox
+      you_can_upload_your_photos_from_dropbox: You maaaring mag-upload ng iyong mga
+        larawan mula sa Dropbox
+      turn_on_dropbox: I-on ang Dropbox
+    show:
+      photo_album: Photo album
+      return_to_photo_albums: Upang album ng larawan
+      edit_photo_album: Edit photo album
+    modal_form:
+      create_new_photo_album: Gumawa ng bagong photo album
+      close: Close
+      create: Lumikha
+  user_requests:
+    form:
+      content: Nilalaman
+      edit: Edit
+      create: Lumikha
+  notes:
+    index:
+      notes: Notes
+      return_to_edit_profile: Upang profile editing
+      create_new: Gumawa ng bagong
+      return_to_profile: Return sa profile
+    note:
+      edit: Edit
+      are_you_sure: Sigurado ka ba?
+      delete: Burahin
+    show:
+      note: Note
+      return_to_notes: Bumalik sa mga tala
+      edit_note: Edit note
+    form_content:
+      content: Nilalaman
+      note_content: Note nilalaman
+      edit: Edit
+      create: Lumikha
+    edit:
+      edit_note: Edit note
+      return_to_notes: Bumalik sa mga tala
+      view_note: View note
+  user_to_search_connections:
+    index:
+      requirements_lists: Kinakailangan lists
+      return_to_editing_profile: Upang profile editing
+      create_new: Gumawa ng bagong
+    user_to_search_connection:
+      edit: Edit
+      are_you_sure: Sigurado ka ba?
+      delete: Burahin
+    edit:
+      edit_requirements_list: Edit lists kinakailangan
+      return_to_requirements_lists: Upang kinakailangan lists
+    form_content:
+      name: Pangalan
+      name_of_your_requirements_list: Pangalan ng iyong listahan kinakailangan
+    form:
+      edit: Edit
+    show:
+      return_to_requirements_lists: Upang kinakailangan lists
+  photos:
+    index:
+      photos: Litrato
+      return_to_photo_albums: Bumalik sa mga album ng larawan
+      return_to_profile: Upang aking profile
+  errors:
+    messages:
+      already_confirmed: ay na nakumpirma, mangyaring subukang mag-sign in
+      confirmation_period_expired: dapat kumpirmahin loob% {period}, mangyaring humiling
+        ng isang bagong isa
+      expired: ay natapos na, mangyaring humiling ng isang bagong isa
+      not_found: hindi natagpuan
+      not_locked: ay hindi naka-lock
+      not_saved:
+        one: '1 error ipinagbabawal ito% {resource} sa pagse-save:'
+        other: "% {count} mga error ipinagbabawal ito% {resource} sa pagse-save:"
+    bad_request:
+      bad_request: Bad Request
+      request_result: Request resulta
+      bad_request_description: Ang server ay maaaring hindi o hindi ay proseso ang
+        kahilingan dahil sa isang maliwanag client error
+      go_to_root: Pumunta sa ugat
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable Entity
+      request_result: Request resulta
+      unprocessable_entity_description: Ang kahilingan ay nabuo nang maayos ngunit
+        ay hindi na sinundan dahil sa semantiko error
+      go_to_root: Pumunta sa ugat
+    not_found:
+      not_found: Hindi Natagpuan
+      request_result: Request resulta
+      not_found_description: Ang hiniling na resource ay hindi matagpuan ngunit maaaring
+        makuha sa hinaharap
+      go_to_root: Pumunta sa ugat
+    forbidden:
+      forbidden: Forbidden
+      request_result: Request resulta
+      forbidden_description: Ang kahilingan ay isang wastong kahilingan, ngunit ang
+        server ay tinatanggihan upang tumugon sa mga ito
+      go_to_root: Pumunta sa ugat
+    internal_server_error:
+      internal_server_error: Internal Server Error
+      request_result: Request resulta
+      internal_server_error_description: May nangyaring mali. Aayusin namin ito sa
+        lalong madaling panahon.
+      go_to_root: Pumunta sa ugat
+  pages:
+    privacy:
+      privacy: Flutylove Patakarang Pangpribado
+      general_provisions: General probisyon
+      p_1_1: 1.1. Ang mga Regulations ay isang opisyal na dokumento ng Limited Liability
+        Company "Technoelegance", na matatagpuan sa 101000, Moscow, Ulanskiy Pereulok
+        13, stroeniye 4, pomeshcheniye 1 (mula ngayon Flutylove, ang Company, Kami),
+        at matukoy pamamaraan ng data processing at seguridad ng impormasyon ng mga
+        indibidwal na ay umabot sa edad na 18 taon, at na gumagamit ng website https://flutylove.com
+        (mula ngayon ang website) at mga serbisyo nito (mula ngayon ang mga user).
+      p_1_2: 1.2. Ang layunin ng mga Regulations ay upang matiyak dahil pangangalaga
+        ng mga impormasyon ng user, kabilang ang personal na data, mula sa hindi awtorisadong
+        pag-access at pagsisiwalat.
+      p_1_3: 1.3. Ang relasyon na nauugnay sa collection, imbakan, pamamahagi at seguridad
+        ng impormasyon Website gumagamit ay pinamamahalaan ng mga Regulations, iba
+        pang opisyal na dokumento ng Company at ang kasalukuyang batas ng Russian
+        Federation.
+      p_1_4: 1.4. Ang kasalukuyang bersyon ng Regulations, kung saan ay isang pampublikong
+        dokumento, ay magagamit sa kahit Internet kapag pagsunod sa mga link http://flutylove.com/pages/privacy.
+        Ang kumpanya ay may karapatan na baguhin ang mga Regulations. Sa kaso ng mga
+        pagbabago na ginawa sa mga regulasyon, ang Company ay dapat pasabihan ang
+        mga gumagamit sa pamamagitan ng pag-post ang bagong bersyon ng Regulations
+        sa Website sa permanent address http://flutylove.com/pages/privacy, hindi
+        lalampas sa 10 araw bago ang epektibong petsa ng pagbabago. Ang mga nakaraang
+        bersyon ng Regulations ay naka-imbak sa papeles archive ng Kumpanya.
+      p_1_5: 1.5. Ang mga Regulations ay binuo at ginagamit alinsunod sa Kasunduan
+        ng User. Sa kaso ng anumang paglalabag sa pagitan ng mga Regulations at iba
+        pang mga opisyal na dokumento ng Company, mga Regulations ay dapat na ipapatupad.
+      p_1_6: 1.6. Pamamagitan ng paggamit ng Website, sumasang-ayon ka sa mga tuntunin
+        at kundisyon ng Patakaran sa Privacy. Mangyaring basahin ito nang mabuti.
+        Kung hindi ka sumasang-ayon sa mga tuntunin ng Patakaran sa Privacy na, o
+        hindi mo pa naabot ang edad ng 18 taon, hindi mo maaaring gamitin ang Website
+        at mga Serbisyo nito. Pamamagitan ng paggamit ng Website, hindi alintana kung
+        ikaw ang rehistradong gumagamit ng Flutylove o hindi, kumpirmahin mo na ganap
+        na iyong tanggapin ang Patakaran sa Privacy, at sumasang-ayon na sundin ito.
+      the_website_using_conditions: Ang Website gamit kondisyon
+      p_2_1: '2.1. Upang gamitin ang Website Flutylove, kailangan mong mag-register.
+        Ang sumusunod na impormasyon ay dapat na tinukoy sa panahon ng registration:
+        pangalan, email address, kasarian, petsa ng kapanganakan, impormasyon ng lokasyon.
+        User ay maaaring magbigay ng karagdagang mga personal na detalye sa kanyang
+        / kanyang sariling wish. maaaring i-edit o i-update ang personal na impormasyon
+        sa anumang oras User Ang. Ang kumpanya ay may karapatan na humiling ng karagdagang
+        mga sumusuportang dokumento sa kaso ng pagbabago ng kasarian at petsa ng kapanganakan
+        ng User.'
+      p_2_2: '2.2. Sa pamamagitan ng na nagpapahintulot sa access sa Website at mga
+        serbisyo nito, ang Company, kumikilos sa isang makatwirang paraan at sa mabuting
+        pananampalataya, itinuturing na ang User: napagtanto na para sa pagpaparehistro
+        sa Website ito ay kinakailangan upang maging higit sa 18 taong gulang; mayroon
+        ng lahat ng kinakailangang karapatan upang ma-rehistro sa Website na ito at
+        gamitin ito; ay nagpapahiwatig ng tumpak na impormasyon tungkol sa kanyang
+        sarili / kanyang sarili ayon sa mga kahilingan para sa paggamit ng Mga Serbisyo
+        ng Website; ay magkaroon ng kamalayan na ang personal na impormasyon sa Website,
+        na ibinigay ng User, ay maaaring maging magagamit para sa iba pang mga user
+        ng Website at Internet mga gumagamit pati na rin, ay maaaring kopyahin at
+        ibinahagi sa pamamagitan ng iba pang mga gumagamit; ay may kamalayan na ang
+        ilang mga uri ng impormasyon, ilipat sa iba pang mga gumagamit, ay hindi maaaring
+        alisin sa pamamagitan ng User; ay pamilyar sa mga regulasyon, ay sumang-ayon
+        sa kanila at undertakes ang mga tinukoy na mga karapatan at mga obligasyon.'
+      p_2_3: 2.3. Ang kumpanya ay hindi i-verify ang katumpakan ng mga natanggap (nakakalap)
+        na impormasyon tungkol sa mga gumagamit, na may pagbubukod ng mga kaso kapag
+        tulad pagpapatunay ay kinakailangan upang matupad ang mga obligasyon ng Kumpanya
+        para sa gumagamit.
+      p_3_1: 3.1. Ang Company ay nagdadala out ang pagpoproseso ng impormasyon tungkol
+        sa mga gumagamit, kabilang ang kanilang mga personal na data, upang matupad
+        ang mga obligasyon ng Kumpanya sa mga gumagamit para sa paggamit ng Website
+        at mga serbisyo nito.
+      p_3_2: 3.2 Ang kumpanya ay may karapatan na isagawa ang pagproseso ng personal
+        na data nang walang abiso sa karampatang mga awtoridad para sa proteksyon
+        ng mga karapatan ng mga personal na mga paksa data.
+      structure_of_the_user_information: Istraktura ng impormasyon ng gumagamit
+      p_4_1: '4.1. Personal na data ng gumagamit ay kabilang ang:'
+      p_4_1_1: 4.1.1. pangalan, email address, kasarian, petsa ng kapanganakan, impormasyon
+        ng lokasyon, at numero ng telepono, na kung saan ay ibinibigay ng mga gumagamit
+        at dapat na maging lamang ng sapat para sa pagpaparehistro sa Website;
+      p_4_1_2: 4.1.2. ang impormasyon na kung saan ay ibinigay sa pamamagitan ng User
+        (para sa mga larawan Halimbawa, ang impormasyon tungkol pernicious gawi at
+        iba pa);
+      p_4_1_3: 4.1.3. Bukod pa rito na ibinigay ng User ayon sa kahilingan Company
+        upang matupad ang mga obligasyon ng Kumpanya sa mga gumagamit, na lumilitaw
+        mula sa gumagamit na kasunduan. Ang kumpanya ay may karapatan, sa partikular,
+        upang hilingin ang User isang kopya ng dokumento pagkakakilanlan o anumang
+        iba pang mga dokumento na naglalaman ng mga pangalan, kasarian at petsa ng
+        kapanganakan, pati na rin iba pang mga karagdagang impormasyon na kung saan,
+        sa pagpapasya ng Kumpanya, ay kailangan at sapat na para sa pagkilala ng mga
+        naturang User at gusto matanggal ang pang-aabuso at paglabag sa mga karapatan
+        ng mga ikatlong partido.
+      p_4_2: '4.2. Ibang User ni impormasyon processing sa pamamagitan ng Company
+        Ang Website Administration din pinoproseso ng iba pang impormasyon tungkol
+        sa mga gumagamit, na kung saan ay kabilang ang:'
+      p_4_2_1: 4.2.1. karaniwang data, awtomatikong natanggap sa pamamagitan ng http-server
+        kapag ina-access ng Website at ang mga kasunod na mga aksyon ng User (IP-address
+        ng host, uri ng operating system ng user, mga pahina ng Website binisita ng
+        gumagamit).
+      p_4_2_2: 4.2.2. impormasyon na kung saan ay awtomatikong natanggap kapag-access
+        ang Website paggamit ng mga bookmark (cookies);
+      p_4_2_3: 4.2.3. impormasyon na kung saan ay natanggap bilang isang resulta ng
+        mga aksyon ni User sa Website;
+      p_4_2_4: 4.2.4. impormasyon na kung saan ay natanggap bilang isang resulta ng
+        mga pagkilos ng iba pang mga user sa Website.
+      p_5_1: '5.1. Personal na data processing ay dala ang sa batayan ng mga sumusunod
+        na prinsipyo: a) mga lehitimong layunin at paraan ng pagproseso ng personal
+        na data; b) honesty; c) ang pagsunod ng personal na data processing layuning
+        may layuning paunang natukoy at ipinahayag kapag pagkolekta ng mga personal
+        na data, pati na rin ang pagsunod ng mga credentials ng mga Company; d) ang
+        pagsunod ng ang lakas ng tunog at ang uri ng pagproseso ng personal na data,
+        at ang pagsunod ng mga paraan ng pagproseso ng personal na data sa mga layunin
+        ng kanyang processing; e) kawalan ng pagkatanggap ng pagsasama-sama ng mga
+        nabuong mga database para sa hindi tugmang layunin, na naglalaman ng personal
+        na data.'
+      p_5_1_1: 5.1.1. Ang koleksyon ng mga personal na data ng gumagamit ay isinasagawa
+        sa Website kapag register, pati na rin sa hinaharap kapag ang user ay nagdadagdag
+        ng higit pang impormasyon tungkol sa kanyang sarili / kanyang sarili gamit
+        ang Website kasangkapan sa kanyang / kanyang sariling inisyatiba.
+      p_5_1_2: 5.1.2. Personal na data ng mga gumagamit ay naka-imbak ng eksklusibo
+        sa electronic format at naproseso sa pamamagitan ng paggamit ng automated
+        system, na may pagbubukod sa mga kaso kung saan manual pagproseso ng personal
+        na data ay kinakailangan sa view ng pag-abot ang pambatasan mga kinakailangan.
+      p_5_1_3: 5.1.3. personal na data ng User ay hindi ilipat sa anumang mga third
+        party, maliban sa mga kaso na hayagang ibinigay ng mga Regulations at ang
+        Kasunduan ng User. May pahintulot ng user, personal na data ng gumagamit ay
+        maaaring transmitted sa mga ikatlong counterparties ng Company sa ilalim ng
+        kondisyon ng palagay ng isang obligasyon upang matiyak ang pagiging kompidensiyal
+        ng natanggap na impormasyon, sa partikular, kapag gumagamit ng mga serbisyo
+        at mga aplikasyon. personal na data provisioning ng User sa kahilingan ng
+        mga awtoridad ng pamahalaan (lokal na awtoridad) ay isinasagawa sa ang pamamaraan
+        gaya ng iniaatas ng Batas.
+      p_5_1_4: '5.1.4. data Personal user ay tinanggal na kapag: - data ay self-tinanggal
+        mula sa pahina sa pamamagitan ng User; - Page ay hindi na dapat tinanggal
+        na sa pamamagitan ng User; - Impormasyon sa paggamit at ang kanyang personal
+        na pahina ay inalis sa pamamagitan ng Company. Sa kaso ng pahinang pagtanggal
+        sa pamamagitan ng User mismo, ang Company nag-iimbak ng personal na data sa
+        paggamit sa kanyang electronic media sa loob ng 210 araw pagkatapos ng personal
+        na pahina ay inalis. Ang personal na data ay tinatanggal sa pag-expire ng
+        210 araw pagkatapos ng personal na pahina ay inalis. Hanggang sa panahong
+        ito ay natapos, ang User ay may karapatang ibalik ang personal page.'
+      users_rights_and_obligations: karapatan ng User at obligasyon
+      p_6_1: '6.1. User ay may karapatan na:'
+      p_6_1_1: 6.1.1. ma-access ang impormasyon tungkol sa kanya / kanyang nang walang
+        paghihigpit at walang bayad sa pamamagitan ng pag-edit nito personal na pahina
+        sa Website na may ang paggamit ng mga pag-login at password;
+      p_6_1_2: 6.1.2. nakapag-iisa gumawa ng mga pagbabago at pagwawasto sa impormasyon
+        sa personal na pahina sa paggamit sa Website, sa kondisyon na ang mga naturang
+        pagbabago at pagwawasto maglaman up-to-date at tunay na impormasyon;
+      p_6_1_3: 6.1.3. tanggalin ang impormasyon mula sa personal na pahina sa Website;
+      p_6_1_4: 6.1.4. hilingin ang Company upang makakuha ng mas tiyak na impormasyon,
+        block o tanggalin ang mga personal na data, kung ang naturang data ay hindi
+        kumpleto, hindi napapanahong, tumpak, unlawfully natanggap o ay hindi na kailangan
+        para sa mga ipinahayag layunin ng processing o kung ang mga aksyon na tinukoy
+        sa talata 6.1.3 ng mga Regulations ay hindi maaaring ipatupad nang nakapag-iisa;
+      p_6_1_5: 6.1.5. sa batayan ng kahilingan, tumanggap ng impormasyon mula sa Company
+        tungkol sa processing ng kanyang / kanyang personal na data.
+      p_6_2: '6.2. Ang sumusunod na impormasyon tungkol sa anumang mga rehistradong
+        Website User ay laging magagamit sa mga nakarehistrong User: pangalan, kasarian,
+        edad, larawan sa profile user at iba pang impormasyon kung ang User ay nai-post
+        dito.'
+      p_6_3: 6.3. Company bear walang pananagutan para sa pagsisiwalat ng personal
+        na data sa paggamit ng iba pang mga gumagamit ng Website na naka-access ang
+        naturang data.
+      p_6_4: 6.4. Sa kaso ng mga personal na data (iba pang impormasyon user) pag-alis
+        mula personal page sa paggamit o pag-aalis ng personal na pahina sa paggamit
+        mula sa Website, ang impormasyon sa paggamit kinopya sa pamamagitan ng iba
+        pang mga gumagamit o naka-imbak sa mga pahina ng ibang mga gumagamit 'ay mapangalagaan.
+      users_information_protection_measures: Users 'impormasyon proteksyon hakbang
+      p_7_1: 7.1. Ang kumpanya ay tumatagal ng mga teknikal, organisasyon at legal
+        na hakbang upang matiyak na ang personal na data sa paggamit ay protektado
+        mula sa hindi awtorisadong o di-sinasadyang access, pagtanggal, pagbabago,
+        pag-block, pagkopya, at diseminasyon pati na rin mula sa iba pang di-awtorisadong
+        aksyon.
+      p_7_2: 7.2. login sa paggamit (email address o numero ng mobile) at password
+        ay ginagamit upang ma-access ang Website. User ay responsable para sa pagpapanatili
+        ng ang impormasyon na ito kumpidensyal. User ay hindi maaaring ilipat ang
+        mga login at password sa mga third party at ito ay din nagpapasalamat sa gawin
+        ang mga hakbang upang matiyak nito pagiging kompidensiyal.
+      limitation_of_the_regulations_applicability: Limitasyon ng Regulations applicability
+      p_8: Ang mga Regulations ay hindi nadagdagan sa pagkilos at Internet resources
+        ng mga third party. Company bear walang pananagutan para sa mga pagkilos ng
+        mga ikatlong partido na nakuha access sa impormasyon na User sa pamamagitan
+        ng Internet o ang Website Services. Ang Website Administration ay nagrekomenda
+        sa gumagamit upang lapitan ang isyu sa ang halaga ng impormasyon na nai-post
+        sa Website sa isang responsableng paraan.
+      user_requests: kahilingan User
+      p_9_1: '9.1. Ang mga gumagamit ay may karapatang magpadala ng mga kahilingan
+        sa Company kabilang kahilingan patungkol sa paggamit ng personal na data sa
+        nakasulat na form sa sumusunod na address: Russia, 101000, Moscow, Ulanskiy
+        Pereulok 13, stroeniye 4, pomeshcheniye 1 o sa anyo ng mga electronic na dokumento
+        naka-sign sa pamamagitan ng isang kwalipikadong electronic signature alinsunod
+        sa mga batas ng Russian Federation, sa pamamagitan ng email: support@flutylove.com.'
+      p_9_2: '9.2. kahilingan sa paggamit ay dapat naglalaman ng mga sumusunod na
+        impormasyon: ang bilang ng mga identification dokumento ng User o sa kinatawan
+        nito; petsa ng isyu ng mga dokumento sa itaas at ang issuing kapangyarihan;
+        impormasyon na nagkukumpirma pakikilahok sa paggamit sa relasyon sa operator
+        (sa partikular, ang mga link sa pahina); lagda ng User o ang kanyang / kanyang
+        kinatawan.'
+      p_9_3: 9.3. Ang kumpanya undertakes upang isaalang-alang at tumugon sa kahilingan
+        sa paggamit sa loob ng 30 araw pagkatapos na ito ay natanggap.
+      p_9_4: 9.4. Lahat ng mga sulat na natanggap sa pamamagitan ng Company mula sa
+        User (nakasulat o elektronikong kahilingan) ay nauuri bilang impormasyon restricted-access
+        at hindi maaaring isiwalat nang walang nakasulat na pahintulot sa paggamit.
+        Ang personal na data at iba pang impormasyon tungkol sa mga User na nagpadala
+        ng kahilingan ay hindi maaaring gamitin, walang mga espesyal na pahintulot
+        sa paggamit, naiiba kaysa sa para sa tugon sa kahilingan o sa mga pagkakataon
+        explicitly na ibinigay ng naaangkop na batas.
+    terms:
+      terms: Flutylove Kasunduan ng User
+      welcome: Maligayang pagdating sa Flutylove!
+      about_terms: 'Ang mga tuntunin ng paggamit (pati na rin ang mga dokumento na
+        tinutukoy dito, kabilang ang Patakaran sa Privacy) ay ang kontrata ng adhesion
+        alinsunod sa Artikulo 428 ng Civil Code ng Russian Federation (simula dito
+        tinutukoy bilang ang "Kasunduan") sa pagitan ng indibidwal na ay umabot na
+        sa 18 taong gulang (simula dito tinutukoy bilang ang "User" at ang Company
+        (o "namin") - isang Limited Liability Company "Technoelegance" (LLC "Technoelegance")
+        (legal address: 101000, Moscow, Ulanskiy Pereulok 13, stroeniye 4, pomeshcheniye
+        1), simula dito tinutukoy bilang Flutylove, ayon sa kung saan maaari mong
+        gamitin ang Website at lahat ng nauugnay serbisyo na inaalok sa pamamagitan
+        ng Website o application (karaniwang tinutukoy bilang "mga serbisyo"). ang
+        Website ay ipinapalagay na nangangahulugang alinman sa mga nito bersyon, pinagsama
+        sa ilalim ng domain name flutylove.com at nagpapatakbo para sa iba''t ibang
+        mga aparato, kabilang ang mga web-based na bersyon, mga mobile application
+        at mga application para sa mga social network.Sa pamamagitan ng paggamit ng
+        Website na ito sumasang-ayon ka sa mga tuntunin ng Kasunduang at Patakaran
+        sa Privacy. Mangyaring basahin ito nang mabuti. Kung hindi ka sumasang-ayon
+        sa mga tuntunin ng Kasunduan at Patakaran sa Privacy, o hindi mo pa naabot
+        ang edad ng 18 taon, hindi mo maaaring gamitin ang Website at mga Serbisyo
+        nito.Sa pamamagitan ng paggamit ng website, hindi alintana ikaw ay rehistradong
+        gumagamit ng Flutylove o hindi, sumasang-ayon ka ganap sa Kasunduang ito at
+        ang aming Patakaran sa Privacy, na kung saan ay kasama sa Kasunduang ito sa
+        pamamagitan ng link at ito ay magagamit sa Website, at sumunod sa mga ito.Sa
+        kahilingan ng gumagamit, ang Company undertakes upang mag-sign ang Kasunduang
+        ito sa isang hardcopy form at ipadala ito sa mga indibidwal na humihiling
+        ng mga dokumento.Inilalaan ang Company ang karapatan na baguhin ang Kasunduan
+        ng User at anumang dokumento na tinutukoy dito. Upang magkaroon ng kamalayan
+        ng mga pagbabago na kailangan mo upang panatilihin-up-to-date ang impormasyon
+        sa mga ganitong pagbabago sa isang regular na batayan. Susubukan naming ipaalam
+        sa iyo ang tungkol sa mga pagbabago na ginawa namin sa pahinang ito sa ibaba.
+        Pagbabago hindi kaugnay sa likod at ay dumating sa epekto sa loob ng sampung
+        araw mula sa petsa ng publikasyon. Gayunman, kung sakaling ito ay nauugnay
+        sa ang pagpapatupad ng bagong mga serbisyo o ang susog ng batas, ito ay ilalapat
+        agad. Kung hindi ka sumasang-ayon sa mga pagbabago sa Kasunduan, kailangan
+        mong ihinto ang paggamit ng Website at ang kanyang mga aplikasyon.'
+      consent_to_accept_the_terms_of_user_agreement: 1. PAHINTULOT SA TANGGAPIN ANG
+        MGA TUNTUNIN NG USER KASUNDUAN.
+      p_1: a. Electronic Agreement. Ang Kasunduang ito ay isang elektronikong bersyon
+        ng kontrata, na naglalarawan sa mga tuntunin ng paggamit ng Website at mga
+        Serbisyo. Sa pamamagitan ng pag-log sa Website o pagiging isang User, tanggapin
+        mo ang Kasunduang ito at sumasang-ayon sa lahat ng mga tuntunin, kundisyon,
+        at abiso na nakapaloob o isinangguni doon. magpatibay at sinasang-ayunan na
+        ang mga gumagamit ng Flutylove maaaring maging isang bahagi ng isang online
+        na komunidad na may kasamang iba pang mga website na kabilang sa Kumpanya
+        o mga kaakibat nito. Samakatuwid, ang mga profile sa Website ay maaaring matingnan
+        sa iba pang mga katulad na mga website at nagbabayad subscriber mula sa isang
+        website ay maaaring makipag-usap sa iba pang mga nagbabayad subscriber mula
+        sa lahat ng mga website. b. Electronic Form. Sa pamamagitan ng pag-log sa
+        Website o pagiging isang User, sumasang-ayon ka sa iyo ng mga electronic Agreement.
+        c. Hardcopy form. Mayroon kang karapatang tumanggap ng hardcopy ng Kasunduang
+        ito. Maaari kang humiling ng hardcopy edition ng Kasunduang ito bago o pagkatapos
+        ito ay naka-sign in electronic form. Mangyaring, makipag-ugnay sa aming Customer
+        service para sa karagdagang impormasyon. d. I-access at pag-download. Upang
+        ma-access at i-download ito electronic Agreement, kailangan mong magkaroon
+        ng access sa Internet o direkta sa pamamagitan ng mga aparato na may access
+        sa mga mapagkukunan Web. Kailangan mong magkaroon ng mga kinakailangang kagamitan
+        upang kumonekta sa Internet, lalo na ang computer, modem o iba pang aparato
+        access. Mangyaring, i-print ang isang kopya ng Kasunduang ito at ito'y ginaganap.
+        I-download ang electronic form ng Kasunduan, i-save ito sa iyong computer
+        sa pamamagitan ng tulong ng anumang text editor.
+      the_right_of_using_the_website: 2. ANG KARAPATAN NG PAGGAMIT NG WEBSITE.
+      p_2: Dapat mong hindi bababa sa labing-walo (18) taong gulang upang maging isang
+        rehistradong user ng Website na ito. Sa kaso ng mga di-pagsunod sa mga kinakailangan,
+        access sa Website ay hindi papahintulutan. Paggamit ng Website, ang user ay
+        dapat magkaroon ng kamalayan na ang mga personal na impormasyon na nai-post
+        sa Website ay maaaring maging magagamit para sa iba pang mga gumagamit ng
+        Internet, at ang Company ay hindi nagdadala ng pananagutan para sa kanilang
+        mga aksyon. Sa pamamagitan ng paggamit ng Website na ito sa iyo igiit at idaos
+        na ikaw ay may karapatan, kapangyarihan at posibilidad na pumasok sa Kasunduang
+        ito, at pagsang-ayon na sundin ang lahat tuntunin at kundisyon nito. Pagiging
+        isang User mong igiit at idaos na hindi mo pa nai pinagdudusahan napatunayang
+        pagkakasala para sa kriminal na pagkakasala na may kaugnayan sa sekswal na
+        karahasan. Website ay dinisenyo para sa personal na paggamit lamang. Ito ay
+        ipinagbabawal na gamitin ang Website para sa anumang komersyal na layunin.
+        Corporate entidad ay hindi maaaring ang mga gumagamit ng Website na ito, pati
+        na rin ay hindi maaaring gamitin ang Serbisyo o ang Website sa kanilang mga
+        layunin. Illegal at / o di-awtorisadong paggamit ng Website, kabilang ang
+        pagkolekta ng mga username at / o e-mail address sa pamamagitan ng tulong
+        ng mga electronic o ibang mga kasangkapan para sa layunin ng pagpapadala ng
+        hindi kanais-nais na mensahe at mga link ay pursued at ang Company ay maaaring
+        gumawa ng naaangkop na pagkilos ayon sa batas, kabilang ang isang apela sa
+        awtoridad na tagapagpatupad ng batas.
+      pricing_and_registration: 3. Pagpepresyo AND REGISTRATION
+      p_3: Ikaw ay magagawang upang maging ang User ng Flutylove sa kusang at walang
+        bayad na batayan sa pamamagitan ng pagrerehistro sa Website. Bilang ng User,
+        maaari mong gamitin ang mga tiyak na hanay ng mga serbisyo at mga pagkakataon
+        ng Website. Ang User ng Website ay isang indibidwal na nakarehistro sa Website
+        ayon sa itinatag order at kung sino ay umabot sa 18 taong gulang. Kapag nagrerehistro
+        sa Website ang User ay obligadong magbigay ng kailangan at may-katuturang
+        impormasyon para sa Company upang makumpleto ang pahinang User, kabilang ang
+        pag-login (email address o numero ng telepono) at password para sa access
+        sa Website, pati na rin ang pangalan, na natatangi para sa bawat user. Ang
+        form para sa pagpaparehistro ay maaaring humiling ng karagdagang impormasyon
+        mula sa User. User ay responsable para sa ang bisa, actuality, pagkakumpleto
+        at pagsunod sa Batas ng Russian Federation ng impormasyon na ibinigay sa pagpaparehistro,
+        at ang linaw mula sa mga habol ng mga third party. Kapag pagrehistro ng User
+        sumasang-ayon sa Kasunduang ito at idaos tinukoy karapatan at obligasyon,
+        na nauugnay sa paggamit at paggana ng Website. User ay makakakuha ng ganap
+        na access sa ang paggamit ng mga pag-andar Website. Ang kumpanya undertakes
+        mga karapatan at obligasyon sa User, na tinukoy sa mga Regulations, pagkatapos
+        ng matagumpay na pagpaparehistro ng User sa Website personal data processing
+        Ang User ay ginawa ayon sa Batas ng Russian Federation. Ang Website Administration
+        pinoproseso ang personal na data ng User upang magbigay ng mga user na may
+        isang access sa paggamit ng Website pag-andar, kabilang ang pagtanggap ng
+        mga personalized na (target) advertisement; pag-verify, pananaliksik at pagtatasa
+        ng mga data, na nagpapahintulot upang suportahan at mapabuti ang pag-andar
+        at mga seksyon ng Website, pati na rin ang bumuo ng mga bagong mga pag-andar
+        at mga seksyon. Ang kumpanya ay tumatagal ng lahat ng mga kinakailangang aksyon
+        upang protektahan ang personal na data ng gumagamit laban sa hindi awtorisadong
+        pag-access, pagbabago, pagbubunyag o binubura. Ang kumpanya ay nagbibigay
+        ng access sa mga personal na data ng gumagamit lamang sa mga empleyado, nangongontrata
+        at ahente ng Company, na kailangan ang impormasyon na ito upang suportahan
+        ang pag-andar Website at upang magbigay ng User na may access sa gamit nito.
+        Ang Company ng Website ay may karapatan na gamitin ang impormasyon na ibinigay
+        sa pamamagitan ng User, kabilang ang personal na data, upang matiyak ang pagsunod
+        sa mga iniaatas ng kasalukuyang batas ng Russian Federation (kabilang ang
+        pag-iwas at / o pagsugpo ng labag sa batas at / o labag sa batas mga aksyon
+        ng gumagamit). Pagsisiwalat ng impormasyon na ibinigay sa pamamagitan ng User
+        ay maaaring gawin lamang sa alinsunod sa mga kasalukuyang batas ng Russian
+        Federation sa kahilingan ng hukuman, pagpapatupad ng batas ahensiya, pati
+        na rin sa ibang mga kaso gaya ng itinatadhana ng naaangkop na batas ng Russian
+        Federation. Sa lawak na ang Company pinoproseso ang personal na data ng gumagamit
+        para sa pagpapatupad ng mga Regulations, ang pahintulot sa paggamit sa pagproseso
+        ng personal na data ay hindi kinakailangan sa kabutihan ng mga probisyon ng
+        batas sa personal na data. Ang pag-login at ang password na pinili ng User
+        ay kailangan at sapat na impormasyon para sa pag-access sa gumagamit sa Website.
+        User ay may karapatan na magbigay ng kanyang / kanyang pag-login at password
+        sa mga ikatlong partido, at ay ganap na responsable para sa kanyang kaligtasan,
+        ang pagpili ng paraan ng pag-iimbak ng mga ito sa isang malayang batayan.
+        Gamit ang kanyang / kanyang hardware at software ang User ay maaaring magpahintulot
+        sa imbakan ng mga pag-login at password (sa pamamagitan ng cookies) para sa
+        kasunod na awtomatikong pag-debit sa Website. Anumang aksyon na kinunan gamit
+        ang paggamit ng username ni User at password ay itinuturing na ginawa ng User,
+        maliban na lamang kung ang laban ay di-napatutunayang sa pamamagitan ng User.
+        User ay nagpapasalamat sa agad ipagbigay-alam sa Company alinsunod sa mga
+        itinatag pamamaraan sa kaso ng di-awtorisadong pag-access sa ang username
+        at password at / o ang pahina ng account, o pagsisiwalat ng mga pag-login
+        at password. Pagkatapos ng pagpaparehistro ng User ay makakakuha ng karapatan
+        na lumikha ng, gamitin, at matukoy ang nilalaman ng kanyang / kanyang sariling
+        personal na mga pahina sa self-interesado at di-pangkomersiyong layunin, pati
+        na rin makakuha ng pagkakataon na ma-access at mag-post ng impormasyon sa
+        mga personal na mga pahina ng iba pang mga gumagamit . Ang User bilang may-ari
+        ng impormasyon na nai-post sa mga personal na pahina ay magkaroon ng kamalayan
+        na may pagbubukod ng mga kaso na itinatag sa pamamagitan ng mga Regulations
+        at ang kasalukuyang batas ng Russian Federation, ang Company ay hindi lumahok
+        sa ang pag-unlad at paggamit ng mga nilalaman at ay hindi makontrol access
+        sa pahinang sa paggamit mula sa iba pang mga gumagamit.
+      terms_4: 4. TUNTUNIN.
+      p_4: Ang Kasunduang ito ganap na nananatiling may bisa at epekto hangga't habang
+        ginagamit mo ang Website. Maaari mong itigil na ang User ng Website sa pamamagitan
+        ng pagtanggal ng iyong pahina sa anumang oras, para sa anumang kadahilanan,
+        sa pamamagitan ng pakikipag-ugnay sa aming online na Customer Service o sa
+        pamamagitan ng paggamit ng serbisyo ng Website. Inilalaan ang Company ang
+        kanyang karapatan na tanggalin ang iyong personal na pahina sa anumang oras.
+        Hindi namin ay nagpapasalamat sa abisuhan ka bago tanggalin ang pahina, kung
+        ang Company ay may dahilan upang maniwala na ikaw ay lumabag sa mga tuntunin
+        ng Kasunduang ito. Hindi namin ay nagpapasalamat sa ibunyag ang dahilan para
+        sa pagtanggal ng iyong account; sa ilang mga kaso ang pagsisiwalat ng naturang
+        impormasyon ay maaaring ipinagbabawal. Matapos ang pagtanggal ng iyong pahina,
+        lahat ng mga kondisyon na maaaring maging valid pagkatapos ng pagwawakas ng
+        Kasunduang ito sa pamamagitan ng kanilang kalikasan ay magkakabisa sa kabilang
+        nasabing pagwawakas. Kung tatanggalin mo ang iyong pahina sa pamamagitan ng
+        Website sa iyong sariling kalooban, maaari naming hilingin sa iyo upang tukuyin
+        ang dahilan ng naturang pagtanggal.
+      account_security: 5. ACCOUNT SECURITY.
+      p_5: Ikaw ay responsable para sa pagiging kompidensiyal pangangalaga ng iyong
+        username at password, na kung saan ay itatakda sa panahon ng registration.
+        Gayundin, ay ganap na walang pananagutan para sa lahat ng mga aksyon na nagaganap
+        sa ilalim ng iyong username at password mo. Sumasang-ayon ka sa (a) agad na
+        abisuhan Amin tungkol sa anumang di-awtorisadong paggamit ng iyong pag-login
+        at password, pati na rin ang anumang iba pang mga security paglabag, at (b)
+        exit mula sa iyong account sa dulo ng bawat session. Website ay hindi mananagot
+        para sa anumang pinsala o kawalan na nagbubuhat sa mga pagkakasalang di-pagsunod
+        sa tadhanang ito. Dapat kang maging maingat lalo na kapag ina-access ang iyong
+        account sa pamamagitan ng isang pampublikong computer sa order na hindi awtorisadong
+        tao ay hindi maaaring tiktikan o record ang iyong password o anumang iba pang
+        personal na impormasyon. Mo ring kumpirmahin at sumasang-ayon na ang Internet
+        ay hindi kailanman ganap na pribado at secure. Nauunawaan mo na ang anumang
+        mga mensahe o impormasyon na iyong paskil sa Website ay maaaring basahin o
+        ginagamit ng ibang mga user, kahit na may isang espesyal na babala na ang
+        impormasyon ay nakatago.
+      your_interaction_with_other_users_of_the_website: 6. Na! Pakikipag-ugnayan SA
+        IBA PANG MGA GUMAGAMIT NG WEBSITE.
+      p_6: a. IKAW AY TANGING MANANAGOT PARA SA IYONG pakikipag-ugnayan sa ibang mga
+        user. DAPAT MONG MAUNAWAAN NA ANG COMPANY AY HINDI KUMPIRMAHIN KANILANG MGA
+        GUMAGAMIT SA MAN SILA MAY CRIMINAL RECORD. THE COMPANY DIN AY HINDI HILING
+        SA IMPORMASYON TUNGKOL SA NAKARAAN NG KANILANG MGA GUMAGAMIT AT HINDI patunayan
+        IMPORMASYONG ITO. THE COMPANY AY WALANG WARRANTY TUNGKOL SA USER BEHAVIOR
+        AT KANILANG Pagkakatugma SA ACTUAL OR FUTURE USERS. SA PAREHONG ORAS ANG COMPANY
+        ANG KARAPATANG KUMPIRMAHIN ANG USERS PARA SA CRIMINAL RECORD OR CARRY OUT
+        OTHER VERIFICATION SA ANUMANG ORAS PAGGAMIT MAGAGAMIT PUBLIC IMPORMASYON.
+        b. HINDI MGA KASO THE COMPANY AY HINDI MANANAGOT SA ANUMANG PINSALA KUNG SILA
+        AY DIREKTA, HINDI DIREKTA, PANGKALAHATANG O HAVE A SPECIFIC NATURE, nauukol
+        na bayad, AT / O NAGKATAON, NAKUHA MO O ANUMANG IBA PANG MGA INDIBIDWAL BILANG
+        RESULTA NG PAGGAMIT NG WEBSITE, KABILANG ANG, NGUNIT HINDI LIMITADO SA, MGA
+        PISIKAL NA PINSALA, STRESS AT / O IBA PANG PINSALA, NA NAKUHA MO BILANG RESULTA
+        NG COMMUNICATION OR MGA PULONG SA IBA PANG nakarehistro USERS NG WEBSITE O
+        MGA TAO, NA DEAL WITH YOU ON THE WEBSITE. SUMASANG-AYON KA SA TAKE EVERY POSSIBLE
+        Pag-iingat kapag nakikipag-ugnay sa ANG IBA PANG MGA USERS, lalo IN MGA KASO,
+        kapag nagpasya kang TO MEET THEM IN REAL LIFE. DAPAT MONG HINDI NALAMAN, ANO
+        ANG COMPANY AY HINDI NAGBIBIGAY A ipinahayag O IPINAHIWATIG NA WARRANTY TUNGKOL
+        sa pagiging tugma sa ANG MGA GUMAGAMIT NG WEBSITE NA ITO. HINDI MO DAPAT IBIGAY
+        ANG FINANCIAL IMPORMASYON SA IBANG USERS NG WEBSITE (PARA SA EXAMPLE ANG IMPORMASYON
+        TUNGKOL SA IYONG CREDIT OR PLASTIC CARDS). c. Serbisyo ay maaaring isalin
+        ang iyong pangalan o ang pangalan ng iyong bayan sa ibang wika; d. Ang serbisyo
+        ay hindi mananagot para sa mga pagkilos na nakalista sa artikulong ito. Kung
+        sakaling hindi ka sumasang-ayon ang mga ito ganap o bahagyang, MANGYARING
+        KAAGAD Iwanan ang WEBSITE;
+      the_information_posted_by_you_on_flutylove: 7. ANG IMPORMASYON Posted MO ON
+        FLUTYLOVE
+      p_7: a. Kayo ang tanging responsable para sa impormasyon na iyong i-publish
+        o ipakita (simula dito "post") sa Serbisyo o ilipat sa iba pang mga gumagamit
+        sa iyo. Hindi ka pinapayagang mag-post sa Serbisyo o ilipat sa iba pang mga
+        gumagamit ng anumang impormasyon sa mapanirang-puri, hindi tumpak, mapang-abuso,
+        malaswa, bulgar at agresibo nilalaman, ang impormasyon sa sekswal na nilalaman,
+        pati na rin para magbanta o stalking impormasyon, impormasyon ng diskriminasyon
+        sa lahi kalikasan o iligal na impormasyon, o anumang iba pang impormasyon
+        na lumalabag o lumalabag sa mga karapatan ng anumang iba pang partido (kabilang
+        ang, nang walang limitasyon, mga karapatan sa intelektwal na ari-arian, mga
+        karapatan sa privacy at publicity). Hindi ka pinapayagang upang magbigay ng
+        hindi tumpak, mapanligaw o maling impormasyon sa Kumpanya o anumang iba pang
+        mga User. Kung ang impormasyon na ibinigay sa mga kumpanya Flutylove o isa
+        pang User dakong huli ay nagiging mali, nakaliligaw ng hindi totoo, kailangan
+        mong agad na ipagbigay-alam sa kumpanya Flutylove ng naturang pagbabago. Mong
+        isumite at ginagarantiyahan mo na ang lahat ng impormasyon na ibinigay sa
+        panahon ng registration ay tumpak at totoo, at agad mong baguhin ang anumang
+        impormasyon na sa dakong huli ay nagiging hindi tumpak, mapanligaw o false.
+        b. Nauunawaan mo at sumasang-ayon na nasa amin ang karapatan, ngunit walang
+        obligasyon na subaybayan ang mga impormasyon o nilalaman na ay ililipat sa
+        Serbisyo o naka-post sa mga pampublikong access sa Serbisyo. Mayroon kaming
+        isang karapatan na tanggalin ang anumang ng naturang impormasyon o nilalaman
+        nang walang pagtatalaga ng anumang dahilan at notification. c. Lahat ng mga
+        bagay na ipinapakita sa Website, kabilang ang mga elemento ng disenyo, teksto,
+        graphics, mga guhit, mga video, mga script, mga programa, musika, mga tunog
+        at iba pang mga bagay at ang kanilang mga aklatan (simula dito - Impormasyon),
+        ay pag-aari ng mga eksklusibong karapatan ng mga Company, ang mga gumagamit
+        ng Website at iba pang mga karapatan may-hawak ng, ang lahat ng mga karapatan
+        sa mga bagay na ito ay protektado. d. Maliban itinatag alinsunod sa Kasunduang
+        ito, pati na rin ang kasalukuyang batas ng Russian Federation, walang impormasyon
+        ay maaaring kopyahin (kopyahin), proseso, ipinamamahagi, ipinapakita sa isang
+        frame, na inilathala, na-download, mailipat ipagbibili o ginagamit sa iba
+        pang mga paraan kung kabuuan o sa piraso nang walang paunang pahintulot ng
+        may-hawak ng, maliban kung ang may-hawak ng mga karapatan explicitly ipinahayag
+        na pahintulot nito sa libreng paggamit ng Impormasyon sa pamamagitan ng anumang
+        indibidwal. e. Sa pamamagitan ng pag-post ng impormasyon tungkol sa Website
+        lawfully kasali sa User, ang User ay nagbibigay ng access ng ibang mga gumagamit
+        para sa mga di-eksklusibong karapatan na gamitin ito sa pamamagitan ng pagtingin,
+        pag-playback (kabilang pagkopya) at iba pang mga karapatan para lamang sa
+        mga layunin ng personal di-komersyal na paggamit, maliban kung mga kaso kapag
+        ang naturang paggamit nagiging sanhi ng o maaaring maging sanhi ng pinsala
+        sa mga interes ng mga karapatan may-hawak protektado ng batas. f. Ang gamit
+        ng Impormasyon sa pamamagitan ng User, na access ay nagkamit para lamang sa
+        personal di-komersyal na paggamit, ay pinahihintulutan sa kondisyon na ang
+        lahat ng mga palatandaan ng pagiging may-akda (copyright) o iba pang mga abiso
+        ng pag-akda ay nag-iingat, ang pangalan ng may-akda at ang produkto nito ay
+        naiwan nang walang pagbabago. g. User ay nagbibigay din ng Company sa isang
+        non-eksklusibong karapatan upang gamitin ang impormasyon na nai-post sa Website
+        at pag-aari sa kanya / kanyang lawfully walang pagsasaalang-alang upang matiyak
+        ang gumagana ng Website ng Company sa loob ng pagganap ng architecture at
+        pag-andar ng Website. Ang mga di-eksklusibong karapatan na tinutukoy sa itaas
+        ay ibinibigay para sa Nilalaman placement sa Website at sumasaklaw sa teritoryo
+        ng mga bansa sa buong mundo. Ang kumpanya ay may karapatan na ilipat ang mga
+        karapatan na tinutukoy sa talataang ito sa mga ikatlong partido. Sumasang-ayon
+        ang User na ang Company ay may karapatan na gamitin ang functional at teknikal
+        na mga pagpipilian ng Website, pagbibigay ng pagpapakita ng ang pagbabahagi
+        ng Nilalaman sa pamamagitan ng User, kabilang sa mga layunin ng pagpapakita
+        ng advertisement impormasyon. hi. Sa kasong ang User tinatanggal ang impormasyon
+        mula sa Website, non-eksklusibong karapatan ay awtomatikong binawi, ngunit
+        dahil sa ang mga teknikal na mga pagtutukoy ng Website Company Taglay ang
+        karapatan upang i-save mga backup na kopya ng Impormasyon sa loob ng kinakailangang
+        oras at kung saan kinakailangan. i. Bukod sa mga pribadong impormasyon, ang
+        User ay walang karapatan na mag-upload, o ibunyag sa iba't ibang mga paraan
+        (sa pamamagitan ng paglalathala sa Website) ang Information ng iba pang mga
+        site, database at iba pang mga ari-ariang intelektwal sa kawalan ng malinaw
+        na ipinahayag na pahintulot sa naturang mga aksyon mula sa copyright may-ari.
+        j. Malibang iba ang nakasulat sa mga Regulations, anumang bagay sa mga Regulations
+        ay hindi maaaring isinasaalang-alang bilang isang paglipat ng eksklusibong
+        karapatan sa Impormasyon. k. Ang lahat ng impormasyon na-publish ka sa iyong
+        profile ng user, ay dapat na tumpak, up-to-date at kumpleto. User ay ganap
+        na tanging responsable para sa anumang impormasyon na na-upload o isiwalat
+        sa iba't ibang mga paraan (post) sa Website o sa tulong ng User. User ay hindi
+        ay may karapatan na mag-upload, maglipat o mag-post ang Nilalaman sa Website,
+        kung siya / hindi siya ay magkaroon ng naaangkop na mga karapatan na kumuha
+        ng naturang pagkilos, nakuha o bigay sa kanya / kanyang sa alinsunod sa batas
+        ng Russian Federation. The Company magagawang, ngunit ay hindi nagpapasalamat,
+        I-browse ang Website para sa anumang ilegal Nilalaman at ang pinapayagang
+        tanggalin o ilipat (nang walang abiso) anumang Nilalaman o mga user sa sarili
+        nitong paghuhusga, sa anumang dahilan o walang dahilan, kasama ang walang
+        limitasyon upang ilipat, o tanggalin ang impormasyon na, ayon sa mga indibidwal
+        na opinyon ng mga Company lumalabag sa Kasunduang ito, ang batas ng Russian
+        Federation at / o maaaring lumalabag sa mga karapatan, manakit, o ilagay sa
+        panganib ang seguridad ng iba pang mga gumagamit o mga third party. Website
+        ay naglalaman ng (o maaaring maglaman) nagli-link sa iba pang mga site sa
+        Internet (mga website ng ikatlong partido) pati na rin ng mga artikulo, mga
+        larawan, mga guhit, graphics, musika, tunog, video, impormasyon, mga application,
+        software at iba pang impormasyon na kabilang sa o darating mula sa mga ikatlong
+        partido (Third party na nilalaman), na kung saan ay ang resulta ng intelektwal
+        na aktibidad at ay protektado sa alinsunod sa mga batas ng Russian Federation.
+        Ang mga ikatlong partido at ang kanilang impormasyon ay hindi na-verify sa
+        pamamagitan ng Company para sa pagsunod sa ito o iba pang Kinakailangan (katumpakan,
+        pagkakumpleto, katapatan, at iba pa). Ang kumpanya ay hindi mananagot para
+        sa anumang nilalaman na nai-post sa mga site ng third-party na kung saan ang
+        mga nadagdag User access sa pamamagitan ng Website o sa pamamagitan ng impormasyon
+        ng third-party, kabilang ang, ngunit hindi limitado sa anumang mga opinyon
+        o pahayag na ipinahayag sa mga site na kabilang third-party o sa kanilang
+        impormasyon. Ang mga link sa anumang site, produkto, at serbisyo, ang anumang
+        impormasyon ng commercial at di-komersyal na likas na katangian na nakapaloob
+        sa Website na ito ay hindi isang pag-apruba o rekomendasyon para sa mga produkto
+        ng (mga serbisyo) mula sa Kumpanya. Kung nagpasiya ang User upang iwanan ang
+        Website at pumunta sa mga website ng ikatlong partido o gamitin o i-install
+        third-party software, siya / siya nagagawa ito sa kanilang sariling panganib
+        at mula sa sandaling iyon ang mga Regulations ay hindi na inilapat sa User.
+        Ang karagdagang mga aksyon ng gumagamit ay guided sa pamamagitan ng naaangkop
+        na mga patakaran at mga patakaran, kabilang ang mga kasanayan sa negosyo ng
+        mga indibidwal na Information siya / siya ay pagpunta sa paggamit.
+      forbidden_actions: 8. FORBIDDEN PAGKILOS.
+      p_8: a. Ito ay ipinagbabawal upang "panatilihin ang isang malapit na relos sa"
+        o abalahin sinumang tao sa ibang paraan. b. Ito ay ipinagbabawal na gamitin
+        bots, mga virus, mga aplikasyon sa paghahanap / katas sites, o iba pang mano-mano
+        o awtomatikong aparato o proseso upang kunin, index, "bakay" o paramihin sa
+        ibang daan o magdaya ang nabigasyon istraktura at pagpapakita ng Serbisyo
+        o ang mga nilalaman nito . c. Ito ay ipinagbabawal upang mag-post, ipamahagi,
+        o paramihin everyway anumang copyright na impormasyon, mga trademark, o iba
+        pang impormasyon na protektado ng copyright nang walang paunang pahintulot
+        mula sa may-ari ng copyright. d. Ito ay ipinagbabawal upang alisin ang anumang
+        copyright, trademark o iba pang mga notice sa copyright na nilalaman sa Serbisyo.
+        e. Ito ay ipinagbabawal upang makagambala sa o maputol ang operasyon ng Serbisyo
+        at ang Website, o mga serbisyo at mga network na konektado sa Serbisyo o ang
+        Website. f. Ito ay ipinagbabawal upang i-publish, email o transfer sa iba't
+        ibang mga paraan sa anumang impormasyon na naglalaman ng mga virus o anumang
+        iba pang mga computer code, mga file o mga programa na dinisenyo upang makagambala,
+        sirain o limitahan ang pag-andar ng anumang computer software, hardware o
+        Telecommunications kagamitan. g. Ito ay ipinagbabawal upang pekein pamuhatan
+        o manipulahin ang pagtatalaga para sa layunin ng disguising ang tunay na kahulugan
+        ng anumang impormasyon na ibinahagi sa pamamagitan ng Serbisyo. h. Ito ay
+        ipinagbabawal sa "pandayan" o "kopya" ng anumang bahagi ng Serbisyo o ang
+        Website nang walang paunang nakasulat na pahintulot mula Flutylove. Gayundin,
+        hindi mo maaaring gamitin ang anumang mga meta tag o code, o iba pang mga
+        aparato na naglalaman ng anumang mga link sa Flutylove, ang Serbisyo o ang
+        Website upang i-redirect ang sinumang tao sa ibang site para sa anumang layunin.
+        i. Ito ay ipinagbabawal upang baguhin, iakma, sublicense, isalin, ibenta,
+        restructure, maintindihan, i-decompile o i-disassemble ang anumang bahagi
+        ng Serbisyo o ang Website, o anumang software na ginagamit sa Website o para
+        sa mga ito, pati na rin ay naghihikayat sa iba na kumuha ng katulad na mga
+        pagkilos . j. Ito ay ipinagbabawal upang mag-post ng anumang impormasyon na
+        may pornographic at / o ng erotikong laman.
+      the_changes_in_the_service: 9. BINAGO SA SERVICE.
+      ip_address_blocking: 10. IP ADDRESS pagharang.
+      p_10: Upang maprotektahan ang integridad ng Website, Flutylove Inilalaan ang
+        karapatan sa anumang oras sa sarili nitong convenience upang harangan ang
+        mga IP address ng mga tiyak na mga gumagamit.
+      relations_between_users_online: 11. RELATIONS PAGITAN USERS ONLINE
+      p_11: Ikaw ay tanging responsable para sa iyong mga pakikipag-ugnayan sa ibang
+        mga user ng Flutylove. Inilalaan Flutylove ang karapatan, ngunit hindi ang
+        obligasyon, upang masubaybayan ang mga alitan sa pagitan mo at ng ibang mga
+        gumagamit.
+      security_and_communication: 12. SECURITY AND COMMUNICATION.
+      p_12: Paggamit ng Website at / o ang Serbisyo ay nasasaklawan din ng aming Patakaran
+        sa Privacy. Kapag ikaw ay naging isang User, sumasang-ayon ka at pahintulot
+        upang makatanggap ng mga email mula sa amin. Ang mga email ay maaaring kumatawan
+        sa mga abiso tungkol sa mga operasyon o iba pang mga abiso kaugnay sa Serbisyo,
+        tulad ng administrative mga abiso at mga opisyal na anunsyo tungkol sa mga
+        pagbabago, o mga email na naglalaman komersyal na alok, promotional materyales,
+        mga espesyal na alok mula sa amin, o impormasyon tungkol sa mga pagkilos ng
+        iba pang mga user tungkol sa iyong user account. Mangyaring basahin ang aming
+        Patakaran sa Privacy upang madagdagan ang nalalaman tungkol sa mga tulad ng
+        mga notification.
+      denial_of_responsibility: 13. DENIAL OF RESPONSIBILITY.
+      p_13: a. Flutylove ay hindi mananagot para sa anumang hindi tama o hindi tumpak
+        na impormasyon na nai-post sa Website o ay nauugnay sa ang Serbisyo, ang mga
+        gumagamit ng Website o anumang hardware o software na nauugnay sa aming Serbisyo
+        o ay ginagamit doon. Flutylove ay hindi mananagot para sa pag-uugali, ang
+        parehong online at offline, ng sinumang gumagamit ng Website. Flutylove ay
+        hindi tumagal sa responsibilidad para sa anumang mga error, omissions, interruptions,
+        pagtanggal, pinsala o pagkaantala sa operasyon o pagpapatakbo, mga komunikasyon
+        linya kabiguan, pagnanakaw o pagsira, ang hindi awtorisadong pag-access o
+        pagbabago ng mga linya ng komunikasyon ng gumagamit. Flutylove ay hindi mananagot
+        para sa anumang mga problema o teknikal madepektong paggawa ng anumang network
+        ng telepono o mga linya, computer online na sistema, mga server o provider,
+        computer kagamitan, software, mail o mga manlalaro pagkabigo sa user account,
+        teknikal na problema o kasikipan sa Internet o sa anumang Website o ang kanyang
+        kumbinasyon, kabilang ang mga aksidente o pinsala sa mga user o anumang mga
+        third party na may kaugnayan sa isang computer, o bilang resulta ng pakikilahok
+        sa o pag-download ng impormasyon na may kaugnayan sa network at / o ang Serbisyo.
+        Sa ilalim ng walang pangyayari ang Flutylove Company o anumang ng mga kaakibat
+        nito, advertising mga ahente, mga tagapagtatag o mga kasosyo sa pamamahagi
+        hindi kalooban mananagot para sa anumang pagkawala o pinsala, kabilang ang
+        personal na pinsala o kamatayan, dahil sa paggamit ng Website o Serbisyo,
+        anumang Nilalaman na nai-post sa Website , o anumang mga pakikipag-ugnayan
+        sa pagitan ng mga gumagamit ng Website, parehong online at offline. Ang Website
+        at mga Serbisyo ay ibinigay sa isang AS IS batayan, at Flutylove hayagang
+        itinatatwa ng anumang warranty o kaangkupan para sa isang partikular na layunin,
+        o kawalan ng paglabag sa karapatang ng sinuman. Flutylove hindi magagarantiya
+        at hindi pangako ng anumang mga tiyak na mga resulta mula sa paggamit ng Website
+        at / o ang Serbisyo.
+      links: 14. LINKS.
+      p_14: a. Flutylove ay hindi mananagot para sa anumang hindi tama o hindi tumpak
+        na impormasyon na nai-post sa Website o ay nauugnay sa ang Serbisyo, ang mga
+        gumagamit ng Website o anumang hardware o software na nauugnay sa aming Serbisyo
+        o ay ginagamit doon. Flutylove ay hindi mananagot para sa pag-uugali, ang
+        parehong online at offline, ng sinumang gumagamit ng Website. Flutylove ay
+        hindi tumagal sa responsibilidad para sa anumang mga error, omissions, interruptions,
+        pagtanggal, pinsala o pagkaantala sa operasyon o pagpapatakbo, mga komunikasyon
+        linya kabiguan, pagnanakaw o pagsira, ang hindi awtorisadong pag-access o
+        pagbabago ng mga linya ng komunikasyon ng gumagamit. Flutylove ay hindi mananagot
+        para sa anumang mga problema o teknikal madepektong paggawa ng anumang network
+        ng telepono o mga linya, computer online na sistema, mga server o provider,
+        computer kagamitan, software, mail o mga manlalaro pagkabigo sa user account,
+        teknikal na problema o kasikipan sa Internet o sa anumang Website o ang kanyang
+        kumbinasyon, kabilang ang mga aksidente o pinsala sa mga user o anumang mga
+        third party na may kaugnayan sa isang computer, o bilang resulta ng pakikilahok
+        sa o pag-download ng impormasyon na may kaugnayan sa network at / o ang Serbisyo.
+        Sa ilalim ng walang pangyayari ang Flutylove Company o anumang ng mga kaakibat
+        nito, advertising mga ahente, mga tagapagtatag o mga kasosyo sa pamamahagi
+        hindi kalooban mananagot para sa anumang pagkawala o pinsala, kabilang ang
+        personal na pinsala o kamatayan, dahil sa paggamit ng Website o Serbisyo,
+        anumang Nilalaman na nai-post sa Website , o anumang mga pakikipag-ugnayan
+        sa pagitan ng mga gumagamit ng Website, parehong online at offline. Ang Website
+        at mga Serbisyo ay ibinigay sa isang AS IS batayan, at Flutylove hayagang
+        itinatatwa ng anumang warranty o kaangkupan para sa isang partikular na layunin,
+        o kawalan ng paglabag sa karapatang ng sinuman. Flutylove hindi magagarantiya
+        at hindi pangako ng anumang mga tiyak na mga resulta mula sa paggamit ng Website
+        at / o ang Serbisyo.
+      limitation_of_responsibility: 15. LIMITASYON NG PANANAGUTAN.
+      p_15: THE WEBSITE AT ANG function KABILANG ANG LAHAT Script, APPLICATIONS, NILALAMAN
+        AT DESIGN NG WEBSITE AY IBINIBIGAY SA AS IS BATAYAN. THE COMPANY IWINAWAKSI
+        ANUMANG WARRANTY NA ANG WEBSITE O ANG MGA GAWAIN MAAARING HINDI angkop o hindi
+        angkop PARA SA ISANG PARTIKULAR NA LAYUNIN SA PAGGAMIT. THE COMPANY HINDI
+        garantiya at hindi pangako TIYAK NA MGA RESULTA MULA SA PAGGAMIT NG WEBSITE
+        AT / O ITS function; Upang maiwasan ang pagkalito, ANG USER DAPAT PANSININ
+        SAFETY PAG-IINGAT WHEN pag-download MULA SA WEBSITE O SA PAMAMAGITAN NG Posted
+        LINKS, AT PAGGAMIT NG ANUMANG FILES, AS WELL AS SOFTWARE. THE COMPANY lubos
+        na inirerekomenda GAMITIN LAMANG LISENSYADO SOFTWARE pati na rin ang ANTIVIRUS
+        SOFTWARE; SA PAGGAMIT NG MGA WEBSITE, ANG USER AYUNAN NA pag-download MULA
+        SITE OR WITH ITS HELP ANUMANG NILALAMAN AT HIS / HER SARILI MONG PANANAGUTAN
+        AT TANGING MANANAGOT PARA SA POSIBLENG MGA RESULTA NG PAGGAMIT NG IMPORMASYON
+        NA ITO, KABILANG ANG ANUMANG PINSALA NA IT MAY MGA SANHI SA COMPUTER USER'S
+        OR SA THIRD PARTY, DATA PAGKAWALA, O ANUMANG IBA PANG PINSALA; SA ANUMANG
+        PAGKAKATAON ANG COMPANY O MGA AHENTE BEAR NO PANANAGUTAN SA USER OR SA ANUMANG
+        THIRD PARTY PARA SA ANUMANG DIREKTA, sinasadya AT UNWILFUL PINSALA, KABILANG
+        ANG PAGKAWALA NG BENEPISYO, OR NAWALANG DATA, PINSALA nagtataglay ng karangalan,
+        karangalan O REPUTASYON NG NEGOSYO, NAGMULA SA ANG PAGGAMIT NG MGA WEBSITE,
+        ANG MGA NILALAMAN O ANUMANG IBA PANG IMPORMASYON SA NA IYO O ANUMANG IBA PANG
+        PERSON NATANGGAP ACCESS SA PAMAMAGITAN NG WEBSITE, KAHIT NA ANG COMPANY binigyan
+        ng babala o ay nagpapabatid POSIBILIDAD NG GANOONG MGA DANYOS.
+      responsibilities_of_the_parties: 16. MGA RESPONSIBILIDAD SA MGA PARTIDO.
+      p_16: Ang Kasunduang ito ay pamamahalaan ng at bibigyang-kahulugan alinsunod
+        sa mga batas ng Russian Federation. Isyu kung saan ay hindi binayaran sa pamamagitan
+        ng Kasunduan ay dapat husay sa alinsunod sa mga batas ng Russian Federation.
+        Sa kaso ng anumang mga hindi pagkakaunawaan o controversies may kaugnayan
+        sa pagpapatupad ng mga Regulations, ang User at ang Company ay ang bawat pagsusumikap
+        upang malutas ang mga ito sa pamamagitan ng negotiations. Sa kaso ng mga hindi
+        pagkakaunawaan ay hindi malutas sa pamamagitan ng negotiations, ang mga hindi
+        pagkakaunawaan ay dapat husay alinsunod sa mga naaangkop na batas ng Russian
+        Federation. Ang Kasunduang ito ay pinaandar sa Russian wika at maaaring ibinigay
+        sa User para sa pagsusuri sa ibang wika. Sa kaso ng mga pagkakaiba sa mga
+        bersyon ng Regulations sa Russian wika at nito bersyon sa ibang wika, ang
+        bersyon sa wikang Russian sa mga probisyon ng regulasyon na ito ay dapat na
+        inilapat. Kung para sa isang kadahilanan o iba pang, isa o higit pang mga
+        probisyon ng mga Regulations ay ipinahayag hindi wasto o voided, ito ay hindi
+        makakaapekto sa bisa o enforceability ng natitirang mga probisyon.
+      other_provisions_and_changes: 17. OTHER TADHANA AT PAGBABAGO.
+      p_17: Ang Kasunduang ito ay ang tunay na kasunduan sa pagitan mo at Flutylove
+        tungkol sa paggamit ng Website at / o ang Serbisyo. Kung ang anumang probisyon
+        ng Kasunduan voids, ang ilang bahagi ng Kasunduan ay nananatiling ang bisa
+        nito sa ganap na epekto. Ang Kasunduang ito ay maaaring susugan ng Flutylove
+        sa anumang oras. Mangyaring huwag mag-atubiling makipag-ugnay sa amin sa anumang
+        mga katanungan tungkol sa Kasunduang ito.
+      read_this: AKO READ THIS KASUNDUAN AT SUMASANG-AYON SA LAHAT NITO TUNTUNIN.
+    about:
+      about_flutylove: Tungkol Flutylove
+      about_flutylove_text: Flutylove ay ang internasyonal na social entertainment
+        network para sa datings. Dito maaari mong mahanap ang mga kaibigan, ang isang
+        soulmate, mga kasosyo o lamang gastusin ang iyong oras sa mga bisita sa pamamagitan
+        ng paglalaro ng mga laro o manood ng mga video / larawan.
+      flutylove_features: 'Kailan nag-sign up sa aming site, maaari mong mahanap ang
+        maraming mga tampok tulad ng:'
+      video_call_feature: Maaari mong makipag-chat sa partner sa webcam
+      extended_search: Maaari mong gamitin ang pinalawig na paghahanap para sa libreng
+      multilanguages: ka maaaring maghanap ng mga kasama mula sa ibang bansa, dahil
+        ang aming service inaasahan na gamitin sa pamamagitan ng malawak na hanay
+        ng mga tao mula sa ibang bansa dahil ito ay isinalin sa higit sa 70 mga wika
+      play_games_chatting_etc: Maaari mong makipag-chat sa ibang mga tao, maglaro
+        ng mga game at gawin ang isa pang panlipunan stuffs
+      we_are_in_social_networks: 'Kami ay nasa mga social network:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Ginagamit namin ang mataas na teknolohiya
+        at open source mga aklatan. Lagi kaming subukan upang makakuha ng mas mahusay
+        at mapabuti ang aming mga serbisyo.
+      partners_and_investors: Kami ay binuksan para sa partnership at nais naming
+        upang mahanap mamumuhunan. Kung nais mong makipagtulungan sa amin mangyaring
+        kontakin kami sa partnership@flutylove.com
+    faq:
+      faq: FAQ
+      what_is_flutylove: Anong Flutylove?
+      about_flutylove: Flutylove ay ang internasyonal na social entertainment network
+        para sa datings. Dito maaari mong mahanap ang mga kaibigan, ang isang soulmate,
+        mga kasosyo o lamang gastusin ang iyong oras sa mga bisita sa pamamagitan
+        ng paglalaro ng mga laro o manood ng mga video / larawan.
+      what_features_has_flutylove: Ano ang mga katangian ay may Flutylove?
+      flutylove_features: Dito maaari mong makipag-chat sa videocams, gamitin extended
+        paghahanap, mga kasosyo sa paghahanap mula sa ibang bansa, i-play mga laro
+        at gumawa ng iba pang mga social stuffs.
+      i_have_some_requests: Mayroon akong ilang mga kahilingan
+      you_can_write_request: Maaari mong mag-sign up at isulat ito
+      here: dito
+      i_have_seen_some_typo_or_wrong_translation: Ko nakita ang ilang typo o maling
+        translation
+      you_can_send_pull_request_to_our: Maaari kang magpadala ng Hilahin Request sa
+        aming
+      github_repository: github repository
+      i_have_seen_some_error: ako ay may nakita ang ilang mga error
+      you_can_send: Maaari kang magpadala sa amin ng feedback sa pamamagitan ng
+      feedback: form na ito
+      to_us_or_write_to_our_info_mail: o sumulat ng email sa support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Maligayang pagdating sa Flutylove
+      you_have_successfully_signed_up_to_flutylove: Ikaw ay matagumpay na naka-sign
+        up upang Flutylove
+      you_can_sign_in_with_your_social_networks: Kung nais mong mag-sign in muli maaari
+        mong mag-sign in gamit ang iyong account sa social network
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Kung
+        nais mong mag-sign in gamit ang email at password na maaari mong baguhin ang
+        password sa pamamagitan ng pag-sign out at mag-click sa link sa ibaba
+      change_password: Baguhin ang password
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: hindi tama
+            search_for:
+              search_for_error: hindi tama
+            birth_date:
+              birth_date_error: kailangan upang maging mas malaki kaysa sa 18 at mas
+                mababa pagkatapos ay 115
+            interests:
+              interests_error: kailangan upang maging mas mababa sa 2000 mga simbolo
+            jobs:
+              jobs_error: kailangan upang maging mas mababa sa 2000 mga simbolo
+            languages:
+              languages_error: kailangan upang maging mas mababa sa 2000 mga simbolo
+            sex_keywords:
+              sex_keywords_error: kailangan upang maging mas mababa sa 2000 mga simbolo
+            my_turn_ons:
+              my_turn_ons_error_error: hindi tama
+            contacts:
+              contacts_length_error: kailangan upang maging mas mababa sa 2000 mga
+                simbolo
+              contacts_size_error: kailangan upang maging mas mababa sa 21 mga contact
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: ay hindi wastong halaga
+  devise:
+    confirmations:
+      confirmed: Ang iyong account ay matagumpay na nakumpirma na.
+      send_instructions: Makakatanggap ka ng isang email na may mga tagubilin tungkol
+        sa kung paano upang kumpirmahin ang iyong account sa loob ng ilang minuto.
+      send_paranoid_instructions: Kung ang iyong email address umiiral sa aming database,
+        makakatanggap ka ng isang email na may mga tagubilin tungkol sa kung paano
+        upang kumpirmahin ang iyong account sa loob ng ilang minuto.
+      new:
+        send_mail_for_confirm_your_email: Magpadala ng mail para kumpirmahin ang iyong
+          email
+        submit: Isumite
+    failure:
+      already_authenticated: Ikaw ay naka-sign in.
+      inactive: Ang iyong account ay hindi pa ginawang aktibo.
+      invalid: Hindi wastong email o password.
+      locked: Ang iyong account ay naka-lock.
+      last_attempt: Mayroon kang isa pang pagtatangka bago ang iyong account ay naka-lock.
+      not_found_in_database: Hindi wastong email o password.
+      timeout: Ang iyong session nag-expire. Mangyaring mag-sign in muli upang magpatuloy.
+      unauthenticated: Kailangan mong mag-sign in o mag-sign up bago magpatuloy.
+      unconfirmed: Ikaw ay magkakaroon upang kumpirmahin ang iyong account bago magpatuloy.
+    mailer:
+      confirmation_instructions:
+        subject: tagubilin Confirmation
+        welcome_to_flutylove: Maligayang pagdating sa Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Maaari mong kumpirmahin
+          ang iyong email sa pamamagitan ng link sa ibaba
+        confirm_my_account: Kumpirmahin ang aking Email
+      reset_password_instructions:
+        hello: Kamusta
+        subject: Reset tagubilin password
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Isang
+          tao ay mga kahilingan ng isang link upang baguhin ang iyong password. Maaari
+          mong gawin ito sa pamamagitan ng link sa ibaba.
+        change_my_password: Baguhin ang aking password
+        if_you_didnt_request_this_please_ignore_this_email: Kung hindi mo hiniling
+          ang mangyaring huwag pansinin ang email na ito.
+      unlock_instructions:
+        subject: Unlock Tagubilin
+    omniauth_callbacks:
+      failure: Hindi ma patotohanan ka mula sa% {uri} dahil "% {dahilan}".
+      success: Matagumpay napatotohanan mula sa% {uri} account.
+    passwords:
+      no_token: Hindi ka maaaring ma-access ang pahinang ito nang walang nagmumula
+        sa isang password reset email. Kapag kayo ay nanggaling mula sa isang password
+        reset email, mangyaring tiyakin na ginamit mo ang buong URL na ibinigay.
+      send_instructions: Makakatanggap ka ng isang email na may mga tagubilin kung
+        paano i-reset ang iyong password sa loob ng ilang minuto.
+      send_paranoid_instructions: Kung ang iyong email address umiiral sa aming database,
+        makakatanggap ka ng isang password link pagbawi sa iyong email address sa
+        loob ng ilang minuto.
+      updated: Ang iyong password ay binago matagumpay. Ikaw ngayon ay naka-sign in.
+      updated_not_active: Ang iyong password ay binago matagumpay.
+      new:
+        forgot_your_password: Ibalik muli ang iyong password
+        reset_password: Send mabawi url
+      edit:
+        change_your_password: Baguhin ang iyong password
+        new_password: New password
+        confirm_password: Kumpirmahin password
+        change_password: Baguhin
+    registrations:
+      destroyed: Bye! Ang iyong account ay matagumpay na kinansela. Umaasa kaming
+        makita ka sa lalong madaling panahon.
+      signed_up: Maligayang pagdating! Nag-sign up matagumpay.
+      signed_up_but_inactive: Nag-sign up matagumpay. Gayunpaman, hindi namin maaaring
+        mag-sign sa iyo sa dahil ang iyong account ay hindi pa ginawang aktibo.
+      signed_up_but_locked: Nag-sign up matagumpay. Gayunpaman, hindi namin maaaring
+        mag-sign sa iyo sa dahil ang iyong account ay naka-lock.
+      signed_up_but_unconfirmed: A message na may link ng pagkumpirma ay naipadala
+        na sa iyong e-mail address. Mangyaring buksan ang link upang i-activate ang
+        iyong account.
+      update_needs_confirmation: update mo ang iyong account ay matagumpay na, ngunit
+        kailangan naming i-verify ang iyong bagong email address. Mangyaring suriin
+        ang iyong email at i-click ang link kumpirmahin upang i-finalize kinukumpirma
+        ang iyong bagong email address.
+      updated: update mo ang iyong account ay matagumpay na.
+      new:
+        sign_up: Mag-sign up
+        name: Pangalan
+        password: Password
+        register: Mag-sign up
+    shared:
+      links:
+        sign_in: Mag-sign in
+        sign_up: Mag-sign up
+        didnt_receive_confirmation_instructions: Hindi natanggap tagubilin confirmation?
+        sign_in_with: Mag-sign in sa
+        fast_login_almost_one_click: Mabilis login (Halos isang click)
+    sessions:
+      signed_in: Naka-sign in matagumpay.
+      signed_out: Signed out matagumpay.
+      new:
+        sign_in: Mag-sign in
+        password: Password
+        remember_me: Tandaan ako
+        forgot_your_password: Nakalimutan ang Mag-
+    unlocks:
+      send_instructions: Makakatanggap ka ng isang email na may mga tagubilin tungkol
+        sa kung paano upang i-unlock ang iyong account sa loob ng ilang minuto.
+      send_paranoid_instructions: Kung umiiral ang iyong account, makakatanggap ka
+        ng isang email na may mga tagubilin tungkol sa kung paano i-unlock ito sa
+        loob ng ilang minuto.
+      unlocked: Ang iyong account ay matagumpay na-unlock. Mangyaring mag-sign in
+        upang magpatuloy.
+  timezones:
+    American Samoa: American Samoa
+    International Date Line West: International Date Line West
+    Midway Island: Midway Island
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Pacific Time (US at Canada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain Time (US at Canada)
+    Central America: Central America
+    Central Time (US & Canada): Central Time (US at Canada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Eastern Time (US at Canada)
+    Indiana (East): Indiana (East)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlantic Time (Canada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Greenland
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Azores
+    Cape Verde Is: Cape Verde Ay.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lisbon
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrade
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Brussels
+    Budapest: Budapest
+    Copenhagen: Copenhagen
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Prague
+    Rome: Rome
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Vienna
+    Warsaw: Warsaw
+    West Central Africa: West Central Africa
+    Zagreb: Zagreb
+    Athens: Athens
+    Bucharest: Bucharest
+    Cairo: Cairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kaliningrad
+    Kyiv: Kyiv
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Baghdad
+    Kuwait: Kuwait
+    Minsk: Minsk
+    Moscow: Moscow
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: St. Petersburg
+    Volgograd: Volgograd
+    Tehran: Tehran
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Yerevan
+    Kabul: Kabul
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Beijing
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapore
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: New Caledonia
+    Solomon Is: Solomon Is.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fiji
+    Kamchatka: Kamchatka
+    Marshall Is: Marshall Ay.
+    Wellington: Wellington
+    Chatham Is: Chatham Ay.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau Ay.
+  tl: tl
+  tl_iso: tl

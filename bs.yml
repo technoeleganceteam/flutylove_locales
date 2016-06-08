@@ -1,0 +1,1715 @@
+---
+bs:
+  1_we_have_just_launched_our_service_title: Upravo smo pokrenuli naš servis!
+  common_keywords: datings, online datings, ljubavi datings, webcam dating, speed
+    dating, webcam chat dating, Ruby on Rails dating site, višejezičnu sajt za upoznavanje
+  common_description: Najnapredniji međunarodne društvene zabave mreže za datings
+    "Flutylove"
+  default_album: Uobičajeno album
+  user: korisnika
+  user_to_search_connection: Search
+  video: Video
+  note: Note
+  photo_album: Foto album
+  from: Od
+  to: Da
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Yahoo
+  gender:
+  - male:
+      name: Male
+  - female:
+      name: Female
+  - transgender:
+      name: Transgender
+  - male-female:
+      name: muško-ženski
+  - double-female:
+      name: Double ženski
+  - double-male:
+      name: Double muško
+  orientation:
+  - heterosexual: Heteroseksualac
+  - homosexual: Homoseksualni
+  - bisexual: biseksualni
+  search_for:
+  - chatting: Chatting
+  - get_friends: Get prijatelji
+  - flirtation: Udvaranje
+  - marriage: Brak
+  - other: Ostalo
+  body_type:
+    slim: Slim
+    normal: Normalno
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Single
+    in_a_relationship: U vezi
+    married: braku
+    nothing_serious: izlazimo
+  children:
+    dont_have: Ne imati
+    dont_have_and_dont_want_to: Nemam i ne želim da
+    don_t_have_but_planning: Ne moraju, ali planiranje
+    have_enough: Have
+    have_and_planning_more: Have i planiranje više
+    unable_to_have_children: U nemogućnosti da imaju djecu
+  living:
+    with_parents: Sa roditeljima
+    with_marriage_partner: Sa bračnog partnera
+    alone: Alone
+    with_friends: Sa prijateljem (e)
+  education:
+    nothing: Nothing
+    secondary_school: Srednja škola
+    college_technical_college: College / Technical College
+    university: University
+    postgraduate: Postdiplomski
+    phd_md_post_doctorate: dr / MD / Post doktorat
+  hair_color:
+    blonde: Plava
+    dark_blond: Dunkelblond
+    brown: Brown
+    black: Black
+    red: Red
+    gray: Gray
+    other: Ostalo
+  income:
+    unemployed: Nezaposleni
+    unstable_earnings: Nestabilno zarada
+    small_stable_earnings: Mali stabilne zarade
+    medium_stable_earnings: Srednji stabilne zarade
+    higher_than_average_income: više od prosjeka primanja
+    high_income: Veliki prihod
+  smoking:
+    not_smoke: ne pušim
+    not_smoke_and_detest: ne pušim i prezirati pušenje
+    smoke_in_a_social_setting: Ponekad u društvenom postavke
+    smoke_occasionally: Smoke povremeno
+    smoke_often: Smoke često
+  alcohol:
+    not_drinking: ne pijem
+    drink_occalionally: Drink povremeno
+    drink_in_a_social_setting: piće u društvenom postavke
+    drink_often: Drink često
+  drugs:
+    dont_use: Ne koristite
+    contra_drugs: Contra droge
+    tried_out_some: isprobali neke
+    light_drugs_occasionally: Light droge povremeno
+    regular: Redovna
+  sponsor:
+    i_want_to_find_a_sponsor: Želim pronaći sponzora
+    willing_to_become_a_sponsor: Voljan postati sponzor
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Ne tražim sponzora i
+      ne žele da postane jedan
+  category_name:
+    strategy: Strategija
+    rpg: RPG
+    3d_shooters: 3D strijelaca
+    racing: Racing
+    arcade: Arcade
+    economic: Ekonomski
+    simulators: Simulatori
+    logic: Logic
+    adventure: Adventure
+    board_games: Društvene igre
+    gambling: kockanje
+    news: News
+    communication: Komunikacija
+    multimedia: Multimedija
+    drawing: crtanje
+    educational: Educational
+    e_commerce: E-Commerce
+    other: Ostalo
+  shared:
+    header:
+      people: Ljudi
+      chat: Chat
+      groups: Grupe
+      forum: Forum
+      requests: Zahtjevi
+      about: O projektu
+      help: Pomoć
+      user_applications: Aplikacije
+    liked_users:
+      liked: Liked
+      all: Sve
+      you_have_not_liked_any_users_yet: Nisi se dopao nikakve korisnicima još
+    most_liked_users:
+      most_liked_users: Online korisnika
+    installed_user_applications:
+      installed_applications: Instalirane aplikacije
+      all: Sve
+      you_have_not_installed_any_apps_yet: Vi niste instalirali nikakve aplikacije
+        još
+    user_applications:
+      uploaded_apps: Uploaded aplikacije
+      all: Sve
+      you_have_not_uploaded_any_apps_yet: Nisi dodao još nikakve aplikacije
+    right_sidebar:
+      news: News
+      all: Sve
+      read_more: Opširnije
+    footer:
+      footer_text: Međunarodni društvene zabave mreža za datings "Flutylove"
+      privacy: privatnosti
+      terms: Uvjeti
+      feedback: Feedback
+      abuse: Abuse
+    languages_select_modal:
+      available_languages: Dostupni jezici
+    site_map_modal:
+      faq: FAQ
+      about: O
+      static_pages: Statički stranice
+      common_pages: Common stranice
+      user_pages: korisnika stranice
+      terms: Uvjeti
+      privacy: privatnosti
+      people: Ljudi
+      user_applications: Aplikacije
+      user_requests: Zahtjevi
+      news: News
+      feedback: Feedback
+      abuse: Abuse
+      chats: Chats
+      videos: Video
+      photo_albums: Foto albumi
+      notes: Notes
+    pagination_link:
+      next_page: Slijedeća stranica
+    user_edit_menu:
+      content: sadržaj
+      profile: profilu
+      site_settings: postavke stranice
+      privacy: privatnosti
+      services: usluge
+    activities_navigation:
+      all: Sve
+      photos: Fotografije
+      photo_albums: Foto albumi
+      notes: Notes
+      videos: Video
+    notifications_navigation:
+      all: Sve
+      likes: Likes
+      friend_requests: Friend zahtjeva
+      profile_views: Pregledi profila
+      photo_album_views: Fotografije views
+    user_to_friend_connections_navigation:
+      friends: Prijatelji
+      friends_online: Prijatelji online
+      outcome_requests: Ishod zahtjeva
+      income_requests: prihod zahtjeva
+    user_applications_navigation:
+      all: Sve
+      new: New
+      popular: Online
+      often_installed: Često instaliran
+      manage: Upravljanje
+    user_requests_navigation:
+      all: Sve
+      popular: Online
+      my_requests: Moji zahtjevi
+    user_navbar_menu:
+      sign_in: Prijava
+      sign_up: Prijavi se
+    email_signature:
+      info: Info
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: Select pol
+      select_orientation: Izbor orijentacije
+      select_search_for: Izaberite pretrage za
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Morate se prijaviti prije nego što ove akcije
+      available_sign_in_methods: Ti
+    sign_up_methods:
+      usual_register_link: uobičajeno registracija
+      register_text: Osim% {usual_registration} možete registrirati preko najpopularnijih
+        servisa i društvene mreže
+    bootstrap_gallery:
+      previous: Prethodna
+      next: Sljedeća
+    user_notification_title:
+      you_liked: Ti vole
+      wrote_message_to_you: napisao poruku da ti
+      viewed_your_profile: Gledano svoj profil
+      liked_your_photo: Liked fotografiju
+      liked_your_note: svidela komentar
+      liked_your_request: Liked upit
+      liked_your_video: Liked video
+      liked_your_application: Liked vaše aplikacije
+      requested_a_friendship: Traženi prijateljstvo
+  authentications:
+    authentication:
+      turn_on: Uključite
+      turn_off: Isključite
+      turned_on: Uključen
+      turned_off: Isključen
+    index:
+      enabled_services: Omogućeno usluge
+  users:
+    profile:
+      submit: Save
+      name: Ime
+      meet_with: Meet sa
+      gender: Pol
+      type_in_your_location: Tip u vašem gradu
+      about_me: Neki činjenica o vama (pored formu ispod)
+      sex_keywords: Interesi u seksu
+      enter_your_name: Unesite svoje ime
+      more_options: Više
+      orientation: Orijentacija
+      location: Lokacija
+      search_for: Traži
+      intimacy: Intimacy
+      in_age: U dobi
+      from: iz
+      to: da
+      interests: Interesi
+      height: Visina
+      weight: Težina
+      hair_color: Boja kose
+      relationship: Veze
+      children: Djeca
+      living: Living
+      education: edukacija
+      jobs: Posao
+      income: prihod
+      languages: Jezici
+      smoking: Pušenje
+      alcohol: Alkohol
+      drugs: droge
+      contacts: Kontakti
+      contact_name: Kontakt ime
+      contact_value: Kontakt vrijednost
+      save: Save
+      about_yourself: O sebe
+    settings:
+      submit: Save
+      locale: Jezik interfejsa
+      change_password: Promjena lozinke
+      interface_language: Jezik interfejsa
+      time_zone: Time zone
+    dialog_modal:
+      send_message: Pošalji poruku
+    index:
+      users: Korisnici
+      clear_search: Clear pretraživanje
+    dashboard:
+      hello: Hello
+      here_some_of_your_statistics: Evo nekih od vaših statistika
+      chats: Chats
+      messages: Poruke
+      photos: Fotografije
+      videos: Video
+      notes: Notes
+      photo_albums: Foto albumi
+    avatar:
+      photo: Foto
+      uploading_file: Otpremanje datoteke
+      handling_file: Rukovanje datoteku
+      drag_and_drop_your_file: Povucite i ispustite datoteku
+      here: ovdje
+      or: ili
+      upload_file: upload datoteka
+      from_other_sites: Od drugim sajtovima
+      write_down_link_for_your_image: Zapišite link na sliku
+      url_for_image: Url za sliku
+      upload: Upload
+      from_facebook: sa Facebook
+      turn_on_facebook: Uključite Facebook
+      you_can_upload_your_photos_from_facebook: možete uploadati svoje fotografije
+        sa Facebooka
+      from_vkontakte: Od Vkontakte
+      you_can_upload_your_photos_from_vkontakte: možete uploadati svoje fotografije
+        iz Vkontakte
+      turn_on_vkontakte: Uključite Vkontakte
+      from_instagram: Od Instagram
+      you_can_upload_your_photos_from_instagram: možete uploadati svoje fotografije
+        iz Instagram
+      turn_on_instagram: Uključite Instagram
+      from_dropbox: Od Dropbox
+      you_can_upload_your_photos_from_dropbox: možete uploadati svoje fotografije
+        iz Dropbox
+      turn_on_dropbox: Uključite Dropbox
+      edit_photo: Uredi fotografija
+      delete_photo: Brisanje fotografija
+      are_you_sure: Jeste li sigurni?
+    available_photos_modal:
+      available_photos: raspoloživih slika
+    update:
+      your_password_was_successfully_changed: Vaša lozinka je uspješno promijenjen
+      your_profile_was_successfully_updated: Vaš profil je uspješno ažurirana
+    edit_photo:
+      edit_photo: Uredi fotografija
+      crop: Crop
+      close: Close
+      save_changes: Save promjene
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: O meni
+      orientation: Orijentacija
+      meet_with: Meet sa
+      desirable_age: Poželjna starost
+      from: iz
+      to: da
+      interests: Interesi
+      height: Visina
+      sm: SM
+      kg: kg
+      hair_color: Boja kose
+      relationship: Veze
+      children: Djeca
+      living: Living
+      education: edukacija
+      jobs: Jobs
+      income: prihod
+      languages: Jezici
+      smoking: Pušenje
+      alcohol: Alkohol
+      drugs: droge
+      contacts: Kontakti
+    user_info:
+      offline: Offline
+      online: Online
+      age: Godine
+    loading_modal_images:
+      loading_images: Loading images
+    password_form:
+      new_password: Nova lozinka
+      confirm_new_password: Potvrdi novu lozinku
+      old_password: Stara lozinka
+      change_password: Promjena lozinke
+    show:
+      photos: Fotografije
+      all: Sve
+      videos: Video
+      notes: Notes
+      view: Pogledaj
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: Paste primili ključ
+      submit: Podnijeti
+    contents:
+      users_which_i_like: Korisnici koji mi se sviđa
+      all: Sve
+      my_videos_likes: Moji video zapisi sviđa
+      my_photos_likes: Moje fotografije sviđa
+      my_notes_likes: Moje bilješke sviđa
+      my_user_applications_likes: Moje aplikacije za sviđa
+      my_user_requests_likes: Moja zahtjeva sviđa
+    more_profile_info:
+      photo_albums: Foto albumi
+      view_all_photo_albums: Pogledaj sve foto albuma
+      create_more: Napravite više
+      videos: Video
+      view_all_videos: Pogledaj sve video zapise
+      notes: Notes
+      view_all_notes: Pogledaj sve bilješke
+      requirements_lists_to_partner: Zahtjevi navodi na partnerstvo
+      requirement: Uslov
+      view_all_requirements_lists: Pogledaj navodi sve zahtjeve
+      profile_verification: Profil verifikaciju
+      your_profile_is_successfully_verified: Vaš profil je uspješno potvrđen
+      create: Kreirajte
+      you_have_not_any_requirements_lists_yet: Ti nemam zahtjeve prikazu lista još
+      you_have_not_any_notes_yet: Imate još nije bilo bilješke
+      you_have_not_any_photo_albums_yet: Imate još nije bilo foto-albuma
+      you_have_not_any_videos_yet: Imate još nije bilo video
+      your_profile_is_not_verified_yet: Vaš profil još nije potvrđen
+      verify_through_twitter: Provjerite preko Twittera
+      verify_through_facebook: Provjerite preko Facebook
+      verify_through_mail_ru: Provjerite kroz Mail.ru
+    privacy:
+      privacy: privatnosti
+  searches:
+    form:
+      location: Lokacija
+      from: iz
+      to: da
+      age: Godine
+      gender: Pol
+    form_content:
+      city: City
+      gender: Pol
+      age_from: Dob od
+      to: da
+      online: Online
+      verified: Verified
+      has_avatar: Ima avatar
+      region: Regija
+      more: Više
+      country: Država
+      about_me: O meni
+      interests: Interesi
+      languages: Jezici
+      names: imena
+      height: Visina
+      from: iz
+      weight: Težina
+      relationship: Veze
+      hair_color: Boja kose
+      education: edukacija
+      orientation: Orijentacija
+      search_for: Traži
+      children: Djeca
+      living: Living
+      smoking: Pušenje
+      alcohol: Alkohol
+      drugs: droge
+      income: prihod
+    show:
+      users: Korisnici
+      clear_search: Clear pretraživanje
+  welcome:
+    index:
+      people: Ljudi
+      requests: Zahtjevi
+      user_applications: Aplikacije
+      about: O
+      features: Značajke
+      registration: Registracija
+      sign_in: Prijava
+      welcome_main_title: Dobrodošli na Flutylove!
+      welcome_main_text: Ovo je mjesto gdje možete pronaći savršen ljubav
+      find_more: Pronađite više
+      about_title: Flutylove je međunarodna mreža socijalne zabavu za datings
+      about_text: Postoje mnoge funkcije koje možete koristiti za zabavu i datings!
+      find_more_features: Nađi više funkcija
+      at_our_service: Značajke naših usluga
+      many_languages: mnogo jezika
+      text_about_many_languages: Naša usluga je prevedena više od 70 jezika
+      check_it_out: Check it out
+      videochats: Videochats
+      text_about_videochats: možete razgovarati sa svojim partnerom s videocams
+      try_it_now: Probajte sada
+      search: Search
+      text_about_search: Možete pretraživati ​​sa više parametara i to je besplatno!
+      watch_this: Pazi ovo
+      more_features: Dodatne funkcije
+      text_about_more_features: Možete gledati video, igrati igre i mnoge druge stvari!
+      register_and_learn_more: Registracija i saznajte više
+      install_our_apps: Instalirajte aplikacije na popularnim platformama
+      register_header: Registracija
+  feedbacks:
+    new:
+      feedback_title: Feedback
+    form:
+      feedback_name: Vaše ime
+      feedback_email: Vaš e-mail
+      feedback_content: Feedback sadržaj
+      close: Close
+      send: Pošalji
+      feedback_recaptcha: reCAPTCHA
+      cancel: Odustani
+    success:
+      success_feedback: Hvala! Mi smo primili na povratnim informacijama.
+      close: Close
+      cancel: Odustani
+      more: Pošalji više
+  abuses:
+    new:
+      abuse_title: Abuse
+    form:
+      abuse_name: Vaše ime
+      abuse_email: Vaš e-mail
+      abuse_content: Abuse sadržaj
+      abuse_title: Abuse
+      close: Close
+      send: Pošalji
+      abuse_recaptcha: reCAPTCHA
+      abuse_link: Link
+      cancel: Odustani
+    success:
+      success_abuse: Hvala! Mi smo primili tvoje zlostavljanje.
+      close: Close
+      cancel: Odustani
+      more: Pošalji više
+  layouts:
+    welcome:
+      welcome_title: Dobrodošli na Flutylove! Najnapredniji sajt za upoznavanje.
+  recaptcha:
+    errors:
+      verification_failed: Failed reCAPTCHA
+      recaptcha_unreachable: reCAPTCHA je nedostupan
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Upravo smo pokrenuli naš servis!
+      we_have_just_launched_our_service_text: Danas smo pokrenuli našu uslugu da svi
+        mogu
+      sign_up: prijavite
+      and_use_it: i koristiti ga.
+      wishes_and_requests: Ako imate bilo kakve želje ili zahtjeve, možete se prijaviti
+        i napisao
+      here: ovdje
+      with_love: S ljubavlju,
+      flutylove_team: Flutylove Team
+    index:
+      all_news: Sve vijesti
+      read_more: Opširnije
+  chats:
+    panel_head:
+      online: Online
+      offline: Offline
+    pagination_link:
+      next_page: Slijedeća stranica
+    form_additions:
+      submit: Podnijeti
+      videochat: videochat
+    show:
+      messages: Poruke
+    index:
+      messages: Poruke
+    videochat_request_link:
+      connect_to_videochat: Povezivanje na videochat
+    modal_form:
+      send_message: Pošalji poruku
+      recipient: Primalac
+      message: Poruka
+      close: Close
+      submit: Podnijeti
+    waiting_video_answer_button:
+      waiting_for_response: čeka odgovor ...
+    chat_created:
+      send_message: Pošalji poruku
+      message_was_sent: Poruka je poslana
+      close: Close
+  messages:
+    pagination_link:
+      next_page: Slijedeća stranica
+  notifications:
+    user_to_friend_connection:
+      action: Akcija
+    notification:
+      offline: Offline
+      online: Online
+    like:
+      action: Akcija
+    photo_album_view:
+      action: Akcija
+    user_view:
+      action: Akcija
+  user_applications:
+    user_application:
+      who_uploaded: Dodao
+      all_uploaded_applications_by: Sve dodane aplikacije
+    form:
+      name: Ime
+      user_application_name: Ime aplikacije
+      description: Opis
+      description_text: tekstualni opis
+      iframe_url: Iframe url
+      upload_icon: Download icon
+      public: javnosti?
+      category_name: Kategorija
+      create: Kreirajte
+      edit: Uredi
+    show:
+      application: aplikacije
+      return_to_uploaded_applications: To upload aplikacije
+      edit_application: Edit aplikacije
+      return_to_all_applications: Povratak na sve aplikacije
+    manage:
+      installed_applications: Instalirane aplikacije
+      uploaded_applications: Uploaded aplikacije
+      all: Sve
+    index:
+      applications_uploaded_by: Aplikacije koje je dodao
+      return_to_all_applications: Povratak na sve aplikacije
+      create_new: Kreiraj novu
+      return_to_manage_applications: Povratak na upravljanje aplikacijama
+    installed:
+      installed_applications: Instalirane aplikacije
+      return_to_all_applications: Povratak na sve aplikacije
+      return_to_manage_applications: Povratak na upravljanje aplikacijama
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Prije prikaz ove aplikacije
+        potrebno je da se prijavite u prvom
+    need_to_install:
+      need_to_install_first: Morate prvo instalirati ovu aplikaciju
+      install_application: Instalacija aplikacije
+  likes:
+    index:
+      liked_items: Liked stavke
+      return_to_my_content: Povratak na sadržaj
+  videos:
+    index:
+      videos: Video
+      return_to_edit_profile: na profil uređivanje
+      create_new: Kreiraj novu
+      return_to_profile: Povratak na profil
+    video:
+      edit: Uredi
+      are_you_sure: Jeste li sigurni?
+      delete: Delete
+    modal_form:
+      create_new_video: Kreirajte novi video
+      close: Close
+      create: Kreirajte
+    form_content:
+      name: Ime
+      video_name: Video ime
+      source: URL Embed Code
+      video_url_or_embed_code: Video URL video Embed Code
+    show:
+      video: Video
+      return_to_all_videos: Povratak na sve video zapise
+      edit_video: Uredi video
+    edit:
+      edit_video: Uredi video
+      return_to_view_video: Povratak na pregled video
+      view_video: Pogledajte video
+    form:
+      edit: Uredi
+  photo_albums:
+    index:
+      photo_albums: Foto albumi
+      return_to_editing_profile: na profil uređivanje
+      create_new: Kreiraj novu
+      return_to_profile: Povratak na profil
+    photo_album:
+      edit: Uredi
+      create: Kreirajte
+      are_you_sure: Jeste li sigurni?
+      delete: Delete
+    edit:
+      edit_photo_album: Uredi foto album
+      return_to_photo_albums: To fotografija albuma
+      view_photo_album: Pogledaj foto album
+    form_content:
+      name: Ime
+      photo_album_name: Foto album naziva
+    form:
+      edit: Uredi
+      create: Kreirajte
+    photo_album_uploader:
+      drag_and_drop_your_file: Povucite i ispustite datoteku
+      here: ovdje
+      or: ili
+      upload_file: upload datoteka
+      from_other_sites: Od drugim sajtovima
+      write_down_link_for_your_image: Zapišite link na sliku
+      url_for_image: Url za sliku
+      upload: Upload
+      from_facebook: sa Facebook
+      turn_on_facebook: Uključite Facebook
+      you_can_upload_your_photos_from_facebook: možete uploadati svoje fotografije
+        sa Facebooka
+      from_vkontakte: Od Vkontakte
+      you_can_upload_your_photos_from_vkontakte: možete uploadati svoje fotografije
+        iz Vkontakte
+      turn_on_vkontakte: Uključite Vkontakte
+      from_instagram: Od Instagram
+      you_can_upload_your_photos_from_instagram: možete uploadati svoje fotografije
+        iz Instagram
+      turn_on_instagram: Uključite Instagram
+      from_dropbox: Od Dropbox
+      you_can_upload_your_photos_from_dropbox: možete uploadati svoje fotografije
+        iz Dropbox
+      turn_on_dropbox: Uključite Dropbox
+    show:
+      photo_album: Foto album
+      return_to_photo_albums: To fotografija albuma
+      edit_photo_album: Uredi foto album
+    modal_form:
+      create_new_photo_album: Kreirajte novi foto album
+      close: Close
+      create: Kreirajte
+  user_requests:
+    form:
+      content: sadržaj
+      edit: Uredi
+      create: Kreirajte
+  notes:
+    index:
+      notes: Notes
+      return_to_edit_profile: na profil uređivanje
+      create_new: Kreiraj novu
+      return_to_profile: Povratak na profil
+    note:
+      edit: Uredi
+      are_you_sure: Jeste li sigurni?
+      delete: Delete
+    show:
+      note: Note
+      return_to_notes: Povratak na bilješke
+      edit_note: Uredi komentar
+    form_content:
+      content: sadržaj
+      note_content: Napomena sadržaj
+      edit: Uredi
+      create: Kreirajte
+    edit:
+      edit_note: Uredi komentar
+      return_to_notes: Povratak na bilješke
+      view_note: Pogledaj komentar
+  user_to_search_connections:
+    index:
+      requirements_lists: liste Zahtjevi
+      return_to_editing_profile: na profil uređivanje
+      create_new: Kreiraj novu
+    user_to_search_connection:
+      edit: Uredi
+      are_you_sure: Jeste li sigurni?
+      delete: Delete
+    edit:
+      edit_requirements_list: Uredi liste zahtjeva
+      return_to_requirements_lists: spiskovima zahtjevima
+    form_content:
+      name: Ime
+      name_of_your_requirements_list: Ime listu zahtjeva
+    form:
+      edit: Uredi
+    show:
+      return_to_requirements_lists: spiskovima zahtjevima
+  photos:
+    index:
+      photos: Fotografije
+      return_to_photo_albums: Povratak na foto albume
+      return_to_profile: Na profil
+  errors:
+    messages:
+      already_confirmed: je već potvrđen, pokušajte potpisivanje u
+      confirmation_period_expired: treba potvrditi u roku od% {periodu}, zatražite
+        novu
+      expired: je istekao, molimo zatražite novu
+      not_found: nije pronađen
+      not_locked: nije bila zaključana
+      not_saved:
+        one: '1 greška zabranjeno ovom% {resurs} od snimaju:'
+        other: "% {count} grešaka zabranjeno ovom% {resurs} od snimaju:"
+    bad_request:
+      bad_request: Bad Request
+      request_result: Upit rezultat
+      bad_request_description: Server ne može ili neće obraditi zahtjev zbog očigledne
+        greške klijent
+      go_to_root: Idi na korijen
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable entitetskih
+      request_result: Upit rezultat
+      unprocessable_entity_description: Zahtjev je dobro formiran, ali nije bio u
+        mogućnosti da se pratiti zbog semantičke greške
+      go_to_root: Idi na korijen
+    not_found:
+      not_found: Not Found
+      request_result: Upit rezultat
+      not_found_description: Traženi resurs nije mogao biti pronađen, ali mogu biti
+        dostupni u budućnosti
+      go_to_root: Idi na korijen
+    forbidden:
+      forbidden: Forbidden
+      request_result: Upit rezultat
+      forbidden_description: je zahtjev valjan zahtjev, ali server odbija odgovoriti
+        na to
+      go_to_root: Idi na korijen
+    internal_server_error:
+      internal_server_error: Internal Server Error
+      request_result: Upit rezultat
+      internal_server_error_description: Nešto je krenulo po zlu. Mi ćemo to popraviti
+        u najkraćem mogućem roku.
+      go_to_root: Idi na korijen
+  pages:
+    privacy:
+      privacy: Flutylove Politika privatnosti
+      general_provisions: Opšte odredbe
+      p_1_1: 1.1. Ovi propisi su službeni dokument sa ograničenom odgovornošću "Technoelegance",
+        nalazi se na 101000, Moskva, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1 (u daljnjem tekstu Flutylove, Društvo, mi), i odrediti procedure obrade
+        podataka i informacija sigurnost pojedinaca koji je navršio 18 godina, a koji
+        koriste web stranice https://flutylove.com (u daljnjem tekstu Web) i svoje
+        usluge (u daljnjem tekstu korisnici).
+      p_1_2: 1.2. Svrha ovog pravilnika je osigurati zbog zaštite podataka korisnika,
+        uključujući i lične podatke, od neovlaštenog pristupa i otkrivanja.
+      p_1_3: 1.3. Odnosi u vezi sa prikupljanjem, skladištenje, distribuciju i sigurnost
+        informacija Website korisnika upravljaju ovim Pravilnikom, drugim službenim
+        dokumentima Društva i važećim zakonima Ruske Federacije.
+      p_1_4: 1.4. Sadašnja verzija propisa, koji su javni dokument, dostupan je za
+        svaki korisnik interneta kada sljedeći link http://flutylove.com/pages/privacy.
+        Društvo ima pravo izmjene ovog pravilnika. U slučaju promjene su napravljene
+        na propisima, Društvo će obavijestiti korisnike postavljanjem nove verzije
+        Pravilnika o web sajtu, na stalnu adresu http://flutylove.com/pages/privacy,
+        najkasnije u roku od 10 dana prije stupanja na snagu datum promjene. Prethodne
+        verzije Pravilnika čuvaju se u arhivi dokumentaciji Društva.
+      p_1_5: 1.5. Ovi propisi su razvijeni i koriste se u skladu sa Sporazumom o korisniku.
+        U slučaju bilo kakvih suprotnosti između ovih propisa i drugih službenih dokumenata
+        Društva, ovi propisi moraju biti izvršena.
+      p_1_6: 1.6. Korištenjem web stranica, vi se slažete sa uslovima i odredbama
+        ove Politike privatnosti. Pažljivo ih pročitajte. Ako se ne slažete sa uslovima
+        ove Politike privatnosti, ili niste napunili 18 godina, možda ne koristite
+        stranice i njene usluge. Korištenjem web stranica, bez obzira na to da li
+        ste registrirani korisnik Flutylove ili ne, potvrđujete da ste u potpunosti
+        prihvatiti ovu Politiku privatnosti i slažem se da ga prate.
+      the_website_using_conditions: Sajt koristeći uslovi
+      p_2_1: '2.1. Da biste koristili Web Flutylove, potrebno je da se registrujete.
+        Sljedeće informacije treba navesti prilikom registracije: ime, e-mail adresu,
+        spol, datum rođenja, informacije o lokaciji. Korisnik može pružiti dodatne
+        osobne podatke na njegovom / njenom želji. Korisnik može uređivati ​​ili ažurirati
+        osobne podatke u bilo koje vrijeme. Društvo ima pravo da zatraži dodatnu prateću
+        dokumentaciju u slučaju promjene spola i datum rođenja korisnika.'
+      p_2_2: '2.2. Dozvoljavajući pristup Web i svojih usluga, Društvo, djelujući
+        na razuman način iu dobroj vjeri, smatra da je Korisnik: shvati da za upis
+        na Web stranice potrebno je da se više od 18 godina; ima sve potrebne prava
+        kako bi mogli da se registrujete na ovom sajtu i koristiti ga; ukazuje tačne
+        informacije o sebi / sebi u skladu sa zahtjevima za korištenje usluge internet
+        prezentacije; je svjestan da osobne podatke na sajtu, pod uvjetom od strane
+        korisnika, mogu postati dostupni za druge korisnike Web i internet korisnika,
+        kao i, se mogu kopirati i distribuira drugim korisnicima; je svjestan da neke
+        vrste informacija, prenosi na druge korisnike, ne mogu biti uklonjene od strane
+        korisnika; je upoznat s ovim Pravilnikom, slaže se s njima i preuzima navedene
+        prava i obaveze.'
+      p_2_3: 2.3. Društvo ne provjeriti točnost primljenih (okupio) informacije o
+        korisnicima, osim slučajeva kada je to neophodno verifikaciju u cilju ispunjavanja
+        obaveza Društva za korisnika.
+      information_processing_objectives: obradu informacija ciljeva
+      p_3_1: 3.1. Kompanija obavlja obradu informacija o korisnicima, uključujući
+        i svoje lične podatke, u cilju ispunjavanja obaveza Društva za korisnike za
+        korištenje web stranice i svoje usluge.
+      p_3_2: 3.2 Društvo ima pravo da vrši obradu ličnih podataka, bez obavještavanja
+        nadležnog organa za zaštitu prava subjekata ličnih podataka.
+      structure_of_the_user_information: Struktura informacija korisnika
+      p_4_1: '4.1. Osobni podaci korisnika uključuje:'
+      p_4_1_1: 4.1.1. ime, e-mail adresu, spol, datum rođenja, informacije o lokaciji,
+        i broj telefona, koji su od strane korisnika i trebalo da bude dovoljno za
+        registraciju na web stranici;
+      p_4_1_2: 4.1.2. informacije koje se pruža korisnika (na primjer slike, informacije
+        o pogubne navike, itd);
+      p_4_1_3: 4.1.3. dodatno pruža korisnika u skladu sa zahtjevom kompanije u cilju
+        ispunjavanja obaveza Društva za korisnike, koji se pojavljuju iz sporazuma
+        korisnika. Društvo ima pravo, posebno, da od korisnika zatraži kopiju identifikacionog
+        dokumenta ili bilo kojeg drugog dokumenta koji sadrži ime, pol i datum rođenja,
+        kao i druge dodatne informacije koje, po nahođenju Društva, bit će potrebno
+        i dovoljan za identifikaciju takvih korisnika i eliminisati zloupotrebe i
+        kršenja prava trećih lica.
+      p_4_2: '4.2. Ostali korisnika obradu podataka od strane Društva Web administracija
+        također obrađuje druge informacije o korisnicima, koja uključuje:'
+      p_4_2_1: 4.2.1. zajedničkih podataka, automatski primio http-server kada na
+        web-stranici i kasnije akcije korisnika (IP-adresu domaćina, tip operativnog
+        sistema korisnika, stranice Web stranice posjetili od strane korisnika).
+      p_4_2_2: 4.2.2. informacije koje se automatski primaju kada na web-stranici
+        pomoću markera (cookies);
+      p_4_2_3: 4.2.3. informacije koje je dobio kao rezultat akcije korisnika na web
+        stranici;
+      p_4_2_4: 4.2.4. informacije koje je dobio kao rezultat postupaka drugih korisnika
+        na internet stranici.
+      p_5_1: '5.1. Osobni obrada podataka vrši se na osnovu sledećih principa: a)
+        legitimne svrhe i sredstva za obradu ličnih podataka; b) poštenje; c) usklađenost
+        svrhe obrade ličnih podataka sa svrhe predodređena i proglasio prilikom prikupljanja
+        ličnih podataka, kao i usklađenost akreditiva Društva; d) usklađenost obima
+        i vrste obrade ličnih podataka, kao i usklađenost sredstva za obradu ličnih
+        podataka sa svrhom njegove obrade; e) neprihvatljivosti kombiniranja stvorene
+        baze podataka za nekompatibilne svrhe, sadrže lične podatke.'
+      p_5_1_1: 5.1.1. Prikupljanje ličnih podataka Korisnik se vrši na sajtu kada
+        registar, kao iu budućnosti kada korisnik dodaje više informacija o sebi /
+        sebi pomoću Web alati na njegovu / njenu vlastitu inicijativu.
+      p_5_1_2: 5.1.2. Osobni podaci korisnika čuvaju se isključivo u elektronskom
+        formatu i obrađeni pomoću automatskih sistema, sa izuzetkom slučajeva u kojima
+        je potrebna ručne obrade ličnih podataka u cilju ispunjavanja zakonodavne
+        zahtjeve.
+      p_5_1_3: 5.1.3. lični podaci korisnika se ne prenose trećim stranama, osim u
+        slučajevima izričito ovim Pravilnikom i Ugovora o korisniku. Uz pristanka
+        korisnika, osobnih podataka korisnik može prenijeti na treće ugovornim Društva
+        pod uslovom pretpostavke obaveze kako bi se osigurala povjerljivost primljenih
+        informacija, posebno kada se koristi usluga i aplikacija. podaci rezervisanja
+        korisnika lični na zahtjev vlasti (lokalnih vlasti) se vrši u postupku u skladu
+        sa Zakonom.
+      p_5_1_4: '5.1.4. Osobni podaci korisnika brišu se kada: - podaci su samo-izbrisani
+        sa stranice od strane korisnika; - Stranica self-izbrisan od strane korisnika;
+        - Informacije korisnika i svoje lične stranice su uklonjene od strane kompanije.
+        U slučaju stranice brisanja od strane samog korisnika, Društvo čuva ličnih
+        podataka korisnika na elektronskim medijima u roku od 210 dana nakon ličnu
+        stranu je uklonjen. Lični podaci se brišu po isteku 210 dana nakon ličnu stranu
+        je uklonjen. Do tog perioda ističe, Korisnik ima pravo na vraćanje ličnu stranu.'
+      users_rights_and_obligations: korisnika prava i obaveze
+      p_6_1: '6.1. Korisnik ima pravo na:'
+      p_6_1_1: 6.1.1. pristup informacijama o njemu / njoj, bez ograničenja i bez
+        naknade uređivanjem svoje lične stranice na sajtu uz upotrebu login i lozinku;
+      p_6_1_2: 6.1.2. samostalno napraviti promjene i korekcije u Informacije o ličnoj
+        stranici korisnika na sajtu, pod uslovom da takve promjene i korekcije sadrže
+        up-to-date i istinite informacije;
+      p_6_1_3: 6.1.3. ukloniti informacije iz lične stranice na web stranici;
+      p_6_1_4: 6.1.4. zatražiti od kompanija da dobiju više konkretnih informacija,
+        blok ili brisanje osobnih podataka, ako ti podaci su nepotpuni, zastarjeli,
+        netačne, nezakonito dobili ili nisu potrebni za proglasio svrhu obrade ili
+        ako radnje iz stava 6.1.3 ovih propisi se ne mogu sprovesti nezavisno;
+      p_6_1_5: 6.1.5. na osnovu zahtjeva, dobiti informacije iz kompanije u vezi obrade
+        njegovih / njenih osobnih podataka.
+      p_6_2: '6.2. Sljedeće informacije o bilo registriranih Web Korisnik je uvijek
+        na raspolaganju registrirane članove: korisnički ime, pol, starost, profil
+        fotografija i ostale informacije ako je Korisnik je objavljeno.'
+      p_6_3: 6.3. Kompanija ne snosi nikakvu odgovornost za otkrivanje ličnih podataka
+        korisnika od strane drugih korisnika na Web koji su pristup tim podacima.
+      p_6_4: 6.4. U slučaju osobnih podataka (ostale informacije o korisniku) uklanjanje
+        iz ličnih stranice ili uklanjanje ličnih stranice korisnika iz Web korisnikovu,
+        informacije o korisniku kopiran od strane drugih korisnika ili skladišti na
+        stranicama drugih korisnika je očuvan.
+      p_7_1: 7.1. Kompanija se tehničke, organizacijske i zakonske mjere kako bi se
+        osiguralo da lične podatke korisnika zaštićeni od neovlaštenog ili slučajnog
+        pristupa, brisanja, modifikacija, blokiranje, kopiranje i širenje kao i iz
+        drugih neovlaštenog radnji.
+      p_7_2: 7.2. Korisnik je prijava (e-mail adresu ili broj mobilnog telefona) i
+        lozinku se koriste za pristup Web. Korisnik je odgovoran za čuvanje ove informacije
+        povjerljive. Korisnik ne može prenijeti login i lozinku trećim licima i je
+        dužan da preduzme mjere kako bi se osigurala povjerljivost.
+      limitation_of_the_regulations_applicability: Ograničenje Pravilnika primjenjivosti
+      p_8: Ovi propisi nisu proširena na akcije i Internet resursa trećih strana.
+        Kompanija ne snosi nikakvu odgovornost za postupke trećih lica koji su dobili
+        pristup informacijama korisnika putem interneta ili Web Services. Uprava Web
+        preporučuje korisnicima da pristupe problem sa količinom informacija objavljen
+        na web stranici na odgovoran način.
+      user_requests: korisnika zahtjeva
+      p_9_1: '9.1. U Korisnici imaju pravo da pošalju zahtjeve kompanije uključujući
+        i zahtjeve u pogledu korištenja ličnih podataka u pisanom obliku na adresu:
+        Rusija, 101000, Moskva, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye 1
+        ili u obliku elektronskog dokumenta potpisan od strane kvalifikovanog elektronskog
+        potpisa u skladu sa zakonima ruske Federacije, koje je e-mail: support@flutylove.com.'
+      p_9_2: '9.2. Zahtjev korisnika mora sadržavati sljedeće podatke: broj identifikacionog
+        dokumenta od korisnika ili njegovog zastupnika; datum izdavanja navedenog
+        dokumenta i izdaje; informacije potvrđuje učešće korisnika u odnosima sa operaterom
+        (posebno, link na stranicu); potpis korisnika ili njegovog / njenog zastupnika.'
+      p_9_3: 9.3. Kompanija se obavezuje da razmotri i odgovori na zahtjev korisnika
+        u roku od 30 dana nakon što je primila.
+      p_9_4: 9.4. Sva korespondencija primljene od strane kompanije iz korisnici (pismeni
+        ili elektronski zahtjevi) je klasificiran kao informacija ograničenim pristupom
+        i ne mogu se otkriti bez pismenog pristanka korisnika. Lični podaci i druge
+        informacije o korisniku koji je poslao zahtjev ne može koristiti, bez posebne
+        saglasnosti korisnika, drugačije nego za odgovor na zahtjev ili u slučajevima
+        izričito propisano važećim zakonom.
+    terms:
+      terms: Flutylove Sporazum korisnika
+      welcome: Dobrodošli na Flutylove!
+      about_terms: 'Ovi uslovi korištenja (kao i dokumente iz ovog zakona, uključujući
+        i Pravila o privatnosti) su ugovor prianjanja u skladu sa članom 428 Građanskog
+        zakonika Ruske Federacije (u daljnjem tekstu "Ugovor") između pojedinac koji
+        je dostigao 18 godina starosti (u daljnjem tekstu "Korisnik" i poduzeća (ili
+        "mi") - sa ograničenom odgovornošću "Technoelegance" (DOO "Technoelegance")
+        (pravni adresu: 101000, Moskva, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1), u daljnjem tekstu Flutylove, prema kojem možete koristiti ovu Web stranice
+        i sve povezane usluge koje se nude putem web stranice ili aplikacije (obično
+        tekstu "usluge"). Sajt se podrazumijeva bilo koje od svoje verzije, u kombinaciji
+        pod nazivom domena flutylove.com i radi za razne uređaje, uključujući i web-based
+        verziju, mobilne aplikacije i aplikacije za društvene mreže.Korištenjem ove
+        web pristajete na odredbe Ugovora i Pravila o privatnosti. Pažljivo ih pročitajte.
+        Ako se ne slažete sa uslovima ugovora i Privacy Policy, ili niste napunili
+        18 godina, možda ne koristite stranice i njene usluge.Korištenjem web stranica,
+        bez obzira ste registrirani korisnik Flutylove ili ne, u potpunosti slažete
+        s ovim Sporazumom i našu Politiku privatnosti, koja je uključena u ovaj Ugovor
+        link i dostupan je na sajtu, iu skladu s tim.Na zahtjev korisnika, Društvo
+        se obavezuje da potpiše ovaj sporazum u štampanom obliku i poslati ga na pojedinca
+        traži dokumente.Kompanija zadržava pravo izmjene korisnički ugovor i bilo
+        koji dokument iz njega. Biti svjesni promjena trebate držati up-to-date informacije
+        o takvim promjenama na redovnoj osnovi. Mi ćemo vas obavijestiti o promjenama
+        smo napravili na ovoj stranici dolje. Promjene se ne odnose se i stupa na
+        snagu u roku od deset dana od dana objavljivanja. Međutim, u slučaju da su
+        u vezi sa implementacijom novih usluga ili izmjenu zakona, to će se primjenjivati
+        ​​odmah. Ako se ne slažete s promjenama u Ugovoru, morate prestati koristiti
+        stranice i njene aplikacije.'
+      consent_to_accept_the_terms_of_user_agreement: 1. PRISTANAK NA prihvatili uslove
+        Korisnički ugovor.
+      p_1: a. Electronic sporazuma. Ovaj sporazum je elektronsku verziju ugovora,
+        koji opisuje uslove korištenja web stranice i usluga. Prijavom na Web stranice
+        ili postane korisnika, prihvatite ovaj Ugovor i pristajete na sve uvjete,
+        uvjete i napomene koje se nalaze ili tamo navedeni. Ti potvrđuju i slažu se
+        da korisnici Flutylove može biti dio online zajednica koja uključuje i druge
+        web stranice koje pripadaju Društvu ili njene podružnice. Stoga, profili na
+        sajtu možete pogledati na druge slične web stranice i pretplatnika iz jedne
+        web stranice mogu komunicirati s drugim pretplatnika od svih web stranica.
+        b. Elektronskoj formi. Prijavom na Web stranice ili postane korisnika, pristajete
+        da vam pružiti sa elektronskim Sporazumom. c. Štampanom obliku. Imate pravo
+        da primi štampanom ovog sporazuma. Možete tražiti tiskanom izdanju ovog Ugovora
+        prije ili poslije će biti potpisan u elektronskom obliku. Molimo vas, kontaktirajte
+        našu Služba za više informacija. d. Pristup i preuzimanje. Da bi pristupili
+        i preuzeti ovaj elektronski sporazuma, morate imati pristup Internetu ili
+        direktno preko uređaja s pristupom Web resursima. Morate imati potrebnu opremu
+        za povezivanje na Internet, odnosno računalo, modem ili drugi pristup uređaju.
+        Molim vas, ispisati kopiju ovog Ugovora i zadržati ga. Da biste preuzeli elektronskom
+        obliku Sporazuma, sačuvajte ga na računalo uz pomoć bilo kojeg urednika teksta.
+      the_right_of_using_the_website: 2. pravo korištenja web stranice.
+      p_2: Treba da imate najmanje osamnaest (18) godina da postane registrirani korisnik
+        ovog sajta. U slučaju neusklađenosti sa zahtjevima, pristup web stranice će
+        biti odbijen. Koristeći web stranica, korisnik treba biti svjestan da je lični
+        informacije objavljene na web sajtu mogu biti na raspolaganju za druge korisnike
+        interneta, a Društvo ne snosi odgovornost za svoje postupke. Korištenjem ove
+        web tvrdite i poduzeti da imate pravo, autoritet i mogućnost da uđu u ovaj
+        sporazum, i pristanak da prati sve njegove uslove i uslove. Postati korisnika
+        tvrdite i preduzeti da nikada nisu patili osude za krivično djelo koje se
+        odnose na seksualno nasilje. Ovaj Sajt je namijenjen samo za ličnu upotrebu.
+        Zabranjeno je koristiti Web stranice za bilo kakve komercijalne svrhe. Pravna
+        lica ne mogu biti korisnici ove web stranice, kao i ne mogu koristiti ove
+        službe ili Web stranice na njihove potrebe. Nezakonito i / ili neovlašćeno
+        koristi od web stranica, uključujući i prikupljanje korisnička imena i / ili
+        adrese e-pošte uz pomoć elektronskih ili drugih alata u svrhu slanja neželjenih
+        poruka i veze se sprovodi i Društvo može poduzeti odgovarajuće radnje u skladu
+        sa zakonom, uključujući apel vlastima za sprovođenje zakona.
+      pricing_and_registration: 3. Cene i REGISTRACIJA
+      p_3: ste u mogućnosti da postane Korisniku Flutylove na slobodne volje i bez
+        osnove zadužen upisom na sajtu. Kao korisnik, možete koristiti specifičan
+        spektar usluga i mogućnosti na sajtu. Korisnik Sajt je pojedinac registriran
+        na Web stranice prema utvrđenim red i koji je dostigao 18 godina starosti.
+        Prilikom registracije na sajtu Korisnik je dužan da obezbijedi neophodne i
+        relevantne informacije za kompanije da završi stranu korisnika, uključujući
+        i prijava (e-mail adresu ili broj telefona) i lozinku za pristup web stranica,
+        kao i ime, koje su jedinstveni za svakog korisnika. Obrazac za prijavu može
+        zatražiti dodatne informacije od korisnika. Korisnik je odgovoran za ispravnost,
+        aktuelnosti, potpunost i usklađenost sa Zakonom Ruske Federacije informacijama
+        pri registraciji, a njegova jasnoća od potraživanja trećih strana. Prilikom
+        registracije Korisnik slažu s ovim Sporazumom i poduzeti navedene prava i
+        obaveze, u vezi s korištenjem i funkcioniranje Website. Korisnik dobiva puni
+        pristup koristi u Web funkcija. Kompanija preuzima prava i obaveze Korisniku,
+        navedeni u ovom pravilniku, nakon uspješne registracije korisnika na Web Korisnik
+        je obrada osobnih podataka se vrši u skladu sa Zakonom Ruske Federacije. Uprava
+        Web obrađuje lične podatke korisnika, kako bi se korisniku pružaju pristup
+        korištenja web-stranice funkcija, uključujući i primanje personalizovana (ciljanih)
+        reklama; verifikacije, istraživanja i analize tih podataka, omogućavajući
+        da podrže i poboljšati funkcije i dijelovima web stranica, kao i razvoj novih
+        funkcija i sekcije. Kompanija se sve potrebne radnje za zaštitu ličnih podataka
+        korisnika od neovlaštenog pristupa, modifikacije, objavljivanje ili brisanje.
+        Kompanija pruža pristup ličnim podacima korisnika samo na one zaposlene, izvođači
+        i agenti kompanije, koji trebaju ove informacije u cilju podrške funkcionalnost
+        Web stranice i da korisniku pružaju pristup svojim koristite. Kompanija je
+        Website ima pravo da koristi informacije od strane korisnika, uključujući
+        i osobnih podataka, kako bi se osigurala usklađenost sa zahtjevima postojećeg
+        zakonodavstva Ruske Federacije (uključujući prevenciju i / ili suzbijanje
+        ilegalne i / ili nezakonitog akcije korisnika). Otkrivanje informacija koje
+        Korisnik može se vršiti samo u skladu sa važećim zakonskim propisima Ruske
+        Federacije na zahtjev suda, agencija za provođenje zakona, kao iu drugim slučajevima
+        predviđenim važećim zakonom Ruske Federacije. U mjeri u kojoj Društvo obrađuje
+        lične podatke korisnika za izvršenje ovog pravilnika, pristanak korisnika
+        na obradu ličnih podataka nije potrebno u osnovu odredbi Zakona o ličnim podacima.
+        Prijavu i lozinku po izboru korisnika su potrebne i dovoljne informacije za
+        pristup korisnika na Web stranice. Korisnik ima pravo da njegovu / njenu prijavu
+        i lozinku trećim licima, i potpuno odgovoran za svoje sigurnosti, birajući
+        način čuvanja na nezavisnu osnovi. Koristeći njegove / njene hardvera i softvera
+        Korisnik može dozvoliti skladištenje login i lozinku (kroz cookies) za kasniju
+        automatsku autorizaciju na sajtu. Svaka akcija snimljene upotrebom korisničkog
+        imena i lozinke korisnika smatraju se počinjenih od strane korisnika, osim
+        ako se dokaže suprotno od strane korisnika. Korisnik je dužan da odmah obavijestiti
+        Društvo u skladu sa utvrđenom postupku u slučaju neovlaštenog pristupa korisničko
+        ime i lozinku i / ili strani račun, ili otkrivanje prijavu i lozinku. Nakon
+        registracije korisnika stiče pravo da se stvori, korištenje, i odrediti sadržaj
+        njegove / njene lične stranice na self-zainteresovani i nekomercijalne svrhe,
+        kao i dobiti priliku da pristupe i objaviti informacije o ličnim stranicama
+        drugih korisnika . Korisnik kao vlasnik informacije objavljene na ličnu stranu
+        je svjestan da sa izuzetkom slučajeva utvrđenih ovim Pravilnikom i važećim
+        zakonima Ruske Federacije, Društvo ne učestvuje u razvoju i korištenjem sadržaja
+        i ne kontroliše pristup stranici korisnika od drugih korisnika.
+      terms_4: 4. UVJETI.
+      p_4: Ovaj sporazum u potpunosti ostaje na snazi ​​sve dok koristite Web. Možete
+        prestati biti korisnik web stranica uklanjanja stranice u bilo koje vrijeme,
+        iz bilo kojeg razloga, tako da kontaktiraju naš online Customer Service ili
+        pomoću službi Web stranice. Kompanija zadržava pravo izbrisati svoje lične
+        stranice u bilo kojem trenutku. Nismo u obavezi da vas obavijesti prije brisanja
+        stranice, ako Društvo ima razloga da vjeruje da ste prekršili uslovima sporazuma.
+        Nismo u obavezi da otkrije razlog za brisanje vašeg računa; U nekim slučajevima
+        može se zabraniti objavljivanje takvih informacija. Nakon što je brisanje
+        vaše stranice, sve uslove koji mogu biti važeći nakon raskida ovog Sporazuma
+        po svojoj prirodi će biti na snazi ​​nakon raskida. Ako izbrišete svoju stranicu
+        putem web stranice na svoju volju, možemo tražiti da navedete razlog takvog
+        brisanja.
+      account_security: 5. RAČUN sigurnosti.
+      p_5: Vi ste odgovorni za očuvanje tajnosti svoje korisničko ime i lozinku, koja
+        će biti postavljena u trenutku registracije. Također, vi ste potpuno odgovorni
+        za sve radnje koje se odvijaju pod svoje korisničko ime i lozinku. Slažete
+        se da (a) odmah obavijestiti nas o bilo neovlašćeno korišćenje ime i lozinku,
+        kao i sve druge sigurnosne prekršaj, i (b) izlazak iz vašeg računa na kraju
+        svake sesije. Web sajt nije odgovoran za bilo kakvu štetu ili gubitke koji
+        proizlaze iz neusklađenosti ove odredbe. Trebalo bi biti posebno oprezni prilikom
+        pristupa nalog putem javnog kompjuter kako bi neovlaštene osobe ne mogu špijunira
+        ili snimiti svoju lozinku ili bilo koje druge osobne podatke. Ti potvrđuju
+        i slažu da je Internet je nikada nije potpuno privatna i sigurna. Jasno vam
+        je da sve poruke i informacija koje se objavljuju na Web stranice se može
+        pročitati i koristiti od strane drugih korisnika, čak i ako postoji poseban
+        upozorenje da je informacija skrivena.
+      your_interaction_with_other_users_of_the_website: 6. vašu interakciju sa ostalim
+        korisnicima sajta.
+      p_6: a. Samo ste vi odgovorni za vašu interakciju s drugim korisnicima. Morate
+        da razumete da kompanija nema da potvrdim svoje korisnike o tome da li je
+        bio osuđivan. Kompanija je također ne traži informacije o prošlosti svojih
+        korisnika i ne proverava OVE INFORMACIJE. Društvo vrši NE garancije u vezi
+        ponašanja korisnika I njihovu kompatibilnost sa stvarnim ili budućih korisnika.
+        U isto vrijeme Kompanija zadržava pravo da potvrdi KORISNIKA ZA kaznene evidencije
+        ili nositi druge VERIFIKACIJOM u svakom trenutku pomoću dostupnih javnih INFORMACIJE.
+        b. NI U slučajevima kompanija nije odgovorna ZA ŠTETU da li su DIREKTNE, GENERAL
+        ili imate specifične prirode, kompenzacijske, I / ILI SLUČAJNE dobiveni VAS
+        ILI DRUGIH pojedinaca rezultat korištenja stranice, UKLJUČUJUĆI, ALI NE OGRANIČENO
+        NA, fizičke povrede, stres i / ili drugim ŠTETU, KOJU STE DOBILI KAO REZULTAT
+        komunikacija ili sastanaka sa drugim registrovanim korisnicima web stranice
+        ili LJUDI, KOJI bavite na sajtu. VAS saglasne da preduzmu sve mere predostrožnosti
+        kako za komunikaciju sa ostalim korisnicima, posebno u onim slučajevima, kada
+        se odlučite da ih upoznati u stvarnom životu. Morate biti svesni, ono što
+        kompanija ne daje objavljeni ili PODRAZUMEVANE JAMSTVA U VEZI kompatibilnost
+        sa korisnicima ovog sajta. Ne bi trebalo da DATI finansijske informacije drugim
+        korisnicima VEBSAJTA (na primjer informacije o vašem kreditne ili plastičnih
+        kartica). c. Služba može prevesti vaše ime ili ime vašeg grada na druge jezike;
+        d. Usluga nije odgovoran za postupke navedene u ovom članku. U slučaju da
+        se ne slažete s njima u potpunosti ili djelomično, odmah napustite stranice;
+      the_information_posted_by_you_on_flutylove: 7. informacije objavljene strane
+        u FLUTYLOVE
+      p_7: a. Vi ste isključivo odgovorni za informacije koje objavljujete ili dokazati
+        (u daljnjem tekstu "post") na servis ili prenijeti na druge korisnike. Nije
+        vam dozvoljeno da postavite na servis ili prenijeti na druge korisnike bilo
+        kakve informacije o klevetnički, netačne, uvredljive, vulgarne i agresivne
+        sadržaja, informacije o seksualnog sadržaja, kao i prijeteće ili uhođenja
+        informacije, informacije rasne diskriminacije prirode ili ilegalne informacije,
+        ili bilo koje druge informacije koje krše ili krše prava bilo koje druge stranke
+        (uključujući, bez ograničenja, prava intelektualnog vlasništva, prava na privatnost
+        i javnost). Nije vam dozvoljeno da pruže netačne, dovode u zabludu ili lažne
+        informacije u kompaniji ili bilo koji drugi korisnika. Ako informacije kompaniji
+        Flutylove ili drugi korisnik naknadno postane netočna, neispravna lažnih,
+        morate odmah obavijestiti društvo Flutylove takvih promjena. Možete podnijeti
+        i garantuje da sve informacije prilikom registracije je precizan i istinito,
+        a vi odmah promijeniti sve informacije koje naknadno postane neprecizan, obmanjujuće
+        ili lažna. b. Ti razumiju i slažu se da zadržavamo pravo, ali nije obavezan
+        da prati informacije ili sadržaj koji se prenosi na servis ili je pisao u
+        javni pristup na servis. Imamo pravo da obriše bilo takvih informacija ili
+        sadržaja bez dodjeljivanja bilo razloga i obavijesti. c. Svi objekti se prikazuju
+        na Web stranice, uključujući i elemente dizajna, tekst, grafike, ilustracije,
+        video, skripte, programi, muzika, zvuk i druge objekte i njihove biblioteke
+        (u daljnjem tekstu - Informacije), su u vlasništvu ekskluzivnih prava Društva,
+        korisnici nosioci Web i drugih prava, sva prava da ovi objekti su zaštićeni.
+        d. Osim kao što je utvrđeno u skladu sa ovim sporazumom, kao i važećim zakonskim
+        propisima Ruske Federacije, nema informacije mogu se kopirati (reproducirati),
+        obrađuju, distribuiraju, prikazan u okvir, koji je objavljen, preuzeli, prenose,
+        prodaju ili se koriste na druge načine u cijeli ili u komadima, bez prethodnog
+        odobrenja vlasnika, osim ako nosilac prava eksplicitno izrazio saglasnost
+        na besplatno korištenje podataka od strane bilo kojeg pojedinca. e. Postavljanjem
+        Informacije o Web zakonito pripadaju, korisnik omogućava pristup drugim korisnicima
+        za ne-ekskluzivno pravo da ga koristi od gledanja, reprodukcija (uključujući
+        i kopiranje) i druga prava isključivo u svrhu ličnog nekomercijalnu upotrebu,
+        osim ako slučajevima kada takva upotreba uzrokuje ili može uzrokovati štetu
+        interesima nosioca prava zaštićena zakonom. F. Na korištenje podataka od strane
+        korisnika, koji pristup je stekao isključivo za ličnu nekomercijalne koristi,
+        je dozvoljeno na uslovom da svi znaci autorstva (autorska prava) ili druga
+        obavještenja autorsko će se čuvati, ime autora i njegov proizvod će ostati
+        bez promjene. g. Korisnik također pruža Kompanija sa ne-ekskluzivno pravo
+        da koristi informacije objavljene na web stranici i pripadaju mu / joj je
+        zakonito bez obzira kako bi se osiguralo funkcioniranje internet stranici
+        Društva u okviru performanse arhitekture i funkcionalnosti Website. Non-ekskluzivno
+        pravo gore navedenih se odobrava za sadržaj plasman na sajtu i pokriva teritoriju
+        zemalja širom svijeta. Društvo ima pravo da prenese prava iz ovog stava trećim
+        stranama. Korisnik se slaže da društvo ima pravo koristiti funkcionalne i
+        tehničke mogućnosti za Web, pružajući prikazivanje dijeljenje sadržaja od
+        strane korisnika, uključujući i potrebe prikazivanja reklamnih informacija.
+        hi. U slučaju da Korisnik briše informacije iz web stranica, ne-ekskluzivno
+        pravo će biti automatski oduzeta, ali zbog tehničke specifikacije Web Kompanija
+        zadržava pravo da sačuvate sigurnosnih kopija podataka u predviđenom vremenu
+        i kada je to potrebno. i. Osim privatnih informacija, Korisnik nema pravo
+        na upload, ili otkriti na drugačiji način (objavljivanjem na sajtu) podataka
+        na drugim lokacijama, baze podataka i druge intelektualne svojine u odsustvu
+        eksplicitno izrazio saglasnost da takve akcije od autorskih prava vlasnik.
+        j. Osim ako nije drugačije je navedeno u ovom pravilniku, ništa u ovim Pravilnikom
+        ne može se smatrati prijenos ekskluzivna prava na informacije. k. Sve informacije
+        koje objavite na vaš korisnički profil, moraju biti tačni, up-to-date i potpuna.
+        Korisnik je apsolutno isključivo odgovoran za bilo kakve informacije koje
+        su dodane ili objavljeni na drugačiji način (pisao) na Website ili uz pomoć
+        korisnika. Korisnik nema pravo na upload, prenositi ili postavljati sadržaj
+        na sajtu, ako on / ona nema odgovarajuća prava da se takve akcije, stečene
+        ili delegirane mu / joj je u skladu sa zakonima Ruske Federacije. Kompanija
+        u stanju, ali nije obavezan, pregledavati web stranicu za bilo nezakonitog
+        sadržaja i dozvoljeno je brisanje ili potez (bez najave) bilo sadržaja ili
+        korisnika po svom nahođenju, iz bilo kojeg razloga ili bez razloga, uključujući
+        bez ograničenja za kretanje, ili brisanje informacija koje, prema individualnim
+        mišljenju Društva krši ovog Ugovora, zakonodavstva ruske Federacije i / ili
+        može kršiti prava, povrede, ili ugroziti sigurnost drugih korisnika ili trećih
+        strana. Web stranica sadrži (ili može sadržavati) povezuje na druge stranice
+        na internetu (web stranice trećih strana), kao i članke, fotografije, ilustracije,
+        grafike, glazbe, zvuka, video, informacije, aplikacije, softvera i druge informacije
+        koje pripadaju ili dolaze od trećih strana (sadržaja treće strane), što je
+        rezultat intelektualne aktivnosti i zaštićen u skladu sa zakonima ruske Federacije.
+        Te treće strane i njihove informacije nisu potvrđene od strane Društva za
+        skladu sa ovim ili drugim zahtjevima (točnost, potpunost, poštenje, itd).
+        Kompanija nije odgovoran za bilo koji sadržaj objavljen na stranicama trećih
+        strana na koje Korisnik dobiva pristup preko Web stranice ili putem informacije
+        trećih strana, uključujući, ali ne ograničavajući se na bilo mišljenja ili
+        izjave izražena na sajtovima trećih strana ili u njihovim informacijama. Link
+        na bilo koje lokacije, proizvoda i usluga, sve informacije komercijalne i
+        nekomercijalne prirode sadržane na ovoj stranici nije odobrenja ili preporuku
+        za ove proizvode (usluge) iz kompanije. Ukoliko korisnik odluči da napusti
+        Web i idite na web stranicama trećih strana ili za korištenje ili instalirate
+        softver treće strane, on / ona to čini na vlastiti rizik i od tog trenutka
+        ovi propisi više ne primjenjuju na korisnika. Dalje korisnika akcije su vođeni
+        važećim pravilima i politikama, uključujući i poslovne prakse onih pojedinaca
+        čiji informacije on / ona će se koristiti.
+      forbidden_actions: 8. ZABRANJENO AKCIJE.
+      p_8: a. Zabranjeno je "budno sat na" ili uznemiravati bilo koju osobu na drugi
+        način. b. Zabranjeno je korištenje robota, virusi, aplikacije za pretraživanje
+        / ekstrakt stranicama, ili drugim ručnim ili automatskim uređajima ili procesa
+        izvući, indeks, "špijuniranje" ili reproducirati na drugi način ili zaobići
+        navigaciju struktura i prikazivanje Službe ili njegov sadržaj . c. Zabranjeno
+        je objavljivanje, distribuirati ili reproducirati everyway bilo informacije
+        zaštićene autorskim pravima, robne marke ili druge informacije zaštićene autorskim
+        pravima, bez prethodnog odobrenja vlasnika autorskih prava. d. Zabranjeno
+        je uklonili autorska prava, zaštitne znakove ili druge napomene o autorskim
+        pravima koji se nalazi na službi. e. Zabranjeno je da se miješa u ili prekida
+        rada Službe i web stranica, ili usluge i mreže povezane sa službe ili Web.
+        F. Zabranjeno je objavljivanje, e-mail ili transfer na drugi način bilo kakvu
+        informaciju koja sadrži viruse ili bilo koji drugi kompjuterski kod, datoteke
+        ili programe dizajnirane da ometaju, uništavaju ili ograničavaju funkcionalnost
+        bilo kojeg kompjuterskog softvera, hardvera ili telekomunikacijske opreme.
+        g. Zabranjeno je krivotvoriti zaglavlja ili manipuliše oznaka u svrhu prikrivanja
+        stvarnog značenja bilo koje informacije dijele kroz službe. h. Zabranjeno
+        je "kovačnica" ili "kopija" bilo koji dio usluga ili Web stranice bez prethodnog
+        pismenog odobrenja od Flutylove. Također, ne možete koristiti bilo meta tagove
+        ili kod, ili drugi uređaji koji sadrže bilo veze sa Flutylove, Služba ili
+        Web stranice, kako bi se preusmjeriti bilo koje osobe na drugu lokaciju za
+        bilo koju svrhu. i. Zabranjeno je modificirati, prilagoditi, podlicencirati,
+        prevoditi, prodavati, restrukturiranje, dešifrirati, dekompilirati ili rastavljati
+        bilo koji dio usluga ili Web stranice, ili bilo koji softver koji se koristi
+        na sajtu ili za to, kao i ohrabruje druge da se slične akcije . j. Zabranjeno
+        je postavljati bilo kakve informacije sa pornografskim i / ili erotski sadržaj.
+      the_changes_in_the_service: 9. promjene u servis.
+      p_9: Flutylove zadržava pravo da u bilo kojem trenutku promijeniti ili privremeno
+        ili trajno onemogućili uslugu (ili bilo koji je to dio) bez prethodne najave.
+        Slažete se da Flutylove nije odgovoran za vas ili trećim licima za bilo kakve
+        izmjene, privremeno dostupnost ili potpuno onemogućavanje Službe.
+      ip_address_blocking: 10. IP ADRESA blokiranja.
+      p_10: U cilju zaštite integriteta web stranica, Flutylove zadržava pravo da
+        u svakom trenutku na svoju pogodnost da blokira IP adrese pojedinih korisnika.
+      relations_between_users_online: 11. ODNOSI KORISNIKA ONLINE
+      p_11: Vi ste isključivo odgovorni za svoje interakcije sa drugim korisnicima
+        Flutylove. Flutylove zadržava pravo, ali ne i obavezu, da prati sporove između
+        vas i drugih korisnika.
+      security_and_communication: 12. SIGURNOST i komunikacije.
+      p_12: Korištenje web stranice i / ili usluga se također upravlja našom Politikom
+        privatnosti. Kad postanete korisnik, saglasni ste da primate e-poštu od nas.
+        Ovi e-pošte može predstavljati obavijesti o poslovanju ili druge obavijesti
+        u vezi sa Službom, kao što su administrativne napomene i službenih najava
+        o promjenama, ili e-mailove koji sadrže komercijalne ponude, promotivne materijale,
+        posebne ponude od nas, ili informacije o akcijama drugih korisnika u vezi
+        sa svojim korisnički račun. Molimo pročitajte našu Politiku privatnosti znati
+        više o takvim obavijesti.
+      denial_of_responsibility: 13. USKRAĆIVANJEM odgovornosti.
+      p_13: a. Flutylove nije odgovoran za bilo kakve netačne ili netačne informacije
+        objavljene na sajtu ili je povezana sa Službom, korisnici Web stranice ili
+        bilo koji hardver ili softver u vezi s našom uslugom ili ne koristi. Flutylove
+        nije odgovoran za ponašanje, i online i offline, za svaki korisnik sajta.
+        Flutylove ne preuzima odgovornost za bilo kakve greške, propuste, prekide,
+        brisanje, oštećenje ili kašnjenje u radu ili operacije, neuspjeh komunikacije
+        linije, krađe ili uništenja, neovlaštenog pristupa ili mijenjanja komunikacijske
+        linije korisnika. Flutylove nije odgovoran za bilo kakve probleme ili tehničke
+        neispravnosti bilo koje telefonske mreže ili linija, računalo online sistema,
+        servera ili dobavljača, računarske opreme, softvera, poštom ili igrača neuspjeh
+        u korisničkom računu, tehničkih problema ili zagušenja na internetu ili na
+        bilo koji sajt ili njegove kombinacije, uključujući nesreće ili ozljede korisnicima
+        ili trećim licima u vezi sa računarom, ili kao rezultat sudjelovanja u ili
+        preuzimanjem informacija koje se odnose na mrežu i / ili usluga. Ni pod kojim
+        okolnostima Flutylove poduzeća ili njegovih podružnica, reklamni agenti, osnivači
+        ili distribuciju partnerima nije odgovoran za bilo kakav gubitak ili štetu,
+        uključujući povrede ili smrt, zbog korištenja web stranice ili na servis,
+        bilo koji Sadržaj objavljen na web stranici , ili bilo interakcije između
+        korisnika web stranica, i online i offline. Web sajt i usluga pruža na AS
+        IS osnovi, i Flutylove izričito odriče bilo kakve garancije ili prikladnosti
+        za određenu svrhu, ili odsustvo kršenja ničija prava. Flutylove ne može da
+        garantuje i ne obećavaju bilo konkretnih rezultata iz korištenje web stranice
+        i / ili usluga.
+      links: 14. linkove.
+      p_14: a. Flutylove nije odgovoran za bilo kakve netačne ili netačne informacije
+        objavljene na sajtu ili je povezana sa Službom, korisnici Web stranice ili
+        bilo koji hardver ili softver u vezi s našom uslugom ili ne koristi. Flutylove
+        nije odgovoran za ponašanje, i online i offline, za svaki korisnik sajta.
+        Flutylove ne preuzima odgovornost za bilo kakve greške, propuste, prekide,
+        brisanje, oštećenje ili kašnjenje u radu ili operacije, neuspjeh komunikacije
+        linije, krađe ili uništenja, neovlaštenog pristupa ili mijenjanja komunikacijske
+        linije korisnika. Flutylove nije odgovoran za bilo kakve probleme ili tehničke
+        neispravnosti bilo koje telefonske mreže ili linija, računalo online sistema,
+        servera ili dobavljača, računarske opreme, softvera, poštom ili igrača neuspjeh
+        u korisničkom računu, tehničkih problema ili zagušenja na internetu ili na
+        bilo koji sajt ili njegove kombinacije, uključujući nesreće ili ozljede korisnicima
+        ili trećim licima u vezi sa računarom, ili kao rezultat sudjelovanja u ili
+        preuzimanjem informacija koje se odnose na mrežu i / ili usluga. Ni pod kojim
+        okolnostima Flutylove poduzeća ili njegovih podružnica, reklamni agenti, osnivači
+        ili distribuciju partnerima nije odgovoran za bilo kakav gubitak ili štetu,
+        uključujući povrede ili smrt, zbog korištenja web stranice ili na servis,
+        bilo koji Sadržaj objavljen na web stranici , ili bilo interakcije između
+        korisnika web stranica, i online i offline. Web sajt i usluga pruža na AS
+        IS osnovi, i Flutylove izričito odriče bilo kakve garancije ili prikladnosti
+        za određenu svrhu, ili odsustvo kršenja ničija prava. Flutylove ne može da
+        garantuje i ne obećavaju bilo konkretnih rezultata iz korištenje web stranice
+        i / ili usluga.
+      limitation_of_responsibility: 15. ograničenje odgovornosti.
+      p_15: web stranice i svoje funkcije UKLJUČUJUĆI sve skripte, aplikacija, sadržaja
+        i dizajn sajtu su NA AS IS osnovi. KOMPANIJA ODRIČE sve garancije web stranice
+        ili njegove funkcije mogu biti pogodne ILI neprikladan za POSEBNU namenu.
+        KOMPANIJA ne može garantirati I ne obećava neke naročite rezultate od korištenja
+        vebsajta i / ili njegovih funkcija; Se izbegla zabuna, korisnik treba POŠTOVANJE
+        SIGURNOSNE INSTRUKCIJE prilikom preuzimanja sa sajta ili preko OBJAVLJEN VEZE,
+        I UPOTREBA sve datoteke, kao i softverske. KOMPANIJA Preporučuje se da koristi
+        samo licencirani softver KAO I antivirusni softver; PO korištenja web stranice,
+        korisnik SAGLASNI preuzimanja iz MJESTA I uz čiju pomoć bilo koji sadržaj
+        u njegovu / njenu sopstvenu odgovornost i isključivo odgovoran za moguće rezultate
+        UPOTREBE OVOG informacije, uključujući ŠTETU da može uzroka korisnika kompjutera
+        I DO TREĆEG STRANKE, PODATAKA GUBITAK ili bilo koji drugi ŠTETE; NI POD KOJIM
+        OKOLNOSTIMA DRUŠTVA ili njeni predstavnici snosi nikakvu odgovornost korisnika
+        ili TO BILO trećoj strani za indirektnu, slučajnu I UNWILFUL ŠTETE, UKLJUČUJUĆI
+        GUBITAK od koristi, ili izgubljenih podataka, oštećenja čast, dostojanstvo
+        ILI poslovnog ugleda, NASTALE korišćenja sajta, njen sadržaj i sve dodatne
+        informacije na koju ILI BILO KOJE DRUGE OSOBE PRIMIO PRISTUP putem web stranice,
+        čak i ako Kompanija je upozorila ILI ukazuje na mogućnost takvih šteta.
+      responsibilities_of_the_parties: 16. ODGOVORNOST STRANA.
+      p_16: Ovaj Ugovor je od strane i tumačiti u skladu sa zakonima Ruske Federacije.
+        Pitanja koja nisu naselili Ugovora rješavat će se u skladu sa zakonima Ruske
+        Federacije. U slučaju bilo kakvih sporova ili kontroverzi vezanih za provedbu
+        ovog pravilnika, korisnika i kompanija će uložiti sve napore da ih riješiti
+        putem pregovora. U slučaju sporova neće riješiti pregovorima, sporovi će se
+        rješavati u skladu sa važećim zakonima Ruske Federacije. Ovaj Ugovor je zaključen
+        na ruskom jeziku i može pružiti Korisniku za pregled na drugom jeziku. U slučaju
+        neslaganja verzije Pravilnika na ruskom jeziku i njegova verzija na drugom
+        jeziku, verzija na ruskom jeziku odredbi ove Uredbe primjenjuju se. Ako iz
+        ovog ili onog razloga, jedan ili više odredbi ovog Pravilnika će biti proglašen
+        nevažećim ili poništenih, to ne utiče na valjanost ili provedivost preostalih
+        odredbi.
+      other_provisions_and_changes: 17. OSTALE ODREDBE i promjenama.
+      p_17: Ovaj sporazum je pravi ugovor između vas i Flutylove pogledu korištenje
+        web stranice i / ili usluga. Ako bilo koja odredba ovog Ugovora šupljina,
+        ostatak sporazuma ostaje njene važnosti u punoj snazi. Ovaj sporazum može
+        biti izmijenjen i dopunjen Flutylove u bilo koje vrijeme. Molim vas, nemojte
+        se ustručavati da nas kontaktirate s bilo kakvih pitanja u vezi ovog Sporazuma.
+      read_this: Pročitao sam OVAJ UGOVOR i složite se sve njegove uslove.
+    about:
+      about_flutylove: O Flutylove
+      about_flutylove_text: Flutylove je međunarodna mreža socijalne zabave za datings.
+        Ovdje možete naći prijatelje, srodna duša, partnera ili samo provesti svoje
+        vrijeme s uživati ​​igrajući igre ili gledate video snimke / slike.
+      flutylove_features: 'Kada ćete se prijavite na našim stranicama, možete saznati
+        mnoge funkcije, kao što su:'
+      video_call_feature: možete razgovarati sa partnerom s web kameru
+      extended_search: možete koristiti proširenu pretragu za besplatno
+      multilanguages: Možete pretraživati ​​partnerima iz drugih zemalja, jer naše
+        usluge očekuje se da će se koristiti preko širok spektar ljudi iz drugih zemalja,
+        jer je prevedeno više od 70 jezika
+      play_games_chatting_etc: možete razgovarati sa drugim ljudima, igraju igre i
+        napraviti još jedan za socijalnu stuffs
+      we_are_in_social_networks: 'Mi smo u društvenim mrežama:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Mi koristimo visoke tehnologije i open
+        source biblioteke. Mi uvijek pokušati dobiti bolje i poboljšati naše usluge.
+      partners_and_investors: Otvoreni smo za partnerstvo i želimo da pronađu investitore.
+        Ako želite sarađivati ​​sa nama, molimo da nas kontaktirate na partnership@flutylove.com
+    faq:
+      faq: FAQ
+      what_is_flutylove: Što je Flutylove?
+      about_flutylove: Flutylove je međunarodna mreža socijalne zabave za datings.
+        Ovdje možete naći prijatelje, srodna duša, partnera ili samo provesti svoje
+        vrijeme s uživati ​​igrajući igre ili gledate video snimke / slike.
+      what_features_has_flutylove: Što ima ima Flutylove?
+      flutylove_features: Ovdje možete razgovarati sa videocams, koristite proširene
+        pretraživanje, partneri pretraživanje iz drugih zemalja, igrati igre i učiniti
+        druge društvene namirnica.
+      i_have_some_requests: Imam neke zahtjeve
+      you_can_write_request: Možete se prijaviti i pisati ga
+      here: ovdje
+      i_have_seen_some_typo_or_wrong_translation: sam vidio neke kucanju ili pogrešan
+        prevod
+      you_can_send_pull_request_to_our: možete poslati Povucite Zahtjev za naše
+      github_repository: GitHub spremište
+      i_have_seen_some_error: sam vidio neke greške
+      you_can_send: možete nam poslati povratne informacije od strane
+      feedback: ovaj oblik
+      to_us_or_write_to_our_info_mail: ili pisati e-mail support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Dobrodošli na Flutylove
+      you_have_successfully_signed_up_to_flutylove: Uspješno ste se prijavili na Flutylove
+      you_can_sign_in_with_your_social_networks: Ako želite da se prijavite ponovo
+        možete da se prijavite sa svojim društvenim nalog mreže
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Ako
+        želite da se prijavite sa e-pošte i lozinku možete promijeniti lozinku po
+        znak napolje i kliknite na link ispod
+      change_password: Promjena lozinke
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: pogrešan
+            search_for:
+              search_for_error: pogrešan
+            birth_date:
+              birth_date_error: moraju biti veće od 18 i manje od 115
+            interests:
+              interests_error: moraju biti manje od 2000 simbola
+            jobs:
+              jobs_error: moraju biti manje od 2000 simbola
+            languages:
+              languages_error: moraju biti manje od 2000 simbola
+            sex_keywords:
+              sex_keywords_error: moraju biti manje od 2000 simbola
+            my_turn_ons:
+              my_turn_ons_error_error: pogrešan
+            contacts:
+              contacts_length_error: moraju biti manje od 2000 simbola
+              contacts_size_error: moraju biti manje od 21 kontakata
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: ima neispravnu vrijednost
+  devise:
+    confirmations:
+      confirmed: Vaš račun je uspješno potvrđen.
+      send_instructions: ćete dobiti e-mail s uputama o tome kako da biste potvrdili
+        svoj račun u nekoliko minuta.
+      send_paranoid_instructions: Ako vaš e-mail adresa postoje u našoj bazi podataka,
+        primit ćete e-mail s uputama o tome kako da biste potvrdili svoj račun u nekoliko
+        minuta.
+      new:
+        send_mail_for_confirm_your_email: pošalji mail za potvrdi svoj email
+        submit: Podnijeti
+    failure:
+      already_authenticated: ste već prijavljeni.
+      inactive: Vaš račun još nije aktiviran.
+      invalid: Invalid mail ili lozinku.
+      locked: Vaš račun je zaključan.
+      last_attempt: Imate još jedan pokušaj prije nego što će biti vaš račun zaključan.
+      not_found_in_database: Invalid mail ili lozinku.
+      timeout: Vaša sesija je istekla. Molimo, prijavite se ponovo nastaviti.
+      unauthenticated: Morate da se prijavite ili se prijavite prije nastavka.
+      unconfirmed: Morate potvrditi vaš račun prije nastavka.
+    mailer:
+      confirmation_instructions:
+        subject: Potvrda instrukcije
+        welcome_to_flutylove: Dobrodošli na Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: možete potvrditi
+          svoju e-mail kroz link ispod
+        confirm_my_account: Potvrdi moj e-mail
+      reset_password_instructions:
+        hello: Hello
+        subject: Reset upute lozinku
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Neko
+          ima zahtjeva link za mijenjanje lozinke. To možete učiniti putem linka ispod.
+        change_my_password: Promijeni lozinku
+        if_you_didnt_request_this_please_ignore_this_email: Ako niste tražiti ovo
+          molim vas zanemarite ovaj e-mail.
+      unlock_instructions:
+        subject: Unlock Uputstvo
+    omniauth_callbacks:
+      failure: Zar nisi mogao autentikaciju od% {vrste} jer "% {razloga}".
+      success: Uspješno ovjeren od% {vrste} računa.
+    passwords:
+      no_token: Ne možete pristupiti ovoj stranici bez iz poništavanje lozinke e-pošte.
+        Ako dolaze iz poništavanje lozinke e-mail, molimo pobrinite se da koriste
+        punu URL pruža.
+      send_instructions: ćete dobiti e-mail sa uputstvima kako da resetujete lozinku
+        u nekoliko minuta.
+      send_paranoid_instructions: Ako vaš e-mail adresa postoje u našoj bazi podataka,
+        primit ćete link lozinke za oporavak na vašu e-mail adresu u nekoliko minuta.
+      updated: Vaša lozinka je uspješno promijenjen. Sada ste prijavljeni.
+      updated_not_active: Vaša lozinka je uspješno promijenjen.
+      new:
+        forgot_your_password: Oporavak lozinku
+        reset_password: Pošalji oporavi url
+      edit:
+        change_your_password: Promijeni lozinku
+        new_password: Nova lozinka
+        confirm_password: Potvrdi lozinku
+        change_password: Change
+    registrations:
+      destroyed: Bye! Vaš račun je uspješno otkazana. Nadamo se da ćemo vas vidjeti
+        opet uskoro.
+      signed_up: Dobrodošli! Ste se prijavili uspješno.
+      signed_up_but_inactive: ste se prijavili uspješno. Međutim, nismo mogli da se
+        prijavite jer vaš račun još nije aktiviran.
+      signed_up_but_locked: ste se prijavili uspješno. Međutim, nismo mogli da se
+        prijavite jer Vaš račun je zaključan.
+      signed_up_but_unconfirmed: Poruka sa linkom za potvrdu je poslana na vašu e-mail
+        adresu. Molimo vas da otvorite link za aktivaciju vašeg računa.
+      update_needs_confirmation: ste uspješno ažurirana nalog, ali moramo potvrditi
+        svoju novu e-mail adresu. Molimo provjerite svoj e-mail i kliknite na link
+        za potvrdu da finaliziraju potvrđuje svoju novu e-mail adresu.
+      updated: ste uspješno ažurirana nalog.
+      new:
+        sign_up: Prijavi se
+        name: Ime
+        password: lozinke
+        register: Prijavi se
+    shared:
+      links:
+        sign_in: Prijava
+        sign_up: Prijavi se
+        didnt_receive_confirmation_instructions: Nisam primio instrukcije potvrdu?
+        sign_in_with: Prijavite se u
+        fast_login_almost_one_click: brza prijava (skoro jedan klik)
+    sessions:
+      signed_in: Potpisan u uspješno.
+      signed_out: Potpisan uspješno.
+      new:
+        sign_in: Prijava
+        password: lozinke
+        remember_me: Zapamti me
+        forgot_your_password: Zaboravili ste lozinku?
+    unlocks:
+      send_instructions: ćete dobiti e-mail s uputama o tome kako otključati vaš račun
+        u nekoliko minuta.
+      send_paranoid_instructions: Ako postoji nalog, primit ćete e-mail s uputama
+        o tome kako da ga otključali u nekoliko minuta.
+      unlocked: Vaš korisnički račun je uspješno otključan. Molimo prijavite se za
+        nastavak.
+  timezones:
+    American Samoa: Američka Samoa
+    International Date Line West: Međunarodni Datum Line West
+    Midway Island: Midway Island
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Pacific Time (US & Canada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain Time (US & Canada)
+    Central America: Centralna Amerika
+    Central Time (US & Canada): Središnje vrijeme (SAD i Kanada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Eastern Time (US & Canada)
+    Indiana (East): Indiana (East)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlantic Time (Kanada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Grenland
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Azori
+    Cape Verde Is: Cape Verde.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lisabon
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Beograd
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Brisel
+    Budapest: Budapest
+    Copenhagen: Kopenhagenu
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Prag
+    Rome: Rim
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Beču
+    Warsaw: Varšavi
+    West Central Africa: West Central Africa
+    Zagreb: Zagreb
+    Athens: Athens
+    Bucharest: Bukurešt
+    Cairo: Kairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kalinjingrad
+    Kyiv: Kijev
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofija
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Bagdad
+    Kuwait: Kuvajt
+    Minsk: Minsk
+    Moscow: Moskva
+    Nairobi: Nairobi
+    Riyadh: Rijad
+    St Petersburg: Sankt Peterburg
+    Volgograd: Volgograd
+    Tehran: Teheran
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Yerevan
+    Kabul: Kabul
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Taškent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnojarsk
+    Beijing: Peking
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapur
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Jakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: Nova Kaledonija
+    Solomon Is: Solomon Is.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fidži
+    Kamchatka: Kamčatka
+    Marshall Is: Marshall Is.
+    Wellington: Wellington
+    Chatham Is: Chatham Is.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau Is.
+  bs: bs
+  bs_iso: bs

@@ -1,0 +1,1692 @@
+---
+et:
+  1_we_have_just_launched_our_service_title: Oleme just käivitanud meie teenust!
+  common_keywords: dateeringud online dateeringud, armastus dateeringud, webcam dating,
+    kiirus dating, jututuba dating, Ruby on Rails dating site, Multi dating site
+  common_description: Kõige arenenum rahvusvaheliste sotsiaalsete meelelahutus võrgustik
+    dateeringud "Flutylove"
+  default_album: Vaikealbum
+  user: Kasutaja
+  user_to_search_connection: Otsing
+  video: Video
+  note: Märkus
+  photo_album: Galerii
+  from: From
+  to: To
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Mees
+  - female:
+      name: Naine
+  - transgender:
+      name: transseksuaalide
+  - male-female:
+      name: mehe-naise
+  - double-female:
+      name: Double naissoost
+  - double-male:
+      name: Double mees
+  orientation:
+  - heterosexual: Heteroseksuaalne
+  - homosexual: Homoseksuaalne
+  - bisexual: Biseksuaalne
+  search_for:
+  - chatting: Jututoas
+  - get_friends: siia sõbrad
+  - flirtation: flirt
+  - marriage: Abielu
+  - other: Muud
+  body_type:
+    slim: sale
+    normal: Normal
+    athletic: sportlik
+    chubby: Chubby
+  relationship:
+    single: Single
+    in_a_relationship: Suhetes
+    married: abielus
+    nothing_serious: midagi tõsist
+  children:
+    dont_have: Ei ole
+    dont_have_and_dont_want_to: ei ole ja ei taha
+    don_t_have_but_planning: Ei ole, kuid planeerimine
+    have_enough: Have
+    have_and_planning_more: on ja planeerimist
+    unable_to_have_children: ei saa lapsi
+  living:
+    with_parents: Mis vanemad
+    with_marriage_partner: abielu partner
+    alone: Alone
+    with_friends: Mis sõber (s)
+  education:
+    nothing: midagi
+    secondary_school: Keskkool
+    college_technical_college: College / Technical College
+    university: Ülikool
+    postgraduate: magistri
+    phd_md_post_doctorate: PhD / MD / Post doktor
+  hair_color:
+    blonde: Blond
+    dark_blond: Tuhkblond
+    brown: Pruun
+    black: Black
+    red: Red
+    gray: Gray
+    other: Muud
+  income:
+    unemployed: Töötu
+    unstable_earnings: Ebastabiilne tulu
+    small_stable_earnings: Väike stabiilne kasum
+    medium_stable_earnings: Medium stabiilne kasum
+    higher_than_average_income: keskmisest kõrgema sissetulekuga
+    high_income: kõrge sissetulekuga
+  smoking:
+    not_smoke: ei suitseta
+    not_smoke_and_detest: ei suitseta ja põlgama suitsetamise
+    smoke_in_a_social_setting: Vahel sotsiaalvaldkonnas
+    smoke_only_after_drinking: Suits alles pärast joomist
+    smoke_occasionally: suits
+    smoke_often: suits tihti
+  alcohol:
+    not_drinking: ei joo
+    drink_occalionally: jooma vahetevahel
+    drink_in_a_social_setting: jooki sotsiaalset keskkonda
+    drink_often: jooma tihti
+  drugs:
+    dont_use: Ärge kasutage
+    contra_drugs: Contra ravimid
+    tried_out_some: proovida mõned
+    light_drugs_occasionally: Light ravimid aeg-ajalt
+    regular: Regulaarne
+  sponsor:
+    i_want_to_find_a_sponsor: ma tahan leida sponsor
+    willing_to_become_a_sponsor: Valmis saanud sponsor
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Ei tunne sponsor ja ole
+      valmis saanud üks
+  category_name:
+    strategy: strateegia
+    rpg: RPG
+    3d_shooters: 3D laskjale
+    racing: Racing
+    arcade: Arcade
+    economic: Majandus
+    simulators: simulaatorid
+    logic: Logic
+    adventure: Adventure
+    board_games: Lauamängud
+    gambling: Hasartmängud
+    news: Uudised
+    communication: Side
+    multimedia: multimeedia
+    drawing: Drawing
+    educational: Educational
+    e_commerce: E-Commerce
+    other: Muud
+  shared:
+    header:
+      people: Inimesed
+      chat: Chat
+      groups: Groups
+      forum: Foorum
+      requests: taotlused
+      about: Projektist
+      help: Abi
+      user_applications: rakendused
+    liked_users:
+      liked: Meeldis
+      all: Kõik
+      you_have_not_liked_any_users_yet: Sa pole soovinud ühtegi kasutajat veel
+    most_liked_users:
+      most_liked_users: Lemmik kasutajad
+    installed_user_applications:
+      installed_applications: paigaldatud rakendused
+      all: Kõik
+      you_have_not_installed_any_apps_yet: te pole installinud veel rakendusi
+    user_applications:
+      uploaded_apps: Üles laetud rakendused
+      all: Kõik
+      you_have_not_uploaded_any_apps_yet: Sa pole üleslaetud veel rakendusi
+    right_sidebar:
+      news: Uudised
+      all: Kõik
+      read_more: Loe edasi
+    footer:
+      footer_text: International sotsiaalse meelelahutus võrgustik dateeringud "Flutylove"
+      privacy: Privacy
+      terms: Tingimused
+      feedback: tagasiside
+      abuse: Abuse
+    languages_select_modal:
+      available_languages: Võimalikud keeled
+    site_map_modal:
+      site_map: Sisukaart
+      faq: KKK
+      about: üle
+      static_pages: Tavalehtede
+      common_pages: ühise lehekülge
+      user_pages: Kasutaja lehekülge
+      terms: Tingimused
+      privacy: Privacy
+      people: Inimesed
+      user_applications: rakendused
+      user_requests: taotlused
+      news: Uudised
+      feedback: tagasiside
+      abuse: Abuse
+      chats: Vestlused
+      videos: Videod
+      photo_albums: fotoalbumid
+      notes: Märkused
+    pagination_link:
+      next_page: Järgmine lehekülg
+    user_edit_menu:
+      content: sisu
+      profile: profiil
+      site_settings: Saidi seaded
+      privacy: Privacy
+      services: teenused
+    activities_navigation:
+      all: Kõik
+      photos: Fotod
+      photo_albums: fotoalbumid
+      notes: Märkused
+      videos: Videod
+    notifications_navigation:
+      all: Kõik
+      likes: Likes
+      friend_requests: taotlusi sõber
+      profile_views: profiili vaatamist
+      photo_album_views: Fotod vaated
+    user_to_friend_connections_navigation:
+      friends: Sõbrad
+      friends_online: sõbrad
+      outcome_requests: tulemus taotlusi
+      income_requests: Tulu taotlusi
+    user_applications_navigation:
+      all: Kõik
+      new: Uus
+      popular: Lemmik
+      often_installed: Sageli paigaldatud
+      manage: hallata
+    user_requests_navigation:
+      all: Kõik
+      popular: Lemmik
+      my_requests: Minu taotlused
+    user_navbar_menu:
+      sign_in: Logi sisse
+      sign_up: Registreeru
+    email_signature:
+      info: Info
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: Valige sugu
+      select_orientation: Vali orientatsioon
+      select_search_for: Valige Otsi
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Sa pead sisse logima, enne seda tegevust
+      available_sign_in_methods: Sa
+    sign_up_methods:
+      usual_register_link: tavaline registreerimine
+      register_text: Lisaks% {usual_registration} saab registreerida läbi populaarsemaid
+        teenuseid ja sotsiaalseid võrgustikke
+    bootstrap_gallery:
+      previous: Eelmine
+      next: Järgmine
+    user_notification_title:
+      you_liked: Sa meeldis
+      wrote_message_to_you: Kirjutas sõnum teile
+      viewed_your_profile: Vaadatud oma profiili
+      liked_your_photo: Meeldis oma foto
+      liked_your_note: Meeldis teie märkust
+      liked_your_request: Meeldis oma soov
+      liked_your_video: Meeldis video
+      liked_your_application: Meeldis oma taotluse
+      requested_a_friendship: Taotletud sõprus
+  authentications:
+    authentication:
+      turn_on: Lülitage
+      turn_off: Lülitage
+      turned_on: sisse lülitatud
+      turned_off: Välja lülitatud
+    index:
+      enabled_services: Lubatud teenused
+  users:
+    profile:
+      submit: Salvesta
+      name: Nimi
+      meet_with: Kohtuda
+      gender: Sugu
+      type_in_your_location: Type oma linna
+      about_me: Mõned sõnad enda kohta (lisaks vormile allpool)
+      sex_keywords: Huvid seksist
+      enter_your_name: Sisesta oma nimi
+      more_options: More
+      orientation: Orientatsioon
+      birth_date: Sünniaeg
+      location: asukoht
+      search_for: Otsi
+      intimacy: Lähedus
+      in_age: In vanuses
+      from: alates
+      to: et
+      interests: huvid
+      height: Kõrgus
+      weight: Kaal
+      body_type: Keretüüp
+      hair_color: Juuste värv
+      relationship: Relationship
+      children: lapsed
+      living: Elu
+      education: haridus
+      jobs: Töö
+      income: tulu
+      languages: Keeled
+      smoking: Suitsetamine
+      alcohol: Alkohol
+      drugs: Drugs
+      contacts: Kontaktid
+      contact_name: Kontakt nime
+      contact_value: Kontakt väärtus
+      save: Salvesta
+      about_yourself: Endast
+    settings:
+      submit: Salvesta
+      locale: Interface language
+      change_password: Muuda parooli
+      interface_language: Interface language
+      time_zone: Ajavöönd
+    dialog_modal:
+      send_message: Saada sõnum
+    index:
+      users: Kasutajad
+      clear_search: Clear otsing
+    dashboard:
+      hello: Tere
+      here_some_of_your_statistics: Siin mõned statistika
+      chats: Vestlused
+      messages: Sõnumid
+      photos: Fotod
+      videos: Videod
+      notes: Märkused
+      photo_albums: fotoalbumid
+    avatar:
+      photo: Foto
+      uploading_file: Faili üleslaadimine
+      handling_file: käitlemine faili
+      drag_and_drop_your_file: lohistada faili
+      here: siin
+      or: või
+      upload_file: upload faili
+      from_other_sites: teistele saitidele
+      write_down_link_for_your_image: Kirjutage link oma pilt
+      url_for_image: URL pilti
+      upload: Laadi
+      from_facebook: Facebook
+      turn_on_facebook: Lülita Facebook
+      you_can_upload_your_photos_from_facebook: Võite saata oma fotosid Facebook
+      from_vkontakte: From Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Võite saata oma fotosid Vkontakte
+      turn_on_vkontakte: Lülita Vkontakte
+      from_instagram: From Instagram
+      you_can_upload_your_photos_from_instagram: Võite saata oma fotosid Instagram
+      turn_on_instagram: Lülita Instagram
+      from_dropbox: Dropbox
+      you_can_upload_your_photos_from_dropbox: Võite saata oma fotosid Dropbox
+      turn_on_dropbox: Lülita Dropbox
+      edit_photo: Edit foto
+      delete_photo: Kustuta foto
+      are_you_sure: Oled sa kindel?
+    available_photos_modal:
+      available_photos: Saadaval pildid
+    update:
+      your_password_was_successfully_changed: oma parooli õnnestus muuta
+      your_profile_was_successfully_updated: Sinu profiil edukalt uuendatud
+    edit_photo:
+      edit_photo: Edit foto
+      crop: Crop
+      close: Sulge
+      save_changes: Salvesta muudatused
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: Minust
+      orientation: Orientatsioon
+      meet_with: Kohtuda
+      desirable_age: Soovitav vanus
+      from: alates
+      to: et
+      interests: huvid
+      height: Kõrgus
+      sm: sm
+      kg: kg
+      body_type: Keretüüp
+      hair_color: Juuste värv
+      relationship: Relationship
+      children: lapsed
+      living: Elu
+      education: haridus
+      jobs: Jobs
+      income: tulu
+      languages: Keeled
+      smoking: Suitsetamine
+      alcohol: Alkohol
+      drugs: Drugs
+      contacts: Kontaktid
+    user_info:
+      offline: Offline
+      online: Hetkel
+      age: Age
+    loading_modal_images:
+      loading_images: Laadimine pildid
+    password_form:
+      new_password: Uus parool
+      confirm_new_password: Kinnita uus parool
+      old_password: Vana parool
+      change_password: Muuda parooli
+    show:
+      photos: Fotod
+      all: Kõik
+      videos: Videod
+      notes: Märkused
+      view: Vaata
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: Paste saanud vastava võtme
+      submit: Esita
+    contents:
+      users_which_i_like: kasutajaid, kes mulle meeldib
+      all: Kõik
+      my_videos_likes: Minu videod meeldimist
+      my_photos_likes: Minu pildid meeldimist
+      my_notes_likes: Minu märkmed meeldimist
+      my_user_applications_likes: Minu rakendused meeldimist
+      my_user_requests_likes: Minu taotlused meeldimist
+    more_profile_info:
+      photo_albums: fotoalbumid
+      view_all_photo_albums: Vaata kõiki fotoalbumite
+      create_more: Loo rohkem
+      videos: Videod
+      view_all_videos: Vaata kõiki videod
+      notes: Märkused
+      view_all_notes: Vaata märkmed
+      requirements_lists_to_partner: nõuded toob partner
+      requirement: nõue
+      view_all_requirements_lists: Vaata kõiki nõudeid nimekirjad
+      profile_verification: profiili kontroll
+      your_profile_is_successfully_verified: oma profiili edukalt kontrollitud
+      create: Loo
+      you_have_not_any_requirements_lists_yet: Sa pole mingit nõuded toob veel
+      you_have_not_any_notes_yet: Sa pole veel ühtegi märkust
+      you_have_not_any_photo_albums_yet: Sa pole pildialbumid veel
+      you_have_not_any_videos_yet: Sa pole veel ühtegi videot
+      your_profile_is_not_verified_yet: Sinu profiili ei kontrollita veel
+      verify_through_twitter: kaudu kindlaks Twitter
+      verify_through_facebook: Kinnita Facebooki kaudu
+      verify_through_mail_ru: Kinnita läbi Mail.ru
+    privacy:
+      privacy: Privacy
+  searches:
+    form:
+      location: asukoht
+      from: alates
+      to: et
+      age: Age
+      gender: Sugu
+    form_content:
+      city: City
+      gender: Sugu
+      age_from: Vanus alates
+      to: et
+      online: Hetkel
+      verified: Verified
+      has_avatar: Kas avatar
+      region: Region
+      more: More
+      country: Riik
+      about_me: Minust
+      interests: huvid
+      languages: Keeled
+      names: nimed
+      height: Kõrgus
+      from: alates
+      weight: Kaal
+      body_type: Keretüüp
+      relationship: Relationship
+      hair_color: Juuste värv
+      education: haridus
+      orientation: Orientatsioon
+      search_for: Otsi
+      children: lapsed
+      living: Elu
+      smoking: Suitsetamine
+      alcohol: Alkohol
+      drugs: Drugs
+      income: tulu
+    show:
+      users: Kasutajad
+      clear_search: Clear otsing
+  welcome:
+    index:
+      people: Inimesed
+      requests: taotlused
+      user_applications: rakendused
+      about: üle
+      features: omadused
+      registration: registreerimine
+      sign_in: Logi sisse
+      welcome_main_title: Welcome to Flutylove!
+      welcome_main_text: See on koht, kus saab leida oma ideaalne armastus
+      find_more: Leia rohkem
+      about_title: Flutylove on rahvusvaheline sotsiaalne meelelahutus võrgustik dateeringud
+      about_text: Seal on palju funktsioone, mida saate kasutada meelelahutus ja dateeringud!
+      find_more_features: Leia rohkem funktsioone
+      at_our_service: Tunnused meie teenus
+      many_languages: Paljud keeles
+      text_about_many_languages: Meie teenus on tõlgitud enam kui 70 keelde
+      check_it_out: Uuri
+      videochats: Videochats
+      text_about_videochats: Võite vestelda oma partner videocams
+      try_it_now: Proovi kohe
+      search: Otsing
+      text_about_search: Võite otsida mitme parameetrid ja see on tasuta!
+      watch_this: Jälgi seda
+      more_features: Lisafunktsioonid
+      text_about_more_features: Võite vaadata videoid, mängida mänge ja teha paljusid
+        muid asju!
+      register_and_learn_more: Registreeri ja loe
+      install_our_apps: installeerida meie rakendused on populaarsed platvormid
+      register_header: registreerimine
+  feedbacks:
+    new:
+      feedback_title: tagasiside
+    form:
+      feedback_name: Teie nimi
+      feedback_email: Teie e-posti
+      feedback_content: Tagasiside sisu
+      close: Sulge
+      send: Saada
+      feedback_recaptcha: Recaptcha
+      cancel: Cancel
+    success:
+      success_feedback: Aitäh! Oleme saanud vastava tagasisidet.
+      close: Sulge
+      cancel: Cancel
+      more: Saada rohkem
+  abuses:
+    new:
+      abuse_title: Abuse
+    form:
+      abuse_name: Teie nimi
+      abuse_email: Teie e-posti
+      abuse_content: kuritarvitamine sisu
+      abuse_title: Abuse
+      close: Sulge
+      send: Saada
+      abuse_recaptcha: Recaptcha
+      abuse_link: Link
+      cancel: Cancel
+    success:
+      success_abuse: Aitäh! Oleme saanud vastava teie kuritarvitamine.
+      close: Sulge
+      cancel: Cancel
+      more: Saada rohkem
+  layouts:
+    welcome:
+      welcome_title: Welcome to Flutylove! Kõige arenenum dating site.
+  recaptcha:
+    errors:
+      verification_failed: ebaõnnestus recaptcha
+      recaptcha_unreachable: Recaptcha on kättesaamatu
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Oleme just käivitanud meie teenust!
+      we_have_just_launched_our_service_text: Täna me käivitada meie teenust nii,
+        et igaüks saab
+      sign_up: logida
+      and_use_it: ja seda kasutada.
+      wishes_and_requests: Kui teil on mingeid soove või taotlused, võite sisse logida
+        ja selle kirjutas
+      here: siin
+      with_love: Armastusega,
+      flutylove_team: Flutylove Team
+    index:
+      all_news: Kõik uudised
+      read_more: Loe edasi
+  chats:
+    panel_head:
+      online: Hetkel
+      offline: Offline
+    pagination_link:
+      next_page: Järgmine lehekülg
+    form:
+      message_text: Sõnumi tekst
+    form_additions:
+      submit: Esita
+      videochat: videochatti
+    show:
+      messages: Sõnumid
+    index:
+      messages: Sõnumid
+    videochat_request_link:
+      connect_to_videochat: Connect videovestlusi
+    modal_form:
+      send_message: Saada sõnum
+      recipient: saaja
+      message: Message
+      close: Sulge
+      submit: Esita
+    waiting_video_answer_button:
+      waiting_for_response: Ootan vastust ...
+    chat_created:
+      send_message: Saada sõnum
+      message_was_sent: kiri oli saadetud
+      close: Sulge
+  messages:
+    pagination_link:
+      next_page: Järgmine lehekülg
+    form:
+      message_text: Sõnumi tekst
+  notifications:
+    user_to_friend_connection:
+      action: Action
+    notification:
+      offline: Offline
+      online: Hetkel
+    like:
+      action: Action
+    photo_album_view:
+      action: Action
+    user_view:
+      action: Action
+  user_applications:
+    user_application:
+      who_uploaded: Uploaded by
+      all_uploaded_applications_by: Kõik laetud rakendusi
+    form:
+      name: Nimi
+      user_application_name: Rakenduse nimi
+      description: kirjeldus
+      description_text: Kirjeldus teksti
+      iframe_url: iframe url
+      icon_for_application: Application ikooni
+      upload_icon: Allalaadimisikoon
+      public: Public?
+      category_name: Kategooria
+      create: Loo
+      edit: Edit
+    show:
+      application: taotlemine
+      return_to_uploaded_applications: Et laetud rakenduse
+      edit_application: Edit taotluse
+      return_to_all_applications: Tagasi kõigi rakenduste
+    manage:
+      installed_applications: paigaldatud rakendused
+      uploaded_applications: Üles laetud rakendused
+      all: Kõik
+    index:
+      applications_uploaded_by: Rakendused üles laadinud
+      return_to_all_applications: Tagasi kõigi rakenduste
+      create_new: Loo uus
+      return_to_manage_applications: Tagasi hallata rakendusi
+    installed:
+      installed_applications: paigaldatud rakendused
+      return_to_all_applications: Tagasi kõigi rakenduste
+      return_to_manage_applications: Tagasi hallata rakendusi
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Enne silmas seda rakendust
+        pead sisse logima esimene
+    need_to_install:
+      need_to_install_first: Sa pead seda installida rakendus esimene
+      install_application: Installi rakendus
+  likes:
+    index:
+      liked_items: Meeldis esemed
+      return_to_my_content: tagasi oma sisu
+  videos:
+    index:
+      videos: Videod
+      return_to_edit_profile: toimetamine profiili
+      create_new: Loo uus
+      return_to_profile: Tagasi profiili
+    video:
+      edit: Edit
+      are_you_sure: Oled sa kindel?
+      delete: Kustuta
+    modal_form:
+      create_new_video: Loo uus video
+      close: Sulge
+      create: Loo
+    form_content:
+      name: Nimi
+      video_name: Video nimi
+      source: URL Embed koodi
+      video_url_or_embed_code: Video URL video embed koodi
+    show:
+      video: Video
+      return_to_all_videos: Tagasi kõik videod
+      edit_video: Edit video
+    edit:
+      edit_video: Edit video
+      return_to_view_video: Tagasi View Video
+      view_video: Vaata videot
+    form:
+      edit: Edit
+  photo_albums:
+    index:
+      photo_albums: fotoalbumid
+      return_to_editing_profile: toimetamine profiili
+      create_new: Loo uus
+      return_to_profile: Tagasi profiili
+    photo_album:
+      edit: Edit
+      create: Loo
+      are_you_sure: Oled sa kindel?
+      delete: Kustuta
+    edit:
+      edit_photo_album: Edit fotoalbumi
+      return_to_photo_albums: fotoalbumeid
+      view_photo_album: Vaata fotoalbumi
+    form_content:
+      name: Nimi
+      photo_album_name: Galerii nimi
+    form:
+      edit: Edit
+      create: Loo
+    photo_album_uploader:
+      drag_and_drop_your_file: lohistada faili
+      here: siin
+      or: või
+      upload_file: upload faili
+      from_other_sites: teistele saitidele
+      write_down_link_for_your_image: Kirjutage link oma pilt
+      url_for_image: URL pilti
+      upload: Laadi
+      from_facebook: Facebook
+      turn_on_facebook: Lülita Facebook
+      you_can_upload_your_photos_from_facebook: Võite saata oma fotosid Facebook
+      from_vkontakte: From Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Võite saata oma fotosid Vkontakte
+      turn_on_vkontakte: Lülita Vkontakte
+      from_instagram: From Instagram
+      you_can_upload_your_photos_from_instagram: Võite saata oma fotosid Instagram
+      turn_on_instagram: Lülita Instagram
+      from_dropbox: Dropbox
+      you_can_upload_your_photos_from_dropbox: Võite saata oma fotosid Dropbox
+      turn_on_dropbox: Lülita Dropbox
+    show:
+      photo_album: Galerii
+      return_to_photo_albums: fotoalbumeid
+      edit_photo_album: Edit fotoalbumi
+    modal_form:
+      create_new_photo_album: Loo uus fotoalbumi
+      close: Sulge
+      create: Loo
+  user_requests:
+    form:
+      content: sisu
+      edit: Edit
+      create: Loo
+  notes:
+    index:
+      notes: Märkused
+      return_to_edit_profile: toimetamine profiili
+      create_new: Loo uus
+      return_to_profile: Tagasi profiili
+    note:
+      edit: Edit
+      are_you_sure: Oled sa kindel?
+      delete: Kustuta
+    show:
+      note: Märkus
+      return_to_notes: Tagasi märkmed
+      edit_note: Edit märkus
+    form_content:
+      content: sisu
+      note_content: Märkus sisu
+      edit: Edit
+      create: Loo
+    edit:
+      edit_note: Edit märkus
+      return_to_notes: Tagasi märkmed
+      view_note: Vaata märkus
+  user_to_search_connections:
+    index:
+      requirements_lists: Nõuded nimekirjad
+      return_to_editing_profile: toimetamine profiili
+      create_new: Loo uus
+    user_to_search_connection:
+      edit: Edit
+      are_you_sure: Oled sa kindel?
+      delete: Kustuta
+    edit:
+      edit_requirements_list: Edit nõuetele nimekirjad
+      return_to_requirements_lists: nõuetele nimekirjad
+      view_requirements_list: Vaata nõuete nimekirja
+    form_content:
+      name: Nimi
+      name_of_your_requirements_list: nimi oma nõuded nimekirja
+    form:
+      edit: Edit
+    show:
+      requirements_list: Nõuded nimekirja
+      return_to_requirements_lists: nõuetele nimekirjad
+      edit_requirements_list: Edit nõuete nimekirja
+  photos:
+    index:
+      photos: Fotod
+      return_to_photo_albums: Tagasi fotoalbumite
+      return_to_profile: Et profiili
+  errors:
+    messages:
+      already_confirmed: oli juba kinnitatud, siis proovige sisselogimisel
+      confirmation_period_expired: tuleb kinnitas jooksul% {periood}, siis uut taotleda
+      expired: on aegunud, siis uut taotleda
+      not_found: ei leitud
+      not_locked: ei ole lukustatud
+      not_saved:
+        one: '1 viga on keelatud selle% {ressurss} salvestamist:'
+        other: "% {count} vigu keelatud selle% {ressurss} salvestamist:"
+    bad_request:
+      bad_request: Bad Request
+      request_result: taotlus tulemus
+      bad_request_description: Server ei saa või ei ole taotlust menetletakse tõttu
+        ilmne kliendi viga
+      go_to_root: Mine juur
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable Entity
+      request_result: taotlus tulemus
+      unprocessable_entity_description: taotlus oli hästi arenenud, kuid ei suutnud
+        järgneda tõttu semantiline vigu
+      go_to_root: Mine juur
+    not_found:
+      not_found: ei leitud
+      request_result: taotlus tulemus
+      not_found_description: Otsitud ressurssi ei leitud, kuid võib olla võimalik
+        tulevikus
+      go_to_root: Mine juur
+    forbidden:
+      forbidden: Forbidden
+      request_result: taotlus tulemus
+      forbidden_description: taotlus oli kehtiv taotluse, kuid server keeldub reageerida
+      go_to_root: Mine juur
+    internal_server_error:
+      internal_server_error: Internal Server Error
+      request_result: taotlus tulemus
+      internal_server_error_description: Midagi läks valesti. Me seda parandada nii
+        kiiresti kui võimalik.
+      go_to_root: Mine juur
+  pages:
+    privacy:
+      privacy: Flutylove Privaatsus
+      general_provisions: Üldsätted
+      p_1_1: 1.1. Need määrused on ametlik dokument, millega osaühing "Technoelegance",
+        mis asub aadressil 101000, Moskva, Ulanskiy Pereulok 13, stroeniye 4, pomeshcheniye
+        1 (edaspidi Flutylove Firma Me) ning määrata menetlused andmete töötlemise
+        ja infoturbe üksikisikute kes on jõudnud 18-aastaseks ja kes kasutavad veebilehte
+        https://flutylove.com (edaspidi veebileht) ja selle teenused (edaspidi kasutajad).
+      p_1_2: 1.2. Käesolevate määrustega on tagada nõuetekohane kaitse kasutaja andmeid,
+        sealhulgas isikuandmeid, lubamatu juurdepääsu ja avalikustamine.
+      p_1_3: 1.3. Suhted on seotud kogumise, ladustamise, jaotamise ja turvalisus
+        Koduleht kasutaja andmed on reguleeritud nende määruste, muud ametlikud dokumendid
+        Ettevõtte ja kehtivate õigusaktide Vene Föderatsiooni.
+      p_1_4: 1.4. Praeguse versiooni määrused, mis on avalik dokument, on kättesaadav
+        mis tahes Interneti-kasutaja kui pärast link http://flutylove.com/pages/privacy.
+        Ettevõttel on õigus muuta käesolevaid eeskirju. Juhul, kui on tehtud muudatusi
+        määrustes, Firma teatab kasutajate saates uus versioon määruste veebilehel
+        alaline aadress http://flutylove.com/pages/privacy, kuid mitte hiljem kui
+        10 päeva enne efektiivne kuupäeva muutusi. Eelmise versiooni määrused on salvestatud
+        dokumentide arhiiv Company.
+      p_1_5: 1.5. Need määrused on välja töötatud ja neid kasutatakse vastavalt Kasutaja
+        lepingu. Juhul, kui tekib vastuolu nende vahel määrused ja muud ametlikud
+        dokumendid Ettevõtte need määrused tuleb jõustada.
+      p_1_6: 1.6. Veebisaiti kasutades, nõustute tingimustega privaatsuspoliitikaga.
+        Palun loe neid hoolikalt. Kui te ei nõustu tingimustega siin privaatsuspoliitikas,
+        või sa ei ole jõudnud 18aastane, siis ei tohi kasutada Veebilehte ja selle
+        teenused. Veebisaiti kasutades, olenemata sellest, kas olete registreeritud
+        kasutaja Flutylove või mitte, kinnitate, et olete täielikult nõustuda Privaatsus
+        ja nõus seda järgima.
+      the_website_using_conditions: veebilehel kasutades tingimused
+      p_2_1: '2.1. Veebisaidi kasutamise Flutylove, pead sa registreerima. Järgnev
+        informatsioon tuleks täpsustada registreerimise ajal: nimi, e-posti aadress,
+        sugu, sünniaeg, asukoha kohta. Kasutaja võib anda täiendavat isiklikke andmeid
+        tema / tema enda soov. Kasutaja võib muuta või uuendada isiklikke andmeid
+        igal ajal. Firma on õigus nõuda täiendavaid tõendavaid dokumente juhul, kui
+        muutub sugu ja sünniaeg kasutaja.'
+      p_2_2: '2.2. Lubades juurdepääsu veebilehele ja selle teenused Firma, kes tegutseb
+        mõistlikult ja heas usus, leiab, et Kasutaja: mõistab, et registreerimise
+        Veebilehel on vaja olla üle 18 aasta vana; on kõik vajalikud õigused, et oleks
+        võimalik registreeruda eeltoodud aadressil ja seda kasutada; näitab täpset
+        teavet ise / ise vastavalt taotlustele kasutamise Teenused Veebisaidi; on
+        teadlik, et isikuandmeid veebilehel, tingimusel et kasutaja võib muutuda kättesaadavaks
+        teistele kasutajatele veebilehel ja internetikasutajate, on võimalik kopeerida
+        ja levitab teiste kasutajate on teadlik, et teatud tüüpi informatsiooni, üle
+        teisele Kasutajad ei saa eemaldada kasutajat; tuttavad need määrused, nõustub
+        nendega ja kohustub nimetatud õigused ja kohustused.'
+      p_2_3: 2.3. Ettevõte ei õigsuse kontrollimiseks saadud (kogutud) teave kasutajad,
+        välja arvatud juhul, kui selline kontroll on vajalik selleks, et täita Ettevõtte
+        kohustused kasutaja.
+      information_processing_objectives: Andmetöötlus eesmärgid
+      p_3_1: 3.1. Firma teostab infotöötluse kasutajate kohta, sealhulgas nende isikuandmeid,
+        et täita Ettevõtte kohustused kasutajate veebilehe kasutamise ja selle teenused.
+      p_3_2: 3.2 Seltsil on õigus teostada isikuandmete töötlemise, ilma et sellest
+        pädevale asutusele õiguste kaitse isikuandmete teemasid.
+      structure_of_the_user_information: struktuur kasutaja andmed
+      p_4_1: '4.1. Isikuandmed Kasutajad sisaldab:'
+      p_4_1_1: 4.1.1. nimi, e-posti aadress, sugu, sünniaeg, asukoha informatsiooni
+        ja telefoninumber, mis on sätestatud Kasutajad ja peaks olema lihtsalt piisavalt
+        registreerimise veebilehel;
+      p_4_1_2: 4.1.2. teavet, mis on ette nähtud kasutaja (näiteks fotosid, infot
+        hukatuslik harjumusi jne);
+      p_4_1_3: 4.1.3. Lisaks annab kasutajale vastavalt ettevõtte taotluse, et täita
+        Ettevõtte kohustused Kasutajad, kes esinevad kasutajaga kokkuleppele. Ettevõttel
+        on õigus, eelkõige nõuda Kasutaja koopia isikut tõendava dokumendi või muud
+        dokumendid, mis sisaldavad nime, sugu ja sünniaeg, samuti muid täiendavaid
+        andmeid, mis on ettevõtte äranägemisel, on vajalik ja piisav, et tuvastada
+        sellise kasutaja ja kaoks kuritarvitamist ja rikkumist kolmandate isikute
+        õigusi.
+      p_4_2: '4.2. Teised infotöötluse Ettevõtte poolt Veebilehe haldus töötleb ka
+        muud teavet kasutajad, mis sisaldab:'
+      p_4_2_1: 4.2.1. ühiseid andmeid, automaatselt vastu http-serveri ligipääsul
+        Koduleht ja edasist tegevust Kasutaja (IP-aadress peremehe tüüpi kasutaja
+        operatsioonisüsteem, lehekülgedele külastanud kasutaja).
+      p_4_2_2: 4.2.2. teavet, mis on automaatselt vastu pöördumise ajal Website kasutades
+        järjehoidjaid (cookies);
+      p_4_2_3: 4.2.3. teavet, mis on saadud tänu kasutaja tegevust veebilehel;
+      p_4_2_4: 4.2.4. teavet, mis on saadud tänu meetmetele teiste kasutajate veebilehel.
+      users_information_processing: Kasutaja info töötlemine
+      p_5_1: '5.1. Isikuandmete töötlemise viib läbi tuginedes järgmistele põhimõtetele:
+        a) seaduslikel eesmärkidel ja vahendid isikuandmete töötlemisel; b) ausus;
+        c) vastavus isikuandmete töötlemise eesmärkidel eesmärgil kindlaks määratud
+        ja tunnistatud kogumisel isikuandmeid, samuti vastavust volikirjad Company;
+        d) nõuetele vastavuse mahu ja tüübi isikuandmete töötlemisel ja vastavuse
+        abil isikuandmete töötlemise eesmärkidega seotud selle töötlemine; e) vastuvõetamatust
+        ühendades loodud andmebaasid sobimatutel eesmärkidel, mis sisaldab isikuandmeid.'
+      p_5_1_1: 5.1.1. Kogumise isikuandmed Kasutaja toimub veebilehel, kui registrisse,
+        samuti tulevikus, kui kasutaja lisab rohkem informatsiooni ise / ise Veebisaiti
+        kasutades vahendeid tema / tema enda algatusel.
+      p_5_1_2: 5.1.2. Kasutajate isikuandmeid salvestatakse üksnes elektroonilisel
+        kujul ja töödeldud automatiseeritud süsteemid, välja arvatud juhul, kui käsitsi
+        isikuandmete töötlemisel on vaja selleks, et täita õiguslikke nõudeid.
+      p_5_1_3: 5.1.3. Kasutaja isikuandmeid ei edastata kolmandatele isikutele, välja
+        arvatud juhtudel, mida need määrused ja kasutaja kokkuleppe. Nõusolekul kasutaja,
+        kasutaja isikuandmeid võib edastada kolmandale osapooltele Ettevõtte tingimusel
+        asumise kohustus tagada konfidentsiaalsus saanud teabe, eelkõige siis, kui
+        kasutatakse teenuseid ja rakendusi. Kasutaja isikuandmeid eraldiste taotluse
+        valitsusasutuste (kohalikud omavalitsused) toimub menetlus, nagu on nõutud
+        seaduse.
+      p_5_1_4: '5.1.4. Kasutaja isikuandmeid kustutatakse, kui: - on andmed ise kustutada
+        lehele Kasutaja poolt; - Leht on ise jäetud Kasutaja; - Kasutaja andmed ja
+        selle isikliku lehekülje eemaldatakse Company. Kui lehe kustutamine Kasutaja
+        poolt enda Ettevõtte salvestab kasutaja isikuandmeid oma elektroonilise meedia
+        210 päeva jooksul pärast isikliku lehekülje eemaldatakse. Isikuandmed on kustutatud
+        lõppemisel 210 päeva jooksul alates isikliku lehekülje eemaldatakse. Kuni
+        selle aja möödumist, Kasutajal on õigus taastada isiklikku lehte.'
+      users_rights_and_obligations: Kasutaja õigused ja kohustused
+      p_6_1: '6.1. Kasutajal on õigus:'
+      p_6_1_1: 6.1.1. juurdepääsu tema kohta / tema piiranguteta ja tasuta muutes
+        oma isikliku lehekülje veebilehel kasutades kasutajanime ja parooli;
+      p_6_1_2: 6.1.2. iseseisvalt teha muudatusi ja parandusi teavet Kasutaja isiklikuks
+        lehel veebilehel, tingimusel, et sellised muudatused ja parandused sisaldavad
+        up-to-date ja õige teave;
+      p_6_1_3: 6.1.3. eemalda teavet isikliku lehekülje veebilehel;
+      p_6_1_4: 6.1.4. taotleda Ettevõtte saada täpsemat teavet, plokk või kustutada
+        isikuandmeid, kui need andmed on puudulikud, aegunud, ebatäpne, ebaseaduslikult
+        saadud või ei ole vajalikud deklareeritud töötlemise eesmärgil või kui meetmeid
+        punktis 6.1.3 nimetatud määrused ei saa rakendada iseseisvalt;
+      p_6_1_5: 6.1.5. alusel taotluse saada teavet ühingu töötlemisega seotud tema
+        / tema isikuandmed.
+      p_6_2: '6.2. Järgmised teavet iga registreeritud Koduleht Kasutaja on alati
+        kättesaadav registreeritud kasutaja: kasutaja nimi, sugu, vanus, profiilifotona
+        ja muud informatsiooni kui kasutaja on postitanud.'
+      p_6_3: 6.3. Firma ei vastuta ühelgi juhul avalikustamine kasutaja isikuandmeid
+        teiste kasutajate Koduleht kes on külastatud selliseid andmeid.
+      p_6_4: 6.4. Kui isikuandmed (teine ​​kasutaja infot) eemaldamist kasutaja isiklikku
+        lehele või eemaldamine Kasutaja isiklikuks lehe veebisaidi, kasutaja andmed
+        kopeeritakse teiste kasutajatega või salvestatud teiste kasutajate lehekülge
+        on säilinud.
+      users_information_protection_measures: kasutajate informatsiooni kaitsemeetmed
+      p_7_1: 7.1. Firma võtab tehniliste, organisatsiooniliste ja õiguslike meetmeid,
+        et tagada, et kasutaja isikuandmeid kaitstakse loata või juhusliku juurdepääsu,
+        kustutamine, muutmine, sulgemine, kopeerimine ja levitamine, samuti teiste
+        volitamata tegevusi.
+      p_7_2: 7.2. Kasutaja sisselogimise (e-posti aadress või mobiiltelefoni number)
+        ja parooli, mida kasutatakse juurdepääsuks veebilehele. Kasutaja vastutab
+        hoida sellist teavet konfidentsiaalsena. Kasutaja ei edastata kasutajanime
+        ja parooli kolmandatele isikutele ja on samuti kohustatud võtma meetmeid,
+        et tagada selle konfidentsiaalsus.
+      limitation_of_the_regulations_applicability: piiramine määruste kohaldamist
+      p_8: Need määrused ei laiene tegevusi ja Interneti ressursside kolmandate isikute
+        suhtes. Ei kanna firma vastutust kolmandate isikute tegevuse, kes said juurdepääsu
+        kasutaja infot interneti kaudu või Koduleht Teenused. Veebileht Administration
+        soovitab Kasutajad läheneda küsimus infohulk veebisaidil vastutustundlikult.
+      user_requests: Kasutaja taotlusi
+      p_9_1: '9.1. Kasutajad on õigus esitada teabenõuded Ettevõtte sealhulgas taotluste
+        kasutamise kohta isikuandmete kirjalikult aadressil: Venemaa, 101000, Moskva,
+        Ulanskiy Pereulok 13, stroeniye 4, pomeshcheniye 1 või elektroonilise dokumendina
+        allkirjastab kvalifitseeritud elektroonilise allkirja vastavalt õigusaktidele
+        Vene Föderatsiooni poolt email: support@flutylove.com.'
+      p_9_2: '9.2. Kasutaja taotlus peab sisaldama järgmisi andmeid: number isikut
+        tõendava dokumendi kasutaja või tema esindaja; väljaandmise kuupäev eespool
+        nimetatud dokument ja väljaandja; teavet, mis kinnitab Kasutaja osalemine
+        suhted operaator (eelkõige linki leheküljel); allkiri Kasutaja või tema /
+        tema esindaja.'
+      p_9_3: 9.3. Ettevõte kohustub kaaluma ja reageerida kasutaja taotlusel 30 päeva
+        jooksul pärast selle vastuvõtmist.
+      p_9_4: 9.4. Kogu kirjavahetus laekunud Company Kasutajad (kirjaliku või elektroonilise
+        taotluse) on klassifitseeritud kui piiratud juurdepääsuga teavet ning ei tohi
+        avalikustada ilma kasutaja kirjalikul nõusolekul. Isikuandmeid ja muud infot
+        kasutaja, kes saatis taotluse ei tohi kasutada, ilma kasutaja jaoks loa, erinevalt
+        kui vastuse taotlusele või juhtudel sõnaselgelt sätestatud kohaldatava õigusega.
+    terms:
+      terms: Flutylove Kasutaja lepingu
+      welcome: Welcome to Flutylove!
+      about_terms: 'Need kasutustingimused (samuti nimetatud dokumentide siin, sealhulgas
+        Privaatsus) on lepingu adhesiooni vastavalt artikli 428 tsiviilseadustiku
+        Vene Föderatsiooni (edaspidi "leping") vahel isik, kes on jõudnud 18-aastastele
+        (edaspidi "Kasutaja" ja Company (või "meie") - osaühing "Technoelegance" (LLC
+        "Technoelegance") (juriidiline aadress: 101000, Moskva, Ulanskiy pereulok
+        13 stroeniye 4, pomeshcheniye 1), edaspidi Flutylove, mille kohaselt saab
+        kasutada seda kodulehel ja kõik seotud teenuste veebilehe kaudu või taotluse
+        (üldiselt kui "teenused"). Veebileht all mõistetakse mis tahes oma versioone,
+        kombineeritud all domeeninime flutylove.com ja opereerib erinevaid seadmeid,
+        sealhulgas veebipõhised versiooni, mobiil taotlused ja sotsiaalseid võrgustikke.Kasutades
+        seda veebilehte nõustud lepingu tingimustega ja Privaatsus. Palun loe neid
+        hoolikalt. Kui te ei ole nõus lepingu tingimustega ja Privaatsus, või sa ei
+        ole jõudnud 18aastane, siis ei tohi kasutada Veebilehte ja selle teenused.Kasutades
+        kodulehel, sõltumata olete registreeritud kasutaja Flutylove või mitte, siis
+        täiesti nõus käesoleva lepingu ja meie privaatsuspoliitika, mis on kantud
+        käesoleva lepingu link ja on kättesaadav kodulehel ning järgida.Kasutaja taotlusel,
+        Firma kohustub kirjutama käesoleva lepingu paberkandjal ja saata selle taotleva
+        isiku dokumendid.Ettevõte jätab endale õiguse muuta Kasutaja lepingu ja mis
+        tahes dokumendi esitamisest. Et olla teadlik muudatusi, mida vaja hoida-up-to-date
+        teavet sellised muutused regulaarselt. Me teavituse tegime selle lehe allpool.
+        Muutused ei puuduta tagasi jõustub kümne päeva jooksul alates avaldamisest.
+        Kuid juhul, kui need on seotud rakendamise uute teenuste või õigusaktide muutmist,
+        siis tuleb rakendada kohe. Kui te ei nõustu muutusi lepingu, peate lõpetama
+        Koduleht ja selle rakendused.'
+      consent_to_accept_the_terms_of_user_agreement: 1. NÕUSOLEKU tingimustega nõus
+        Kasutustingimused.
+      p_1: a. Elektrooniline lepingu. Käesolev leping on elektrooniline versioon leping,
+        mis kirjeldab tingimusi veebilehe kasutamise ja teenused. Logides et Saidil
+        on kasutaja, siis kiidavad käesoleva lepingu ja on nõus kõik tingimused, tingimusi
+        ja märkusi, mis on esitatud või viidatud olemas. Sa kinnitada ja nõus, et
+        kasutajad Flutylove võib olla osa kogukond, mis sisaldab muid veebisaite kuuluva
+        ettevõtte või selle tütarettevõtted. Seetõttu profiilid Veebilehel saab vaadata
+        teiste sarnaste veebisaitide ja maksavad tellijad ühest kodulehel saab suhelda
+        teiste maksavad tellijad kõik veebilehed. b. Elektroonilisel kujul. Logides
+        veebisaidile või saamas Kasutaja, olete nõus, et anda teile elektroonilise
+        lepingu. c. Hardcopy kujul. Teil on õigus saada paberkandjal käesoleva lepingu.
+        Võite küsida paberkandjal väljaanne käesoleva lepingu enne või pärast seda
+        sõlmitud elektroonilisel kujul. Palun võtke ühendust meie klienditeenindusega
+        rohkem teavet. d. Juurdepääs ja alla laadida. Et pääseda ja lae see elektrooniline
+        lepingu, sul peab olema juurdepääs Internetile või otse läbi seadmete juurdepääsu
+        Web ressursse. Sa pead olema vajalikud seadmed ühendada internetti, nimelt
+        arvuti, modemi või muu juurdepääsu seade. Palun printige koopia käesoleva
+        lepingu ja hoida. Et laadida elektroonilise vormi lepingu, salvestage see
+        oma arvutisse abiga suvalise tekstiredaktoriga.
+      the_right_of_using_the_website: 2. kasutamise õigus veebilehel.
+      p_2: Sa pead olema vähemalt kaheksateist (18) aastat vana, et saada registreeritud
+        kasutaja sellel veebilehel. Kui mittevastavus nõuetele, juurdepääsu veebilehele,
+        siis seda ignoreeritakse. Kasutades kodulehel, kasutaja peaks olema teadlik,
+        et isikuandmeid veebisaidil võivad olla saadaval teisi Interneti kasutajaid
+        ning ettevõte ei vastuta oma tegude eest. Kasutades seda veebilehte teile
+        kinnitada ja läbi, et teil on õigus, asutuse ja võimalust sõlmida käesoleva
+        lepingu ja nõusoleku järgida kõiki selle tingimustega. Saades Kasutaja teile
+        kinnitada ja läbi, et sa ei ole kunagi kannatanud süüdimõistmist kuriteo seotud
+        seksuaalse vägivalla. Veebileht on mõeldud ainult isiklikuks kasutamiseks.
+        Keelatud on kasutada Koduleht kaubanduslikul eesmärgil. Ettevõtte üksused
+        ei saa olla veebisaidi kasutajatele, samuti ei saa kasutada seda Service või
+        veebileht oma eesmärkide saavutamiseks. Ebaseaduslik ja / või volitamata kasutamise
+        veebilehel, sealhulgas andmete kogumine kasutajanime ja / või e-posti aadressi,
+        mille abiga elektrooniliste või muude vahendite saatmise eesmärgil soovimatuid
+        sõnumeid ja lingid on ellu ning ettevõttel võivad võtta asjakohaseid meetmeid
+        vastavalt seadusele, sealhulgas kaebus õiguskaitseorganid.
+      pricing_and_registration: 3. HIND JA REGISTREERIMINE
+      p_3: Sa võimalik saada Kasutajale Flutylove kohta freewill ja tasuta alusel
+        registreerudes veebilehel. Nagu kasutaja, siis võib kasutada konkreetseid
+        erinevaid teenuseid ja võimalusi kodulehel. Kasutaja kodulehel on individuaalne
+        registreeritud veebilehel vastavalt kehtestatud korrale ja kes on jõudnud
+        18-aastane. Registreerumisel Veebilehel Kasutaja on kohustatud andma vajalikku
+        ja asjakohast teavet ettevõtte lõpule Kasutaja lehel, sealhulgas login (e-posti
+        aadress või telefoninumber) ja parool juurdepääsu veebilehele, samuti nime,
+        mis on unikaalne iga kasutaja. Vormi registreerimiseks võib nõuda lisaandmeid
+        kasutaja. Kasutaja vastutab kehtivuse, reaalsus, täielikkust ja vastavust
+        seadusele Vene Föderatsiooni esitatud teabe registreerimisel ja selle puhtuses
+        alates nõuded kolmandate isikute suhtes. Registreerumisel Kasutaja nõus käesoleva
+        lepingu ja tegema kindlaks õigused ja kohustused, mis on seotud kasutamise
+        ja toimimise veebilehel. Kasutaja saab täieliku juurdepääsu kasutades Koduleht
+        funktsioone. Ettevõte kohustub õigused ja kohustus kasutaja, täpsustatud nende
+        määruste, pärast edukat registreerimist Kasutaja Veebilehel Kasutaja isikuandmete
+        töötlemise toimub vastavalt seadusele Vene Föderatsiooni. Veebileht Administration
+        töötleb kasutaja isikuandmeid, et pakkuda kasutajale juurdepääsu kasutamine
+        Koduleht funktsioone, sealhulgas saavad isikustatud (suunatud) reklaam; kontrollimine,
+        uurida ja analüüsida neid andmeid, mis võimaldaks toetada ja parandada funktsioonid
+        ja osad Koduleht, samuti arendada uusi funktsioone ja lõigud. Firma võtab
+        kõik vajalikud meetmed, et kaitsta isikuandmeid Kasutaja lubamatu juurdepääsu,
+        muutmise, avaldamise või kustutav. Ettevõte pakub ligipääsu isikuandmete Kasutaja
+        vaid need töötajad, töövõtjad ja agentide Company, kes vajavad seda teavet,
+        et toetada veebisaidi funktsionaalsuse ja pakkuda kasutajale juurdepääsu selle
+        abil. Firma Koduleht on õigus kasutada teavet Kasutaja, sealhulgas isikuandmeid,
+        et tagada vastavus kehtivate õigusaktide nõuete Vene Föderatsiooni (sealhulgas
+        ennetamiseks ja / või allasurumine ebaseadusliku ja / või ebaseadusliku meetmete
+        kasutajat). Avalikustamine teabe Kasutaja võib teha ainult kooskõlas kehtivate
+        õigusaktide Vene Föderatsiooni palvel kohus, õiguskaitseorganid, samuti muudel
+        juhtudel, nagu on sätestatud kohaldatava õiguse, Vene Föderatsiooni. Sel määral,
+        et firma töötleb isikuandmeid Kasutaja täitmise eest nende määruste, kasutaja
+        nõusoleku isikuandmete töötlemiseks ei ole vajalik tulenevalt õigusnormide
+        isikuandmete. Kasutajanime ja parooli kasutaja valitud on vajalik ja piisav
+        informatsioon kasutajale juurdepääsu veebilehele. Kasutajal on õigus anda
+        oma / tema kasutajanime ja parooli kolmandatele isikutele, ja on täiesti vastutab
+        oma ohutuse, valides viis ladustamiseks neid iseseisval alusel. Kasutades
+        oma / tema riist- ja tarkvara kasutaja võib lubada hoidmiseks ja parooli (läbi
+        küpsised) järgnevate automaatne autoriseerimine veebilehel. Liikmesriikides
+        võetud meetmete kasutamist kasutaja kasutajanime ja salasõna loetakse pannud
+        Kasutaja, kui ei ole tõendatud vastupidist kasutaja. Kasutaja on kohustatud
+        viivitamatult teavitama Company vastavalt kehtestatud korrale korral volitamata
+        juurdepääsu kasutajanime ja parooli ja / või konto lehele, või avalikustamise
+        ja parooli. Pärast registreerimist Kasutaja saab õiguse luua, kasutada ja
+        määratakse tema / tema isiklik lehekülgi egoistlik ja mitteärilistel eesmärkidel,
+        samuti saavad võimaluse pääseda ja postitada teavet isiklikke lehekülgi teiste
+        kasutajate . Kasutaja omanikuna informatsiooni postitatud isiklik leht on
+        teadlik, et välja arvatud juhtudel kehtestab nende määruste ja kehtivate õigusaktide
+        Vene Föderatsiooni ettevõte ei väljatöötamises osalemine ja kasutades materjale
+        ja ei kontrolli juurdepääsu Kasutaja lehekülje teiste kasutajatega.
+      terms_4: 4. mõttes.
+      p_4: See leping täielikult jääb jõusse nii kaua, kui te kasutate veebilehel.
+        Te võite lõpetada olles Kasutaja Veebisaidi eemaldades oma lehele igal ajal
+        mis tahes põhjusel, võtta ühendust meie online klienditeeninduse või teenuse
+        kasutamist kodulehel. Ettevõte jätab endale õiguse kustutada oma isiklikku
+        lehte igal ajal. Me ei ole kohustatud teavitama teid enne kustutamist leht,
+        kui ettevõttel on põhjust uskuda, et te olete rikkunud tingimuste kohaselt.
+        Me ei ole kohustatud avaldama kaotamise põhjus oma konto; mõnel juhul sellise
+        teabe avaldamine võib keelata. Pärast kustutamist lehele, kõik tingimused,
+        mis võivad olla kehtivad pärast käesoleva lepingu lõppemist oma olemuselt
+        on jõus pärast selle lõpetamist. Kui teil kustutada oma lehele veebilehe kaudu
+        oma tahtmist, siis võib paluda teil täpsustada põhjus sellise kustutamine.
+      account_security: 5. konto turvalisust.
+      p_5: Sa vastutad konfidentsiaalsuse säilitamiseks oma kasutajanimi ja parool,
+        mis seatakse ajal registreerimine. Ka teil on absoluutselt vastutavad kõik
+        tegevused, mis on seotud teie kasutajanime ja parooli. Sa oled nõus, et (a)
+        viivitamatult meile loata kasutamise oma kasutajanime ja parooli, samuti muid
+        turvalisuse rikkumine ja (b) väljumine oma konto lõpus iga istungil. Veebileht
+        ei vastuta kahjude või kulude tulenevad mittevastavuse käesoleva sätte. Sa
+        peaksid olema eriti ettevaatlikud oma kontosse sisse logida avalikku arvutit
+        et kõrvalised isikud ei saaks luurama või salvestada oma parooli või mis tahes
+        muud isiklikku informatsiooni. Samuti kinnitab ja nõustub, et internet ei
+        ole kunagi täiesti privaatne ja turvaline. Saad aru, et kõik teated või teave
+        saadate Koduleht võib lugeda või kasutada teised kasutajad, isegi siis, kui
+        on olemas spetsiaalne hoiatus, et info on peidetud.
+      your_interaction_with_other_users_of_the_website: 6. teie suhtlemist teiste
+        kasutajate kodulehel.
+      p_6: a. YOU ARE VASTUTATE teie suhtlemist teiste kasutajatega. Sa peaksid mõistma,
+        et ettevõte ei kontrolli oma kasutajatele, kas nad on eelnevalt kriminaalkorras
+        karistatud. Firma ka ei taotle teave mineviku nende kasutajate JA EI valideerida
+        seda teavet. Ettevõte ei tee tagatist kasutaja käitumisele ning nende vastavust
+        tegelike või tulevaste kasutajatega. SAMAL AJAL Ettevõte jätab endale õiguse
+        kontrollida kasutajate karistatust või teostada muid igal ajal kontrollida,
+        kasutades olemasolevat avalik teave. b. Mitte mingil juhul ei ettevõte ei
+        ole vastutab kõikide kahjude, kas nad on otsese, kaudse, GENERAL või on spetsiifilise
+        iseloomuga kompenseerivad ja / või juhuslike, SAADUD VÕI kõigi teiste üksikisikute
+        AS kasutamise tagajärjel veebilehel, SH, AGA MITTE AINULT, KEHAVIGASTUSTE
+        stress ja / või muud kahjud, MILLE TE SAATE TULEMUS andmete edastamiseks või
+        kohtumistel teiste registreeritud kasutajatele kodulehe või rahvas, et te
+        tegelete ON veebilehel. YOU kokku võtta kõiki võimalikke ettevaatusabinõusid
+        suheldes teiste kasutajatega, eriti juhul, kui te otsustate neid täita reaalses
+        elus. Te peate olema teadlik, mida firma ei anna välja kuulutatud või GARANTIID
+        käsitleb kooskõla veebisaidi kasutajatele. TE ei tohi jätta tilitietojasi
+        teiste kasutajate veebilehel (näiteks infot oma krediidi- või plastikkaardid).
+        c. Teenus võib tõlkida oma nimi või nime oma linna teiste keeltega; d. Teenus
+        ei vastuta loetletud meetmeid käesolevas artiklis. Kui sa ei ole nõus neid
+        täielikult või osaliselt, palun koheselt lahkuma veebilehel;
+      the_information_posted_by_you_on_flutylove: 7. andmed postitatud REKLAAMMATERJALI
+        FLUTYLOVE
+      p_7: a. Te olete ainuisikuliselt vastutav informatsiooni, mida avaldada või
+        näidata (edaspidi "post") Teenuse või kanda teistele kasutajatele. Sul ei
+        ole lubatud postitada Teenuse või kanda teistele kasutajatele mis tahes teavet
+        laimavad, ebatäpsed, kuritahtlik, rõve, vulgaarne ja agressiivne sisu, teave
+        seksuaal- sisu, samuti ähvardava või jälitamine teabe- rassilise diskrimineerimise
+        olemus või ebaseadusliku teabe või muu teabe, mis või rikkuda õigusi mõne
+        teise isiku (sealhulgas, kuid mitte ainult, intellektuaalse omandi õigused,
+        privaatsuse ja avalikustamise). Sul ei ole lubatud anda ebatäpse, eksitava
+        või vale teabe äriühing või muu kasutaja. Kui teave ettevõtte Flutylove või
+        teise kasutaja saab edaspidi ebatäpse, eksitava vale, siis tuleb viivitamata
+        ettevõte Flutylove sellise muudatuse. Sa esitada ning tagama, et kõik ette
+        registreerimise käigus on täpne ja tõene, ja sa kohe muuta mis tahes teavet,
+        mis hiljem muutub ebatäpse, eksitava või vale. b. Te mõistate ja nõustute,
+        et meil on õigus, kuid mitte kohustus jälgida informatsiooni või sisu, mis
+        kantakse Teenuse või postitada üldsuse juurdepääsu kohta Service. Meil on
+        õigus kustutada mistahes sellise teabe või sisu ei määrata mis tahes põhjusel
+        ja teatavakstegemisest. c. Kõik objektid kuvatakse veebilehel, sealhulgas
+        disaini elemendid, teksti, graafika, illustratsioonid, videod, skripte, programme,
+        muusikat, helisid ja muud objektid ja nende raamatukogud (edaspidi - Teave),
+        on vara ainuõigust Company, kasutajate Koduleht ja teiste õiguste omanike,
+        kõik õigused need objektid on kaitstud. d. Välja arvatud kehtestatud vastavalt
+        käesoleva lepingu, samuti kehtivate õigusaktide Vene Föderatsiooni, puudub
+        teave võib kopeerida (reprodutseerida), töödeldud, levitada, kuvada raami,
+        mis avaldati, alla, kanda, müüakse või kasutatakse muul viisil terved või
+        tükeldatud ilma eelneva loata omanik, kui õiguste valdaja selgesõnaliselt
+        väljendanud nõusolekut tasuta kasutada info- iga üksikisik. e. Saates kodulehel
+        olev informatsioon seaduslikult kuuluva kasutaja, kasutaja annab juurdepääsu
+        teistele kasutajatele mitte-ainuõiguse kasutada seda vaadates, esituse (sealhulgas
+        kopeerimine) ja muud õigused üksnes isiklikuks mitteäriliseks kasutamiseks,
+        arvatud juhul, kui juhtudel, kui selline kasutamine põhjustab või võib kahjustada
+        huvide õiguste omaja seadusega kaitstud. f. Kasutades on teabeks, mis pääsetud
+        ainult isiklikuks mitteäriliseks kasutades, on lubatud rakendada tingimusel,
+        et kõik märgid autorlust (autoriõigused) või muid teateid autorsuse hoitakse,
+        on autori nimi ja selle toote jääb muutmata. g. Kasutaja Samuti pakub firma
+        koos mitte-eksklusiivse õiguse kasutada teavet veebisaidil ja temale kuuluva
+        / teda seaduslikult ilma selleta, et tagada toimimise veebilehel äriühingu
+        täitmise jooksul arhitektuur ja funktsionaalsus Veebilehel. Mitte-ainuõigus
+        eespool viidatud antakse Sisu paigutus veebilehel ja katab territooriumi riigis
+        üle kogu maailma. Firma on õigus võõrandada õigusi nimetatud käesoleva lõike
+        kolmandatele isikutele. Kasutaja nõustub, et ettevõttel on õigus kasutada
+        funktsionaalsete ja tehniliste võimaluste veebilehel, pakkudes väljapanek
+        sisu jagamise kasutaja, sh eesmärgil väljapanek reklaam informatsiooni. hi.
+        Kui kasutaja kustutab teavet Koduleht, mitte-ainuõigus automaatselt kehtetuks,
+        kuid kuna tehnilised näitajad veebilehele Ettevõte jätab endale õiguse säästa
+        varukoopiaid teavet ettenähtud aja ja vajaduse. i. Peale isiklikke andmeid,
+        Kasutaja ei ole õigust laadida või avalikustada teistmoodi (avaldades veebilehel)
+        teave teiste alade, andmebaasid ja muud intellektuaalse omandi puudumisel
+        selgelt väljendatud nõusoleku sellise tegevuse autoriõiguse omanik. j. Kui
+        ei ole teisiti märgitakse nendes määrustes, midagi nende määruste ei saa käsitada
+        kui ainuõiguse andmed. k. Kõik andmed, mida avaldab oma kasutaja, peab olema
+        täpne, up-to-date ja täielik. Kasutaja on täiesti ainuisikuliselt vastutav
+        mis tahes teavet, mis oli laetud või avalikustatud teistmoodi (postitatud)
+        Veebilehel või abiga kasutaja. Kasutaja ei ole õigust laadida, üle anda või
+        postitada sisu veebilehel, kui ta / ta ei ole vajalikud õigused võtta selliseid
+        meetmeid, mis on omandatud või talle delegeeritud / teda vastavalt õigusaktidele
+        Vene Föderatsiooni. Ettevõte võimalik, kuid mitte kohustus, sirvida veebilehel
+        iga ebaseadusliku sisuga ja on lubatud kustutada või teisaldada (ilma ette
+        teatamata) mis tahes sisu või kasutajad oma äranägemise järgi, mis tahes põhjusel
+        või ilma põhjused, sealhulgas ilma piiranguteta liikuda, või kustutada andmeid,
+        et vastavalt individuaalsetele arvamust Company rikub käesoleva lepingu õigusaktide
+        Vene Föderatsiooni ja / või võib rikkuda õigusi, vigastada või ohustada julgeolekut
+        teiste kasutajate või kolmandate isikute. Veebilehel on (või võib sisaldada)
+        viited teistele saitidele Internetis (veebilehed kolmandate isikute), samuti
+        esemed, fotod, illustratsioonid, graafika, muusika, heli, video, info, rakenduste,
+        tarkvara ja muud andmed, mis kuulub või tulevad kolmandate isikute (kolmanda
+        osapoole sisu), mis on tingitud intellektuaalse tegevuse ja on kaitstud vastavalt
+        õigusaktidele Vene Föderatsiooni. Need kolmandad isikud ja nende andmed ei
+        ole kontrollitud ettevõtte jaoks vastavusse käesoleva või muud nõuded (täpsuse,
+        täielikkuse, ausus jne). Ettevõte ei ole vastutav mis tahes sisu postitatud
+        kolmanda osapoole saidid, kuhu kasutaja saab juurdepääsu veebilehe kaudu või
+        läbi kolmanda osapoole andmed, sealhulgas, kuid mitte ainult arvamusi ega
+        avaldusi väljendatud kolmanda osapoole saidid või nende Information. Link
+        tahes kohas, toote ja teenuse, mis tahes teavet äri- ja Mitteärilisel veebisaidil
+        olevad ei ole heakskiitu või soovitust nendele toodetele (teenused) firmalt.
+        Kui kasutaja otsustab lahkuda Koduleht ja minna veebilehtedel kolmandatele
+        isikutele või kasutada või paigaldada kolmanda osapoole tarkvara, siis ta
+        / ta teeb seda omal vastutusel ja alates sellest hetkest need määrused ei
+        ole enam rakendada kasutaja. Edasine Kasutaja meetmed juhinduvad eeskirju
+        ja poliitikat, sealhulgas äritavad need isikud, kelle andmed ta / ta ei kavatse
+        kasutada.
+      forbidden_actions: 8. KEELATUD TEGEVUSED.
+      p_8: a. Keelatud on "hoida valvsalt" või häirida isik, muul viisil. b. Keelatud
+        on kasutada roboteid, viirused, rakendusi otsida / ekstrakt saite, või muu
+        käsitsi või automaatselt seadmete või protsesside ekstrakti, indeks, "luurad"
+        või reprodutseerida muul viisil või kõrvale navigatsiooni struktuuris ja väljapanek
+        Teenuse või selle sisu . c. Keelatud on postitada, levitada või reprodutseerida
+        everyway tahes autoriõigustega kaitstud informatsiooni, kaubamärgid, või muu
+        teave on kaitstud autoriõigusega eelneva nõusolekuta autoriõiguse omanik.
+        d. Keelatud on eemaldada kõik autoriõigused, kaubamärgid või muud autoriõiguse
+        teateid sisaldub Service. e. Keelatud on sekkuda või häirima Service ja veebisaidi
+        või teenuste ja võrkude Teenusega ühendatud või veebilehele. f. Keelatud on
+        avaldada, e-posti või ülekande teistmoodi tahes teavet, mis sisaldab viiruseid
+        või muud arvuti koodi, faile või programme, mille eesmärk on häirida, hävitada
+        või piirata funktsionaalsust tahes arvuti tarkvara, riistvara või telekommunikatsiooniseadmete.
+        g. Keelatud on päiste võltsimine või manipuleerida määramise eest selleks,
+        et varjata tõelist tähendust tahes teavet jagada Teenuse kaudu. h. Keelatud
+        on "sepistada" või "koopia" mis tahes osa teenuse või kodulehel ilma eelneva
+        kirjaliku loata Flutylove. Ka te ei kasuta ühtegi meta või koodi või muud
+        seadmed, mis sisaldavad mis tahes lingid Flutylove, teenuse või veebilehe
+        eesmärgiga suunata igal isikul teises kohas mis tahes eesmärgil. i. Keelatud
+        on muuta, kohandada, litsenseerida tõlkida, müüa, ümber korraldada, dešifreerida,
+        dekompileerida ega osadeks tahes osa teenuse või veebisaidi või tarkvara kasutada
+        veebilehel või selle eest, samuti julgustab teisi võtma sarnaseid meetmeid
+        . j. Keelatud on lisada mis tahes teavet pornograafilise ja / või erootilise
+        sisuga.
+      the_changes_in_the_service: 9. muutused teenust.
+      p_9: Flutylove jätab endale õiguse igal ajal muuta või keelata ajutiselt või
+        alaliselt Teenuse (või see on osa) ilma ette teatamata. Sa oled nõus, et Flutylove
+        ei vastuta teie ega kolmandate isikute mis tahes muudatusi, ajutine olemasolu
+        või täielik blokeering Service.
+      ip_address_blocking: 10. IP AADRESS blokeerimine.
+      p_10: kaitsmiseks terviklikkuse Koduleht, Flutylove jätab endale õiguse igal
+        ajal omal mugavuse blokeerida IP-aadresside teatud Kasutajad.
+      relations_between_users_online: 11. SUHTED kasutajate vahel ONLINE
+      p_11: Te olete ainuisikuliselt vastutav oma koostoimeid teiste kasutajate Flutylove.
+        Flutylove jätab endale õiguse, kuid mitte kohustuse jälgida vaidlusi teie
+        ja teised kasutajad.
+      security_and_communication: 12. turvalisuse ja sidevõrgu.
+      p_12: Kasutades veebilehel ja / või Teenuse reguleerivad ka meie privaatsuspoliitika.
+        Kui jääte kasutaja, siis oma nõusoleku kirju meilt. Need e-kirjad võivad esindada
+        teateid operatsioonide või muude teadete seotud Service, nagu haldusreform
+        teated ja ametlikud teated muutuste kohta, või e-kirju, mis sisaldavad kaubandusliku
+        pakkumised, reklaammaterjalid, eripakkumisi meile või teavet meetmete teiste
+        kasutajaid oma kasutajakonto. Lugege meie Privaatsus rohkem teada selliseid
+        teateid.
+      denial_of_responsibility: 13. KEELDUMISEST vastutust.
+      p_13: a. Flutylove ei vastuta ebaõige või ebatäpse teabe veebisaidil või on
+        seotud teenuse kasutajad kodulehe või mis tahes riist- või tarkvara, mis on
+        seotud meie Service või kasutatakse seal. Flutylove ei vastuta käitumist,
+        nii online ja offline, mis tahes kasutaja kodulehel. Flutylove ei võta vastutust
+        võimalike vigade, puuduste, katkestused, kustutamise, kahjustuse või hilinenud
+        operatsioonides, side rikkest, varguse või hävimise, volitamata juurdepääsu
+        või muutmist sideliinide kasutaja. Flutylove ei vastuta võimalike probleemide
+        või tehniline rike tahes telefonivõrgu või read, arvuti Interneti süsteemid,
+        serverid või teenuseosutajad, arvutiseadmete, tarkvara, posti või mängijate
+        rike kasutaja konto, tehnilised probleemid või ummikud internetis või mis
+        tahes Koduleht või kombineerituna, sealhulgas õnnetuste või vigastuste kasutajatele
+        või kolmandatele isikutele seotud arvutiga, või nagu tuleneb osalemise või
+        allalaadimisega seotud võrgu ja / või teenuse. Mitte mingil juhul ei Flutylove
+        Company ega ükski tema partner, reklaami ained, asutajad või levitamine partnerid
+        ei vastuta mingi kahjumi või kahju, sealhulgas vigastuste või surmaga, sest
+        kasutades kodulehe või Teenuse tahes sisu postitatud veebilehel või mis tahes
+        vastastikmõjude kasutajate veebilehel, nii online ja offline. Koduleht ja
+        teenust osutatakse AS-IS alusel ning Flutylove selgesõnaliselt loobub garantii
+        sobivusega teatud otstarbeks, või puudumise rikkumise kellegi õigusi. Flutylove
+        ei saa garanteerida ja ei luba mingeid konkreetseid tulemusi kasutades veebilehel
+        ja / või teenusele.
+      links: 14. linke.
+      p_14: a. Flutylove ei vastuta ebaõige või ebatäpse teabe veebisaidil või on
+        seotud teenuse kasutajad kodulehe või mis tahes riist- või tarkvara, mis on
+        seotud meie Service või kasutatakse seal. Flutylove ei vastuta käitumist,
+        nii online ja offline, mis tahes kasutaja kodulehel. Flutylove ei võta vastutust
+        võimalike vigade, puuduste, katkestused, kustutamise, kahjustuse või hilinenud
+        operatsioonides, side rikkest, varguse või hävimise, volitamata juurdepääsu
+        või muutmist sideliinide kasutaja. Flutylove ei vastuta võimalike probleemide
+        või tehniline rike tahes telefonivõrgu või read, arvuti Interneti süsteemid,
+        serverid või teenuseosutajad, arvutiseadmete, tarkvara, posti või mängijate
+        rike kasutaja konto, tehnilised probleemid või ummikud internetis või mis
+        tahes Koduleht või kombineerituna, sealhulgas õnnetuste või vigastuste kasutajatele
+        või kolmandatele isikutele seotud arvutiga, või nagu tuleneb osalemise või
+        allalaadimisega seotud võrgu ja / või teenuse. Mitte mingil juhul ei Flutylove
+        Company ega ükski tema partner, reklaami ained, asutajad või levitamine partnerid
+        ei vastuta mingi kahjumi või kahju, sealhulgas vigastuste või surmaga, sest
+        kasutades kodulehe või Teenuse tahes sisu postitatud veebilehel või mis tahes
+        vastastikmõjude kasutajate veebilehel, nii online ja offline. Koduleht ja
+        teenust osutatakse AS-IS alusel ning Flutylove selgesõnaliselt loobub garantii
+        sobivusega teatud otstarbeks, või puudumise rikkumise kellegi õigusi. Flutylove
+        ei saa garanteerida ja ei luba mingeid konkreetseid tulemusi kasutades veebilehel
+        ja / või teenusele.
+      limitation_of_responsibility: 15. PIIRAMINE vastutus.
+      p_15: veebilehel ja oma ülesannete KAASA KÕIK skripte rakendused sisus ja kavandamises
+        VEEBILEHT PAKUTAKSE AS IS ALUS. FIRMA LAHTI antud garantii veebisaidile või
+        sellega seotud funktsioonid võib vastavaks või mittevastavaks TEATUD kasutusotstarbest.
+        Ettevõte ei saa tagada ja ei luba mingeid konkreetseid tulemusi KASUTAMISE
+        veebilehel ja / või tema ülesandeid; Segaduste vältimiseks peaks kasutaja
+        VAADELDA OHUTUSABINÕUDE allalaadimisel veebilehel või läbi POSTED lingid ja
+        KASUTAMINE paigutatud failide, samuti tarkvara. FIRMA väga soovitav kasutada
+        vaid litsentsitud tarkvara ning viirusetõrje tarkvara; Veebisaiti kasutades,
+        kasutaja kiidavad, et allalaadimised kohapeal või keegi teine ​​tema ABI SISU
+        tema / tema enda riski ja AINULT vastuta võimalike kasutamisest tulenevate
+        tagajärgede seda teavet, sealhulgas KAHJU, et see võib laseb kasutaja arvutisse
+        või ka kolmandate POOLED, andmete kadumise, VÕI MUU KAHJU; MINGIL ettevõte
+        või selle agentide ei vastuta kasutajale või kolmandatele isikutele KAUDSETE,
+        juhuslikud ja UNWILFUL KAHJU, sealhulgas saamata jäänud kasu või kustutamise
+        kahjustus au, väärikust või äri maine, MIS TULENEVAD KASUTAMINE veebilehel,
+        selle sisu või muu teabe, kuhu või muu isik juurdepääs, veebilehe kaudu, isegi
+        kui äriühing HOIATATUD VÕI näitab sellise kahju tekkimise võimalikkusest.
+      responsibilities_of_the_parties: 16. VASTUTUS.
+      p_16: Käesolev leping on reguleeritud ja neid tõlgendatakse vastavalt õigusaktidele
+        Vene Föderatsiooni. Küsimusi, mida ei lahendata Lepingu lahendatakse vastavalt
+        õigusaktidele Vene Föderatsiooni. Juhul, kui tekib vaidlusi ja vastuolusid,
+        mis on seotud kõnealuste määruste rakendamiseks, kasutaja ja ettevõtte teeme
+        kõik endast oleneva, et neid lahendada läbirääkimiste teel. Kui vaidlusi ei
+        lahendatud läbirääkimiste teel, vaidlused lahendatakse vastavalt kehtivatele
+        õigusaktidele Vene Föderatsiooni. Käesolev leping on vormistatud vene keele
+        ja saab anda kasutajale läbivaatamiseks teises keeles. Erinevuse korral versiooni
+        reeglitega vene keele ja selle teise keelde, venekeelsest versioonist keel
+        käesoleva määruse sätteid. Kui üks või teisel põhjusel üks või mitu nende
+        määruste sätted on tunnistatud kehtetuks või tühiseks, ei mõjuta see kehtivust
+        või täitmisele ülejäänud sätteid.
+      other_provisions_and_changes: 17. muud õigusaktid ning muutusi.
+      p_17: Käesolev leping on tõeline leping teie ja Flutylove osas kasutades veebilehel
+        ja / või teenusele. Kui mõni käesoleva lepingu säte tühjad, ülejäänud lepingu
+        jääb selle kehtivust täielikult kehtima. Käesolevat lepingut võib muuta Flutylove
+        igal ajal. Palun ärge kõhelge meiega mis tahes küsimustele seoses käesoleva
+        Lepinguga.
+      read_this: Ma olen lugenud SEE LEPING ja nõustun terminite.
+    about:
+      about_flutylove: üle Flutylove
+      about_flutylove_text: Flutylove on rahvusvaheline sotsiaalne meelelahutus võrgustik
+        dateeringud. Siit leiad sõbrad, hingesugulane, partnerid või lihtsalt veeta
+        aega nautida mängides mänge või vaadata videoid / pilte.
+      flutylove_features: 'Kui sul registreeruda meie lehel, saad teada, palju funktsioone,
+        nagu:'
+      video_call_feature: Võite vestelda partner veebikaamera
+      extended_search: Võite kasutada laiendatud otsingut tasuta
+      multilanguages: Võite otsida partnereid teistest riikidest, sest meie teenuse
+        oodatakse kasutamiseks paljude teiste maade inimestega, sest see on tõlgitud
+        enam kui 70 keelde
+      play_games_chatting_etc: Te saate vestelda teiste inimestega, mängida mänge
+        ja teha teise sotsiaalse mikrobioloogia
+      we_are_in_social_networks: 'Me oleme sotsiaalsed võrgustikud:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Me kasutame kõrgtehnoloogia ja avatud
+        lähtekoodiga raamatukogud. Me püüame alati parem ja parandada meie teenust.
+      partners_and_investors: Oleme avatud partnerluse ja tahaksime leida investoreid.
+        Kui soovite meiega koostööd võtke meiega partnership@flutylove.com
+    faq:
+      faq: KKK
+      what_is_flutylove: Mis on Flutylove?
+      about_flutylove: Flutylove on rahvusvaheline sotsiaalne meelelahutus võrgustik
+        dateeringud. Siit leiad sõbrad, hingesugulane, partnerid või lihtsalt veeta
+        aega nautida mängides mänge või vaadata videoid / pilte.
+      what_features_has_flutylove: Millised omadused on Flutylove?
+      flutylove_features: Siin saate vestelda videocams, kasutada laiendatud otsingu
+        otsing partneritega teistest riikidest, mängida mänge ja teha muid sotsiaalseid
+        mikrobioloogia.
+      i_have_some_requests: Mul on mõned taotlused
+      you_can_write_request: Võite registreeruda ja kirjutada
+      here: siin
+      i_have_seen_some_typo_or_wrong_translation: ma olen näinud mõned kirjaviga või
+        vale tõlke
+      you_can_send_pull_request_to_our: Võite saata Pull soovi meie
+      github_repository: github varamu
+      i_have_seen_some_error: ma olen näinud mõningaid viga
+      you_can_send: Võite saata meile tagasiside
+      feedback: seda vormi
+      to_us_or_write_to_our_info_mail: või kirjutada e-support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Welcome to Flutylove
+      you_have_successfully_signed_up_to_flutylove: Sa oled edukalt sisse loginud
+        Flutylove
+      you_can_sign_in_with_your_social_networks: Kui soovid uuesti sisse logida, saate
+        logida sisse oma sotsiaalse võrgustiku konto
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Kui
+        soovid sisse logida e-posti ja parooli saab muuta parooli märk välja ja vajuta
+        link allpool
+      change_password: Muuda parooli
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: vale
+            search_for:
+              search_for_error: vale
+            birth_date:
+              birth_date_error: pea olema suurem kui 18 ja väiksem seejärel 115
+            interests:
+              interests_error: pead olema alla 2000 sümbolid
+            jobs:
+              jobs_error: pead olema alla 2000 sümbolid
+            languages:
+              languages_error: pead olema alla 2000 sümbolid
+            sex_keywords:
+              sex_keywords_error: pead olema alla 2000 sümbolid
+            my_turn_ons:
+              my_turn_ons_error_error: vale
+            contacts:
+              contacts_length_error: pead olema alla 2000 sümbolid
+              contacts_size_error: pead olema vähemalt 21 kontaktid
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: väärtus on kehtetu
+  devise:
+    confirmations:
+      confirmed: Sinu konto kinnitatakse.
+      send_instructions: Sa saad talle juhiseid, kuidas kinnitada oma konto mõne minuti.
+      send_paranoid_instructions: Kui teie e-posti aadress on olemas meie andmebaasis,
+        saate talle juhiseid, kuidas kinnitada oma konto mõne minuti.
+      new:
+        send_mail_for_confirm_your_email: Saada posti Kinnita oma e-
+        submit: Esita
+    failure:
+      already_authenticated: Sa juba allkirjastatud.
+      inactive: Konto pole aktiveeritud veel.
+      invalid: Vigane e-posti või parooliga.
+      locked: Sinu konto on lukustatud.
+      last_attempt: Sa pead veel üks katse enne teie konto lukustatakse.
+      not_found_in_database: Vigane e-posti või parooliga.
+      timeout: Teie sessioon aegunud. Palun logi uuesti jätkata.
+      unauthenticated: Sa pead sisse logida või registreeruda enne jätkamist.
+      unconfirmed: Sa pead kinnitama oma konto enne jätkamist.
+    mailer:
+      confirmation_instructions:
+        subject: Kinnitus juhiseid
+        welcome_to_flutylove: Welcome to Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Võite kinnitada
+          oma e-posti kaudu linki
+        confirm_my_account: Kinnita oma Email
+      reset_password_instructions:
+        hello: Tere
+        subject: Reset parooli juhised
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Keegi
+          peab taotlusi link oma parooli muuta. Seda saab teha läbi linki.
+        change_my_password: Muuda oma parooli
+        if_you_didnt_request_this_please_ignore_this_email: Kui te ei taotlenud seda
+          siis ignoreeri seda e-posti.
+      unlock_instructions:
+        subject: Unlock juhised
+    omniauth_callbacks:
+      failure: Autentimine ebaõnnestus teid% {liiki} sest "% {reason}".
+      success: edukalt autenditud% {liiki} konto.
+    passwords:
+      no_token: ei saa pääseda sellele lehele ilma pärit paroolilähestusketast e.
+        Kui sul ei tulnud paroolilähestusketast e-posti, siis veenduge, et kasutada
+        täielikult URLi.
+      send_instructions: Sa saad e-kirja juhistega, kuidas taastada oma parooli mõne
+        minuti.
+      send_paranoid_instructions: Kui teie e-posti aadress on olemas meie andmebaasis,
+        saate taasta parool link oma e-posti aadress mõne minuti.
+      updated: oma parooli muudeti edukalt. Oled nüüd sisse logitud.
+      updated_not_active: oma parooli muudeti edukalt.
+      new:
+        forgot_your_password: taastada oma parooli
+        reset_password: Saada taastuda url
+      edit:
+        change_your_password: Muuda oma parooli
+        new_password: Uus parool
+        confirm_password: Kinnita parool
+        change_password: muutus
+    registrations:
+      destroyed: Bye! Sinu konto on tühistatud. Loodame, et näeme varsti jälle.
+      signed_up: Tere! Sa ei ole sisse edukalt.
+      signed_up_but_inactive: Registreerusite edukalt. Kuid me ei saa sisse logida,
+        sest teie konto ei ole veel aktiveeritud.
+      signed_up_but_locked: Registreerusite edukalt. Kuid me ei saa sisse logida,
+        sest konto on lukustatud.
+      signed_up_but_unconfirmed: sisaldav sõnum kinnitus link on saadetud e-posti
+        aadress. Palun avage link aktiveerida oma konto.
+      update_needs_confirmation: Värskendasite konto on edukalt, kuid meil on vaja
+        kontrollida endale e-posti aadressi. Palun kontrollige oma e-posti ja vajuta
+        kinnitavad link lõpule kinnitades endale e-posti aadressi.
+      updated: Värskendasite konto edukalt.
+      new:
+        sign_up: Registreeru
+        name: Nimi
+        password: salasõna
+        password_confirmation: salasõna kinnitus
+        register: Registreeru
+    shared:
+      links:
+        sign_in: Logi sisse
+        sign_up: Registreeru
+        didnt_receive_confirmation_instructions: Ei saanud vastava kinnituse juhiseid?
+        sign_in_with: Logi sisse
+        fast_login_almost_one_click: Fast login (peaaegu ühe klõpsuga)
+    sessions:
+      signed_in: Allkirjastatud edukalt.
+      signed_out: Allkirjastatud edukalt läbi.
+      new:
+        sign_in: Logi sisse
+        password: salasõna
+        remember_me: Mäleta mind
+        forgot_your_password: Unustasid oma parooli?
+    unlocks:
+      send_instructions: Sa saad talle juhiseid, kuidas avada oma kontole mõne minuti.
+      send_paranoid_instructions: Kui teie konto on olemas, siis saab talle juhiseid,
+        kuidas seda avada mõne minuti.
+      unlocked: Sinu konto on lukustamata edukalt. Palun logi sisse, et jätkata.
+  timezones:
+    American Samoa: Ameerika Samoa
+    International Date Line West: International Date Line West
+    Midway Island: Midway Island
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Vaikse ookeani aeg (USA ja Kanada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain Time (USA ja Kanada)
+    Central America: Kesk-Ameerikas
+    Central Time (US & Canada): Kesk-aeg (USA ja Kanada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Ida aeg (USA ja Kanada)
+    Indiana (East): Indiana (Ida)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlandi ookeani aeg (Kanada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundlandi
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Gröönimaa
+    Montevideo: Montevideo
+    Mid-Atlantic: Kesk-Atlandi
+    Azores: Assoorid
+    Cape Verde Is: Cabo Verde.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lissaboni
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrade
+    Berlin: Berliini
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Brüsselis
+    Budapest: Budapest
+    Copenhagen: Kopenhaageni
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Praha
+    Rome: Rooma
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholmis
+    Vienna: Viinis
+    Warsaw: Varssavi
+    West Central Africa: Lääne Kesk-Aafrika
+    Zagreb: Zagreb
+    Athens: Ateena
+    Bucharest: Bukarest
+    Cairo: Kairo
+    Harare: Harare
+    Helsinki: Helsingis
+    Istanbul: Istanbul
+    Jerusalem: Jeruusalemma
+    Kaliningrad: Kaliningradi
+    Kyiv: Kiievis
+    Pretoria: Pretoria
+    Riga: Riia
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Bagdadis
+    Kuwait: Kuveit
+    Minsk: Minsk
+    Moscow: Moskva
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: Peterburi
+    Volgograd: Volgograd
+    Tehran: Tehran
+    Abu Dhabi: Abu Dhabi
+    Baku: Bakuu
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Jerevan
+    Kabul: Kabul
+    Ekaterinburg: Jekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Taškent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almatõ
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnojarski
+    Beijing: Pekingis
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapur
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: Uus-Kaledoonia
+    Solomon Is: Solomon.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fidži
+    Kamchatka: Kamtšatka
+    Marshall Is: Marshall Is.
+    Wellington: Wellington
+    Chatham Is: Chatham Kas.
+    Nuku'alofa: Nuku'alofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau Kas.
+  et: et
+  et_iso: et

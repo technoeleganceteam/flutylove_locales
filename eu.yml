@@ -1,0 +1,1738 @@
+---
+eu:
+  1_we_have_just_launched_our_service_title: besterik ez dute abian jarri dugu gure
+    zerbitzuaren!
+  common_keywords: datazioak, online datazioak, maitasuna datazioak, webcam dating,
+    abiadura datazio, webcam chat dating, Ruby on Rails datazio gune, hizkuntz anitzeko
+    gune datazio
+  common_description: aurreratuenak nazioarteko gizarte animazioko datazioak egiteko
+    sarea "Flutylove"
+  user: Erabiltzaileak
+  user_to_search_connection: Search
+  video: Video
+  note: Note
+  photo_album: Photo album
+  from: aurrera
+  to: To
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Gizonezkoa
+  - female:
+      name: Emakumezkoak
+  - transgender:
+      name: Transexualen
+  - male-female:
+      name: gizon-emakume
+  - double-male:
+      name: gizonezkoa bikoitzak
+  orientation:
+  - heterosexual: heterosexualak
+  - homosexual: Homosexuala
+  - bisexual: Bisexual
+  search_for:
+  - get_friends: Talde lagunak
+  - flirtation: Flirtation
+  - marriage: Ezkontza
+  - other: Beste
+  body_type:
+    slim: Slim
+    normal: Normal
+    chubby: Chubby
+  relationship:
+    single: Single
+    in_a_relationship: Harreman batean
+    married: Ezkondua
+    nothing_serious: Ezer larririk
+  children:
+    dont_have: Ez dute
+    dont_have_and_dont_want_to: Ez dute eta ez dute nahi
+    don_t_have_but_planning: Ez dute baina plangintza
+    have_enough: Have
+    have_and_planning_more: dute eta gehiago plangintza
+  living:
+    with_parents: gurasoekin
+    with_marriage_partner: ezkontza bazkide With
+    alone: Alone
+    with_friends: laguna (k)
+  education:
+    nothing: Nothing
+    secondary_school: DBHko
+    college_technical_college: College / college teknikoa
+    university: Unibertsitatea
+    postgraduate: Graduondoko
+    phd_md_post_doctorate: doktore / MD / Post doktoregoa
+  hair_color:
+    blonde: Ekaitz
+    dark_blond: Dark ilehoria
+    brown: Brown
+    black: Black
+    red: Red
+    gray: Gray
+    other: Beste
+  income:
+    unstable_earnings: Ezegonkorra irabaziak
+    small_stable_earnings: Small irabaziak egonkorra
+    medium_stable_earnings: Medium irabaziak egonkorra
+    higher_than_average_income: besteko errenta gorakoa
+    high_income: errenta High
+  smoking:
+    not_smoke: Not erretzen
+    not_smoke_and_detest: Not erretzen eta gorrotatu erretzea
+    smoke_in_a_social_setting: Batzuetan gizarte-ingurune batean
+    smoke_only_after_drinking: Smoke bakarrik edan ondoren
+    smoke_occasionally: Smoke noizean behin
+    smoke_often: Smoke askotan
+  alcohol:
+    not_drinking: Not edateko
+    drink_occalionally: Drink noizean behin
+    drink_in_a_social_setting: Drink gizarte-ingurune batean
+    drink_often: Drink askotan
+  drugs:
+    dont_use: Ez erabili
+    contra_drugs: Contra drogak
+    tried_out_some: probatu batzuk
+    light_drugs_occasionally: Argia drogak noizean behin
+  sponsor:
+    i_want_to_find_a_sponsor: babesle bat aurkitu nahi dut
+    willing_to_become_a_sponsor: Prest laguntzaile bihurtu
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Not eta babesle bila
+      ez da prest hazten
+  category_name:
+    strategy: Estrategia
+    rpg: RPG
+    3d_shooters: 3D shooters
+    racing: Racing
+    arcade: Arcade
+    economic: Ekonomikoa
+    simulators: simuladoreak
+    logic: Logika
+    adventure: Abentura
+    board_games: Taula jokoak
+    gambling: Gambling
+    news: Berriak
+    communication: Komunikazioa
+    multimedia: Multimedia
+    drawing: Marrazki
+    educational: Hezkuntza
+    e_commerce: E-komertzioa
+    other: Beste
+  shared:
+    header:
+      people: Pertsonak
+      chat: Berriketan
+      groups: Taldeak
+      forum: Foroa
+      requests: eskaerak
+      about: proiektu buruz
+      help: Laguntza
+      user_applications: aplikazioak
+    liked_users:
+      liked: Liked
+      all: guztiak
+      you_have_not_liked_any_users_yet: Ez duzu gustatu edozein erabiltzailek oraindik
+    most_liked_users:
+      most_liked_users: erabiltzaile Popular
+    installed_user_applications:
+      installed_applications: Instalatutako aplikazio
+      all: guztiak
+      you_have_not_installed_any_apps_yet: Ez duzu instalatutako edozein aplikazio
+        oraindik
+    user_applications:
+      uploaded_apps: Uploaded aplikazioak
+      all: guztiak
+      you_have_not_uploaded_any_apps_yet: Ez duzu igotako edozein aplikazio oraindik
+    right_sidebar:
+      news: Berriak
+      all: guztiak
+      read_more: Irakurri gehiago
+    footer:
+      footer_text: datazioak gizarte animazioko nazioarteko sarea "Flutylove"
+      privacy: Pribatutasuna
+      terms: baldintzak
+      feedback: iradokizunak
+      abuse: okerra
+    languages_select_modal:
+      available_languages: Hizkuntza
+    site_map_modal:
+      site_map: Gunearen mapa
+      faq: FAQ
+      about: buruz
+      static_pages: orrialdeak estatikoak
+      common_pages: orrialdeek Common
+      user_pages: Erabiltzaile-orriak
+      terms: baldintzak
+      privacy: Pribatutasuna
+      people: Pertsonak
+      user_applications: aplikazioak
+      user_requests: eskaerak
+      news: Berriak
+      feedback: iradokizunak
+      abuse: okerra
+      chats: Txatak
+      videos: bideoak
+      photo_albums: Argazki bilduma
+      notes: Oharrak
+    pagination_link:
+      next_page: Hurrengo orria
+    user_edit_menu:
+      content: Edukia
+      profile: Profile
+      site_settings: Gunearen ezarpenak
+      privacy: Pribatutasuna
+      services: Zerbitzuak
+    activities_navigation:
+      all: guztiak
+      photos: Argazkiak
+      photo_albums: Argazki bilduma
+      notes: Oharrak
+      videos: bideoak
+    notifications_navigation:
+      all: guztiak
+      likes: Likes
+      friend_requests: Lagun eskaerak
+      profile_views: Profile views
+      photo_album_views: Argazkiak aldiz
+    user_to_friend_connections_navigation:
+      friends: Lagunak
+      friends_online: Lagunak online
+      outcome_requests: Ondokoa eskaerak
+      income_requests: Errentaren eskaerak
+    user_applications_navigation:
+      all: guztiak
+      new: New
+      popular: Popular
+      often_installed: Askotan instalatu
+      manage: kudeatu
+    user_requests_navigation:
+      all: guztiak
+      popular: Popular
+    user_navbar_menu:
+      sign_in: Saioa hasi
+      sign_up: Kontu
+    email_signature:
+      info: Info
+      mailer: Mailer
+      technoelegance: Technoelegance SL
+    translations:
+      select_gender: Aukeratu genero
+      select_orientation: Hautatu orientazioa
+      select_search_for: Aukeratu bilaketa egiteko
+    need_to_sign_in_modal:
+      you_need_to_sign_in: hasi saioa ekintza hau aurretik behar duzu
+      available_sign_in_methods: duzu
+    sign_up_methods:
+      usual_register_link: ohiko erregistroa
+      register_text: "% gain {usual_registration} zerbitzuetan gehien eta sare sozialen
+        bidez izena eman dezakezu"
+    bootstrap_gallery:
+      next: Hurrengoa
+    user_notification_title:
+      you_liked: gustatu by duzu
+      wrote_message_to_you: mezua idatzi nahi
+      viewed_your_profile: Bisitak zure profila
+      liked_your_photo: Gustatu zure argazki
+      liked_your_note: Gustatu zure ohar
+      liked_your_request: Gustatu zure eskaera
+      liked_your_video: Gustatu zure bideoa
+      liked_your_application: Gustatu zure aplikazioa
+      requested_a_friendship: Eskatutako adiskidetasun bat
+  authentications:
+    authentication:
+      turn_on: aktibatu
+      turn_off: itzali
+      turned_on: piztuta
+      turned_off: Segituan
+    index:
+      enabled_services: Gaituta zerbitzuak
+  users:
+    profile:
+      submit: Save
+      name: izena
+      meet_with: Ezagutu batera
+      gender: Genero
+      type_in_your_location: zure hirian Mota
+      about_me: buruari buruz hitz batzuk (gain azpitik osatzeko)
+      sex_keywords: Interesa sexuaren
+      enter_your_name: Sartu zure izena
+      more_options: gehiago
+      orientation: Orientazioa
+      birth_date: Jaiotza data
+      location: Kokapena
+      search_for: Search for
+      intimacy: Intimitatea
+      in_age: adina
+      from: batetik
+      to: den
+      interests: Interesa
+      height: Altuera
+      weight: Weight
+      body_type: Body mota
+      hair_color: Ile kolorea
+      relationship: Relationship
+      children: Haurrak
+      living: Living
+      education: Hezkuntza
+      jobs: Job
+      income: Errentaren
+      languages: Hizkuntzak
+      smoking: Smoking
+      alcohol: Alkohola
+      drugs: Drogas
+      contacts: Kontaktuak
+      contact_value: Harremanetarako
+      save: Save
+      about_yourself: zeuk buruz
+    settings:
+      submit: Save
+      locale: Interface hizkuntza
+      change_password: Aldatu pasahitza
+      interface_language: Interface hizkuntza
+      time_zone: Ordu eremua
+    dialog_modal:
+      send_message: Mezua bidali
+    index:
+      users: erabiltzaileak
+      clear_search: Garbitu bilaketa
+    dashboard:
+      hello: Kaixo
+      here_some_of_your_statistics: Hemen zure estatistikak batzuk
+      chats: Txatak
+      messages: Mezuak
+      photos: Argazkiak
+      videos: bideoak
+      notes: Oharrak
+      photo_albums: Argazki bilduma
+    avatar:
+      photo: Photo
+      uploading_file: Fitxategia kargatzen
+      handling_file: Handling fitxategia
+      drag_and_drop_your_file: Arrastatu eta jaregin fitxategia
+      here: hemen
+      or: edo
+      upload_file: upload file
+      from_other_sites: beste guneak
+      write_down_link_for_your_image: Idatzi zure irudiaren esteka
+      url_for_image: Url irudia
+      upload: Upload
+      from_facebook: Facebook aurrera
+      turn_on_facebook: Facebook aktibatu
+      you_can_upload_your_photos_from_facebook: Zure argazkiak Facebook-tik igo ditzakezu
+      from_vkontakte: Vkontakte aurrera
+      you_can_upload_your_photos_from_vkontakte: Zure argazkiak Vkontakte batetik
+        igo ditzakezu
+      turn_on_vkontakte: Vkontakte aktibatu
+      from_instagram: Instagram aurrera
+      you_can_upload_your_photos_from_instagram: Zure argazkiak Instagram batetik
+        igo ditzakezu
+      turn_on_instagram: Instagram aktibatu
+      from_dropbox: Dropbox aurrera
+      you_can_upload_your_photos_from_dropbox: Zure argazkiak Dropbox igo ditzakezu
+      turn_on_dropbox: Dropbox aktibatu
+      edit_photo: Editatu argazkia
+      delete_photo: Ezabatu argazki
+      are_you_sure: Ziur zaude?
+    available_photos_modal:
+      available_photos: argazkiak Eskuragarri
+    update:
+      your_password_was_successfully_changed: ondo aldatu da
+      your_profile_was_successfully_updated: Zure profila eguneratu da
+    edit_photo:
+      edit_photo: Editatu argazkia
+      crop: Moztu
+      close: Close
+      save_changes: Save changes
+    contact:
+      contact_name_placeholder: Facebook / Skype / VK / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: Niri buruz
+      orientation: Orientazioa
+      meet_with: Ezagutu batera
+      desirable_age: Desiragarria adina
+      from: batetik
+      to: den
+      interests: Interesa
+      height: Altuera
+      sm: sm
+      body_type: Body mota
+      hair_color: Ile kolorea
+      relationship: Relationship
+      children: Haurrak
+      living: Living
+      education: Hezkuntza
+      jobs: Enplegua
+      income: Errentaren
+      languages: Hizkuntzak
+      smoking: Smoking
+      alcohol: Alkohola
+      drugs: Drogas
+      contacts: Kontaktuak
+    user_info:
+      offline: Offline
+      online: Online
+      age: Adina
+    loading_modal_images:
+      loading_images: Lanean irudiak
+    password_form:
+      new_password: pasahitza New
+      confirm_new_password: Berretsi pasahitza berria
+      old_password: Old pasahitza
+      change_password: Aldatu pasahitza
+    show:
+      photos: Argazkiak
+      all: guztiak
+      videos: bideoak
+      notes: Oharrak
+      view: View
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: Paste jaso gakoa
+      submit: Bidali
+    contents:
+      users_which_i_like: Erabiltzaileak bertan gustatzen
+      all: guztiak
+      my_photos_likes: Nire argazkiak gustatu
+      my_notes_likes: Nire notak gustatu
+      my_user_applications_likes: Nire aplikazioak gustatu
+      my_user_requests_likes: Nire eskaerak gustatu
+    more_profile_info:
+      photo_albums: Argazki bilduma
+      view_all_photo_albums: Ikusi argazki bilduma guztiak
+      create_more: Sortu gehiago
+      videos: bideoak
+      view_all_videos: guztiak ikusi
+      notes: Oharrak
+      view_all_notes: View ohar guztiak
+      requirements_lists_to_partner: Baldintzak bazkide izateko zerrendatzen
+      requirement: Eskakizuna
+      view_all_requirements_lists: View baldintza guztiak zerrendak
+      profile_verification: Profile egiaztapen
+      your_profile_is_successfully_verified: Zure profila bezala egiaztatu da
+      create: Sortu
+      you_have_not_any_requirements_lists_yet: Ez duzu inongo baldintzak zerrendatzen
+        oraindik
+      you_have_not_any_notes_yet: daukazu, ez da inolako oharrik
+      you_have_not_any_photo_albums_yet: Ez duzu argazki albumak oraindik
+      you_have_not_any_videos_yet: duzu ez bideorik oraindik
+      your_profile_is_not_verified_yet: Zure profila ez da oraindik egiaztatu
+      verify_through_twitter: Twitter bidez egiaztatzea
+      verify_through_facebook: Facebook bidez egiaztatzea
+      verify_through_mail_ru: Mail.ru bidez egiaztatzea
+    privacy:
+      privacy: Pribatutasuna
+  searches:
+    form:
+      location: Kokapena
+      from: batetik
+      to: den
+      age: Adina
+      gender: Genero
+    form_content:
+      city: City
+      gender: Genero
+      age_from: batetik Adina
+      to: den
+      online: Online
+      verified: Verified
+      has_avatar: avatar ditu
+      region: Region
+      more: gehiago
+      country: Herria
+      about_me: Niri buruz
+      interests: Interesa
+      languages: Hizkuntzak
+      names: izenak
+      height: Altuera
+      from: batetik
+      weight: Weight
+      body_type: Body mota
+      relationship: Relationship
+      hair_color: Ile kolorea
+      education: Hezkuntza
+      orientation: Orientazioa
+      search_for: Search for
+      children: Haurrak
+      living: Living
+      smoking: Smoking
+      alcohol: Alkohola
+      drugs: Drogas
+      income: Errentaren
+    show:
+      users: erabiltzaileak
+      clear_search: Garbitu bilaketa
+  welcome:
+    index:
+      people: Pertsonak
+      requests: eskaerak
+      user_applications: aplikazioak
+      about: buruz
+      features: Ezaugarriak
+      registration: Izen ematea
+      sign_in: Saioa hasi
+      welcome_main_title: Ongi Flutylove den!
+      welcome_main_text: lekuan zure maitasuna ezin hobea aurkitu ahal izango duzu
+      find_more: Aurki gehiago
+      about_title: Flutylove nazioarteko gizarte animazioko datazioak sarea da
+      about_text: Asko dira ezaugarri ikuskizunak eta datazioak egiteko erabili daiteke!
+      find_more_features: Aurki ezaugarri gehiago
+      at_our_service: gure zerbitzua ezaugarriak
+      many_languages: Hizkuntza asko
+      text_about_many_languages: Gure zerbitzua dago itzulita 70 hizkuntza baino gehiago
+      check_it_out: Ezazu
+      videochats: Videochats
+      text_about_videochats: duzu zure bikotearekin videocams batekin berriketan dezakezu
+      try_it_now: Probatu orain
+      search: Search
+      text_about_search: parametro anitz batera bila ditzakezu eta doan da!
+      watch_this: Watch honetan
+      more_features: Ezaugarri gehiago
+      text_about_more_features: bideoak, play jokoak ikusi ahal izango duzu eta beste
+        gauza asko egin!
+      register_and_learn_more: Register eta gehiago ikasi
+      install_our_apps: instalatu gure apps plataformen popular aurrera
+      register_header: Izen ematea
+  feedbacks:
+    new:
+      feedback_title: iradokizunak
+    form:
+      feedback_name: Zure izena
+      feedback_content: iradokizunak edukia
+      close: Close
+      send: Bidali
+      feedback_recaptcha: Recaptcha
+      cancel: Utzi
+    success:
+      success_feedback: Eskerrik asko! jaso ditugu zure iritzia.
+      close: Close
+      cancel: Utzi
+      more: bidalitako gehiago
+  abuses:
+    new:
+      abuse_title: okerra
+    form:
+      abuse_name: Zure izena
+      abuse_content: okerra eduki
+      abuse_title: okerra
+      close: Close
+      send: Bidali
+      abuse_recaptcha: Recaptcha
+      abuse_link: Link
+      cancel: Utzi
+    success:
+      success_abuse: Eskerrik asko! Zure tratu txarrak jaso ditugu.
+      close: Close
+      cancel: Utzi
+      more: bidalitako gehiago
+  layouts:
+    welcome:
+      welcome_title: Ongi Flutylove den! Aurreratuena datazio gune.
+  recaptcha:
+    errors:
+      verification_failed: Huts recaptcha
+      recaptcha_unreachable: Recaptcha dabilela
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: ditugu gure zerbitzua martxan jarri!
+      we_have_just_launched_our_service_text: Gaur gure zerbitzua abiarazi dugu, beraz,
+        denek ahal
+      sign_up: saioa hasi
+      and_use_it: eta erabili.
+      wishes_and_requests: edozein nahiak edo eskaerak badaukazu, kontu bat ireki
+        dezakezu, eta idatzi
+      here: hemen
+      with_love: Maitasuna,
+      flutylove_team: Flutylove Team
+    index:
+      all_news: Albiste guztiak
+      read_more: Irakurri gehiago
+  chats:
+    panel_head:
+      online: Online
+      offline: Offline
+    pagination_link:
+      next_page: Hurrengo orria
+    form:
+      message_text: Mezuaren testua
+    form_additions:
+      submit: Bidali
+      videochat: Videochat
+    show:
+      messages: Mezuak
+    index:
+      messages: Mezuak
+    videochat_request_link:
+      connect_to_videochat: konektatu Videochat
+    modal_form:
+      send_message: Mezua bidali
+      recipient: Hartzailearen
+      message: Mezua
+      close: Close
+      submit: Bidali
+    waiting_video_answer_button:
+      waiting_for_response: erantzunaren zain ...
+    chat_created:
+      send_message: Mezua bidali
+      message_was_sent: Mezua bidalia izan da
+      close: Close
+  messages:
+    pagination_link:
+      next_page: Hurrengo orria
+    form:
+      message_text: Mezuaren testua
+  notifications:
+    user_to_friend_connection:
+      action: Ekintza
+    notification:
+      offline: Offline
+      online: Online
+    like:
+      action: Ekintza
+    photo_album_view:
+      action: Ekintza
+    user_view:
+      action: Ekintza
+  user_applications:
+    user_application:
+      who_uploaded: Uploaded by
+      all_uploaded_applications_by: kargatutako aplikazio guztiek arabera
+    form:
+      name: izena
+      user_application_name: Aplikazioa izen
+      description: Description
+      description_text: Description testua
+      iframe_url: iFrame url
+      icon_for_application: Aplikazioa ikonoa
+      upload_icon: deskargatu ikonoa
+      public: Publikoa?
+      category_name: Kategoria
+      create: Sortu
+      edit: Edit
+    show:
+      application: Aplikazioa
+      return_to_uploaded_applications: aplikazio igotako To
+      edit_application: Edit aplikazioa
+      return_to_all_applications: Return aplikazio guztiei
+    manage:
+      installed_applications: Instalatutako aplikazio
+      uploaded_applications: Uploaded aplikazioak
+      all: guztiak
+    index:
+      applications_uploaded_by: aplikazioak igotako arabera
+      return_to_all_applications: Return aplikazio guztiei
+      create_new: Sortu berria
+      return_to_manage_applications: Return aplikazioak kudeatzeko
+    installed:
+      installed_applications: Instalatutako aplikazio
+      return_to_all_applications: Return aplikazio guztiei
+      return_to_manage_applications: Return aplikazioak kudeatzeko
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: ikuspegi aurretik aplikazio
+        hau sinatzeko lehen behar duzu
+    need_to_install:
+      need_to_install_first: lehen aplikazio hau instalatu behar duzu
+      install_application: Instalatu aplikazioa
+  likes:
+    index:
+      liked_items: Gustatu elementuak
+      return_to_my_content: Return nire Edukira
+  videos:
+    index:
+      videos: bideoak
+      return_to_edit_profile: edizio profila
+      create_new: Sortu berria
+      return_to_profile: Return to ikusi
+    video:
+      edit: Edit
+      are_you_sure: Ziur zaude?
+      delete: ezabatu
+    modal_form:
+      create_new_video: Sortu bideo berria
+      close: Close
+      create: Sortu
+    form_content:
+      name: izena
+      video_name: Video name
+      source: embed kodearen Url
+      video_url_or_embed_code: Video video embed kodearen url
+    show:
+      video: Video
+      return_to_all_videos: Return Bideo guztiei
+      edit_video: Bideo
+    edit:
+      edit_video: Bideo
+      return_to_view_video: Return bideoa ikusteko
+      view_video: Ikusi bideoa
+    form:
+      edit: Edit
+  photo_albums:
+    index:
+      photo_albums: Argazki bilduma
+      return_to_editing_profile: edizio profila
+      create_new: Sortu berria
+      return_to_profile: Return to ikusi
+    photo_album:
+      edit: Edit
+      create: Sortu
+      are_you_sure: Ziur zaude?
+      delete: ezabatu
+    edit:
+      edit_photo_album: Edit Photo album
+      return_to_photo_albums: argazki bilduma To
+      view_photo_album: Ikusi argazki albuma
+    form_content:
+      name: izena
+      photo_album_name: Photo album izena
+    form:
+      edit: Edit
+      create: Sortu
+    photo_album_uploader:
+      drag_and_drop_your_file: Arrastatu eta jaregin fitxategia
+      here: hemen
+      or: edo
+      upload_file: upload file
+      from_other_sites: beste guneak
+      write_down_link_for_your_image: Idatzi zure irudiaren esteka
+      url_for_image: Url irudia
+      upload: Upload
+      from_facebook: Facebook aurrera
+      turn_on_facebook: Facebook aktibatu
+      you_can_upload_your_photos_from_facebook: Zure argazkiak Facebook-tik igo ditzakezu
+      from_vkontakte: Vkontakte aurrera
+      you_can_upload_your_photos_from_vkontakte: Zure argazkiak Vkontakte batetik
+        igo ditzakezu
+      turn_on_vkontakte: Vkontakte aktibatu
+      from_instagram: Instagram aurrera
+      you_can_upload_your_photos_from_instagram: Zure argazkiak Instagram batetik
+        igo ditzakezu
+      turn_on_instagram: Instagram aktibatu
+      from_dropbox: Dropbox aurrera
+      you_can_upload_your_photos_from_dropbox: Zure argazkiak Dropbox igo ditzakezu
+      turn_on_dropbox: Dropbox aktibatu
+    show:
+      photo_album: Photo album
+      return_to_photo_albums: argazki bilduma To
+      edit_photo_album: Edit Photo album
+    modal_form:
+      create_new_photo_album: Sortu berria photo album
+      close: Close
+      create: Sortu
+  user_requests:
+    form:
+      content: Edukia
+      edit: Edit
+      create: Sortu
+  notes:
+    index:
+      notes: Oharrak
+      return_to_edit_profile: edizio profila
+      create_new: Sortu berria
+      return_to_profile: Return to ikusi
+    note:
+      edit: Edit
+      are_you_sure: Ziur zaude?
+      delete: ezabatu
+    show:
+      note: Note
+      return_to_notes: Return notak
+      edit_note: Oharra editatu
+    form_content:
+      content: Edukia
+      note_content: Oharra edukia
+      edit: Edit
+      create: Sortu
+    edit:
+      edit_note: Oharra editatu
+      return_to_notes: Return notak
+      view_note: View ohar
+  user_to_search_connections:
+    index:
+      requirements_lists: Baldintzak zerrendak
+      return_to_editing_profile: edizio profila
+      create_new: Sortu berria
+    user_to_search_connection:
+      edit: Edit
+      are_you_sure: Ziur zaude?
+      delete: ezabatu
+    edit:
+      edit_requirements_list: Edit baldintzak zerrendak
+      return_to_requirements_lists: baldintzak zerrendak
+      view_requirements_list: View eskakizun zerrenda
+    form_content:
+      name: izena
+      name_of_your_requirements_list: zure eskakizun zerrenda izena
+    form:
+      edit: Edit
+    show:
+      requirements_list: Baldintzak zerrenda
+      return_to_requirements_lists: baldintzak zerrendak
+      edit_requirements_list: Edit eskakizun zerrenda
+  photos:
+    index:
+      photos: Argazkiak
+      return_to_photo_albums: Return argazkien albumak
+      return_to_profile: To ikusi
+  errors:
+    messages:
+      already_confirmed: dagoeneko baieztatu zen, Saiatu ere sinatu
+      confirmation_period_expired: den% {} aldian barruan baieztatu behar da, eskatu
+        berri bat
+      expired: iraungi delako Eskatu beste bat
+      not_found: ez da aurkitu
+      not_locked: ez zen blokeatuta
+      not_saved:
+        one: '1 Errore batek% {} baliabide debekatuta gorde izatetik:'
+        other: "% {count} Debekatuta honek% {} baliabide akatsak gorde izatetik:"
+    bad_request:
+      bad_request: Okerreko eskaera
+      request_result: Eskatu emaitza
+      bad_request_description: zerbitzariak ezin edo ez du eskaera prozesatu itxurazko
+        bezero Akats baten ondorioz
+      go_to_root: root Joan
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable Entitateak
+      request_result: Eskatu emaitza
+      unprocessable_entity_description: emate eskaera ongi osatu zen, baina ezin izan
+        jarraitu beharreko to akatsak semantikoa dela eta
+      go_to_root: root Joan
+    not_found:
+      not_found: Not Found
+      request_result: Eskatu emaitza
+      not_found_description: Eskatutako baliabidea ez izan dira aurkitu, baina etorkizunean
+        egon daiteke eskuragarri
+      go_to_root: root Joan
+    forbidden:
+      forbidden: Debekatuta
+      request_result: Eskatu emaitza
+      forbidden_description: eskaera baliozkoa eskaera bat izan zen, baina zerbitzariak
+        da horri erantzuteko ukatzen
+      go_to_root: root Joan
+    internal_server_error:
+      internal_server_error: Server Error
+      request_result: Eskatu emaitza
+      internal_server_error_description: Zerbait oker joan. hura konpondu egingo dugu,
+        ahalik eta azkarren.
+      go_to_root: root Joan
+  pages:
+    privacy:
+      privacy: Flutylove Privacy Policy
+      general_provisions: xedapen orokorra
+      p_1_1: 1.1. Araudi sozietate mugatuak "Technoelegance" dokumentu ofizial bat,
+        kokatzen dira 101000, Mosku, Ulanskiy pereulok 13 stroeniye 4, pomeshcheniye
+        1 (aurrerantzean Flutylove, Enpresaren, dugu), eta datuak prozesatzeko eta
+        informazio norbanakoen segurtasun prozedurak zehaztu duten 18 urtetik erdietsi,
+        eta webgunean https://flutylove.com (aurrerantzean Web) eta bere zerbitzuak
+        (aurrerantzean erabiltzaileek) erabiltzen duten.
+      p_1_2: 1.2. Araudi honen xedea da, ondorioz erabiltzailearen informazioa babesteko,
+        datu pertsonalak barne, baimenik gabe sartzea eta zabaltzearen bermatzeko.
+      p_1_3: 1.3. bilketa, biltegiratze, banaketa eta Web Erabiltzaile informazioaren
+        segurtasuna lotutako harremanak dira Araudi, enpresaren beste dokumentu ofizial
+        eta egungo Errusiar Federazioko legediaren arabera arautuko da.
+      p_1_4: 1.4. indarrean dagoen araudia, zein dokumentu publiko daude bertsioa,
+        edozein Internet erabiltzaile guztien eskura dago denean link http://flutylove.com/pages/privacy
+        jarraian. Enpresa Araudi hauek aldatzeko eskubidea. Kasu horretan aldaketak
+        Araudian kasuetan, Konpainiak erabiltzaile jakinaraziko diote eraginkorra
+        aurretik helbidea iraunkor http://flutylove.com/pages/privacy at Web buruzko
+        araudia bertsio berria posting, egun ez 10 baino beranduago arabera aldaketa-data.
+        Araudi honen aurreko bertsioak dokumentazioa Company artxiboan gordeta daude.
+      p_1_5: 1.5. Araudi hau garatu dira eta erabiltzailearen Akordioaren arabera
+        erabiliko dira. Araudi eta enpresaren beste dokumentu ofizial arteko edozein
+        hausten den kasuetan, Araudi behartuta egon behar.
+      p_1_6: 1.6. Web erabiliz By, ados termino eta baldintzak konfidentzialtasun
+        politika honen to you. Irakurri arreta handiz. Ez baduzu Privacy Policy honen
+        baldintzak ados, edo ez dute 18 urte urte bete duzu, ez da izango dituzu web
+        orria eta bere zerbitzuak erabili. Web erabiliz, zauden ala Flutylove-en erregistratutako
+        erabiltzailea edo ez kontuan hartu gabe, berretsi erabat duzula onartzen Pribatutasun
+        Politika hau, eta ados jarraitu.
+      the_website_using_conditions: Web erabilita, baldintza hauek
+      p_2_1: '2.1. Web Flutylove erabili ahal izateko, izena eman behar duzu. izena,
+        helbide elektronikoa, sexua, jaiotze-data, kokapena information: izena emateko
+        garaian Ondorengo informazioa zehaztu beharko dira. Erabiltzaileak bere /
+        bere nahia propioa datu pertsonalak ematen dute. Erabiltzaileak editatu edo
+        edozein unetan informazio pertsonala eguneratu daiteke. Enpresa agiri gehiago
+        eskatu aldaketa genero eta erabiltzailearen jaiotze data kasuan eskubidea
+        du.'
+      p_2_2: '2.2. Web eta bertako zerbitzuak, Enpresa sarbidea ahalbidetuz, arrazoizko
+        era batean eta fede onean ekinda, jotzen Erabiltzaileak: konturatuko erregistroa
+        Web orrian dela 18 urte baino gehiago izan behar beharrezkoa da; Beharrezko
+        Eskubide guztiak Web honetako erregistratu eta erabili ahal izango ditu; berak
+        informazio zehatza adierazten ditu / bere burua Web Zerbitzuaren erabilera
+        eskaeren arabera; jakitun da, web gunean informazio pertsonala, Erabiltzaileak
+        baldin eta, bestetik Web eta Internet erabiltzaileek baita, kopiatu daitezke
+        eta beste erabiltzaileen arabera banatzen erabiltzaileentzat eskuragarri bihur
+        daiteke; jakitun da, informazio mota batzuk, beste erabiltzaileak transferitu,
+        ezin dira kendu Erabiltzaileak; da Araudi horien berri, haiekin ados eta zehaztutako
+        eskubide eta betebeharrak konpromisoa hartzen du.'
+      p_2_3: 2.3. Sozietateak ez ditu jaso (bildutako) erabiltzaileei buruzko informazioa
+        zehaztasuna egiaztatzeko, kasu batzuk salbu denean, esaterako, egiaztatzeko
+        ez da beharrezkoa Konpainiaren betebeharrak betetzeko erabiltzaileari ere.
+      information_processing_objectives: Informazioa prozesatzeko helburuak
+      p_3_1: 3.1. Enpresa burutzen erabiltzaile, bere datu pertsonalak barne buruzko
+        informazioa prozesatzeko, ordena Konpainiaren erabiltzaileak dituen betebeharrak
+        betetzeko Web eta bertako zerbitzuak erabiltzeko orduan ere.
+      p_3_2: 3.2 Enpresaren datu pertsonalen trataera aurrera eramateko eskumena duen
+        agintariari jakinarazterakoan datu pertsonalak irakasgai eskubideen babeserako
+        gabe eskubidea du.
+      structure_of_the_user_information: erabiltzaileak informazio egitura
+      p_4_1: '4.1. Erabiltzaileen datu pertsonalak barne hartzen ditu:'
+      p_4_1_1: 4.1.1. izena, helbide elektronikoa, sexua, jaiotza, kokapen-informazioa,
+        eta telefono zenbakia, diren, erabiltzaileak emandako eta ustezko besterik
+        Web matrikula egiteko nahikoa izango da data;
+      p_4_1_2: 4.1.2. hau da, erabiltzaileak emandako (adibidez, argazkiak, kaltegarri
+        ohiturei eta abarri buruzko informaziorako) informazioa;
+      p_4_1_3: 4.1.3. gainera, erabiltzaileak emandako Company eskaera ordena Konpainiaren
+        betebeharrak betetzeko, erabiltzaileei, erabiltzaile hitzarmena batetik agertzen
+        arabera. Enpresa eskubidea, batez ere, Erabiltzaileak eskatzeko nortasun agiriaren
+        edo izena, genero eta jaiotze data daukan beste edozein dokumentu, baita beste
+        informazio gehigarri horrek, konpainiaren diskrezioa, beharrezkoa izango da
+        kopia bat eta ditu besteak beste, erabiltzailearen identifikazioa nahikoa
+        eta tratu txarrak eta urratzen ditu hirugarrenen eskubideak kentzeko litzateke.
+      p_4_2: '4.2. Beste erabiltzailearen informazioa prozesatzeko Konpainiaren Web
+        Administrazio arabera, gainera, erabiltzaileak, biltzen dituen bestelako informazioa
+        prozesatzen:'
+      p_4_2_1: 4.2.1. Datu komunak, automatikoki http-zerbitzari jaso ohi Web eta
+        ondorengo Erabiltzaile ekintzak sartzean (ostalariaren IP-helbidea, erabiltzailearen
+        sistema eragilearen mota hau web orrietan erabiltzaileak bisitatu duen).
+      p_4_2_2: 4.2.2. horrek automatikoki jaso da, webgunearen bookmarks (cookie)
+        erabiliz sartzean informazioa;
+      p_4_2_3: 4.2.3. bertan erabiltzailearen Web ekintzak baten ondorioz jaso da
+        informazioa;
+      p_4_2_4: 4.2.4. datorren web beste erabiltzaileen ekintzak baten ondorioz jaso
+        da informazioa.
+      users_information_processing: erabiltzailearen informazioa prozesatzeko
+      p_5_1: '5.1. Datu pertsonalak prozesatzeko egitea da honako printzipioak oinarri
+        hartuta: a) zilegien eta datu pertsonalen tratamenduari bitartez; b) zintzotasuna;
+        c) Datu pertsonalak prozesatzeko helburuetarako betetzearen helburuekin aurretik
+        zehaztutako eta noiz datu pertsonalak, baita Company kredentzialak betetzearen
+        biltzeko deklaratu; d) bolumena eta datu pertsonalen tratamendu-mota, eta
+        bere prozesatzeko ondorioetarako dituzten datu pertsonalen tratamenduari bitartez
+        betetzea betetzea; e) sortu base konbinatuz bateraezinak helburuetarako, datu
+        pertsonalak dauzkaten desegokitasuna.'
+      p_5_1_1: 5.1.1. Erabiltzaileak datu pertsonalen bilketa egiten da, web gunean
+        denean erregistro, baita etorkizunean ere, erabiltzaileak bere burua / bere
+        buruari buruz informazio gehiago / bere kabuz Web tresnak erabiliz gehitzen
+        denean.
+      p_5_1_2: 5.1.2. erabiltzaileen datu pertsonalak esklusiboki gordetzen dira formatu
+        elektronikoan eta prozesatu sistema automatikoen erabiliz, baldin eta eskuzko
+        datu pertsonalak prozesatzeko beharrezko bat legegintza-baldintzak betetzen
+        ikusirik izan ezik arabera.
+      p_5_1_3: 5.1.3. Erabiltzaileen datu pertsonalak ez dira inori transferitu, espresuki
+        Araudi eta erabiltzailearen eskariz emandako kasuetan izan ezik. Erabiltzaile
+        baietzaren, erabiltzaileak datu pertsonalen den hirugarren Konpainiaren aurkako
+        alderdi betebehar bat bereganatzeak baldintzaren pean transmititu daiteke
+        jasotako informazioaren konfidentzialtasuna bermatzeko, bereziki, zerbitzu
+        eta aplikazioak erabiltzean. Erabiltzailearen datu pertsonalen Gobernuko agintariek
+        (tokiko agintariek) eskatuta horniketa egiten da prozedura beharrezkoak Legearen
+        arabera.
+      p_5_1_4: '5.1.4. Erabiltzaile pertsonalak datuak ezabatuko diren: - Datu auto-deleted
+        Erabiltzaileak orritik dira; - Page auto-deleted Erabiltzaileak da; - Erabiltzaileak
+        informazio eta bere orri pertsonala Enpresaren arabera kenduko dira. Orri
+        ezabatzea kasuan Erabiltzaileak bera, Enpresaren erabiltzailearen datu pertsonalak
+        gordetzen du bere 210 eguneko epean oinarri elektronikoan ondoren orri pertsonalean
+        kendu da. Datu pertsonalak 210 egun amaitutakoan ezabatzen dira ondoren orri
+        pertsonalean kendu da. Harik eta epe hori bukatzen den, erabiltzaileak eskubidea
+        du orri pertsonala berreskuratu nahi du.'
+      users_rights_and_obligations: Erabiltzaileen eskubideak eta betebeharrak
+      p_6_1: '6.1. Erabiltzaileak eskubidea dauka:'
+      p_6_1_1: 6.1.1. informazioa sartzeko berari buruz / bere murrizketarik gabe
+        eta dohainik bere orrialde pertsonal editatzen Web login eta pasahitza erabilera
+        batera, sortutako
+      p_6_1_2: 6.1.2. independentean egiteko aldaketak eta zuzenketak Erabiltzaile
+        Web orri pertsonala informazioaren, baldintza aldaketak eta zuzenketak hala
+        nola dituzten up-to-data eta egia informazioa;
+      p_6_1_3: 6.1.3. Web orri pertsonal batetik informazioa kentzeko;
+      p_6_1_4: 6.1.4. eskatu Enpresaren informazio zehatzagoa, bloke lortu edo datu
+        pertsonalak ezabatu, datu horien osatu gabe, zaharkitu, zehaztugabeak, unlawfully
+        jaso badira edo ez dira beharrezkoak deklaratu prozesatzeko helburua edo bada
+        6.1.3 paragrafoan horiek zehaztutako ekintzak Araudia ezin dira independentean
+        inplementatuta;
+      p_6_1_5: 6.1.5. eskaera oinarri hartuta, jaso bere / bere datu pertsonalen tratamenduari
+        buruzko Company batetik informazioa.
+      p_6_2: '6.2. Hurrengo buruzko edozein Web erregistratutako erabiltzailearen
+        informazioa beti da eskuragarri erregistratutako Lankide: Erabiltzaile izena,
+        sexua, adina, profil argazki eta bestelako informazio Erabiltzaileak argitaratu
+        du egiten bada.'
+      p_6_3: 6.3. Konpainiak ez dute erabiltzailearen datu pertsonalak dibulgazioa
+        beste Web nor datu horien sartu Erabiltzaileen arabera erantzukizun darama.
+      p_6_4: 6.4. Datu pertsonalak (beste erabiltzaileen informazioa) Erabiltzaile
+        pertsonala orria edo Erabiltzaileak Web orrialde pertsonalak kentzea kentzea
+        gertatuz gero, erabiltzailearen informazio kopiatuko beste erabiltzaileek
+        edo beste erabiltzaileak 'orrietan gordeta mantentzen da.
+      users_information_protection_measures: Erabiltzaileen informazioa babesteko
+        neurriak
+      p_7_1: 7.1. Enpresa neurri tekniko, antolakuntzako eta juridikoa hartzen dute
+        erabiltzailearen datu pertsonalak baimenik gabe edo ustekabeko sarbidea, ezabatzeko,
+        aldatzeko, blokeatzea, kopiatzea, eta zabalkundea, baita baimenik gabe beste
+        ekintzen babesa bermatzearren.
+      p_7_2: 7.2. Erabiltzaileak login (e-posta helbide edo sakelako telefono zenbakia)
+        eta pasahitza Web sartzeko erabiltzen dira. Erabiltzaileak da informazio hau
+        konfidentziala mantentzeko ardura. Erabiltzaileak ezin izango du izena eta
+        pasahitza transferitzeko hirugarrenei eta, gainera, neurriak hartu beharko
+        du bere konfidentzialtasuna bermatzeko behartuta dago.
+      limitation_of_the_regulations_applicability: Araudiak aplikagarritasunaren mugatzea
+      p_8: ez diren ekintzak eta Internet baliabide ditu hirugarrenen luzatu. Konpainiak
+        ez duten Erabiltzaileak informazioa Interneten edo Web Zerbitzuen bitartez
+        eskuratzeko lortu hirugarrenen jardutea erantzukizunik darama. Web Administrazioak
+        Erabiltzaileak gomendatzen arazoa hurbiltzeko informazio kopuru web gunean
+        posted arduraz batera.
+      user_requests: Erabiltzaile-eskaera
+      p_9_1: '9.1. Errusia, 101000, Mosku, Ulanskiy pereulok 13 stroeniye 4, pomeshcheniye
+        1 edo dokumentu elektronikoak forma: Erabiltzaileen eskubide bat Enpresaren
+        datu pertsonalen erabilerari idatziz honako helbidean buruzko eskaerak barne
+        eskaerak bidali behar dute sinadura elektronikoa kualifikatuz sinatu Errusiako
+        Federazioaren legediaren arabera, e-posta bidez: support@flutylove.com.'
+      p_9_2: '9.2. Erabiltzaileak eskatuta honako datu hauek agertu beharko dira:
+        identifikazio Erabiltzaileak edo bere ordezkariaren dokumentua kopurua; Goiko
+        dokumentu eta jaulkitzea autoridad igorpen-data; Informazio Erabiltzaile en
+        operadorea harremanetan partaidetza berretsiz (bereziki, lotura du); Erabiltzaileak
+        edo haren / bere ordezkariaren sinadura.'
+      p_9_3: 9.3. Enpresaren konpromisoa hartzen du kontuan hartu behar dira eta erabiltzailearen
+        eskaerari erantzuteko 30 eguneko epean jaso ondoren.
+      p_9_4: 9.4. Enpresaren arabera jaso Erabiltzaileek (idatzizko edo eskaerak elektronikoak)
+        korrespondentzia guztiak sarbide mugatuko informazio gisa sailkatzen da, eta
+        ezin izango Erabiltzaileak idatzizko baimenik gabe kontuetarako. Datu pertsonalak
+        eta inguruko eskaera bidali duen Erabiltzaileak bestelako informazioa ezin
+        izango da erabili, Erabiltzaileak baimena berezirik gabe, modu ezberdinean
+        eskatuta edo legeak berariaz aplikagarri emandako kasu hauetan ere erantzunaren
+        baino.
+    terms:
+      terms: Flutylove erabiltzailearen eskariz
+      welcome: Ongi Flutylove den!
+      about_terms: '(baita dokumentuak aipatzen den aurrerantzean, Privacy Policy
+        barne) dira atxikidura kontratuaren 428 artikuluan, Kode Zibileko Errusiar
+        Federazioko (aurrerantzean, "Akordioa" gisa aipatzen) jarraiki artean Gainera,
+        18 urte erdietsi (aurrerantzean "Erabiltzaile" eta Enpresa (edo "dugu") -
+        a sozietate mugatuak "Technoelegance" (LLC "Technoelegance") (juridikoa helbidea:
+        101000, Mosku, Ulanskiy pereulok 13 stroeniye 4, pomeshcheniye 1), aurrerantzean
+        Flutylove gisa aipatzen, bertan Ataria eta Web edo aplikazioaren (orokorrean
+        "zerbitzuak" aipatzen bidez eskaintzen lotutako zerbitzu guztiak) erabil dezakezu
+        arabera. Web ulertzen da edozein esan nahi du bere bertsio, domeinu izen flutylove.com
+        azpian konbinatu eta hainbat gailu, web-oinarritutako bertsio, aplikazio mugikorrak
+        eta sare sozialak aplikazioak barne funtzionatzen.Web gune honen bidez ados
+        Hitzarmen-baldintzak eta Pribatutasun-gidalerroak. Irakurri arreta handiz.
+        Ez baduzu Akordioko baldintzak eta Privacy Policy ados, edo ez dute 18 urte
+        urte bete duzu, ez da izango dituzu web orria eta bere zerbitzuak erabili.Web
+        erabiliz, edozein delarik duzu Flutylove erabiltzaile erregistratu diren edo
+        ez, erabat ados duzu Erabaki hau eta gure Pribatutasun-politika da, eta lotura
+        dituen Hitzarmen honetan sartzen da eskuragarri Web on batekin, eta hura betetzeko.Erabiltzaile
+        Eskatuta, Enpresaren konpromisoa hartzen paperezko formulario bat Hitzarmen
+        hau sinatu eta bidali gizabanakoaren dokumentuak eskatzeko.Enpresa Erabiltzaile
+        eskariz, eta bertan aipatzen edozein dokumentu aldatzeko eskubidea du. Aldaketak
+        gorde-up-to-data erregulartasunez aldaketa horiei buruzko informazioa behar
+        duzun jakitun izan behar. emango dizugu egindako orri honen beheko dugu aldaketei
+        buruz. Aldaketak ez atzera erlazionatzeko eta indarrean sartuko hamar eguneko
+        epean argitaratzen den egunetik hasita. Hala eta guztiz ere, kasu horretan,
+        zerbitzu berriak ezartzeko edo legedia aldatzea lotutako, berehala aplikatu
+        egingo da. Ez baduzu hitzarmenean egindako aldaketak ados, web orria eta bere
+        aplikazioak erabiliz gelditu behar duzu.'
+      consent_to_accept_the_terms_of_user_agreement: 1. BAIMENA BALDINTZAK USER hitzarmena
+        onartzeko.
+      p_1: ". Hitzarmen Elektronikoa. Hitzarmen honek kontratua, bertan Web eta Zerbitzuen
+        erabilera-baldintzak deskribatzen bertsio elektronikoa da. Web den saioa amaitzeko
+        edo Erabiltzaile bat bilakatu da, Hitzarmen hau onartu, eta termino, baldintza,
+        eta ohar bilduta edo ez erreferentziatu ados. baiezta duzu eta ados Flutylove
+        erabiltzaileek duten eskola batekin Enpresaren edo bere kideek jabetzako beste
+        webgune biltzen ditu zati bat izan daiteke. Hori dela eta, Web orrian profilak
+        den antzeko beste webgune eta ordaindu webgune batetik harpidedun ikusi daitezke
+        beste ordaindu web guztietatik harpidedun komunikatzeko. b. Formulario elektronikoa.
+        Web den saioa amaitzeko edo Erabiltzaile bat bilakatu da, emateko Akordioa
+        elektronikoekin baimena ematen duzu. c. Nabigazio-inprimakia. Hitzarmen honen
+        paperean jasotzeko eskubidea daukazu. paperezko edizioan eska dezakezu Erabaki
+        hau modu elektronikoan sinatu aurretik edo ondoren egingo. Mesedez, jarri
+        harremanetan gure Bezeroaren arreta informazio gehiagorako. d. Sarbide eta
+        deskargatzea. Ordena sartzeko eta deskargatu Hitzarmena elektronikoak honetan,
+        Internetera edo zuzenean Web baliabideen sarbidea duten gailuak bidez sarbidea
+        izan behar duzu. beharrezko ekipamendua Internet, hots, ordenagailua, modem
+        edo beste sarbide gailua izan behar duzu. Mesedez, inprimatu Hitzarmen honen
+        kopia bat eta mantendu da. Akordioaren inprimaki elektronikoa deskargatzeko,
+        gorde zure ordenagailuan edozein testu editore laguntzaz."
+      the_right_of_using_the_website: 2. RIGHT web erabiliz DU.
+      p_2: gutxienez hemezortzi (18) urte beteta Web honen erabiltzaile erregistratu
+        bat bihurtu izan behar duzu. baldintzak ez betetzea gertatuz gero, Web sarbidea
+        ukatu egingo da. Web erabiliz, erabiltzaileak jakin du web gunean posted informazio
+        pertsonala beste Internet erabiltzaileentzat eskuragarri izan daiteke izan
+        behar du, eta enpresa ez dela bere ekintzen arduraduna bear. Web hau aldarrikatzeko
+        eta konpromisoa hartzen du eskuin, autoritate eta aukera Erabaki hau sartu
+        behar duzula baimena erabiliz, eta bere baldintzetan guztiak jarraitu By.
+        Erabiltzaile bat aldarrikatzeko eta konpromisoa hartzen duzula ez dira inoiz
+        jasandako convicción delitua sexu indarkeria zerikusia izatea. Web erabiltzeko
+        pertsonala bakarrik diseinatuta. Debekatuta dago web gune hau erabiltzeko
+        merkataritza helburuekin. Korporazio entitateak ezin Web honen erabiltzaileak
+        izan, baita ezin Zerbitzua honetan edo web orrian beren helburuetarako erabili.
+        Legez kanpoko eta / edo web gunearen erabiliz, erabiltzaile-izenak biltzeko
+        eta / edo nahi ez diren mezuak eta estekak bidaltzeko xedez tresnak elektronikoak
+        edo bestelako laguntzaz helbide elektronikoak barne baimenik gabe lortu nahi
+        da eta Enpresaren ekintza egokiak hartu ahal izango dute legearen arabera,
+        barne poliziak helegitea.
+      pricing_and_registration: 3. Prezioei ETA IZEN
+      p_3: duzu gai Flutylove Erabiltzaileak bihurtu borondatez eta karga oinarria
+        librea Web orrian erregistratuz. Erabiltzaile gisa, zerbitzu eta web gunearen
+        aukera sorta espezifikoak erabili ahal izango duzu. Web gunearen Erabiltzaileak
+        Webgunean erregistratzen ordena ezarri eta 18 urte erdietsi arabera, pertsona
+        bat da. Noiz Web izenemateagatik Erabiltzaileak behartuta Enpresaren informazio
+        beharrezko eta garrantzitsua Erabiltzailearen orria osatzeko, login (e-posta
+        helbide edo telefono zenbaki bat) eta pasahitza Web sarbidea du, baita izenean,
+        barne ematen den erabiltzaile bakoitzean berezia da. Izena emateko inprimakia
+        Erabiltzaileak informazio gehigarria eska daiteke. Erabiltzaileak da, balio
+        aldia, actuality, osotasun eta betetzea Errusiako Federazioaren matrikula
+        informazioa emandako legean, eta bere argitasun ditu hirugarrenen erreklamazio
+        erantzule. Izena ematean Erabiltzaile Hitzarmen honekin ados eta zehaztutako
+        eskubide eta betebeharrak, erabiliz eta Web funtzionamendu lotutako ekiteko.
+        Erabiltzaileak webgune funtzioen erabiliz sarbidea osoa lortzen. Enpresa eskubide
+        eta betebeharra konpromisoa hartzen Erabiltzaileak, arauon zehaztu behar,
+        erabiltzailearen izen-ematea arrakastatsua Web Gunean ondoren erabiltzailearen
+        datu pertsonalak prozesatzeko Errusiako Federazioko Legearen arabera egin
+        da. Web Administrazioak erabiltzailearen datu pertsonalak prozesatzen ordena
+        emateko erabiltzaileari Web funtzioen erabilera, pertsonalizatuak (norakoak)
+        iragarki jasotzea barne sarbidea batekin ere; egiaztapen, ikerketa eta datu
+        horiek guztiak aztertuz, laguntzeko eta funtzioak eta atal Web hobetzeko,
+        baita funtzio eta atal berriak garatzeko aukera. Konpainiak beharrezkoak diren
+        ekintza guztiak hartzen baimenik gabe sartzea, aldaketa, edo ezabatzen aurka
+        Erabiltzaileen datu pertsonalak babesteko. Konpainiak Erabiltzaileak datu
+        pertsonalak eskuratzeko aukera horiek langileei, azpikontratatuei eta agenteei,
+        Enpresaren, informazio hori behar duten ordena Web funtzionalitate onartzeko
+        eta erabiltzaileak hornitzeko bere erabiliz sartzeko ere soilik eskaintzen
+        du zerbitzuak. Web enpresan Erabiltzaileak emandako informazioa, datu pertsonalak
+        barne erabiltzeko, indarreko Errusiar Federazioko legediaren baldintzak betetzen
+        direla bermatzeko eskubide baten (prebentzioa eta / edo kendu da legez kanpoko
+        eta / edo legez barne ditu erabiltzaileak ekintzak). Erabiltzaileak emandako
+        informazioaren dibulgazioa daiteke egin daiteke egungo Errusiar Federazioko
+        legediaren arabera epaitegian, legeak betearaztea agentziak eskatuta, bakarrik,
+        baita beste kasu batzuetan Errusiar Federazioko lege aplikagarriek xedatutako
+        moduan. neurrian Konpainiaren Araudi exekuzioa Erabiltzaileak datu pertsonalak
+        prozesatzen duen, Erabiltzaileak datu pertsonalak prozesatzeko baimena ez
+        xedapen datu pertsonalen bertutea beharrezkoa. login eta Erabiltzaileak aukeratutako
+        pasahitza Erabiltzaile Web sarbidea beharrezko informazioa eta nahikoak dira.
+        Erabiltzaileak eskubide bat haren / bere izena eta pasahitza eman behar hirugarrenak
+        behar du, eta erabat bere segurtasun arduraduna, horiek gordetzeko oinarri
+        independentean bidea aukeratuz. / bere hardware eta software erabiltzaileak
+        izena eta pasahitza (cookies bidez) Web gainontzeko baimen automatikoa dagoen
+        biltegiratze baimentzen daiteke. Erabiltzaile-izena eta pasahitza erabili
+        zirenean hartutako edozein ekintza jotzen dira Erabiltzaileak konpromisoa
+        hartu behar, alderantziz da Erabiltzaileak frogatu ezean. Erabiltzaileak behartuta
+        dago berehala Enpresaren izena eta pasahitza eta / edo kontu orrialdean, edo
+        zabaltzea login eta pasahitza baimenik gabe sartzeko kasuan ezarritako prozedurari
+        jarraiki. Matrikula egin ondoren Erabiltzaileak eskubidea sortu, erabili,
+        eta zehaztu bere / bere orrialdeetan norberaren edukia norberaren interesa
+        eta ez komertzialetan helburuetarako, eta baita lortu aukera beste erabiltzaile
+        batzuen orri pertsonalak buruzko informazioa sartzeko eta bidaltzeko irabaziak
+        . Erabiltzaileak etan orri pertsonaletan informazioa jabea badaki Araudi eta
+        egungo Errusiako Federazioko legeriaren arabera ezarritako kasuetan izan ezik,
+        Sozietateak ez du garapenean parte hartzeko eta edukiak erabilita eta ez du
+        kontrolatzen erabiltzaile en orri sarbidea duten beste erabiltzaile batzuen.
+      terms_4: 4. TERMS.
+      p_4: 'Hitzarmen honek guztiz indarrean eta indarrean jarraitzen du, betiere
+        Web erabili ahala. Web gunearen Erabiltzaileak egotea zure orria kentzean,
+        edozein unetan, edozein arrazoirengatik, gure online Bezeroaren Zerbitzua
+        harremanetan jarrita edo web gunearen zerbitzua erabiliz dezakezu gelditu.
+        Enpresa zure orri pertsonala ezabatu noiznahi beretzat gordetzen. Ez gara
+        behartuta zuri jakinarazteko orriaren ezabatu aurretik, Enpresaren arrazoia
+        hitzarmenaren baldintzak urratu duzula uste badu. Ez gara behartuta zure kontua
+        ezabatzea arrazoia ezagutzera; kasu batzuetan, hala nola informazio dibulgazioa
+        debekatuta daiteke. Zure page ezabatzea ondoren, baldintza guztiak indarrean
+        egon ondoren dezake bere izaera Hitzarmen honen amaiera izango da indarrean,
+        hala nola bukatu ondoren izan. Zure orrialdea ezabatzen baduzu Zeure web bidez,
+        zuk hala nola: ezabatzea honen zergatia zehazteko eskatu ahal izango dugu.'
+      account_security: 5. kontua segurtasuna.
+      p_5: zaude konfidentzialtasun zure erabiltzaile-izena eta pasahitza, eta bertan
+        izena emateko momentuan sortuko da iraupenerako erantzule. Era berean, ez
+        zara erabat zure erabiltzaile-izena eta pasahitza azpian gertatzen diren ekintza
+        guztien erantzule. (a) berehala jakinaraziko Us zure izena eta pasahitza baimenik
+        gabe erabili, baita beste segurtasun-urraketak, eta (b) irteera zure kontutik
+        saio bakoitzaren amaieran buruz onartzen duzu. Web ez da xedapen honen ez-betetzea
+        eragin ditzaketen kalte edo galeren erantzule. batez ere, kontuz ibili behar
+        duzu zure kontua ordenagailu publiko baten bidez sartzean baimenik gabeko
+        pertsona dela ezin espioi edo zure pasahitza edo bestelako informazio pertsonala
+        grabatzeko ere. halaber, baieztatu eta onartzen Interneten zela inoiz erabat
+        pribatua eta segurua. iruzkin duzun web orrian edozein mezu edo informazio
+        hori irakurri ahal izango dira, edo beste erabiltzaileek erabili, nahiz abisu
+        bat berezia duten informazioa ezkutatzea da ulertzen duzu.
+      your_interaction_with_other_users_of_the_website: 6. zure puntuaketak beste
+        erabiltzaileei WEB elkarrekintza.
+      p_6: ". SOILIK ERANTZUKIZUNIK zure elkarrekintza beste erabiltzaileekin ZU.
+        Ulertu behar duen enpresak EZ EGIAZTATU beren erabiltzaileei EZ dute CRIMINAL
+        disko batean. Gainera, enpresak EZ DU Informazioa eskatu AZKEN BEREN erabiltzaileei
+        buruzko ez du informaziorik hau balioztatzeko. ENPRESAREN BERMERIK NO Erabiltzaile
+        portaera eta bateragarritasuna benetako edo etorkizuneko erabiltzaileekin
+        BURUZKO DA. ALDI BEREAN Enpresa eskubidea ERABILTZAILEAK egiaztatzeko CRIMINAL
+        erregistro edo aurrera eramateko bestelako ziurtatze EDONOIZ eskuragarri dagoen
+        informazio publikoa erabiliz ERRESERBAK. b. NO KASU ENPRESAREN ez da erantzule
+        KALTE EZ DIRA ZUZENEKO, ZEHARKAKO, orokor edo naturan zehatz bat, Osabidezko,
+        ETA / EDO USTEKABEKO, ZUK EDO BESTE norbanakoek LORTUTAKO ONDORIOZ web erabiliz,
+        barne AS, BAINA EZ MUGATU, lesio fisikoa, estresa eta / edo bestelako kalteak,
+        LORTUTAKO BY RESULT komunikazio edo bilerak BESTE erregistratutako erabiltzaileen
+        webgunea edo pertsonak, DEAL WEB CON zurekin AS. POSIBLE kontu handiz ibili
+        behar onartzen duzu, beste erabiltzaileekin komunikatzeko, batez ere, kasu
+        horietan, erabakitzen baduzu haiekin elkartu REAL bizitzan. Kontuan izan behar
+        duzu, zer konpainiak ez du ematen DECLARED edo inplizituki BERMEAK A ERABILTZAILEAK
+        WEB HONEN bateragarritasuna buruzkoa. Ez zenuke DAR finantza-informazioa beste
+        erabiltzaile WEB (ADIBIDEZ INFORMATION zure kreditu edo plastikozko txartelak)
+        TO. c. Zerbitzua zure izena edo zure herrian beste hizkuntzen izenean itzultzeko
+        gauza; d. zerbitzua ez da artikulu honetan azaltzen diren ekintzen erantzule.
+        Kasu horretan, ez haiekin ados erabat edo partzialki, MESEDEZ berehala utzi
+        WEBGUNEA;"
+      the_information_posted_by_you_on_flutylove: 7. INFORMAZIOA etan BY ON FLUTYLOVE
+      p_7: . Zu zara arduradun bakarra dagoela argitaratzen edo frogatzeko (aurrerantzean
+        "post"), Zerbitzuan, edo beste erabiltzaileak transferitu informazioa erantzule.
+        Ez duzu baimenik Zerbitzua, edozein baita mehatxatzaileak edo stalking informazioa
+        eduki defamatory, zehaztugabeak, gehiegikeri, lizuna, vulgar eta oldarkorra
+        buruzko informazio, eduki sexual buruzko informazioa, informazio arraza diskriminazioa
+        naturaren bidaltzeko edo beste erabiltzaileak transferitu edo legez kanpoko
+        informazioa, edo hausten edo beste edozein party eskubideak urratzen dituzten
+        bestelako informazioa (barne, mugarik gabe, jabetza intelektualaren eskubideak,
+        intimitatea eta publizitate-eskubideak). Ez duzu baimenik Company edo beste
+        edozein Erabiltzaileen informazio zehaztugabeak, nahasgarria edo faltsua ematea
+        da. informazioa enpresa Flutylove emandako bada edo beste erabiltzaile batek
+        gerora bihurtzen zehaztugabeak, faltsuak engainagarria, berehala eman behar
+        duzu enpresak aldaketa horien Flutylove. aurkeztu eta bermatzen erregistratzean
+        emandako informazio guztia zehatza eta egiazkoa da, eta berehala gerora bihurtzen
+        zehaztugabeak, nahasgarria edo faltsua edozein informazio aldatu duzu. b.
+        Ulertu eta onartu eskubidea eskubidea dugu, baina ez behartuta informazio
+        edo eduki hori Zerbitzua transferitu edo zerbitzu etan sarbide publikoan jarraipena
+        egiteko. Informazio edo eduki horien edozein ezabatzeko edozein arrazoi eta
+        jakinarazpen esleitzea gabe eskubidea daukagu. c. Web orrian erakutsiko objektu
+        guztiak, diseinua elementuak, testua, grafikoak, irudiak, bideoak, gidoiak,
+        programak, musika, soinuak eta bestelako objektuak eta beren liburutegiak
+        barne (aurrerantzean - Informazioa), Enpresa-eskubideak jabetzakoak dira,
+        erabiltzaileek Web eta beste eskubideen titular, objektu horiei Eskubide guztiak
+        babestuta daude. d. Ezik ezarritako Hitzarmen honek, baita gaur egungo Errusiako
+        Federazioaren legediaren arabera bezala, ez da informaziorik kopiatu daiteke
+        (erreproduzitu), prozesatu, banatu, marko batean erakutsi, argitaratu, kargatu,
+        transferitu, saldu edo erabili beste modu batean osoa edo titularraren baimena
+        lortu aurretik gabe piezetan, eskubide egileak bitartean esplizituki bere
+        baimena eman Informazioaren erabilera librea banakako edozein egiteko. e.
+        Web legitimoki Erabiltzaile pertenecientes Informazioaren argitaratzerakoan,
+        Erabiltzaileak eskubidea ez-esklusiboa da erabili begiratzen, playback (kopiak
+        barne) duten beste erabiltzaile eta soilik pertsonala erabilera ez komertzialerako
+        helburuetarako beste eskubideak eskuratzeko aukera ematen du, kasu betiere
+        erabilera eragiten denean edo kaltetuko eskuineko egileak legeak babesten
+        interesei. f. The Erabiltzaileak informazioa, zein sarbide zen soilik pertsonal
+        ez-komertziala erabiliz irabazi erabiliz, hau da baldin eta onartzen egiletza
+        seinaleak guztiak (copyright-ak) edo beste egiletza ohar hori mantendu egingo
+        da, egilearen eta bere produktu baten izena aldaketarik gabe utzi egingo da.
+        g. Erabiltzaileak fakturazioa eskaintzen eskubidea ez-esklusiboa web gunean
+        posted eta berari dagozkion informazioa erabili ahal / bere lege barruan kontuan
+        hartu gabe ordena arkitektura eta funtzionalitate errendimendua barruan enpresaren
+        web gunearen funtzionamendua bermatzeko Web du. eskubidea ez-esklusiboa goian
+        aipatzen da, web gunean Edukia jartzea onartu egin ziren eta mundu osoko herrialdeetako
+        lurraldean estaltzen. Enpresa eskubidea hirugarrenek paragrafo honetan aipatutako
+        eskubideak transferitzeko ditu. Erabiltzaileak konpromisoa Company duten web
+        gunearen aukera funtzional eta teknikoak, Eduki partekatzea erakusteak Erabiltzaileak,
+        informazio iragarki bistaratzea helburuetarako barne erabiltzeko eskubidea.
+        hi. kasu horretan, erabiltzaileak webeko informazioa ezabatzen du, ez-esklusiboa
+        eskubidea automatikoki ezeztatuko dira, baina ondorioz Web zehaztapen teknikoak
+        Enpresaren eskubidea backup Informazioa kopiak gordetzeko beharrezko denbora
+        eta, behar denetan barruan gordetzen du. i. Gain informazio pribatutik, Erabiltzaileak
+        ez kargatzeko, edo modu ezberdinetan ezagutzera beste guneak, datu-base eta
+        beste jabetza intelektualaren Informazio eza esplizituki adierazi baimenik
+        copyright du eraginez ekintza (Web orrian argitaratuko) eskubidea du jabeak.
+        j. bestela da arauon adierazi ezean, arauon ezer ezin da eskubide esklusiboa
+        transferentzia Informazioa gisa jotzen. k. hori argitaratzeko duzu zure erabiltzaile-profila
+        buruzko informazio guztia, zehatza izan behar du, up-to-data eta osoa. Erabiltzaileak
+        da erabat soilik erabiltzen zen igo edo modu ezberdinak kontuetarako edozein
+        informazio erantzule (etan) Web orrian edo erabiltzailearen laguntzaz. Erabiltzaileak
+        ez du eman, igo transferitzeko edo iruzkin Edukia Web orrian, bada zuen /
+        ez du eskubideak izango ditu, besteak beste, ekintza, erosi edo eskuordetutako
+        hartu zion / bere Errusiar Federazioko legediaren arabera eskubidea dute.
+        Enpresa gai, baina ez dago behartuta, Web arakatzeko legez kanpoko Edukia
+        edozein eta ezabatu edo mugitu (aldez aurretik abisatu gabe) edozein edukia
+        edo erabiltzaileek bere diskrezioa bakarra, edozein arrazoi edo kausak gabe
+        barne, mugarik gabe mugitu onartzen da, edo, Enpresa irizpena banakako arabera
+        Erabaki hau urratzen informazioa, errusiar Federazioko legediaren ezabatzeko
+        eta / edo eskubideak urratzen, minik, edo beste erabiltzaileak edo hirugarren
+        segurtasuna arriskuan jartzen. Web dauka (edo daukana) (hirugarren web) eta
+        baita artikulu, argazkiak, ilustrazioak, grafikoak, musika, soinu, bideo,
+        informazio, aplikazioak, software eta beste informazio hori, edo datozen beste
+        guneak lotzen Interneten hirugarrenek (hirugarren eduki), zein jarduera intelektual
+        baten emaitza da, eta errusiar Federazioko legediaren arabera babestuko from.
+        Hirugarrenok eta euren informazio ez dira Konpainiaren arabera egiaztatu honek
+        edo beste eskakizunak (zehaztasun, osotasun, zintzotasuna, eta abar) betetzen
+        da. Enpresa ez da argitaratua hirugarrenen guneetan buruzko edozein edukien
+        arduradun zein Erabiltzaile irabaziak dira webgunearen bitartez edo hirugarren
+        informazioa, barne bidez sartzeko, baina ez du hirugarrenen guneetan edo adierazitako
+        edozein iritzi edo adierazpenak mugatuta beren informazioa ere. gune edozein,
+        produktu, zerbitzu eta lotura, Web orri honetan jasotako edozein izaera komertziala
+        eta ez komertzialen informazioa ez da baimen edo gomendioa produktu horiek
+        (zerbitzuak) Enpresa hasita. Erabiltzaileak erabakitzen Web utzi eta hirugarren
+        web joan edo hirugarrenen software erabili edo instalatu bada, beraz, ez zuen
+        / zituen bere ardurapean, eta une horretan Araudi dira jada Erabiltzaileak
+        aplikatu. Aurrerago Erabiltzaile ekintzak dira aplikagarri arauak eta politikak,
+        enpresa pertsona horiek zeinen Informazioa he / erabili zuen joan praktikek
+        barne gidatuta.
+      forbidden_actions: 8. FORBIDDEN ekintzak.
+      p_8: . Debekatuta dago "mantentzeko inori on" edo trabarik edozein pertsona
+        beste modu batean. b. Debekatuta dago bots, birusak, aplikazioak erabili behar
+        den / extract guneak, edo beste eskuz edo automatikoa gailuak edo prozesuak
+        ateratzeko, indize, "espioitza" edo beste modu batean erreproduzitu edo saihestu
+        nabigazio egitura eta Zerbitzuan edo bere edukia erakusteak . c. Debekatuta
+        dago, iruzkin, banatu, edo ugaltzen everyway edozein copyrightdun informazioa,
+        markak, edo beste informazio copyright bidez babestuta copyrightaren jabearen
+        aldez aurreko baimenik gabe. d. Debekatuta dago Zerbitzuan inongo copyright,
+        marka edo beste copyright oharrak kentzeko. e. Debekatuta dago oztopatzeko
+        edo Zerbitzua edo Web konektatutako Zerbitzua eta Web, edo zerbitzu eta sareen
+        eragiketa eten. f. Debekatuta dago, argitaratzeko email edo transferentzia
+        modu ezberdinetan birusak edo beste edozein ordenagailu kodea,, oztopatzeko
+        suntsitu edo edozein software, hardware edo telekomunikazio ekipoen funtzioak
+        mugatu diseinatu fitxategiak edo dituen edozein informazio. g. Debekatuta
+        dago goiburuak edo ema manipulatzeko izendapena benetako Zerbitzuaren bidez
+        partekatutako edozein informazio esanahia mozorrotuz helburua da. h. Da "burdinola"
+        edo "kopia" edozein Zerbitzuan edo web aldez aurretik idatzizko Flutylove
+        baimenik gabe parte debekatuta. Halaber, ezingo dute erabili edozein meta
+        tags edo kodea, edo Flutylove, Zerbitzuan edo web edozein estekak dituzten
+        beste gailu ordena edozein pertsona birbideratu helburua edozein gune bestera.
+        i. Debekatuta dago, aldatzeko egokitzeko, azpilizentziatu, itzuli, saldu,
+        berregituratu, argitu, banatu edo edozein Zerbitzuan edo web, edo web gunean
+        edo horretarako erabiltzen den edozein software zati desmuntatu, baita bultzatzen
+        besteek bezala antzeko ekintzak egiteko . j. Debekatuta dago eduki pornografikoak
+        eta / edo erotiko edozein informazio bidaltzeko.
+      the_changes_in_the_service: 9. ALDAKETAK zerbitzura.
+      p_9: Flutylove edozein unetan aldatzeko edo desgaitzeko aldi baterako edo betirako
+        Zerbitzua gordetzen du (edo zati edozein dela) aldez aurretik abisatu gabe.
+        Hori Flutylove ez da zuk edo inori erantzule aldaketak, aldi baterako erabilgarritasuna
+        edo Zerbitzuaren desgaituz osoa onartzen duzu.
+      ip_address_blocking: 10. IP helbidea blokeatuz.
+      p_10: Webguneko osotasuna babesteko, Flutylove edozein unetan eskubidea bere
+        gustura propioa IP erabiltzaileek zenbait helbideak blokeatzeko eskubidea.
+      relations_between_users_online: 11. HARREMANAK erabiltzaileen arteko ONLINE
+      p_11: duzu soilik zure elkarrekintzak beste Flutylove erabiltzaileekin ardura.
+        Flutylove eskubidea, baina ez betebeharra, zuk eta beste erabiltzaileen arteko
+        gatazkak kontrolatzeko eskubidea.
+      security_and_communication: 12. SEGURTASUNA ETA KOMUNIKAZIOA.
+      p_12: ere gure pribatutasun politikaren mende dago. Erabiltzaile bat bihurtu
+        da, onartzen duzu eta baimena gugandik emailak jasotzeko. Emailak hauek eragiketak
+        edo zerbitzuarekin lotutako beste jakinarazpenak, hala nola, beste erabiltzaile
+        dagozkion ekintzak buruzko administrazio-oharrak eta aldaketak buruzko deialdiak,
+        edo eskaintza komertzial, sustapen-materialak, eskaintza bereziak dauzkaten
+        gugandik emailak, edo informazio gisa jakinarazpenak adierazten daiteke zure
+        erabiltzaile kontua. Mesedez, irakurri gure Privacy Policy jakinarazpenak
+        horiei buruz gehiago jakin nahi.
+      denial_of_responsibility: 13. UKAZIOA erantzukizuna.
+      p_13: ". Flutylove ez da edozein informazio okerrak edo zehaztugabeak web gunean
+        posted ardura edo Zerbitzuaren lotutako, Web edo edozein hardware edo gure
+        Zerbitzu lotutako edo ez erabiltzen da softwarearen erabiltzaileekin. Flutylove
+        ez da portaera erantzule, bai online eta offline, edozein Web erabiltzaile
+        baten. Flutylove ez du ardurak hartu errorerik egite, eten, ezabatzeko, kalte
+        edo atzerapena eragiketa edo eragiketak, komunikazio lerro huts, lapurreta
+        edo suntsiketa, baimenik gabe sartzea edo komunikazio erabiltzaileak ildo
+        aldatzen hasi da. Flutylove ez da Interneten edo edozein Web at edozein arazo
+        edo matxura tekniko edozein telefono sareak edo lineak, ordenagailuan online
+        sistemak, zerbitzari edo hornitzaileak, informatika ekipoak, software, mail
+        edo jokalari porrota erabiltzaile-kontua ere, arazo tekniko edo pilaketa ardura
+        edo bere konbinazioa, istripuak edo lesio erabiltzaile edo ordenagailu batekin
+        erlazionatutako edozein hirugarrenek, edo parte-hartze edo sare eta / edo
+        Zerbitzuaren lotutako deskargatzea informazio baten ondorioz barne. inola
+        ere ez du Flutylove Enpresaren edo bere kidea edozein, publizitate agenteak,
+        fundatzaileek edo banaketa bazkide ez izango da edozein galera edo kalte,
+        lesio pertsonalak edo heriotza barne erantzule, webgunea edo Zerbitzuaren
+        erabiliz delako Under, edozein edukia web gunean posted edo Webgunearen erabiltzaile,
+        bai online eta offline arteko elkarrekintzak edozein. Web eta Zerbitzua AS
+        aukera ematen digu DA oinarri, eta Flutylove espresuki berme edo fitness uko
+        helburu jakin bat, edo inoren eskubideak urratzen eza da. Flutylove ezin du
+        bermatu eta ez du inongo emaitzarik promesa Web gunearen erabiliz eta / edo
+        Zerbitzuari."
+      links: 14. LOTURA.
+      p_14: ". Flutylove ez da edozein informazio okerrak edo zehaztugabeak web gunean
+        posted ardura edo Zerbitzuaren lotutako, Web edo edozein hardware edo gure
+        Zerbitzu lotutako edo ez erabiltzen da softwarearen erabiltzaileekin. Flutylove
+        ez da portaera erantzule, bai online eta offline, edozein Web erabiltzaile
+        baten. Flutylove ez du ardurak hartu errorerik egite, eten, ezabatzeko, kalte
+        edo atzerapena eragiketa edo eragiketak, komunikazio lerro huts, lapurreta
+        edo suntsiketa, baimenik gabe sartzea edo komunikazio erabiltzaileak ildo
+        aldatzen hasi da. Flutylove ez da Interneten edo edozein Web at edozein arazo
+        edo matxura tekniko edozein telefono sareak edo lineak, ordenagailuan online
+        sistemak, zerbitzari edo hornitzaileak, informatika ekipoak, software, mail
+        edo jokalari porrota erabiltzaile-kontua ere, arazo tekniko edo pilaketa ardura
+        edo bere konbinazioa, istripuak edo lesio erabiltzaile edo ordenagailu batekin
+        erlazionatutako edozein hirugarrenek, edo parte-hartze edo sare eta / edo
+        Zerbitzuaren lotutako deskargatzea informazio baten ondorioz barne. inola
+        ere ez du Flutylove Enpresaren edo bere kidea edozein, publizitate agenteak,
+        fundatzaileek edo banaketa bazkide ez izango da edozein galera edo kalte,
+        lesio pertsonalak edo heriotza barne erantzule, webgunea edo Zerbitzuaren
+        erabiliz delako Under, edozein edukia web gunean posted edo Webgunearen erabiltzaile,
+        bai online eta offline arteko elkarrekintzak edozein. Web eta Zerbitzua AS
+        aukera ematen digu DA oinarri, eta Flutylove espresuki berme edo fitness uko
+        helburu jakin bat, edo inoren eskubideak urratzen eza da. Flutylove ezin du
+        bermatu eta ez du inongo emaitzarik promesa Web gunearen erabiliz eta / edo
+        Zerbitzuari."
+      limitation_of_responsibility: 15. ARDURA MUGAKETA.
+      p_15: AN AS ematen da oinarria. ENPRESAREN BERMERIK DUTEN web gunea funtzio
+        egokiak edo desegokiak HELBURU JAKIN erabil daitekeen uko. ENPRESA ezin du
+        bermatu ETA EZ agintzen emaitzak jakin ANY WEB edo / eta bere funtzioak erabiltzen;
+        Nahasmena saihesteko, erabiltzaileak SEGURTASUN-NEURRIAK BEHAR behatzen web
+        orritik OR argitaratua loturen bidez deskargatzea eta FILES ANY erabiliz,
+        software gisa. ENPRESA oso gomendagarria ONLY SOFTWARE LIZENTZIA baita erabili
+        ahal antivirus software AS; Webgunea erabiltzean, erabiltzaileak ONARTZEN
+        DOWNLOADS webgunean edo bere laguntzarekin EDUKI AT / bere ardurapean eta
+        soilik ERANTZUKIZUNIK BALIZKO EMAITZAK Informazio hau erabiliz, KALTE dela
+        ere eragiten erabiltzaileen ordenagailuak, bai beste barne ALDEEN, datuak
+        galtzea, edo beste edozein KALTE; INOLAZ Enpresak edo ERAGILEEN BEAR NO ERANTZUKIZUN
+        erabiltzaileari EDO HIRUGARREN ANY ZEHARKAKO, USTEKABEKO ETA UNWILFUL KALTEAK,
+        BENEFIT GALTZEA EDO galdutako datuak, kalteak ohore, duintasunaren edo enpresa
+        ospea BARNE, sortzen diren Web gunea ERABILTZEKO, horren eduki edo beste edozein
+        informazio; honi edo beste edozein pertsona webgunera sartzeko bidez jasotako
+        NAHIZ enpresa ohartarazi EDO KALTE HORIEK GERTA adierazten du.
+      responsibilities_of_the_parties: 16. ERANTZUKIZUNAK ALDEEN.
+      p_16: Hitzarmen honek arautzen dute eta Errusiako Federazioko legeriaren arabera
+        interpretatuko. ez ziren Akordioaren arabera likidatuko Aleak den Errusiar
+        Federazioko legediaren arabera ordainduko da. Araudi ezartzeko lotutako gatazkak
+        edo eztabaidak kasuan, Erabiltzaileak eta Enpresa ahalegin horiek konpontzeko
+        negoziazioaren bidez egingo da. Kasu horretan, gatazkak ez du negoziazioen
+        bidez konpondu, gatazkak egon aplikagarri Errusiar Federazioko legediaren
+        arabera ordainduko da. Hitzarmen hau Russian hizkuntza fusilatu eta Erabiltzaileen
+        jaso ditzake berrikuspena egiteko beste hizkuntza batean. Russian hizkuntzan
+        Araudia eta bere beste hizkuntza batean bertsioa bertsio zalantzarik sortuz
+        gero, Erregelamendu honetako xedapenak hizkuntz errusieraz bertsioa aplikatuko
+        dira. Arrazoi bat edo beste, arautegi honetako xedapen bat edo gehiago egongo
+        baliogabea edo baliogabetutako, horrek ez du eraginik baliozkotasun edo aplikatzeko
+        gainerako xedapen.
+      other_provisions_and_changes: 17. BESTELAKO XEDAPENAK ETA ALDAKETAK.
+      p_17: Hitzarmen honek web orria eta / edo Zerbitzuaren erabiliz buruzko duzu
+        eta Flutylove arteko benetako akordioa da. Nolanahi ere, hitzarmen hutsuneak
+        honen xedapen bada, Hitzarmenaren gainerako bere efektu osoa baliozkotasuna
+        geratzen. Hitzarmen honek Flutylove aldatu ahal izango ditu edonoiz. Mesedez,
+        ez izan zalantzarik gurekin harremanetan jartzeko Hitzarmen honi buruzko galdera
+        batekin.
+      read_this: I IRAKURRI Hitzarmen hau eta bere TERMS guztiak ados.
+    about:
+      about_flutylove: Flutylove buruz
+      about_flutylove_text: Flutylove nazioarteko gizarte animazioko datazioak sarea
+        da. Hemen lagun, soulmate bat, bazkide zaren edo, besterik gabe, zure denbora
+        gozatzeko batekin jolasten edo bideoak / argazkiak.
+      flutylove_features: 'Noiz hasi saioa izango duzu gure webgunean, jakin dezakezu,
+        hala nola, hainbat ezaugarri:'
+      video_call_feature: duzu webcam bazkide txateatzeko aukera
+      extended_search: bilaketa hedatua doan erabili ahal izango duzu
+      multilanguages: duzu beste herrialde batzuetako bazkideak bilatu dezakezu, gure
+        zerbitzu espero beste herrialde batzuetako pertsona sorta zabala arabera erabili
+        delako itzultzen da 70 hizkuntza baino gehiago geroztik
+      play_games_chatting_etc: duzu beste pertsona berriketan dezakezu, jokatu eta
+        beste gizarte stuffs egin
+      we_are_in_social_networks: 'dira sare sozialetan dugu:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: teknologia handiko eta kode irekiko
+        liburutegiak erabiltzen dugu. Beti saiatzen gara hobeto lortzeko eta gure
+        zerbitzua hobetzeko.
+      partners_and_investors: dugu lankidetza ireki dira eta inbertitzaile aurkitu
+        nahi dugu. zuk gurekin elkarlanean nahi baduzu jar zaitez gurekin harremanetan
+        partnership@flutylove.com at
+    faq:
+      faq: FAQ
+      what_is_flutylove: Zer da Flutylove?
+      about_flutylove: Flutylove nazioarteko gizarte animazioko datazioak sarea da.
+        Hemen lagun, soulmate bat, bazkide zaren edo, besterik gabe, zure denbora
+        gozatzeko batekin jolasten edo bideoak / argazkiak.
+      what_features_has_flutylove: Zer ezaugarri ditu Flutylove?
+      flutylove_features: Hemen videocams dezakezu chat, bilaketa hedatua, bilaketa
+        bazkide erabili beste herrialde batzuetatik, play jokoak eta beste gizarte
+        stuffs egin.
+      i_have_some_requests: eskaerak batzuk ditut
+      you_can_write_request: Ireki dezakezu, eta idatzi
+      here: hemen
+      i_have_seen_some_typo_or_wrong_translation: Ikusi ditut typo batzuk edo itzulpena
+        oker
+      you_can_send_pull_request_to_our: Pull izateko eskaera bat bidali ahal izango
+        duzu, gure
+      github_repository: github repository
+      i_have_seen_some_error: akats batzuk ikusi ditut
+      you_can_send: bidaltzeko aukera izango duzu iritzia arabera
+      to_us_or_write_to_our_info_mail: edo e-posta idatzi support@flutylove.com den
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Ongi Flutylove den
+      you_have_successfully_signed_up_to_flutylove: duzu Arrakastaz sinatu Flutylove
+        den
+      you_can_sign_in_with_your_social_networks: dituzu sinatzeko nahi baduzu berriro
+        has dezakezu saioa zure sare sozial kontuarekin
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: saioa
+        hasteko izena eta pasahitza pasahitza alda dezakezu zeinua out by eta egin
+        klik beheko lotzeko nahi baduzu
+      change_password: Aldatu pasahitza
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            birth_date:
+              birth_date_error: behar 18 baino handiagoa eta gero gutxiago 115 izan
+            interests:
+              interests_error: behar 2000 baino gutxiago ikurrak izan
+            jobs:
+              jobs_error: behar 2000 baino gutxiago ikurrak izan
+            languages:
+              languages_error: behar 2000 baino gutxiago ikurrak izan
+            sex_keywords:
+              sex_keywords_error: behar 2000 baino gutxiago ikurrak izan
+            contacts:
+              contacts_length_error: behar 2000 baino gutxiago ikurrak izan
+              contacts_size_error: behar 21 baino gutxiago kontaktuak izan
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: balio baliogabea du
+  devise:
+    confirmations:
+      confirmed: baieztatu da.
+      send_instructions: email bat jasoko duzu zure kontua baieztatzeko minutu gutxitan
+        argibideekin.
+      send_paranoid_instructions: zure posta elektronikoaren helbidea, gure datu-basean
+        existitzen bada, email bat jasoko duzu zure kontua baieztatzeko minutu gutxitan
+        argibideekin.
+      new:
+        send_mail_for_confirm_your_email: Bidali mail berretsi zure posta elektronikoan
+        submit: Bidali
+    failure:
+      already_authenticated: duzu saiorik hasi dira.
+      inactive: ez dago aktibatuta.
+      invalid: elektronikoa edo pasahitza baliogabea.
+      locked: blokeatuta dago.
+      last_attempt: saiakera bat gehiago behar duzu kontua blokeatuta aurretik.
+      not_found_in_database: elektronikoa edo pasahitza baliogabea.
+      timeout: iraungi. Mesedez, hasi saioa berriro jarraitzeko.
+      unauthenticated: daukazu saioa hasi edo saioa hasi jarraitu aurretik.
+      unconfirmed: duzu kontua baieztatzeko jarraitu aurretik.
+    mailer:
+      confirmation_instructions:
+        subject: baieztapena argibideak
+        welcome_to_flutylove: Ongi Flutylove den
+        you_can_confirm_your_account_email_through_the_link_below: zure email baieztatu
+          dezakezu esteka azpitik bidez
+        confirm_my_account: Berretsi Email
+      reset_password_instructions:
+        hello: Kaixo
+        subject: Berrezarri pasahitza argibideak
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Norbaitek
+          eskaerak lotura bat zure pasahitza aldatu. Hau egin ahal izango duzu honako
+          estekaren bidez.
+        change_my_password: Pasahitza aldatu
+        if_you_didnt_request_this_please_ignore_this_email: ez bazenu eskatu honetan
+          mesedez mezu hau.
+      unlock_instructions:
+        subject: Desblokeoa Argibideak
+    omniauth_callbacks:
+      failure: Ezin autentifikatu% {mota} "% {reason}" delako.
+      success: Arrakastaz% {mota} kontutik autentifikatutako.
+    passwords:
+      no_token: Ezin orri honetan sartzeko Pasahitz gogorarazle bat datozen gabe.
+        ez duzu Pasahitz gogorarazle bat datoz bada, mesedez, ziurtatu emandako URL
+        osoa erabiltzen dituzu.
+      send_instructions: email bat jasoko duzu zure pasahitza berrezartzeko minutu
+        gutxitan azalpenekin.
+      send_paranoid_instructions: zure posta elektronikoaren helbidea, gure datu-basean
+        badago, pasahitza berreskuratzeko zure helbide elektronikoan esteka bat jasoko
+        duzu, minutu gutxi barru.
+      updated: ondo aldatu da. orain egin zara.
+      updated_not_active: ondo aldatu da.
+      new:
+        forgot_your_password: Berreskuratu Pasahitza
+        reset_password: Bidali berreskuratzeko url
+      edit:
+        change_your_password: Aldatu pasahitza
+        new_password: pasahitza New
+        confirm_password: Berretsi pasahitza
+        change_password: Aldatu
+    registrations:
+      destroyed: Bye! Zure kontua arrakastaz ezabatu. ikusiko duzu berriro laster
+        espero dugu.
+      signed_up: Ongi etorri! sinatu Arrakastaz eman duzu.
+      signed_up_but_inactive: duzu sinatu dute arrakastaz. Hala ere, ezin izan dugu
+        has dezakezu saioa zure kontua oraindik ez dago aktibatua duelako.
+      signed_up_but_locked: duzu sinatu dute arrakastaz. Hala ere, ezin izan dugu
+        has dezakezu saioa zure kontuarekin blokeatuta dagoelako.
+      signed_up_but_unconfirmed: da zure helbide elektronikora bidaliko dira. Mesedez
+        ireki esteka kontua aktibatzeko.
+      update_needs_confirmation: Kontua arrakastaz eguneratu duzu, baina zure helbide
+        elektroniko berria baieztatu behar dugu. Mesedez egiaztatu zure helbide elektronikoa
+        eta sakatu 'Baieztapen esteka honetan zure helbide elektroniko berria berretsiz
+        amaitzean.
+      updated: Kontua arrakastaz eguneratu duzu.
+      new:
+        sign_up: Kontu
+        name: izena
+        password: Pasahitza
+        password_confirmation: Pasahitza berrespena
+        register: Kontu
+    shared:
+      links:
+        sign_in: Saioa hasi
+        sign_up: Kontu
+        didnt_receive_confirmation_instructions: Ez al jaso baieztapen argibideak?
+        sign_in_with: Izena batekin hasi
+        fast_login_almost_one_click: Fast login (Ia inork klik)
+    sessions:
+      signed_in: saioa hasita arrakastaz.
+      signed_out: Saioa amaitu egin da.
+      new:
+        sign_in: Saioa hasi
+        password: Pasahitza
+        remember_me: Gogora nazazu
+        forgot_your_password: ahaztu zaizu?
+    unlocks:
+      send_instructions: email bat jasoko duzu zure kontuarekin nola desblokeatzeko
+        minutu gutxitan argibideekin.
+      send_paranoid_instructions: zure kontua existitzen bada, email bat jasoko duzu
+        nola desblokeatzeko minutu gutxitan argibideekin.
+      unlocked: arrakastaz desblokeatu egin da. Mesedez, identifikatu zure burua.
+  timezones:
+    American Samoa: American Samoa
+    International Date Line West: Nazioarteko Data Line West
+    Midway Island: Midway Island
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Pacific Time (Estatu Batuak eta Kanada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain Time (Estatu Batuak eta Kanada)
+    Central America: Erdialdeko Amerikan
+    Central Time (US & Canada): Central Time (Estatu Batuak eta Kanada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexiko Hiria
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Eastern Time (Estatu Batuak eta Kanada)
+    Indiana (East): Indiana (East)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlantic Time (Kanada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Ternua
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Groenlandiako
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Azores
+    Cape Verde Is: Cabo Verde da.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lisboan
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrade
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Bruselan
+    Budapest: Budapest
+    Copenhagen: Copenhagen
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Praga
+    Rome: Rome
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Vienan
+    Warsaw: Varsovian
+    West Central Africa: West Central Africa
+    Zagreb: Zagreb
+    Athens: Atenas
+    Bucharest: Bucarest
+    Cairo: Cairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kaliningrad
+    Kyiv: Kyiv
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Bagdadeko
+    Kuwait: Kuwaiten
+    Minsk: Minsk
+    Moscow: Mosku
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: San Petersburgo
+    Volgograd: Volgograd
+    Tehran: Teheran
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Yerevan
+    Kabul: Kabul
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangun
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Beijing
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpurren
+    Perth: Perth
+    Singapore: Singapurren
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: New Caledonia
+    Solomon Is: Solomon da.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fiji
+    Kamchatka: Kamchatka
+    Marshall Is: Marshall dago.
+    Wellington: Wellington
+    Chatham Is: Chatham da.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau da.
+  eu: eu
+  eu_iso: eu

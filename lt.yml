@@ -1,0 +1,1740 @@
+---
+lt:
+  1_we_have_just_launched_our_service_title: Mes ką tik pradėjo savo paslaugas!
+  common_keywords: Pažintys, lankosi Pažintys, Pažintys Pažintys, kamera praleidimas,
+    Greitasis Pažintys, kamera pokalbių pažintys, pažintys Ruby on Rails svetainę,
+    Multilanguage pažintys
+  common_description: Pažangiausias tarptautinis socialinis pramogų tinklas Pažintys
+    "Flutylove"
+  default_album: Numatytasis albumas
+  user: Vartotojas
+  user_to_search_connection: Paieška
+  video: Vaizdo
+  note: Pastaba
+  photo_album: Nuotraukų albumai
+  from: Nuo
+  to: Norėdami
+  vkontakte: Vkontakte
+  facebook: Facebook "
+  twitter: '"Twitter"'
+  google_oauth2: '"Google"'
+  instagram: '"Instagram"'
+  dropbox_oauth2: ZMI
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Vyras
+  - female:
+      name: Moteris
+  - transgender:
+      name: transseksualų
+  - male-female:
+      name: Vyras-Moteris
+  - double-female:
+      name: Dvivietis Moteris
+  - double-male:
+      name: Dvivietis Vyras
+  orientation:
+  - heterosexual: Unspecified
+  - homosexual: Homosexual
+  - bisexual: Dvilytis
+  search_for:
+  - chatting: Bendravimas
+  - get_friends: Gauti draugai
+  - flirtation: Flirtation
+  - marriage: Santuoka
+  - other: Kita
+  body_type:
+    slim: plonas
+    normal: Normalus
+    athletic: sporto
+    chubby: Chubby
+  relationship:
+    single: Vienišas
+    in_a_relationship: Draugauja
+    married: Vedęs
+    nothing_serious: Nieko rimto
+  children:
+    dont_have: Neturite
+    dont_have_and_dont_want_to: neturiu ir nenoriu
+    don_t_have_but_planning: Neturite bet planavimas
+    have_enough: Turėti
+    have_and_planning_more: turėti ir planuoja daugiau
+    unable_to_have_children: Nepavyko turėti vaikų
+  living:
+    with_parents: Su tėvais
+    with_marriage_partner: Su santuokos partnerio
+    alone: Alone
+    with_friends: Su draugo (-ų)
+  education:
+    nothing: Nieko
+    secondary_school: vidurinė mokykla
+    college_technical_college: Koledžo / Prof kolegija
+    university: universitetas
+    postgraduate: Magistrantas
+    phd_md_post_doctorate: daktaras / MD / Rašyti daktaro
+  hair_color:
+    blonde: Šviesiaplaukis
+    dark_blond: Tamsus blondinas
+    brown: Ruda
+    black: Juoda
+    red: Raudona
+    gray: Pilka
+    other: Kita
+  income:
+    unemployed: Bedarbis
+    unstable_earnings: Nestabilios pajamos
+    small_stable_earnings: Mažos stabilias pajamas
+    medium_stable_earnings: Vidutinio stabilias pajamas
+    higher_than_average_income: aukštesnis nei vidutinis pajamų
+    high_income: Didelės pajamos
+  smoking:
+    not_smoke: Ne rūkyti
+    not_smoke_and_detest: Ne rūkymas ir nekęsti rūkyti
+    smoke_in_a_social_setting: Kartais socialiniame nustatymo
+    smoke_occasionally: Rūkymas kartais
+    smoke_often: Rūkymas dažnai
+  alcohol:
+    not_drinking: negerti
+    drink_occalionally: Alkoholis kartais
+    drink_in_a_social_setting: Alkoholis į socialinėje aplinkoje
+    drink_often: Alkoholis dažnai
+  drugs:
+    dont_use: Nenaudokite
+    contra_drugs: Kontraindikacijos narkotikai
+    tried_out_some: išbandyti kai
+    light_drugs_occasionally: Šviesos vaistai kartais
+    regular: Nuolatinis
+  sponsor:
+    i_want_to_find_a_sponsor: noriu susirasti rėmėją
+    willing_to_become_a_sponsor: Norėdamas tapti rėmėju
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Ne ieško rėmėjo ir nenori
+      tapti viena
+  category_name:
+    strategy: strategija
+    rpg: RPG
+    3d_shooters: 3D šauliai
+    racing: lenktynės
+    arcade: Arkadiniai
+    economic: ekonomikos
+    simulators: simuliatoriai
+    logic: logika
+    adventure: Nuotykių
+    board_games: Stalo žaidimai
+    gambling: lošimai
+    news: Naujienos
+    communication: Bendravimas
+    multimedia: Multimedija
+    drawing: Piešimo
+    educational: Švietimo
+    e_commerce: E-komercija
+    other: Kita
+  shared:
+    header:
+      people: Žmonės
+      chat: Kalbėtis
+      groups: Grupės
+      forum: Forumas
+      requests: Prašymai
+      about: Apie projektą
+      help: Pagalba
+      user_applications: Programos
+    liked_users:
+      liked: Patiko
+      all: Visi
+      you_have_not_liked_any_users_yet: Jūs nesate patiko jokių vartotojams dar
+    most_liked_users:
+      most_liked_users: populiaru vartotojai
+    installed_user_applications:
+      installed_applications: Įdiegtos programos
+      all: Visi
+      you_have_not_installed_any_apps_yet: Jūs turite įdiegti visas programas, dar
+    user_applications:
+      uploaded_apps: Įkelti prašymai
+      all: Visi
+      you_have_not_uploaded_any_apps_yet: Jūs neįdėjo prašymus dar
+    right_sidebar:
+      news: Naujienos
+      all: Visi
+      read_more: Skaityti daugiau
+    footer:
+      footer_text: Tarptautinė socialinio pramogų tinklas Pažintys "Flutylove"
+      privacy: Privatumo
+      terms: sąlygos
+      feedback: Atsiliepimai
+      abuse: piktnaudþiavimà
+    languages_select_modal:
+      available_languages: Galimos kalbos
+    site_map_modal:
+      site_map: Svetainės žemėlapis
+      faq: DUK
+      about: Apie
+      static_pages: Statiniai puslapiai
+      common_pages: Bendros puslapiai
+      user_pages: Vartotojo puslapiai
+      terms: sąlygos
+      privacy: Privatumo
+      people: Žmonės
+      user_applications: Programos
+      user_requests: Prašymai
+      news: Naujienos
+      feedback: Atsiliepimai
+      abuse: piktnaudþiavimà
+      chats: pokalbiai
+      videos: Vaizdo įrašai
+      photo_albums: Fotoalbumai
+      notes: Pastabos
+    pagination_link:
+      next_page: Kitas puslapis
+    user_edit_menu:
+      content: turinys
+      profile: profilis
+      site_settings: Svetainės nustatymai
+      privacy: Privatumo
+      services: Paslaugos
+    activities_navigation:
+      all: Visi
+      photos: Nuotraukos
+      photo_albums: Fotoalbumai
+      notes: Pastabos
+      videos: Vaizdo įrašai
+    notifications_navigation:
+      all: Visi
+      likes: Mėgsta
+      friend_requests: Friend prašymai
+      profile_views: Profilio peržiūros
+      photo_album_views: Nuotraukos peržiūros
+    user_to_friend_connections_navigation:
+      friends: Draugai
+      friends_online: Draugai internete
+      outcome_requests: Rezultatų prašymai
+      income_requests: Pelno prašymai
+    user_applications_navigation:
+      all: Visi
+      new: Nauja
+      popular: populiaru
+      often_installed: Dažnai įrengtas
+      manage: Tvarkyti
+    user_requests_navigation:
+      all: Visi
+      popular: populiaru
+      my_requests: Mano prašymus
+    user_navbar_menu:
+      sign_in: Registruotis
+      sign_up: Užsiregistruoti
+    email_signature:
+      info: Informacija
+      mailer: mailer
+      technoelegance: Technoelegance Ltd
+    translations:
+      select_gender: Pasirinkite lytį
+      select_orientation: Pasirinkite orientacija
+      select_search_for: Pasirinkite paieška
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Jūs turite prisijungti prieš šio veiksmo
+      available_sign_in_methods: You
+    sign_up_methods:
+      usual_register_link: įprasta registracija
+      register_text: Be% {usual_registration} galite užsiregistruoti per populiariausių
+        paslaugų ir socialinių tinklų
+    bootstrap_gallery:
+      previous: Ankstesnis
+      next: Kitas
+    user_notification_title:
+      you_liked: Jūs patiko
+      wrote_message_to_you: Parašė pranešimą jums
+      viewed_your_profile: Peržiūrėta savo profilį
+      liked_your_photo: Patiko jūsų nuotrauką
+      liked_your_note: Patiko jūsų dėmesį
+      liked_your_request: Patiko jūsų prašymą
+      liked_your_video: Patiko savo video
+      liked_your_application: Patiko jūsų prašymą
+      requested_a_friendship: paprašė draugystę
+  authentications:
+    authentication:
+      turn_on: Įjunkite
+      turn_off: Išjunkite
+      turned_on: Įjungiama
+      turned_off: Išjungtas
+    index:
+      enabled_services: Įjungta paslaugos
+  users:
+    profile:
+      submit: Išsaugoti
+      name: Vardas
+      meet_with: Susipažinkite su
+      gender: Lytis
+      type_in_your_location: Įveskite savo mieste
+      about_me: keletą žodžių apie save (be suformuoti toliau)
+      sex_keywords: Pomėgiai seksu
+      enter_your_name: Įveskite savo vardą
+      more_options: Daugiau
+      orientation: Orientacijos
+      birth_date: Gimimo data
+      location: kur
+      search_for: paieška
+      intimacy: Intymūs santykiai
+      in_age: amžius
+      from: nuo
+      to: į
+      interests: Pomėgiai
+      height: Ūgis
+      weight: Svoris
+      body_type: Kėbulo tipas
+      hair_color: Plaukų spalva
+      relationship: Santykiai
+      children: vaikai
+      living: Gyvenimas
+      education: Švietimas
+      jobs: Darbas
+      income: pajamos
+      languages: Kalbos
+      smoking: Rūkymas
+      alcohol: Alkoholis
+      drugs: medžiagos
+      contacts: Kontaktai
+      contact_name: Kontaktinė vardas
+      contact_value: Kontaktinė vertė
+      save: Išsaugoti
+      about_yourself: Apie save
+    settings:
+      submit: Išsaugoti
+      locale: Sąsajos kalba
+      change_password: Keisti slaptažodį
+      interface_language: Sąsajos kalba
+      time_zone: Laiko juosta
+    dialog_modal:
+      send_message: Siųsti žinutę
+    index:
+      users: Vartotojai
+      clear_search: Išvalyti paiešką
+    dashboard:
+      hello: Sveiki
+      here_some_of_your_statistics: Čia kai kurie iš jūsų statistiką
+      chats: pokalbiai
+      messages: Žinutės
+      photos: Nuotraukos
+      videos: Vaizdo įrašai
+      notes: Pastabos
+      photo_albums: Fotoalbumai
+    avatar:
+      photo: nuotrauka
+      uploading_file: Siuntimas failą
+      handling_file: Naudojimas failą
+      drag_and_drop_your_file: Vilkite ir upuść failą
+      here: čia
+      or: arba
+      upload_file: Įkelti failą
+      from_other_sites: iš kitų svetainių
+      write_down_link_for_your_image: Užsirašykite nuorodą savo įvaizdį
+      url_for_image: URL paveikslėlio
+      upload: Įkelti
+      from_facebook: iš "Facebook"
+      turn_on_facebook: Įjunkite Facebook
+      you_can_upload_your_photos_from_facebook: Galite įkelti savo nuotraukas iš "Facebook"
+      from_vkontakte: Nuo Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Galite įkelti savo nuotraukas iš
+        vkontakte
+      turn_on_vkontakte: Įjunkite Vkontakte
+      from_instagram: Nuo Instagram
+      you_can_upload_your_photos_from_instagram: Galite įkelti savo nuotraukas iš
+        Instagram
+      turn_on_instagram: Įjunkite Instagram
+      from_dropbox: Nuo Dropbox
+      you_can_upload_your_photos_from_dropbox: Galite įkelti savo nuotraukas iš Dropbox
+      turn_on_dropbox: Įjunkite Dropbox
+      edit_photo: Redaguoti nuotrauką
+      delete_photo: Ištrinti nuotrauką
+      are_you_sure: Ar tikrai?
+    available_photos_modal:
+      available_photos: Laisvi nuotraukos
+    update:
+      your_password_was_successfully_changed: Jūsų slaptažodis pakeistas sėkmingai
+      your_profile_was_successfully_updated: Jūsų profilis buvo sėkmingai atnaujintas
+    edit_photo:
+      edit_photo: Redaguoti nuotrauką
+      crop: Augalininkystė
+      close: Uždaryti
+      save_changes: išsaugoti pakeitimus
+    contact:
+      contact_name_placeholder: '"Facebook" / "Skype" / "Vk / etc'
+      contact_value_placeholder: URL / nick / ID / ir tt
+    user:
+      about_me: Apie mane
+      orientation: Orientacijos
+      meet_with: Susipažinkite su
+      desirable_age: Pageidautinas amžius
+      from: nuo
+      to: į
+      interests: Pomėgiai
+      height: Ūgis
+      sm: cm
+      kg: kg
+      body_type: Kėbulo tipas
+      hair_color: Plaukų spalva
+      relationship: Santykiai
+      children: vaikai
+      living: Gyvenimas
+      education: Švietimas
+      jobs: Darbas
+      income: pajamos
+      languages: Kalbos
+      smoking: Rūkymas
+      alcohol: Alkoholis
+      drugs: medžiagos
+      contacts: Kontaktai
+    user_info:
+      offline: Atsijungęs
+      online: Prisijungę
+      age: Amžius
+    loading_modal_images:
+      loading_images: Kraunamos nuotraukos
+    password_form:
+      new_password: Naujas slaptažodis
+      confirm_new_password: Patvirtinkite naują slaptažodį
+      old_password: Senas slaptažodis
+      change_password: Keisti slaptažodį
+    show:
+      photos: Nuotraukos
+      all: Visi
+      videos: Vaizdo įrašai
+      notes: Pastabos
+      view: Peržiūrėti
+    dropbox_token_form:
+      key: raktas
+      paste_recieved_key: pasta gavau raktas
+      submit: Pateikti
+    contents:
+      users_which_i_like: Vartotojai kurį aš mėgsta
+      all: Visi
+      my_videos_likes: Mano filmai patinka
+      my_photos_likes: Mano nuotraukos mėgsta
+      my_notes_likes: Mano pastabos mėgsta
+      my_user_applications_likes: Mano paraiškos mėgsta
+      my_user_requests_likes: Mano prašymai mėgsta
+    more_profile_info:
+      photo_albums: Fotoalbumai
+      view_all_photo_albums: Žiūrėti visus fotoalbumus
+      create_more: Sukurti daugiau
+      videos: Vaizdo įrašai
+      view_all_videos: Rodyti visus video
+      notes: Pastabos
+      view_all_notes: Peržiūrėti visas pastabos
+      requirements_lists_to_partner: Reikalavimai išvardyti partneriu
+      requirement: reikalavimas
+      view_all_requirements_lists: Žiūrėti visus reikalavimus sąrašai
+      profile_verification: profilis patikrinimas
+      your_profile_is_successfully_verified: Jūsų profilis bus sėkmingai patvirtinta
+      create: Sukurti
+      you_have_not_any_requirements_lists_yet: jūs neturite jokių reikalavimų sąrašus
+        dar
+      you_have_not_any_notes_yet: jūs neturite jokių pastabų dar
+      you_have_not_any_photo_albums_yet: jūs neturite jokių fotoalbumus dar
+      you_have_not_any_videos_yet: jūs neturite jokių vaizdo klipų
+      your_profile_is_not_verified_yet: Jūsų profilis nėra patikrinta dar
+      verify_through_twitter: Patvirtinti per "Twitter"
+      verify_through_facebook: Patvirtinti per "Facebook"
+      verify_through_mail_ru: Patvirtinti per Mail.ru
+    privacy:
+      privacy: Privatumo
+  searches:
+    form:
+      location: kur
+      from: nuo
+      to: į
+      age: Amžius
+      gender: Lytis
+    form_content:
+      city: Miestas
+      gender: Lytis
+      age_from: Amžius nuo
+      to: į
+      online: Prisijungę
+      verified: Patvirtintas
+      has_avatar: Ar avatar
+      region: Regionas
+      more: Daugiau
+      country: Šalis
+      about_me: Apie mane
+      interests: Pomėgiai
+      languages: Kalbos
+      names: Vardai
+      height: Ūgis
+      from: nuo
+      weight: Svoris
+      body_type: Kėbulo tipas
+      relationship: Santykiai
+      hair_color: Plaukų spalva
+      education: Švietimas
+      orientation: Orientacijos
+      search_for: paieška
+      children: vaikai
+      living: Gyvenimas
+      smoking: Rūkymas
+      alcohol: Alkoholis
+      drugs: medžiagos
+      income: pajamos
+    show:
+      users: Vartotojai
+      clear_search: Išvalyti paiešką
+  welcome:
+    index:
+      people: Žmonės
+      requests: Prašymai
+      user_applications: Programos
+      about: Apie
+      features: Įranga
+      registration: Registracija
+      sign_in: Registruotis
+      welcome_main_title: Sveiki Flutylove!
+      welcome_main_text: Tai vieta, kur jūs galite rasti savo tobula meilė
+      find_more: Ieškoti daugiau
+      about_title: Flutylove yra tarptautinis socialinis pramogų tinklas Pažintys
+      about_text: Yra daug funkcijų, kad jūs galite naudoti pramogų bei Pažintys!
+      find_more_features: Ieškoti daugiau funkcijų
+      at_our_service: Savybės mūsų paslaugos
+      many_languages: Daug kalbų
+      text_about_many_languages: Mūsų paslaugos yra išverstas daugiau nei 70 kalbų
+      check_it_out: Check it out
+      videochats: videočatā
+      text_about_videochats: Jūs galite kalbėtis su savo partneriu videocams
+      try_it_now: Išbandykite dabar
+      search: Paieška
+      text_about_search: Jūs galite ieškoti su keliais parametrais ir ji yra nemokama!
+      watch_this: Žiūrėti šį
+      more_features: Kitos funkcijos
+      text_about_more_features: Jūs galite peržiūrėti vaizdo įrašus, žaisti žaidimus
+        ir atlikti daug kitų dalykų!
+      register_and_learn_more: Registruotis ir sužinoti daugiau
+      install_our_apps: Įdiekite mūsų programas iš populiarių platformų
+      register_header: Registracija
+  feedbacks:
+    new:
+      feedback_title: Atsiliepimai
+    form:
+      feedback_name: Jūsų vardas
+      feedback_email: Jūsų elektroninis paštas
+      feedback_content: Atsiliepimai turinys
+      close: Uždaryti
+      send: Siųsti
+      feedback_recaptcha: Recaptcha
+      cancel: Atšaukti
+    success:
+      success_feedback: Dėkojame! Mes gavau savo atsiliepimą.
+      close: Uždaryti
+      cancel: Atšaukti
+      more: Siųsti daugiau
+  abuses:
+    new:
+      abuse_title: piktnaudþiavimà
+    form:
+      abuse_name: Jūsų vardas
+      abuse_email: Jūsų elektroninis paštas
+      abuse_content: Piktnaudžiavimo turinys
+      abuse_title: piktnaudþiavimà
+      close: Uždaryti
+      send: Siųsti
+      abuse_recaptcha: Recaptcha
+      abuse_link: Nuoroda
+      cancel: Atšaukti
+    success:
+      success_abuse: Dėkojame! Mes gavau savo piktnaudžiavimui.
+      close: Uždaryti
+      cancel: Atšaukti
+      more: Siųsti daugiau
+  layouts:
+    welcome:
+      welcome_title: Sveiki Flutylove! Pažangiausias pažintys.
+  recaptcha:
+    errors:
+      verification_failed: Nepavyko recaptcha "
+      recaptcha_unreachable: Recaptcha "yra nepasiekiamas
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Mes ką tik pradėjo savo paslaugas!
+      we_have_just_launched_our_service_text: Šiandien mes pradėti mūsų paslaugą,
+        todėl kiekvienas gali
+      sign_up: užsiregistruoti
+      and_use_it: ir naudoti jį.
+      wishes_and_requests: Jei turite kokių pageidavimų ar užklausų, galite užsiregistruoti
+        ir ją parašė
+      here: čia
+      with_love: Su meile,
+      flutylove_team: Flutylove komanda
+    index:
+      all_news: Visos naujienos
+      read_more: Skaityti daugiau
+  chats:
+    panel_head:
+      online: Prisijungę
+      offline: Atsijungęs
+    pagination_link:
+      next_page: Kitas puslapis
+    form:
+      message_text: Pranešimo tekstas
+    form_additions:
+      submit: Pateikti
+      videochat: videochat
+    show:
+      messages: Žinutės
+    index:
+      messages: Žinutės
+    videochat_request_link:
+      connect_to_videochat: Prijunkite prie vaizdo pokalbius
+    modal_form:
+      send_message: Siųsti žinutę
+      recipient: Gavėjas
+      message: pranešimas
+      close: Uždaryti
+      submit: Pateikti
+    waiting_video_answer_button:
+      waiting_for_response: Laukiama atsakymo ...
+    chat_created:
+      send_message: Siųsti žinutę
+      message_was_sent: pranešimas buvo išsiųstas
+      close: Uždaryti
+  messages:
+    pagination_link:
+      next_page: Kitas puslapis
+    form:
+      message_text: Pranešimo tekstas
+  notifications:
+    user_to_friend_connection:
+      action: Veiksmas
+    notification:
+      offline: Atsijungęs
+      online: Prisijungę
+    like:
+      action: Veiksmas
+    photo_album_view:
+      action: Veiksmas
+    user_view:
+      action: Veiksmas
+  user_applications:
+    user_application:
+      who_uploaded: Įkėlė
+      all_uploaded_applications_by: Visi įkelta paraiškas pagal
+    form:
+      name: Vardas
+      user_application_name: Programos pavadinimas
+      description: Aprašymas
+      description_text: Aprašymas tekstas
+      iframe_url: iframe URL
+      icon_for_application: programos piktogramą
+      upload_icon: Parsisiųsti piktograma
+      public: visuomenei?
+      category_name: Kategorija
+      create: Sukurti
+      edit: Redaguoti
+    show:
+      application: taikymas
+      return_to_uploaded_applications: Norėdami įkeltas taikymą
+      edit_application: Redaguoti taikymas
+      return_to_all_applications: Grįžti į visų paraiškų
+    manage:
+      installed_applications: Įdiegtos programos
+      uploaded_applications: Įkelti prašymai
+      all: Visi
+    index:
+      applications_uploaded_by: įkėlė Programos
+      return_to_all_applications: Grįžti į visų paraiškų
+      create_new: Sukurti naują
+      return_to_manage_applications: Grįžti valdyti programas
+    installed:
+      installed_applications: Įdiegtos programos
+      return_to_all_applications: Grįžti į visų paraiškų
+      return_to_manage_applications: Grįžti valdyti programas
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Prieš nuomone, tai programa,
+        kurią reikia prisijungti pirmas
+    need_to_install:
+      need_to_install_first: jums reikia įdiegti šią programą pirmą kartą
+      install_application: Įdiekite taikymą
+  likes:
+    index:
+      liked_items: patinkančių elementų
+      return_to_my_content: Grįžti prie mano turinį
+  videos:
+    index:
+      videos: Vaizdo įrašai
+      return_to_edit_profile: Norėdami redaguoti profilio
+      create_new: Sukurti naują
+      return_to_profile: Grįžti į profilį
+    video:
+      edit: Redaguoti
+      are_you_sure: Ar tikrai?
+      delete: Ištrinti
+    modal_form:
+      create_new_video: Kurti naują video
+      close: Uždaryti
+      create: Sukurti
+    form_content:
+      name: Vardas
+      video_name: Dainos pavadinimas
+      source: Adresas įterpimo kodas
+      video_url_or_embed_code: Vaizdo URL Video Įterpti kodą
+    show:
+      video: Vaizdo
+      return_to_all_videos: Grįžti į visų video
+      edit_video: Redaguoti vaizdo
+    edit:
+      edit_video: Redaguoti vaizdo
+      return_to_view_video: Grįžti į Žiūrėti video
+      view_video: Peržiūrėti Video
+    form:
+      edit: Redaguoti
+  photo_albums:
+    index:
+      photo_albums: Fotoalbumai
+      return_to_editing_profile: Norėdami redaguoti profilio
+      create_new: Sukurti naują
+      return_to_profile: Grįžti į profilį
+    photo_album:
+      edit: Redaguoti
+      create: Sukurti
+      are_you_sure: Ar tikrai?
+      delete: Ištrinti
+    edit:
+      edit_photo_album: Redaguoti nuotraukų albumas
+      return_to_photo_albums: Norėdami fotoalbumų
+      view_photo_album: Žiūrėti albumą
+    form_content:
+      name: Vardas
+      photo_album_name: Nuotraukų albumai vardas
+    form:
+      edit: Redaguoti
+      create: Sukurti
+    photo_album_uploader:
+      drag_and_drop_your_file: Vilkite ir upuść failą
+      here: čia
+      or: arba
+      upload_file: Įkelti failą
+      from_other_sites: iš kitų svetainių
+      write_down_link_for_your_image: Užsirašykite nuorodą savo įvaizdį
+      url_for_image: URL paveikslėlio
+      upload: Įkelti
+      from_facebook: iš "Facebook"
+      turn_on_facebook: Įjunkite Facebook
+      you_can_upload_your_photos_from_facebook: Galite įkelti savo nuotraukas iš "Facebook"
+      from_vkontakte: Nuo Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Galite įkelti savo nuotraukas iš
+        vkontakte
+      turn_on_vkontakte: Įjunkite Vkontakte
+      from_instagram: Nuo Instagram
+      you_can_upload_your_photos_from_instagram: Galite įkelti savo nuotraukas iš
+        Instagram
+      turn_on_instagram: Įjunkite Instagram
+      from_dropbox: Nuo Dropbox
+      you_can_upload_your_photos_from_dropbox: Galite įkelti savo nuotraukas iš Dropbox
+      turn_on_dropbox: Įjunkite Dropbox
+    show:
+      photo_album: Nuotraukų albumai
+      return_to_photo_albums: Norėdami fotoalbumų
+      edit_photo_album: Redaguoti nuotraukų albumas
+    modal_form:
+      create_new_photo_album: Kurti naują nuotraukų albumą
+      close: Uždaryti
+      create: Sukurti
+  user_requests:
+    form:
+      content: turinys
+      edit: Redaguoti
+      create: Sukurti
+  notes:
+    index:
+      notes: Pastabos
+      return_to_edit_profile: Norėdami redaguoti profilio
+      create_new: Sukurti naują
+      return_to_profile: Grįžti į profilį
+    note:
+      edit: Redaguoti
+      are_you_sure: Ar tikrai?
+      delete: Ištrinti
+    show:
+      note: Pastaba
+      return_to_notes: Grįžti į pastabas
+      edit_note: Redaguoti pastabą
+    form_content:
+      content: turinys
+      note_content: Pastaba turinys
+      edit: Redaguoti
+      create: Sukurti
+    edit:
+      edit_note: Redaguoti pastabą
+      return_to_notes: Grįžti į pastabas
+      view_note: Peržiūrėti pastaba
+  user_to_search_connections:
+    index:
+      requirements_lists: Reikalavimai sąrašai
+      return_to_editing_profile: Norėdami redaguoti profilio
+      create_new: Sukurti naują
+    user_to_search_connection:
+      edit: Redaguoti
+      are_you_sure: Ar tikrai?
+      delete: Ištrinti
+    edit:
+      edit_requirements_list: Redaguoti reikalavimai sąrašai
+      return_to_requirements_lists: reikalavimus sąrašus
+      view_requirements_list: Peržiūrėti reikalavimų sąrašą
+    form_content:
+      name: Vardas
+      name_of_your_requirements_list: Pavadinimas savo reikalavimų sąrašą
+    form:
+      edit: Redaguoti
+    show:
+      requirements_list: reikalavimų sąrašą
+      return_to_requirements_lists: reikalavimus sąrašus
+      edit_requirements_list: Redaguoti reikalavimų sąrašą
+  photos:
+    index:
+      photos: Nuotraukos
+      return_to_photo_albums: Grįžti į fotoalbumų
+      return_to_profile: į profilį
+  errors:
+    messages:
+      already_confirmed: jau buvo patvirtinta, pabandykite prisijungti
+      confirmation_period_expired: turi būti patvirtintas per% {laikotarpis}, paprašykite
+        naują
+      expired: yra pasibaigęs, prašome prašyti naują
+      not_found: nerastas
+      not_locked: buvo neužrakinta
+      not_saved:
+        one: 1 klaida draudžiama šį% {išteklių} gražu išgelbėtas
+        other: "% {count} klaidų draudžiamus šiam% {išteklių} gražu išgelbėtas"
+    bad_request:
+      bad_request: Bloga užklausa
+      request_result: Prašymas rezultatas
+      bad_request_description: serveris negali ar nenori apdoroti prašymą dėl akivaizdaus
+        kliento klaidos
+      go_to_root: Eiti į šaknis
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable subjektas
+      request_result: Prašymas rezultatas
+      unprocessable_entity_description: prašymas buvo gerai suformuotas, bet nesugebėjo
+        turi būti laikomasi dėl semantinių klaidų
+      go_to_root: Eiti į šaknis
+    not_found:
+      not_found: Not Found
+      request_result: Prašymas rezultatas
+      not_found_description: prašoma resursas nerastas, tačiau gali būti, kad ateityje
+      go_to_root: Eiti į šaknis
+    forbidden:
+      forbidden: Forbidden
+      request_result: Prašymas rezultatas
+      forbidden_description: prašymas buvo galioja prašymas, bet serveris atsisako
+        atsakyti į jį
+      go_to_root: Eiti į šaknis
+    internal_server_error:
+      internal_server_error: vidinė serverio klaida
+      request_result: Prašymas rezultatas
+      internal_server_error_description: Kažkas negerai. Mes ją išspręsti kuo greičiau.
+      go_to_root: Eiti į šaknis
+  pages:
+    privacy:
+      privacy: Flutylove Privatumo politika
+      general_provisions: Bendrosios nuostatos
+      p_1_1: 1.1. Šie nuostatai yra oficialus dokumentas akcinė bendrovė "Technoelegance",
+        įsikūręs 101000, Maskva, Ulanskiy Pereulok 13, stroeniye 4, pomeshcheniye
+        1 (toliau Flutylove, tuo kompanija, mes) ir nustatyti procedūras duomenų apdorojimo
+        ir informacijos saugumo asmenų kuris pasiekė 18 metų amžių, ir kurie naudoja
+        interneto svetainę https://flutylove.com (toliau Tinklalapis) bei savo paslaugas
+        (toliau vartotojams).
+      p_1_2: 1.2. Šių nuostatų tikslas yra užtikrinti tinkamą apsaugą vartotojo informaciją,
+        įskaitant asmens duomenis, nuo neteisėtos prieigos, atskleidimo.
+      p_1_3: 1.3. Susijusios su surinkimo, saugojimo, paskirstymo ir saugumo svetainės
+        vartotojo informaciją santykius reguliuoja šių Taisyklių, kitų oficialių dokumentų,
+        Bendrovės ir galiojančius teisės aktus Rusijos Federacijoje.
+      p_1_4: 1.4. Dabartinė versija nuostatų, kurios yra viešas dokumentas, yra prieinama
+        bet interneto vartotojui, kai šis nuorodą http://flutylove.com/pages/privacy~~dobj.
+        Bendrovė turi teisę keisti šias Taisykles. Tuo atveju, kai daromi Taisyklių
+        Bendrovė praneša vartotojams parašėte naują versiją Taisyklių adresu nuolatinis
+        adresas http://flutylove.com/pages/privacy~~pobj svetainė, ne vėliau kaip
+        likus 10 dienų iki pakeitimų įsigaliojimo data pokyčių. Ankstesnės versijos
+        nuostatų saugomi dokumentų archyvo Company.
+      p_1_5: 1,5. Šie nuostatai buvo parengti ir naudojami pagal sutartyje su vartotoju.
+        Iškilus pažeidžiant tarp šių nuostatų ir kitų oficialių dokumentų, Bendrovės,
+        šie nuostatai turi būti vykdomas.
+      p_1_6: 1.6. Naudodamiesi interneto svetainėje, Jūs sutinkate su sąlygomis šią
+        privatumo politiką. Prašome atidžiai juos perskaityti. Jei nesutinkate su
+        šios privatumo politikos sąlygomis, arba jūs neturite pasiekė 18 metų amžių,
+        jūs negalite naudotis Svetaine ir jos paslaugas. Naudodami svetainės, nepriklausomai
+        nuo to, ar esate registruotas vartotojas Flutylove ar ne, jūs patvirtinate,
+        kad jums visiškai pripažinti šią privatumo politiką, ir sutinka laikytis ją.
+      the_website_using_conditions: naudojančios svetainės sąlygomis
+      p_2_1: '2.1. Naudotis svetaine Flutylove, turite užsiregistruoti. vardas, elektroninio
+        pašto adresą, lyčių, gimimo data, vieta information: Toliau nurodyta informacija
+        registracijos metu turėtų būti nurodyta. Vartotojas gali nustatyti papildomus
+        asmens duomenis jo / jos nori. Vartotojas gali redaguoti ar atnaujinti asmeninę
+        informaciją bet kuriuo metu. Bendrovė turi teisę reikalauti papildomų patvirtinamųjų
+        dokumentų, jei pasikeičia lytį ir gimimo datą vartotojo.'
+      p_2_2: '2.2. Leidžiant patekti į svetainę ir jos teikiamas paslaugas, Bendrovė,
+        veikianti priimtinu būdu ir sąžiningai, mano, kad Vartotojas: supranta, kad
+        į registracijos svetainėje būtina būti vyresnis nei 18 metų; turi visas būtinas
+        teises, kad būtų galima užsiregistruoti šiame tinklalapyje ir jį naudoti;
+        rodo tikslią informaciją apie save / pati pagal reikalavimus dėl iš Tinklapis
+        Paslaugos naudojimo prašymus; žino, kad asmeninė informacija Svetainėje, jei
+        vartotojas, gali tapti prieinama kitiems vartotojams iš svetainės, ir interneto
+        vartotojai taip pat gali būti kopijuojami ir platinami pagal kitų vartotojų;
+        yra žinoma, kad kai kurie informacijos rūšys, perduota kitiems vartotojams,
+        negali būti pašalinta vartotojui; yra susipažinę su šių Taisyklių, su jomis
+        sutinka ir įsipareigoja nurodytas teises ir pareigas.'
+      p_2_3: 2.3. Įmonė nėra patikrinti gautos (surinkta) Informacija apie vartotojų
+        tikslumą, su, išskyrus atvejus, kai toks patikrinimas yra būtinas, siekiant
+        įvykdyti Bendrovės įsipareigojimus vartotojui.
+      information_processing_objectives: Informacijos apdorojimas tikslai
+      p_3_1: 3.1. Bendrovė vykdo informacijos apdorojimą apie vartotojus, įskaitant
+        jų asmens duomenis, tam, kad būtų įvykdyti Bendrovės įsipareigojimus vartotojams,
+        interneto svetainės ir jos paslaugomis.
+      p_3_2: 3.2 Bendrovė turi teisę atlikti asmens duomenų tvarkymo nepranešus kompetentingai
+        institucijai apsaugos teises asmens duomenų subjektams.
+      structure_of_the_user_information: struktūra vartotojo informacija
+      p_4_1: '4.1. Asmeniniai duomenys iš vartotojų apima:'
+      p_4_1_1: 4.1.1. vardas, elektroninio pašto adresą, lytį, gimimo data, vietos
+        nustatymo informacijos, ir telefono numerį, kurie teikia naudotojų ir turėtų
+        būti tik pakankamai, kad registracijos svetainėje;
+      p_4_1_2: 4.1.2. informacija, kuri teikia naudotojas (pvz nuotraukas, informaciją
+        apie Žalingi įpročiai ir tt);
+      p_4_1_3: 4.1.3. pagal Vartotojo papildomai teikiama pagal Bendrovės prašymu,
+        kad būtų įgyvendinti Bendrovės įsipareigojimus vartotojams, pasirodo iš vartotojo
+        sutarties. Bendrovė turi teisę, be kita ko, prašyti vartotoją iš asmens tapatybę
+        patvirtinančio dokumento ar kitų dokumentų, kuriuose vardą, lytį ir gimimo
+        datą, taip pat kitos papildomos informacijos, kuri, pagal Bendrovės nuožiūra,
+        bus būtina kopija ir pakanka tokio naudotojo identifikacija ir būtų pašalinti
+        piktnaudžiavimo ir pažeisti trečiųjų šalių teisės.
+      p_4_2: '4.2. Kiti vartotojo anketa iš informacijos apdorojimo akcinių bendrovių
+        svetainėje administracija taip pat apdoroja kitą informaciją apie vartotojų,
+        kurie apima:'
+      p_4_2_1: 4.2.1. bendri duomenys, kuriuos HTTP serverio automatiškai gauti kai
+        patekti į svetainę ir tolesnius veiksmus vartotojas (IP-adresą kompiuterio,
+        tipas vartotojo operacinės sistemos, svetainės puslapius aplankė vartotojui).
+      p_4_2_2: 4.2.2. kuris automatiškai gavo, kai patekti į interneto svetainę naudojant
+        žymes (slapukus) informacija;
+      p_4_2_3: 4.2.3. kuris gavo kaip vartotojo veiksmus svetainėje gauta informacija;
+      p_4_2_4: 4.2.4. kuris gavo kaip veiksmų kitų vartotojų svetainėje gauta informacija.
+      users_information_processing: Vartotojo informacijos apdorojimo
+      p_5_1: '5.1. Asmens duomenų tvarkymas yra atlikti remiantis šiais principais:
+        a) teisėti tikslai ir priemonės asmens duomenų tvarkymo srityje; b) sąžiningumas;
+        c) asmens duomenų tvarkymo tikslais atitiktis tikslams lėmė ir paskelbė renkant
+        asmens duomenis, taip pat apie Bendrovės įgaliojimų atitiktį; d) tūrį ir asmens
+        duomenų tvarkymo rūšį, ir priemonėmis su asmens duomenimis su savo duomenų
+        tvarkymo tikslus perdirbimo atitikties reikalavimų; e) nepriimtinumas derinant
+        sukurtus duomenų bazes nesuderinamais tikslais, su asmens duomenimis.'
+      p_5_1_1: 5.1.1. Asmens duomenų vartotojas kolekcija atlikti Svetainėje, kai
+        registras, taip pat ateityje kai vartotojas prideda daugiau informacijos apie
+        save / pati Naudodami svetainės įrankius ant jo / jos iniciatyva.
+      p_5_1_2: 5.1.2. Asmeniniai duomenys vartotojų yra saugomi tik elektronine forma
+        ir tvarkomi naudojant automatizuotas sistemas su atvejais, kai vadovas asmens
+        duomenų tvarkymas yra reikalingi siekiant patenkinti teisės aktų reikalavimus,
+        išskyrus.
+      p_5_1_3: 5.1.3. Vartotojo asmens duomenys neperduodami tretiesiems asmenims,
+        išskyrus atvejus, šių nuostatų ir sutartyje su vartotoju aiškiai numatyta.
+        Su vartotojui sutikus, asmeniniai vartotojų duomenys gali būti perduodami
+        trečiosioms sandorio Bendrovės pagal iš įsipareigojimo perėmimas būklės užtikrinti
+        gautos informacijos konfidencialumą, ypač, kai naudojant paslaugas ir taikomąsias
+        programas. Vartotojo asmens duomenų kaupimą prašymu vyriausybinių institucijų
+        (vietos valdžios) atliekamas procedūrą, kaip reikalaujama pagal įstatymą.
+      p_5_1_4: '5.1.4. Asmeniniai vartotojų duomenys yra ištrinami, kai: - duomenys
+        yra savaime ištrinami iš vartotojas puslapyje; - Puslapis savarankiškai ištrinti
+        vartotojui; - Informaciją apie vartotoją ir jo asmeninis puslapis yra pašalintas
+        Bendrovei. Esant puslapio trynimas, kurį pats vartotojas, Įmonės saugo vartotojo
+        asmens duomenis apie savo elektroninės žiniasklaidos per 210 dienų po to,
+        kai asmeninis puslapis yra pašalinamas. Asmens duomenys ištrinami pasibaigus
+        210 dienų po to, kai asmeninis puslapis yra pašalinamas. Iki šio termino pabaigos,
+        Vartotojas turi teisę atkurti asmeninį puslapį.'
+      users_rights_and_obligations: Vartotojo teisės ir pareigos
+      p_6_1: '6.1. Vartotojas turi teisę:'
+      p_6_1_1: 6.1.1. gauti informaciją apie jį / ją be apribojimų ir nemokamai redaguodami
+        savo asmeninį puslapį Tinklalapyje su prisijungimo vardu ir slaptažodžiu naudojimui;
+      p_6_1_2: 6.1.2. savarankiškai priimti pakeitimus ir pataisymus informaciją apie
+        vartotoją asmeninė svetainė svetaine, su sąlyga, kad tokie pakeitimai ir pataisymai
+        yra iki-to-data ir teisingą informaciją;
+      p_6_1_3: 6.1.3. pašalinti iš asmeninį puslapį dėl svetainėje pateiktos informacijos;
+      p_6_1_4: 6.1.4. pareikalavus, Bendrovė gauti tikslesnės informacijos, blokuoti
+        arba ištrinti asmens duomenis, jei tokie duomenys yra neišsamūs, pasenę, netikslūs,
+        neteisėtai gautos arba nėra būtina deklaravo tikslą perdirbti arba jei nurodyta
+        šių 6.1.3 punkte veiksmai nuostatai negali būti įgyvendinama nepriklausomai;
+      p_6_1_5: 6.1.5. apie prašymą, gauti iš Bendrovės informaciją apie jo / jos asmens
+        duomenis.
+      p_6_2: '6.2. Toliau nurodyta informacija apie kiekvieną registruotą svetainės
+        vartotojas yra visada prieinamas registruotas vartotojas: vartotojo vardą,
+        lytį, amžių, profilio nuotrauka ir kita informacija, jei vartotojas jį parašė.'
+      p_6_3: 6.3. Bendrovė neprisiima atsakomybės už naudotojo asmens duomenų atskleidimo
+        kitų vartotojų svetainės, kurie prieinama tokius duomenis.
+      p_6_4: 6.4. Tuo atveju, asmens duomenų (kitas vartotojas informacijos) nušalinimas
+        nuo Vartotojo asmeninį puslapį ar pašalinimo Vartotojo asmeninį puslapį iš
+        interneto svetainės, vartotojo informaciją kopijuoti kitų vartotojų ar saugomi
+        kiti vartotojai puslapiuose yra išsaugotas.
+      users_information_protection_measures: gavėjų duomenys apsaugos priemonės
+      p_7_1: 7.1. Bendrovė užima technines, organizacines ir teisines priemones siekiant
+        užtikrinti, kad vartotojo asmens duomenys būtų apsaugoti nuo nesankcionuoto
+        ar atsitiktinio patekimo, ištrynimą, modifikacija, blokavimas, kopijavimo,
+        sklaida, taip pat iš kitų neleistinų veiksmų.
+      p_7_2: 7.2. Vartotojo prisijungimo (elektroninio pašto adresas arba mobiliojo
+        telefono numerį) ir slaptažodis yra naudojamas prieigai prie interneto tinklalapyje.
+        Vartotojas yra atsakingas už šią informaciją konfidencialia. Vartotojas negali
+        perduoti prisijungimo vardą ir slaptažodį, kad trečiųjų šalių, taip pat yra
+        įpareigotas imtis priemonių užtikrinti jos konfidencialumą.
+      limitation_of_the_regulations_applicability: apribojimas nuostatų taikymo
+      p_8: šiose Taisyklėse nėra pratęstas iki veiksmų ir interneto išteklių trečiųjų
+        šalių. Bendrovė neprisiima atsakomybės už trečiųjų asmenų veiksmus, kurie
+        gavo priėjimą prie vartotojo informacijos per internetą ar Website paslaugos.
+        Svetainės administracija rekomenduoja vartotojams kreiptis į problemą su informacijos
+        kiekį patalpintą Svetainėje atsakingai.
+      user_requests: Vartotojo prašymai
+      p_9_1: '9.1. Vartotojai turi teisę siųsti užklausas į Bendrovės, įskaitant prašymus,
+        susijusių su asmens duomenų naudojimą raštiško formą adresu: Rusija, 101000,
+        Moscow, Ulanskiy Pereulok 13, stroeniye 4, pomeshcheniye 1 arba elektroninio
+        dokumento forma pasirašo kvalifikuotu elektroniniu parašu pagal Rusijos Federacijos
+        teisės aktais, el: support@flutylove.com~~HEAD=pobj.'
+      p_9_2: '9.2. Vartotojo prašymas turi būti pateikta tokia informacija: identifikavimo
+        dokumento vartotojas arba jo atstovas, skaičių; išdavimo data pirmiau dokumento
+        ir jį išdavusios institucijos; informacijos, patvirtinančios Vartotojo dalyvavimą
+        santykių su operatoriumi (ypač nuoroda į puslapį); parašas Vartotojui ar jo
+        / jos atstovas.'
+      p_9_3: 9.3. Bendrovė įsipareigoja apsvarstyti ir atsakyti į Vartotojo prašymu
+        per 30 dienų po to, kai jis buvo gautas.
+      p_9_4: 9.4. Visa bendrovė gavo iš vartotojų (raštu ar elektroninių prašymų)
+        susirašinėjimas yra klasifikuojama kaip ribotos prieigos informacijos ir negali
+        būti atskleista be Vartotojo raštiško sutikimo. negali būti naudojami asmens
+        duomenys ir kita informacija apie vartotoją, kuris atsiuntė prašymą, be Vartotojo
+        specialaus sutikimo, skirtingai nei atsakymo į prašymą arba tais atvejais
+        pagal galiojančius įstatymus yra aiškiai numatyta.
+    terms:
+      terms: Flutylove Vartotojas sutartis
+      welcome: Sveiki Flutylove!
+      about_terms: 'šiomis sąlygomis tarp (taip pat dokumentų, čia nurodyta, įskaitant
+        privatumo politiką) yra sukibimo sutartį pagal Civilinio kodekso Rusijos Federacijos
+        (toliau vadinama "Sutartis") 428 straipsnio asmuo, kuris pasiekė 18 metų (toliau
+        vadinama "naudotojas" ir Bendrovės (arba "Mes") - ribotos atsakomybės bendrovė
+        "Technoelegance" (UAB "Technoelegance") (juridinis adresas: 101000, Maskva,
+        Ulanskiy turėklai 13, stroeniye 4, pomeshcheniye 1), toliau vadinama Flutylove,
+        pagal kurį galite naudoti šią svetainę ir visas susijusias teikiamas per svetainę
+        ar taikymo (paprastai vadinama "paslaugos" paslaugos). svetainėje yra suprantamas
+        bet jos versijos, kartu pagal domeno vardo flutylove.com ir veikia už įvairių
+        prietaisų, įskaitant žiniatinklio versiją, mobiliųjų taikomųjų programų ir
+        socialinių tinklų.Naudodami šią svetainę, jūs sutinkate su sutarties sąlygomis
+        ir Privatumo politika. Prašome atidžiai juos perskaityti. Jei jūs nesutinkate
+        su Sutarties sąlygomis ir privatumo politika, arba jūs neturite pasiekė 18
+        metų amžių, jūs negalite naudotis Svetaine ir jos paslaugas.Naudojant svetainė,
+        nepriklausomai esate registruotas vartotojas Flutylove ar ne, jūs visiškai
+        sutinku su šiuo Susitarimu, ir mūsų Privatumo politiką, kuri yra įtraukta
+        į šį Susitarimą esančią nuorodą ir yra Interneto svetainėje, ir laikytis su
+        juo.Pagal vartotojų užklausas, Bendrovė įsipareigoja pasirašyti šį susitarimą
+        spausdintu formą ir išsiųsti ją į asmens prašymą pateikusios dokumentus.Bendrovė
+        pasilieka teisę keisti sutartyje su vartotoju ir bet jai nurodytą dokumentą.
+        Norėdami žinoti apie pakeitimus, kuriuos reikia išlaikyti up-to-data informaciją
+        apie tokius pakeitimus reguliariai. Mes informuosime jus apie pokyčius mes
+        padarėme žemiau šiame puslapyje. Pokyčiai nesusiję atgal ir įsigalios per
+        dešimt dienų nuo paskelbimo dienos. Tačiau tokiu atveju jie yra susiję su
+        naujų paslaugų įgyvendinimo arba teisės aktų pakeitimo, ji bus taikoma iš
+        karto. Jei nesutinkate su šios Sutarties pakeitimus, turite nustoti vartoti
+        svetainę ir savo programas.'
+      consent_to_accept_the_terms_of_user_agreement: 1. SUTIKIMAS SUTIKTI SU SĄLYGOMIS
+        Vartotojo sutartis.
+      p_1: a. Elektroninė sutartis. Ši sutartis yra elektroninė versija sutarties,
+        kurioje aprašomi naudoti svetainės ir paslaugų sąlygas. Prisijungdamas prie
+        interneto svetainės arba tampa Vartotojas, Jūs sutinkate su šio Susitarimo
+        ir sutinku su visų terminų, sąlygų, ir pranešimus, kurie yra korpuse ar ten
+        nuorodose. Jūs patvirtinate ir sutinkate, kad Flutylove Vartotojai gali būti
+        internetinė bendruomenė, kuri apima kitas tinklapis Bendrovei priklausantį
+        ar jos filialų dalis. Todėl svetainėje profiliai gali būti peržiūrėtas dėl
+        kitų panašių svetainių ir mokėjimo abonentų iš vienos svetainės gali bendrauti
+        su kitų mokėjimo abonentų iš visų interneto svetainėse. b. Elektronine forma.
+        Prisijungdamas prie interneto svetainės arba tampa Vartotojas sutinkate, kad
+        pateikti jums su elektroniniu susitarimą. c. Popieriniame forma. Jūs turite
+        teisę gauti šio Susitarimo egzempliorius. Jūs galite prašyti egzempliorius
+        leidimas šio Susitarimo, prieš ar po to, kai bus pasirašytas elektroniniu
+        būdu. Prašome susisiekti su mūsų klientų aptarnavimo Daugiau informacijos.
+        d. Prieiga ir atsisiųsti. Norint naudotis ir atsisiųsti šį elektroninę sutartį,
+        turite prieigą prie interneto, arba tiesiogiai per įtaisus su prieiga prie
+        interneto išteklių. Jums reikia turėti reikiamą įrangą prijungti prie interneto,
+        ty kompiuterį, modemą ar kitą prieigos įrenginį. Prašome atspausdinti šį Susitarimą
+        kopiją ir ją saugo. Norėdami atsisiųsti elektroninę formą susitarimo, išsaugokite
+        jį savo kompiuteryje, bet teksto redaktoriumi pagalba.
+      the_right_of_using_the_website: 2. TEISĖ NAUDOTIS svetainėje.
+      p_2: Jūs turite būti bent aštuoniolika (18) metai tapti registruotas vartotojas
+        šioje svetainėje. Tuo atveju, jei nesilaikoma reikalavimų, bus atmesta prieigos
+        prie interneto svetainės. Naudodami svetainės, vartotojas turėtų žinoti, kad
+        skelbiami Svetainėje asmeninė informacija gali būti prieinama kitiems interneto
+        vartotojams, ir Bendrovė neturi būti atsakomybę už savo veiksmus. Naudodami
+        šią svetainę, jūs ginti ir užtikrinti, kad jūs turite teisę, įgaliojimus ir
+        galimybę sudaryti šią sutartį ir sutikimą laikytis visų savo nuostatas ir
+        sąlygas. Tapusi Vartotojas jums teigti, ir užtikrinti, kad jūs niekada nebuvo
+        patyręs nuosprendis dėl nusikalstamos veikos, susijusios su seksualiniu smurtu.
+        Tinklapis skirtas tik asmeniniam naudojimui. Draudžiama naudoti svetainė komerciniais
+        tikslais. Įmonių subjektai gali būti ne iš šios svetainės Vartotojai, taip
+        pat negali naudoti šią tarnybą arba svetainė apie jų tikslais. Nelegalus ir
+        / ar neleistinas Naudojant svetainėje, įskaitant vartotojų vardų ir / ar elektroninio
+        pašto adresais į elektroninėmis ar kitomis priemonėmis dėl siuntimo nepageidaujamus
+        laiškus ir nuorodos tikslu pagalba yra siekiama ir Bendrovė gali imtis atitinkamų
+        veiksmų pagal įstatymą, įskaitant kreipimasis į teisėsaugos institucijas.
+      pricing_and_registration: 3. KAINŲ IR REGISTRAVIMAS
+      p_3: Jūs galite tapti Flutylove vartotoją nuo valios ir nemokamai pagrindu registruojant
+        Tinklalapyje. Kaip vartotojas, Jūs galite naudoti specialų paslaugų spektrą
+        ir galimybes svetainėje. Interneto svetainės vartotojas yra asmuo įregistruotas
+        svetainės pagal nusistovėjusią tvarką ir, kuris sulaukė 18 metų amžiaus. Registruojant
+        Svetainėje Vartotojas privalo teikti būtiną ir svarbią informaciją apie Bendrovės
+        užbaigti Naudotojo puslapis, įskaitant Slapyvardis (elektroninio pašto adresą
+        arba telefono numerį) ir slaptažodį prieigos prie interneto svetainės, taip
+        pat pavadinimu, kuris yra unikalus kiekvienam vartotojui. Registracijos forma
+        gali prašyti papildomos informacijos iš vartotojo. Vartotojas yra atsakingas
+        už sutarties galiojimo, aktualumą, išsamumą ir laikantis Rusijos Federacijos
+        pateiktą registracijos metu informacijos įstatymo bei jo pustonius nuo reikalavimų
+        trečiųjų šalių. Registruojant Vartotojas sutinka su šio Susitarimo ir įsipareigoja
+        nurodytas teises ir pareigas, susijusias su naudojimo ir veikimo svetainėje.
+        Vartotojas gauna pilną priėjimą prie naudojant interneto svetainės funkcijomis.
+        Bendrovė įsipareigoja teises ir pareigą vartotojui, nurodyta šių taisyklių,
+        po sėkmingos registracijos vartotojas dėl interneto svetainėje Vartotojo asmens
+        duomenų tvarkymas atliekamas pagal Rusijos Federacijos įstatymą. Svetainės
+        administracija apdoroja Vartotojo asmens duomenis siekiant suteikti vartotojui
+        prieigą prie svetainės funkcijų naudojimą, įskaitant gavimo asmeninį (tikslinę)
+        Reklamos; tikrinimas, tyrimai ir analizė tuos duomenis, leidžianti palaikyti
+        ir pagerinti funkcijas ir specialieji profiliai iš svetainės, o taip pat sukurti
+        naujas funkcijas ir skyrius. Bendrovė imasi visų būtinų veiksmų, kad apsaugotų
+        asmens duomenis naudotoją nuo neteisėtos prieigos, keitimo, atskleidimo ar
+        ištrynimo. Bendrovė suteikia prieigą prie asmens duomenų Vartotojo tik tiems
+        darbuotojams, rangovams ir agentų įmonė, kuri turi šią informaciją siekiant
+        remti svetainės funkcionalumą ir suteikti vartotojui prieigą prie savo naudoja.
+        Interneto svetainės Bendrovė turi teisę naudoti pateiktą Vartotojo informacijos,
+        įskaitant asmens duomenis, siekiant užtikrinti atitiktį galiojančių teisės
+        aktų Rusijos Federacijos reikalavimus (įskaitant prevencijos ir / ar slopinimo
+        Nelegalus ir / ar neteisėta veiksmai iš vartotojų). Atskleidimas pateikta
+        informacija vartotojui gali būti atliekami tik pagal galiojančius teisės aktus
+        Rusijos Federacijos Pasibaigus teismo, teisėsaugos institucijų prašymu, taip
+        pat kitais atvejais, kaip numatyta pagal taikytiną teisę Rusijos Federacijos.
+        Tiek, kiek Bendrovė tvarko asmens duomenis dėl šių nuostatų vykdymą vartotojas,
+        Vartotojo sutikimas asmens duomenims tvarkyti nereikia pagal teisės nuostatas
+        dėl asmens duomenų. Prisijungimo o pasirinkta Vartotojo slaptažodis yra būtina
+        ir pakankama informacija vartotojui prieigą prie svetainės. Vartotojas turi
+        teisę duoti jo / jos vardą ir slaptažodį trečiosioms šalims ir yra visiškai
+        atsakingas už jo saugumą, pasirenkant saugoti juos nepriklausomai kelią. Naudojant
+        jo / jos techninės ir programinės įrangos vartotojas gali leisti slaptažodžiu
+        (per slapukus) paskesnių automatinio leidimo dėl svetainės saugojimo. Visi
+        veiksmai su Naudojimo vardą ir slaptažodį naudojimo laikomas padarytas vartotojas,
+        nebent būtų įrodyta priešingai vartotojas. Vartotojas privalo nedelsiant informuoti
+        Bendrovę pagal nustatytą tvarką atveju neteisėtos prieigos prie vartotojo
+        vardu ir slaptažodžiu ir / arba sąskaitos puslapyje, arba atskleidus prisijungimo
+        vardu ir slaptažodžiu. Po registracijos Vartotojas įgyja teisę kurti, naudoti
+        ir nustatyti jo / jos asmens puslapių turinį savarankiškai suinteresuotų ir
+        nekomerciniais tikslais, taip pat gauti galimybę susipažinti ir rašyti informaciją
+        apie asmens puslapius kitų vartotojų , Vartotojas kaip informacijos patalpintą
+        asmeninį puslapį savininkas žino, kad su nustatytais šių taisyklių ir galiojančių
+        teisės aktų Rusijos Federacijos išskyrus atvejus, bendrovė nedalyvauja kuriant
+        ir naudojant turinio ir nekontroliuojami priėjimą prie vartotojo anketa puslapyje
+        iš kitų naudotojų.
+      terms_4: 4. sąlygomis.
+      p_4: Šis Susitarimas visiškai lieka galioti tol, kol, kaip jūs naudojate interneto
+        svetainėje. Galite nustoti tinklalapio vartotoją pašalinant savo puslapį,
+        bet kuriuo metu, dėl bet kokios priežasties, susisiekus su mūsų Online Klientų
+        aptarnavimas arba naudojant tinklalapio paslaugą. Bendrovė pasilieka teisę
+        pašalinti savo asmeninį puslapį, bet kuriuo metu. Mes neprivalo jums pranešti
+        prieš išbraukiant puslapį, jei įmonė turi pagrindo manyti, kad jūs pažeidė
+        susitarimo sąlygas. Mes neprivalo atskleisti trinti savo sąskaitos priežastis;
+        Kai kuriais atvejais gali būti uždrausta kai tokios informacijos atskleidimas.
+        Po savo puslapyje trynimas, visos sąlygos, kurios gali galioti po šio Susitarimo
+        pagal savo pobūdį nutraukimas įsigalios po tokio nutraukimo. Jei ištrinsite
+        savo puslapį per savo noru svetainėje, mes gali paprašyti nurodyti tokio trynimas
+        priežastį.
+      account_security: 5. paskyros saugą.
+      p_5: Jūs esate atsakingas už konfidencialumo išsaugojimo savo vartotojo vardu
+        ir slaptažodžiu, kuris bus nustatytas pasibaigus registracijos metu. Be to,
+        jūs esate visiškai atsakingas už visus veiksmus, kurie vyksta pagal savo vardą
+        ir slaptažodį. Jūs sutinkate (a) nedelsdama pranešti mums apie bet kokį neleistiną
+        naudojimąsi savo prisijungimo vardą ir slaptažodį, taip pat bet kokia kita
+        apsaugos pažeidimą, ir (b) išvykimas iš savo sąskaitos kiekvienos sesijos
+        pabaigos. Svetainės neatsako už jokią žalą ar nuostolius, atsiradusius nesilaikymo
+        šią nuostatą. Jūs turite būti ypač atsargūs, kai prie savo sąskaitos viešuoju
+        kompiuteriu tam, kad pašaliniai asmenys negalėtų šnipinėti arba įrašyti savo
+        slaptažodį ar kitą asmeninę informaciją. Jūs taip pat patvirtina ir sutinka,
+        kad internetas niekada nebuvo visiškai privatus ir saugus. Jūs suprantate,
+        kad bet kokie pranešimai ar informacija, kurią jūs rašyti Tinklalapyje galima
+        skaityti ar naudoti kitiems vartotojams, net jei yra specialus įspėjimas,
+        kad ši informacija yra paslėptas.
+      your_interaction_with_other_users_of_the_website: 6. Jūsų Sąveika su kitais
+        vartotojai svetainėje.
+      p_6: a. TIK JŪS ESATE ATSAKINGI UŽ SAVO Sąveika su kitais vartotojais. Jūs turite
+        suprasti, kad bendrovė netikrina savo vartotojams, ar jie turi teistumą. Bendrovė
+        taip pat neprašo informacijos apie praeitį savo vartotojams ir nepatvirtina
+        šios informacijos. TIEKĖJO NEGARANTUOJA Dėl vartotojų elgsenai bei jų suderinamumą
+        su faktiniu arba ateities vartotojams. Tuo pačiu metu, kai Bendrovė pasilieka
+        teisę patikrinti vartotojams, teistas ar atlikti kitus patikrinimus, BET KURIUO
+        METU naudojant turimus vieša informacija. b. Nė vienu atveju bendrovė yra
+        NEATSAKO UŽ BET KOKIĄ ŽALĄ, ar jie yra TIESIOGINIUS, NETIESIOGINIUS, BENDROSIOS
+        ar turite specifinio pobūdžio kompensacinės ir / arba atsitiktinę GAUTAS jums
+        ar kitiems asmenims, atsiradusios naudojant APIE svetainėje, įskaitant, BET
+        NEAPSIRIBOJANT, fizinio sužalojimo, stresas ir / arba kitos žalos, KURIĄ GAUSITE
+        DĖL BENDRAVIMO IR SUSITIKIMAI SU KITOMIS registruoti vartotojai svetainėje
+        arba tauta, kad jums susidoroti su svetainėje. JŪS SUTINKATE imtis visų įmanomų
+        atsargumo bendraujant su kitais vartotojais, ypač tais atvejais, kai jūs nuspręsite
+        juos patenkinti realiame gyvenime. Jums reikėtų žinoti, ką įmonė nesuteikia
+        deklaruota ar numanomų garantijų, susijusių su naujų su vartotojais iš šios
+        svetainės. Jūs neturėtumėte duoti finansinę informaciją kitiems vartotojams
+        iš svetainės (pavyzdžiui, informaciją apie savo kredito ar plastikinių kortelių).
+        c. Paslauga gali išversti savo vardą arba jūsų miesto į kitas kalbas pavadinimas;
+        d. Ši paslauga nėra atsakingas už šiame straipsnyje išvardytų veiksmų. Jei
+        jūs nesutinkate su jais visiškai arba iš dalies, Prašome nedelsiant palikti
+        interneto svetainėje;
+      the_information_posted_by_you_on_flutylove: 7. INFORMACIJA Įdėjo Jūs FLUTYLOVE
+      p_7: a. Jūs esate visiškai atsakingas už informacijos, kurią skelbia arba parodyti
+        (toliau "paštas") dėl tarnybos arba perduoti kitiems vartotojams. Jūs negalite
+        rašyti Paslauga ar perduoti kitiems vartotojams jokios informacijos apie įžeidžiančią,
+        netiksli, įžeidžiančių, nešvankių, vulgarių ir agresyvaus turinio, informaciją
+        apie seksualinio turinio, taip pat pavojingas ar persekiojimas informacija,
+        informacija apie rasinę diskriminaciją pobūdžio arba neteisėtas informacijos,
+        arba bet kokia kita informacija, kuri pažeistų arba pažeidžia bet kurios kitos
+        šalies teises (įskaitant, be apribojimų, intelektinės nuosavybės teisės, teisės
+        į privatumą ir viešumą). Jums neleidžiama pateikti netikslią, klaidinančią
+        ar neteisingą informaciją bendrovė arba bet kuri kita vartotojui. Jei informacija
+        pateikiama įmonės Flutylove ar vėliau kitas vartotojas tampa netiksli, klaidinanti
+        ir melaginga, turite nedelsdami pranešti bendrovei Flutylove tokio pasikeitimo.
+        Jūs pateikti ir garantuojate, kad visi registracijos metu pateikta informacija
+        yra tiksli ir teisinga, ir jūs iš karto pakeisti bet kokią informaciją, kuri
+        vėliau tampa netiksli, klaidinanti ar neteisinga. b. Jūs suprantate ir sutinkate,
+        kad mes pasiliekame teisę, bet neprivalo stebėti informaciją ar turinį, kuris
+        yra perkeliamas į tarnybą ar parašė visuomenei susipažinti dėl tarnybos. Mes
+        turime teisę pašalinti bet tokios informacijos ar turinio be paskiriant jokių
+        priežasčių ir pranešimą. c. Visi Rodomi Svetainėje objektus, įskaitant dizaino
+        elementų, teksto, grafikos, iliustracijų, video, scenarijus, programas, muzika,
+        garsais ir kitų objektų ir jų bibliotekose (toliau - informacija), yra nuosavybė
+        išimtinių teisių Bendrovės, vartotojų Interneto svetainės ir kitų teisių turėtojai,
+        visos teisės į šiuos objektus yra apsaugotas. d. Išskyrus, kaip nustatyta
+        pagal šį Susitarimą, taip pat galiojančių teisės aktų Rusijos Federacijos
+        jokios informacijos gali būti kopijuojami (atgaminti), perdirbti, platinti,
+        rodomas rėmo, paskelbė, atsisiųsti, perduoti, parduoti ar naudoti kitose būdų
+        sveikos arba supjaustytos į gabalus be išankstinio leidimo turėtojui, jeigu
+        teisių turėtojui aiškiai išreiškė savo sutikimą su laisvu naudojimo informaciją
+        bet kuriam individui. El. Skelbdami informaciją apie svetainės teisėtai priklausantį
+        vartotojui, vartotojas suteikia prieigą kitiems naudotojams ne išimtinę teisę
+        jį naudoti žiūrint, atkūrimas (įskaitant kopijavimą) ir kitų teisių vien tam,
+        kad asmeniniam nekomerciniam naudojimui tikslais, nebent tais atvejais, kai
+        toks naudojimas sukelia ar gali pakenkti interesų teisių turėtojo saugomos
+        įstatymo. f. Naudojant Informacinių vartotojas, kuris prieigos buvo įgyta
+        tik asmeniniam nekomerciniam naudojant, leidžiama su sąlyga, kad visi autorystės
+        ženklai (autorių teisės) arba kiti pranešimai apie autorystę bus laikomi,
+        autoriaus ir jo produkto pavadinimą liks be pokyčių. g. Vartotojas taip pat
+        suteikia Bendrovei neišimtinę teisę naudoti informaciją patalpintą Svetainėje
+        ir priklausymo jam / jai teisėtai, neatsižvelgiant siekiant užtikrinti Bendrovės
+        svetainė veiktų pagal architektūros ir funkcionalumo rezultatų svetainėje.
+        Pirmiau nurodytas ne išimtinė teisė suteikiama turinio talpinimo svetainėje
+        ir apima šalių teritoriją visame pasaulyje. Bendrovė turi teisę pervesti į
+        šią dalį trečiosioms šalims nurodytus teises. Vartotojas sutinka, kad Bendrovė
+        turi teisę naudoti funkcines ir technines galimybes interneto svetainės, jeigu
+        laikomasi turinio dalijimosi rodyti vartotojas, įskaitant rodomos reklamos
+        informacijos tikslais. Sveiki. Jei Vartotojas ištrina iš svetainės informacija,
+        neišskirtinę teisę bus automatiškai atšauktas, bet dėl ​​techninių specifikacijų
+        Tinklapis Bendrovė pasilieka teisę išsaugoti atsargines informacijos kopijas
+        per nustatytą laiką ir prireikus. Aš. Be asmeninės informacijos, Vartotojas
+        neturi teisės įkelti, arba atskleisti kitaip (paskelbdama Svetainėje) kitų
+        svetainių, duomenų bazių ir kitų intelektinės nuosavybės informaciją į nesant
+        aiškiai išreikštos sutikimą tokių veiksmų iš autorių savininkas. j. Jei kitaip
+        pažymėti šiose Taisyklėse, nieko šiose Taisyklėse negali būti laikomas išimtinių
+        teisių perdavimo su informacija. K. Visa informacija, kurią skelbti savo vartotojo
+        profilyje, turi būti tiksli, up-to-data ir išsamūs. Vartotojas yra visiškai
+        atsakote už bet kokios informacijos, kuri buvo įkelta ar atskleisti kitu būdu
+        (paskelbta) Svetainėje ar su pagalba vartotojas. Vartotojas neturi teisės
+        įkelti, perleisti ar publikuoti turinį svetainėje, jei jis / ji neturi atitinkamų
+        teisių imtis tokių veiksmų, įgytą ar deleguotąjį jam / jai pagal teisės aktus,
+        Rusijos Federacijoje. Bendrovė galėjo, bet neprivalo, naršyti interneto svetainėje
+        bet kuriuo neteisėtu turiniu ir yra leidžiama ištrinti ar perkelti (be įspėjimo)
+        bet koks turinys ar vartotojams savo nuožiūra, dėl bet kokios priežasties
+        arba be priežasčių, įskaitant be apribojimų judėti, arba ištrinti informaciją,
+        kad pagal individualios nuomonės Bendrovės pažeidžia šį Susitarimą, Rusijos
+        Federacijos teisės aktus ir / ar gali pažeisti teises, žaloti, ar kelti pavojų
+        kitų vartotojų ar trečiųjų šalių saugumą. Svetainės yra (arba gali būti) nuorodos
+        į kitas svetaines internete (tinklalapiuose trečiųjų šalių), taip pat straipsniai,
+        nuotraukos, iliustracijos, grafika, muzika, garso, vaizdo, informacijos, programos,
+        programinė įranga ir kita informacija, priklausančio ar ateinančią iš trečiųjų
+        šalių (trečiųjų šalių gauto turinio), kuri yra intelektinės veiklos rezultatas
+        ir yra saugomas pagal Rusijos Federacijos teisės aktus. Šios trečiosios šalys
+        ir jų informacija nėra patikrintas Bendrovės laikomasi šio ar kitų reikalavimų
+        (tikslumas, išsamumas, sąžiningumas ir tt). Bendrovė nėra atsakinga už bet
+        kokį turinį paskelbtas trečiosios šalies svetainių, su kuria naudotojas gauna
+        prieigą per svetainę arba per trečiosios šalies informacijos, įskaitant, bet
+        neapsiribojant, bet kokias nuomones ar pareiškimų išreikštos trečiųjų šalių
+        svetainių ar jų informacija. Nuorodą į bet kokią svetainę, produkto ir paslaugų,
+        bet komercinio ir nekomercinio pobūdžio informacija, pateikta šioje svetainėje,
+        nėra patvirtinimo ar rekomendacija šių produktų (paslaugų) iš Bendrovės. Jei
+        vartotojas nusprendžia palikti svetainę ir eiti į trečiųjų šalių svetaines
+        ar naudoti arba įdiegti trečiosios šalies programinę įrangą, jis / ji tai
+        daro savo rizika ir nuo to momento šie reglamentai nebėra naudojamas vartotojui.
+        Daugiau Vartotojo veiksmai vadovaujasi galiojančių taisyklių ir politikos,
+        įskaitant verslo praktiką tų asmenų, kurių Informacija jis / ji ketina naudoti.
+      forbidden_actions: 8. Draudžiama veiksmus.
+      p_8: a. Draudžiama "atidžiai stebėti" arba sutrikdyti bet kokiam asmeniui kitaip.
+        b. Draudžiama naudoti reklaminių žinučių, virusus, paraiškas Paieška / išrašo
+        svetainių ar kitų rankinių arba automatinius įrenginius ar procesus išgauti,
+        indeksas, "šnipinėjimą" ar atgaminti kitu būdu arba apeiti navigacijos struktūrą
+        ir rodyti Paslauga ar jo turinį , c. Draudžiama talpinti, platinti ar atgaminti
+        Visomis jokios autorinėmis teisėmis informacijos, prekinių ženklų ar kitos
+        informacijos Copyright apsaugotas be išankstinio teisių savininko. d. Draudžiama
+        pašalinti bet kokias autorines teises, prekinius ženklus arba kitas autorių
+        teisių pranešimus, esančius ant tarnyba. El. Draudžiama kištis į arba sutrikdyti
+        tarnybos ir svetainėje arba paslaugų ir tinklų veikimą, susijusių su tarnybos
+        ar interneto svetainėje. f. Draudžiama skelbti, elektroniniu paštu ar perdavimas
+        kitaip jokios informacijos, kuri yra virusų ar kito kompiuterio kodą, failus
+        ar programas, skirtas kištis, sunaikinti arba apriboti bet kurio kompiuterio
+        programinės įrangos, aparatinės arba telekomunikacijų įrangos funkcionalumą.
+        g. Draudžiama užmegzti antraštes arba manipuliuoti paskyrimą už užmaskuoti
+        tikrąją prasmę bet kokią informaciją, bendrai naudojantis Paslauga tikslu.
+        val. Draudžiama "kalvė" arba "kopija" bet Paslauga arba svetainėje be išankstinio
+        raštiško leidimo Flutylove dalis. Be to, jūs negalite naudoti jokių meta žymeles
+        ar kodas ar kitų įtaisai, kuriuose yra nuorodos į Flutylove, paslauga ar interneto
+        svetainę, siekiant nukreipti bet kurį asmenį į kitą svetainę, bet kokiu tikslu.
+        Aš. Draudžiama keisti, pritaikyti, licenzijuoti, versti, parduoti, pertvarkyti,
+        iššifruoti, dekompiliuoti ar išskaidyti bet kurį tarnybos arba svetainėje
+        arba bet kuriuo Tinklavietėje vartojama arba už jį programinės įrangos dalis,
+        taip pat skatina kitus imtis panašių veiksmų , j. Draudžiama rašyti bet kokią
+        informaciją su pornografinio ir / ar erotinio turinio.
+      the_changes_in_the_service: 9. POKYČIAI paslauga.
+      p_9: Flutylove pasilieka teisę bet kuriuo metu keisti ar laikinai arba visam
+        laikui išjungti Paslaugos (arba bet tai dalis), be išankstinio įspėjimo. Jūs
+        sutinkate, kad Flutylove neatsako jums ar tretiesiems asmenims už bet kokius
+        pakeitimus, laikino prieinamumą ir visiškai išjungti Paslaugą.
+      ip_address_blocking: 10. IP adresas BLOKAVIMAS.
+      p_10: Siekiant apsaugoti svetainės vientisumą, Flutylove pasilieka teisę bet
+        kuriuo metu savo paties patogumui blokuoti IP adresus tam tikrų vartotojų.
+      relations_between_users_online: 11. SANTYKIAI Prisijungę nariai
+      p_11: Jūs esate visiškai atsakingas už savo sąveiką su kitais vartotojais Flutylove.
+        Flutylove pasilieka teisę, bet ne pareigą, stebėti ginčus tarp jūsų ir kitiems
+        vartotojams.
+      security_and_communication: 12. SAUGUMO IR RYŠIAI.
+      p_12: naudojimas svetainėje ir / arba Paslaugą taip pat reglamentuoja mūsų privatumo
+        politika. Kai tampate Vartotojas sutinkate ir sutinkate gauti laiškus iš mūsų.
+        Šie laiškai gali atstovauti pranešimus apie operacijas ar kitus pranešimus,
+        susijusius su tarnybos, kaip antai administracinių pranešimus ir oficialių
+        pranešimų apie pokyčius, ar elektroninius laiškus, kuriuose komercinius pasiūlymus,
+        reklaminė medžiaga, specialius pasiūlymus iš mūsų, ar informacijos apie kitų
+        vartotojų dėl veiksmų savo vartotojo paskyra. Prašome perskaityti mūsų Privatumo
+        politiką sužinoti daugiau apie tokius pranešimus.
+      denial_of_responsibility: 13. neigimas atsakomybė.
+      p_13: a. Flutylove neatsako už bet kokią neteisingą ar netikslią informaciją
+        patalpintą Svetainėje ar yra susijęs su tarnyba, vartotojai svetainę ar įrangos
+        ar programinės įrangos, susijusios su mūsų tarnybos ar yra naudojamas. Flutylove
+        neatsako už elgesį, tiek internete, tiek neprisijungus, bet kokio Tinklapis
+        vartotojui. Flutylove nesiima atsakomybę už bet kokias klaidas, praleidimus,
+        pertraukų, ištrynimą, sugadinimą ar vėlavimą operacijos ar operacijų, komunikacijos
+        priemonių sutrikimus, vagystes, sunaikinimą, neteisėtos prieigos arba keisti
+        ryšio linijų vartotojui. Flutylove neatsako už problemas ar techninius nesklandumus
+        dėl telefono tinkluose ar linijose, kompiuterio online sistemų, serverių ar
+        paslaugų teikėjų, kompiuterio įrangos, programinės įrangos, paštu ar žaidėjai
+        gedimo vartotojo sąskaitą, techninių problemų arba grūstis internetu arba
+        bet kuriame svetainės arba jo derinys, įskaitant nelaimingus atsitikimus ar
+        žalą vartotojams arba bet kurios susijusios su kompiuteriu trečiųjų šalių
+        arba kaip vienos iš dalyvavimo arba atsisiųsti informaciją, susijusią su tinklo
+        ir / ar Paslauga rezultatas. Jokiomis aplinkybėmis Flutylove bendrovė arba
+        bet kuri jos filialo, reklaminiai agentai, steigėjai ar platinimo partneriai
+        nėra atsakinga už bet kokius nuostolius ar žalą, įskaitant kūno sužalojimą
+        ar mirtį, nes naudojant iš svetainės ar Paslauga, bet turinys paskelbtas svetainėje
+        arba bet kokio bendravimo tarp vartotojų svetainės, tiek internete, tiek neprisijungus.
+        Svetainės ir paslaugos teikiamos principu "kaip yra, ir Flutylove aiškiai
+        atsisako bet kokių garantijų ar tinkamumo konkrečiam tikslui, ar nebuvimu
+        pažeidžia kieno nors teises. Flutylove gali neužtikrina bei nežada jokių konkrečių
+        rezultatų iš Naudojant svetainėje ir / arba Paslaugą.
+      links: 14. nuorodas.
+      p_14: a. Flutylove neatsako už bet kokią neteisingą ar netikslią informaciją
+        patalpintą Svetainėje ar yra susijęs su tarnyba, vartotojai svetainę ar įrangos
+        ar programinės įrangos, susijusios su mūsų tarnybos ar yra naudojamas. Flutylove
+        neatsako už elgesį, tiek internete, tiek neprisijungus, bet kokio Tinklapis
+        vartotojui. Flutylove nesiima atsakomybę už bet kokias klaidas, praleidimus,
+        pertraukų, ištrynimą, sugadinimą ar vėlavimą operacijos ar operacijų, komunikacijos
+        priemonių sutrikimus, vagystes, sunaikinimą, neteisėtos prieigos arba keisti
+        ryšio linijų vartotojui. Flutylove neatsako už problemas ar techninius nesklandumus
+        dėl telefono tinkluose ar linijose, kompiuterio online sistemų, serverių ar
+        paslaugų teikėjų, kompiuterio įrangos, programinės įrangos, paštu ar žaidėjai
+        gedimo vartotojo sąskaitą, techninių problemų arba grūstis internetu arba
+        bet kuriame svetainės arba jo derinys, įskaitant nelaimingus atsitikimus ar
+        žalą vartotojams arba bet kurios susijusios su kompiuteriu trečiųjų šalių
+        arba kaip vienos iš dalyvavimo arba atsisiųsti informaciją, susijusią su tinklo
+        ir / ar Paslauga rezultatas. Jokiomis aplinkybėmis Flutylove bendrovė arba
+        bet kuri jos filialo, reklaminiai agentai, steigėjai ar platinimo partneriai
+        nėra atsakinga už bet kokius nuostolius ar žalą, įskaitant kūno sužalojimą
+        ar mirtį, nes naudojant iš svetainės ar Paslauga, bet turinys paskelbtas svetainėje
+        arba bet kokio bendravimo tarp vartotojų svetainės, tiek internete, tiek neprisijungus.
+        Svetainės ir paslaugos teikiamos principu "kaip yra, ir Flutylove aiškiai
+        atsisako bet kokių garantijų ar tinkamumo konkrečiam tikslui, ar nebuvimu
+        pažeidžia kieno nors teises. Flutylove gali neužtikrina bei nežada jokių konkrečių
+        rezultatų iš Naudojant svetainėje ir / arba Paslaugą.
+      limitation_of_responsibility: 15. ir atsakomybės apribojimas.
+      p_15: svetainę ir savo funkcijas, įskaitant visus scenarijus, paraiškos, turinys
+        ir dizainas Tinklalapiu PATEIKIAMA TOKIA, KOKIA YRA PAGRINDAS. TIEKĖJO ATSISAKO
+        BET KOKIOS GARANTIJOS, KAD TINKLALAPIS AR JOS FUNKCIJOS gali tikti arba netinkamas
+        TAM TIKRAM TIKSLUI naudoti. Įmonė gali neužtikrina bei nežada jokių rezultatų
+        dėl NAUDOJIMAS svetainėje ir / arba jos funkcijas; Siekiant išvengti painiavos,
+        vartotojas turi laikytis saugos priemonės ATSISIŲSDAMAS iš interneto svetainės
+        arba per patalpintą NUORODOS IR NAUDOJIMAS visus failus, taip pat programinės
+        įrangos. TIEKĖJO labai rekomenduojama naudoti tik licencijuotą programinę
+        įrangą, TAIP PAT Antivirusinė programinė įranga; Naudodami svetainės, vartotojas
+        SUTINKATE, KAD parsisiųsti iš svetainės ar Su jo pagalba bet kurią informaciją
+        bet jo / jos pačių rizika, ir tik atsakingas už galimų rezultatų, naudojant
+        šią informaciją, įskaitant bet kokią žalą, kuri ji gali sukelia į vartotojo
+        kompiuterį ar tretiesiems ŠALYS, duomenų praradimą ar bet kokį kitos žalos;
+        JOKIU bendrovės arba jos atstovai neatsako vartotojui arba bet kurios trečiosios
+        šalies už netiesioginę, atsitiktinę ir UNWILFUL NUOSTOLIŲ, įskaitant negautą
+        naudą, arba prarasti DUOMENŲ, žalos pagerbti, orumą ar verslo reputacija,
+        ginčus, kylančius dėl naudojimasis tinklalapiu, jos turinio arba bet kokią
+        kitą informaciją, į kurią arba kitas asmuo, GAUTŲ patekti per svetainę, net
+        jei įmonė DĖMESIO ARBA Nurodo APIE tOKIŲ NUOSTOLIŲ gALIMYBĘ.
+      responsibilities_of_the_parties: 16. ŠALIŲ ATSAKOMYBĖ.
+      p_16: šis susitarimas yra reglamentuojamos ir aiškinamos pagal Rusijos Federacijos
+        teisės aktus. Problemos, kurių nebuvo atsiskaitoma pagal susitarimą turi būti
+        sprendžiami pagal Rusijos Federacijos teisės aktus. Iškilus ginčams ar nesutarimams,
+        susijusių su šių taisyklių įgyvendinimu, Vartotojas ir Bendrovė dės visas
+        pastangas jas išspręsti derybomis. Tuo atveju, jei ginčai nebus išspręsti
+        derybomis, ginčai turi būti sprendžiami pagal galiojančius teisės aktus, Rusijos
+        Federacijoje. Ši Sutartis sudaryta rusų kalba ir gali būti teikiama vartotojui
+        peržiūrėti kita kalba. Esant neatitikimui į į rusų kalbą nuostatų ir jos versija
+        kita kalba versijos, turi būti taikomas rusų kalba šio reglamento nuostatų
+        versija. Jei dėl vienos ar kitos priežasties, vieną ar daugiau nuostatų šių
+        taisyklių bus pripažinta negaliojančia arba anuliuotas, tai neturi įtakos
+        galiojimui ar vykdymui likusių nuostatų.
+      other_provisions_and_changes: 17. KITOS NUOSTATOS IR pakeitimus.
+      p_17: šis susitarimas yra tikrasis susitarimas tarp jūsų ir Flutylove dėl tinklalapio
+        ir / ar Paslauga naudoti. Jei kuri nors šios Sutarties tuštumų nuostatą Susitarimo
+        poilsio lieka jo galiojimo visiškai įgyvendintos. Šis Susitarimas gali būti
+        iš dalies pakeistas bet kuriuo metu Flutylove. Prašome nedvejodami kreipkitės
+        į mus dėl bet kokių klausimų susijusių su šia sutartimi.
+      read_this: aš PERSKAITĖTE ŠIĄ SUTARTĮ IR SUTINKU SU VISOMIS JOS SĄLYGOMIS.
+    about:
+      about_flutylove: Apie Flutylove
+      about_flutylove_text: Flutylove yra tarptautinis socialinis pramogų tinklas
+        Pažintys. Čia galite susirasti draugų, su soulmate, partnerius ar tiesiog
+        praleisti laiką su patinka žaisti žaidimus ar žiūrėti vaizdo įrašus / nuotraukas.
+      flutylove_features: 'Kai jūs užsiregistruosite mūsų svetainėje, Jūs galite sužinoti
+        daug funkcijų, tokių kaip:'
+      video_call_feature: Jūs galite kalbėtis su partneriu interneto kameros
+      extended_search: Jūs galite naudoti prailgintą paiešką nemokamai
+      multilanguages: Jūs galite ieškoti partnerių iš kitų šalių, nes mūsų paslauga
+        tikimasi naudoti kaip įvairių žmonių iš kitų šalių, nes ji yra išversta daugiau
+        nei 70 kalbų
+      play_games_chatting_etc: Jūs galite kalbėtis su kitais žmonėmis, žaisti žaidimus
+        ir atlikti kitą socialinės produktuose
+      we_are_in_social_networks: 'Mes socialiniuose tinkluose:'
+      facebook: Facebook "
+      twitter: '"Twitter"'
+      vk: Vkontakte
+      google_plus: "\"Google plius"
+      instagram: '"Instagram"'
+      github: Github
+      we_use_open_source_and_high_technology: Mes naudojame aukštas technologijas
+        ir atviro kodo bibliotekas. Mes visada stengiamės geriau ir pagerinti savo
+        paslaugas.
+      partners_and_investors: Esame atviri partnerystės ir mes norėtume rasti investuotojų.
+        Jei norite su mumis bendradarbiauti, susisiekite su mumis adresu partnership@flutylove.com
+    faq:
+      faq: DUK
+      what_is_flutylove: Kas yra Flutylove?
+      about_flutylove: Flutylove yra tarptautinis socialinis pramogų tinklas Pažintys.
+        Čia galite susirasti draugų, su soulmate, partnerius ar tiesiog praleisti
+        laiką su patinka žaisti žaidimus ar žiūrėti vaizdo įrašus / nuotraukas.
+      what_features_has_flutylove: Kas yra turi Flutylove?
+      flutylove_features: Čia galite kalbėtis su videocams, naudokite išplėstą paiešką,
+        paieškos partnerių iš kitų šalių, žaisti žaidimus ir atlikti kitas socialines
+        produktuose.
+      i_have_some_requests: aš turiu keletą prašymus
+      you_can_write_request: Jūs galite užsiregistruoti ir rašyti
+      here: čia
+      i_have_seen_some_typo_or_wrong_translation: aš mačiau kai typo ar neteisingą
+        vertimą
+      you_can_send_pull_request_to_our: galite siųsti Pull Prašymas į mūsų
+      github_repository: GitHub saugykloje
+      i_have_seen_some_error: aš mačiau šiek klaidą
+      you_can_send: Jūs galite atsiųsti mums grįžtamąjį ryšį
+      feedback: šią formą
+      to_us_or_write_to_our_info_mail: arba parašyti el.laišką support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Sveiki Flutylove
+      you_have_successfully_signed_up_to_flutylove: Jūs sėkmingai užsiregistravote
+        Flutylove
+      you_can_sign_in_with_your_social_networks: Jei norėtumėte prisijungti dar kartą
+        galite prisijungti su savo socialinio tinklo sąskaitą
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Jei
+        norėtumėte prisijungti su paštu ir slaptažodžiu galite pakeisti slaptažodį,
+        atsijunkite ir spustelėkite nuorodą žemiau
+      change_password: Keisti slaptažodį
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: neteisingas
+            search_for:
+              search_for_error: neteisingas
+            birth_date:
+              birth_date_error: reikia būti didesnė kaip 18 ir mažesnė kaip 115
+            interests:
+              interests_error: reikia mažiau nei 2000 simbolių
+            jobs:
+              jobs_error: reikia mažiau nei 2000 simbolių
+            languages:
+              languages_error: reikia mažiau nei 2000 simbolių
+            sex_keywords:
+              sex_keywords_error: reikia mažiau nei 2000 simbolių
+            my_turn_ons:
+              my_turn_ons_error_error: neteisingas
+            contacts:
+              contacts_length_error: reikia mažiau nei 2000 simbolių
+              contacts_size_error: reikia būti mažesnis nei 21 kontaktai
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: reikšmė negalioja
+  devise:
+    confirmations:
+      confirmed: Jūsų Paskyra buvo sėkmingai patvirtinta.
+      send_instructions: Jūs gausite elektroninį laišką su instrukcijomis, apie tai,
+        kaip patvirtinti savo sąskaitą per kelias minutes.
+      send_paranoid_instructions: Jei Jūsų el.pašto adresas yra mūsų duomenų bazėje,
+        Jūs gausite elektroninį laišką su instrukcijomis, apie tai, kaip patvirtinti
+        savo sąskaitą per kelias minutes.
+      new:
+        send_mail_for_confirm_your_email: Siųsti paštą patvirtinti savo elektroninio
+          pašto
+        submit: Pateikti
+    failure:
+      already_authenticated: Jūs jau esate prisiregistravęs.
+      inactive: Jūsų sąskaita nėra aktyvuota dar.
+      invalid: Neteisingas el.pašto arba slaptažodis.
+      locked: paskyra yra užblokuota.
+      last_attempt: Jūs turite dar vienas bandymas prieš jūsų sąskaita bus užrakinta.
+      not_found_in_database: Neteisingas el.pašto arba slaptažodis.
+      timeout: Jūsų sesija pasibaigė. Prašome prisijungti vėl tęsti.
+      unauthenticated: jums reikia prisijungti arba užsiregistruoti prieš tęsiant.
+      unconfirmed: turite patvirtinti savo sąskaitą, prieš tęsiant.
+    mailer:
+      confirmation_instructions:
+        subject: Patvirtinimo instrukcijos
+        welcome_to_flutylove: Sveiki Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: galite patvirtinti
+          savo elektroninio pašto adresą per žemiau esančią nuorodą
+        confirm_my_account: Patvirtinkite mano elektroninio pašto
+      reset_password_instructions:
+        hello: Sveiki
+        subject: Atstatyti slaptažodį instrukcijos
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Kažkas
+          turi prašo nuorodą keisti slaptažodį. Jūs galite tai padaryti per žemiau
+          esančią nuorodą.
+        change_my_password: Pakeiskite slaptažodį
+        if_you_didnt_request_this_please_ignore_this_email: Jei neprašėte tai prašom
+          nekreipti dėmesio į šį laišką.
+      unlock_instructions:
+        subject: Atrakinti instrukcijos
+    omniauth_callbacks:
+      failure: Nepavyko autentifikuoti jus iš% {pobūdžio} nes "% {priežastis}".
+      success: sėkmingai patvirtinta iš% {natūra} sąskaitą.
+    passwords:
+      no_token: Jūs negalite Patekti į šį puslapį be ateina iš naujo slaptažodžio
+        paštu. Jei ateina iš naujo slaptažodžio paštu, prašome įsitikinkite, kad jums
+        naudoti visą URL.
+      send_instructions: Jūs gausite elektroninį laišką su instrukcijomis, kaip pakeisti
+        slaptažodį per kelias minutes.
+      send_paranoid_instructions: Jei Jūsų el.pašto adresas yra mūsų duomenų bazėje,
+        Jūs gausite slaptažodžio atkūrimo nuorodą savo elektroninio pašto adresą per
+        kelias minutes.
+      updated: Jūsų slaptažodis buvo sėkmingai pakeistas. Dabar jūs esate prisijungęs.
+      updated_not_active: Jūsų slaptažodis buvo sėkmingai pakeistas.
+      new:
+        forgot_your_password: Atkurti slaptažodį
+        reset_password: Siųsti susigrąžinti url
+      edit:
+        change_your_password: Pakeiskite slaptažodį
+        new_password: Naujas slaptažodis
+        confirm_password: Pakartokite slaptažodį
+        change_password: Pakeisti
+    registrations:
+      destroyed: bye! Jūsų Paskyra buvo sėkmingai atšauktas. Mes tikimės, kad jums
+        dar kartą netrukus.
+      signed_up: Sveiki! Jūs jau užsiregistravote sėkmingai.
+      signed_up_but_inactive: jūs jau užsiregistravote sėkmingai. Tačiau mes negalėjo
+        pasirašyti jums, nes jūsų sąskaitos dar neaktyvuota.
+      signed_up_but_locked: jūs jau užsiregistravote sėkmingai. Tačiau mes negalėjo
+        pasirašyti jums, nes jūsų sąskaita yra užblokuota.
+      signed_up_but_unconfirmed: žinutę su patvirtinimo nuoroda buvo išsiųstas į jūsų
+        elektroninio pašto adresą. Prašome atidaryti nuorodą aktyvuoti savo sąskaitą.
+      update_needs_confirmation: Jūs atnaujinote savo paskyros sėkmingai, tačiau mes
+        turime patvirtinti savo naują elektroninio pašto adresą. Prašome pasitikrinti
+        savo elektroninį paštą ir paspauskite ant Patvirtinti nuorodą baigti patvirtindamas
+        savo naują elektroninio pašto adresą.
+      updated: Jūs atnaujinote savo paskyros sėkmingai.
+      new:
+        sign_up: Užsiregistruoti
+        name: Vardas
+        password: Slaptažodžių
+        password_confirmation: Slaptažodžio patvirtinimas
+        register: Užsiregistruoti
+    shared:
+      links:
+        sign_in: Registruotis
+        sign_up: Užsiregistruoti
+        didnt_receive_confirmation_instructions: Neradote gavau patvirtinimo instrukcijas?
+        sign_in_with: Prisijungti su
+        fast_login_almost_one_click: Greitas Slapyvardis (Beveik vienas paspaudimas)
+    sessions:
+      signed_in: Pasirašyta sėkmingai.
+      signed_out: Išregistruotos sėkmingai.
+      new:
+        sign_in: Registruotis
+        password: Slaptažodžių
+        remember_me: Įsiminti mane
+        forgot_your_password: Pamiršote slaptažodį?
+    unlocks:
+      send_instructions: Jūs gausite elektroninį laišką su instrukcijomis, apie tai,
+        kaip atrakinti savo sąskaitą per kelias minutes.
+      send_paranoid_instructions: Jei paskyra yra, jūs gausite laišką su nurodymais,
+        kaip jį atrakinti per kelias minutes.
+      unlocked: Jūsų paskyra buvo atrakinta sėkmingai. Prašome prisijungti, kad galėtumėte
+        tęsti.
+  timezones:
+    American Samoa: Amerikos Samoa
+    International Date Line West: Tarptautinis Data Line "Vakarų
+    Midway Island: Midway salos
+    Hawaii: Havajai
+    Alaska: Aliaska
+    Pacific Time (US & Canada): Ramiojo vandenyno laikas (JAV ir Kanada)
+    Tijuana: Tichuana
+    Arizona: Arizonos
+    Chihuahua: Čihuahua
+    Mazatlan: Mazatlanas
+    Mountain Time (US & Canada): Kalnų laikas (JAV ir Kanada)
+    Central America: Centrinė Amerika
+    Central Time (US & Canada): Centrinis laikas (JAV ir Kanada)
+    Guadalajara: Gvadalachara
+    Mexico City: Meksikas
+    Monterrey: Monterėjus
+    Saskatchewan: Saskačevanas
+    Bogota: Bogota
+    Eastern Time (US & Canada): Rytų laikas (JAV ir Kanada)
+    Indiana (East): Indianos (Rytai)
+    Lima: Limos
+    Quito: Kitas
+    Atlantic Time (Canada): Atlanto laikas (Kanada)
+    Caracas: Karakasas
+    Georgetown: Džordžtaunas
+    La Paz: La Pasas
+    Santiago: Santjagas
+    Newfoundland: Niūfaundlendas
+    Brasilia: Brazilija
+    Buenos Aires: Buenos Airės
+    Greenland: Grenlandija
+    Montevideo: Montevidėjas
+    Mid-Atlantic: Vidurio Atlanto
+    Azores: Azorai
+    Cape Verde Is: Žaliasis Kyšulys Is.
+    Casablanca: Kasablanka
+    Dublin: Dublinas
+    Edinburgh: Edinburgas
+    Lisbon: Lisabonos
+    London: Londonas
+    Monrovia: Monrovija
+    UTC: UTC
+    Amsterdam: Amsterdamas
+    Belgrade: Belgradas
+    Berlin: Berlynas
+    Bern: Bernas
+    Bratislava: Bratislavoje
+    Brussels: Briuselis
+    Budapest: Budapeštas
+    Copenhagen: Kopenhaga
+    Ljubljana: Liublianoje
+    Madrid: Madridas
+    Paris: Paryžius
+    Prague: Praha
+    Rome: Roma
+    Sarajevo: Sarajevas
+    Skopje: Skopjė
+    Stockholm: Stokholmas
+    Vienna: Viena
+    Warsaw: Varšuva
+    West Central Africa: Vakarų Centrinės Afrikos
+    Zagreb: Zagrebas
+    Athens: Atėnai
+    Bucharest: Bukareštas
+    Cairo: Kairas
+    Harare: Hararė
+    Helsinki: Helsinkis
+    Istanbul: Stambulas
+    Jerusalem: Jeruzalė
+    Kaliningrad: Kaliningrado
+    Kyiv: Kijevas
+    Pretoria: Pretorija
+    Riga: Ryga
+    Sofia: Sofija
+    Tallinn: Talinas
+    Vilnius: Vilniaus
+    Baghdad: Bagdadas
+    Kuwait: Kuveitas
+    Minsk: Minskas
+    Moscow: Maskva
+    Nairobi: Nairobis
+    Riyadh: Rijadas
+    St Petersburg: Sankt Peterburgas
+    Volgograd: Volgogradas
+    Tehran: Teheranas
+    Abu Dhabi: Abu Dabis
+    Baku: Baku
+    Muscat: Maskatas
+    Samara: Samaros
+    Tbilisi: Tbilisis
+    Yerevan: Jerevanas
+    Kabul: Kabulas
+    Ekaterinburg: Jekaterinburgas
+    Islamabad: Islamabadas
+    Karachi: Karačis
+    Tashkent: Taškentas
+    Chennai: Čenajus
+    Kolkata: Kalkuta
+    Mumbai: Mumbajus
+    New Delhi: Naujasis Delis
+    Sri Jayawardenepura: Šri Jayawardenepura
+    Kathmandu: Katmandu
+    Almaty: Almata
+    Astana: Astana
+    Dhaka: Daka
+    Novosibirsk: Novosibirskas
+    Urumqi: Urumčis
+    Rangoon: Rangūnas
+    Bangkok: Bankokas
+    Hanoi: Hanojus
+    Jakarta: Džakarta
+    Krasnoyarsk: Krasnojarskas
+    Beijing: Pekinas
+    Chongqing: Čongčingas
+    Hong Kong: Honkongas
+    Irkutsk: Irkutskas
+    Kuala Lumpur: Kvala Lumpūras
+    Perth: Pertas
+    Singapore: Singapūras
+    Taipei: Taipėjus
+    Ulaanbaatar: Ulan Batoras
+    Osaka: Osaka
+    Sapporo: Saporas
+    Seoul: Seulas
+    Tokyo: Tokijas
+    Yakutsk: Jakutskas
+    Adelaide: Adelaidė
+    Darwin: Darvinas
+    Brisbane: Brisbenas
+    Canberra: Kanbera
+    Guam: Guamas
+    Hobart: Hobartas
+    Melbourne: Melburnas
+    Port Moresby: Port Morsbis
+    Sydney: Sidnėjus
+    Vladivostok: Vladivostokas
+    Magadan: Magadanas
+    New Caledonia: Naujoji Kaledonija
+    Solomon Is: Saliamonas Is.
+    Srednekolymsk: Srednekolymskas
+    Auckland: Oklandas
+    Fiji: Fidžis
+    Kamchatka: Kamčiatkos
+    Marshall Is: Maršalo Is.
+    Wellington: Velingtonas
+    Chatham Is: Chatham Is.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau Is.
+  lt: lt
+  lt_iso: lt

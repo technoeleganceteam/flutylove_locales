@@ -1,0 +1,1766 @@
+---
+sv:
+  1_we_have_just_launched_our_service_title: Vi har just lanserat vår tjänst!
+  common_keywords: dateringar, online dateringar, kärlek dateringar, webbkamera dejting,
+    speed dating, webbkamerachatt dejting, Ruby on Rails dejtingsajt, flerspråkig
+    dejtingsajt
+  common_description: Den mest avancerade internationella sociala underhållning nätverk
+    för dateringar "Flutylove"
+  default_album: Default album
+  user: Användar
+  user_to_search_connection: Sök
+  video: Video
+  note: Obs
+  photo_album: Fotoalbum
+  from: Från
+  to: Till
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Man
+  - female:
+      name: Kvinna
+  - transgender:
+      name: trans
+  - male-female:
+      name: Hane-hona
+  - double-female:
+      name: Dubbel hona
+  - double-male:
+      name: Dubbel hane
+  orientation:
+  - heterosexual: Hetero
+  - homosexual: Homosexuell
+  - bisexual: Bisexuell
+  search_for:
+  - chatting: Chatta
+  - get_friends: Få vänner
+  - flirtation: Flirtation
+  - marriage: Äktenskap
+  - other: Övrigt
+  body_type:
+    slim: Slim
+    normal: Normal
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Single
+    in_a_relationship: I ett förhållande
+    married: Gift
+    nothing_serious: Inget allvarligt
+  children:
+    dont_have: inte har
+    dont_have_and_dont_want_to: Har inte och vill inte
+    don_t_have_but_planning: Har inte men planering
+    have_enough: Ha
+    have_and_planning_more: har och planerar mer
+    unable_to_have_children: Det går inte att ha barn
+  living:
+    with_parents: Med föräldrar
+    with_marriage_partner: Med äkta hälft
+    alone: Alone
+    with_friends: Med vän (s)
+  education:
+    nothing: Ingenting
+    secondary_school: Gymnasieutbildning
+    college_technical_college: Högskola / Tekniska högskolan
+    university: University
+    postgraduate: Forskarutbildning
+    phd_md_post_doctorate: PhD / MD / Doktorsexamen
+  hair_color:
+    blonde: Blond
+    dark_blond: Mörka blond
+    brown: Brown
+    black: Svart
+    red: Röd
+    gray: Gray
+    other: Övrigt
+  income:
+    unemployed: Arbetslös
+    unstable_earnings: Instabila resultat
+    small_stable_earnings: Små stabil intjäning
+    medium_stable_earnings: Medium stabil intjäning
+    higher_than_average_income: Högre än medelinkomsten
+    high_income: Hög inkomst
+  smoking:
+    not_smoke: inte röka
+    not_smoke_and_detest: inte röka och avskyr rökning
+    smoke_in_a_social_setting: Ibland i en social miljö
+    smoke_occasionally: rök ibland
+    smoke_often: Smoke ofta
+  alcohol:
+    not_drinking: Inte dricka
+    drink_occalionally: Dricker ibland
+    drink_in_a_social_setting: dryck i en social miljö
+    drink_often: dryck ofta
+  drugs:
+    dont_use: Använd inte
+    contra_drugs: Contra droger
+    tried_out_some: Försökt ut några
+    light_drugs_occasionally: Lätta droger emellanåt
+    regular: Regular
+  sponsor:
+    i_want_to_find_a_sponsor: Jag vill hitta en sponsor
+    willing_to_become_a_sponsor: villig att bli en sponsor
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: inte ute efter en sponsor
+      och inte villig att bli en
+  category_name:
+    strategy: Strategi
+    rpg: RPG
+    3d_shooters: 3D skyttar
+    racing: Racing
+    arcade: Arcade
+    economic: ekonomiska
+    simulators: Simulatorer
+    logic: Logic
+    adventure: äventyr
+    board_games: Brädspel
+    gambling: Spel
+    news: News
+    communication: Kommunikation
+    multimedia: Multimedia
+    drawing: Ritning
+    educational: Educational
+    e_commerce: E-handel
+    other: Övrigt
+  shared:
+    header:
+      people: Människor
+      chat: Chat
+      groups: Grupper
+      forum: Forum
+      requests: Framställningar
+      about: Om projektet
+      help: Hjälp
+      user_applications: Tillämpningar
+    liked_users:
+      liked: Gillade
+      all: All
+      you_have_not_liked_any_users_yet: Du har inte gillat några användare ännu
+    most_liked_users:
+      most_liked_users: Populära användare
+    installed_user_applications:
+      installed_applications: Installerade applikationer
+      all: All
+      you_have_not_installed_any_apps_yet: Du har inte installerat några program ännu
+    user_applications:
+      uploaded_apps: Uppladdade tillämpningar
+      all: All
+      you_have_not_uploaded_any_apps_yet: Du har inte laddat upp några program ännu
+    right_sidebar:
+      news: News
+      all: All
+      read_more: Läs mer
+    footer:
+      footer_text: internationella sociala underhållning nätverk för dateringar "Flutylove"
+      privacy: Privacy
+      terms: Villkor
+      feedback: Feedback
+      abuse: Missbruk
+    languages_select_modal:
+      available_languages: Tillgängliga språk
+    site_map_modal:
+      site_map: Webbkarta
+      faq: FAQ
+      about: Om
+      static_pages: Statiska sidor
+      common_pages: Vanliga sidor
+      user_pages: Användar sidor
+      terms: Villkor
+      privacy: Privacy
+      people: Människor
+      user_applications: Tillämpningar
+      user_requests: Framställningar
+      news: News
+      feedback: Feedback
+      abuse: Missbruk
+      chats: Chattar
+      videos: videor
+      photo_albums: Fotoalbum
+      notes: Anmärkningar
+    pagination_link:
+      next_page: Nästa sida
+    user_edit_menu:
+      content: Innehåll
+      profile: Profil
+      site_settings: Webbplatsinställningar
+      privacy: Privacy
+      services: Tjänster
+    activities_navigation:
+      all: All
+      photos: Bilder
+      photo_albums: Fotoalbum
+      notes: Anmärkningar
+      videos: videor
+    notifications_navigation:
+      all: All
+      likes: Likes
+      friend_requests: vänförfrågningar
+      profile_views: Profilvisningar
+      photo_album_views: Bilder visningar
+    user_to_friend_connections_navigation:
+      friends: Friends
+      friends_online: Vänner online
+      outcome_requests: Utfall begäranden
+      income_requests: Resultatbegäranden
+    user_applications_navigation:
+      all: All
+      new: New
+      popular: Populär
+      often_installed: installeras ofta
+      manage: Hantera
+    user_requests_navigation:
+      all: All
+      popular: Populär
+      my_requests: Mina förfrågningar
+    user_navbar_menu:
+      sign_in: Logga in
+      sign_up: Registrera dig
+    email_signature:
+      info: Info
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: Välj kön
+      select_orientation: Välj orientering
+      select_search_for: Välj sökning efter
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Du måste logga in innan denna åtgärd
+      available_sign_in_methods: Du
+    sign_up_methods:
+      usual_register_link: vanliga registrering
+      register_text: Förutom% {usual_registration} du kan registrera genom mest populära
+        tjänsterna och sociala nätverk
+    bootstrap_gallery:
+      previous: Föregående
+      next: Nästa
+    user_notification_title:
+      you_liked: Du omtyckt av
+      wrote_message_to_you: Skrev meddelande till dig
+      viewed_your_profile: Visat din profil
+      liked_your_photo: Gillade ditt foto
+      liked_your_note: Gillade ditt meddelande
+      liked_your_request: Gillade din begäran
+      liked_your_video: Gillade videon
+      liked_your_application: Gillade din ansökan
+      requested_a_friendship: Begärt en vänskap
+  authentications:
+    authentication:
+      turn_on: Aktivera
+      turn_off: Stäng
+      turned_on: Aktiverat
+      turned_off: Avstängd
+    index:
+      enabled_services: baserade tjänster
+  users:
+    profile:
+      submit: Spara
+      name: Namn
+      meet_with: Träffa
+      gender: Kön
+      type_in_your_location: Skriv in din stad
+      about_me: Några ord om dig själv (förutom att bilda nedan)
+      sex_keywords: Andelar i kön
+      enter_your_name: Ange ditt namn
+      more_options: Mer
+      orientation: Orientering
+      birth_date: födelsedatum
+      location: Plats
+      search_for: Sök
+      intimacy: Intimitet
+      in_age: I ålders
+      from: från
+      to: till
+      interests: Intressen
+      height: Höjd
+      weight: Vikt
+      body_type: Body type
+      hair_color: Hårfärg
+      relationship: Förhållande
+      children: Barn
+      living: Living
+      education: Utbildning
+      jobs: Job
+      income: inkomst
+      languages: Språk
+      smoking: Rökning
+      alcohol: Alkohol
+      drugs: Droger
+      contacts: Kontakter
+      contact_name: Kontaktperson
+      contact_value: Kontakt värde
+      save: Spara
+      about_yourself: Om dig själv
+    settings:
+      submit: Spara
+      locale: Gränssnittsspråk
+      change_password: Ändra lösenord
+      interface_language: Gränssnittsspråk
+      time_zone: tidszon
+    dialog_modal:
+      send_message: Skicka meddelande
+    index:
+      users: Användare
+      clear_search: Rensa sökning
+    dashboard:
+      hello: Hej
+      here_some_of_your_statistics: Här några av statistiken
+      chats: Chatter
+      messages: Meddelanden
+      photos: Bilder
+      videos: videor
+      notes: Anmärkningar
+      photo_albums: Fotoalbum
+    avatar:
+      photo: Foto
+      uploading_file: Uppladdning fil
+      handling_file: filhantering
+      drag_and_drop_your_file: Dra och släpp filen
+      here: här
+      or: eller
+      upload_file: uppladdning fil
+      from_other_sites: från andra webbplatser
+      write_down_link_for_your_image: Skriv ner länk av bilden
+      url_for_image: URL för bilden
+      upload: Ladda upp
+      from_facebook: Från Facebook
+      turn_on_facebook: Slå på Facebook
+      you_can_upload_your_photos_from_facebook: Du kan ladda upp dina bilder från
+        Facebook
+      from_vkontakte: Från Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Du kan ladda upp dina bilder från
+        Vkontakte
+      turn_on_vkontakte: Slå på Vkontakte
+      from_instagram: Från Instagram
+      you_can_upload_your_photos_from_instagram: Du kan ladda upp dina bilder från
+        Instagram
+      turn_on_instagram: Slå på Instagram
+      from_dropbox: Från Dropbox
+      you_can_upload_your_photos_from_dropbox: Du kan ladda upp dina bilder från Dropbox
+      turn_on_dropbox: Slå på Dropbox
+      edit_photo: Redigera bild
+      delete_photo: bort foto
+      are_you_sure: Är du säker?
+    available_photos_modal:
+      available_photos: Tillgängliga bilder
+    update:
+      your_password_was_successfully_changed: Ditt lösenord har ändrats
+      your_profile_was_successfully_updated: Din profil har uppdaterats
+    edit_photo:
+      edit_photo: Redigera bild
+      crop: Crop
+      close: Stäng
+      save_changes: Spara ändringar
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: Om mig
+      orientation: Orientering
+      meet_with: Träffa
+      desirable_age: Önskvärt ålder
+      from: från
+      to: till
+      interests: Intressen
+      height: Höjd
+      sm: sm
+      kg: kg
+      body_type: Body type
+      hair_color: Hårfärg
+      relationship: Förhållande
+      children: Barn
+      living: Living
+      education: Utbildning
+      jobs: Jobb
+      income: inkomst
+      languages: språk
+      smoking: Rökning
+      alcohol: Alkohol
+      drugs: Droger
+      contacts: Kontakter
+    user_info:
+      offline: Offline
+      online: Online
+      age: Ålder
+    loading_modal_images:
+      loading_images: Laddar bilder
+    password_form:
+      new_password: Nytt lösenord
+      confirm_new_password: Bekräfta nytt lösenord
+      old_password: Gammalt lösenord
+      change_password: Ändra lösenord
+    show:
+      photos: Bilder
+      all: All
+      videos: videor
+      notes: Anmärkningar
+      view: View
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: Klistra mottagen nyckel
+      submit: Submit
+    contents:
+      users_which_i_like: Användare som jag gillar
+      all: All
+      my_videos_likes: mina videoklipp gillar
+      my_photos_likes: Mina foton gillar
+      my_notes_likes: mina anteckningar gillar
+      my_user_applications_likes: mina program gillar
+      my_user_requests_likes: min begäran gillar
+    more_profile_info:
+      photo_albums: Fotoalbum
+      view_all_photo_albums: Visa alla fotoalbum
+      create_more: skapar mer
+      videos: videoklipp
+      view_all_videos: Visa alla videor
+      notes: Anmärkningar
+      view_all_notes: Visa alla anteckningar
+      requirements_lists_to_partner: Krav visar att samarbeta
+      requirement: Krav
+      view_all_requirements_lists: Visa alla krav listor
+      profile_verification: Profil verifiering
+      your_profile_is_successfully_verified: Din profil är verifierats
+      create: skapar
+      you_have_not_any_requirements_lists_yet: Du har inte några krav listor än
+      you_have_not_any_notes_yet: Du har inte några noteringar ännu
+      you_have_not_any_photo_albums_yet: Du har inte några fotoalbum ännu
+      you_have_not_any_videos_yet: Du har inte några videoklipp än
+      your_profile_is_not_verified_yet: Din profil har inte verifierats ännu
+      verify_through_twitter: Verifiera via Twitter
+      verify_through_facebook: Verifiera genom Facebook
+      verify_through_mail_ru: Verifiera genom Mail.ru
+    privacy:
+      privacy: Privacy
+  searches:
+    form:
+      location: Plats
+      from: från
+      to: till
+      age: Ålder
+      gender: Kön
+    form_content:
+      city: Stad
+      gender: Kön
+      age_from: Ålder från
+      to: till
+      online: Online
+      verified: Verifierad
+      has_avatar: Har avatar
+      region: Region
+      more: Mer
+      country: Land
+      about_me: Om mig
+      interests: intressen
+      languages: Språk
+      names: Names
+      height: Höjd
+      from: från
+      weight: Vikt
+      body_type: Body type
+      relationship: Förhållande
+      hair_color: Hårfärg
+      education: Utbildning
+      orientation: Orientering
+      search_for: Sök
+      children: Barn
+      living: Living
+      smoking: Rökning
+      alcohol: Alkohol
+      drugs: Droger
+      income: inkomst
+    show:
+      users: Användare
+      clear_search: Rensa sökning
+  welcome:
+    index:
+      people: Människor
+      requests: Framställningar
+      user_applications: Tillämpningar
+      about: Om
+      features: Egenskaper
+      registration: Registrering
+      sign_in: Logga in
+      welcome_main_title: Välkommen till Flutylove!
+      welcome_main_text: Detta är den plats där du kan hitta din perfekta kärleken
+      find_more: Hitta mer
+      about_title: Flutylove är den internationella sociala underhållning nätverk
+        för dateringar
+      about_text: Det finns många funktioner som du kan använda för underhållning
+        och dateringar!
+      find_more_features: Hitta fler funktioner
+      at_our_service: Dragen av vår service
+      many_languages: Många språk
+      text_about_many_languages: Vår service sätts mer än 70 språk
+      check_it_out: Check it out
+      videochats: Videochats
+      text_about_videochats: Du kan chatta med din partner med videocams
+      try_it_now: Prova nu
+      search: Sök
+      text_about_search: Du kan söka med flera parametrar och det är gratis!
+      watch_this: Titta här
+      more_features: Fler funktioner
+      text_about_more_features: Du kan visa videoklipp, spela spel och göra många
+        andra saker!
+      register_and_learn_more: Register och lära sig mer
+      install_our_apps: Installera våra appar från den populära plattformar
+      register_header: Registrering
+  feedbacks:
+    new:
+      feedback_title: Feedback
+    form:
+      feedback_name: Ditt namn
+      feedback_email: Din e
+      feedback_content: Feedback innehåll
+      close: Stäng
+      send: Sänd
+      feedback_recaptcha: Recaptcha
+      cancel: Avbryt
+    success:
+      success_feedback: Tack! Vi har fått feedback.
+      close: Stäng
+      cancel: Avbryt
+      more: Överför mer
+  abuses:
+    new:
+      abuse_title: Missbruk
+    form:
+      abuse_name: Ditt namn
+      abuse_email: Din e
+      abuse_title: Missbruk
+      close: Stäng
+      send: Sänd
+      abuse_recaptcha: Recaptcha
+      abuse_link: Länk
+      cancel: Avbryt
+    success:
+      success_abuse: Tack! Vi har fått din missbruk.
+      close: Stäng
+      cancel: Avbryt
+      more: Överför mer
+  layouts:
+    welcome:
+      welcome_title: Välkommen till Flutylove! Den mest avancerade dejtingsajt.
+  recaptcha:
+    errors:
+      verification_failed: Misslyckades recaptcha
+      recaptcha_unreachable: Recaptcha är onåbar
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Vi har just lanserat vår tjänst!
+      we_have_just_launched_our_service_text: Idag lanserar vi vår service så att
+        alla kan
+      sign_up: registrera dig
+      and_use_it: och använda den.
+      wishes_and_requests: Om du har några önskemål eller önskemål, kan du registrera
+        dig och skrev det
+      here: här
+      with_love: Med kärlek,
+      flutylove_team: Flutylove Team
+    index:
+      all_news: Alla nyheter
+      read_more: Läs mer
+  chats:
+    panel_head:
+      online: Online
+      offline: Offline
+    pagination_link:
+      next_page: Nästa sida
+    form:
+      message_text: Meddelande
+    form_additions:
+      submit: Submit
+      videochat: Videochat
+    show:
+      messages: Meddelanden
+    index:
+      messages: Meddelanden
+    videochat_request_link:
+      connect_to_videochat: Anslut till videochat
+    modal_form:
+      send_message: Skicka meddelande
+      recipient: Other
+      message: Meddelande
+      close: Stäng
+      submit: Submit
+    waiting_video_answer_button:
+      waiting_for_response: Väntar på svar ...
+    chat_created:
+      send_message: Skicka meddelande
+      message_was_sent: meddelande har skickats
+      close: Stäng
+  messages:
+    pagination_link:
+      next_page: Nästa sida
+    form:
+      message_text: Meddelande
+  notifications:
+    user_to_friend_connection:
+      action: Action
+    notification:
+      offline: Offline
+      online: Online
+    like:
+      action: Action
+    photo_album_view:
+      action: Action
+    user_view:
+      action: Action
+  user_applications:
+    user_application:
+      who_uploaded: Uppladdad av
+      all_uploaded_applications_by: Alla uppladdade ansökningar från
+    form:
+      name: Namn
+      user_application_name: Applikationsnamn
+      description: Beskrivning
+      description_text: Beskrivning text
+      iframe_url: Iframe url
+      icon_for_application: Application icon
+      upload_icon: Download icon
+      public: Public?
+      category_name: Kategori
+      create: skapar
+      edit: Redigera
+    show:
+      application: Tillämpning
+      return_to_uploaded_applications: Till uppladdade ansökan
+      edit_application: Redigera ansökan
+      return_to_all_applications: tillbaka till alla applikationer
+    manage:
+      installed_applications: Installerade applikationer
+      uploaded_applications: Uppladdade tillämpningar
+      all: All
+    index:
+      applications_uploaded_by: Ansökningar uppladdade av
+      return_to_all_applications: tillbaka till alla applikationer
+      create_new: skapar nya
+      return_to_manage_applications: tillbaka till hantera program
+    installed:
+      installed_applications: Installerade applikationer
+      return_to_all_applications: tillbaka till alla applikationer
+      return_to_manage_applications: tillbaka till hantera program
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Innan visa detta program du
+        måste logga in först
+    need_to_install:
+      need_to_install_first: Du måste installera det här programmet först
+      install_application: Installera ansökan
+  likes:
+    index:
+      liked_items: Gillade objekt
+      return_to_my_content: tillbaka till mitt innehåll
+  videos:
+    index:
+      videos: videor
+      return_to_edit_profile: till redigering profil
+      create_new: skapar nya
+      return_to_profile: tillbaka till profilen
+    video:
+      edit: Redigera
+      are_you_sure: Är du säker?
+      delete: Radera
+    modal_form:
+      create_new_video: skapar ny video
+      close: Stäng
+      create: skapar
+    form_content:
+      name: Namn
+      video_name: Video namn
+      source: URL för inbäddningskod
+      video_url_or_embed_code: Video url video inbäddningskod
+    show:
+      video: Video
+      return_to_all_videos: tillbaka till alla videoklipp
+      edit_video: Redigera video
+    edit:
+      edit_video: Redigera video
+      return_to_view_video: tillbaka till visa video
+      view_video: Visa video
+    form:
+      edit: Redigera
+  photo_albums:
+    index:
+      photo_albums: Fotoalbum
+      return_to_editing_profile: till redigering profil
+      create_new: skapar nya
+      return_to_profile: tillbaka till profilen
+    photo_album:
+      edit: Redigera
+      create: skapar
+      are_you_sure: Är du säker?
+      delete: Radera
+    edit:
+      edit_photo_album: Redigera fotoalbum
+      return_to_photo_albums: Till fotoalbum
+      view_photo_album: Visa fotoalbum
+    form_content:
+      name: Namn
+      photo_album_name: Fotoalbum namn
+    form:
+      edit: Redigera
+      create: skapar
+    photo_album_uploader:
+      drag_and_drop_your_file: Dra och släpp filen
+      here: här
+      or: eller
+      upload_file: uppladdning fil
+      from_other_sites: från andra webbplatser
+      write_down_link_for_your_image: Skriv ner länk av bilden
+      url_for_image: URL för bilden
+      upload: Ladda upp
+      from_facebook: Från Facebook
+      turn_on_facebook: Slå på Facebook
+      you_can_upload_your_photos_from_facebook: Du kan ladda upp dina bilder från
+        Facebook
+      from_vkontakte: Från Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Du kan ladda upp dina bilder från
+        Vkontakte
+      turn_on_vkontakte: Slå på Vkontakte
+      from_instagram: Från Instagram
+      you_can_upload_your_photos_from_instagram: Du kan ladda upp dina bilder från
+        Instagram
+      turn_on_instagram: Slå på Instagram
+      from_dropbox: Från Dropbox
+      you_can_upload_your_photos_from_dropbox: Du kan ladda upp dina bilder från Dropbox
+      turn_on_dropbox: Slå på Dropbox
+    show:
+      photo_album: Fotoalbum
+      return_to_photo_albums: Till fotoalbum
+      edit_photo_album: Redigera fotoalbum
+    modal_form:
+      create_new_photo_album: skapar nytt fotoalbum
+      close: Stäng
+      create: skapar
+  user_requests:
+    form:
+      content: Innehåll
+      edit: Redigera
+      create: skapar
+  notes:
+    index:
+      notes: Anmärkningar
+      return_to_edit_profile: till redigering profil
+      create_new: skapar nya
+      return_to_profile: tillbaka till profilen
+    note:
+      edit: Redigera
+      are_you_sure: Är du säker?
+      delete: Radera
+    show:
+      note: Obs
+      return_to_notes: tillbaka till anteckningar
+      edit_note: Redigera anteckning
+    form_content:
+      content: Innehåll
+      note_content: Obs innehåll
+      edit: Redigera
+      create: skapar
+    edit:
+      edit_note: Redigera anteckning
+      return_to_notes: tillbaka till anteckningar
+      view_note: Se anmärkning
+  user_to_search_connections:
+    index:
+      requirements_lists: Krav listor
+      return_to_editing_profile: till redigering profil
+      create_new: skapar nya
+    user_to_search_connection:
+      edit: Redigera
+      are_you_sure: Är du säker?
+      delete: Radera
+    edit:
+      edit_requirements_list: Redigera Krav listor
+      return_to_requirements_lists: krav listor
+      view_requirements_list: Se krav lista
+    form_content:
+      name: Namn
+      name_of_your_requirements_list: namn din kravlista
+    form:
+      edit: Redigera
+    show:
+      requirements_list: Krav lista
+      return_to_requirements_lists: krav listor
+      edit_requirements_list: Redigera krav lista
+  photos:
+    index:
+      photos: Bilder
+      return_to_photo_albums: tillbaka till fotoalbum
+      return_to_profile: till profil
+  errors:
+    messages:
+      already_confirmed: redan bekräftat, försök att logga in
+      confirmation_period_expired: måste bekräftas inom% {period}, begär en ny
+      expired: har löpt ut, kan du begära en ny
+      not_found: hittades inte
+      not_locked: var inte låst
+      not_saved:
+        one: 'ett fel förbjudet här% {resurs} från sparas:'
+        other: "% {count} fel förbjudna denna% {resurs} från sparas:"
+    bad_request:
+      bad_request: Bad Request
+      request_result: Request resultat
+      bad_request_description: Servern kan inte eller inte kommer att behandla begäran
+        på grund av en uppenbar klient fel
+      go_to_root: Gå till roten
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable Entity
+      request_result: Request resultat
+      unprocessable_entity_description: Begäran var välformade men kunde inte följas
+        på grund av semantiska fel
+      go_to_root: Gå till roten
+    not_found:
+      not_found: Not Found
+      request_result: Request resultat
+      not_found_description: Den begärda resursen kunde inte hittas men kan vara tillgängliga
+        i framtiden
+      go_to_root: Gå till roten
+    forbidden:
+      forbidden: Forbidden
+      request_result: Request resultat
+      forbidden_description: Begäran var en giltig begäran, men servern vägrar att
+        svara på det
+      go_to_root: Gå till roten
+    internal_server_error:
+      internal_server_error: Internal Server Error
+      request_result: Request resultat
+      internal_server_error_description: Något gick fel. Vi kommer att fixa det så
+        fort som möjligt.
+      go_to_root: Gå till roten
+  pages:
+    privacy:
+      privacy: Flutylove sekretesspolicy
+      general_provisions: Allmänna bestämmelser
+      p_1_1: 1,1. Dessa föreskrifter är ett officiellt dokument från Limited Liability
+        Company "Technoelegance", som ligger på 101000, Moskva, Ulanskiy pereulok
+        13, stroeniye 4, pomeshcheniye en (nedan Flutylove bolaget, vi), och bestämma
+        rutiner för databehandling och säkerhet av individer informations som har
+        fyllt 18 år, och som använder webbplatsen https://flutylove.com (nedan hemsidan)
+        och dess tjänster (nedan Användare).
+      p_1_2: 1,2. Syftet med dessa regler är att säkerställa ett tillfredsställande
+        skydd av användarinformation, inklusive personuppgifter, från obehörig åtkomst
+        och utlämnande.
+      p_1_3: 1,3. Relationerna i samband med insamling, lagring, distribution och
+        säkerhet av webbplatsen användarens information styrs av dessa förordningar,
+        andra officiella dokument i bolaget och den nuvarande lagstiftningen i Ryska
+        federationen.
+      p_1_4: 1,4. Den nuvarande versionen av förordningarna, som är en offentlig handling,
+        är tillgänglig för alla Internetanvändare när man följer länken http://flutylove.com/pages/privacy.
+        Bolaget har rätt att ändra dessa regler. I fall ändringar görs förordningarna
+        skall bolaget meddela användarna genom att publicera den nya versionen av
+        förordningarna på webbplatsen permanenta adress http://flutylove.com/pages/privacy,
+        senast 10 dagar före den effektiva datumet för förändringen. De tidigare versionerna
+        av förordningarna lagras i arkivet dokumentation av bolaget.
+      p_1_5: 1,5. Dessa föreskrifter har utvecklats och används i enlighet med användaravtalet.
+        Vid eventuell strid mellan dessa förordningar och andra officiella dokument
+        i bolaget, måste dessa förordningar verkställas.
+      p_1_6: 1,6. Genom att använda webbplatsen accepterar du villkoren i denna sekretesspolicy.
+        Läs dem noga. Om du inte accepterar villkoren i denna integritetspolicy, eller
+        om du inte har fyllt 18 år, får du inte använda webbplatsen och dess tjänster.
+        Genom att använda webbplatsen, oavsett om du är registrerad användare av Flutylove
+        eller inte, bekräftar du att du till fullo accepterar denna integritetspolicy,
+        och accepterar att följa den.
+      the_website_using_conditions: webbplatsen med villkor
+      p_2_1: '2,1. Om du vill använda webbplatsen Flutylove, måste du registrera.
+        Följande information ska anges under registreringen: namn, e-postadress, kön,
+        födelsedatum, platsinformation. Användaren kan ge ytterligare personuppgifter
+        på hans / hennes egen önskan. Användaren kan redigera eller uppdatera personlig
+        information när som helst. Bolaget har rätt att begära ytterligare underlag
+        vid byte kön och födelsedatum för användaren.'
+      p_2_2: '2,2. Genom att låta tillgång till webbplatsen och dess tjänster, bolaget
+        agerar på ett rimligt sätt och i god tro, anser att Användare: inser att för
+        registrering på webbplatsen är det nödvändigt att vara över 18 år gammal,
+        har alla rättigheter som krävs för att kunna registrera sig på denna webbplats
+        och använda den; anger korrekt information om sig själv / själv enligt begäran
+        om användning av tjänsterna på Webbplatsen; är medveten om att personlig information
+        på webbplatsen, under förutsättning av användaren, kan bli tillgängliga för
+        andra användare av webbplatsen och Internetanvändare också, kan kopieras och
+        distribueras av andra användare; är medveten om att vissa typer av information,
+        överförs till andra användare, inte kan tas bort av användaren; är bekant
+        med dessa föreskrifter, överensstämmer med dem och förbinder de angivna rättigheter
+        och skyldigheter.'
+      p_2_3: 2,3. Bolaget inte kontrollera riktigheten av den mottagna (samlade) information
+        om användarna, med undantag för de fall då en sådan kontroll är nödvändig
+        för att uppfylla bolagets åtaganden för användaren.
+      information_processing_objectives: informationsbehandling mål
+      p_3_1: 3,1. Bolaget utför informationsbehandling om användare, inklusive deras
+        personuppgifter, i syfte att uppfylla bolagets åtaganden till användare för
+        användning av webbplatsen och dess tjänster.
+      p_3_2: 3,2 Bolaget har rätt att utföra behandling av personuppgifter utan att
+        meddela den behöriga myndigheten för att skydda rättigheterna för person registrerade.
+      structure_of_the_user_information: struktur användarinformationen
+      p_4_1: '4,1. Personuppgifter för användarna inkluderar:'
+      p_4_1_1: 4.1.1. namn, e-postadress, kön, födelsedatum, platsinformation och
+        telefonnummer, som tillhandahålls av användarna och ska vara tillräckligt
+        för registrering på webbplatsen;
+      p_4_1_2: 4.1.2. den information som tillhandahålls av användaren (till exempel
+        bilder, information om skadliga vanor etc.);
+      p_4_1_3: 4.1.3. dessutom tillhandahålls av användaren enligt bolaget begäran
+        för att uppfylla bolagets åtaganden gentemot Användare som framgår av användaravtal.
+        Bolaget har rätt, i synnerhet, att begära att användaren en kopia av identitetshandling
+        eller något annat dokument som innehåller namn, kön och födelsedatum, liksom
+        annan kompletterande information som, på bolagets bedömning, kommer att bli
+        nödvändigt och tillräcklig för att identifiera en sådan kund och vill eliminera
+        missbruk och kränkning av tredje parts rättigheter.
+      p_4_2: '4,2. Övriga användarinformationsbehandling av bolaget Webbplatsen Verket
+        behandlar också annan information om användarna, vilket inkluderar:'
+      p_4_2_1: 4.2.1. gemensamma uppgifter, automatiskt emot av http-server när åtkomst
+        till webbplatsen och de efterföljande användarens handlingar (IP-adressen
+        för värden, typ av användarens operativsystem, sidor webbsida har besökts
+        av användaren).
+      p_4_2_2: 4.2.2. uppgifter som automatiskt tas emot vid åtkomst till webbplats
+        med hjälp bokmärken (cookies);
+      p_4_2_3: 4.2.3. uppgifter som tas emot som ett resultat av användarens åtgärder
+        på webbplatsen;
+      p_4_2_4: 4.2.4. uppgifter som tas emot som en följd av åtgärder från andra användare
+        på webbplatsen.
+      users_information_processing: Användar informationshantering
+      p_5_1: '5,1. Personuppgifter genomför på grundval av följande principer: a)
+        legitima syften och medlen för behandlingen av personuppgifter; b) ärlighet;
+        c) efterlevnad av personuppgifter syften med ändamål förutbestämda och förklarade
+        då att samla in personuppgifter, samt efterlevnad av bevis i bolaget; d) efterlevnad
+        av volymen och typen av behandling av personuppgifter, och efterlevnaden av
+        medlen för behandlingen av personuppgifter med avseende på dess behandling;
+        e) avvisning av att kombinera de skapade databaser för oförenliga ändamål,
+        som innehåller personuppgifter.'
+      p_5_1_1: 5.1.1. Insamlingen av personuppgifter användar utförs på webbplatsen
+        när registret, liksom i framtiden när användaren lägger in mer information
+        om sig själv / själv använda webbplatsen verktyg på hans / hennes eget initiativ.
+      p_5_1_2: 5.1.2. Personuppgifter om användare endast lagras i elektroniskt format
+        och bearbetas med hjälp av automatiserade system, med undantag för de fall
+        där det behövs manuell behandling av personuppgifter i syfte att uppfylla
+        de lagstadgade kraven.
+      p_5_1_3: 5.1.3. Användarens personuppgifter inte överförs till tredje part,
+        utom i de fall som uttryckligen anges av dessa förordningar och användaravtalet.
+        Med samtycke av användaren, kan personuppgifter användardata överföras till
+        tredje motparter i bolaget på villkor övertagande av en skyldighet att säkerställa
+        sekretessen för mottagna informationen, i synnerhet när man använder tjänster
+        och applikationer. Användarpersonuppgifter proviantering på begäran av statliga
+        myndigheter (lokala myndigheter) utförs i förfarandet i enlighet med lagen.
+      p_5_1_4: '5.1.4. Personliga användaruppgifter raderas när: - uppgifter är själv
+        bort från sidan av användaren; - Sidan är själv bort av användaren; - Användarinformationen
+        och dess personliga sida avlägsnas genom bolaget. Vid sidan borttagning av
+        användaren själv, lagrar bolaget Användarens personuppgifter om sina elektroniska
+        medier inom 210 dagar efter den personliga sidan tas bort. De personuppgifter
+        raderas vid utgången av 210 dagar efter den personliga sidan tas bort. Fram
+        till denna period löper ut, har användaren rätt att återställa den personliga
+        sidan.'
+      users_rights_and_obligations: Användarens rättigheter och skyldigheter
+      p_6_1: '6,1. Användaren har rätt till:'
+      p_6_1_1: 6.1.1. tillgång till information om honom / henne utan begränsningar
+        och utan kostnad genom att redigera sin personliga sida på webbplatsen med
+        hjälp av användarnamn och lösenord;
+      p_6_1_2: 6.1.2. självständigt och ändringar av den information om användarens
+        personliga sida på webbplatsen, under förutsättning att sådana ändringar och
+        rättelser innehålla upp-to-date och sann information;
+      p_6_1_3: 6.1.3. ta bort informationen från personliga sida på webbplatsen;
+      p_6_1_4: 6.1.4. begära att bolaget för att få mer specifik information, blockera
+        eller radera personuppgifter, om dessa uppgifter är ofullständiga, föråldrade,
+        felaktig olagligt emot eller inte är nödvändiga för det uttalade syftet med
+        behandlingen eller om de åtgärder som anges i punkt 6.1.3 i dessa förordningar
+        kan inte genomföras oberoende;
+      p_6_1_5: 6.1.5. på grundval av en ansökan, får informationen från bolaget om
+        behandling av hans / hennes personuppgifter.
+      p_6_2: '6,2. Följande information om alla registrerade hemsida Användare är
+        alltid tillgänglig för den registrerade användaren: användarens namn, kön,
+        ålder, profilbild och annan information om användaren har skrivit det.'
+      p_6_3: 6,3. Företaget bär inget ansvar för utlämnande av användarens personuppgifter
+        av andra användare av webbplatsen som har visats sådana uppgifter.
+      p_6_4: 6,4. Vid personuppgifter (annan användarinformation) tas bort från användarens
+        personliga sida eller borttagning av användarens personliga sida från webbplatsen,
+        användar information kopieras av andra användare eller lagras på andra användares
+        sidor bevaras.
+      users_information_protection_measures: Användarnas åtgärder informationsskydd
+      p_7_1: 7,1. Bolaget tar tekniska, organisatoriska och juridiska åtgärder för
+        att säkerställa att användarens personuppgifter skyddas mot obehörig eller
+        oavsiktlig åtkomst, radering, modifiering, blockering, kopiering och spridning
+        samt från andra obehöriga åtgärder.
+      p_7_2: 7,2. Användarens inloggning (e-postadress eller mobilnummer) och lösenord
+        används för att få tillgång till webbplatsen. Användaren är ansvarig för att
+        hålla denna information konfidentiell. Användaren får inte överföra användarnamn
+        och lösenord till tredje part och är också skyldig att vidta åtgärder för
+        att säkerställa sekretess.
+      limitation_of_the_regulations_applicability: Begränsning av förordningarna tillämplighet
+      p_8: Dessa föreskrifter är inte utvidgas till åtgärder och Internet resurser
+        från tredje part. Företaget bär inget ansvar för åtgärder av tredje part som
+        fick tillgång till användarinformation via Internet eller webbplatsens tjänster.
+        Webbplatsen Verket rekommenderar att användarna att närma sig problemet med
+        den mängd information som publiceras på webbplatsen på ett ansvarsfullt sätt.
+      user_requests: Användar förfrågningar
+      p_9_1: '9,1. Användare har rätt att skicka förfrågningar till bolaget inklusive
+        förfrågningar om användning av personuppgifter i skriftlig form på följande
+        adress: Ryssland, 101000, Moskva, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        en eller i form av elektroniskt dokument undertecknats av en kvalificerad
+        elektronisk signatur i enlighet med lagstiftningen i Ryssland, med e-post:
+        support@flutylove.com.'
+      p_9_2: '9,2. Användarens begäran måste innehålla följande information: antalet
+        identitetshandlingen för Användaren eller dess representant; Datum för utfärdandet
+        av ovanstående dokument och den utfärdande myndigheten; uppgifter som bekräftar
+        användar deltagande i förbindelserna med operatören (i synnerhet länken till
+        sidan); underskrift användar eller hans / hennes företrädare.'
+      p_9_3: 9,3. Företaget förbinder sig att överväga och svara på användarens begäran
+        inom 30 dagar efter det togs emot.
+      p_9_4: 9,4. All korrespondens bolaget tillhanda från Användare (skriftlig eller
+        elektronisk begäran) klassificeras som begränsad tillgång till information
+        och kan inte vidarebefordras utan användar skriftliga medgivande. De personuppgifter
+        och annan information om användaren som skickade begäran får inte användas,
+        utan bruks särskilt medgivande, annorlunda än för svar på begäran eller i
+        de fall som uttryckligen anges enligt tillämplig lag.
+    terms:
+      terms: Flutylove användaravtalet
+      welcome: Välkommen till Flutylove!
+      about_terms: 'Dessa användarvillkor (liksom de handlingar som avses häri, inklusive
+        sekretesspolicy) är avtalet vidhäftning i enlighet med artikel 428 i civillagen
+        av Ryska federationen (nedan kallat "avtalet") mellan individ som nått 18
+        års ålder (hädanefter kallat "Användare" och Company (eller "Vi") - ett aktiebolag
+        "Technoelegance" (LLC "Technoelegance") (juridisk adress: 101000, Moskva,
+        Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye 1), nedan kallat Flutylove,
+        enligt vilken du kan använda denna webbplats och alla tillhörande tjänster
+        som erbjuds via webbplatsen eller ansökan (vanligen kallat "tjänster"). är
+        webbplatsen förstås någon av versionerna, i kombination under domännamnet
+        flutylove.com och verkar för en mängd olika enheter, inklusive webbaserad
+        version, mobila applikationer och applikationer för sociala nätverk.Genom
+        att använda denna webbplats godkänner du villkoren i avtalet och sekretesspolicy.
+        Läs dem noga. Om du inte accepterar villkoren i avtalet och sekretesspolicy
+        eller om du inte har fyllt 18 år, får du inte använda webbplatsen och dess
+        tjänster.Genom att använda webbplatsen, oavsett du är registrerad användare
+        av Flutylove eller inte samtycker du fullständigt med detta avtal och vår
+        sekretesspolicy, som ingår i detta avtal genom länken och finns tillgänglig
+        på webbplatsen, och följa den.På användarens begäran åtar sig bolaget att
+        underteckna detta avtal på ett pappersformulär och skicka det till den enskilde
+        begär dokumenten.Bolaget förbehåller sig rätten att ändra användaravtalet
+        och alla dokument som tas upp. Att vara medveten om de ändringar du behöver
+        för att hålla upp-to-date information om sådana förändringar på en regelbunden
+        basis. Vi kommer att informera dig om förändringar som vi gjort på denna sida
+        nedan. Förändringar avser inte tillbaka och kommer att träda i kraft inom
+        tio dagar från dagen för offentliggörandet. Men om de är förknippade med genomförandet
+        av nya tjänster eller ändring av lagstiftningen, det kommer att tillämpas
+        omedelbart. Om du inte håller med förändringarna i avtalet, måste du sluta
+        använda webbplatsen och dess tillämpningar.'
+      consent_to_accept_the_terms_of_user_agreement: 1. SAMTYCKE TILL ACCEPTERA VILLKOREN
+        FÖR ANVÄNDARAVTAL.
+      p_1: en. Elektronisk avtalet. Detta avtal är en elektronisk version av avtalet,
+        som beskriver villkoren för användning av webbplatsen och tjänster. Genom
+        att logga till webbplatsen eller bli en användare, accepterar du detta avtal
+        och är överens om att alla villkor, villkor och meddelanden som ingår eller
+        hänvisas till där. Du bekräftar och samtycker till att användarna av Flutylove
+        kan vara en del av en community som omfattar andra webbplatser som tillhör
+        bolaget eller dess dotterbolag. Därför kan profilerna på webbplatsen ses på
+        andra liknande webbplatser och betalande abonnenter från en webbplats kan
+        kommunicera med andra betalande abonnenter från alla webbplatser. b. Elektronisk
+        form. Genom att logga till webbplatsen eller bli en användare accepterar du
+        att ge dig den elektroniska avtal. c. Pappersform. Du har rätt att ta emot
+        papperskopia av detta avtal. Du kan begära pappers upplagan av detta avtal
+        före eller efter det kommer att undertecknas i elektronisk form. Vänligen
+        kontakta vår kundtjänst för mer information. d. Tillgång och nedladdning.
+        För att komma åt och ladda ner elektroniska avtal måste du ha tillgång till
+        Internet eller direkt genom enheter med tillgång till webbresurser. Du måste
+        ha nödvändig utrustning för att ansluta till Internet, nämligen dator, modem
+        eller annan infart. Vänligen skriva ut en kopia av detta avtal och hålla den.
+        För att ladda ner den elektroniska formen av avtalet, spara den till din dator
+        med hjälp av en textredigerare.
+      the_right_of_using_the_website: 2. rätten att använda webbplatsen.
+      p_2: Du måste vara minst arton (18) år gammal för att bli en registrerad användare
+        av denna webbplats. I fall av bristande överensstämmelse med kraven, kommer
+        tillgång till webbplatsen förnekas. Använda webbplatsen bör användaren vara
+        medveten om att personlig information som publiceras på webbplatsen kan vara
+        tillgängliga för andra Internetanvändare, och bolaget inte bära ansvaret för
+        sina handlingar. Genom att använda denna webbplats du hävda och garanterar
+        att du har rätt, auktoritet och möjlighet att ingå detta avtal och samtycke
+        till att följa alla dess villkor. Att bli en användare du hävda och garanterar
+        att du aldrig har lidit dom för brott med anknytning till sexuellt våld. Webbplatsen
+        är endast avsedd för personligt bruk. Det är förbjudet att använda webbplatsen
+        i kommersiellt syfte. Juridiska personer kan inte vara Användare av denna
+        webbplats, liksom kan inte använda den här tjänsten eller webbsajten på sina
+        syften. Olaglig och / eller obehörig användning av av webbplatsen, inklusive
+        insamling användarnamn och / eller e-postadresser från hjälp av elektroniska
+        eller andra verktyg i syfte att skicka oönskade meddelanden och länkar bedrivs
+        och bolaget kan vidta lämpliga åtgärder enligt lag, inklusive en vädjan till
+        de brottsbekämpande myndigheterna.
+      pricing_and_registration: 3. PRISSÄTTNING OCH REGISTRERING
+      p_3: Du kan bli användare av Flutylove på fri vilja och utan kostnad grund genom
+        att registrera på webbplatsen. Som användare kan du använda särskilda utbud
+        av tjänster och möjligheter webbplatsen. Användaren av webbplatsen är en individ
+        registrerats på webbplatsen enligt etablerade ordningen och som har nått 18
+        års ålder. Vid registrering på webbplatsen användaren är skyldig att ge nödvändig
+        och relevant information för bolaget att slutföra användarsidan, inklusive
+        inloggning (e-postadress eller telefonnummer) och lösenord för tillgång till
+        webbplatsen, liksom namnet, som är unika för varje användare. Blanketten för
+        registrering kan begära ytterligare information från användaren. Användaren
+        är ansvarig för giltighet, aktualitet, fullständighet och överensstämmelse
+        med lagen i Ryska federationen av de uppgifter som lämnats vid registreringen,
+        och tydlighet från krav från tredje part. När du registrerar användar överens
+        med detta avtal och genomföra särskilda rättigheter och skyldigheter, i samband
+        med att använda och fungerar webbplatsen. Användaren får tillgång till den
+        med hjälp av webbplatsen fungerar. Företaget åtar sig rättigheter och skyldigheter
+        för användaren, som anges i dessa föreskrifter, efter en framgångsrik registrering
+        av användare på webbplatsen Användarpersonuppgifter görs enligt lagen om Ryska
+        federationen. Webbplatsen Verket behandlar Användarpersonuppgifter i syfte
+        att förse användaren med en tillgång till användning av webbplatsen fungerar,
+        inklusive att ta emot personlig (riktade) reklam; verifiering, forskning och
+        analys av dessa uppgifter, gör det möjligt att stödja och förbättra de funktioner
+        och delar av webbplatsen, samt utveckla nya funktioner och sektioner. Bolaget
+        vidtar alla nödvändiga åtgärder för att skydda personuppgifter användaren
+        mot obehörig åtkomst, ändring, utlämnande eller radering. Företaget ger tillgång
+        till personuppgifter om användaren endast till de anställda, underleverantörer
+        och agenter i bolaget, som behöver denna information för att stödja webbplatsen
+        funktionalitet och att ge användaren tillgång till att använda. Företaget
+        av webbplatsen har rätt att använda den information som tillhandahålls av
+        användaren, inklusive personuppgifter, i syfte att säkerställa överensstämmelse
+        med kraven i gällande lagstiftning i Ryska federationen (inklusive förebyggande
+        och / eller undertryckande av olagliga och / eller olagligt åtgärder av användare).
+        Utlämnande av information som lämnats av användaren kan endast göras i enlighet
+        med gällande lagstiftning i Ryska federationen på begäran av domstol, brottsbekämpande
+        organ, liksom i andra fall som anges av tillämplig lag i Ryssland. I den utsträckning
+        som bolaget behandlar personuppgifter om användaren för att utföra dessa föreskrifter
+        är användarens samtycke till behandling av personuppgifter krävs inte i enlighet
+        med bestämmelserna i lagen om personuppgifter. Inloggnings och lösenord som
+        valts av användaren nödvändig och tillräcklig information för användaren tillgång
+        till webbplatsen. Användaren har rätt att ge hans / hennes användarnamn och
+        lösenord till tredje part, och är helt ansvarig för sin säkerhet, att välja
+        sätt att lagra dem på ett oberoende sätt. Genom att använda hans / hennes
+        hårdvara och mjukvara Användaren kan tillåta lagring av inloggningsnamn och
+        lösenord (via cookies) för efterföljande automatisk auktorisering på webbplatsen.
+        Alla åtgärder som vidtas med hjälp av användarens användarnamn och lösenord
+        är att betrakta som begås av användaren, såvida inte motsatsen bevisas av
+        användaren. Användaren är skyldig att omedelbart underrätta bolaget i enlighet
+        med det fastställda förfarandet vid obehörig åtkomst till användarnamn och
+        lösenord och / eller kontosida, eller avslöjande av inloggningsnamn och lösenord.
+        Efter registrering Användaren vinner rätten att skapa, använda och bestämma
+        innehållet i hans / hennes egna personliga sidor på egennyttiga och icke-kommersiella
+        ändamål, samt får möjlighet att komma åt och publicera information om de personliga
+        sidor för andra användare . Användaren som ägare av den information som publiceras
+        på personliga sida är medveten om att med undantag för de fall som fastställts
+        av dessa förordningar och den nuvarande lagstiftningen i Ryska federationen,
+        har företaget inte delta i utvecklingen och användning av innehåll och inte
+        kontrollerar tillgång till användarens sida från andra användare.
+      terms_4: 4. VILLKOR.
+      p_4: Detta avtal förblir fullt i kraft och verkan så länge du använder webbplatsen.
+        Du kan sluta vara Användaren av webbplatsen genom att ta bort din sida när
+        som helst, av någon anledning, genom att kontakta vår online kundservice eller
+        genom att använda tjänsten av webbplatsen. Bolaget förbehåller sig rätten
+        att ta bort din personliga sida när som helst. Vi är inte skyldiga att meddela
+        dig innan du tar bort den sidan, om bolaget har anledning att tro att du har
+        brutit mot villkoren i avtalet. Vi är inte skyldiga att offentliggöra anledningen
+        till att radera ditt konto; i vissa fall utlämnande av sådan information kan
+        förbjudas. Efter radering av din sida, alla villkor som kan gälla efter avslutandet
+        av detta avtal till sin natur kommer att vara i kraft efter en sådan uppsägning.
+        Om du tar bort din sida via webbplatsen på egen vilja, kan vi be dig att ange
+        orsaken till sådan radering.
+      account_security: 5. kontosäkerheten.
+      p_5: Du är ansvarig för sekretess bevarandet av ditt användarnamn och lösenord,
+        som kommer att fastställas i samband med registreringen. Dessutom är du helt
+        ansvarig för alla åtgärder som sker under ditt användarnamn och lösenord.
+        Du samtycker till att (a) omedelbart meddela oss om eventuell otillåten användning
+        av ditt användarnamn och lösenord, liksom varje annan säkerhetsöverträdelse,
+        och (b) utträde från ditt konto i slutet av varje session. Webbplatsen är
+        inte ansvarig för eventuella skador eller förluster till följd av bristande
+        efterlevnad av denna bestämmelse. Du bör vara särskilt försiktig när du öppnar
+        ditt konto via en offentlig dator för att obehöriga inte kan spionera eller
+        spela ditt lösenord eller någon annan personlig information. Du bekräftar
+        också och är överens om att internet var aldrig helt privat och säker. Du
+        förstår att alla meddelanden eller information som du lägger upp på webbplatsen
+        kan läsas eller användas av andra användare, även om det finns en särskild
+        varning att informationen är dold.
+      your_interaction_with_other_users_of_the_website: 6. din interaktion med andra
+        användare av webbplatsen.
+      p_6: en. DU ÄR ENSAMT ANSVARIG FÖR din interaktion med andra användare. Bör
+        du förstå att företaget inte verifiera sina användare på om de har ett kriminalregister.
+        Företaget har också inte begär information om tidigare AV DERAS användarna
+        och inte godkänna detta INFORMATION. FÖRETAGET GARANTERAR INTE OM användarnas
+        beteende och deras förenlighet med den faktiska eller framtida användare.
+        SAMTIDIGT Företaget förbehåller sig rätten att kontrollera användarna för
+        kriminellt förflutet eller utföra andra KONTROLL när som helst med TILLGÄNGLIG
+        INFORMATION TILL ALLMÄNHETEN. b. I några fall BOLAGET ÄR INTE ANSVARIG FÖR
+        NÅGRA SKADOR oavsett om de är direkta, indirekta, GENERAL eller har en särskild
+        karaktär, utjämnings OCH / ELLER TILLFÄLLIGA, SOM DU ELLER ANDRA INDIVIDER
+        SOM ETT RESULTAT AV ANVÄNDNING AV webbplatsen, inklusive, MEN INTE BEGRÄNSAT
+        TILL, fysiska skador, stress och / ELLER ANDRA SKADOR, SOM DU SOM ETT RESULTAT
+        AV KOMMUNIKATION ELLER möten med andra registrerade användare av webbplatsen
+        eller folk, som du handskas med på webbplatsen. DU överens om att vidta alla
+        tänkbara försiktighetsåtgärder när du kommunicerar med andra användare, särskilt
+        i de fall, när du väljer att möta dem i verkliga livet. Du bör vara medveten,
+        vad företaget inte ger en deklarerad eller FÖRSTÅDDA GARANTIER ANGÅENDE förenlighet
+        med den användare av denna webbplats. DU SKA INTE GE finansiell information
+        till andra användare av webbplatsen (till exempel information om dina kredit-
+        eller plastkort). c. Tjänsten kan översätta ditt namn eller namnet på din
+        stad till andra språk; d. Tjänsten är inte ansvarig för de åtgärder som anges
+        i denna artikel. I fall du inte håller med dem helt eller delvis, ska du omedelbart
+        lämna webbplatsen;
+      the_information_posted_by_you_on_flutylove: 7. Den information som läggs DU
+        PÅ FLUTYLOVE
+      p_7: en. Du är ensam ansvarig för den information som du publicerar eller visar
+        (hädanefter "post") på tjänsten eller överföra till andra användare. Det är
+        inte tillåtet att lägga på tjänsten eller överföra till andra användare någon
+        information om kränkande, felaktiga, kränkande, obscent, vulgärt och aggressiv
+        innehåll, information om sexuellt innehåll, liksom hotande eller stalking,
+        information om rasdiskriminering natur eller olaglig information, eller annan
+        information som gör intrång eller kränker rättigheterna för någon annan part
+        (inklusive, utan begränsning, immateriella rättigheter, rätten till privatliv
+        och publicitet). Det är inte tillåtet att ge felaktig, vilseledande eller
+        falsk information till bolaget eller någon annan användare. Om den information
+        som företaget Flutylove eller annan användare därefter blir felaktiga, vilseledande
+        av falska, måste du omedelbart informera företaget Flutylove sådan förändring.
+        Du skickar och garanterar att all information som lämnas vid registreringen
+        är korrekt och sant, och du omedelbart ändra information som senare blir felaktiga,
+        vilseledande eller falsk. b. Du förstår och accepterar att vi förbehåller
+        oss rätten, men inte skyldighet att övervaka den information eller innehåll
+        som överförs till tjänsten eller publiceras i allmänhetens tillgång på tjänsten.
+        Vi har rätt att ta bort någon av sådan information eller innehåll utan att
+        ange några skäl och anmälan. c. Alla objekt som visas på webbplatsen, inklusive
+        designelement, text, grafik, illustrationer, videor, skript, program, musik,
+        ljud och andra föremål och deras bibliotek (nedan - Information), tillhör
+        exklusiva rättigheter i bolaget, Användare av Webbplatsen och andra rättighetsinnehavare,
+        alla rättigheter till dessa objekt skyddas. d. Förutom vad som fastställts
+        i enlighet med detta avtal, samt den nuvarande lagstiftningen i Ryssland,
+        får ingen information kopieras (återges), bearbetas, distribueras, visas i
+        en ram, publiceras, hämtas, överföras, säljas eller användas på annat sätt
+        i hela eller i bitar utan tillåtelse av innehavaren, om inte rättighetsinnehavaren
+        uttryckligen samtyckt till fri användning av informations av någon individ.
+        e. Genom att lägga upp informationen på webbplatsen som lagligen tillhör Användaren,
+        ger användaren tillgång till andra användare för icke-exklusiv rätt att använda
+        den genom att visa, uppspelning (inklusive kopiering) och andra rättigheter
+        uteslutande i syfte att personligt icke-kommersiellt bruk, såvida inte de
+        fall då sådan användning medför eller kan skada intressen rättsinnehavaren
+        skyddade enligt lag. f. Använda av informations av användaren, vilken tillgång
+        vanns enbart för personligt icke-kommersiellt användning är tillåten på villkor
+        att alla tecken på författarskap (upphovsrätt) eller andra meddelanden av
+        författarskap kommer att hållas, namnet på författaren och dess produkt kommer
+        att lämnas utan förändring. g. Användaren ger också bolaget med en icke-exklusiv
+        rätt att använda information som publiceras på webbplatsen och som tillhör
+        honom / henne lagligen utan hänsyn för att säkerställa en fungerande webbplats
+        bolaget inom utförandet av arkitektur och funktionalitet hemsidan. Den icke-exklusiv
+        rätt som avses ovan beviljas för innehålls placering på hemsidan och sträcker
+        sig över de länder över hela världen. Bolaget har rätt att överföra de rättigheter
+        som avses denna punkt till tredje part. Användaren samtycker till att bolaget
+        har rätt att använda de funktionella och tekniska alternativ för webbplatsen,
+        vilket ger visning av Fildelning av användaren, inklusive de syften som visning
+        av reklam information. Hej. Om användaren raderar information från webbplatsen,
+        kommer icke-exklusiv rätt automatiskt återkallas, men på grund av de tekniska
+        specifikationerna för webbplatsen Bolaget förbehåller sig rätten att spara
+        säkerhetskopior av informations inom den tid som krävs och där så krävs. jag.
+        Bortsett från den privata information, har användaren ingen rätt att överföra
+        eller avslöja på olika sätt (genom att publicera på hemsidan) informations
+        andra platser, databaser och andra immateriella rättigheter i frånvaro av
+        uttryckt uttryckligen samtycke till sådana åtgärder från upphovsrätts ägare.
+        j. Om inte annat noteras i dessa föreskrifter, kan vad som helst i dessa förordningar
+        inte betraktas som en överlåtelse av exklusiva rättigheter till informations.
+        k. All information som du publicerar på din användarprofil, måste vara korrekt,
+        up-to-date och komplett. Användaren är helt ensam ansvarig för all information
+        som laddades upp eller beskrivs på olika sätt (publiceras) på webbplatsen
+        eller med hjälp av användaren. Användaren har inte rätt att överföra, överföra
+        eller publicera innehåll på webbplatsen, om han / hon inte har tillräckliga
+        rättigheter att vidta sådana åtgärder, förvärvat eller delegerats till honom
+        / henne i enlighet med lagstiftningen i den ryska federationen. Företaget
+        kan, men är inte skyldig att surfa på webbplatsen för något olagligt innehåll
+        och får ta bort eller flytta (utan förvarning) Innehåll eller användare i
+        eget gottfinnande, av någon anledning eller utan orsaker, inklusive, utan
+        begränsning för att flytta, eller ta bort information som, enligt individuell
+        enligt bolagets bedömning bryter mot detta avtal, lagstiftningen i Ryssland
+        och / eller kan kränka rättigheter, skada eller äventyra säkerheten för andra
+        användare eller tredje part. Webbplatsen innehåller (eller kan innehålla)
+        länkar till andra webbplatser på Internet (hemsidor från tredje part) samt
+        artiklar, fotografier, illustrationer, grafik, musik, ljud, video, information,
+        applikationer, program och annan information som tillhör eller kommer från
+        tredje part (tredjepartsinnehåll), vilket är ett resultat av intellektuell
+        verksamhet och skyddas i enlighet med lagstiftningen i den ryska federationen.
+        Dessa tredje parter och deras uppgifter inte kontrolleras av bolaget för efterlevnaden
+        av detta eller andra krav (noggrannhet, fullständighet, ärlighet, etc.). Företaget
+        är inte ansvarig för innehållet publiceras på webbplatser från tredje part
+        som användaren får tillgång via webbplatsen eller genom information från tredje
+        part, inklusive, men inte begränsat till yttranden eller uttalanden som uttrycks
+        på tredjeparts webbplatser eller i sin information. Länken till en webbplats,
+        produkt och service, är all information av kommersiell och icke-kommersiell
+        natur som finns på denna webbplats inte ett godkännande eller rekommendation
+        för dessa produkter (tjänster) från bolaget. Om användaren bestämmer sig för
+        att lämna webbplatsen och gå till webbplatserna för tredje part eller att
+        använda eller installera program från tredje part, gör han / hon det på egen
+        risk och från den stunden dessa förordningar inte längre tillämpas på användaren.
+        Ytterligare användaråtgärder styrs av gällande regler och strategier, inklusive
+        affärsmetoder av de personer vars Information han / hon kommer att använda.
+      forbidden_actions: 8. FÖRBJUDNA åtgärder.
+      p_8: en. Det är förbjudet att "hålla ett vakande öga på" eller störa någon person
+        på annat sätt. b. Det är förbjudet att använda robotar, virus, program för
+        att söka / extrakt platser, eller andra manuella eller automatiska anordningar
+        eller processer för att extrahera, index, "spioneri" eller reproducera på
+        annat sätt eller kringgå navigeringsstruktur och visning av tjänsten eller
+        dess innehåll . c. Det är förbjudet att publicera, distribuera eller reproducera
+        everyway någon copyrightskyddad information, varumärken eller annan information
+        som skyddas av upphovsrätt utan medgivande från upphovsrättsinnehavaren. d.
+        Det är förbjudet att ta bort någon upphovsrätt, varumärken eller andra upphovsrättsmeddelanden
+        som finns på tjänsten. e. Det är förbjudet att blanda sig i eller störa driften
+        av tjänsten och webbplatsen eller tjänster och nätverk som är anslutna till
+        tjänsten eller webbsajten. f. Det är förbjudet att publicera, e-post eller
+        överföring på olika sätt all information som innehåller virus eller annan
+        datakod, filer eller program som är utformade för att störa, förstöra eller
+        begränsa funktionaliteten av någon programvara, hårdvara eller telekommunikationsutrustning.
+        g. Det är förbjudet att förfalska rubriker eller manipulera beteckningen för
+        att dölja den verkliga innebörden av den information som delas via tjänsten.
+        h. Det är förbjudet att "gå" eller "kopia" någon del av tjänsten eller webbsajten
+        utan skriftligt tillstånd från Flutylove. Dessutom kan du inte använda metataggar
+        eller koder eller något annat som innehåller länkar till Flutylove, tjänsten
+        eller webbplatsen för att omdirigera en person till en annan plats för något
+        ändamål. jag. Det är förbjudet att modifiera, anpassa, licensiera, översätta,
+        sälja, omstrukturera, dechiffrera, dekompilera eller demontera någon del av
+        tjänsten eller webbsajten, eller någon programvara som används på webbplatsen
+        eller för det, liksom uppmuntrar andra att vidta liknande åtgärder . j. Det
+        är förbjudet att publicera någon information med pornografiskt och / eller
+        erotiska innehåll.
+      the_changes_in_the_service: 9. FÖRÄNDRINGAR i tjänsten.
+      p_9: Flutylove förbehåller sig rätten att när som helst ändra eller inaktivera
+        tillfälligt eller permanent tjänsten (eller någon det är en del) utan förvarning.
+        Du samtycker till att Flutylove är inte ansvarig gentemot dig eller någon
+        tredje part för eventuella ändringar, tillfälligt tillgänglighet eller fullständig
+        inaktivering av tjänsten.
+      ip_address_blocking: 10. IP-ADRESS blockering.
+      p_10: För att skydda integriteten av webbplatsen, Flutylove förbehåller sig
+        rätten att när som helst på sin egen bekvämlighet för att blockera IP-adresser
+        för vissa användare.
+      relations_between_users_online: 11. RELATIONER MELLAN ANVÄNDARE ONLINE
+      p_11: Du är ensam ansvarig för dina interaktioner med andra användare av Flutylove.
+        Flutylove förbehåller sig rätten, men inte skyldigheten, att övervaka tvister
+        mellan dig och andra användare.
+      security_and_communication: 12. SÄKERHET OCH KOMMUNIKATION.
+      p_12: Använda av webbplatsen och / eller tjänsten styrs också av vår sekretesspolicy.
+        När du blir en användare, accepterar du och samtycke att ta emot e-post från
+        oss. Dessa e-postmeddelanden kan representera anmälningar om verksamheten
+        eller andra meddelanden i samband med tjänsten, t.ex. administrativa meddelanden
+        och officiella tillkännagivanden om förändringar, eller e-post som innehåller
+        kommersiella erbjudanden, reklammaterial, specialerbjudanden från oss, eller
+        information om de åtgärder som andra användare om din användarkonto. Läs vår
+        sekretesspolicy för att veta mer om sådana anmälningar.
+      denial_of_responsibility: 13. FÖRNEKANDE ansvar.
+      p_13: en. Flutylove är inte ansvarig för något som helst felaktigt eller oriktigt
+        information som publiceras på webbplatsen eller i samband med tjänsten, användare
+        av webbplatsen eller någon hårdvara eller mjukvara i samband med vår service
+        eller används där. Flutylove är inte ansvarig för beteendet, både online och
+        offline, av någon användare av webbplatsen. Flutylove inte ta ansvar för eventuella
+        fel, utelämnanden, avbrott, radering, skador eller försening i drift eller
+        verksamhet, kommunikationslinje, stöld eller förstörelse, obehörig åtkomst
+        eller ändring av kommunikationslinjer hos användaren. Flutylove är inte ansvarig
+        för eventuella problem eller tekniska fel på telefonnätverk eller linjer,
+        dator online-system, servrar eller leverantörer, datorutrustning, mjukvara,
+        e-post eller spelare fel i användarkontot, tekniska problem eller trängsel
+        på Internet eller på någon hemsida eller dess kombination, inklusive olyckor
+        eller skador på användare eller tredje part i samband med en dator, eller
+        som ett resultat av deltagande i eller nedladdning av information relaterad
+        till nätverket och / eller tjänsten. Under inga omständigheter Flutylove bolaget
+        eller något av dess dotterbolag, reklammedel, grundare eller distributionspartners
+        kommer inte ansvar för förlust eller skada, inklusive personskada eller dödsfall,
+        på grund av att använda av webbplatsen eller tjänsten, Innehåll publiceras
+        på webbplatsen eller någon interaktion mellan användare av webbplatsen, både
+        online och offline. Webbplatsen och tjänsten tillhandahålls på en AS IS basis,
+        och Flutylove frånsäger sig alla garantier eller lämplighet för ett visst
+        ändamål, eller avsaknad av brott mot någons rättigheter. Flutylove kan inte
+        garantera och lovar inte några specifika resultat från användning av av webbplatsen
+        och / eller tjänsten.
+      links: 14. länkar.
+      p_14: en. Flutylove är inte ansvarig för något som helst felaktigt eller oriktigt
+        information som publiceras på webbplatsen eller i samband med tjänsten, användare
+        av webbplatsen eller någon hårdvara eller mjukvara i samband med vår service
+        eller används där. Flutylove är inte ansvarig för beteendet, både online och
+        offline, av någon användare av webbplatsen. Flutylove inte ta ansvar för eventuella
+        fel, utelämnanden, avbrott, radering, skador eller försening i drift eller
+        verksamhet, kommunikationslinje, stöld eller förstörelse, obehörig åtkomst
+        eller ändring av kommunikationslinjer hos användaren. Flutylove är inte ansvarig
+        för eventuella problem eller tekniska fel på telefonnätverk eller linjer,
+        dator online-system, servrar eller leverantörer, datorutrustning, mjukvara,
+        e-post eller spelare fel i användarkontot, tekniska problem eller trängsel
+        på Internet eller på någon hemsida eller dess kombination, inklusive olyckor
+        eller skador på användare eller tredje part i samband med en dator, eller
+        som ett resultat av deltagande i eller nedladdning av information relaterad
+        till nätverket och / eller tjänsten. Under inga omständigheter Flutylove bolaget
+        eller något av dess dotterbolag, reklammedel, grundare eller distributionspartners
+        kommer inte ansvar för förlust eller skada, inklusive personskada eller dödsfall,
+        på grund av att använda av webbplatsen eller tjänsten, Innehåll publiceras
+        på webbplatsen eller någon interaktion mellan användare av webbplatsen, både
+        online och offline. Webbplatsen och tjänsten tillhandahålls på en AS IS basis,
+        och Flutylove frånsäger sig alla garantier eller lämplighet för ett visst
+        ändamål, eller avsaknad av brott mot någons rättigheter. Flutylove kan inte
+        garantera och lovar inte några specifika resultat från användning av av webbplatsen
+        och / eller tjänsten.
+      limitation_of_responsibility: 15. BEGRÄNSNING AV ANSVAR.
+      p_15: webbplatsen och dess funktioner inklusive alla skript, applikationer,
+        innehåll och utformning av hemsida tillhandahålls PÅ EN SOM ÄR GRUND. Företaget
+        avsäger NÅGON GARANTI ATT webbplatsen eller dess funktioner kan lämplig eller
+        olämplig för ett visst syfte. Bolaget kan inte garantera och lovar inte några
+        specifika resultat från ANVÄNDNING av webbplatsen och / eller dess funktioner;
+        För att undvika missförstånd, BÖR användaren följa SÄKERHETSFÖRESKRIFTER När
+        du hämtar från webbplatsen eller GENOM den utsända LÄNKAR, och använda av
+        filer, samt programvara. FÖRETAGET starkt rekommenderat att använda bara licensierade
+        programvara samt antivirusprogram; Genom att använda webbplatsen, ANVÄNDAREN
+        GODKÄNNER ATT nedladdningar från, eller med dess hjälp innehållet HIS / HER
+        egen risk och ensam ansvarig för EVENTUELLA RESULTAT AV ANVÄNDNING AV DENNA
+        INFORMATION, INKLUSIVE SKADOR att det kan låter användarens dator eller tredje
+        PARTERNA, förlust av data, eller några andra skador; UNDER INGA OMSTÄNDIGHETER
+        PÅ eller dess ombud tar inget ansvar för användaren eller TILL NÅGON TREDJE
+        PART FÖR NÅGRA INDIREKTA, OAVSIKTLIGA OCH UNWILFUL SKADOR, INKLUSIVE FÖRLUST
+        AV NYTTA ELLER FÖRLORADE DATA, SKADOR PÅ ÄRA, värdighet eller affärsrykte
+        TILL FÖLJD AV användning av webbplatsen, dESS INNEHÅLL ELLER NÅGON ANNAN INFORMATION
+        SOM DU ELLER NÅGON ANNAN PERSON fick tillgång via hemsidan, även om företaget
+        varnad eller anger möjligheten till sådana skador.
+      responsibilities_of_the_parties: 16. ANSVAR av parterna.
+      p_16: Detta avtal styrs av och tolkas i enlighet med lagstiftningen i den ryska
+        federationen. Frågor som inte regleras av avtalet skall avgöras i enlighet
+        med lagstiftningen i den ryska federationen. I händelse av tvist eller kontroverser
+        i samband med genomförandet av dessa förordningar, kommer användaren och företaget
+        göra allt för att lösa dem genom förhandlingar. Vid tvister inte kommer att
+        lösas genom förhandlingar, skall tvisterna lösas i enlighet med gällande lagstiftning
+        i Ryska federationen. Detta avtal genomförs i ryska språket och kan ges till
+        användaren för granskning på ett annat språk. Vid avvikelse från den version
+        av förordningarna i ryska språket och dess version på ett annat språk, skall
+        version på ryska av bestämmelserna i denna förordning tillämpas. Om en eller
+        annan anledning, kommer en eller flera bestämmelser i dessa förordningar ogiltigförklaras
+        eller annulleras detta inte påverka giltigheten eller verkställbarheten av
+        återstående bestämmelser.
+      other_provisions_and_changes: 17. Övriga avsättningar och förändringar.
+      p_17: Detta avtal är den sanna avtalet mellan dig och Flutylove om att använda
+        av webbplatsen och / eller tjänsten. Om någon bestämmelse i detta avtal tomrum
+        förblir resten av avtalet sin giltighet i full effekt. Detta avtal kan ändras
+        genom Flutylove när som helst. Tveka inte att kontakta oss med frågor angående
+        detta avtal.
+      read_this: JAG HAR LÄST DETTA AVTAL och godkänner alla dess villkor.
+    about:
+      about_flutylove: Om Flutylove
+      about_flutylove_text: Flutylove är den internationella sociala underhållning
+        nätverk för dateringar. Här kan du hitta vänner, en själsfrände, partner eller
+        bara tillbringa din tid med att njuta av att spela spel eller titta på video
+        / bilder.
+      flutylove_features: 'När du registrerar dig på vår webbplats kan du ta reda
+        på många funktioner såsom:'
+      video_call_feature: Du kan chatta med partner med webbkamera
+      extended_search: Du kan använda utökad sökning gratis
+      multilanguages: Du kan söka partner från andra länder, eftersom vår service
+        förväntas användas av många olika människor från andra länder, eftersom det
+        översätts mer än 70 språk
+      play_games_chatting_etc: Du kan chatta med andra människor, spela spel och göra
+        en annan sociala foder
+      we_are_in_social_networks: 'Vi är i sociala nätverk:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Vi använder höga tekniker och bibliotek
+        med öppen källkod. Vi försöker alltid att bli bättre och förbättra vår service.
+      partners_and_investors: Vi öppnas för partnerskap och vi vill hitta investerare.
+        Om du vill samarbeta med oss ​​kontakta oss på partnership@flutylove.com
+    faq:
+      faq: FAQ
+      what_is_flutylove: Vad är Flutylove?
+      about_flutylove: Flutylove är den internationella sociala underhållning nätverk
+        för dateringar. Här kan du hitta vänner, en själsfrände, partner eller bara
+        tillbringa din tid med att njuta av att spela spel eller titta på video /
+        bilder.
+      what_features_has_flutylove: Vilka funktioner har Flutylove?
+      flutylove_features: Här kan du chatta med videocams använda utökad sökning,
+        sökpartner från andra länder, spela spel och göra andra sociala foder.
+      i_have_some_requests: Jag har några förfrågningar
+      you_can_write_request: Du kan registrera dig och skriva det
+      here: här
+      i_have_seen_some_typo_or_wrong_translation: Jag har sett några stavfel eller
+        fel översättning
+      you_can_send_pull_request_to_our: Du kan skicka en Pull förfrågan till vår
+      github_repository: github förvaret
+      i_have_seen_some_error: Jag har sett några fel
+      you_can_send: Du kan skicka oss feedback genom
+      feedback: denna form
+      to_us_or_write_to_our_info_mail: eller skriva e-post till support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Välkommen till Flutylove
+      you_have_successfully_signed_up_to_flutylove: Du har anslutit sig till Flutylove
+      you_can_sign_in_with_your_social_networks: Om du vill logga in igen kan du logga
+        in med ditt sociala nätverkskonto
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Om
+        du vill logga in med e-post och lösenord som du kan ändra lösenord genom logga
+        ut och klicka för att länka nedan
+      change_password: Ändra lösenord
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: felaktig
+            search_for:
+              search_for_error: felaktig
+            birth_date:
+              birth_date_error: måste vara större än 18 och mindre än 115
+            interests:
+              interests_error: måste vara mindre än 2000 symboler
+            jobs:
+              jobs_error: måste vara mindre än 2000 symboler
+            languages:
+              languages_error: måste vara mindre än 2000 symboler
+            sex_keywords:
+              sex_keywords_error: måste vara mindre än 2000 symboler
+            my_turn_ons:
+              my_turn_ons_error_error: felaktig
+            contacts:
+              contacts_length_error: måste vara mindre än 2000 symboler
+              contacts_size_error: måste vara mindre än 21 kontakter
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: har ogiltigt värde
+  devise:
+    confirmations:
+      confirmed: Ditt konto har bekräftats.
+      send_instructions: Du kommer att få ett e-postmeddelande med instruktioner om
+        hur att bekräfta ditt konto inom några minuter.
+      send_paranoid_instructions: Om din e-postadress finns i vår databas, kommer
+        du att få ett e-postmeddelande med instruktioner om hur att bekräfta ditt
+        konto inom några minuter.
+      new:
+        send_mail_for_confirm_your_email: Skicka e-post för att bekräfta din e-post
+        submit: Submit
+    failure:
+      already_authenticated: Du redan är inloggad.
+      inactive: Ditt konto är ännu inte aktiverad.
+      invalid: Ogiltig e-post eller lösenord.
+      locked: Ditt konto är låst.
+      last_attempt: Du har ett försök innan ditt konto kommer att låsas.
+      not_found_in_database: Ogiltig e-post eller lösenord.
+      timeout: Din session gått ut. Du måste logga in igen för att fortsätta.
+      unauthenticated: Du måste logga in eller registrera dig innan du fortsätter.
+      unconfirmed: Du måste bekräfta ditt konto innan du fortsätter.
+    mailer:
+      confirmation_instructions:
+        subject: Bekräftelse instruktioner
+        welcome_to_flutylove: Välkommen till Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Du kan bekräfta
+          din e-post via länken nedan
+        confirm_my_account: Bekräfta min E
+      reset_password_instructions:
+        hello: Hej
+        subject: återställning av lösenord instruktioner
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Någon
+          begäran en länk för att ändra ditt lösenord. Du kan göra detta via länken
+          nedan.
+        change_my_password: Ändra mitt lösenord
+        if_you_didnt_request_this_please_ignore_this_email: Om du inte har begärt
+          detta vänligen ignorera det här meddelandet.
+      unlock_instructions:
+        subject: Lås upp Instruktioner
+    omniauth_callbacks:
+      failure: Det gick inte att autentisera dig från% {slag} eftersom "% {reason}".
+      success: framgångsrikt autentiseras från% {slag} konto.
+    passwords:
+      no_token: Du kan inte komma åt den här sidan utan att komma från en återställning
+        av lösenord. Om du kommer från en återställning av lösenord, se till att du
+        har använt den fullständiga webbadressen.
+      send_instructions: Du kommer att få ett e-postmeddelande med instruktioner om
+        hur du återställer ditt lösenord inom några minuter.
+      send_paranoid_instructions: Om din e-postadress finns i vår databas, kommer
+        du att få en återställning av lösenord länk till din e-postadress i ett par
+        minuter.
+      updated: Ditt lösenord ändrats. Du är nu inloggad.
+      updated_not_active: Ditt lösenord ändrats.
+      new:
+        forgot_your_password: återställa ditt lösenord
+        reset_password: Sänd återvinna url
+      edit:
+        change_your_password: Ändra ditt lösenord
+        new_password: Nytt lösenord
+        confirm_password: Bekräfta lösenord
+        change_password: Förändring
+    registrations:
+      destroyed: Bye! Ditt konto avslutat. Vi hoppas att se dig snart igen.
+      signed_up: Välkommen! Du har registrerat dig framgångsrikt.
+      signed_up_but_inactive: Du har registrerat dig framgångsrikt. Men vi kunde inte
+        logga in dig eftersom ditt konto ännu inte är aktiverad.
+      signed_up_but_locked: Du har registrerat dig framgångsrikt. Men vi kunde inte
+        logga in dig eftersom ditt konto är låst.
+      signed_up_but_unconfirmed: Ett meddelande med en bekräftelselänk har skickats
+        till din e-postadress. Vänligen öppna länken för att aktivera ditt konto.
+      update_needs_confirmation: Du uppdaterade ditt konto framgångsrikt, men vi måste
+        verifiera din nya e-postadress. Kontrollera din e-post och klicka på bekräfta
+        länken för att slutföra bekräfta din nya e-postadress.
+      updated: Du uppdaterade ditt konto framgångsrikt.
+      new:
+        sign_up: Registrera dig
+        name: Namn
+        password: Lösenord
+        register: Registrera dig
+    shared:
+      links:
+        sign_in: Logga in
+        sign_up: Registrera dig
+        didnt_receive_confirmation_instructions: Inte fått bekräftelse instruktioner?
+        sign_in_with: Logga in med
+        fast_login_almost_one_click: Snabb inloggning (nästan ett klick)
+    sessions:
+      signed_in: Signed framgångsrikt.
+      signed_out: Signed framgångsrikt.
+      new:
+        sign_in: Logga in
+        password: Lösenord
+        remember_me: Kom ihåg mig
+        forgot_your_password: glömt lösenordet?
+    unlocks:
+      send_instructions: Du kommer att få ett e-postmeddelande med instruktioner om
+        hur man låser ditt konto inom några minuter.
+      send_paranoid_instructions: Om kontot finns, får du ett e-postmeddelande med
+        instruktioner om hur man låser upp det på några minuter.
+      unlocked: Ditt konto har låsts upp framgångsrikt. Du måste logga in för att
+        fortsätta.
+  timezones:
+    American Samoa: Amerikanska Samoa
+    International Date Line West: internationella datumlinjen West
+    Midway Island: Nöjesgataö
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Pacific Time (USA och Kanada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain Time (USA och Kanada)
+    Central America: Centralamerika
+    Central Time (US & Canada): Central Time (USA och Kanada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Eastern Time (USA och Kanada)
+    Indiana (East): Indiana (öst)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Atlantic Time (Kanada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Grönland
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Azorerna
+    Cape Verde Is: Kap Verde.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lissabon
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrad
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Bryssel
+    Budapest: Budapest
+    Copenhagen: Köpenhamn
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Prag
+    Rome: Rom
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Wien
+    Warsaw: Warsaw
+    West Central Africa: West Centralafrika
+    Zagreb: Zagreb
+    Athens: Aten
+    Bucharest: Bukarest
+    Cairo: Kairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kaliningrad
+    Kyiv: Kiev
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Bagdad
+    Kuwait: Kuwait
+    Minsk: Minsk
+    Moscow: Moskva
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: St Petersburg
+    Volgograd: Volgograd
+    Tehran: Tehran
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Jerevan
+    Kabul: Kabul
+    Ekaterinburg: Jekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Bombay
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Katmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Beijing
+    Chongqing: Chongqing
+    Hong Kong: Hongkong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapore
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: New Caledonia
+    Solomon Is: Solomon Is.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fiji
+    Kamchatka: Kamchatka
+    Marshall Is: Marshall Is.
+    Wellington: Wellington
+    Chatham Is: Chatham är.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau är.
+  sv: sv
+  sv_iso: sv

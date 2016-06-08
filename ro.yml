@@ -1,0 +1,1758 @@
+---
+ro:
+  1_we_have_just_launched_our_service_title: Am lansat serviciul nostru!
+  common_keywords: datările, datări on-line, dragoste datări, webcam-datare, viteza
+    de dating, webcam chat matrimoniale, Ruby on Rails dating site-ul, multilanguage
+    dating site-ul
+  common_description: Cea mai avansată rețea internațională de divertisment socială
+    pentru datări "Flutylove"
+  user: Utilizator
+  user_to_search_connection: Căutare
+  video: Video
+  note: Notă
+  photo_album: Album foto
+  from: De la
+  to: Pentru
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Barbat
+  - female:
+      name: Femeie
+  - transgender:
+      name: Transgen
+  - male-female:
+      name: Masculin-Feminin
+  - double-female:
+      name: femeie dublă
+  - double-male:
+      name: de sex masculin dublă
+  orientation:
+  - heterosexual: Heterosexual
+  - homosexual: Homosexual
+  - bisexual: Bisexual
+  search_for:
+  - chatting: Chatting
+  - get_friends: Ia prieteni
+  - flirtation: Flirtation
+  - marriage: Căsătoria
+  - other: Alte
+  body_type:
+    slim: Slim
+    normal: Normal
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Single
+    in_a_relationship: Într-o relație
+    married: Casatorit
+    nothing_serious: Nimic grav
+  children:
+    dont_have: Nu au
+    dont_have_and_dont_want_to: Nu aveți și nu doresc să
+    don_t_have_but_planning: Nu au decât o planificare
+    have_enough: Have
+    have_and_planning_more: Have și planificare mai mult
+    unable_to_have_children: nu poate avea copii
+  living:
+    with_parents: Cu părinții
+    with_marriage_partner: Cu partener de căsătorie
+    alone: Alone
+    with_friends: Cu prieten (e)
+  education:
+    nothing: Nimic
+    college_technical_college: Colegiul / colegiu tehnic
+    postgraduate: Postuniversitare
+    phd_md_post_doctorate: Dr. / MD / Postdoctorantură
+  hair_color:
+    blonde: Blonde
+    dark_blond: blond negri
+    brown: Brown
+    black: negru
+    red: Red
+    gray: Gray
+    other: Alte
+  income:
+    unemployed: Șomer
+    unstable_earnings: câștigurile Instabil
+    small_stable_earnings: venituri stabile mici
+    medium_stable_earnings: venituri medii stabile
+    higher_than_average_income: mai mare decât venitul mediu
+  smoking:
+    not_smoke: Nefumător
+    not_smoke_and_detest: Nu fuma și detesta fumatul
+    smoke_in_a_social_setting: Uneori, într-un cadru social
+    smoke_occasionally: fum ocazional
+    smoke_often: fum de multe ori
+  alcohol:
+    not_drinking: Nu beau
+    drink_occalionally: băutură ocazional
+    drink_in_a_social_setting: băutură într-un cadru social
+    drink_often: Bea de multe ori
+  drugs:
+    dont_use: Nu utilizați
+    contra_drugs: droguri Contra
+    tried_out_some: încercat unele
+    light_drugs_occasionally: lumina droguri ocazional
+    regular: Regular
+  sponsor:
+    i_want_to_find_a_sponsor: Vreau să găsesc un sponsor
+    willing_to_become_a_sponsor: Dispus să devină un sponsor
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Nu caut un sponsor și
+      nu doresc să devină unul
+  category_name:
+    strategy: Strategie
+    rpg: RPG
+    3d_shooters: împușcături 3D
+    racing: Racing
+    arcade: Arcade
+    economic: Economic
+    simulators: Simulatoarele
+    logic: Logic
+    adventure: Aventura
+    board_games: Board
+    gambling: jocuri de noroc
+    news: Știri
+    communication: Comunicare
+    multimedia: Multimedia
+    drawing: desen
+    educational: Educațional
+    e_commerce: E-Commerce
+    other: Altele
+  shared:
+    header:
+      people: Oameni
+      chat: Chat
+      groups: Grupuri
+      forum: Forum
+      requests: Cereri
+      about: Despre proiect
+      help: Ajutor
+      user_applications: Aplicații
+    liked_users:
+      liked: Apreciate
+      all: Toate
+      you_have_not_liked_any_users_yet: Nu ai plăcut încă niciun utilizator
+    most_liked_users:
+      most_liked_users: utilizatori recomandate
+    installed_user_applications:
+      installed_applications: Aplicații instalate
+      all: Toate
+      you_have_not_installed_any_apps_yet: Nu ați instalat încă nicio aplicație
+    user_applications:
+      uploaded_apps: încărcate aplicații
+      all: Toate
+      you_have_not_uploaded_any_apps_yet: Nu ai încărcat încă nicio aplicație
+    right_sidebar:
+      news: știri
+      all: Toate
+      read_more: Citește mai mult
+    footer:
+      footer_text: rețea internațională de divertisment socială pentru datări "Flutylove"
+      privacy: de confidențialitate
+      terms: Termeni
+      feedback: feedback
+      abuse: Abuz
+    languages_select_modal:
+      available_languages: Limbi disponibile
+    site_map_modal:
+      faq: Întrebări frecvente
+      about: Despre
+      static_pages: pagini statice
+      common_pages: Pagini comune
+      user_pages: pagini
+      terms: Termeni
+      privacy: Confidențialitate
+      people: Oameni
+      user_applications: Aplicații
+      user_requests: Cereri
+      news: Știri
+      feedback: Feedback
+      abuse: Abuz
+      chats: Chaturi
+      photo_albums: albume foto
+      notes: Note
+    pagination_link:
+      next_page: Pagina următoare
+    user_edit_menu:
+      content: Conținut
+      profile: Profilul
+      site_settings: Setările site-ului
+      privacy: de confidențialitate
+      services: Servicii
+    activities_navigation:
+      all: Toate
+      photo_albums: albume foto
+      notes: Note
+    notifications_navigation:
+      all: Toate
+      likes: Îi place
+      friend_requests: cereri de prietenie
+      profile_views: vizualizări profil
+    user_to_friend_connections_navigation:
+      friends: Prieteni
+      friends_online: prieteni on-line
+      outcome_requests: solicitări de rezultat
+      income_requests: cereri de venituri
+    user_applications_navigation:
+      all: Toate
+      new: noi
+      popular: Populare
+      often_installed: De multe ori instalat
+      manage: Gestionați
+    user_requests_navigation:
+      all: Toate
+      popular: Populare
+      my_requests: Cererile mele
+    user_navbar_menu:
+      sign_in: Conectați-vă
+      sign_up: Inscrie-te
+    email_signature:
+      info: Info
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: Selectați Sex
+      select_orientation: Selectați orientarea
+      select_search_for: Selectați căutarea pentru
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Trebuie să vă conectați înainte de această acțiune
+      available_sign_in_methods: Tu
+    sign_up_methods:
+      usual_register_link: Înregistrare obișnuită
+      register_text: În plus% {usual_registration} vă puteți înregistra prin servicii
+        cele mai populare și rețele sociale
+    bootstrap_gallery:
+      previous: Înapoi
+      next: următor
+    user_notification_title:
+      you_liked: Ți-a plăcut de
+      wrote_message_to_you: scris mesaj pentru tine
+      viewed_your_profile: vizualizat profilul
+      liked_your_photo: Apreciate fotografia
+      liked_your_note: Apreciate nota ta
+      liked_your_request: Apreciate cererea dvs.
+      liked_your_video: Apreciate videoclipul
+      liked_your_application: Apreciate aplicația
+      requested_a_friendship: solicitat o prietenie
+  authentications:
+    authentication:
+      turn_on: Activați
+      turn_off: Dezactivați
+      turned_on: Pornit
+      turned_off: Oprit
+    index:
+      enabled_services: Servicii Enabled
+  users:
+    profile:
+      submit: Salvare
+      name: Nume
+      meet_with: Faceți cunoștință cu
+      gender: Sex
+      type_in_your_location: Tip în orașul tău
+      about_me: Câteva cuvinte despre tine (în plus față de forma de mai jos)
+      sex_keywords: Interese în sex
+      enter_your_name: Introdu numele tău
+      more_options: Mai multe
+      orientation: Orientare
+      location: Localizare
+      search_for: Caută
+      intimacy: Intimitate
+      in_age: În vârstă
+      from: din
+      to: la
+      interests: Interese
+      height: înălțime
+      weight: Greutate
+      body_type: Body tip
+      relationship: Relația
+      children: Copii
+      living: Living
+      education: Educație
+      jobs: Iov
+      income: Venituri
+      languages: Limbi
+      smoking: Fumatul
+      alcohol: alcool
+      drugs: Medicamente
+      contacts: Contacte
+      contact_value: Contact
+      save: Salvare
+      about_yourself: Despre tine
+    settings:
+      submit: Salvare
+      locale: Limbă interfață
+      change_password: Schimbare parolă
+      interface_language: Limbă interfață
+    dialog_modal:
+      send_message: Trimite mesaj
+    index:
+      users: Utilizatori
+      clear_search: căutare Goliți
+    dashboard:
+      hello: Bună ziua
+      here_some_of_your_statistics: Aici unele dintre statisticile
+      chats: Chaturi
+      notes: Note
+      photo_albums: albume foto
+    avatar:
+      photo: fotografie
+      drag_and_drop_your_file: Trageți și plasați fișierul
+      here: aici
+      or: sau
+      from_other_sites: De la alte site-uri
+      write_down_link_for_your_image: Scrieți link-ul de imaginea ta
+      url_for_image: Url pentru imagine
+      upload: Încărcare
+      from_facebook: de la Facebook
+      turn_on_facebook: Porniți pe Facebook
+      you_can_upload_your_photos_from_facebook: Puteți încărca fotografiile de pe
+        Facebook
+      from_vkontakte: De la Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Puteți încărca fotografiile din Vkontakte
+      turn_on_vkontakte: Porniți Vkontakte
+      from_instagram: De la Instagram
+      you_can_upload_your_photos_from_instagram: Puteți încărca fotografiile din Instagram
+      turn_on_instagram: Porniți pe Instagram
+      from_dropbox: De la Dropbox
+      you_can_upload_your_photos_from_dropbox: Puteți încărca fotografiile de la Dropbox
+      turn_on_dropbox: Porniți Dropbox
+      edit_photo: Editare fotografie
+      delete_photo: Șterge fotografia
+      are_you_sure: Sunteți sigur?
+    available_photos_modal:
+      available_photos: Fotografii disponibile
+    update:
+      your_password_was_successfully_changed: Parola ta a fost schimbată cu succes
+      your_profile_was_successfully_updated: Profilul tău a fost actualizat cu succes
+    edit_photo:
+      edit_photo: Editare fotografie
+      crop: Crop
+      close: Închide
+      save_changes: Salvați modificările
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: Despre mine
+      orientation: Orientare
+      meet_with: Faceți cunoștință cu
+      desirable_age: vârstă Dezirabil
+      from: din
+      to: la
+      interests: Interese
+      height: Inaltime
+      sm: sm
+      kg: kg
+      body_type: Body tip
+      relationship: Relația
+      children: copii
+      living: Condiții de viață
+      education: Educație
+      jobs: Jobs
+      income: Venituri
+      languages: limbi
+      smoking: Fumatul
+      alcohol: alcool
+      drugs: Medicamente
+      contacts: Contacte
+    user_info:
+      offline: offline
+      online: Online
+      age: Vârsta
+    loading_modal_images:
+      loading_images: Se încarcă imagini
+    password_form:
+      new_password: parolă nouă
+      confirm_new_password: Confirmă parola nouă
+      old_password: parola veche
+      change_password: Schimbare parolă
+    show:
+      all: Toate
+      notes: Note
+      view: View
+    dropbox_token_form:
+      key: cheie
+      submit: Trimite
+    contents:
+      users_which_i_like: Utilizatorii care-mi place
+      all: Toate
+      my_videos_likes: videoclipurile mele likes
+      my_photos_likes: fotografiile mele îi place
+      my_notes_likes: Notele mele îi place
+      my_user_applications_likes: Aplicațiile mele îi place
+      my_user_requests_likes: Cererile mele likes
+    more_profile_info:
+      photo_albums: albume foto
+      view_all_photo_albums: Vezi toate albumele foto
+      create_more: Creați mai multe
+      view_all_videos: Vezi toate clipurile
+      notes: Note
+      view_all_notes: Vezi toate notele
+      requirements_lists_to_partner: Cerințe liste de către partener
+      requirement: Cerința
+      view_all_requirements_lists: Vezi liste toate cerințele
+      profile_verification: Profilul de verificare
+      your_profile_is_successfully_verified: Profilul este verificată cu succes
+      create: Creați
+      you_have_not_any_requirements_lists_yet: nu te-ai cerințe încă liste
+      you_have_not_any_notes_yet: Tu încă nu note
+      you_have_not_any_photo_albums_yet: Ai încă nu albume foto
+      you_have_not_any_videos_yet: Ai încă nu e nici un film
+      your_profile_is_not_verified_yet: Profilul dvs. nu este confirmat încă
+      verify_through_twitter: Confirmați prin Twitter
+      verify_through_facebook: Confirmați prin Facebook
+      verify_through_mail_ru: Confirmați prin Mail.ru
+    privacy:
+      privacy: Confidențialitate
+  searches:
+    form:
+      location: Localizare
+      from: din
+      to: la
+      age: Vârsta
+      gender: Sex
+    form_content:
+      city: orașului
+      gender: Sex
+      age_from: Vârsta
+      to: pentru a
+      online: Online
+      verified: verificate
+      has_avatar: Are avatar
+      region: Regiune
+      more: Mai mult
+      country: Țară
+      about_me: Despre mine
+      interests: Interese
+      languages: Limbi
+      names: Nume
+      height: Înălțime
+      from: din
+      weight: Greutate
+      body_type: Body tip
+      relationship: Relație
+      education: Educație
+      orientation: Orientare
+      search_for: Caută
+      children: copii
+      living: Living
+      smoking: Fumatul
+      alcohol: alcool
+      drugs: Medicamente
+      income: Venituri
+    show:
+      users: Utilizatori
+      clear_search: căutare Goliți
+  welcome:
+    index:
+      people: Oameni
+      requests: Cereri
+      user_applications: Aplicații
+      about: Despre
+      features: Caracteristici
+      registration: Înregistrare
+      sign_in: Conectați-vă
+      welcome_main_title: Bine ai venit la Flutylove!
+      welcome_main_text: Acesta este locul unde poti gasi dragostea ta perfecta
+      find_more: Cele mai
+      about_title: Flutylove este rețeaua internațională de divertisment socială pentru
+        datări
+      about_text: Există multe caracteristici pe care le puteți folosi pentru divertisment
+        și datări!
+      find_more_features: Găsește mai multe caracteristici
+      at_our_service: Caracteristici ale serviciului nostru
+      many_languages: Multe limbi
+      text_about_many_languages: Serviciul nostru este tradus mai mult de 70 de limbi
+      check_it_out: Check it out
+      videochats: Videochats
+      text_about_videochats: Puteți discuta cu partenerul tau cu videocams
+      try_it_now: Încercați-l acum
+      search: Căutare
+      text_about_search: Puteți căuta cu mai mulți parametri și este gratuit!
+      watch_this: Uita-te la acest
+      more_features: Mai multe caracteristici
+      text_about_more_features: Puteți vizualiza clipuri video, jocuri și de a face
+        multe alte lucruri!
+      register_and_learn_more: Inregistreaza-te si afla mai multe
+      install_our_apps: Instalați aplicațiile noastre de pe platformele populare
+      register_header: Înregistrare
+  feedbacks:
+    new:
+      feedback_title: Feedback
+    form:
+      feedback_name: Numele tau
+      feedback_email: Adresa ta de email
+      close: Închide
+      send: Trimite
+      feedback_recaptcha: Recaptcha
+      cancel: Anulați
+    success:
+      success_feedback: Vă mulțumim! Noi am primit feedback-ul dumneavoastră.
+      close: Închide
+      cancel: Anulare
+      more: Trimite mai
+  abuses:
+    new:
+      abuse_title: Abuz
+    form:
+      abuse_name: Numele tau
+      abuse_email: e-mail-ul
+      abuse_title: Abuz
+      close: Închide
+      send: Trimite
+      abuse_recaptcha: Recaptcha
+      abuse_link: Link
+      cancel: Anulare
+    success:
+      success_abuse: Vă mulțumim! Noi am primit abuzul tău.
+      close: Închide
+      cancel: Anulare
+      more: Trimite mai
+  layouts:
+    welcome:
+      welcome_title: Bine ai venit la Flutylove! Cel mai avansat site-ul de dating.
+  recaptcha:
+    errors:
+      verification_failed: reCAPTCHA nu a reușit
+      recaptcha_unreachable: Recaptcha este imposibil de găsit
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Am lansat serviciul nostru!
+      we_have_just_launched_our_service_text: Azi vom lansa serviciul nostru, astfel
+        încât oricine poate
+      sign_up: Înregistrează-te
+      and_use_it: și să o folosească.
+      wishes_and_requests: Dacă aveți dorințe sau cereri, vă puteți înscrie și a scris-
+      here: aici
+      with_love: Cu dragoste,
+      flutylove_team: Flutylove Echipa
+    index:
+      all_news: Toate știrile
+      read_more: Citește mai mult
+  chats:
+    panel_head:
+      online: Online
+      offline: offline
+    pagination_link:
+      next_page: Pagina urmatoare
+    form_additions:
+      submit: Trimite
+      videochat: Videochat
+    videochat_request_link:
+      connect_to_videochat: Conectați-vă la videochat
+    modal_form:
+      send_message: Trimite mesaj
+      recipient: Destinatar
+      message: Mesaj
+      close: Închide
+      submit: Trimite
+    waiting_video_answer_button:
+      waiting_for_response: Se așteaptă răspunsul ...
+    chat_created:
+      send_message: Trimite mesaj
+      message_was_sent: Mesajul a fost trimis
+      close: Închide
+  messages:
+    pagination_link:
+      next_page: Pagina urmatoare
+  notifications:
+    user_to_friend_connection:
+      action: Acțiune
+    notification:
+      offline: offline
+      online: online
+    like:
+      action: Acțiune
+    photo_album_view:
+      action: Acțiune
+    user_view:
+      action: Acțiune
+  user_applications:
+    user_application:
+      who_uploaded: Încărcat de
+      all_uploaded_applications_by: Toate aplicațiile încărcate de către
+    form:
+      name: Nume
+      user_application_name: Nume aplicație
+      description: Descriere
+      description_text: Descriere Text
+      iframe_url: iframe adresă URL
+      upload_icon: Download icon
+      public: Public?
+      category_name: Categorie
+      create: Creați
+      edit: Edit
+    show:
+      application: Aplicație
+      return_to_uploaded_applications: Pentru a încărcat-o aplicație
+      edit_application: Editare cerere
+      return_to_all_applications: Înapoi la toate aplicațiile
+    manage:
+      installed_applications: Aplicații instalate
+      uploaded_applications: încărcate aplicații
+      all: Toate
+    index:
+      applications_uploaded_by: Aplicații încărcate de
+      return_to_all_applications: Înapoi la toate aplicațiile
+      create_new: Creați nou
+      return_to_manage_applications: Revenire pentru a gestiona aplicațiile
+    installed:
+      installed_applications: Aplicații instalate
+      return_to_all_applications: Întoarcere la toate aplicațiile
+      return_to_manage_applications: Revenire pentru a gestiona aplicațiile
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Înainte de vedere, această
+        aplicație trebuie să vă conectați mai întâi în
+    need_to_install:
+      need_to_install_first: Trebuie să instalați această aplicație mai întâi
+      install_application: Instalare cerere
+  likes:
+    index:
+      liked_items: articole Apreciate
+      return_to_my_content: Întoarcere la conținutul meu
+  videos:
+    index:
+      return_to_edit_profile: Pentru profilul de editare
+      create_new: Creați nou
+      return_to_profile: Înapoi la profil
+    video:
+      edit: Editați
+      are_you_sure: Ești sigur?
+      delete: Ștergeți
+    modal_form:
+      create_new_video: Creați videoclip nou
+      close: Închide
+      create: Creați
+    form_content:
+      name: Nume
+      video_name: Numele video
+      source: Url de cod de încorporare
+      video_url_or_embed_code: URL-ul video codul de încorporare video
+    show:
+      video: Video
+      return_to_all_videos: Înapoi la toate videoclipurile
+      edit_video: Editare videoclip
+    edit:
+      edit_video: Editare videoclip
+      return_to_view_video: Revenire la vizualizare film
+      view_video: Vezi film
+    form:
+      edit: Editare
+  photo_albums:
+    index:
+      photo_albums: albume foto
+      return_to_editing_profile: Pentru profilul de editare
+      create_new: Creați nou
+      return_to_profile: Înapoi la profil
+    photo_album:
+      edit: Editare
+      create: Creați
+      are_you_sure: Sunteți sigur?
+      delete: Ștergeți
+    edit:
+      edit_photo_album: Editare album foto
+      return_to_photo_albums: Pentru albume foto
+      view_photo_album: Vezi album foto
+    form_content:
+      name: Nume
+      photo_album_name: foto numele albumului
+    form:
+      edit: Editați
+      create: Creați
+    photo_album_uploader:
+      drag_and_drop_your_file: Trageți și plasați fișierul
+      here: aici
+      or: sau
+      from_other_sites: De la alte site-uri
+      write_down_link_for_your_image: Scrie link-ul de imaginea ta
+      url_for_image: Url pentru imagine
+      upload: Încărcați
+      from_facebook: de la Facebook
+      turn_on_facebook: Porniți pe Facebook
+      you_can_upload_your_photos_from_facebook: Puteți încărca fotografiile de pe
+        Facebook
+      from_vkontakte: De la Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Puteți încărca fotografiile din Vkontakte
+      turn_on_vkontakte: Porniți Vkontakte
+      from_instagram: De la Instagram
+      you_can_upload_your_photos_from_instagram: Puteți încărca fotografiile din Instagram
+      turn_on_instagram: Porniți pe Instagram
+      from_dropbox: De la Dropbox
+      you_can_upload_your_photos_from_dropbox: Puteți încărca fotografiile de la Dropbox
+      turn_on_dropbox: Porniți Dropbox
+    show:
+      return_to_photo_albums: Pentru albume foto
+      edit_photo_album: Editare album foto
+    modal_form:
+      create_new_photo_album: Creează un nou album foto
+      close: Închide
+      create: Creați
+  user_requests:
+    form:
+      content: Conținut
+      edit: Edit
+      create: Creați
+  notes:
+    index:
+      notes: Note
+      return_to_edit_profile: Pentru profilul de editare
+      create_new: Creați nou
+      return_to_profile: Înapoi la profil
+    note:
+      edit: Editare
+      are_you_sure: Sunteți sigur?
+      delete: Ștergeți
+    show:
+      note: Notă
+      return_to_notes: Înapoi la note
+      edit_note: Editați nota
+    form_content:
+      content: Conținut
+      edit: Editare
+      create: Creați
+    edit:
+      edit_note: Editați nota
+      return_to_notes: Înapoi la note
+      view_note: Vezi nota
+  user_to_search_connections:
+    index:
+      requirements_lists: liste Cerințe
+      return_to_editing_profile: Pentru profilul de editare
+      create_new: Creați nou
+    user_to_search_connection:
+      edit: Editare
+      are_you_sure: Sunteți sigur?
+      delete: Ștergeți
+    edit:
+      edit_requirements_list: Editare liste de cerințe
+      return_to_requirements_lists: Pentru liste de cerințe
+    form_content:
+      name: Nume
+      name_of_your_requirements_list: Numele listei de cerințe
+    form:
+      edit: Editați
+    show:
+      return_to_requirements_lists: Pentru liste de cerințe
+  photos:
+    index:
+      return_to_photo_albums: Înapoi la albume foto
+      return_to_profile: La profil
+  errors:
+    messages:
+      already_confirmed: a fost deja confirmată, vă rugăm să încercați să vă conectați
+      confirmation_period_expired: trebuie să fie confirmată în termen de {%} perioadă,
+        vă rugăm să solicitați unul nou
+      expired: a expirat, vă rugăm să solicitați unul nou
+      not_found: nu a fost găsit
+      not_locked: nu a fost blocat
+      not_saved:
+        one: '1 eroare interzis această% {} resursa de a fi salvată:'
+        other: "% {count} erori interzise această% {} resursa de la salvarea:"
+    bad_request:
+      bad_request_description: Serverul nu poate sau nu va procesa cererea din cauza
+        unei erori de client aparent
+      go_to_root: Du-te la rădăcină
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable Entitate
+      unprocessable_entity_description: Cererea a fost bine format, dar nu a putut
+        fi urmat din cauza erorilor semantice
+      go_to_root: Du-te la rădăcină
+    not_found:
+      not_found: Nu a fost găsit
+      not_found_description: Resursa solicitată nu a putut fi găsită, dar ar putea
+        fi disponibile în viitor
+      go_to_root: Du-te la rădăcină
+    forbidden:
+      forbidden: Interzis
+      forbidden_description: Cererea a fost o cerere validă, dar serverul refuză să
+        răspundă la aceasta
+      go_to_root: Du-te la rădăcină
+    internal_server_error:
+      internal_server_error: Internal Server Error
+      internal_server_error_description: Ceva a mers prost. Noi vom remedia problema
+        cât mai curând posibil.
+      go_to_root: Du-te la rădăcină
+  pages:
+    privacy:
+      privacy: Politica de confidențialitate Flutylove
+      general_provisions: Dispoziții generale
+      p_1_1: 1.1. Aceste regulamente sunt un document oficial de Societatea cu Răspundere
+        Limitată "Technoelegance", situat la 101000, Moscova, Ulanskiy Pereulok 13,
+        stroeniye 4, pomeshcheniye 1 (denumită în continuare Flutylove, Societatea,
+        Noi), și să stabilească procedurile de prelucrare a datelor și de securitate
+        a informațiilor persoanelor fizice care a împlinit vârsta de 18 ani, și care
+        utilizează site-ul https://flutylove.com (denumit în continuare website-ul)
+        și serviciile sale (denumite în continuare utilizatorilor).
+      p_1_2: 1.2. În scopul acestor regulamente este acela de a asigura protecția
+        corespunzătoare a informațiilor de utilizator, inclusiv date cu caracter personal,
+        de la accesul și divulgării neautorizate.
+      p_1_3: 1.3. Relațiile asociate cu colectarea, stocarea, distribuția și securitatea
+        informațiilor de utilizare a site-ului sunt guvernate de aceste regulamente,
+        alte documente oficiale ale Societății și legislația în vigoare a Federației
+        Ruse.
+      p_1_4: 1.4. Versiunea actuală a regulamentelor, care reprezintă un document
+        public, este disponibil oricărui utilizator de Internet atunci când urmează
+        link-ul http://flutylove.com/pages/privacy~~state=definite. Societatea are
+        dreptul de a modifica aceste regulamente. În cazul în care se efectuează modificările
+        la regulamentele, Societatea va notifica utilizatorii prin posta noua versiune
+        a Regulamentului cu privire la site-ul de la http://flutylove.com/pages/privacy
+        permanentă adresă, nu mai târziu de 10 zile înainte de efective data modificărilor.
+        Versiunile anterioare ale regulamentelor sunt stocate în arhiva documentația
+        companiei.
+      p_1_5: 1.5. Aceste regulamente au fost elaborate și sunt utilizate în conformitate
+        cu Acordul utilizatorului. În cazul oricărei contravenție între aceste regulamente
+        și alte documente oficiale ale Societății, aceste regulamente trebuie să fie
+        puse în aplicare.
+      p_1_6: 1.6. Prin utilizarea acestui site, sunteți de acord cu termenii și condițiile
+        acestei Politici de confidențialitate. Vă rugăm să le citiți cu atenție. Dacă
+        nu sunteți de acord cu termenii acestei politici de confidențialitate, sau
+        nu au atins vârsta de 18 ani, nu puteți utiliza site-ul și serviciile sale.
+        Prin utilizarea acestui site, indiferent dacă sunteți utilizator înregistrat
+        Flutylove sau nu, confirmați că acceptați pe deplin această politică de confidențialitate,
+        și sunt de acord să-l urmeze.
+      the_website_using_conditions: site-ul folosind condiții
+      p_2_1: '2.1. Pentru a utiliza site-ul Flutylove, trebuie să vă înregistrați.
+        Următoarele informații trebuie să fie specificate în timpul înregistrării:
+        numele, adresa de e-mail, sexul, data nașterii, informații despre locație.
+        Utilizatorul poate oferi detalii personale suplimentare la propria ei dorință
+        /. Utilizatorul poate edita sau actualiza informațiile personale în orice
+        moment. Societatea are dreptul de a solicita documente justificative suplimentare
+        în cazul schimbării de gen și data nașterii utilizatorului.'
+      p_2_2: '2.2. Permițând accesul la site-ul și serviciile sale, Societatea, acționând
+        într-un mod rezonabil și cu bună-credință, consideră că utilizatorul: își
+        dă seama că pentru înregistrarea pe site-ul este necesar să fie în vârstă
+        de peste 18 ani; dispune de toate drepturile necesare pentru a putea înregistra
+        pe acest site și să-l utilizați; indică informații exacte despre el / ea,
+        conform solicitărilor de utilizare a serviciilor site-ului; este conștient
+        de faptul că informațiile cu caracter personal pe site-ul web, furnizat de
+        către utilizator, pot deveni disponibile pentru alți utilizatori ai utilizatorilor
+        site-ului si Internet, de asemenea, pot fi copiate și distribuite de către
+        ceilalți utilizatori; este conștient de faptul că anumite tipuri de informații,
+        transferate către alți utilizatori, nu pot fi înlăturate de către utilizator;
+        este familiarizat cu aceste regulamente, este de acord cu ei și își asumă
+        drepturile și obligațiile specificate.'
+      p_2_3: 2.3. Societatea nu verifică corectitudinea primite (adunate) informații
+        despre utilizatori, cu excepția cazurilor în care este necesară o astfel de
+        verificare, în scopul de a-și îndeplini obligațiile Companiei pentru utilizator.
+      information_processing_objectives: Obiectivele de prelucrare a informațiilor
+      p_3_1: 3.1. Societatea realizează prelucrarea informațiilor despre utilizatori,
+        inclusiv datele lor cu caracter personal, în scopul de a-și îndeplini obligațiile
+        Companiei către utilizatorii pentru utilizarea Website-ului și a serviciilor
+        sale.
+      p_3_2: 3.2 Compania are dreptul de a efectua prelucrarea datelor cu caracter
+        personal fără notificarea autorității competente pentru protecția drepturilor
+        persoanelor vizate cu caracter personal.
+      structure_of_the_user_information: Structura informațiilor de utilizator
+      p_4_1: '4.1. Datele personale ale utilizatorilor includ:'
+      p_4_1_1: 4.1.1. numele, adresa de e-mail, sexul, data nașterii, informații despre
+        locație și numărul de telefon, care sunt furnizate de utilizatori și ar trebui
+        să fie suficient doar pentru înregistrarea pe site-ul;
+      p_4_1_2: 4.1.2. informațiile care sunt furnizate de către utilizator (de exemplu,
+        fotografii, informații despre obiceiurile vătămătoare etc.);
+      p_4_1_3: 4.1.3. prevăzut în mod suplimentar de către utilizator în funcție de
+        cererea Companiei, în scopul de a-și îndeplini obligațiile Companiei Utilizatorilor,
+        care apar de la un acord de utilizator. Societatea are un drept, în special,
+        de a cere utilizatorului o copie a actului de identitate sau orice alte documente
+        care conțin numele, sexul și data nașterii, precum și alte informații suplimentare,
+        care, la discreția Companiei, va fi necesară și suficientă pentru identificarea
+        unei astfel de utilizatori și ar elimina abuzurile și încălcarea drepturilor
+        unor terțe părți.
+      p_4_2: '4.2. Alt utilizator de prelucrare a informației de către Company Site-ul
+        Administrația procesează și alte informații despre utilizatori, care include:'
+      p_4_2_1: 4.2.1. date comune, primite în mod automat de către http-server atunci
+        când accesează site-ul și acțiunile ulterioare ale utilizatorului (adresa
+        IP a gazdei, tipul sistemului de operare al utilizatorului, paginile site-ului
+        vizitat de către utilizator).
+      p_4_2_2: 4.2.2. informațiile care sunt primite în mod automat atunci când accesați
+        site-ul web folosind marcajele (cookie-uri);
+      p_4_2_3: 4.2.3. informații care sunt primite ca rezultat al acțiunilor utilizator
+        de pe site-ul web;
+      p_4_2_4: 4.2.4. informații care este primită ca urmare a unor acțiuni ale altor
+        utilizatori de pe site-ul web.
+      p_5_1: '5.1. de prelucrare a datelor cu caracter personal se desfășoară pe baza
+        următoarelor principii: a) în scopuri legitime și mijloacele de prelucrare
+        a datelor cu caracter personal; b) onestitate; c) conformitatea în scopul
+        prelucrării datelor cu caracter personal în scopuri predeterminate și declarate
+        atunci când se colectează datele cu caracter personal, precum și respectarea
+        prerogativelor Societății; d) conformitatea volumului și tipul de prelucrare
+        a datelor cu caracter personal, precum și conformitatea mijloacelor de prelucrare
+        a datelor cu caracter personal cu scopul prelucrării acesteia; e) inadmisibilitatea
+        de combinare a bazelor de date create în scopuri incompatibile, care conține
+        date cu caracter personal.'
+      p_5_1_1: 5.1.1. Colectarea datelor cu caracter personal al utilizatorului este
+        efectuat pe site-ul atunci când registru cât și în viitor, atunci când utilizatorul
+        adaugă mai multe informații despre el / ea, folosind instrumentele site-ului
+        din proprie inițiativă / ei.
+      p_5_1_2: 5.1.2. Datele cu caracter personal ale utilizatorilor sunt stocate
+        în mod exclusiv în format electronic, și prelucrate prin utilizarea unor sisteme
+        automate, cu excepția cazurilor în care este necesară prelucrarea manuală
+        a datelor cu caracter personal în vederea îndeplinirii cerințelor legislative.
+      p_5_1_3: 5.1.3. datele personale ale utilizatorilor nu sunt transferate niciunei
+        terțe părți, cu excepția cazurilor prevăzute în mod expres de prezentul Regulament
+        și Contractului de utilizator. Cu consimțământul utilizatorului, datele personale
+        ale utilizatorului pot fi transmise către contrapărți terțe ale Companiei
+        cu condiția preluării unei obligații de a asigura confidențialitatea informațiilor
+        primite, în special, atunci când se utilizează servicii și aplicații. Ul utilizatorului
+        de asigurare a accesului la date cu caracter personal solicitarea autorităților
+        guvernamentale (autoritățile locale) se desfășoară în cadrul procedurii, în
+        conformitate cu legea.
+      p_5_1_4: '5.1.4. datele de utilizator personale sunt șterse atunci când: - datele
+        sunt auto șterse din pagina de Utilizator; - Pagină este auto șters de către
+        utilizator; - Informații utilizatorului și pagina sa personală sunt eliminate
+        de către Societate. În cazul paginii ștergere de către utilizator în sine,
+        compania stochează datele personale ale utilizatorului pe suport sale electronice
+        în termen de 210 de zile de la pagina personală este îndepărtată. Datele cu
+        caracter personal sunt șterse după expirarea 210 zile de la pagina personală
+        este îndepărtată. Pana in aceasta perioada expira, utilizatorul are dreptul
+        de a restaura pagina personala.'
+      users_rights_and_obligations: Drepturile și obligațiile utilizator
+      p_6_1: '6.1. Utilizatorul are dreptul de a:'
+      p_6_1_1: 6.1.1. a avea acces la informația despre el / ea, fără restricții și
+        în mod gratuit, prin editarea paginii sale personale de pe site-ul cu utilizarea
+        de utilizator și parola;
+      p_6_1_2: 6.1.2. face în mod independent, modificări și corecțiile aduse informațiilor
+        la pagina personală a utilizatorului de pe site-ul web, cu condiția ca aceste
+        modificări și corecturi conțin până la informații actualizate și adevărate;
+      p_6_1_3: 6.1.3. eliminați informațiile din pagina personală de pe site-ul web;
+      p_6_1_4: 6.1.4. să solicite Societății de a obține mai multe informații specifice,
+        blocarea sau ștergerea datelor cu caracter personal, în cazul în care aceste
+        date sunt incomplete, depășite, inexacte, a primit în mod ilegal sau nu sunt
+        necesare în scopul declarat al prelucrării sau în cazul în care acțiunile
+        specificate la punctul 6.1.3 din acestea regulamentele nu pot fi puse în aplicare
+        în mod independent;
+      p_6_1_5: 6.1.5. pe baza de cerere, de a primi informații de la Societatea cu
+        privire la prelucrarea datelor cu caracter personal lui / ei.
+      p_6_2: '6.2. Următoarele informații cu privire la orice site-utilizator inregistrat
+        este întotdeauna la dispoziția utilizatorului înregistrat: numele utilizatorului,
+        sex, vârstă, fotografia de profil și alte informații în cazul în care utilizatorul
+        a postat.'
+      p_6_3: 6.3. Societatea nu își asumă nicio responsabilitate pentru divulgarea
+        datelor personale ale utilizatorului de către alți utilizatori ai site-ului
+        care au accesat astfel de date.
+      p_6_4: 6.4. În cazul datelor cu caracter personal (alte informații despre utilizator)
+        îndepărtarea de la pagina personală a utilizatorului sau îndepărtarea paginii
+        personale ale utilizatorului de pe site-ul, informațiile utilizatorului copiate
+        de către alți utilizatori sau stocate pe pagini ale altor utilizatori se păstrează.
+      p_7_1: 7.1. Societatea ia măsuri tehnice, organizatorice și juridice pentru
+        a se asigura că datele personale ale utilizatorului sunt protejate împotriva
+        accesului neautorizat sau accidentală, ștergerea, modificarea, blocarea, copiere
+        și diseminare, precum și de alte acțiuni neautorizate.
+      p_7_2: 7.2. numele utilizatorului (adresa de e-mail sau un număr de mobil) și
+        parola sunt folosite pentru a accesa site-ul web. Utilizatorul este responsabil
+        pentru păstrarea acestor informații confidențiale. Utilizatorul nu poate transfera
+        datele de conectare și parola către părți terțe și este, de asemenea, obligat
+        să ia măsuri pentru asigurarea confidențialității.
+      limitation_of_the_regulations_applicability: Limitarea aplicabilității Regulamentelor
+      p_8: Aceste regulamente nu sunt extinse la acțiunile și resursele de Internet
+        ale unor terțe părți. Societatea nu își asumă nicio responsabilitate pentru
+        acțiunile părților terțe care au primit acces la informațiile de utilizator
+        prin intermediul internetului sau serviciile site-ului. Administrația Site-ul
+        recomandă utilizatorilor să abordeze problema cu cantitatea de informații
+        postate pe site-ul într-un mod responsabil.
+      user_requests: cereri de utilizator
+      p_9_1: '9.1. Utilizatorii au dreptul de a trimite cereri către Societate, inclusiv
+        cereri privind utilizarea datelor cu caracter personal, în scris, la următoarea
+        adresă: Rusia, 101000, Moscova, Ulanskiy Pereulok 13, stroeniye 4, pomeshcheniye
+        1 sau sub formă de document electronic semnat de o semnătură electronică calificată,
+        în conformitate cu legislația Federației Ruse, prin e-mail: support@flutylove.com.'
+      p_9_2: '9.2. Cererea Utilizatorului trebuie să conțină următoarele informații:
+        numărul documentului de identificare al utilizatorului sau a reprezentantului
+        acestuia; data eliberării documentului de mai sus și autoritatea emitentă;
+        informații care să confirme participarea utilizatorului în relațiile cu operatorul
+        (în special, link-ul către pagina); semnătura utilizatorului sau a reprezentantului
+        acestuia / ei.'
+      p_9_3: 9.3. Societatea se angajează să ia în considerare și să răspundă la cererea
+        utilizatorului în termen de 30 de zile după ce a fost primit.
+      p_9_4: 9.4. Toată corespondența primită de Societate de la utilizatori (solicitări
+        electronice sau scrise) este clasificat drept informații cu acces restricționat
+        și nu pot fi divulgate fără acordul scris al utilizatorului. Datele cu caracter
+        personal și alte informații despre utilizatorul care a trimis cererea nu poate
+        fi utilizată, fără consimțământul special al utilizatorului, în mod diferit
+        decât ca răspuns la solicitarea sau în cazurile expres prevăzute de legislația
+        în vigoare.
+    terms:
+      terms: Acordul utilizatorului Flutylove
+      welcome: Bine ai venit la Flutylove!
+      about_terms: 'Acești termeni de utilizare (precum și documentele menționate
+        în acest document, inclusiv Politica de confidențialitate) sunt contractul
+        de adeziune, în conformitate cu articolul 428 din Codul civil al Federației
+        Ruse (denumit în continuare "acordul") între persoană care a împlinit vârsta
+        de 18 ani (denumit în continuare "Utilizatorul" și Compania (sau "Noi") -
+        o societate cu răspundere limitată "Technoelegance" (SRL "Technoelegance")
+        (adresa juridică: 101000, Moscova, Ulanskiy Pereulok 13, stroeniye 4, pomeshcheniye
+        1), denumit în continuare Flutylove, potrivit căruia puteți utiliza acest
+        website și toate serviciile asociate oferite prin intermediul Website-ului
+        sau a cererii (în general, denumite ca "serviciile"). Website-ul se înțelege
+        oricare dintre versiunile sale, combinate sub numele de domeniu flutylove.com
+        și funcționează pentru o varietate de dispozitive, inclusiv versiunea web-based,
+        aplicatii mobile si aplicatii pentru retele sociale.Prin utilizarea acestui
+        site sunteți de acord cu termenii Acordului și politica de confidențialitate.
+        Vă rugăm să le citiți cu atenție. Dacă nu sunteți de acord cu termenii Acordului
+        și politica de confidențialitate, sau nu au atins vârsta de 18 ani, nu puteți
+        utiliza site-ul și serviciile sale.Prin utilizarea site-ul, indiferent sunteți
+        înregistrați utilizator de Flutylove sau nu, sunteți de acord în totalitate
+        cu prezentul acord și politica noastră de confidențialitate, care este inclusă
+        în prezentul acord, prin link-ul și este disponibil pe site-ul, și să se conformeze
+        cu ea.La cerere, utilizator, Societatea se obligă să semneze prezentul acord,
+        într-o formă și versiune printată trimite persoanei solicitante documentele.Compania
+        își rezervă dreptul de a modifica acordul de utilizare și orice document menționat
+        acesta. Să fie conștienți de modificările pe care trebuie să păstrați-up actualizate
+        informațiile cu privire la aceste modificări, în mod regulat. Vă vom informa
+        cu privire la modificările am efectuat pe această pagină de mai jos. Modificări
+        nu se referă înapoi și va intra în vigoare în termen de zece zile de la data
+        publicării. Cu toate acestea, în cazul în care acestea sunt asociate cu punerea
+        în aplicare a noilor servicii sau modificarea legislației, aceasta va fi aplicată
+        imediat. Dacă nu sunteți de acord cu modificările în acord, trebuie să nu
+        mai utilizați Website-ul si aplicatiile sale.'
+      consent_to_accept_the_terms_of_user_agreement: 1. CONSIMTAMANTUL SĂ ACCEPT TERMENII
+        Contractului de utilizator.
+      p_1: o. Acordul electronic. Prezentul acord are o versiune electronică a contractului,
+        care descrie condițiile de utilizare a site-ului și a Serviciilor. Prin logare
+        pe site-ul sau de a deveni un utilizator, acceptați acest acord și sunt de
+        acord cu toți termenii, condițiile și notificările care sunt conținute sau
+        se face referire aici. Afirmați și sunteți de acord că utilizatorii de Flutylove
+        poate fi o parte dintr-o comunitate online, care include alte site-uri web
+        apartinand Companiei sau afiliate. Prin urmare, profilurile de pe site-ul
+        pot fi vizualizate pe alte site-uri similare și abonaților de la un site web
+        poate comunica cu alți abonați plătitori de la toate site-urile. b. Formularul
+        electronic. Prin logare pe site-ul sau de a deveni un utilizator, sunteți
+        de acord să vă furnizeze cu acordul electronic. c. Formularul Hardcopy. Ai
+        dreptul de a primi hardcopy prezentului acord. Puteți solicita ediție hardcopy
+        a prezentului acord, înainte sau după ce va fi semnat în format electronic.
+        Vă rugăm să contactați serviciul nostru pentru clienți pentru mai multe informații.
+        d. Acces și descărcarea. Pentru a putea accesa și descărca acest acord electronic,
+        trebuie să aibă acces la Internet sau direct prin intermediul dispozitivelor
+        cu acces la resurse Web. Trebuie să aveți echipamentul necesar pentru a se
+        conecta la Internet, și anume calculatorul, modem sau alt dispozitiv de acces.
+        Vă rugăm să, imprimați o copie a acestui acord și păstrați-l. Pentru a descărca
+        formularul electronic de acord, salvați-l la computer cu ajutorul oricărui
+        editor de text.
+      the_right_of_using_the_website: 2. DREPTUL DE UTILIZAREA SITE-ULUI.
+      p_2: Trebuie sa fii cel putin optsprezece vechi (18) ani pentru a deveni un
+        utilizator înregistrat al acestui site. În cazul nerespectării cerințelor,
+        accesul la site-ul va fi refuzat. Cu ajutorul site-ului, utilizatorul ar trebui
+        să fie conștienți de faptul că informațiile personale postate pe site-ul poate
+        fi disponibil pentru alți utilizatori de Internet, iar Societatea nu este
+        poartă răspunderea pentru acțiunile lor. Prin utilizarea acestui site să declarați
+        și se angajează că aveți un drept, autoritate și posibilitatea de a încheia
+        prezentul acord, și sunt de acord să respecte toți termenii și condițiile
+        sale. A deveni un utilizator să declarați și se angajează că nu ați suferit
+        condamnări pentru fapte penale legate de violența sexuală. Site-ul este conceput
+        numai pentru uz personal. Este interzisă utilizarea site-ului pentru orice
+        scopuri comerciale. Entitățile juridice nu pot fi utilizatorii acestui site,
+        precum și nu se poate utiliza acest Serviciu sau Website-ul pe scopurile lor.
+        Ilegale și / sau neautorizate, cu ajutorul a site-ului, inclusiv nume de utilizator
+        care colectează și / sau adrese de e-mail cu ajutorul instrumentelor electronice
+        sau de altă natură în scopul de a trimite mesaje nedorite și link-uri este
+        urmărit, iar Societatea poate lua măsuri corespunzătoare în conformitate cu
+        legislația, inclusiv un apel către autoritățile de aplicare a legii.
+      pricing_and_registration: 3. TARIFAREA ȘI ÎNREGISTRARE
+      p_3: Reușiți să deveniți utilizator Flutylove pe și de bunăvoie mod gratuit
+        prin înregistrarea pe site-ul web. Pe măsură ce utilizatorul, puteți utiliza
+        anumită gamă de servicii și oportunități ale site-ului. Utilizatorul Website-ului
+        este un individ inregistrat pe site-ul în conformitate cu ordinea stabilită
+        și care a împlinit vârsta de 18 ani. Atunci când înregistrarea pe site-ul
+        web Utilizatorul este obligat să furnizeze informațiile necesare și relevante
+        pentru companie pentru a finaliza pagina de utilizare, inclusiv de conectare
+        (adresa de e-mail sau numărul de telefon) și parola pentru accesul la site-ul,
+        precum și numele, care sunt unice pentru fiecare utilizator. Forma de înregistrare
+        poate solicita informații suplimentare din partea utilizatorului. Utilizatorul
+        este responsabil pentru valabilitatea, actualitatea, integralitatea și conformitatea
+        cu Legea Federației Ruse a informațiilor furnizate la înregistrare, precum
+        și limpezimea de la pretențiile unor terțe părți. La momentul înregistrării
+        Utilizatorul este de acord cu prezentul acord și se angajează drepturi și
+        obligații specifice, asociate cu folosirea și funcționarea site-ului. Utilizatorul
+        are acces deplin la folosirea funcțiilor site-ului. Societatea se angajeaza
+        drepturi si obligatia Utilizatorului, specificate în prezentul Regulament,
+        după înregistrarea cu succes a utilizatorului pe site-ul de prelucrare a datelor
+        cu caracter personal al utilizatorului se face conform Legii Federației Ruse.
+        Administrația Site-ul prelucrează datele personale ale utilizatorilor, în
+        scopul de a furniza utilizatorului un acces la utilizarea funcțiilor site-ului,
+        inclusiv primirea personalizate de publicitate (vizate); verificarea, cercetarea
+        și analiza acestor date, care să permită să sprijine și să îmbunătățească
+        funcțiile și secțiuni ale site-ului, precum și dezvoltarea de noi funcții
+        și secțiuni. Compania ia toate măsurile necesare pentru a proteja datele personale
+        ale utilizatorului împotriva accesului neautorizat, modificării, dezvăluirii
+        sau ștergerea. Compania furnizează acces la datele personale ale utilizatorului
+        numai acelor angajați, contractori și agenți ai Companiei, care au nevoie
+        de aceste informații, în scopul de a sprijini funcționalitatea site-ul și
+        pentru a oferi utilizatorului acces la utilizarea acestuia. Societatea a site-ului
+        are dreptul de a utiliza informațiile furnizate de către utilizator, inclusiv
+        date cu caracter personal, pentru a se asigura conformitatea cu cerințele
+        legislației actuale a Federației Ruse (inclusiv prevenirea și / sau suprimarea
+        ilegale și / sau ilegală acțiuni ale utilizatorilor). Dezvăluirea informațiilor
+        furnizate de către utilizator poate fi făcută numai în conformitate cu legislația
+        în vigoare a Federației Ruse la solicitarea instanței de judecată, agențiile
+        de aplicare a legii, precum și în alte cazuri, astfel cum este prevăzut de
+        legislația în vigoare a Federației Ruse. În măsura în care Societatea procesează
+        datele personale ale Utilizatorului pentru executarea acestor regulamente,
+        consimțământul utilizatorului la prelucrarea datelor cu caracter personal
+        nu este necesară în virtutea prevederilor legii cu privire la datele cu caracter
+        personal. Login-ul și parola aleasă de către utilizator sunt informațiile
+        necesare și suficiente pentru accesul utilizatorului la site-ul web. Utilizatorul
+        are dreptul de a da autentificare lui / ei și parola către terțe părți, și
+        este absolut responsabil pentru siguranța sa, alegerea modului de a le stoca
+        în mod independent. Cu ajutorul / hardware-ul și software-ul său pe ea utilizatorul
+        poate permite stocarea de utilizator și parola (prin cookie-uri) pentru autorizarea
+        automată ulterioară pe site-ul web. Orice acțiune întreprinsă cu utilizarea
+        numelui de utilizator și a parolei utilizatorului sunt considerate a fi angajate
+        de către utilizator, cu excepția cazului în care se dovedește contrariul de
+        către Utilizator. Utilizatorul este obligat să informeze imediat societatea,
+        în conformitate cu procedura stabilită în cazul accesului neautorizat la numele
+        de utilizator și parola și / sau pagina de cont, sau divulgarea de utilizator
+        și parola. După înregistrare, utilizatorul câștigă dreptul de a crea, de utilizare,
+        și se determină conținutul propriilor pagini sale / personale în scopuri de
+        autoreactive interesate și necomercial, precum și a obține posibilitatea de
+        a accesa și de a posta informația de pe paginile personale ale altor utilizatori
+        . Utilizatorul în calitate de proprietar al informațiilor postate pe pagina
+        personală este conștient de faptul că, cu excepția cazurilor stabilite de
+        prezentul Regulament și legislația în vigoare a Federației Ruse, Societatea
+        nu participă la dezvoltarea și utilizarea de conținut și nu supune controlului
+        accesul la pagina utilizatorului de la alți utilizatori.
+      terms_4: 4. TERMENI.
+      p_4: Prezentul acord rămâne pe deplin în vigoare și efect, atâta timp cât utilizați
+        site-ul. Aveți posibilitatea să nu mai fi utilizatorul a site-ului prin eliminarea
+        paginii în orice moment, din orice motiv, prin contactarea on-line Serviciul
+        Clienți sau prin utilizarea serviciului Website-ului. Compania își rezervă
+        dreptul de a șterge pagina dvs. personală în orice moment. Nu suntem obligați
+        să vă anunțe înainte de a șterge pagina, în cazul în care Compania are motive
+        să creadă că ați încălcat termenii acordului. Noi nu suntem obligați să dezvăluie
+        motivul pentru ștergerea contului; în unele cazuri, divulgarea acestor informații
+        poate fi interzisă. Dupa ștergerea paginii, toate condițiile care pot fi valabile
+        după încetarea prezentului acord, prin natura lor va fi în vigoare după o
+        astfel de reziliere. Dacă vă ștergeți pagina dvs. prin intermediul site-ului
+        pe propria voință, este posibil să vă rugăm să specificați motivul unei astfel
+        de ștergere.
+      account_security: 5. SECURITATE CONT.
+      p_5: Sunteți responsabil pentru pastrarea confidentialitatii numelui de utilizator
+        și a parolei, care va fi stabilit la momentul înregistrării. De asemenea,
+        sunteți absolut responsabil pentru toate acțiunile care au loc sub numele
+        de utilizator și parola. Sunteți de acord să (a) să notifice imediat ne cu
+        privire la orice utilizare neautorizată a numelui de utilizator și parola,
+        precum și orice altă încălcare a securității, și (b) de ieșire din contul
+        dvs. la sfârșitul fiecărei sesiuni. Site-ul nu este responsabil pentru orice
+        daune sau pierderi rezultate din nerespectarea acestei prevederi. Ar trebui
+        să fie deosebit de atenți atunci când accesați contul prin intermediul unui
+        calculator public, pentru ca persoanele neautorizate nu au putut spiona sau
+        pentru a înregistra parola sau orice alte informații personale. De asemenea,
+        să confirmați și sunteți de acord că internetul nu a fost niciodată complet
+        privat și sigur. Înțelegeți că, orice mesaje sau informații pe care le posta
+        pe site-ul poate fi citit sau utilizate de către alți utilizatori, chiar dacă
+        există un avertisment special că informația este ascunsă.
+      your_interaction_with_other_users_of_the_website: 6. INTERACțIUNEA cu alți utilizatori,
+        a site-ului.
+      p_6: o. TU singura persoană responsabilă pentru interacțiunea cu alți utilizatori.
+        Ar trebui să înțeleagă faptul că societatea nu verifică utilizatorii lor dacă
+        au antecedente penale. De asemenea, compania nu solicită informații din trecut
+        utilizatorilor lor și nu validează această informație. COMPANIA NU GARANTEAZA
+        PRIVIND COMPORTAMENTUL DE UTILIZARE SI COMPATIBILITATEA ACESTORA CU UTILIZATORII
+        ACTUAL sau viitoare. ÎN ACELAȘI TIMP COMPANIA ÎȘI REZERVĂ DREPTUL DE A VERIFICA
+        UTILIZATORII DE ÎNREGISTRARE PENALĂ SAU REALIZA ALTE VERIFICARE IN ORICE MOMENT
+        CU AJUTORUL informațiilor disponibile. b. IN NICI UN CAZ COMPANIA NU ESTE
+        RESPONSABIL PENTRU ORICE DAUNE dacă acestea sunt directe, INDIRECTE, GENERALE
+        SAU AU NATURA SPECIFIC, Compensativă, SI / SAU ACCIDENTALE, OBȚINUTE DE DVS.
+        SAU DE ORICE ALTE INDIVIZI CA REZULTAT UTILIZAREA SITE-ULUI, INCLUSIV, DAR
+        FĂRĂ A SE LIMITA LA RĂNIREA, STRESUL SI / SAU ALTE DAUNE, OBȚINUTE DE DVS.
+        cA URMARE A COMUNICAȚII SAU întâlniri cu alți utilizatori înregistrați.Intră
+        și al site-ului sau oameni, ca să se ocupe de pe site-ul. SUNTEȚI DE ACORD
+        SĂ toate precauțiile posibile atunci când comunică cu alți utilizatori, în
+        special în cazurile, atunci când decide să-i întâlnească în viața reală. Trebuie
+        să luați aminte, ceea ce compania nu dă GARANȚII SAU DECLARED IMPLICATE PRIVIND
+        COMPATIBILITATEA CU UTILIZATORII ACESTUI SITE. Nu trebuie să dați informațiile
+        financiare altor utilizatori ai site-ului (DE EXEMPLU INFORMARE DESPRE credit
+        sau PLASTIC CARDS). c. Serviciul poate traduce numele sau numele orașului
+        dumneavoastră în alte limbi; d. Serviciul nu este responsabil pentru acțiunile
+        enumerate în prezentul articol. In cazul in care nu sunt de acord cu ele complet
+        sau parțial, vă rugăm să lăsați IMEDIAT site;
+      the_information_posted_by_you_on_flutylove: 7. Informațiile de tine pe FLUTYLOVE
+      p_7: o. Sunteți singurul responsabil pentru informațiile pe care le publicați
+        sau să demonstreze (denumit în continuare "post") Serviciul sau transfera
+        altor utilizatori. Nu aveți permisiunea de a posta pe Serviciul sau transfera
+        altor utilizatori orice informații cu privire la conținut defăimătoare, inexacte,
+        abuziv, obscen, vulgar și agresiv, informația privind conținutul sexual, precum
+        și informații amenințătoare sau urmărire, informații de natură discriminare
+        rasială sau informații ilegale, sau orice alte informații care încalcă sau
+        viola drepturile oricărei alte părți (inclusiv, fără a se limita la, drepturile
+        de proprietate intelectuală, drepturile la confidențialitate și publicitate).
+        Nu vi se permite să furnizeze informații inexacte, înșelătoare sau false Companiei
+        sau orice alt utilizator. În cazul în care informațiile furnizate de companie
+        Flutylove sau un alt utilizator devine ulterior inexacte, înșelătoare de fals,
+        trebuie să vă informeze imediat societatea Flutylove de o astfel de schimbare.
+        Trimis și garantează că toate informațiile furnizate în timpul înregistrării
+        sunt corecte și adevărate, și vă schimbați imediat orice informație care devine
+        ulterior inexacte, înșelătoare sau false. b. Înțelegeți și sunteți de acord
+        că ne rezervăm dreptul, dar nu sunt obligate să monitorizeze informațiile
+        sau conținutul care este transferat la serviciul sau postat în accesul publicului
+        în cadrul Serviciului. Avem dreptul de a șterge orice astfel de informații
+        sau de conținut fără a atribui motive și de notificare. c. Toate obiectele
+        afisate pe site-ul web, inclusiv elemente de design, text, grafice, ilustrații,
+        video, scripturi, programe, muzică, sunete și alte obiecte și bibliotecile
+        lor (denumite în continuare - Informații), sunt proprietatea drepturi exclusive
+        ale Companiei, Utilizatorilor deținătorii site-ului și a altor drepturi, toate
+        drepturile asupra acestor obiecte sunt protejate. d. Cu excepția celor stabilite
+        în conformitate cu prezentul acord, precum și legislația în vigoare a Federației
+        Ruse, nici o informație nu poate fi copiat (reprodus), prelucrat, distribuit,
+        afișat într-un cadru, publicat, descărcat, transferat, vândute sau utilizate
+        în alte moduri în întregi sau bucăți, fără permisiunea prealabilă a titularului,
+        cu excepția cazului în care titularul drepturilor și-a exprimat în mod explicit
+        acordul pentru utilizarea gratuită a informațiilor de către orice persoană.
+        e. Prin postarea informația de pe site-ul care aparține în mod legal Utilizatorului,
+        Utilizatorul asigură accesul altor utilizatori pentru dreptul non-exclusiv
+        de a utiliza prin vizualizarea, redarea (inclusiv copierea) și a altor drepturi
+        numai în scopul utilizării de bază non-comerciale personale, cu excepția cazului
+        în cazurile în care o astfel de utilizare cauzează sau poate dăuna intereselor
+        titularului dreptului protejat prin lege. f. Folosirea informațiilor de către
+        utilizator, care accesul a fost câștigată numai pentru utilizarea personale,
+        non-comerciale, este permisă cu condiția ca toate semnele de autor (drepturile
+        de autor) sau alte notificari de autor vor fi păstrate, numele autorului și
+        produsul său va fi lăsat fără schimbare. g. Utilizatorul oferă, de asemenea
+        Societate cu un drept non-exclusiv de a utiliza informațiile postate pe site-ul
+        și care aparține el / ea în mod legal fără a ține cont, în scopul de a asigura
+        buna funcționare a site-ului web al Societății în performanța arhitecturii
+        și funcționalitatea site-ul. Dreptul neexclusiv menționat mai sus, se acordă
+        pentru plasarea conținutului de pe site-ul și acoperă teritoriul țărilor din
+        întreaga lume. Societatea are dreptul de a transfera drepturile menționate
+        la prezentul alineat către terțe părți. Utilizatorul este de acord că Societatea
+        are dreptul de a utiliza opțiunile tehnice și funcționale ale site-ului, care
+        furnizează afișarea de partajare a conținutului de către utilizator, inclusiv
+        în scopul afișării informațiilor de publicitate. Bună. În cazul în care utilizatorul
+        șterge informațiile de pe site-ul web, dreptul non-exclusiv, va fi revocată
+        automat, dar din cauza specificațiilor tehnice ale site-ului Compania își
+        rezervă dreptul de a salva copii de rezervă ale informațiilor din timpul necesar
+        și acolo unde este necesar. i. În afară de informațiile private, utilizatorul
+        nu are dreptul de a încărca sau dezvălui în mod diferit (prin publicarea pe
+        site-ul web) Informații de alte site-uri, baze de date și alte proprietăți
+        intelectuale în absența și-a exprimat în mod explicit consimțământul pentru
+        astfel de acțiuni din drepturile de autor proprietar. j. Cu excepția cazului
+        în altfel este menționat în aceste regulamente, nimic în aceste regulamente
+        nu poate fi considerată ca un transfer de drepturi exclusive de informare.
+        k. Toate informațiile pe care le publicați în profilul dvs. de utilizator,
+        trebuie să fie exacte, actualizate și complete. Utilizatorul este absolut
+        singurul responsabil pentru orice informație care a fost încărcat sau divulgate
+        în mod diferit (postat) pe site-ul sau cu ajutorul Utilizatorului. Utilizatorul
+        nu are dreptul de a încărca, transfera sau posta continutul pe site-ul, în
+        cazul în care el / ea nu are drepturi corespunzătoare pentru a lua o astfel
+        de acțiune, dobândite sau delegate el / ea, în conformitate cu legislația
+        Federației Ruse. Societatea în stare, dar nu este obligat, pentru a naviga
+        pe site-ul web pentru orice conținut ilegal și îi este permis să șteargă sau
+        să se deplaseze (fără o notificare) orice continut sau utilizatori la discretia
+        sa, pentru orice motiv sau fara cauze, incluzand fara a se limita să se miște,
+        sau șterge informații care, în opinia individuală a Companiei încalcă prezentul
+        acord, legislația Federației Ruse și / sau poate viola drepturile, răni, sau
+        pune în pericol securitatea altor utilizatori sau terțe părți. Site-ul contine
+        (sau pot conține) link-uri către alte site-uri de pe Internet (site-uri ale
+        unor terțe părți), precum și articole, fotografii, ilustrații, grafică, muzică,
+        sunet, video, informații, aplicații, programe de calculator și alte informații
+        care aparțin sau care provin de la terțe părți (conținut terță parte), care
+        este rezultatul activității intelectuale și este protejată în conformitate
+        cu legislația Federației Ruse. Aceste părți terțe și informațiile lor nu sunt
+        verificate de Companie pentru respectarea prezentei sau a altor cerințe (precizie,
+        onestitate, etc). Societatea nu este responsabil pentru orice conținut postat
+        pe site-urile unor terțe părți la care câștigurile utilizatorului acces prin
+        intermediul Website-ului sau prin intermediul informațiilor de la terți, inclusiv,
+        dar fără a se limita la orice opinii sau declarații exprimate pe site-urile
+        unor terțe părți sau în informațiile lor. Link-ul la orice site, produs și
+        serviciu, orice informație de natură comercială și non-comerciale conținute
+        pe acest site nu este o aprobare sau o recomandare pentru aceste produse (servicii)
+        din partea Companiei. În cazul în care utilizatorul decide să părăsească site-ul
+        și du-te la site-urile unor terțe părți sau de a utiliza sau de a instala
+        software-ul terț, el / ea face acest lucru pe propriul lor risc și din acel
+        moment, aceste regulamente nu mai sunt aplicate Utilizatorului. Acțiuni ulterioare
+        utilizator sunt ghidate de normele și politicile aplicabile, inclusiv practicile
+        de afaceri ale acelor persoane ale căror Informații el / ea va folosi.
+      forbidden_actions: 8. ACȚIUNI INTERZISE.
+      p_8: o. Este interzis să "păstreze un ceas aproape pe" sau deranjează orice
+        persoană în alt mod. b. Este interzisă utilizarea bots, viruși, aplicații
+        pentru a căuta site-uri / extras sau a altor dispozitive manuale sau automate
+        sau procese pentru a extrage, indicele de "spionaj", sau de a reproduce în
+        alt mod sau eluda structura de navigare și afișarea Serviciului sau a conținutului
+        acestuia . c. Este interzis sa posta, distribui sau reproduce Everyway orice
+        informație cu drepturi de autor, mărci comerciale sau alte informații protejate
+        prin dreptul de autor fără acordul prealabil al titularului drepturilor de
+        autor. d. Este interzisă pentru a elimina orice drepturi de autor, mărci comerciale
+        sau alte notificări privind drepturile de autor continute in cadrul Serviciului.
+        e. Este interzis să intervină sau să perturbe funcționarea Serviciului și
+        site-ul sau serviciile și rețelele conectate la Serviciu sau site-ul. f. Este
+        interzisa publicarea, e-mail sau prin transfer într-un mod diferit orice informație
+        care conține viruși sau orice alt cod de computer, fișiere sau programe destinate
+        să interfereze, să distrugă sau să limiteze funcționalitatea oricărui echipament
+        de software, hardware sau de telecomunicații. g. Este interzis sa falsifica
+        sau de a manipula desemnarea în scopul mascării sensul real al oricărei informații
+        împărtășite prin intermediul Serviciului. h. Este interzisă "forge" sau "copie"
+        orice parte a Serviciului sau Website-ul fără permisiunea scrisă prealabilă
+        din Flutylove. De asemenea, nu puteți utiliza meta tag-uri sau de cod sau
+        alte dispozitive care conțin linkuri către Flutylove, Serviciul sau Website-ul
+        pentru a redirecționa orice persoană către un alt site pentru orice scop.
+        i. Este interzisă modificarea, adaptarea, sublicenția, traduce, vinde, restructura,
+        descifra, decompilarea sau dezasamblarea orice parte a Serviciului sau a Website-ului
+        sau orice software folosit pe site-ul sau pentru ea, precum și îi încurajează
+        pe alții să ia măsuri similare . j. Este interzisa postarea orice informație
+        cu conținut pornografic și / sau erotic.
+      the_changes_in_the_service: 9. Transformările în SERVICIU.
+      p_9: Flutylove își rezervă dreptul, în orice moment pentru a schimba sau a dezactiva
+        temporar sau permanent Serviciul (sau orice este parte), fără o notificare
+        prealabilă. Sunteti de acord ca Flutylove nu este responsabil pentru tine
+        sau de orice terțe părți pentru orice modificare, disponibilitate temporară
+        sau dezactivarea completă a serviciului.
+      ip_address_blocking: 10. IP ADRESA DE BLOCARE.
+      p_10: Pentru a proteja integritatea site-ului, Flutylove își rezervă dreptul,
+        în orice moment, la propria comoditate pentru a bloca adresele IP ale anumitor
+        utilizatori.
+      relations_between_users_online: 11. RELAȚII ÎNTRE Useri Online
+      p_11: Sunteți singurul responsabil pentru interacțiunile cu alți utilizatori
+        ai Flutylove. Flutylove își rezervă dreptul, dar nu și obligația, de a monitoriza
+        disputele dintre dvs. și alți utilizatori.
+      security_and_communication: 12. SECURITATE ȘI COMUNICARE.
+      p_12: Utilizarea site-ului și / sau a serviciului este de asemenea guvernată
+        de politica noastră de confidențialitate. Atunci când deveniți utilizator,
+        sunteți de acord și de acord pentru a primi e-mailuri de la noi. Aceste e-mailuri
+        pot reprezenta notificările cu privire la operațiunile sau alte notificări
+        asociate Serviciului, precum anunțurile administrative și anunțuri oficiale
+        cu privire la modificările sau email-uri care contin oferte comerciale, materiale
+        promotionale, oferte speciale de la noi, sau informații despre acțiunile altor
+        utilizatori cu privire la dumneavoastra contul utilizatorului. Vă rugăm să
+        citiți Politica de confidențialitate pentru a ști mai multe despre astfel
+        de notificări.
+      denial_of_responsibility: 13. denegare de responsabilitate.
+      p_13: o. Flutylove nu este responsabil pentru orice informații incorecte sau
+        inexacte postat pe site-ul sau este asociat cu Serviciul, utilizatorii site-ului
+        sau de orice hardware sau software asociat cu serviciul nostru sau este folosit
+        acolo. Flutylove nu este responsabil pentru comportamentul, atât online cât
+        și offline, de orice utilizator al site-ului. Flutylove nu-și asuma responsabilități
+        pentru orice erori, omisiuni, întreruperi, ștergerea, deteriorarea sau întârzierea
+        în exploatare sau operațiuni, defectare a liniei de comunicații, furt sau
+        distrugere, acces neautorizat sau schimbarea liniilor de comunicație ale utilizatorului.
+        Flutylove nu este responsabil pentru orice probleme sau orice defectiune tehnica
+        a retelelor de telefonie sau de linii de comunicatii, sisteme de calculatoare,
+        servere sau furnizori, echipamente, software, e-mail sau jucători de eșec
+        în contul de utilizator, probleme tehnice sau de congestie pe Internet sau
+        de la orice site-ul sau o combinație a acestuia, inclusiv accidente sau vătămare
+        utilizatorilor sau a oricărei părți terțe legate de un calculator, sau ca
+        urmare a participării la sau descărcarea informațiilor referitoare la rețea
+        și / sau a serviciului. In nici un caz Companiei Flutylove sau la oricare
+        dintre afiliat sale, agentii de publicitate, fondatorii sau partenerii de
+        distribuție nu va fi responsabil pentru orice pierderi sau daune, inclusiv
+        vatamare corporala sau deces, din cauza folosirii Website-ului sau a serviciului,
+        orice continut postat pe site-ul web , sau orice interactiuni intre utilizatorii
+        site-ului, atât online cât și offline. Site-ul și Serviciul este furnizat
+        CA ATARE, iar Flutylove in mod expres declina orice garanții sau adecvare
+        pentru un anumit scop, sau absența încălcării drepturilor cuiva. Flutylove
+        nu poate garanta si nu promite de rezultate specifice din folosirea site-ului
+        și / sau a serviciului.
+      links: 14. LINK-uri.
+      p_14: o. Flutylove nu este responsabil pentru orice informații incorecte sau
+        inexacte postat pe site-ul sau este asociat cu Serviciul, utilizatorii site-ului
+        sau de orice hardware sau software asociat cu serviciul nostru sau este folosit
+        acolo. Flutylove nu este responsabil pentru comportamentul, atât online cât
+        și offline, de orice utilizator al site-ului. Flutylove nu-și asuma responsabilități
+        pentru orice erori, omisiuni, întreruperi, ștergerea, deteriorarea sau întârzierea
+        în exploatare sau operațiuni, defectare a liniei de comunicații, furt sau
+        distrugere, acces neautorizat sau schimbarea liniilor de comunicație ale utilizatorului.
+        Flutylove nu este responsabil pentru orice probleme sau orice defectiune tehnica
+        a retelelor de telefonie sau de linii de comunicatii, sisteme de calculatoare,
+        servere sau furnizori, echipamente, software, e-mail sau jucători de eșec
+        în contul de utilizator, probleme tehnice sau de congestie pe Internet sau
+        de la orice site-ul sau o combinație a acestuia, inclusiv accidente sau vătămare
+        utilizatorilor sau a oricărei părți terțe legate de un calculator, sau ca
+        urmare a participării la sau descărcarea informațiilor referitoare la rețea
+        și / sau a serviciului. In nici un caz Companiei Flutylove sau la oricare
+        dintre afiliat sale, agentii de publicitate, fondatorii sau partenerii de
+        distribuție nu va fi responsabil pentru orice pierderi sau daune, inclusiv
+        vatamare corporala sau deces, din cauza folosirii Website-ului sau a serviciului,
+        orice continut postat pe site-ul web , sau orice interactiuni intre utilizatorii
+        site-ului, atât online cât și offline. Site-ul și Serviciul este furnizat
+        CA ATARE, iar Flutylove in mod expres declina orice garanții sau adecvare
+        pentru un anumit scop, sau absența încălcării drepturilor cuiva. Flutylove
+        nu poate garanta si nu promite de rezultate specifice din folosirea site-ului
+        și / sau a serviciului.
+      limitation_of_responsibility: 15. Limitarea responsabilității.
+      p_15: SITE-UL ȘI FUNCȚIILE sale, inclusiv SCRIPTS, APLICAȚII, CONȚINUT ȘI PROIECTARE
+        SITE-ULUI SUNT FURNIZATE CA ATARE. COMPANIA ORICE GARANȚIE NEAGĂ CĂ SITE-UL
+        SAU POATE FI Funcțiunile sale SAU POTRIVIT POTRIVITĂ PENTRU UN SCOP DE UTILIZARE.
+        COMPANIA nu poate garanta si nu promite rezultate SPECIFICE DIN UTILIZAREA
+        SITE-ULUI ȘI / SAU Funcțiunile sale; Pentru a evita confuziile, utilizatorul
+        ar trebui să RESPECTE MĂSURI DE SIGURANȚĂ atunci când preluaþi din site-ul
+        sau prin intermediul link-uri publicate, SI UTILIZAREA DE ORICE FIȘIERE, PRECUM
+        ȘI SOFTWARE. COMPANIA Highly Recommended DE UTILIZARE SOFTWARE NUMAI LICENÞIAT
+        PRECUM ȘI ANTIVIRUS SOFTWARE; PRIN UTILIZAREA SITE-ULUI, UTILIZATOR DE ACORD
+        CĂ DESCĂRCĂRI DE LA SITE SAU CU AJUTORUL ACESTUIA NICI UN CONȚINUT DE LA HIS
+        / RISC proprie ȘI SINGURUL RESPONSABIL PENTRU REZULTATELE POSIBILE UTILIZAREA
+        ACESTUI INFORMAȚII, INCLUSIV ORICE DAUNE CARE TI MAI Causes LA CALCULATOR
+        DE UTILIZARE SAU DE LA A TREIA PĂRȚI, pierderi de date, SAU ORICE ALTE DAUNE;
+        ÎN NICI UN CAZ COMPANIA sau agentii sai nu sunt responsabili PENTRU UTILIZATOR
+        SAU PENTRU ORICE TERȚ PENTRU ORICE DAUNE INDIRECTE, ACCIDENTALE ȘI fără voie,
+        inclusiv pierderea beneficiului, SAU PIERDEREA DATELOR, DAUNE LA ONORA, DEMNITATE
+        REPUTAȚIE, CEEA CE PRIVEªTE UTILIZAREA SITE-ULUI, conținutul sau orice alte
+        informații la care sau orice altă persoană primit un acces prin intermediul
+        site-, CHIAR DACĂ COMPANIA AVERTIZATI SAU INDICA POSIBILITATEA UNOR ASTFEL
+        DE DAUNE.
+      responsibilities_of_the_parties: 16. Responsabilitățile părților.
+      p_16: Acest acord este guvernat de și interpretat în conformitate cu legislația
+        Federației Ruse. Probleme care nu au fost soluționate prin acord se soluționează
+        în conformitate cu legislația Federației Ruse. În cazul oricăror dispute sau
+        controverse legate de punerea în aplicare a acestor regulamente, Utilizatorul
+        si Societatea va depune toate eforturile pentru a le rezolva prin negocieri.
+        În cazul în care litigiile nu vor soluționat prin negocieri, litigiile vor
+        fi soluționate în conformitate cu legislația aplicabilă a Federației Ruse.
+        Prezentul Acord este executat în limba rusă și pot fi furnizate utilizatorului
+        pentru examinare într-o altă limbă. În caz de divergență versiunii regulamentelor
+        în limba rusă și versiunea sa într-o altă limbă, se aplică versiunii în limba
+        rusă a dispozițiilor prezentului regulament. În cazul în care dintr-un motiv
+        sau altul, una sau mai multe dispoziții ale acestor regulamente vor fi declarate
+        nule sau anulate, acest lucru nu afectează valabilitatea sau aplicabilitatea
+        dispozițiilor rămase.
+      other_provisions_and_changes: 17. ALTE DISPOZIȚII ȘI MODIFICĂRI.
+      p_17: Acest acord este adevăratul acord între dumneavoastră și Flutylove în
+        ceea ce privește folosirea site-ului și / sau a serviciului. În cazul în care
+        orice prevedere a prezentului contract goluri, restul acordului rămâne valabilitatea
+        în vigoare pe deplin. Prezentul acord poate fi modificat prin Flutylove în
+        orice moment. Vă rugăm să nu ezitați să ne contactați cu orice întrebări cu
+        privire la acest acord.
+      read_this: AM CITIT ACEST CONTRACT SI DE ACORD CU TOATE TERMENII SALE.
+    about:
+      about_flutylove: Despre Flutylove
+      about_flutylove_text: Flutylove este rețeaua internațională de divertisment
+        socială pentru datări. Aici puteti gasi prieteni, un suflet pereche, parteneri
+        sau doar petrece timpul cu se bucura de a juca jocuri sau viziona clipuri
+        video / fotografii.
+      flutylove_features: 'Când vă înscrieți pe site-ul nostru, puteți afla mai multe
+        caracteristici, cum ar fi:'
+      video_call_feature: Puteți discuta cu partenerul cu camera web
+      extended_search: Puteți utiliza căutare extinsă pentru drum liber
+      multilanguages: Puteți parteneri din alte țări de căutare, deoarece serviciul
+        nostru de așteptat să folosească de gamă largă de persoane din alte țări,
+        deoarece este tradus mai mult de 70 de limbi
+      play_games_chatting_etc: Puteți discuta cu alte persoane, juca jocuri și de
+        a face alte umpluturi sociale
+      we_are_in_social_networks: 'Suntem în rețelele sociale:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google, plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Noi folosim tehnologii înalte și biblioteci
+        open source. Noi încercăm întotdeauna să obțineți mai bine și de a îmbunătăți
+        serviciul.
+      partners_and_investors: Suntem deschiși pentru parteneriat și ne-ar dori să
+        găsească investitori. Dacă doriți să coopereze cu noi, vă rugăm să ne contactați
+        la partnership@flutylove.com
+    faq:
+      faq: Întrebări frecvente
+      what_is_flutylove: Ce este Flutylove?
+      about_flutylove: Flutylove este rețeaua internațională de divertisment socială
+        pentru datări. Aici puteti gasi prieteni, un suflet pereche, parteneri sau
+        doar petrece timpul cu se bucura de a juca jocuri sau viziona clipuri video
+        / fotografii.
+      what_features_has_flutylove: Ce caracteristici are Flutylove?
+      flutylove_features: Aici puteți discuta cu videocams, utilizați căutare extinsă,
+        parteneri de căutare din alte țări, juca jocuri și de a face alte umpluturi
+        sociale.
+      i_have_some_requests: Am unele cereri
+      you_can_write_request: Vă puteți înscrie și scrie-l
+      here: aici
+      i_have_seen_some_typo_or_wrong_translation: Am văzut unele greșeală de scriere
+        sau traducere greșită
+      you_can_send_pull_request_to_our: Puteți trimite o cerere de tragere pentru
+        a ne
+      i_have_seen_some_error: Am văzut o eroare
+      you_can_send: Ne puteți trimite feedback
+      feedback: acest formular
+      to_us_or_write_to_our_info_mail: sau scrie e-mail la support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Bine ati venit la Flutylove
+      you_have_successfully_signed_up_to_flutylove: V-ați înscris cu succes până la
+        Flutylove
+      you_can_sign_in_with_your_social_networks: Dacă doriți să vă conectați din nou
+        vă puteți conecta cu contul dvs. de rețea socială
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Dacă
+        doriți să vă conectați cu e-mail și parola pot schimba parola de conectare
+        afară și faceți clic pe linkul de mai jos
+      change_password: Schimbare parolă
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: incorecte
+            search_for:
+              search_for_error: incorecte
+            birth_date:
+              birth_date_error: trebuie să fie mai mare de 18 și mai puțin de 115
+            interests:
+              interests_error: trebuie să fie mai mică de 2000 de simboluri
+            jobs:
+              jobs_error: trebuie să fie mai mică de 2000 de simboluri
+            languages:
+              languages_error: trebuie să fie mai mică de 2000 de simboluri
+            sex_keywords:
+              sex_keywords_error: trebuie să fie mai mică de 2000 de simboluri
+            my_turn_ons:
+              my_turn_ons_error_error: incorecte
+            contacts:
+              contacts_length_error: trebuie să fie mai mică de 2000 de simboluri
+              contacts_size_error: trebuie să fie mai mică de 21 de contacte
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: are o valoare nevalidă
+  devise:
+    confirmations:
+      confirmed: Contul dvs. a fost confirmat cu succes.
+      send_instructions: Vei primi un e-mail cu instrucțiuni despre cum să confirmați
+        contul dvs. în câteva minute.
+      send_paranoid_instructions: În cazul în care există adresa de e-mail în baza
+        noastră de date, veți primi un e-mail cu instrucțiuni despre cum să confirmați
+        contul dvs. în câteva minute.
+      new:
+        send_mail_for_confirm_your_email: Trimitere e-mail pentru confirmare un e-mail
+        submit: Trimite
+    failure:
+      already_authenticated: Sunteți deja conectat.
+      inactive: Contul dvs. nu este activat încă.
+      invalid: e-mail nevalidă sau o parolă.
+      locked: Contul dvs. este blocat.
+      last_attempt: Ai o încercare înainte de contul dvs. va fi blocat.
+      not_found_in_database: e-mail nevalidă sau o parolă.
+      timeout: Sesiunea a expirat. Vă rugăm să vă conectați din nou pentru a continua.
+      unauthenticated: Trebuie să vă conectați sau înregistrați-vă înainte de a continua.
+      unconfirmed: Trebuie să vă confirmați contul înainte de a continua.
+    mailer:
+      confirmation_instructions:
+        subject: Instrucțiuni de confirmare
+        welcome_to_flutylove: Bine ati venit la Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Puteți confirma
+          un e-mail prin link-ul de mai jos
+        confirm_my_account: Confirmați mea de e-mail
+      reset_password_instructions:
+        hello: Bună ziua
+        subject: Instrucțiuni de resetare a parolei
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Cineva
+          are un link de cereri de schimbare a parolei. Puteți face acest lucru prin
+          link-ul de mai jos.
+        change_my_password: schimba parola
+        if_you_didnt_request_this_please_ignore_this_email: Dacă nu ați solicitat
+          acest lucru, vă rugăm să ignorați acest e-mail.
+      unlock_instructions:
+        subject: Instrucțiuni Deblocare
+    omniauth_callbacks:
+      failure: nu a putut autentifica la {% fel} deoarece "% {motiv}".
+      success: autentificat cu succes la {%} fel de cont.
+    passwords:
+      no_token: Nu puteți accesa această pagină, fără a veni dintr-un e-mail de resetare
+        a parolei. Dacă nu provin dintr-un e-mail de resetare a parolei, vă rugăm
+        să asigurați-vă că ați folosit URL-ul complet furnizat.
+      send_instructions: Vei primi un e-mail cu instrucțiuni privind modul de resetare
+        a parolei în câteva minute.
+      send_paranoid_instructions: În cazul în care există adresa de e-mail în baza
+        noastră de date, veți primi un link de recuperare a parolei la adresa de e-mail
+        în câteva minute.
+      updated: Parola a fost schimbată cu succes. Acum sunteți conectat.
+      updated_not_active: Parola ta a fost schimbată cu succes.
+      new:
+        forgot_your_password: Recuperare parola
+        reset_password: Trimite recupera URL-ul
+      edit:
+        change_your_password: Schimbarea parolei
+        new_password: parolă nouă
+        change_password: Schimbare
+    registrations:
+      destroyed: Pa! Contul dvs. a fost anulat. Sperăm să vă vedem din nou în curând.
+      signed_up: Bine ai venit! V-ați înscris cu succes.
+      signed_up_but_inactive: V-ați înscris cu succes. Cu toate acestea, nu te putem
+        conecta, deoarece contul dvs. nu este încă activat.
+      signed_up_but_locked: V-ați înscris cu succes. Cu toate acestea, nu te putem
+        conecta, deoarece contul dvs. este blocat.
+      signed_up_but_unconfirmed: Un mesaj cu un link de confirmare a fost trimis la
+        adresa de e-mail. Vă rugăm să deschideți link-ul pentru a activa contul.
+      update_needs_confirmation: Ați actualizat contul dvs. cu succes, dar trebuie
+        să verificăm dacă noua adresă de e-mail. Vă rugăm să verificați e-mail-ul
+        și faceți clic pe link-ul de confirmare pentru a finaliza noua confirmare
+        a adresei de e-mail.
+      updated: Ați actualizat contul dvs. cu succes.
+      new:
+        sign_up: Inscrie-te
+        name: Nume
+        password: parolă
+        register: Înregistrează-te
+    shared:
+      links:
+        sign_in: Conectați-vă
+        sign_up: Inscrie-te
+        didnt_receive_confirmation_instructions: Nu a primit instrucțiuni de confirmare?
+        sign_in_with: Conectați-vă cu
+        fast_login_almost_one_click: rapid de conectare (aproape un singur clic)
+    sessions:
+      signed_in: Conectat cu succes.
+      signed_out: semnat cu succes.
+      new:
+        sign_in: Conectați-vă
+        password: parola
+        remember_me: Tine-ma minte
+        forgot_your_password: Ați uitat parola?
+    unlocks:
+      send_instructions: Vei primi un e-mail cu instrucțiuni despre modul în care
+        pentru a debloca contul în câteva minute.
+      send_paranoid_instructions: Dacă există contul dvs., veți primi un e-mail cu
+        instrucțiuni despre cum să-l debloca în câteva minute.
+      unlocked: Contul dvs. a fost deblocat cu succes. Vă rugăm sign in pentru a continua.
+  en: Tokelau Is.
+  timezones:
+    American Samoa: Samoa Americană
+    International Date Line West: Data Line International West
+    Midway Island: Midway Island
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Pacific (SUA și Canada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain (SUA și Canada)
+    Central America: America Centrală
+    Central Time (US & Canada): Central Time (US & Canada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Eastern Time (SUA și Canada)
+    Indiana (East): Indiana (East)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Timp de Atlantic (Canada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Terra Nova
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Groenlanda
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantică
+    Azores: Azore
+    Cape Verde Is: Capul Verde.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lisbon
+    London: Londra
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrad
+    Berlin: Berlin
+    Bern: Berna
+    Bratislava: Bratislava
+    Brussels: Bruxelles
+    Budapest: Budapesta
+    Copenhagen: Copenhaga
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Praga
+    Rome: Roma
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Vienna
+    Warsaw: Varșovia
+    West Central Africa: West Africa Centrală
+    Zagreb: Zagreb
+    Bucharest: București
+    Cairo: Cairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Ierusalim
+    Kaliningrad: Kaliningrad
+    Kyiv: Kiev
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Bagdad
+    Kuwait: Kuweit
+    Minsk: Minsk
+    Moscow: Moscova
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: St. Petersburg
+    Tehran: Tehran
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Yerevan
+    Kabul: Kabul
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Tașkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Beijing
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapore
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: Noua Caledonie
+    Solomon Is: Solomon Is.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fiji
+    Kamchatka: Kamciatka
+    Marshall Is: Marshall.
+    Wellington: Wellington
+    Chatham Is: Chatham Is.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+  ro: ro
+  ro_iso: ro

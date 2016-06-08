@@ -1,0 +1,1712 @@
+---
+he:
+  1_we_have_just_launched_our_service_title: Acabamos de publicar o noso servizo!
+  common_keywords: datacións, datacións en liña, amor datacións, webcam de mozo, velocidade
+    de mozo, falar na webcam mozo, Ruby on Rails sitio de mozo, sitio de mozo de varios
+    idiomas
+  common_description: A rede de entretemento social internacional máis avanzada para
+    datacións "Flutylove"
+  user: Usuario
+  user_to_search_connection: Buscar
+  video: Vídeo
+  note: Nota
+  photo_album: Álbum de fotos
+  from: De
+  to: Para
+  vkontakte: VKontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Masculino
+  - female:
+      name: Feminino
+  - transgender:
+      name: Transgender
+  - male-female:
+      name: Masculino-Feminino
+  - double-female:
+      name: dobre feminino
+  - double-male:
+      name: masculino Dobre
+  orientation:
+  - heterosexual: Recto
+  - homosexual: homosexual
+  - bisexual: Bisexual
+  search_for:
+  - chatting: Conversando
+  - get_friends: obter amigos
+  - flirtation: namorico
+  - marriage: Casamento
+  - other: Outros
+  body_type:
+    slim: Delgado
+    normal: normal
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Individual
+    in_a_relationship: En relación
+    married: Casado
+    nothing_serious: Nada serio
+  children:
+    dont_have: Non ten
+    dont_have_and_dont_want_to: Non ten e non quere
+    don_t_have_but_planning: Non teño mais a planificación
+    have_enough: Ten
+    have_and_planning_more: Have e planificación máis
+    unable_to_have_children: incapaz de ter fillos
+  living:
+    with_parents: Cos pais
+    with_marriage_partner: Con cónxuxe
+    alone: Solo
+    with_friends: Con amigo (s)
+  education:
+    nothing: Nada
+    college_technical_college: facultade / colexio técnico
+    postgraduate: de posgrao
+    phd_md_post_doctorate: D. / Máster / Post-doutoramento
+  hair_color:
+    blonde: Louro
+    dark_blond: louro escuro
+    brown: Brown
+    black: Negro
+    red: Red
+    gray: gris
+    other: Outros
+  income:
+    unemployed: Desempregados
+    unstable_earnings: beneficios inestables
+    small_stable_earnings: salario estable Pequenas
+    medium_stable_earnings: beneficios medios estables
+    higher_than_average_income: superior ao rendemento medio
+  smoking:
+    not_smoke: Non fumar
+    not_smoke_and_detest: Non fumar e detesto fumar
+    smoke_in_a_social_setting: Ás veces, nun ambiente social
+    smoke_occasionally: Fume Ocasionalmente
+    smoke_often: Smoke miúdo
+  alcohol:
+    not_drinking: Non beber
+    drink_occalionally: Bebo ocasionalmente
+    drink_in_a_social_setting: bebida nun ambiente social
+    drink_often: bebida miúdo
+  drugs:
+    dont_use: Non use
+    contra_drugs: drogas Contra
+    tried_out_some: Tentouse algúns
+    light_drugs_occasionally: drogas leves ocasionalmente
+    regular: regular
+  sponsor:
+    i_want_to_find_a_sponsor: Eu quero atopar un patrocinador
+    willing_to_become_a_sponsor: disposto a facer un patrocinador
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: A procura dun patrocinador
+      e non están dispostos a facer un
+  category_name:
+    strategy: Estratexia
+    rpg: RPG
+    3d_shooters: shooters 3D
+    racing: Carreira
+    arcade: Arcade
+    economic: Económica
+    simulators: Simuladores
+    logic: lóxico
+    adventure: Aventura
+    gambling: Gambling
+    news: Novas
+    communication: Comunicación
+    multimedia: Multimedia
+    drawing: Drawing
+    educational: educativa
+    e_commerce: E-Commerce
+    other: Outros
+  shared:
+    header:
+      people: Persoas
+      chat: chat
+      groups: Grupos
+      forum: Forum
+      requests: Solicitudes
+      about: Sobre proxecto
+      help: Axuda
+      user_applications: Applications
+    liked_users:
+      liked: Gusta
+      all: Todo
+      you_have_not_liked_any_users_yet: Non gusta calquera usuario aínda
+    most_liked_users:
+      most_liked_users: usuarios populares
+    installed_user_applications:
+      installed_applications: aplicacións
+      all: Todo
+      you_have_not_installed_any_apps_yet: Non instalou as aplicacións aínda
+    user_applications:
+      uploaded_apps: aplicacións enviados
+      all: Todo
+      you_have_not_uploaded_any_apps_yet: Non engadiu aplicacións aínda
+    right_sidebar:
+      news: Novas
+      all: Todo
+      read_more: Ler máis
+    footer:
+      footer_text: rede social de entretemento Internacional para datacións "Flutylove"
+      privacy: Privacidade
+      terms: Termos
+      feedback: comentarios
+      abuse: abuso
+    languages_select_modal:
+      available_languages: Linguas dispoñibles
+    site_map_modal:
+      faq: FAQ
+      about: Sobre
+      static_pages: páxinas estáticas
+      common_pages: páxinas comúns
+      user_pages: páxinas de usuarios
+      terms: Termos
+      privacy: Privacidade
+      people: Persoas
+      user_applications: Applications
+      user_requests: Solicitudes
+      news: Novas
+      feedback: comentarios
+      abuse: abuso
+      chats: Chat
+      photo_albums: Álbum de fotos
+      notes: Notes
+    pagination_link:
+      next_page: Páxina seguinte
+    user_edit_menu:
+      content: contido
+      profile: Perfil
+      site_settings: Configuración da páxina
+      privacy: Privacidade
+      services: Servizos
+    activities_navigation:
+      all: Todo
+      photos: Fotos
+      photo_albums: Álbum de fotos
+      notes: Notes
+    notifications_navigation:
+      all: Todo
+      likes: likes
+      friend_requests: solicitudes de amizade
+      profile_views: visitas de perfil
+      photo_album_views: Fotos visualizacións
+    user_to_friend_connections_navigation:
+      friends: Amigos
+      friends_online: Amigos liña
+      outcome_requests: solicitudes de resultados
+      income_requests: solicitudes de renda
+    user_applications_navigation:
+      all: Todo
+      new: Nova
+      popular: Popular
+      often_installed: instalado Moitas veces
+      manage: Xestionar
+    user_requests_navigation:
+      all: Todo
+      popular: Popular
+      my_requests: meus pedidos
+    user_navbar_menu:
+      sign_in: Entrar
+      sign_up: rexistrar
+    email_signature:
+      info: Información
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd
+    translations:
+      select_gender: Select xénero
+      select_orientation: Select orientación
+      select_search_for: selecciona Buscar
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Debe facer login antes desta acción
+      available_sign_in_methods: Vostede
+    sign_up_methods:
+      usual_register_link: rexistro de costume
+      register_text: Ademais% {usual_registration} pode rexistrar a través de servizos
+        máis populares e as redes sociais
+    bootstrap_gallery:
+      previous: Anterior
+      next: Seguinte
+    user_notification_title:
+      you_liked: Vostede querido por
+      wrote_message_to_you: Escribiu mensaxe para ti
+      viewed_your_profile: viu o seu perfil
+      liked_your_photo: Gustoulle a súa foto
+      liked_your_note: Gusta súa nota
+      liked_your_request: Gustoulle a proposta
+      liked_your_video: Gusta teu vídeo
+      liked_your_application: Gustoulle a súa aplicación
+      requested_a_friendship: solicitada unha amizade
+  authentications:
+    authentication:
+      turn_on: Chama
+      turn_off: Desactivar
+      turned_on: Ligado
+      turned_off: Desconectada
+    index:
+      enabled_services: servizos habilitados
+  users:
+    profile:
+      submit: Gardar
+      name: Nome
+      meet_with: reunirse con
+      gender: Sexo
+      type_in_your_location: Tipo na súa cidade
+      about_me: Algunhas palabras sobre si mesmo (ademais de formar a continuación)
+      sex_keywords: Intereses en sexo
+      enter_your_name: Insire o teu nome
+      more_options: Máis
+      orientation: Orientación
+      location: Localización
+      search_for: Buscar
+      intimacy: Intimacy
+      in_age: Na idade
+      from: de
+      to: para
+      interests: Intereses
+      height: Altura
+      weight: Peso
+      relationship: Relación
+      children: Nenos
+      living: bruta
+      education: Educación
+      jobs: Job
+      income: Renda
+      languages: Idiomas
+      smoking: fumar
+      alcohol: Alcohol
+      drugs: Drogas
+      contacts: Axenda
+      contact_value: Contact
+      save: Gardar
+      about_yourself: sobre si mesmo
+    settings:
+      submit: Gardar
+      locale: idioma da interface
+      change_password: Cambiar contrasinal
+      interface_language: idioma da interface
+    dialog_modal:
+      send_message: Enviar mensaxe
+    index:
+      users: Usuarios
+      clear_search: Borrar busca
+    dashboard:
+      hello: Ola
+      here_some_of_your_statistics: Aquí algunhas das súas estatísticas
+      chats: Chat
+      photos: Fotos
+      notes: Notes
+      photo_albums: Álbum de fotos
+    avatar:
+      photo: Foto
+      drag_and_drop_your_file: Arrastre e solte o arquivo
+      here: aquí
+      or: ou
+      from_other_sites: doutros sitios
+      write_down_link_for_your_image: Anota conexión da súa imaxe
+      url_for_image: Url para a imaxe
+      upload: Cargar
+      from_facebook: Facebook
+      turn_on_facebook: Chama Facebook
+      you_can_upload_your_photos_from_facebook: Pode subir as súas fotos de Facebook
+      from_vkontakte: De VKontakte
+      you_can_upload_your_photos_from_vkontakte: Pode subir as súas fotos do VKontakte
+      turn_on_vkontakte: Chama VKontakte
+      from_instagram: De Instagram
+      you_can_upload_your_photos_from_instagram: Pode subir as súas fotos de Instagram
+      turn_on_instagram: Chama Instagram
+      from_dropbox: De Dropbox
+      you_can_upload_your_photos_from_dropbox: Pode subir as súas fotos de Dropbox
+      turn_on_dropbox: Chama Dropbox
+      edit_photo: Editar foto
+      delete_photo: Eliminar foto
+      are_you_sure: Está seguro?
+    available_photos_modal:
+      available_photos: fotos dispoñibles
+    update:
+      your_password_was_successfully_changed: O cambio do contrasinal correctamente
+      your_profile_was_successfully_updated: seu perfil foi actualizado con éxito
+    edit_photo:
+      edit_photo: Editar foto
+      crop: Colleita
+      close: Pechar
+      save_changes: Gardar cambios
+    contact:
+      contact_name_placeholder: Facebook / Skype / VK / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: Sobre min
+      orientation: Orientación
+      meet_with: reunirse con
+      desirable_age: idade Desexable
+      from: de
+      to: para
+      interests: Intereses
+      height: Altura
+      sm: sm
+      relationship: Relación
+      children: Nenos
+      living: bruta
+      education: Educación
+      jobs: Jobs
+      income: Renda
+      languages: Idiomas
+      smoking: fumar
+      alcohol: Alcohol
+      drugs: Drogas
+      contacts: Axenda
+    user_info:
+      offline: conexión
+      online: en liña
+      age: Idade
+    loading_modal_images:
+      loading_images: Cargando imaxes
+    password_form:
+      new_password: New password
+      confirm_new_password: Confirmar novo contrasinal
+      old_password: contrasinal antiga
+      change_password: Cambiar contrasinal
+    show:
+      photos: Fotos
+      all: Todo
+      notes: Notes
+      view: Ver
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: Pegar clave recibidas
+      submit: Enviar
+    contents:
+      users_which_i_like: Usuarios que me gusta
+      all: Todo
+      my_videos_likes: meus vídeos gustos
+      my_photos_likes: miñas fotos gustos
+      my_notes_likes: miñas notas gustos
+      my_user_applications_likes: miñas aplicacións gustos
+      my_user_requests_likes: meus pedidos gustos
+    more_profile_info:
+      photo_albums: Álbum de fotos
+      view_all_photo_albums: Ver os álbums de fotos
+      create_more: Crear máis
+      view_all_videos: Ver todos os vídeos
+      notes: Notes
+      view_all_notes: Ver todas as notas
+      requirements_lists_to_partner: Requisitos lista de socio
+      requirement: Requisito
+      view_all_requirements_lists: Ver listas de todos os requisitos
+      profile_verification: comprobación Perfil
+      your_profile_is_successfully_verified: O seu perfil é posible con éxito
+      create: Crear
+      you_have_not_any_requirements_lists_yet: non ten os requisitos listas aínda
+      you_have_not_any_notes_yet: non ten todas as notas aínda
+      you_have_not_any_photo_albums_yet: Non ten ningún álbums de fotos aínda
+      you_have_not_any_videos_yet: Non ten ningún vídeo
+      your_profile_is_not_verified_yet: o seu perfil non se confirmou
+      verify_through_twitter: Comprobe a través de Twitter
+      verify_through_facebook: Comprobe a través de Facebook
+      verify_through_mail_ru: Comprobe a través Mail.ru
+    privacy:
+      privacy: Privacidade
+  searches:
+    form:
+      location: Localización
+      from: de
+      to: para
+      age: Idade
+      gender: Sexo
+    form_content:
+      city: Cidade
+      gender: Sexo
+      age_from: Idade de
+      to: para
+      online: en liña
+      verified: verificado
+      has_avatar: ten avatar
+      region: Rexión
+      more: Máis
+      country: País
+      about_me: Sobre min
+      interests: Intereses
+      languages: Idiomas
+      names: Names
+      height: Altura
+      from: de
+      weight: Peso
+      relationship: Relación
+      education: Educación
+      orientation: Orientación
+      search_for: Buscar
+      children: Nenos
+      living: bruta
+      smoking: fumar
+      alcohol: Alcohol
+      drugs: Drogas
+      income: Renda
+    show:
+      users: Usuarios
+      clear_search: Borrar busca
+  welcome:
+    index:
+      people: Persoas
+      requests: Solicitudes
+      user_applications: Applications
+      about: Sobre
+      features: Características
+      registration: Rexistro
+      sign_in: Entrar
+      welcome_main_title: Benvido ao Flutylove!
+      welcome_main_text: Este é o lugar onde podes atopar o seu amor perfecto
+      find_more: Atopa máis
+      about_title: Flutylove é a rede social de entretemento internacional para datacións
+      about_text: Hai moitos recursos que pode usar para entretemento e datacións!
+      find_more_features: Atopa máis recursos
+      at_our_service: características do noso servizo
+      many_languages: Moitas linguas
+      text_about_many_languages: O noso servizo é traducido máis de 70 idiomas
+      check_it_out: Escribe
+      videochats: videochats
+      text_about_videochats: Pode falar co seu compañeiro con videocams
+      try_it_now: Proba agora
+      search: Buscar
+      text_about_search: Podes buscar con varios parámetros, e é gratis!
+      watch_this: Assist a este
+      more_features: Máis recursos
+      text_about_more_features: Podes ver vídeos, xogar e facer moitas outras cousas!
+      register_and_learn_more: Register e aprender máis
+      install_our_apps: Instalar nosos programas a partir de plataformas populares
+      register_header: Rexistro
+  feedbacks:
+    new:
+      feedback_title: comentarios
+    form:
+      feedback_name: O seu nome
+      feedback_email: O seu correo electrónico
+      close: Pechar
+      send: Enviar
+      feedback_recaptcha: reCAPTCHA
+      cancel: Desfacer
+    success:
+      success_feedback: Grazas! Recibimos o producto.
+      close: Pechar
+      cancel: Desfacer
+      more: Enviar máis
+  abuses:
+    new:
+      abuse_title: abuso
+    form:
+      abuse_name: O seu nome
+      abuse_email: O seu correo electrónico
+      abuse_title: abuso
+      close: Pechar
+      send: Enviar
+      abuse_recaptcha: reCAPTCHA
+      abuse_link: ligazón
+      cancel: Desfacer
+    success:
+      success_abuse: Grazas! Recibimos o seu abuso.
+      close: Pechar
+      cancel: Desfacer
+      more: Enviar máis
+  layouts:
+    welcome:
+      welcome_title: Benvido ao Flutylove! O sitio web de mozo máis avanzado.
+  recaptcha:
+    errors:
+      verification_failed: reCAPTCHA Erro
+      recaptcha_unreachable: reCAPTCHA está inaccesible
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Acabamos de publicar o noso servizo!
+      we_have_just_launched_our_service_text: Hoxe lanzamos o noso servizo para que
+        todos poidan
+      sign_up: rexistrar
+      and_use_it: e usalo.
+      wishes_and_requests: Se ten algún desexo ou solicitudes, pode inscribirse e
+        escribiulle o
+      here: aquí
+      with_love: Con amor,
+      flutylove_team: Equipo Flutylove
+    index:
+      all_news: Todas as noticias
+      read_more: Ler máis
+  chats:
+    panel_head:
+      online: en liña
+      offline: conexión
+    pagination_link:
+      next_page: Páxina seguinte
+    form_additions:
+      submit: Enviar
+      videochat: videochat
+    videochat_request_link:
+      connect_to_videochat: Connect to videochat
+    modal_form:
+      send_message: Enviar mensaxe
+      recipient: Destinatario
+      message: mensaxe
+      close: Pechar
+      submit: Enviar
+    waiting_video_answer_button:
+      waiting_for_response: Agardando resposta ...
+    chat_created:
+      send_message: Enviar mensaxe
+      message_was_sent: mensaxe foi enviada
+      close: Pechar
+  messages:
+    pagination_link:
+      next_page: Páxina seguinte
+  notifications:
+    user_to_friend_connection:
+      action: Acción
+    notification:
+      offline: conexión
+      online: en liña
+    like:
+      action: Acción
+    photo_album_view:
+      action: Acción
+    user_view:
+      action: Acción
+  user_applications:
+    user_application:
+      who_uploaded: Enviado por
+      all_uploaded_applications_by: Todas as solicitudes enviadas por
+    form:
+      name: Nome
+      user_application_name: Nome da aplicación
+      description: Descrición
+      description_text: texto Descrición
+      iframe_url: Iframe url
+      public: Pública?
+      category_name: Categoría
+      create: Crear
+      edit: Editar
+    show:
+      application: Aplicación
+      return_to_uploaded_applications: Para cargado aplicación
+      return_to_all_applications: retorno a todas as aplicacións
+    manage:
+      installed_applications: aplicacións
+      uploaded_applications: aplicacións enviados
+      all: Todo
+    index:
+      applications_uploaded_by: Applications enviados por
+      return_to_all_applications: retorno a todas as aplicacións
+      create_new: Crear nova
+      return_to_manage_applications: retorno para xestionar aplicacións
+    installed:
+      installed_applications: aplicacións
+      return_to_all_applications: retorno a todas as aplicacións
+      return_to_manage_applications: retorno para xestionar aplicacións
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Antes de vista esta aplicación,
+        ten que entrar primeiro
+    need_to_install:
+      need_to_install_first: É necesario instalar esta aplicación primeiro
+      install_application: Instalar aplicación
+  likes:
+    index:
+      liked_items: elementos Gustoume
+      return_to_my_content: Volver meu contido
+  videos:
+    index:
+      return_to_edit_profile: Para perfil edición
+      create_new: Crear nova
+      return_to_profile: volver ao perfil
+    video:
+      edit: Editar
+      are_you_sure: Está seguro?
+      delete: Eliminar
+    modal_form:
+      create_new_video: Crear novo video
+      close: Pechar
+      create: Crear
+    form_content:
+      name: Nome
+      video_name: nome Vídeo
+      source: Url de código
+      video_url_or_embed_code: Vídeo url do código de vídeo
+    show:
+      video: Vídeo
+      return_to_all_videos: retorno a todos os vídeos
+      edit_video: Editar vídeo
+    edit:
+      edit_video: Editar vídeo
+      return_to_view_video: Volver á vista de vídeo
+      view_video: Ver vídeo
+    form:
+      edit: Editar
+  photo_albums:
+    index:
+      photo_albums: Álbum de fotos
+      return_to_editing_profile: Para perfil edición
+      create_new: Crear nova
+      return_to_profile: volver ao perfil
+    photo_album:
+      edit: Editar
+      create: Crear
+      are_you_sure: Está seguro?
+      delete: Eliminar
+    edit:
+      edit_photo_album: Editar álbum de fotos
+      return_to_photo_albums: Para álbums de fotos
+      view_photo_album: Ver álbum de fotos
+    form_content:
+      name: Nome
+      photo_album_name: Foto nome do álbum
+    form:
+      edit: Editar
+      create: Crear
+    photo_album_uploader:
+      drag_and_drop_your_file: Arrastre e solte o arquivo
+      here: aquí
+      or: ou
+      from_other_sites: doutros sitios
+      write_down_link_for_your_image: Anota conexión da súa imaxe
+      url_for_image: Url para a imaxe
+      upload: Cargar
+      from_facebook: Facebook
+      turn_on_facebook: Chama Facebook
+      you_can_upload_your_photos_from_facebook: Pode subir as súas fotos de Facebook
+      from_vkontakte: De VKontakte
+      you_can_upload_your_photos_from_vkontakte: Pode subir as súas fotos do VKontakte
+      turn_on_vkontakte: Chama VKontakte
+      from_instagram: De Instagram
+      you_can_upload_your_photos_from_instagram: Pode subir as súas fotos de Instagram
+      turn_on_instagram: Chama Instagram
+      from_dropbox: De Dropbox
+      you_can_upload_your_photos_from_dropbox: Pode subir as súas fotos de Dropbox
+      turn_on_dropbox: Chama Dropbox
+    show:
+      return_to_photo_albums: Para álbums de fotos
+      edit_photo_album: Editar álbum de fotos
+    modal_form:
+      create_new_photo_album: Crear novo álbum de fotos
+      close: Pechar
+      create: Crear
+  user_requests:
+    form:
+      content: contido
+      edit: Editar
+      create: Crear
+  notes:
+    index:
+      notes: Notes
+      return_to_edit_profile: Para perfil edición
+      create_new: Crear nova
+      return_to_profile: volver ao perfil
+    note:
+      edit: Editar
+      are_you_sure: Está seguro?
+      delete: Eliminar
+    show:
+      note: Nota
+      return_to_notes: Return to notas
+      edit_note: Editar nota
+    form_content:
+      content: contido
+      edit: Editar
+      create: Crear
+    edit:
+      edit_note: Editar nota
+      return_to_notes: Return to notas
+      view_note: Ver nota
+  user_to_search_connections:
+    index:
+      requirements_lists: lista os requisitos
+      return_to_editing_profile: Para perfil edición
+      create_new: Crear nova
+    user_to_search_connection:
+      edit: Editar
+      are_you_sure: Está seguro?
+      delete: Eliminar
+    edit:
+      edit_requirements_list: Editar lista os requisitos
+      return_to_requirements_lists: Para listas de requisitos
+    form_content:
+      name: Nome
+      name_of_your_requirements_list: nome da lista de requisitos
+    form:
+      edit: Editar
+    show:
+      return_to_requirements_lists: Para listas de requisitos
+  photos:
+    index:
+      photos: Fotos
+      return_to_photo_albums: retorno aos álbums de fotos
+      return_to_profile: Para o perfil
+  errors:
+    messages:
+      already_confirmed: xa se confirmou, por favor probe facer login
+      confirmation_period_expired: debe ser confirmado dentro% {período}, por favor,
+        solicitar un novo
+      expired: expirou, por favor solicitar un novo
+      not_found: Non se atopou
+      not_locked: non estaba protexida
+      not_saved:
+        one: '1 erro prohibido este% {recurso} de ser gardado:'
+        other: "% {count} erros prohibidas este% {recurso} de ser gardado:"
+    bad_request:
+      bad_request_description: O servidor non pode ou non pode procesar a petición
+        debido a un erro cliente aparente
+      go_to_root: Ir raíz
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable Entidade
+      unprocessable_entity_description: A petición foi ben formado, pero non puido
+        ser seguido por erros semánticos
+      go_to_root: Ir raíz
+    not_found:
+      not_found: Non se atopou
+      not_found_description: O recurso solicitado non se atopou, pero poden estar
+        dispoñibles no futuro
+      go_to_root: Ir raíz
+    forbidden:
+      forbidden: Prohibida
+      forbidden_description: A petición foi unha proposta válida, pero o servidor
+        está rexeitando a responder a ela
+      go_to_root: Ir raíz
+    internal_server_error:
+      internal_server_error: Internal Server Error
+      internal_server_error_description: Algo deu mal. Imos resolve-lo o máis axiña
+        posible.
+      go_to_root: Ir raíz
+  pages:
+    privacy:
+      privacy: Flutylove Política de Privacidade
+      general_provisions: Disposicións xerais
+      p_1_1: 1.1. Estes regulamentos son un documento oficial da compañía de responsabilidade
+        limitada "Technoelegance", situado na 101000, Moscova, Ulanskiy Pereulok 13,
+        stroeniye 4, pomeshcheniye 1 (en adiante Flutylove, a compañía, Nós), e determinar
+        os procedementos de procesamento de datos e seguridade da información dos
+        individuos que teña alcanzado a idade de 18 anos, e que utilizar o sitio web
+        https://flutylove.com (en adiante web) e os seus servizos (en adiante os usuarios).
+      p_1_2: 1.2. O presente Reglamento é garantir a debida protección da información
+        do usuario, incluíndo información persoal, o acceso non autorizado e divulgación.
+      p_1_3: 1.3. As relacións asociados á recollida, almacenamento, distribución
+        e seguridade da información do usuario Sitio son rexidos por estes regulamentos,
+        os outros documentos oficiais da compañía e da lexislación actual da Federación
+        Rusa.
+      p_1_4: 1.4. A versión actual dos regulamentos, que son un documento público,
+        está dispoñible para calquera usuario de Internet cando seguindo a ligazón
+        http://flutylove.com/pages/privacy. A Compañía ten o dereito de modificar
+        estas normativas. No caso de cambio son feitas aos regulamentos, a Compañía
+        notificará aos usuarios postea a nova versión do Reglamento na web no http://flutylove.com/pages/privacy
+        enderezo permanente, o máis tarde 10 días antes da efectiva data do cambio.
+        As versións anteriores dos regulamentos almacénanse no ficheiro de documentación
+        da compañía.
+      p_1_5: 1.5. Estes regulamentos foron desenvolvidos e son utilizados de conformidade
+        co Contrato de usuario. No caso de calquera contravenção entre estes regulamentos
+        e outros documentos oficiais da compañía, estes regulamentos deben ser aplicadas.
+      p_1_6: 1.6. Ao usar o sitio web, Vostede concorda cos termos e condicións desta
+        política de privacidade. Por favor, lea con atención. Se non de acordo cos
+        termos desta política de privacidade, ou se non está alcanzado a idade de
+        18 anos, non pode usar o sitio web e os seus servizos. Ao usar o sitio web,
+        independentemente de se é o usuario rexistrado do Flutylove ou non, confirma
+        que acepta plenamente esta política de privacidade e de acordo en seguilo.
+      the_website_using_conditions: o sitio usando condicións
+      p_2_1: '2.1. Para utilizar o sitio web Flutylove, ten que se rexistrar. A seguinte
+        información deben ser especificadas durante o rexistro: nome, enderezo de
+        correo-e, sexo, data de nacemento, información de localización. O usuario
+        pode fornecer detalles persoais adicionais na súa / seu propio desexo. O usuario
+        pode editar ou actualizar información persoal en calquera momento. A Compañía
+        ten dereito a solicitar documentos acreditativos adicionais en caso de cambio
+        de xénero e data de nacemento do usuario.'
+      p_2_2: '2.2. Ao permitir que o acceso ao sitio web e os seus servizos, a compañía,
+        actuando de forma razoable e de boa fe, considera que o usuario: entende que
+        para o rexistro na web é necesario ter máis de 18 anos de idade; ten todos
+        os dereitos necesarios para poder rexistrar neste sitio web e usalo; indica
+        información precisa sobre si mesmo / ela mesma segundo as solicitudes para
+        a utilización dos servizos do sitio web, é consciente de que información persoal
+        na web, indicado polo usuario, pode facer-se dispoñible para outros usuarios
+        dos usuarios da web e de Internet, así como, pode ser copiado e distribuído
+        por outros usuarios; é consciente de que algúns tipos de información, trasladados
+        a outros usuarios, non pode ser eliminado polo usuario; está familiarizado
+        con estes regulamentos, de acordo con eles e comprométese os dereitos e obrigas
+        especificadas.'
+      p_2_3: 2.3. A Compañía non comprobar a precisión do recibido (reunidos) información
+        sobre os usuarios, con excepción de casos en que esta comprobación é necesaria,
+        a fin de cumprir as obrigas da compañía para o usuario.
+      information_processing_objectives: obxectivos Information Processing
+      p_3_1: 3.1. A Compañía realiza o procesamento de información sobre os usuarios,
+        incluíndo os seus datos persoais, a fin de cumprir as obrigas da compañía
+        para os usuarios para o uso do sitio web e os seus servizos.
+      p_3_2: 3.2 A Compañía ten dereito a realizar o proceso de datos persoais sen
+        notificar á autoridade competente para a protección dos dereitos dos titulares
+        dos datos persoais.
+      structure_of_the_user_information: Estrutura da información de usuario
+      p_4_1: '4.1. datos persoais dos usuarios inclúe:'
+      p_4_1_1: 4.1.1. nome, enderezo de correo-e, sexo, data de nacemento, información
+        sobre a localización e número de teléfono, que son proporcionados polos usuarios
+        e debe ser só o suficiente para o rexistro na web,
+      p_4_1_2: 4.1.2. a información que é proporcionada polo usuario (por exemplo,
+        fotografías, información sobre os hábitos perniciosos etc.)
+      p_4_1_3: 4.1.3. Ademais fornecido polo usuario de acordo coa petición da empresa,
+        a fin de cumprir as obrigas da compañía, para os usuarios, aparecendo segundo
+        do consumidor. A Compañía ten dereito, en particular, para solicitar ao usuario
+        unha copia do documento de identidade ou calquera outro documento que contén
+        o nome, sexo e data de nacemento, así como outras informacións adicionais
+        que, a criterio da Compañía, será necesario e suficiente para a identificación
+        de tal usuario e eliminaría o abuso e violación de dereitos de terceiros.
+      p_4_2: '4.2. procesamento de información de outro usuario pola Compañía A administración
+        de sitios web tamén procesa outras informacións sobre os usuarios, que inclúe:'
+      p_4_2_1: 4.2.1. datos comúns, recibiron automaticamente por http-servidor ao
+        acceder ao sitio web e as accións seguintes do usuario (enderezo IP do servidor,
+        tipo de sistema operativo do usuario, as páxinas do sitio visitado polo usuario).
+      p_4_2_2: 4.2.2. información que reciba automaticamente ao acceder ao sitio usando
+        marcadores (cookies);
+      p_4_2_3: 4.2.3. información que se recibe como resultado das accións do usuario
+        na web;
+      p_4_2_4: 4.2.4. información que se recibe como resultado de accións doutros
+        usuarios na páxina web.
+      p_5_1: '5.1. tratamento de datos persoais está realizando con base nos seguintes
+        principios: a) fins lexítimos e os medios de tratamento dos datos persoais;
+        b) a honestidade; c) o cumprimento dos fins de procesamento de datos persoais
+        con fins predeterminada e declarada cando a obtención de datos persoais, así
+        como o cumprimento das credenciais da Compañía; d) a conformidade do volume
+        e do tipo de tratamento de datos persoais, así como a conformidade dos medios
+        de tratamento dos datos persoais co obxectivo da súa transformación; e) Inadmisibilidad
+        de combinar as bases de datos creados para fins incompatibles, que contén
+        datos persoais.'
+      p_5_1_1: 5.1.1. A recollida de datos persoais do usuario realízase na web cando
+        rexistro, así como, no futuro, cando o usuario engade máis información sobre
+        el / ela empregando as ferramentas do sitio web no seu / súa propia iniciativa.
+      p_5_1_2: 5.1.2. datos persoais dos usuarios son almacenados exclusivamente en
+        formato electrónico e procesadas a través de sistemas automatizados, con excepción
+        dos casos en que o procesamento manual dos datos persoais é necesario, para
+        o cumprimento dos requisitos legais.
+      p_5_1_3: 5.1.3. datos persoais do usuario non son trasladadas a terceiros, salvo
+        nos casos expresamente previstos no presente Reglamento e do Contrato de Usuario.
+        Co consentimento do usuario, os datos persoais do usuario poden ser transmitidos
+        a terceiros contrapartes da empresa, a condición de asunción dunha obriga
+        de garantir a confidencialidade da información recibida, en particular, ao
+        usar os servizos e aplicacións. provisionais de datos persoais do usuario,
+        a petición das autoridades gobernamentais (autoridades locais) realízase no
+        procedemento, conforme esixe por lei.
+      p_5_1_4: '5.1.4. datos persoais do usuario son excluídos cando: - os datos son
+        auto-apagada da páxina polo usuario; - A páxina é auto-excluído polo usuario;
+        - Información do usuario ea súa páxina persoal borrará pola Compañía. En caso
+        de páxina de exclusión polo propio usuario, a compañía almacena datos persoais
+        do usuario no seus medios electrónicos no prazo de 210 días despois da páxina
+        persoal é eliminado. Os datos persoais son eliminados despois do vencemento
+        de 210 días despois da páxina persoal é eliminado. Ata este período caduca,
+        o usuario ten dereito a dar a páxina persoal.'
+      users_rights_and_obligations: dereitos e obrigas dos usuarios
+      p_6_1: '6.1. O usuario ten dereito a:'
+      p_6_1_1: 6.1.1. acceder a información sobre el / ela sen restricións e de balde,
+        editando a súa páxina persoal na web co uso do usuario e contrasinal;
+      p_6_1_2: 6.1.2. independentemente facer cambios e correccións á información
+        na páxina web do usuario na páxina web, coa condición de que tales cambios
+        e correccións contén up-to-date e información verdadeira;
+      p_6_1_3: 6.1.3. eliminar a información da páxina web na web;
+      p_6_1_4: 6.1.4. solicitar á compañía obter información máis específica, bloquear
+        ou borrar os datos persoais, se estes datos son incompletos, desactualizados,
+        imprecisos, ilegalmente recibidos ou non son necesarios para o propósito declarado
+        de procesamento ou as accións especificadas no punto 6.1.3 destas regulamentos
+        non pode ser aplicado de forma independente;
+      p_6_1_5: 6.1.5. con base na solicitude, reciban a información da compañía con
+        respecto ao tratamento dos seus / súas datos persoais.
+      p_6_2: '6.2. A seguinte información sobre calquera usuario da web rexistrado
+        está sempre dispoñible para o usuario rexistrado: nome, sexo, idade, foto
+        do perfil do usuario e outras informacións se o usuario publicou.'
+      p_6_3: 6.3. A Compañía non asume ningunha responsabilidade pola divulgación
+        de información persoal do usuario por outros usuarios do sitio web que accederon
+        a estes datos.
+      p_6_4: 6.4. No caso de datos persoais (outras información do usuario) a eliminación
+        da páxina ou a eliminación da páxina persoal do usuario dende o sitio web
+        persoal do usuario, información do usuario copiado por outros usuarios ou
+        almacenados en páxinas de usuarios é preservada.
+      p_7_1: 7.1. A Compañía toma as medidas técnicas, organizativas e legais para
+        asegurar que os datos persoais do Usuario están protexidos contra acceso non
+        autorizado ou accidental, borrado, modificación, bloqueo, copia e difusión,
+        así como doutras accións non autorizadas.
+      p_7_2: 7.2. o login do usuario (enderezo de correo electrónico ou número de
+        teléfono) e contrasinal son usados ​​para acceder ao sitio. O usuario é responsable
+        de manter esta información confidencial. O Usuario non pode descargar o usuario
+        e contrasinal para terceiros e, tamén está obrigado a tomar medidas para garantir
+        a súa confidencialidade.
+      limitation_of_the_regulations_applicability: limitación da aplicabilidade Regulamento
+      p_8: Estes regulamentos non son estendidos para as accións e recursos de Internet
+        de terceiros. A Compañía non asume ningunha responsabilidade polos actos de
+        terceiros que tiveron acceso a información do usuario a través de Internet
+        ou os Servizos Web. A administración de sitios web recomenda aos usuarios
+        de abordar o tema coa cantidade de informacións difundidas na web dunha forma
+        responsable.
+      user_requests: As solicitudes de usuarios
+      p_9_1: '9.1. Os usuarios teñen dereito a enviar solicitudes para a compañía,
+        incluíndo as peticións relativos á utilización dos datos persoais por escrito
+        ao seguinte enderezo: Rusia, 101000, Moscova, Ulanskiy Pereulok 13, stroeniye
+        4, pomeshcheniye 1 ou en forma de documento electrónico asinado por unha sinatura
+        electrónica cualificada, segundo a lexislación da Federación Rusa, por correo
+        electrónico: support@flutylove.com.'
+      p_9_2: '9.2. solicitude do usuario debe conter a seguinte información: o número
+        do documento de usuario ou o seu representante identificación; data de emisión
+        do documento de arriba e da autoridade responsable; información que confirmen
+        a participación do usuario nas relacións co operador (en particular, a ligazón
+        á páxina); sinatura do usuario ou o seu representante /.'
+      p_9_3: 9.3. A Compañía comprométese a conta e responder á petición do usuario
+        dentro de 30 días logo de ser recibido.
+      p_9_4: 9.4. Toda a correspondencia recibida pola compañía a partir dos usuarios
+        (escrita ou solicitudes electrónicos) é clasificada como información de acceso
+        restrinxido e non poden ser divulgadas sen o consentimento escrito do usuario.
+        Os datos persoais e outras informacións sobre o usuario que enviou a petición
+        non pode ser utilizado, sen autorización especial do usuario, a diferenza
+        do que a resposta á petición ou nos casos expresamente previstos pola lexislación
+        aplicable.
+    terms:
+      terms: Contrato de Usuario Flutylove
+      welcome: Benvido ao Flutylove!
+      about_terms: 'Estes termos de uso (e os documentos aquí mencionados, incluíndo
+        Política de privacidade) son o contrato de adhesión de conformidade co artigo
+        428 do Código Civil da Federación Rusa (adiante designado por "Acordo") entre
+        o individuo que atinxise 18 anos de idade (en diante, como o "usuario" ea
+        compañía (ou "Nós") - un LIMITED LIABILITY Company "Technoelegance" (LLC "Technoelegance")
+        (enderezo legal: 101000, Moscova, Ulanskiy Pereulok 13, stroeniye 4, pomeshcheniye
+        1), denominado en diante Flutylove, segundo o cal pode usar este sitio web
+        e todos os servizos asociados ofrecidos a través do sitio web ou aplicación
+        (xeralmente referidos como "servizos"). a web é entendida como calquera súas
+        versións, combinados co nome de dominio flutylove.com e opera a unha variedade
+        de dispositivos, incluíndo a versión baseada na web, aplicacións móbiles e
+        aplicacións para redes sociais.Ao usar este sitio web, Vostede concorda cos
+        termos do Acordo e política de privacidade. Por favor, lea con atención. Se
+        non de acordo cos termos do Acordo e política de privacidade, ou se non está
+        alcanzado a idade de 18 anos, non pode usar o sitio web e os seus servizos.Usando
+        este portal, independentemente se está rexistrado usuario Flutylove ou non,
+        concordas completamente con este Contrato ea nosa Política de Privacidade,
+        que está incluído no presente Acordo a través do enlace e está dispoñible
+        na páxina web, e lle dar cumprimento.A petición do usuario, a compañía comprométese
+        a asinar o Acordo en formato impreso e enviá-lo para a persoa que solicita
+        a documentación.A Compañía resérvase o dereito de modificar o contrato de
+        usuario e calquera documento a que se refire a el. Para estar ao tanto dos
+        cambios que precisa para manter-up-to-date información sobre tales cambios
+        nunha base regular. Imos informarlles lo sobre os cambios que fixemos nesta
+        páxina seguinte. Os cambios non se relacionan para atrás e entrará en vigor
+        no prazo de dez días desde a data de publicación. Con todo, no caso de que
+        están asociados coa posta en marcha de novos servizos ou a modificación da
+        lexislación, ela aplicarase inmediatamente. Se non de acordo cos cambios no
+        Acordo, ten que deixar de usar o sitio e as súas aplicacións.'
+      consent_to_accept_the_terms_of_user_agreement: 1. AUTORIZACIÓN PARA aceptar
+        os termos do contrato de usuario.
+      p_1: a. Segundo electrónico. Este acordo é unha versión electrónica do contrato,
+        que describe os termos de uso do sitio web e dos Servizos. Ao iniciar a sesión
+        para o sitio ou facer un usuario, acepta este contrato e de acordo con todos
+        os termos, condicións e avisos contidos ou referenciados alí. Vostede afirma
+        e acepta que os usuarios de Flutylove pode ser unha parte dunha comunidade
+        en liña que inclúe outros sitios pertencentes á compañía ou de seus afiliados.
+        Polo tanto, os perfís na web se pode ver en outros sitios semellantes e asinantes
+        pagantes dun sitio web pode comunicarse con outros subscritores de todos os
+        sitios. b. Formulario electrónico. Ao iniciar a sesión para o sitio ou facer
+        un usuario, concordas con a fornece-lo co Acordo electrónico. c. copia impresa.
+        Vostede ten dereito a recibir a copia impresa deste Acordo. Pode solicitar
+        edición impresa deste Acordo antes ou despois vai ser asinado en formato electrónico.
+        Por favor, póñase en contacto co noso servizo ao cliente para máis información.
+        d. Acceso e descarga. A fin de acceder e baixar este Contrato electrónico,
+        ten que ter acceso a Internet ou directamente a través dos dispositivos co
+        acceso a recursos web. Debe ter o equipamento necesario para conectarse a
+        Internet, é dicir, o ordenador, módem ou outro dispositivo de acceso. Por
+        favor, imprima unha copia deste Contrato e mantelo. Para descargar o formulario
+        electrónico do acordo, salva-o no seu ordenador coa axuda de calquera editor
+        de texto.
+      the_right_of_using_the_website: 2. O dereito de utilizar a web.
+      p_2: Vostede debe ter polo menos dezaoito (18) anos de idade para facer un usuario
+        rexistrado desta web. En caso de non conformidade cos requisitos, o acceso
+        ao sitio será rexeitada. Usando o sitio web, o usuario debe ser consciente
+        de que a información persoal difundidas na web pode estar dispoñible para
+        outros usuarios de Internet, ea Compañía non é ter a responsabilidade polas
+        súas accións. Ao usar este sitio web afirma e asume que ten o dereito, a autoridade
+        ea posibilidade de entrar neste Acordo, e consentimento para seguir todos
+        os termos e condicións. Tornándose un usuario que afirma e asume que nunca
+        sufriu condena por delito relacionado coa violencia sexual. O sitio web foi
+        deseñado para uso persoal. Prohíbese utilizar o sitio para os fins comerciais.
+        entidades empresariais non poden ser os usuarios deste sitio web, así como
+        non pode usar este servizo é o sitio en seus propósitos. Ilegal e / ou non
+        autorizada mediante o sitio web, incluíndo a recollida de nomes e / ou enderezos
+        de correo-e coa axuda de ferramentas electrónicas ou outros, para efectos
+        de envío de mensaxes non desexadas e ligazóns é perseguido ea Compañía pode
+        tomar as accións apropiadas de acordo coa lei, incluíndo un chamamento ás
+        autoridades policiais.
+      pricing_and_registration: 3. PREZO E REXISTRO
+      p_3: Podes facer o usuario de Flutylove no libre arbítrio e libre de base responsable
+        rexistrar na páxina web. Como usuario, podes usar faixa específica de servizos
+        e oportunidades do sitio web. O usuario do sitio web é un individuo rexistrado
+        na web segundo a orde establecida e que atinxise 18 anos de idade. Ao rexistrar-se
+        na páxina web, o usuario está obrigado a facilitar a información necesaria
+        e relevante para a compañía para completar a páxina de usuario, incluíndo
+        o rexistro (enderezo de correo electrónico ou número de teléfono) e contrasinal
+        para o acceso á web, así como o nome, o que son únicos para cada usuario.
+        O formulario de inscrición pode solicitar información adicional do usuario.
+        O usuario é responsable da validez, actualidade, integralidade e conforme
+        a Lei da Federación Rusa das informacións facilitadas no momento da inscrición,
+        ea súa claridade de reivindicacións de terceiros. Ao rexistrar o usuario acepta
+        con este Acordo e comprométense os dereitos e obrigas especificadas, asociadas
+        ao uso e funcionamento do sitio web. O usuario ten acceso completo ao uso
+        das funcións do sitio web. A Compañía comprométese dereitos e obrigas para
+        co usuario, especificar neste Regulamento, despois do rexistro exitoso do
+        usuario na páxina web de procesamento de datos persoais do usuario está feita
+        de acordo coa Lei da Federación Rusa. A Administración do sitio trata os datos
+        persoais do usuario, a fin de proporcionar ao usuario un acceso ao uso de
+        funcións do sitio web, incluíndo recepción personalizada (branco) propaganda;
+        comprobación, investigación e análise destes datos, permitindo apoiar e mellorar
+        as funcións e seccións do sitio web, así como desenvolver novas funcións e
+        seccións. A Compañía toma todas as medidas necesarias para protexer os datos
+        persoais do usuario contra o acceso non autorizado, modificación, divulgación
+        ou borrado. A empresa ofrece acceso aos datos persoais do usuario só para
+        os empregados, contratados e axentes da compañía, que necesitan desta información,
+        a fin de soportar a funcionalidade do sitio web e proporcionar ao usuario
+        con acceso ao seu uso. A Compañía do sitio web ten o dereito de utilizar a
+        información proporcionada polo usuario, incluíndo información persoal, a fin
+        de garantir a conformidade cos requisitos da lexislación vixente da Federación
+        de Rusia (incluíndo a prevención e / ou supresión de ilegal e / ou ilegal
+        accións dos usuarios). A divulgación da información proporcionada polo usuario
+        poden ser feitos só de acordo coa lexislación vixente da Federación Rusa,
+        a petición do Tribunal, axencias de aplicación da lei, así como noutros casos,
+        como previsto pola lexislación aplicable da Federación Rusa. Na medida en
+        que a Compañía procesa os datos persoais do usuario para a execución do presente
+        Reglamento, o consentimento do usuario ao tratamento de datos persoais non
+        é necesaria en virtude do disposto na Lei sobre os datos persoais. O usuario
+        ea contrasinal escollida polo usuario son información necesaria e suficiente
+        para o acceso do usuario ao sitio. O usuario ten dereito a dar a súa / seu
+        usuario e contrasinal a terceiros, e é absolutamente responsable da súa seguridade,
+        a elección da forma de almacena-los de forma independente. Usando a súa /
+        seu hardware e software o usuario pode permitir o almacenamento do usuario
+        e contrasinal (a través de cookies) para a súa posterior autorización automática
+        na páxina web. Calquera medida tomada co uso de nome de usuario e contrasinal
+        do usuario considéranse cometida polo usuario, a non ser que se probe o contrario
+        por parte do usuario. O usuario está obrigado a informar inmediatamente a
+        compañía de acordo co procedemento establecido no caso de acceso non autorizado
+        ao nome de usuario e contrasinal e / ou a páxina conta, ou divulgación do
+        usuario e contrasinal. Tras o rexistro do usuario gaña o dereito de crear,
+        usar e determinar o contido dos seus / súas propias páxinas persoais en fins
+        de interese propio e non comerciais, así como ter a oportunidade de acceder
+        e publicar a información sobre as páxinas persoais doutros usuarios . O usuario
+        como o propietario das informacións publicadas na páxina persoal é consciente
+        de que, con excepción dos casos establecidos por este regulamento e na lexislación
+        vixente da Federación Rusa, a compañía non participar no desenvolvemento e
+        utilización de contidos e non controla acceso a páxina da usuaria doutros
+        usuarios.
+      terms_4: 4. termos.
+      p_4: Este Contrato permanece plenamente en vigor e efecto, mentres usar o sitio
+        web. Pode deixar de ser o usuario do sitio web, eliminando a súa páxina en
+        calquera momento, por calquera motivo, entrando en contacto co noso Atención
+        ao Cliente en liña ou a través do servizo web. A Sociedade resérvase o dereito
+        de eliminar a súa páxina persoal en calquera momento. Non somos obrigados
+        a notificarlle lo antes de eliminar a páxina, a compañía ten razón para crer
+        que violou os termos do acordo. Non somos obrigados a dar a coñecer a razón
+        para excluír da súa conta; nalgúns casos, pode ser prohibida a difusión de
+        tales información. Tras a exclusión da súa páxina, todas as condicións que
+        poden ser válidas despois do remate do presente Acordo, pola súa natureza
+        estará en vigor despois a rescisión. Se eliminar a súa páxina a través do
+        sitio web na súa propia vontade, podemos pedirlle para especificar o motivo
+        de tal exclusión.
+      account_security: 5. seguridade da conta.
+      p_5: Vostede é responsábel pola preservación do segredo do seu nome de usuario
+        e contrasinal, que será definido no momento da inscrición. Ademais, está absolutamente
+        responsable dos todas as accións que ocorren baixo o seu nome de usuario e
+        contrasinal. Acepta (a) nos notificar inmediatamente sobre calquera uso non
+        autorizado do seu usuario e contrasinal, así como calquera outra violación
+        de seguridade, e (b) saia da súa conta ao final de cada sesión. A web non
+        é responsable de calquera dano ou perda resultante do incumprimento desta
+        disposición. Ten que ter un coidado especial ao acceder á túa conta a través
+        dun ordenador público, a fin de que persoas non autorizadas non podía espiar
+        ou gravar o seu contrasinal ou calquera outra información persoal. Tamén confirma
+        e acepta que a Internet nunca foi totalmente privadas e seguras. Entende que
+        calquera mensaxe ou información que Vostede engada o sitio web pode ser lida
+        ou usada por outros usuarios, mesmo se hai un aviso especial de que a información
+        está agochada.
+      your_interaction_with_other_users_of_the_website: 6. súa interacción con outros
+        usuarios da web.
+      p_6: a. VOSTEDE É o único responsable da súa interacción con outros usuarios.
+        Ten que entender que empresa non verifica os seus usuarios se eles teñen antecedentes
+        penais. A empresa tamén non solicitar a información sobre o pasado dos seus
+        usuarios e non válida ESTA INFORMACIÓN. A empresa non garante SOBRE comportamento
+        do usuario ea súa compatibilidade cos usuarios reais ou futuros. Ao mesmo
+        tempo, a empresa resérvase o dereito de comprobar polos usuarios para antecedentes
+        penais ou realizar outras formas de verificación en calquera momento usando
+        información públicas dispoñibles. b. En ningún dos casos, a empresa non é
+        responsable de calquera dano se son directos, indirectos, xerais ou ter unha
+        natureza específica, compensatorios, E / OU accidental, OBTIDOS A VOSTEDE
+        OU CALQUERA outros individuos como resultado do uso do sitio web, incluíndo,
+        pero non limitado a, Ferido, estrés e / ou outros danos, OBTIDOS A VOSTEDE
+        COMO rESULTADO dE COMUNICACIÓN ou reunións con outros usuarios rexistrados
+        do sitio web ou pobo, para que xestione na páxina web. Acepta tomar todas
+        as precaucións posibles ao comunicarse cos outros usuarios, especialmente
+        naqueles casos, cando decide atopalos na vida real. Ten que ser consciente,
+        o que a empresa non dá unha declaradas ou implícitas GARANTÍAS relativas á
+        compatibilidad cos usuarios da web. Non debe dar a información financeira
+        a outros usuarios da web (por exemplo, a información sobre o seu crédito ou
+        plástico CARDS). c. O servizo pode traducir o nome ou o nome da súa cidade
+        a outras linguas; d. O servizo non é responsable das accións últimos neste
+        artigo. No caso de non aceptar que, total ou parcialmente, por favor, inmediatamente
+        saír da páxina;
+      the_information_posted_by_you_on_flutylove: 7. A información difundido por ti
+        nos FLUTYLOVE
+      p_7: a. Vostede é o único responsable da información que publicar ou demostrar
+        (en diante "post") no Servizo ou descargar a outros usuarios. Non ten permiso
+        para publicar no Servizo ou descargar a outros usuarios calquera información
+        sobre o contido difamatorio, impreciso, abusivo, obsceno, vulgar e agresivo,
+        a información sobre o contido sexual, así como información ameazante ou persecución,
+        información de discriminación racial natureza ou información ilegal, ou calquera
+        outra información que infrinxir ou violar os dereitos de calquera outra parte
+        (incluíndo, sen limitación, os dereitos de propiedade intelectual, dereitos
+        de privacidade e publicidade). Non ten os permisos necesarios para proporcionar
+        información imprecisas, enganosas ou falsas para a Compañía ou calquera outro
+        usuario. Se a información proporcionada á empresa Flutylove ou doutro usuario,
+        posteriormente, torna-se imprecisa, erro de documentos falsos, informará inmediatamente
+        a empresa Flutylove de tal cambio. Envía e asegura que todas as informacións
+        subministradas durante a inscrición hai que e certo, e cambiar inmediatamente
+        toda a información que, posteriormente, se converte imprecisa, erro ou falsa.
+        b. Comprende e acepta que nos reservamos o dereito, pero non a obriga de supervisar
+        a información ou contido que é trasladado ao Servizo ou publicou en acceso
+        público no Servizo. Temos o dereito de eliminar calquera de tales informacións
+        ou contidos sen asignar calquera fundamentación e notificación. c. Todos os
+        obxectos expostos na web, incluíndo elementos de deseño, texto, gráficos,
+        ilustracións, vídeos, scripts, programas, música, sons e outros obxectos e
+        as súas bibliotecas (diante - Información), son de propiedade de dereitos
+        exclusivos da Compañía, os usuarios de os titulares do sitio web e outros
+        dereitos, todos os dereitos a estes obxectos están protexidos. d. Excepto
+        conforme establecido conforme o presente Acordo, así como a actual lexislación
+        da Federación Rusa, ningunha información pode ser copiado (reproducida), procesado,
+        distribución, aparece nun marco, publicado, descargado, trasladados, vendidos
+        ou utilizados noutras formas en enteiros ou en anacos, sen a autorización
+        previa do titular, a menos que o titular dos dereitos emitidos explicitamente
+        o seu consentimento para a utilización gratuíta da información por calquera
+        individuo. e. Ao publicar a información na web legalmente pertencente ao usuario,
+        o usuario ofrece acceso doutros usuarios para dereito non exclusivo de usalo
+        a través da visualización, a reprodución (incluíndo a copia) e outros dereitos,
+        exclusivamente para os fins de uso persoal e non comercial, a non ser casos
+        en que tal uso cause ou poida causar danos aos intereses do titular do dereito
+        protexido pola lei. f. O uso da información por parte do Usuario, cuxo acceso
+        foi adquirida unicamente para uso persoal e non comercial, se permite a condición
+        de que todos os sinais de autoría (copyright) ou outros avisos de autoría
+        conservaranse, o nome do autor eo seu produto será deixado sen cambios. g.
+        O usuario tamén proporciona á compañía o dereito non exclusivo de utilizar
+        as informacións difundidas na web e pertencente a el / ela legalmente, sen
+        consideración, a fin de garantir o funcionamento do sitio web da empresa dentro
+        do desempeño da arquitectura e función web. O dereito non exclusivo refire
+        o número anterior se concede para a colocación de contidos no sitio web e
+        inclúe o territorio dos países en todo o mundo. A Compañía ten dereito a transferir
+        os dereitos a que se refire este parágrafo a terceiros. O usuario acepta que
+        a compañía ten dereito a utilizar as opcións funcionais e técnicas da web,
+        facilitando a exhibición da repartición de contido polo usuario, incluíndo
+        os efectos da visualización de información de publicidade. ola. No caso de
+        que o usuario exclúe a información do sitio web, dereito non exclusivo será
+        automaticamente revogada, pero debido ás especificacións técnicas da web da
+        empresa resérvase o dereito de gardar copias de seguridade da información
+        dentro do tempo esixido e onde sexa necesario. i. Ademais da información privada,
+        o usuario non ten dereito de subir, é dar a coñecer de forma diferente (por
+        medio da publicación na Web) da información doutros sitios, bases de datos
+        e outras propiedades intelectuais en ausencia explicitamente expresado consentimento
+        para tales accións do copyright propietario. j. Agás disposición en contrario
+        é observado no presente Reglamento, calquera cousa neste regulamento non pode
+        ser considerado como unha transferencia de dereitos exclusivos para a información.
+        k. Todo o que publicas no seu perfil de usuario, deben ser precisas, up-to-date
+        e completa. O usuario é absolutamente único responsable de calquera información
+        que procede ou difundidas de forma diferente (publicado) no sitio ou coa axuda
+        do usuario. O usuario non ten dereito de subir, descargar ou publicar contidos
+        na web, se el / ela non ten os dereitos axeitados para tomar estas medidas,
+        adquiridas ou delegadas a el / ela, de conformidade coa lexislación da Federación
+        Rusa. A Compañía capaz, pero non está obrigada, para navegar pola web de calquera
+        contido ilegal e está autorizado a eliminar ou mover (sen aviso) calquera
+        contido ou usuarios ao seu exclusivo criterio, por calquera razón ou sen causas,
+        incluíndo, sen limitación para moverse, ou borrar a información que, segundo
+        a opinión individual da compañía viole este Acordo, a lexislación da Federación
+        Rusa e / ou poden violar os dereitos, danar ou poñer en risco a seguridade
+        doutros usuarios ou terceiros. O sitio contén (ou pode conter) enlaces a outros
+        sitios de Internet (web de terceiros), así como artigos, fotografías, ilustracións,
+        gráficos, música, son, vídeo, información, aplicacións, software e outras
+        informacións pertencentes a ou proveniente de terceiros (contido de terceiros),
+        que é o resultado da actividade intelectual e sexan protexidas de conformidade
+        coa lexislación da Federación Rusa. Estes terceiros e información non son
+        verificados pola Compañía para o cumprimento deste ou doutros requisitos (exactitude,
+        integridade, honestidade, etc.). A Compañía non é responsable de calquera
+        contido posta nos sitios web de terceiros para que os beneficios do usuario
+        acceder a través da web ou a través da información de terceiros, incluíndo,
+        pero non limitado a, calquera opinións ou declaracións vertidas nos sitios
+        web de terceiros ou en información. A ligazón para calquera sitio, produto
+        e servizo, calquera información de natureza comercial e non comercial contida
+        neste sitio non é unha aprobación ou recomendación para estes produtos (servizos)
+        da empresa. Se o usuario decide deixar o sitio e ir os sitios de terceiros
+        ou para usar ou instalar software de terceiros, el / ela o fai pola súa conta
+        e risco, a partir daquel momento presente Reglamento non son aplicadas ao
+        usuario. Outras accións do usuario son guiados polas normas e políticas de
+        aplicación, incluíndo as prácticas comerciais dos individuos cuxas informacións
+        que el / ela vai empregar.
+      forbidden_actions: 8. accións prohibidas.
+      p_8: a. Prohibida a "manter unha estreita vixilancia sobre" ou perturbar calquera
+        persoa de outra maneira. b. Prohíbese utilizar bots, virus, programas para
+        buscar sitios / extracto, ou outros dispositivos manuais ou automáticas ou
+        procesos para extraer, indexar "espionaxe" ou reproducir doutro xeito ou burlar
+        a estrutura de navegación e visualización do Servizo ou o seu contido . c.
+        Prohíbese publicar, distribuír ou reproducir everyway calquera información
+        con dereitos de autor, marcas comerciais ou outras informacións copyright
+        sen o consentimento previo do propietario do copyright. d. Prohíbese eliminar
+        calquera dereitos de autor, marcas comerciais ou outros avisos de dereitos
+        de autor contidos no Servizo. e. Prohíbese interferir ou perturbar o funcionamento
+        do Servizo e do sitio web, ou servizos e redes conectadas ao Servizo ou do
+        sitio. f. Prohíbese publicar, correo electrónico ou transferencia de xeito
+        diferente calquera información que conteña virus ou calquera outro código
+        de ordenador, arquivos ou programas deseñados para interferir, destruír ou
+        limitar a funcionalidade de calquera software, hardware ou equipamento de
+        telecomunicacións. g. Prohíbese forxar cabeceiras ou manipular a designación
+        para o propósito de disfrazar o verdadeiro significado de calquera información
+        compartida a través do Servizo. h. Prohíbese "forxa" ou "copia" de calquera
+        parte do Servizo ou do sitio web sen o previo consentimento por escrito de
+        Flutylove. Ademais, non pode usar calquera meta tags ou códigos ou outros
+        dispositivos que conteñan os enlaces para Flutylove, o Servizo ou o sitio
+        web, a fin de redireccionar calquera persoa para outro sitio para calquera
+        finalidade. i. Prohíbese modificar, adaptar, sublicenciar, traducir, vender,
+        reestruturar, descifrar, descompilar ou desmontar calquera parte do Servizo
+        ou do sitio, ou de calquera software utilizado na web ou a el, así como incentivos
+        a outros a tomar medidas similares . j. Prohíbese publicar calquera información
+        con contido pornográfico e / ou erótico.
+      the_changes_in_the_service: 9. Os cambios no servizo.
+      p_9: Flutylove resérvase o dereito de en calquera momento, cambiar ou desactivar
+        temporalmente ou permanentemente o Servizo (ou calquera que se parte) sen
+        previo aviso. Vostede concorda que Flutylove non é responsable ante si ou
+        terceiros por calquera modificacións, a dispoñibilidade temporal ou desactivación
+        completa do servizo.
+      p_10: Co fin de protexer a integridade do sitio web, Flutylove resérvase o dereito
+        de en calquera momento á súa propia conveniencia para bloquear enderezos IP
+        de determinados usuarios.
+      relations_between_users_online: 11. Relacións entre usuarios online
+      p_11: Vostede é o único responsable das súas interaccións con outros usuarios
+        do Flutylove. Flutylove resérvase o dereito, pero non a obriga, de monitor
+        disputas entre vostede e outros usuarios.
+      security_and_communication: 12. seguridade e comunicación.
+      p_12: Usando Site e / ou do servizo tamén é regulamentado pola nosa Política
+        de Privacidade. Cando facerte usuario, concordas e consentimento para recibir
+        correos electrónicos de nós. Estes correos electrónicos poden representar
+        as notificacións sobre as operacións ou outras notificacións relacionadas
+        co servizo, tales como avisos administrativos e anuncios oficiais sobre os
+        cambios, ou correos electrónicos que conteñan ofertas comerciais, material
+        promocional, ofertas especiais de nós, ou información sobre as accións doutros
+        usuarios sobre o seu conta de usuario. Por favor, lea a nosa Política de Privacidade
+        para saber máis sobre estas notificacións.
+      denial_of_responsibility: 13. negación da responsabilidade.
+      p_13: a. Flutylove non é responsable de calquera información errónea ou imprecisa
+        posta no sitio web ou está asociado co servizo, os usuarios do sitio web ou
+        calquera hardware ou software asociado co noso Servizo ou se usa alí. Flutylove
+        non é responsable do comportamento, tanto en liña como fóra de liña, de calquera
+        sitio web. O Flutylove non asumir responsabilidades por posibles erros, omisións,
+        interrupcións, borrado, avaría ou atraso na operación ou operacións, fallo
+        na liña de comunicacións, roubo ou destrución, acceso non autorizado ou modificación
+        de liñas de comunicación do usuario. Flutylove non é responsable de calquera
+        problema ou anomalías técnicas de redes ou liñas telefónicas, sistemas informáticos
+        en liña, servidores ou proveedores, equipos de informática, software, e-mail
+        ou xogadores de fallo na conta do usuario, problemas técnicos ou conxestión
+        en Internet ou en calquera sitio ou a súa combinación, incluídos accidentes
+        ou danos aos usuarios ou terceiros relacionados a un ordenador, ou como resultado
+        da participación en ou descargar información sobre a rede e / ou do servizo.
+        Baixo ningunha circunstancia a Compañía Flutylove ou calquera dos seus afiliados,
+        axentes de publicidade, fundador ou socios de distribución non responsable
+        de calquera perda ou dano, incluíndo danos persoais ou morte, por mor do uso
+        do sitio web ou do Servizo, calquera contido posta no sitio web ou calquera
+        interacción entre usuarios da web, tanto en liña como fóra de liña. O sitio
+        eo Servizo subministrado nunha base CAL, e Flutylove renuncia expresamente
+        calquera garantía ou adecuación a unha finalidade específica, ou ausencia
+        de violación dos dereitos de ninguén. Flutylove non pode garantir e non promete
+        de calquera resultados específicos da utilización do sitio e / ou do servizo.
+      links: 14. ENLACES.
+      p_14: a. Flutylove non é responsable de calquera información errónea ou imprecisa
+        posta no sitio web ou está asociado co servizo, os usuarios do sitio web ou
+        calquera hardware ou software asociado co noso Servizo ou se usa alí. Flutylove
+        non é responsable do comportamento, tanto en liña como fóra de liña, de calquera
+        sitio web. O Flutylove non asumir responsabilidades por posibles erros, omisións,
+        interrupcións, borrado, avaría ou atraso na operación ou operacións, fallo
+        na liña de comunicacións, roubo ou destrución, acceso non autorizado ou modificación
+        de liñas de comunicación do usuario. Flutylove non é responsable de calquera
+        problema ou anomalías técnicas de redes ou liñas telefónicas, sistemas informáticos
+        en liña, servidores ou proveedores, equipos de informática, software, e-mail
+        ou xogadores de fallo na conta do usuario, problemas técnicos ou conxestión
+        en Internet ou en calquera sitio ou a súa combinación, incluídos accidentes
+        ou danos aos usuarios ou terceiros relacionados a un ordenador, ou como resultado
+        da participación en ou descargar información sobre a rede e / ou do servizo.
+        Baixo ningunha circunstancia a Compañía Flutylove ou calquera dos seus afiliados,
+        axentes de publicidade, fundador ou socios de distribución non responsable
+        de calquera perda ou dano, incluíndo danos persoais ou morte, por mor do uso
+        do sitio web ou do Servizo, calquera contido posta no sitio web ou calquera
+        interacción entre usuarios da web, tanto en liña como fóra de liña. O sitio
+        eo Servizo subministrado nunha base CAL, e Flutylove renuncia expresamente
+        calquera garantía ou adecuación a unha finalidade específica, ou ausencia
+        de violación dos dereitos de ninguén. Flutylove non pode garantir e non promete
+        de calquera resultados específicos da utilización do sitio e / ou do servizo.
+      limitation_of_responsibility: 15. LIMITACIÓN DE RESPONSABILIDADE.
+      p_15: O SITIO WEB E as súas funcións, incluíndo todos os scripts, aplicacións,
+        contidos e deseño do sitio web son inclúe como esta base. A EMPRESA nega NINGUNHA
+        GARANTÍA QUE O SITIO WEB ou das súas funcións pode ser adecuado ou inadecuado
+        PARA UN FIN DE USO. A empresa non pode garantir e non promete nada, específico
+        de usar WEB E / OU súas funcións; Para evitar confusión, o usuario debe observar
+        precaucións de seguridade ao descargar na páxina web ou a través dos enlaces
+        publicados, e usando de todos os ficheiros, así como software. A empresa altamente
+        recomendable usar só software Licenciado así como antivirus software Ao usar
+        o sitio web, o usuario acepta que TRASLADOS WEB OU coa súa axuda de calquera
+        contido da súa / seu propio risco e exclusivamente responsable dos resultados
+        posibles de uso desta información, incluíndo os danos que pode fai que o ordenador
+        do usuario ou ao terceiro PARTES, perda de datos ou outros danos; EN NINGÚN
+        CASO A EMPRESA OU SEUS AXENTES non teñen ningunha responsabilidade PARA O
+        USUARIO OU CALQUERA TERCEIRO de calquera dano indirecto, accidental e UNWILFUL,
+        incluíndo perda de beneficios ou PERDA DE DATOS, DANOS honra, dignidade ou
+        reputación COMERCIAL, derivadas do USO dO sITIO wEB, contido ou calquera outra
+        información para que ou calquera outra persoa accederon a través da web, aínda
+        que a empresa advertido ou indica dA POSIBILIDADE dE TALES DANOS.
+      responsibilities_of_the_parties: 16. responsabilidades das partes.
+      p_16: Este Contrato réxese e interpretado conforme a lexislación da Federación
+        Rusa. Cuestións que non foron resoltas polo acordo serán resoltos de acordo
+        coa lexislación da Federación Rusa. En caso de calquera disputa ou controversia
+        relacionada coa aplicación do presente Reglamento, o usuario ea Compañía fará
+        todos os esforzos para resolvelos los a través de negociacións. No caso das
+        disputas non resoltas por medio de negociacións, as disputas deben ser resoltas
+        de conformidade coa lexislación aplicable da Federación Rusa. Este acordo
+        é celebrado en lingua rusa e pode ser solicitado ao usuario para revisión
+        noutra lingua. En caso de discrepancia coa versión dos regulamentos en lingua
+        rusa ea súa versión noutra lingua, a versión en lingua rusa das disposicións
+        do presente Reglamento deben aplicarse. Se, por unha razón ou outra, unha
+        ou máis disposicións do presente Reglamento será declarado nulo ou anulado,
+        isto non afecta a validez ou exequibilidade das disposicións restantes.
+      other_provisions_and_changes: 17. outras disposicións e cambios.
+      p_17: Este Acordo é o verdadeiro acordo entre vostede e Flutylove en relación
+        ao uso do sitio e / ou do servizo. Se algunha disposición desta baleiros acordo,
+        o resto do acordo se mantén a súa validez en pleno vigor. Este acordo pode
+        ser modificado por Flutylove en calquera momento. Por favor, póñase en contacto
+        connosco con todas as preguntas en relación a este Acordo.
+      read_this: I LEU ESTE ACORDO E ACEPTA CON TODOS OS SEUS TERMOS.
+    about:
+      about_flutylove: Sobre Flutylove
+      about_flutylove_text: Flutylove é a rede social de entretemento internacional
+        para datacións. Aquí podes atopar amigos, unha alma xemelga, socios ou só
+        pasar o seu tempo con gozar xogando xogos ou ver vídeos / fotos.
+      flutylove_features: 'Cando vai rexistrar na nosa web, podes atopar moitos recursos,
+        tales como:'
+      video_call_feature: Pode falar co compañeiro, webcam
+      extended_search: Podes utilizar a busca estendida balde
+      multilanguages: Pode procurar socios doutros países, pois o noso servizo espera
+        para usar por ampla gama de persoas doutros países, xa que se traduce máis
+        de 70 idiomas
+      play_games_chatting_etc: Pode falar con outras persoas, xogar e facer outro
+        animais sociais
+      we_are_in_social_networks: 'Estamos en redes sociais:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: VKontakte
+      google_plus: Google máis
+      instagram: Instagram
+      github: GitHub
+      we_use_open_source_and_high_technology: Usamos tecnoloxías de punta e bibliotecas
+        de código aberto. Sempre tentar obter mellor e mellorar o noso servizo.
+      partners_and_investors: Estamos abertos a colaboracións e queremos atopar investimentos.
+        Se desexa cooperar coa xente, por favor contacte connosco en partnership@flutylove.com
+    faq:
+      faq: FAQ
+      what_is_flutylove: Que é Flutylove?
+      about_flutylove: Flutylove é a rede social de entretemento internacional para
+        datacións. Aquí podes atopar amigos, unha alma xemelga, socios ou só pasar
+        o seu tempo con gozar xogando xogos ou ver vídeos / fotos.
+      what_features_has_flutylove: O que caracteriza ten Flutylove?
+      flutylove_features: Aquí podes falar con videocams, utilizar a busca estendida,
+        socios de busca doutros países, xogar e facer outros animais sociais.
+      i_have_some_requests: Eu teño algúns peticións
+      you_can_write_request: Podes rexistrarte e gravala-lo
+      here: aquí
+      i_have_seen_some_typo_or_wrong_translation: Teño visto algúns erros de dixitación
+        ou tradución incorrecta
+      you_can_send_pull_request_to_our: Pode enviar unha solicitude de recepción para
+        a nosa
+      i_have_seen_some_error: Vin algún erro
+      you_can_send: Pode enviarnos comentarios
+      feedback: este formulario
+      to_us_or_write_to_our_info_mail: ou escribir correo electrónico a support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Benvido ao Flutylove
+      you_have_successfully_signed_up_to_flutylove: se inscribiu con éxito a Flutylove
+      you_can_sign_in_with_your_social_networks: Se desexa poñerse de novo pode facer
+        login coa túa conta de rede social,
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Se
+        desexa escribir correo electrónico e contrasinal que pode cambiar o contrasinal
+        por certo fóra e prema o seguinte ligazón
+      change_password: Cambiar contrasinal
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: incorrecta
+            search_for:
+              search_for_error: incorrecta
+            birth_date:
+              birth_date_error: que ser maior que 18 e menos de 115
+            interests:
+              interests_error: ten que ser inferior a 2000 símbolos
+            jobs:
+              jobs_error: ten que ser inferior a 2000 símbolos
+            languages:
+              languages_error: ten que ser inferior a 2000 símbolos
+            sex_keywords:
+              sex_keywords_error: ten que ser inferior a 2000 símbolos
+            my_turn_ons:
+              my_turn_ons_error_error: incorrecta
+            contacts:
+              contacts_length_error: ten que ser inferior a 2000 símbolos
+              contacts_size_error: ten que ser inferior a 21 contactos
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: ten valor non válido
+  devise:
+    confirmations:
+      confirmed: A súa conta foi confirmada correctamente.
+      send_instructions: Vostede recibirá un correo electrónico con instrucións sobre
+        como confirmar a súa conta en poucos minutos.
+      send_paranoid_instructions: Se o enderezo de correo-e existe na nosa base de
+        datos, recibirá un correo electrónico con instrucións sobre como confirmar
+        a súa conta en poucos minutos.
+      new:
+        send_mail_for_confirm_your_email: Enviar email para confirmar o teu correo
+        submit: Enviar
+    failure:
+      already_authenticated: Xa está conectado.
+      inactive: súa conta aínda non está activada.
+      invalid: correo electrónico ou contrasinal incorrecto.
+      locked: A súa conta está bloqueada.
+      last_attempt: Tes unha tentativa antes da súa conta será bloqueada.
+      not_found_in_database: correo electrónico ou contrasinal incorrecto.
+      timeout: sesión caducou. Por favor, faga login novo para continuar.
+      unauthenticated: Debe facer login ou rexístrese se antes de continuar.
+      unconfirmed: Tes que confirmar a súa conta para continuar.
+    mailer:
+      confirmation_instructions:
+        subject: instrucións de confirmación
+        welcome_to_flutylove: Benvido ao Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Pode confirmar
+          o seu correo electrónico a través do seguinte enlace
+        confirm_my_account: confirmar o meu correo
+      reset_password_instructions:
+        hello: Ola
+        subject: instrucións de redefinición de contrasinal
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Alguén
+          ten peticións dun enlace para cambiar o seu contrasinal. Podes facelo a
+          través do seguinte ligazón.
+        change_my_password: Cambiar o meu contrasinal
+        if_you_didnt_request_this_please_ignore_this_email: Se non solicitou esta
+          ignore este e-mail.
+      unlock_instructions:
+        subject: Instrucións de desbloqueo
+    omniauth_callbacks:
+      failure: Non se puido autenticar lo de% {tipo} porque "% {razón}".
+      success: con éxito rexistrado de% conta {tipo}.
+    passwords:
+      no_token: Non pode acceder a esta páxina sen chegar desde unha mensaxe de redefinición
+        de contrasinal. Se vén dun correo electrónico de restablecemento do contrasinal,
+        por favor, asegúrese de que usou a URL completa indicado.
+      send_instructions: Vostede recibirá un correo electrónico con instrucións sobre
+        como axustar o teu contrasinal en poucos minutos.
+      send_paranoid_instructions: Se o enderezo de correo-e existe na nosa base de
+        datos, recibirá unha ligazón de recuperación de contrasinal no seu enderezo
+        de correo-e en poucos minutos.
+      updated: O cambio do contrasinal correctamente. Agora está conectado.
+      updated_not_active: O cambio do contrasinal correctamente.
+      new:
+        forgot_your_password: recuperar o seu contrasinal
+        reset_password: Enviar recuperar url
+      edit:
+        change_your_password: Cambia o seu contrasinal
+        new_password: New password
+        change_password: Cambio
+    registrations:
+      destroyed: Bye! A súa conta foi cancelada con éxito. Esperamos velo de novo
+        en breve.
+      signed_up: Benvido! Se inscribiu con éxito.
+      signed_up_but_inactive: se inscribiu con éxito. Con todo, non se puido asinar
+        vostede porque a súa conta aínda non está activada.
+      signed_up_but_locked: se inscribiu con éxito. Con todo, non se puido asinar
+        vostede porque a súa conta está bloqueada.
+      signed_up_but_unconfirmed: Unha mensaxe cun enlace de confirmación enviado ao
+        seu enderezo de correo-e. Por favor, abra o enlace para activar a súa conta.
+      update_needs_confirmation: actualizou a súa conta con éxito, pero necesitamos
+        confirmar o seu novo enderezo de correo electrónico. Por favor, comproba o
+        teu correo e prema na ligazón de confirmación para finalizar confirmar o seu
+        novo enderezo de correo electrónico.
+      updated: actualizou a súa conta con éxito.
+      new:
+        sign_up: rexistrar
+        name: Nome
+        password: contrasinal
+        register: rexistrar
+    shared:
+      links:
+        sign_in: Entrar
+        sign_up: rexistrar
+        didnt_receive_confirmation_instructions: Non recibiu instrucións de confirmación?
+        sign_in_with: Escribir
+        fast_login_almost_one_click: rápida login (Case un click)
+    sessions:
+      signed_in: Asinado en éxito.
+      signed_out: Asinado correctamente.
+      new:
+        sign_in: Entrar
+        password: contrasinal
+        remember_me: Lémbrame
+        forgot_your_password: Esqueceches o contrasinal?
+    unlocks:
+      send_instructions: Vostede recibirá un correo electrónico con instrucións sobre
+        como desbloquear a súa conta en poucos minutos.
+      send_paranoid_instructions: Se existe a túa conta, recibirá un correo electrónico
+        con instrucións sobre como desbloquear-lo en poucos minutos.
+      unlocked: A súa conta foi desbloqueado con éxito. Entra para continuar.
+  timezones:
+    American Samoa: Samoa Americana
+    International Date Line West: Liña Internacional de Data Oeste
+    Midway Island: Midway Illa
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Hora do Pacífico (EUA e Canadá)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlán
+    Mountain Time (US & Canada): Montaña Time (EUA e Canadá)
+    Central America: Centroamérica
+    Central Time (US & Canada): Horario Central (EUA e Canadá)
+    Guadalajara: Guadalajara
+    Mexico City: Cidade do México
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogotá
+    Eastern Time (US & Canada): Eastern Time (US & Canada)
+    Indiana (East): Indiana (Leste)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Hora do Atlántico (Canadá)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: Paz
+    Santiago: Santiago
+    Newfoundland: Terranova
+    Brasilia: Brasilia
+    Buenos Aires: Bos Aires
+    Greenland: Greenland
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Azores
+    Cape Verde Is: Cabo Verde é.
+    Casablanca: Casablanca
+    Dublin: Dublín
+    Edinburgh: Edinburgh
+    Lisbon: Lisboa
+    London: Londres
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrado
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Bruxelas
+    Budapest: Budapest
+    Copenhagen: Copenhagen
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: París
+    Prague: Praga
+    Rome: Roma
+    Sarajevo: Saraievo
+    Skopje: Skopje
+    Stockholm: Estocolmo
+    Vienna: Viena
+    Warsaw: Warsaw
+    West Central Africa: África Central Occidental
+    Zagreb: Zagreb
+    Athens: Atenas
+    Bucharest: Bucarest
+    Cairo: Cairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Estambul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kaliningrad
+    Kyiv: Kyiv
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofía
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Bagdad
+    Kuwait: Kuwait
+    Minsk: Minsk
+    Moscow: Moscow
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: San Petersburgo
+    Volgograd: Volgograd
+    Tehran: Teherán
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Yerevan
+    Kabul: Cabul
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Beijing
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapur
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: New Caledonia
+    Solomon Is: Solomon é.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fidxi
+    Kamchatka: Kamchatka
+    Marshall Is: Marshall é.
+    Wellington: Wellington
+    Chatham Is: Chatham é.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau é.
+  he: he
+  he_iso: he

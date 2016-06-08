@@ -1,0 +1,1607 @@
+---
+ne:
+  1_we_have_just_launched_our_service_title: हामी सिर्फ हाम्रो सेवा शुरू गरेको छ!
+  common_keywords: datings, अनलाइन datings, प्रेम datings, वेब क्यामेरा डेटिंग, गति
+    डेटिंग, वेब क्यामेरा च्याट डेटिंग, पटरियों मा रूबी डेटिङ साइट, Multilanguage डेटिङ
+    साइट
+  common_description: datings लागि सबै भन्दा उन्नत अन्तर्राष्ट्रिय सामाजिक मनोरञ्जन
+    नेटवर्क "Flutylove"
+  default_album: पूर्वनिर्धारित एल्बम
+  user: प्रयोगकर्ता
+  user_to_search_connection: खोज
+  video: भिडियो
+  note: नोट
+  photo_album: फोटो एल्बम
+  from: देखि
+  to: गर्न
+  vkontakte: Vkontakte
+  facebook: फेसबुक
+  twitter: ट्विटर
+  google_oauth2: गुगल
+  instagram: इन्स्टाग्राम
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: पुरुष
+  - female:
+      name: महिला
+  - transgender:
+      name: Transgender
+  - male-female:
+      name: पुरुष-महिला
+  - double-female:
+      name: डबल महिला
+  - double-male:
+      name: डबल पुरुष
+  orientation:
+  - heterosexual: विपरीत लिङ्गी
+  - homosexual: Homosexual
+  - bisexual: बिसेकषिल
+  search_for:
+  - get_friends: प्राप्त मित्र
+  - flirtation: flirtation
+  - marriage: विवाह
+  - other: अन्य
+  body_type:
+    slim: स्लिम
+    normal: सामान्य
+    chubby: मांसल
+  relationship:
+    single: एकल
+    in_a_relationship: सम्बन्ध मा
+    married: विवाहित
+    nothing_serious: केहि पनि गम्भीर
+  children:
+    dont_have: छैन
+    dont_have_and_dont_want_to: छैन र गर्न चाहँदैनन्
+    don_t_have_but_planning: छैन तर योजना
+    have_enough: नै
+    have_and_planning_more: र थप योजना
+  living:
+    with_parents: आमाबाबुले संग
+    with_marriage_partner: विवाह साझेदार संग
+    alone: अकेली
+    with_friends: साथीसँग (हरू)
+  education:
+    nothing: केहि पनि
+    secondary_school: माध्यमिक विद्यालय
+    college_technical_college: कलेज / प्राविधिक कलेज
+    university: विश्वविद्यालय
+    postgraduate: स्नातकोत्तर
+    phd_md_post_doctorate: पीएचडी / एमडी / पोस्ट डक्टरेट
+  hair_color:
+    blonde: गोरा
+    dark_blond: गाढा खैरो
+    brown: भूरा
+    black: काला
+    red: लाल
+    gray: खरानी
+    other: अन्य
+  income:
+    unstable_earnings: अस्थिर आय
+    small_stable_earnings: लघु स्थिर आय
+    medium_stable_earnings: मध्यम स्थिर आय
+    high_income: उच्च आय
+  smoking:
+    not_smoke: धूमपान छैन
+    not_smoke_and_detest: धूमपान र धूम्रपान detest छैन
+    smoke_only_after_drinking: चुरोट मात्र पिउने पछि
+    smoke_occasionally: चुरोट कहिले काँही
+    smoke_often: चुरोट अक्सर
+  alcohol:
+    not_drinking: पिउने छैन
+    drink_occalionally: पी कहिले काँही
+    drink_often: पी अक्सर
+  drugs:
+    dont_use: प्रयोग नगर्नुहोस्
+    contra_drugs: Contra लागूपदार्थको
+    tried_out_some: बाहिर कोसिस केही
+    light_drugs_occasionally: हल्का लागूपदार्थ कहिले काँही
+  sponsor:
+    i_want_to_find_a_sponsor: म प्रायोजक पाउन चाहनुहुन्छ
+    willing_to_become_a_sponsor: प्रायोजक बन्न इच्छुक
+  category_name:
+    strategy: रणनीति
+    rpg: आरपीजी
+    3d_shooters: 3D Shooters
+    racing: दौड
+    arcade: आर्केड
+    economic: आर्थिक
+    simulators: अनुकरणहरू
+    logic: तर्क
+    adventure: साहसिक
+    board_games: बोर्ड खेल
+    gambling: जुवा
+    news: समाचार
+    communication: संचार
+    multimedia: मल्टिमिडिया
+    drawing: रेखाचित्र
+    educational: शैक्षिक
+    e_commerce: ई-कमर्स
+    other: अन्य
+  shared:
+    header:
+      people: मान्छे
+      chat: चैट
+      groups: समूह
+      forum: फोरम
+      requests: अनुरोधहरू
+      about: परियोजना बारे
+      help: सहायता
+      user_applications: आवेदन
+    liked_users:
+      liked: मन पर्यो
+      all: सबै
+      you_have_not_liked_any_users_yet: तपाईंले अहिलेसम्म कुनै पनि प्रयोगकर्ता मनपराएका
+        छैन
+    most_liked_users:
+      most_liked_users: लोकप्रिय प्रयोगकर्ता
+    installed_user_applications:
+      installed_applications: स्थापित अनुप्रयोगहरू
+      all: सबै
+      you_have_not_installed_any_apps_yet: तपाईंले अहिलेसम्म कुनै पनि आवेदन स्थापित
+        छैन
+    user_applications:
+      uploaded_apps: अपलोड आवेदन
+      all: सबै
+      you_have_not_uploaded_any_apps_yet: तपाईंले अहिलेसम्म कुनै पनि आवेदन अपलोड गर्नुभएको
+        छैन
+    right_sidebar:
+      news: समाचार
+      all: सबै
+      read_more: पढ्नुहोस् थप
+    footer:
+      privacy: गोपनीयता
+      terms: सर्तहरू
+      feedback: प्रतिक्रिया
+      abuse: दुरुपयोग
+    languages_select_modal:
+      available_languages: उपलब्ध भाषाहरू
+    site_map_modal:
+      site_map: साइट नक्शा
+      faq: सोधिने प्रश्न
+      about: बारे
+      static_pages: स्थिर पृष्ठ
+      common_pages: साधारण पृष्ठ
+      user_pages: प्रयोगकर्ता पृष्ठ
+      terms: सर्तहरू
+      privacy: गोपनीयता
+      people: मान्छे
+      user_applications: आवेदन
+      user_requests: अनुरोधहरू
+      news: समाचार
+      feedback: प्रतिक्रिया
+      abuse: दुरुपयोग
+      chats: कुराकानी
+      videos: भिडियो
+      photo_albums: फोटो एल्बम
+      notes: नोट्स
+    pagination_link:
+      next_page: अर्को पृष्ठ
+    user_edit_menu:
+      content: सामग्री
+      profile: प्रोफाइल
+      site_settings: साइट सेटिङहरू
+      privacy: गोपनीयता
+      services: सेवा
+    activities_navigation:
+      all: सबै
+      photos: तस्वीरहरु
+      photo_albums: फोटो एल्बम
+      notes: नोट्स
+      videos: भिडियो
+    notifications_navigation:
+      all: सबै
+      likes: मनपर्ने
+      friend_requests: मित्र अनुरोध
+      profile_views: प्रोफाइल दृश्य
+      photo_album_views: तस्वीरहरु दृश्य
+    user_to_friend_connections_navigation:
+      friends: मित्र
+      friends_online: मित्र अनलाइन
+      outcome_requests: नतिजा अनुरोध
+      income_requests: आय अनुरोध
+    user_applications_navigation:
+      all: सबै
+      new: नयाँ
+      popular: लोकप्रिय
+      often_installed: अक्सर स्थापित
+      manage: व्यवस्थापन
+    user_requests_navigation:
+      all: सबै
+      popular: लोकप्रिय
+    user_navbar_menu:
+      sign_in: साइन
+      sign_up: साइन अप
+    email_signature:
+      info: जानकारी
+      mailer: मेलर
+      technoelegance: Technoelegance लिमिटेड
+    translations:
+      select_gender: लिङ्ग चयन गर्नुहोस्
+      select_orientation: अभिमुखीकरण चयन गर्नुहोस्
+    need_to_sign_in_modal:
+      you_need_to_sign_in: तपाईं यो कार्य अघि साइन इन गर्न आवश्यक
+    sign_up_methods:
+      usual_register_link: सामान्य दर्ता
+      register_text: "% अलावा {usual_registration} तपाईं लोकप्रिय सेवा र सामाजिक सञ्जाल
+        मार्फत दर्ता गर्न सक्छन्"
+    bootstrap_gallery:
+      next: अर्को
+    user_notification_title:
+      wrote_message_to_you: तपाईं सन्देश लेखेका थिए
+      viewed_your_profile: आफ्नो प्रोफाइल हेरिएको
+      liked_your_photo: आफ्नो फोटो मन पर्यो
+      liked_your_note: आफ्नो टिप्पणी मन पर्यो
+      liked_your_request: तपाईंको अनुरोध मन पर्यो
+      liked_your_video: आफ्नो भिडियो मन पर्यो
+      liked_your_application: तपाईंको आवेदन मन पर्यो
+      requested_a_friendship: एक मित्रता अनुरोध
+  authentications:
+    authentication:
+      turn_on: खोल्नुहोस्
+      turn_off: बन्द
+      turned_on: चालू
+      turned_off: बन्द
+    index:
+      enabled_services: सक्षम सेवाहरू
+  users:
+    profile:
+      submit: बचत
+      name: नाम
+      meet_with: भेट्नुहोस् संग
+      gender: लिंग
+      about_me: "(वाहेक तल गठन गर्ने)"
+      enter_your_name: तपाईंको नाम प्रविष्ट गर्नुहोस्
+      more_options: थप
+      orientation: अभिमुखीकरण
+      birth_date: जन्म मिति
+      location: स्थान
+      intimacy: सम्बन्धले
+      in_age: उमेर मा
+      from: देखि
+      to: गर्न
+      interests: गतिविधिलाई
+      height: उचाइ
+      weight: वजन
+      body_type: शारीरिक प्रकार
+      hair_color: बाल को रंग
+      relationship: वैवाहिक
+      children: बच्चाहरु
+      living: बैठक
+      education: शिक्षा
+      jobs: अय्यूब
+      income: आय
+      languages: भाषा
+      smoking: धूम्रपान
+      alcohol: रक्सी
+      drugs: औषध
+      contacts: सम्पर्क
+      contact_name: संपर्क नाम
+      contact_value: संपर्क मूल्य
+      save: बचत
+      about_yourself: आफैलाई बारे
+    settings:
+      submit: बचत
+      locale: इन्टरफेस भाषा
+      interface_language: इन्टरफेस भाषा
+      time_zone: समय क्षेत्र
+    dialog_modal:
+      send_message: पठाउन सन्देश
+    index:
+      users: प्रयोगकर्ता
+      clear_search: खाली खोज
+    dashboard:
+      hello: नमस्कार
+      here_some_of_your_statistics: यहाँ केही आफ्नो तथ्याङ्क को
+      chats: कुराकानी
+      messages: सन्देशहरू
+      photos: तस्वीरहरु
+      videos: भिडियो
+      notes: नोट्स
+      photo_albums: फोटो एल्बम
+    avatar:
+      photo: फोटो
+      handling_file: हैंडलिंग फाइल
+      drag_and_drop_your_file: तान्नुहोस् र तपाईँको फाइल ड्रप
+      here: यहाँ
+      or: वा
+      upload_file: अपलोड फाइल
+      from_other_sites: अन्य साइटहरु देखि
+      write_down_link_for_your_image: आफ्नो छवि को लिंक तल लेख्नुहोस्
+      upload: अपलोड
+      from_facebook: फेसबुक बाट
+      you_can_upload_your_photos_from_facebook: फेसबुक बाट आफ्नो फोटो अपलोड गर्न सक्नुहुन्छ
+      from_vkontakte: Vkontakte देखि
+      you_can_upload_your_photos_from_vkontakte: Vkontakte देखि आफ्नो फोटो अपलोड गर्न
+        सक्नुहुन्छ
+      from_instagram: इन्स्टाग्राम देखि
+      you_can_upload_your_photos_from_instagram: इन्स्टाग्राम आफ्नो फोटो अपलोड गर्न
+        सक्नुहुन्छ
+      from_dropbox: Dropbox देखि
+      you_can_upload_your_photos_from_dropbox: Dropbox देखि आफ्नो फोटो अपलोड गर्न
+        सक्नुहुन्छ
+      edit_photo: सम्पादन गर्नुहोस् फोटो
+      delete_photo: मेटाउने फोटो
+      are_you_sure: तपाईँ निश्चित हुनुहुन्छ?
+    available_photos_modal:
+      available_photos: उपलब्ध फोटो
+    update:
+      your_password_was_successfully_changed: सफलतापूर्वक परिवर्तन गरियो
+      your_profile_was_successfully_updated: सफलतापूर्वक अद्यावधिक गरिएको थियो
+    edit_photo:
+      edit_photo: सम्पादन गर्नुहोस् फोटो
+      crop: खेति
+      close: बन्द
+      save_changes: परिवर्तनहरू बचत
+    contact:
+      contact_name_placeholder: फेसबुक / स्काइप / VK / आदि
+      contact_value_placeholder: "/ url निक / आईडी / आदि"
+    user:
+      about_me: मलाई बारे
+      orientation: अभिमुखीकरण
+      meet_with: भेट्नुहोस् संग
+      desirable_age: मनमोहक उमेर
+      from: देखि
+      to: गर्न
+      interests: गतिविधिलाई
+      height: उचाइ
+      sm: SM
+      kg: किलो
+      body_type: शारीरिक प्रकार
+      hair_color: बाल को रंग
+      relationship: वैवाहिक
+      children: बच्चाहरु
+      living: बैठक
+      education: शिक्षा
+      jobs: रोजगार
+      income: आय
+      languages: भाषा
+      smoking: धूम्रपान
+      alcohol: रक्सी
+      drugs: औषध
+      contacts: सम्पर्क
+    user_info:
+      offline: अफलाइन
+      online: अनलाइन
+      age: आयु
+    loading_modal_images:
+      loading_images: छविलोडगरिँदैछ
+    password_form:
+      new_password: नयाँ पासवर्ड
+      confirm_new_password: नयाँ पासवर्ड निश्चित
+      old_password: पुरानो पासवर्ड
+    show:
+      photos: तस्वीरहरु
+      all: सबै
+      videos: भिडियो
+      notes: नोट्स
+      view: हेर्नुहोस्
+    dropbox_token_form:
+      key: प्रमुख
+      paste_recieved_key: टाँस्ने recieved प्रमुख
+      submit: पेश
+    contents:
+      users_which_i_like: प्रयोगकर्ता जो मलाई मन
+      all: सबै
+    more_profile_info:
+      photo_albums: फोटो एल्बम
+      view_all_photo_albums: सबै फोटो एल्बम हेर्नुहोस्
+      create_more: थप सिर्जना
+      videos: भिडियो
+      view_all_videos: सबै हेर्नुहोस्
+      notes: नोट्स
+      view_all_notes: हेर्नुहोस सबै टिप्पणीहरू
+      requirements_lists_to_partner: आवश्यकताहरु साझेदार सूची
+      requirement: आवश्यकता
+      view_all_requirements_lists: हेर्नुहोस सबै आवश्यकताहरू सूची
+      profile_verification: प्रोफाइल प्रमाणिकरण
+      your_profile_is_successfully_verified: सफलतापूर्वक प्रमाणित छ
+      create: सिर्जना
+      you_have_not_any_requirements_lists_yet: कुनै आवश्यकताहरू छ सूची अझै
+      you_have_not_any_notes_yet: अझै कुनै पनि टिप्पणीहरू छ
+      you_have_not_any_photo_albums_yet: अझै कुनै पनि फोटो एल्बम छ
+      you_have_not_any_videos_yet: अझै कुनै भिडियो
+      your_profile_is_not_verified_yet: अझै प्रमाणित छैन
+      verify_through_twitter: प्रमाणित
+      verify_through_facebook: प्रमाणित
+      verify_through_mail_ru: प्रमाणित
+    privacy:
+      privacy: गोपनीयता
+  searches:
+    form:
+      location: स्थान
+      from: देखि
+      to: गर्न
+      age: आयु
+      gender: लिंग
+    form_content:
+      city: शहर
+      gender: लिंग
+      to: गर्न
+      online: अनलाइन
+      verified: प्रमाणित
+      has_avatar: अवतार छ
+      region: क्षेत्र
+      more: थप
+      country: देश
+      about_me: मलाई बारे
+      interests: गतिविधिलाई
+      languages: भाषा
+      names: नामहरू
+      height: उचाइ
+      from: देखि
+      weight: वजन
+      body_type: शारीरिक प्रकार
+      relationship: वैवाहिक
+      hair_color: बाल को रंग
+      education: शिक्षा
+      orientation: अभिमुखीकरण
+      children: बच्चाहरु
+      living: बैठक
+      smoking: धूम्रपान
+      alcohol: रक्सी
+      drugs: औषध
+      income: आय
+    show:
+      users: प्रयोगकर्ता
+      clear_search: खाली खोज
+  welcome:
+    index:
+      people: मान्छे
+      requests: अनुरोधहरू
+      user_applications: आवेदन
+      about: बारे
+      features: विशेषताहरु
+      registration: दर्ता
+      sign_in: साइन
+      welcome_main_title: स्वागत Flutylove गर्न!
+      welcome_main_text: तपाईं आफ्नो सिद्ध प्रेम पाउन सक्नुहुन्छ ठाउँ छ
+      find_more: थप फेला
+      about_title: Flutylove datings लागि अन्तर्राष्ट्रिय सामाजिक मनोरञ्जन नेटवर्क
+        छ
+      about_text: त्यहाँ भनेर मनोरंजन र datings लागि प्रयोग गर्न सक्नुहुन्छ धेरै सुविधाहरू
+        छन्!
+      find_more_features: थप सुविधाहरू फेला
+      many_languages: धेरै भाषाहरू
+      text_about_many_languages: 70 भन्दा बढी भाषामा अनुवाद गरिएको छ
+      check_it_out: यसलाई जाँच गर्नुहोस्
+      videochats: Videochats
+      try_it_now: अब यो प्रयास गर्नुहोस्
+      search: खोज
+      text_about_search: र यो निःशुल्क छ!
+      watch_this: वाच यो
+      more_features: थप विशेषताहरु
+      text_about_more_features: भिडियो, प्ले खेल हेर्न र अन्य धेरै कामहरू गर्न सक्छ!
+      register_and_learn_more: दर्ता तथा थप जान्न
+      install_our_apps: लोकप्रिय प्लेटफर्ममा हाम्रो अनुप्रयोगहरू स्थापना
+      register_header: दर्ता
+  feedbacks:
+    new:
+      feedback_title: प्रतिक्रिया
+    form:
+      feedback_content: प्रतिक्रिया सामग्री
+      close: बन्द
+      send: पठाउन
+      feedback_recaptcha: reCAPTCHA
+      cancel: रद्द
+    success:
+      success_feedback: धन्यवाद! हामी तपाईंको प्रतिक्रिया recieved छन्।
+      close: बन्द
+      cancel: रद्द
+      more: थप पठाउनुहोस्
+  abuses:
+    new:
+      abuse_title: दुरुपयोग
+    form:
+      abuse_content: दुरुपयोग सामग्री
+      abuse_title: दुरुपयोग
+      close: बन्द
+      send: पठाउन
+      abuse_recaptcha: reCAPTCHA
+      abuse_link: लिंक
+      cancel: रद्द
+    success:
+      success_abuse: धन्यवाद! हामी तपाईंको दुरुपयोग recieved छन्।
+      close: बन्द
+      cancel: रद्द
+      more: थप पठाउनुहोस्
+  layouts:
+    welcome:
+      welcome_title: स्वागत Flutylove गर्न! सबै भन्दा उन्नत डेटिङ साइट।
+  recaptcha:
+    errors:
+      verification_failed: असफल reCAPTCHA
+      recaptcha_unreachable: reCAPTCHA पहुँचयोग्य छ
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: "!"
+      we_have_just_launched_our_service_text: आज हामी हाम्रो सेवा सुरु त सबैलाई सक्छन्
+      sign_up: साइन अप
+      and_use_it: र यसलाई प्रयोग गर्नुहोस्।
+      wishes_and_requests: तपाईं कुनै पनि इच्छा वा अनुरोध छ भने, तपाईँले साइन अप र
+        यसलाई लेखे गर्न सक्नुहुन्छ
+      here: यहाँ
+      with_love: प्रेम
+      flutylove_team: Flutylove टोली
+    index:
+      all_news: सबै समाचार
+      read_more: पढ्नुहोस् थप
+  chats:
+    panel_head:
+      online: अनलाइन
+      offline: अफलाइन
+    pagination_link:
+      next_page: अर्को पृष्ठ
+    form:
+      message_text: सन्देश पाठ
+    form_additions:
+      submit: पेश
+      videochat: Videochat
+    show:
+      messages: सन्देशहरू
+    index:
+      messages: सन्देशहरू
+    videochat_request_link:
+      connect_to_videochat: जडान videochat गर्न
+    modal_form:
+      send_message: पठाउन सन्देश
+      recipient: प्राप्तकर्ता
+      message: सन्देश
+      close: बन्द
+      submit: पेश
+    waiting_video_answer_button:
+      waiting_for_response: प्रतिक्रिया को लागि प्रतीक्षा गर्दै ...
+    chat_created:
+      send_message: पठाउन सन्देश
+      message_was_sent: सन्देश पठाइएको थियो
+      close: बन्द
+  messages:
+    pagination_link:
+      next_page: अर्को पृष्ठ
+    form:
+      message_text: सन्देश पाठ
+  notifications:
+    user_to_friend_connection:
+      action: कार्य
+    notification:
+      offline: अफलाइन
+      online: अनलाइन
+    like:
+      action: कार्य
+    photo_album_view:
+      action: कार्य
+    user_view:
+      action: कार्य
+  user_applications:
+    user_application:
+      who_uploaded: द्वारा अपलोड
+      all_uploaded_applications_by: सबै अपलोड द्वारा आवेदन
+    form:
+      name: नाम
+      user_application_name: आवेदन नाम
+      description: विवरण
+      description_text: विवरण पाठ
+      iframe_url: iframe URL
+      icon_for_application: आवेदन प्रतिमा
+      upload_icon: डाउनलोड प्रतिमा
+      public: सार्वजनिक?
+      category_name: श्रेणी
+      create: सिर्जना
+      edit: सम्पादन गर्नुहोस्
+    show:
+      application: आवेदन
+      return_to_uploaded_applications: आवेदन अपलोड गर्न
+    manage:
+      installed_applications: स्थापित अनुप्रयोगहरू
+      uploaded_applications: अपलोड आवेदन
+      all: सबै
+    index:
+      applications_uploaded_by: आवेदन द्वारा अपलोड
+      create_new: नयाँ सिर्जना
+    installed:
+      installed_applications: स्थापित अनुप्रयोगहरू
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: दृश्य अघि यो अनुप्रयोग तपाईं
+        पहिलो साइन इन गर्न आवश्यक
+    need_to_install:
+      need_to_install_first: तपाईं पहिला यो अनुप्रयोग स्थापना गर्न आवश्यक
+      install_application: आवेदन स्थापना
+  likes:
+    index:
+      liked_items: मन पर्यो वस्तुहरू
+  videos:
+    index:
+      videos: भिडियो
+      return_to_edit_profile: सम्पादन प्रोफाइल गर्न
+      create_new: नयाँ सिर्जना
+    video:
+      edit: सम्पादन गर्नुहोस्
+      are_you_sure: तपाईँ निश्चित हुनुहुन्छ?
+      delete: मेटाउने
+    modal_form:
+      create_new_video: नयाँ भिडियो सिर्जना
+      close: बन्द
+      create: सिर्जना
+    form_content:
+      name: नाम
+      video_name: भिडियो नाम
+      video_url_or_embed_code: भिडियो एम्बेड कोड को URL
+    show:
+      video: भिडियो
+      edit_video: सम्पादन गर्नुहोस् भिडियो
+    edit:
+      edit_video: सम्पादन गर्नुहोस् भिडियो
+    form:
+      edit: सम्पादन गर्नुहोस्
+  photo_albums:
+    index:
+      photo_albums: फोटो एल्बम
+      return_to_editing_profile: सम्पादन प्रोफाइल गर्न
+      create_new: नयाँ सिर्जना
+    photo_album:
+      edit: सम्पादन गर्नुहोस्
+      create: सिर्जना
+      are_you_sure: तपाईँ निश्चित हुनुहुन्छ?
+      delete: मेटाउने
+    edit:
+      return_to_photo_albums: फोटो एल्बममा
+    form_content:
+      name: नाम
+      photo_album_name: फोटो एल्बम नाम
+    form:
+      edit: सम्पादन गर्नुहोस्
+      create: सिर्जना
+    photo_album_uploader:
+      drag_and_drop_your_file: तान्नुहोस् र तपाईँको फाइल ड्रप
+      here: यहाँ
+      or: वा
+      upload_file: अपलोड फाइल
+      from_other_sites: अन्य साइटहरु देखि
+      write_down_link_for_your_image: आफ्नो छवि को लिंक तल लेख्नुहोस्
+      upload: अपलोड
+      from_facebook: फेसबुक बाट
+      you_can_upload_your_photos_from_facebook: फेसबुक बाट आफ्नो फोटो अपलोड गर्न सक्नुहुन्छ
+      from_vkontakte: Vkontakte देखि
+      you_can_upload_your_photos_from_vkontakte: Vkontakte देखि आफ्नो फोटो अपलोड गर्न
+        सक्नुहुन्छ
+      from_instagram: इन्स्टाग्राम देखि
+      you_can_upload_your_photos_from_instagram: इन्स्टाग्राम आफ्नो फोटो अपलोड गर्न
+        सक्नुहुन्छ
+      from_dropbox: Dropbox देखि
+      you_can_upload_your_photos_from_dropbox: Dropbox देखि आफ्नो फोटो अपलोड गर्न
+        सक्नुहुन्छ
+    show:
+      photo_album: फोटो एल्बम
+      return_to_photo_albums: फोटो एल्बममा
+    modal_form:
+      create_new_photo_album: नयाँ फोटो एल्बम सिर्जना
+      close: बन्द
+      create: सिर्जना
+  user_requests:
+    form:
+      content: सामग्री
+      edit: सम्पादन गर्नुहोस्
+      create: सिर्जना
+  notes:
+    index:
+      notes: नोट्स
+      return_to_edit_profile: सम्पादन प्रोफाइल गर्न
+      create_new: नयाँ सिर्जना
+    note:
+      edit: सम्पादन गर्नुहोस्
+      are_you_sure: तपाईँ निश्चित हुनुहुन्छ?
+      delete: मेटाउने
+    show:
+      note: नोट
+    form_content:
+      content: सामग्री
+      note_content: नोट सामग्री
+      edit: सम्पादन गर्नुहोस्
+      create: सिर्जना
+  user_to_search_connections:
+    index:
+      requirements_lists: आवश्यकताहरु सूची
+      return_to_editing_profile: सम्पादन प्रोफाइल गर्न
+      create_new: नयाँ सिर्जना
+    user_to_search_connection:
+      edit: सम्पादन गर्नुहोस्
+      are_you_sure: तपाईँ निश्चित हुनुहुन्छ?
+      delete: मेटाउने
+    edit:
+      edit_requirements_list: सम्पादन गर्नुहोस् आवश्यकताहरु सूची
+      return_to_requirements_lists: आवश्यकताहरु सूची
+      view_requirements_list: आवश्यकताहरु दृश्य सूची
+    form_content:
+      name: नाम
+    form:
+      edit: सम्पादन गर्नुहोस्
+    show:
+      requirements_list: आवश्यकताहरु सूची
+      return_to_requirements_lists: आवश्यकताहरु सूची
+      edit_requirements_list: आवश्यकताहरु सम्पादन सूची
+  photos:
+    index:
+      photos: तस्वीरहरु
+      return_to_profile: प्रोफाइलमा
+  errors:
+    messages:
+      already_confirmed: पहिले नै पुष्टि भएको थियो, कृपया साइन इन गर्ने प्रयास
+      confirmation_period_expired: "% {अवधि} भित्र पुष्टि गर्न आवश्यक छ, कृपया एउटा
+        नयाँ अनुरोध"
+      expired: समाप्त भएको छ, कृपया एउटा नयाँ अनुरोध
+      not_found: फेला परेन
+      not_locked: बन्द गरिएको थिएन
+      not_saved:
+        one: '1 त्रुटि बचत गरिएको यो% {स्रोत} निषेधित:'
+        other: "% {गणना} सुरक्षित हुनबाट यो% {स्रोत} निषेधित त्रुटिहरू:"
+    bad_request:
+      bad_request: खराब अनुरोध
+      request_result: अनुरोध परिणाम
+      bad_request_description: कारण स्पष्ट ग्राहक त्रुटि
+      go_to_root: मूल जानुहोस्
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable निकाय
+      request_result: अनुरोध परिणाम
+      unprocessable_entity_description: अनुरोध राम्ररी गठन भएको थियो तर कारण जनक त्रुटिहरू
+        गर्न अनुगमन गर्न असमर्थ थियो
+      go_to_root: मूल जानुहोस्
+    not_found:
+      not_found: फेला परेन
+      request_result: अनुरोध परिणाम
+      not_found_description: फेला गर्न सकिएन तर भविष्यमा उपलब्ध हुन सक्छ
+      go_to_root: मूल जानुहोस्
+    forbidden:
+      forbidden: निषेधित
+      request_result: अनुरोध परिणाम
+      forbidden_description: अनुरोध मान्य अनुरोध थियो, तर सर्भरले यो प्रतिक्रिया इन्कार
+        छ
+      go_to_root: मूल जानुहोस्
+    internal_server_error:
+      internal_server_error: आन्तरिक सर्भर त्रुटि
+      request_result: अनुरोध परिणाम
+      internal_server_error_description: केही गल्ती भयो। हामी यसलाई सकेसम्म चाँडो
+        समाधान हुनेछ।
+      go_to_root: मूल जानुहोस्
+  pages:
+    privacy:
+      privacy: Flutylove गोपनीयता नीति
+      general_provisions: सामान्य प्रावधान
+      p_1_1: 1.1। यी विनियम लिमिटेड दायित्व कम्पनी "Technoelegance" को एउटा सरकारी
+        कागजात, मा स्थित 101,000, मास्को, Ulanskiy Pereulok 13, stroeniye 4, pomeshcheniye
+        1 (हिड कर Flutylove, कम्पनी, हामी), र डाटा प्रोसेसिंग र व्यक्तिहरूको जानकारी
+        सुरक्षा को प्रक्रियाहरु निर्धारण जो 18 वर्ष को उमेर पुगेको छ, र जो वेबसाइट
+        https://flutylove.com (वेबसाइट हिड कर) र यसको सेवाहरू (को प्रयोगकर्ता अगाडी
+        हिड) प्रयोग गर्नुहोस्।
+      p_1_2: 1.2। यी विनियम उद्देश्य कारण अनधिकृत पहुँच र खुल्लाबाट, प्रयोगकर्ता जानकारी
+        को सुरक्षा व्यक्तिगत डाटा सहित सुनिश्चित छ।
+      p_1_3: 1.3। संग्रह, भण्डारण, वितरण र वेबसाइट प्रयोगकर्ताको जानकारी को सुरक्षा
+        संग सम्बन्धित सम्बन्ध यी विनियम, कम्पनी को अन्य सरकारी कागजात र रूसी संघ को
+        वर्तमान कानून द्वारा शासित छन्।
+      p_1_4: 1.4। सार्वजनिक कागजात छन् जो विनियम, को हालको संस्करण, कुनै पनि इन्टरनेट
+        प्रयोगकर्ता उपलब्ध लिङ्क http://flutylove.com/pages/privacy निम्न हुँदा छ।
+        कम्पनी यी विनियम परिमार्जन गर्न अधिकार छ। मामला मा परिवर्तन विनियम गरिएका
+        छन्, कम्पनी प्रभावकारी अघि स्थायी ठेगाना http://flutylove.com/pages/privacy
+        मा वेबसाइट मा विनियम को नयाँ संस्करण पोस्ट, पछि छैन 10 दिन भन्दा द्वारा प्रयोगकर्ता
+        सूचित हुनेछ परिवर्तन को मिति। नियमहरु को अघिल्लो संस्करण कम्पनी को दस्तावेज
+        सङ्ग्रह गरिएका छन्।
+      p_1_5: 1.5। यी विनियम विकास र अनुसार प्रयोगकर्ता करार प्रयोग गरिन्छ गरिएको छ।
+        यी विनियम र कम्पनी को अन्य सरकारी कागजात बीच कुनै पनि contravention को मामला
+        मा, यी विनियम लागू हुनुपर्छ।
+      p_1_6: 1.6। वेबसाइट प्रयोग गरेर, तपाईँले यस गोपनीयता नीति नियम र सर्तहरू सँग
+        सहमत हुनुहुन्छ। कृपया ध्यान तिनीहरूलाई पढ्नुहोस्। तपाईं यस गोपनीयता नीति सर्तहरू
+        सहमत छैन, भने वा तपाईं 18 वर्ष को उमेर पुगेको छैन, तपाईं वेबसाइट र यसको सेवा
+        प्रयोग गर्न सक्छ। वेबसाइट प्रयोग गरेर, तपाईं Flutylove को दर्ता प्रयोगकर्ता
+        वा छैनन् कि बिना तपाईं पूर्णतया यो गोपनीयता नीति स्वीकार पुष्टि, र यो पालना
+        गर्न सहमत छु।
+      the_website_using_conditions: वेबसाइटमा प्रयोग अवस्था
+      p_2_1: '2.1। वेबसाइट Flutylove प्रयोग गर्न, तपाईँले दर्ता गर्न आवश्यक छ। नाम,
+        इमेल ठेगाना, लिङ्ग, जन्म मिति, स्थान जानकारी: निम्न जानकारी दर्ता समयमा निर्दिष्ट
+        गर्नुपर्छ। प्रयोगकर्ता आफ्नो / आफ्नै इच्छा मा थप व्यक्तिगत विवरण उपलब्ध गराउन
+        सक्छ। प्रयोगकर्ता सम्पादन वा कुनै पनि समयमा व्यक्तिगत जानकारी अद्यावधिक हुन
+        सक्छ। कम्पनी लिङ्ग र प्रयोगकर्ता को जन्म मिति परिवर्तन को मामला मा अतिरिक्त
+        समर्थन कागजात अनुरोध गर्न एक अधिकार छ।'
+      p_2_2: 2.2। वेबसाइट दर्ता लागि यो 18 वर्ष पुरानो हुन आवश्यक छ भनेर बुझ्छ;, वेबसाइट
+        र यसको सेवा, कम्पनी गर्न पहुँच अनुमति उचित तरिका र राम्रो विश्वास मा अभिनय
+        गरेर, प्रयोगकर्ता भनेर ठान्नुहुन्छ सबै आवश्यक अधिकार यो वेबसाइट मा दर्ता र
+        प्रयोग गर्न सक्षम छ; आफूलाई बारेमा सही जानकारी संकेत गर्छ / आफु वेबसाइटको
+        सेवा को प्रयोग को लागि अनुरोध अनुसार; थाह छ वेबसाइटमा व्यक्तिगत जानकारी, प्रयोगकर्ता
+        द्वारा प्रदान, वेबसाइट र इन्टरनेट प्रयोगकर्ता साथै, प्रतिलिपि र अन्य प्रयोगकर्ता
+        द्वारा वितरण गर्न सकिन्छ अन्य प्रयोगकर्ताका लागि उपलब्ध हुन सक्छ कि; कि अन्य
+        प्रयोगकर्ता हस्तान्तरण जानकारी केही प्रकार, प्रयोगकर्ता द्वारा हटाउन सकिँदैन
+        थाह छ; यी विनियम संग परिचित छ, तिनीहरूलाई सहमत र निर्दिष्ट अधिकार र दायित्व
+        undertakes।
+      p_2_3: 2.3। कम्पनी यस्तो प्रमाणिकरण प्रयोगकर्ता गर्न कम्पनीको दायित्व पूरा गर्न
+        आवश्यक छ जब अवस्थामा को अपवाद संग प्राप्त (जम्मा) प्रयोगकर्ता बारेमा जानकारी
+        को शुद्धता प्रमाणित गर्दैन।
+      information_processing_objectives: प्रशोधन सूचना उद्देश्य
+      p_3_1: 3.1। कम्पनी बाहिर वेबसाइट र यसको सेवाहरूको प्रयोग को लागि प्रयोगकर्ता
+        गर्न कम्पनीको दायित्व पूरा गर्न, प्रयोगकर्ता, आफ्नो व्यक्तिगत डाटा सहित बारेमा
+        जानकारी प्रक्रिया वहन।
+      p_3_2: 3.2 कम्पनी बाहिर व्यक्तिगत डाटा विषय अधिकार संरक्षण लागि योग्य र अख्तियार
+        सूचित बिना व्यक्तिगत डाटा प्रशोधन पूरा गर्न एक अधिकार छ।
+      p_4_1: '4.1। यो प्रयोगकर्ता को व्यक्तिगत डेटा समावेश:'
+      p_4_1_1: 4.1.1। नाम, इमेल ठेगाना, लिङ्ग, को प्रयोगकर्ता द्वारा प्रदान र वेबसाइट
+        मा दर्ता लागि बस पर्याप्त हुन मानिन्छ जुन जन्म, स्थान जानकारी, र फोन नम्बर,
+        मिति;
+      p_4_1_2: 4.1.2। (उदाहरण फोटो, pernicious बानी आदि बारे जानकारी को लागि) प्रयोगकर्ता
+        द्वारा प्रदान गरिएको छ जो जानकारी;
+      p_4_1_3: 4.1.3। यस बाहेक, प्रयोगकर्ता सम्झौता देखि देखिने यो प्रयोगकर्ता गर्न
+        कम्पनीको दायित्व पूरा गर्न कम्पनी अनुरोध अनुसार प्रयोगकर्ता द्वारा प्रदान।
+        कम्पनी प्रयोगकर्ता अनुरोध गर्न पहिचान कागजात वा नाम, लिङ्ग र जन्म मिति समावेश
+        कुनै पनि अन्य कागजात, साथै अन्य थप जानकारी कम्पनीको विवेकमा, आवश्यक हुने,
+        प्रतिलिपि र विशेष गरी अधिकार, छ यस्तो प्रयोगकर्ता को पहिचान को लागि पर्याप्त
+        र तेस्रो दल को अधिकार को दुरुपयोग र उल्लंघन हटाउन हुनेछ।
+      p_4_2: '4.2। कम्पनी को वेबसाइट प्रशासन द्वारा अन्य प्रयोगकर्ता जानकारी प्रक्रिया
+        पनि समावेश जो प्रयोगकर्ता बारेमा अन्य जानकारी प्रक्रियाहरु:'
+      p_4_2_1: 4.2.1। साधारण डाटा, स्वतः http-सर्भर द्वारा प्राप्त वेबसाइट र प्रयोगकर्ता
+        को पछि कार्यहरू पहुँच गर्दा (होस्ट को आईपी-ठेगाना, प्रयोगकर्ता अपरेटिङ सिस्टम
+        को प्रकार, वेबसाइट पृष्ठ प्रयोगकर्ता द्वारा भ्रमण)।
+      p_4_2_2: 4.2.2। बुकमार्क (कुकीहरू) को प्रयोग गरेर वेबसाइट पहुँच गर्दा स्वचालित
+        रूपमा प्राप्त छ, जो जानकारी;
+      p_4_2_3: 4.2.3। वेबसाइटमा प्रयोगकर्ता गरेको कामको परिणाम प्राप्त छ, जो जानकारी;
+      p_4_2_4: 4.2.4। जानकारी वेबसाइट मा अन्य प्रयोगकर्ताहरूको कामको परिणाम प्राप्त
+        छ जो।
+      users_information_processing: प्रयोगकर्ता जानकारी प्रोसेसिंग
+      p_5_1: '5.1। व्यक्तिगत डाटा प्रोसेसिंग निम्न सिद्धान्तहरू आधारमा पूरा छ: क)
+        वैध उद्देश्य र व्यक्तिगत डाटा को प्रक्रिया को माध्यम; ख) इमानदारिता; ग) उद्देश्यका
+        साथ व्यक्तिगत डाटा प्रोसेसिंग उद्देश्यका को पालन predetermined र व्यक्तिगत
+        डाटा, साथै कम्पनी को प्रमाणहरू को पालन सङ्कलन गर्दा घोषणा; घ) को मात्रा र
+        व्यक्तिगत डाटा प्रशोधन प्रकार, र यसको प्रक्रिया को उद्देश्य व्यक्तिगत डाटा
+        को प्रक्रिया को माध्यम को अनुपालन को पालन; ई), असंगत उद्देश्यको लागि सिर्जना
+        डेटाबेस संयोजन व्यक्तिगत डाटा समावेश को inadmissibility।'
+      p_5_1_1: 5.1.1। रजिस्टर, साथै भविष्यमा प्रयोगकर्ताले वेबसाइट उपकरण आफ्नो / आफ्नै
+        पहल मा प्रयोग आफूलाई / आफु बारेमा थप जानकारी भन्छन् जब जब प्रयोगकर्ता को व्यक्तिगत
+        डाटा को संग्रह वेबसाइटमा बाहिर छ।
+      p_5_1_2: 5.1.2। प्रयोगकर्ताहरूको व्यक्तिगत डाटा स्वचालित प्रणाली प्रयोग गरेर
+        अवस्थामा जहाँ व्यक्तिगत डाटा को मार्गदर्शन प्रक्रिया बैठक विधान आवश्यकताहरु
+        को दृश्य आवश्यक छ को अपवाद संग द्वारा विद्युतीय ढाँचामा विशेष भण्डारण र प्रशोधन
+        छन्।
+      p_5_1_3: 5.1.3। प्रयोगकर्ताको व्यक्तिगत डाटा अवस्थामा expressly यी विनियम र
+        प्रयोगकर्ता सम्झौता द्वारा प्रदान बाहेक कुनै पनि तेस्रो दल हस्तान्तरण छैन।
+        प्रयोगकर्ता को सहमति, व्यक्तिगत प्रयोगकर्ता डाटा प्राप्त जानकारी को गोपनीयता
+        सेवा र आवेदन प्रयोग गर्दा विशेष गरी सुनिश्चित गर्न एउटा दायित्व को धारणा को
+        अवस्थामा कम्पनी को तेस्रो counterparties गर्न प्रसारित गर्न सकिन्छ। व्यवस्थाले
+        आवश्यक सरकारी अधिकारीहरूले (स्थानीय अधिकारीहरूले) को अनुरोध मा प्रयोगकर्ताको
+        व्यक्तिगत डाटा प्रावधान प्रक्रिया मा बाहिर छ।
+      p_5_1_4: '5.1.4। व्यक्तिगत प्रयोगकर्ता डाटा मेटिएको गर्दा: - डाटा आत्म-मेटिएको
+        प्रयोगकर्ता द्वारा पृष्ठबाट छन्; - पृष्ठ आत्म-मेटिएको प्रयोगकर्ता द्वारा छ;
+        - प्रयोगकर्ताको जानकारी र यसको व्यक्तिगत पृष्ठ कम्पनी द्वारा हटाइएका छन्।
+        प्रयोगकर्ता आफै द्वारा पृष्ठ मेटाउँदै को मामला मा, कम्पनी पछि व्यक्तिगत पृष्ठ
+        छ हटाइएको 210 दिन भित्र आफ्नो इलेक्ट्रोनिक मिडियामा प्रयोगकर्ताको व्यक्तिगत
+        डेटा भण्डारण गर्दछ। पछि व्यक्तिगत पृष्ठ छ हटाइएको व्यक्तिगत डाटा 210 दिन को
+        समाप्ति मा हटाइनेछ। यो अवधि समाप्त सम्म, प्रयोगकर्ता व्यक्तिगत पृष्ठ पुनर्स्थापना
+        गर्ने अधिकार छ।'
+      users_rights_and_obligations: प्रयोगकर्ता अधिकार र दायित्व
+      p_6_1: '6.1। प्रयोगकर्ता गर्ने अधिकार छ:'
+      p_6_1_1: '6.1.1। जानकारी लगिन र पासवर्ड प्रयोग संग वेबसाइट यसको व्यक्तिगत पृष्ठ
+        सम्पादन गरेर प्रतिबन्ध बिना / उहाँको बारेमा पहुँच उनको र नि: शुल्क;'
+      p_6_1_2: 6.1.2। स्वतन्त्र वेबसाइटमा प्रयोगकर्ताको व्यक्तिगत पृष्ठ मा जानकारी
+        परिवर्तन र सुधार, यस्तो परिवर्तन र सुधारका समावेश गर्ने अवस्था मा बनाउन अप-टु-मिति
+        र साँचो जानकारी;
+      p_6_1_3: 6.1.3। वेबसाइटमा व्यक्तिगत पृष्ठ जानकारी देखि हटाउन;
+      p_6_1_4: 6.1.4। यस्तो डाटा, अपूर्ण पुरानो, गलत, unlawfully प्राप्त छन् वा प्रक्रिया
+        को घोषणा उद्देश्य लागि वा यदि आवश्यक हो भने कम्पनी, थप विशेष जानकारी अवरोध
+        प्राप्त वा व्यक्तिगत डाटा मेटाउन अनुरोध यी को अनुच्छेद 6.1.3 मा निर्दिष्ट
+        कार्यहरू विनियम स्वतन्त्र छैन कार्यान्वयन गर्न सकिन्छ;
+      p_6_1_5: 6.1.5। अनुरोध को आधारमा उनको / उनको व्यक्तिगत डाटा को प्रक्रिया सन्दर्भमा
+        कम्पनी बाट जानकारी प्राप्त।
+      p_6_2: '6.2। कुनै पनि दर्ता वेबसाइट प्रयोगकर्ता बारेमा निम्न जानकारी दर्ता प्रयोगकर्ता
+        उपलब्ध सधैं छ: प्रयोगकर्ताको नाम, लिङ्ग, उमेर, प्रोफाइल तस्बिर र अन्य जानकारी
+        प्रयोगकर्ता यो पोष्ट गरेको छ भने।'
+      p_6_3: 6.3। कम्पनी जस्तै डाटा पहुँच गर्ने वेबसाइट अन्य प्रयोगकर्ता द्वारा प्रयोगकर्ताको
+        व्यक्तिगत डाटा को खुलासा लागि कुनै दायित्व फलाउँछ।
+      p_6_4: 6.4। व्यक्तिगत डाटा (अन्य प्रयोगकर्ता जानकारी) प्रयोगकर्ताको व्यक्तिगत
+        पृष्ठ वा वेबसाइट बाट प्रयोगकर्ताको व्यक्तिगत पृष्ठ हटाउन बाट हट्न को मामला
+        मा, प्रयोगकर्ताको जानकारी अन्य प्रयोगकर्ता द्वारा प्रतिलिपि वा अन्य प्रयोगकर्ता
+        'पृष्ठ मा भण्डारण संरक्षित गरिएको छ।
+      users_information_protection_measures: प्रयोगकर्ता 'जानकारी सुरक्षा उपाय
+      p_7_1: 7.1। कम्पनी प्रयोगकर्ताको व्यक्तिगत डाटा अनधिकृत वा आकस्मिक पहुँच, मेटाउने,
+        परिमार्जन, अवरुद्ध, प्रतिलिपि, र dissemination देखि साथै अन्य अनधिकृत कार्यहरू
+        सुरक्षित छन् भन्ने सुनिश्चित गर्न, प्राविधिक संगठनात्मक र कानुनी उपाय लाग्छ।
+      p_7_2: 7.2। प्रयोगकर्ताकोलगइनछवि (इमेल ठेगाना वा मोबाइल नम्बर) र पासवर्ड वेबसाइट
+        पहुँच गर्न प्रयोग गरिन्छ। प्रयोगकर्ता यो जानकारी गोप्य राखेर लागि जिम्मेवार
+        छ। प्रयोगकर्ता तेस्रो दल गर्न लगइन र पासवर्ड हस्तान्तरण सक्छ र पनि यसको गोपनीयता
+        सुनिश्चित गर्न उपाय लिन बाध्य छ।
+      p_8: तेस्रो पक्षहरूका कार्यहरू र इन्टरनेट स्रोतहरू विस्तार छैन। कम्पनी इन्टरनेट
+        वा वेबसाइट सेवा मार्फत प्रयोगकर्ता जानकारी पहुँच पायो गर्ने तेस्रो पक्षहरूका
+        कार्यहरूको लागि कुनै दायित्व फलाउँछ। यो वेबसाइट प्रशासन एक जिम्मेवार तरिका
+        मा वेबसाइट मा पोस्ट जानकारी को राशि संग मुद्दा दृष्टिकोण गर्न प्रयोगकर्ता
+        गर्न सिफारिस गर्छ।
+      user_requests: प्रयोगकर्ता अनुरोध
+      p_9_1: '9.1। रूस, 101,000, मास्को, Ulanskiy Pereulok 13, stroeniye 4, pomeshcheniye
+        1 वा विद्युतीय कागजातको फारम मा: प्रयोगकर्ता निम्न ठेगाना मा लेखिएको व्यक्तिगत
+        डाटा को प्रयोग सन्दर्भमा अनुरोध सहित कम्पनी गर्न अनुरोध पठाउन हक , अनुसार
+        को रूसी संघ कानून संग एक योग्य विद्युतीय हस्ताक्षर गरेर हस्ताक्षर इमेल द्वारा:
+        support@flutylove.com।'
+      p_9_2: '9.2। प्रयोगकर्ताको अनुरोध निम्न जानकारी हुनु पर्छ: प्रयोगकर्ता वा यसको
+        प्रतिनिधि को पहिचान कागजातको संख्या; माथिको कागजात र issuing अख्तियारको मुद्दा
+        को मिति; प्रयोगकर्ताको अपरेटर संग सम्बन्ध मा सहभागिता पुष्टि जानकारी (विशेष
+        मा, लिङ्क); प्रयोगकर्ता वा उनको / उनको प्रतिनिधि हस्ताक्षर।'
+      p_9_3: 9.3। कम्पनी विचार र यसलाई प्राप्त भएको थियो पछि 30 दिन भित्र प्रयोगकर्ताको
+        अनुरोध प्रतिक्रिया undertakes।
+      p_9_4: 9.4। कम्पनी द्वारा प्राप्त प्रयोगकर्ता (लिखित वा विद्युतीय अनुरोध) बाट
+        सबै पत्राचार प्रतिबन्धित पहुँच जानकारी वर्गीकृत छ र प्रयोगकर्ताको लिखित सहमति
+        बिना प्रकट हुन सक्छ। व्यक्तिगत डाटा र अन्य जानकारी अनुरोध पठाइएको गर्ने प्रयोगकर्ता
+        बारेमा फरक फरक अनुरोध गर्न वा स्पष्ट लागू कानून द्वारा प्रदान उदाहरणहरु मा
+        प्रतिक्रिया को लागि भन्दा, प्रयोगकर्ताको विशेष सहमति बिना, प्रयोग गर्न सक्छ।
+    terms:
+      terms: Flutylove प्रयोगकर्ता सम्झौता
+      welcome: स्वागत Flutylove गर्न!
+      about_terms: '(साथै कागजात, यहाँ उल्लेख गोपनीयता नीति सहित) अनुसार रूसी संघ
+        को नागरिक कोड (hereinafter को "सम्झौता" को रूपमा उल्लेख) को धारा 428 संग आसंजन
+        को सम्झौता गर्दै बीच उमेर 18 वर्ष पुगेको छ जसले व्यक्तिगत (hereinafter "प्रयोगकर्ता"
+        र कम्पनी रूपमा उल्लेख (वा "हामी") - सीमित दायित्व कम्पनी "Technoelegance"
+        (LLC "Technoelegance") (कानुनी ठेगाना: 101,000, मास्को, Ulanskiy Pereulok
+        13, stroeniye 4, pomeshcheniye 1), hereinafter गर्न Flutylove रूपमा, जो तपाईं
+        यस वेबसाइट र सबै सम्बन्धित सेवाहरू साधारण "सेवा" को रूपमा उल्लेख गर्ने वेबसाइट
+        वा आवेदन (मार्फत प्रस्ताव) प्रयोग गर्न सक्नुहुन्छ अनुसार उल्लेख गरे। वेबसाइटको
+        कुनै पनि मतलब बुझ्ने गरिन्छ यसको संस्करण डोमेन नाम flutylove.com अन्तर्गत
+        संयुक्त र उपकरणहरू विभिन्न वेब-आधारित संस्करण, मोबाइल आवेदन र सामाजिक सञ्जालका
+        लागि आवेदन सहित संचालित।यो वेबसाइट प्रयोग गरेर तपाईं सम्झौता शर्तहरू र गोपनीयता
+        नीति सँग सहमत हुनुहुन्छ। कृपया ध्यान तिनीहरूलाई पढ्नुहोस्। तपाईं सम्झौता शर्तहरू
+        र गोपनीयता नीति सँग सहमत छैन, भने वा तपाईं 18 वर्ष को उमेर पुगेको छैन, तपाईं
+        वेबसाइट र यसको सेवा प्रयोग गर्न सक्छ।वेबसाइट प्रयोग गरेर, बिना तपाईं Flutylove
+        प्रयोगकर्ता दर्ता वा छैन, तपाईं यो सम्झौता र हाम्रो गोपनीयता नीति, लिङ्क गरेर
+        यो सम्झौता समावेश र वेबसाइट मा उपलब्ध छ जो संग पूर्ण सहमत छु, र यो पालन।प्रयोगकर्ता
+        अनुरोध मा, कम्पनी एक hardcopy फारम यो सम्झौता हस्ताक्षर र कागजातहरू अनुरोध
+        व्यक्तिगत यसलाई पठाउन undertakes।कम्पनी प्रयोगकर्ता सम्झौता र यसलाई उल्लेख
+        कुनै पनि कागजात परिमार्जन गर्न अधिकार। तपाईं नियमित रूपमा यस्तो परिवर्तन जानकारी
+        राख्न-अप टु डेट गर्न आवश्यक परिवर्तनहरू सजग हुन। हामी तल यस पृष्ठमा हामीले
+        गरेको परिवर्तन बारे सूचित हुनेछ। परिवर्तन फिर्ता सम्बन्धित छैन र प्रकाशन को
+        मिति देखि दस दिन भित्र प्रभाव मा आउनेछ। तथापि, तिनीहरूले नयाँ सेवाहरूको कार्यान्वयन
+        वा कानून को संशोधन सम्बद्ध मामला मा, यो तुरुन्तै लागू गरिनेछ। तपाईं सम्झौता
+        मा परिवर्तन संग सहमत हुनुहुन्छ भने, तपाईं वेबसाइट र यसको आवेदन प्रयोग गर्न
+        बन्द गर्नुपर्छ।'
+      p_1: "। इलेक्ट्रनिक सम्झौता। यो सम्झौता जो वेबसाइट र सेवा को प्रयोग को सर्तहरू
+        वर्णन करार, एक इलेक्ट्रनिक संस्करण हो। वेबसाइटमा लग इन वा प्रयोगकर्ता बनेर,
+        तपाईं यो सम्झौता स्वीकार र सबै शर्तहरू, अवस्था र निहित वा त्यहाँ संदर्भित
+        सूचनाहरू सहमत हुनुहुन्छ। तपाईं अभिवचन र Flutylove को प्रयोगकर्ता कम्पनी वा
+        यसको सम्बद्ध सम्बन्धित अन्य वेबसाइटहरु समावेश अनलाइन समुदाय को एक भाग हुन
+        सक्छ भन्ने कुरामा सहमत। तसर्थ, वेबसाइट मा प्रोफाइल अन्य यस्तै वेबसाइट र एक
+        वेबसाइट बाट तिर्ने सदस्यहरू मा हेर्न सकिन्छ सबै वेबसाइटहरूमा अन्य तिर्ने सदस्यहरू
+        सँग कुराकानी गर्न सक्छ। ख। इलेक्ट्रनिक फारम। वेबसाइटमा लग इन वा प्रयोगकर्ता
+        बनेर, तपाईं इलेक्ट्रनिक सम्झौता प्रदान गर्न सहमत। ग। Hardcopy फारम। तपाईंले
+        यो सम्झौता को hardcopy प्राप्त गर्न सही छ। तपाईंले यसलाई विद्युतीय फारममा
+        हस्ताक्षर हुनेछ अघि वा पछि यो सम्झौता को hardcopy संस्करण अनुरोध गर्न सक्नुहुन्छ।
+        कृपया, थप जानकारी को लागि हाम्रो ग्राहक सेवा सम्पर्क गर्नुहोस्। घ। पहुँच र
+        डाउनलोड। पहुँच र यो इलेक्ट्रोनिक सम्झौता डाउनलोड गर्न, तपाईं इन्टरनेटमा वा
+        सीधा वेब स्रोतहरू गर्न पहुँच उपकरणहरू मार्फत पहुँच हुनुपर्छ। तपाईं इन्टरनेट,
+        अर्थात् कम्प्युटर, मोडेम वा अन्य पहुँच उपकरण जडान गर्न आवश्यक उपकरण आवश्यक
+        पर्छ। कृपया, यो सम्झौता प्रतिलिपि छाप्न र यसलाई राख्न। सम्झौताको इलेक्ट्रनिक
+        फारम डाउनलोड गर्न, कुनै पनि पाठ सम्पादक मदत गरेर आफ्नो कम्प्युटरमा सुरक्षित।"
+      the_right_of_using_the_website: 2 वेबसाइटमा प्रयोग गरेर सही।
+      p_2: तपाईं कम्तिमा अठार (18) वर्ष यो वेबसाइट एक दर्ता प्रयोगकर्ता बन्न पुरानो
+        हुनुपर्छ। आवश्यकताहरु संग गैर-पालन को मामला मा, वेबसाइट पहुँच अस्वीकार गरिनेछ।
+        वेबसाइट प्रयोग गरेर प्रयोगकर्ताले वेबसाइट मा पोस्ट व्यक्तिगत जानकारी अन्य
+        इन्टरनेट प्रयोगकर्ताका लागि उपलब्ध हुन सक्छ भनेर सचेत हुनुपर्छ, र कम्पनी आफ्नो
+        कार्यहरू लागि दायित्व वहन छैन। यसको सबै नियम र सर्तहरू पालना गर्न ठोकुवा र
+        तपाईं एक सही, यो सम्झौता प्रवेश गर्न अख्तियार र सम्भावना छ भनेर उतरदायित्व
+        लिनु यो वेबसाइट प्रयोग र सहमति गरेर। तपाईं ठोकुवा र तपाईं यौन हिंसा सम्बन्धित
+        आपराधिक ठेस लागि विश्वास भोगे कहिल्यै गरिएका उतरदायित्व लिनु एक प्रयोगकर्ता
+        बनेर। यो वेबसाइट व्यक्तिगत प्रयोगको लागि मात्र डिजाइन गरिएको छ। यो कुनै पनि
+        व्यावसायिक उद्देश्यका लागि वेबसाइट प्रयोग गर्न निषेध गरिएको छ। कर्पोरेट संस्थाहरुको
+        यो वेबसाइट को प्रयोगकर्ता हुन सक्दैन, साथै यो सेवा वा आफ्नो उद्देश्य मा वेबसाइट
+        प्रयोग गर्न सक्दैन। अवैध र / वा, वेबसाइटको प्रयोग सङ्कलन प्रयोगकर्ता नाम र
+        / वा खराब सन्देश र लिंक पठाउन को प्रयोजनको लागि विद्युतीय वा अन्य उपकरण को
+        सहायता इमेल ठेगाना सहित अनधिकृत अपनाए छ र कम्पनी सहित व्यवस्था अनुसार उपयुक्त
+        कार्यहरू लाग्न सक्छ व्यवस्था प्रवर्तन अधिकारीहरु गर्न अपील।
+      pricing_and_registration: 3 मूल्य र दर्ता
+      p_3: वेबसाइटमा दर्ता गरेर freewill र शुल्क आधार मुक्त मा Flutylove को प्रयोगकर्ता
+        बन्न सक्षम। प्रयोगकर्ता रूपमा, सेवाहरू र वेबसाइट को अवसर को विशिष्ट सीमा प्रयोग
+        गर्न सक्छ। वेबसाइटको प्रयोगकर्ता स्थापित आदेश र उमेर 18 वर्ष पुगेको छ जो अनुसार
+        वेबसाइट मा दर्ता व्यक्तिगत छ। वेबसाइटमा दर्ता जब प्रयोगकर्ता आवश्यक र सान्दर्भिक
+        कम्पनी को लागि, प्रयोगकर्ता पृष्ठ पूरा गर्न जानकारी लगइन (इमेल ठेगाना वा फोन
+        नम्बर) र पासवर्ड वेबसाइटमा पहुँच लागि, साथै नाम सहित प्रदान गर्न बाध्य छ,
+        जो हरेक प्रयोगकर्ताको लागि अद्वितीय छन्। दर्ता लागि फारम प्रयोगकर्ता थप जानकारी
+        अनुरोध गर्न सक्नुहुन्छ। प्रयोगकर्ता वैधता, वास्तविकता, दर्ता मा प्रदान जानकारी
+        को रूसी संघ को व्यवस्था, र तेस्रो दल को दावा यसका सफाई संग पूर्णता र अनुपालन
+        लागि जिम्मेवार छ। दर्ता जब प्रयोगकर्ताले यो सम्झौता सहमत र निर्दिष्ट अधिकार
+        र दायित्व, संग प्रयोग र वेबसाइट को कामकाज सम्बन्धित उतरदायित्व लिनु। प्रयोगकर्ताले
+        वेबसाइट कार्यहरु को प्रयोग गर्न पूर्ण पहुँच हुन्छ। कम्पनी, यी विनियम निर्दिष्ट
+        प्रयोगकर्ता, अधिकार र दायित्व undertakes वेबसाइटमा प्रयोगकर्ता को सफल दर्ता
+        पछि प्रयोगकर्ताको व्यक्तिगत डाटा प्रोसेसिंग रूसी संघ को व्यवस्था अनुसार बनेको
+        छ। यो वेबसाइट प्रशासन व्यक्तिगत (लक्षित) विज्ञापन प्राप्त सहित, वेबसाइट कार्यहरु
+        को उपयोग गर्न पहुँच प्रयोगकर्ता प्रदान गर्न प्रयोगकर्ता व्यक्तिगत डाटा प्रक्रियाहरु;
+        प्रमाणिकरण, अनुसन्धान र समर्थन र कार्यहरु र वेबसाइट को खण्डहरू सुधार गर्न,
+        साथै नयाँ कार्य र खण्डहरू विकास अनुमति ती डाटा विश्लेषण। कम्पनी अनधिकृत पहुँच,
+        परिमार्जन, प्रकटीकरण वा मेटाउँदै विरुद्ध प्रयोगकर्ता को व्यक्तिगत डाटा सुरक्षित
+        गर्न आवश्यक सबै कार्यहरू लाग्छ। कम्पनी मात्र ती कर्मचारीहरु, ठेकेदार र एजेन्ट
+        कम्पनी को, वेबसाइट कार्यक्षमता समर्थन गर्न र यसको प्रयोग गर्न पहुँच प्रयोगकर्ता
+        प्रदान गर्न यो जानकारी आवश्यक जो गर्न प्रयोगकर्ता को व्यक्तिगत डाटा पहुँच
+        प्रदान गर्दछ। वेबसाइटको कम्पनी रूसी महासङ्घका वर्तमान कानून को आवश्यकताहरु
+        अनुपालनको सुनिश्चित गर्न, व्यक्तिगत डाटा सहित प्रयोगकर्ता द्वारा प्रदान जानकारी
+        प्रयोग गर्न दाँया (अवैध र / वा गैरकानूनी को रोकथाम र / वा दमन सहित छ यो प्रयोगकर्ता
+        को कार्यहरू)। प्रयोगकर्ता द्वारा प्रदान जानकारी को प्रकटीकरण रूसी महासङ्घका
+        लागू कानून द्वारा प्रदान रूपमा साथै अन्य अवस्थामा, केवल रूसी संघ को वर्तमान
+        कानून संग अनुसार अदालत, कानून प्रवर्तन एजेंसियों को अनुरोध मा बनेको हुन सक्छ।
+        कम्पनी यी विनियम को कार्यान्वयन लागि प्रयोगकर्ता को व्यक्तिगत डाटा प्रक्रियाहरु
+        कि हदसम्म, व्यक्तिगत डाटा को प्रक्रिया गर्न प्रयोगकर्ता सहमति व्यक्तिगत डाटा
+        मा व्यवस्था को प्रावधान को सद्गुण मा आवश्यक छैन। लगइन र प्रयोगकर्ता रोजेका
+        पासवर्ड वेबसाइटमा प्रयोगकर्ता पहुँचका लागि आवश्यक र पर्याप्त जानकारी छन्।
+        प्रयोगकर्ता तेस्रो पार्टीहरूलाई उनको / उनको लगिन र पासवर्ड दिन अधिकार छ, र
+        एक स्वतन्त्र आधारमा तिनीहरूलाई भण्डारण बाटो रोजेर, यसको सुरक्षाको लागि बिल्कुल
+        जिम्मेवार छ। उनको / उनको हार्डवेयर र सफ्टवेयर प्रयोग गरेर प्रयोगकर्ता वेबसाइटमा
+        पछि स्वचालित प्राधिकरण लागि लगिन र पासवर्ड (कुकीहरू मार्फत) को भण्डारण अनुमति
+        दिन सक्छ। उपयोगकर्ता प्रयोगकर्ता नाम र पासवर्ड प्रयोग संग लिएको कुनै पनि कार्य
+        विपरीत प्रयोगकर्ता द्वारा साबित नगरेसम्म, प्रयोगकर्ता द्वारा प्रतिबद्ध हुन
+        मानिन्छ। प्रयोगकर्ता तुरुन्तै स्थापित प्रक्रिया संग अनुसार लगइन र पासवर्ड
+        प्रयोगकर्ता नाम र पासवर्ड र / वा खाता पृष्ठ, या खुलासा अनधिकृत पहुँच को मामला
+        मा मा कम्पनी सूचित गर्न बाध्य छ। दर्ता पछि प्रयोगकर्ता आत्म-रुचि र गैर उद्देश्यका
+        मा उनको / उनको आफ्नै व्यक्तिगत पृष्ठ को सामग्री, सिर्जना गर्न प्रयोग, र निर्धारण,
+        साथै प्राप्त अन्य प्रयोगकर्ता को व्यक्तिगत पृष्ठ मा जानकारी पहुँच र पोस्ट
+        गर्न मौका सही कमाइहाले । व्यक्तिगत पृष्ठ मा पोस्ट जानकारी मालिकको रूपमा प्रयोगकर्ता
+        थाह छ यी विनियम र रूसी संघ को वर्तमान कानून द्वारा स्थापित अवस्थामा को अपवाद
+        संग, कम्पनी विकास भाग कि गर्दैन र सामग्रीको प्रयोग र नियन्त्रण गर्दैन अन्य
+        प्रयोगकर्ता देखि प्रयोगकर्ताको पृष्ठ पहुँच।
+      terms_4: 4 सर्तको।
+      p_4: पूर्णतया रूपमा लामो तपाईं वेबसाइट प्रयोग रूपमा शक्ति र प्रभाव रहन्छ। तपाईं
+        आफ्नो पृष्ठ हाम्रो अनलाइन ग्राहक सेवा सम्पर्क गरेर वा वेबसाइट को सेवा प्रयोग
+        गरेर, कुनै पनि कारण को लागि, कुनै पनि समयमा उखेलेर वेबसाइटको प्रयोगकर्ता बन्द
+        गर्न सक्नुहुन्छ। कम्पनी कुनै पनि समयमा आफ्नो व्यक्तिगत पृष्ठ मेटाउन आफ्नो
+        अधिकार। हामी कम्पनी तपाईं सम्झौता शर्तहरू उल्लङ्घन गरेको विश्वास गर्न कारण
+        छ भने तपाईं पृष्ठ मेटाउनु अघि सूचित गर्न बाध्य छन्। हामी तपाईंको खाता मेटाउने
+        कारण खुलासा गर्न बाध्य छन्; केही अवस्थामा यस्तो जानकारी खुलासा निषेधित हुन
+        सक्छ। आफ्नो प्रकृति द्वारा यस सम्झौता को समापन यस्तो समापन पछि शक्ति हुनेछ
+        पछि आफ्नो पृष्ठ को मेटाएपछि, सबै अवस्था जो मान्य हुन सक्छ। तपाईं आफ्नो इच्छा
+        मा वेबसाइट मार्फत आफ्नो पेज मेटाउन भने, हामी तपाईंलाई यस्तो मेटाउँदै को कारण
+        निर्दिष्ट गर्न अनुरोध गर्न सक्छन्।
+      account_security: 5 खाता सुरक्षा।
+      p_5: आफ्नो प्रयोगकर्ता नाम र पासवर्ड, दर्ता को समय मा सेट गरिने को गोपनीयता
+        संरक्षण लागि जिम्मेवार छन्। साथै, तपाईंले आफ्नो प्रयोगकर्ता नाम र पासवर्ड
+        अन्तर्गत उत्पन्न कि सबै कार्यहरू लागि बिल्कुल जिम्मेवार छन्। तपाईं (क) तुरुन्तै
+        कुनै पनि तपाईंको खाता तपाईंको लगिन र पासवर्ड को अनधिकृत प्रत्येक सत्र को अन्त
+        मा प्रयोग, साथै अन्य कुनै पनि सुरक्षा उल्लंघन, र (ख) बाहिर निस्कन बारेमा हामीलाई
+        सूचित गर्न सहमत छु। यो वेबसाइट यस प्रबन्धबाट गैर-पालन देखि arising कुनै पनि
+        क्षति वा घाटा लागि जिम्मेवार छैन। अनधिकृत व्यक्ति जासुसी गर्न सके वा आफ्नो
+        पासवर्ड वा अन्य कुनै व्यक्तिगत जानकारी रेकर्ड क्रममा एक सार्वजनिक कम्प्युटर
+        मार्फत आफ्नो खातामा पहुँच जब तपाईं विशेष गरी सावधान हुनुपर्छ। तपाईं पनि पुष्टि
+        र इन्टरनेट कहिल्यै पूर्ण निजी र सुरक्षित थियो भन्ने कुरामा सहमत। तपाईं वेबसाइट
+        मा पोस्ट कुनै पनि सन्देश वा जानकारी त्यहाँ जानकारी लुकेको छ कि एक विशेष चेतावनी
+        हो भने पनि पढ्न सक्छ वा अन्य प्रयोगकर्ताहरू द्वारा प्रयोग, बुझ्न।
+      your_interaction_with_other_users_of_the_website: 6 वेबसाइटको अन्य प्रयोगकर्ताहरूले
+        तपाईंको कुराकानी।
+      p_6: "। तपाईं अन्य प्रयोगकर्ताहरूसँग तपाईंको अन्तरक्रिया लागि केवल दोषी छन्।
+        तपाईं कि कम्पनी नहीं तिनीहरूले आपराधिक रेकर्ड चाहे आफ्नो प्रयोगकर्ता प्रमाणित
+        गर्नुहुनेछ बुझ्नुपर्छ। कम्पनी को पनि तिनीहरूको प्रयोगकर्ताहरूको विगत बारेमा
+        जानकारी अनुरोध गर्दछ र यो जानकारी मान्य छैन। कम्पनी USER को व्यवहार र वास्तविक
+        या भविष्यलाई प्रयोगकर्ता आफ्नो अनुकूलता सन्दर्भमा कुनै वारंटी। एकै समयमा कम्पनी
+        आपराधिक रेकर्ड लागि प्रयोगकर्ता प्रमाणित वा उपलब्ध सार्वजनिक जानकारी प्रयोग
+        गरि कुनै पनि समय मा अन्य प्रमाणिकरण पूरा गर्ने अधिकार। ख। कुनै अवस्थामा कम्पनी
+        कुनै नोक्सान लागि जिम्मेवार तिनीहरूले प्रत्यक्ष, अप्रत्यक्ष, सामान्य वा विशिष्ट
+        प्रकृति, COMPENSATORY, र / वा INCIDENTAL, तपाईं वा अन्य कुनै व्यक्तिहरूलाई
+        गरेर, वेबसाइटको प्रयोग सहित फलस्वरूप प्राप्त गर्नुभएको छ कि छैन, छैन तर सीमित
+        गर्न, शारीरिक चोट, तनाव र / वा अन्य नोक्सान, संचार या सभाबाट तपाईं वेबसाइटमा
+        सामना भनेर वेबसाइटमा या मान्छे अन्य दर्ता प्रयोगकर्ता संग फलस्वरूप तपाईंले
+        प्राप्त। के तपाईं अरू प्रयोगकर्ताहरूसँग जब तपाईं वास्तविक जीवन तिनीहरूलाई
+        भेट गर्ने निर्णय, विशेष गरी ती अवस्थाहरूमा, सञ्चार कहिले हरेक सम्भव सावधानीको
+        लिन सहमत हुनुहुन्छ। के तपाईं कम्पनी एक घोषित या निहित वारेन्टीहरू यस वेबसाइट
+        को प्रयोगकर्ता अनुकूलता विषयमा नहीं दिनुहुन्छ के, सजग हुनुपर्छ। तपाईं वेबसाइटमा
+        (उदाहरणका लागि तपाईंको क्रेडिट वा प्लास्टिक कार्डहरूको बारेमा जानकारी) अन्य
+        प्रयोगकर्ताहरूलाई वित्तीय जानकारी दिनुपर्छ। ग। सेवा आफ्नो नाम वा अन्य भाषाहरू
+        आफ्नो शहर को नाम अनुवाद गर्न सक्नुहुन्छ; घ। सेवा यस लेखमा दिइएका कार्यहरू
+        लागि जिम्मेवार छैन। मामला मा तपाईं पूर्ण वा आंशिक रूपमा तिनीहरूलाई सहमत छैन,
+        कृपया तुरुन्तै वेबसाइटमा बिदा;"
+      the_information_posted_by_you_on_flutylove: 7 अन FLUTYLOVE द्वारा पोस्ट जानकारी
+      p_7: '। के तपाईं प्रकाशन वा (hereinafter "पोस्ट") सेवा मा देखाउन वा अन्य प्रयोगकर्ता
+        स्थानान्तरण जानकारी को लागि केवल जिम्मेवार छन्। तपाईं सेवा मा जातीय भेदभावको
+        प्रकृति को खतरामा वा पीछा जानकारी, अपमानसूचक गलत, अपमानजनक, अश्लील, छाडा र
+        आक्रामक सामग्री कुनै पनि जानकारी, यौन सामग्री जानकारी, साथै, सूचना पोस्ट वा
+        अन्य प्रयोगकर्ता स्थानान्तरण गर्न अनुमति छैन वा अवैध जानकारी वा उल्लंघन वा
+        अन्य कुनै पनि पार्टी को अधिकार उल्लङ्घन गर्ने कुनै पनि अन्य जानकारी (सहित
+        सीमा बिना, बौद्धिक सम्पत्ति अधिकार, गोपनीयता र प्रचार को अधिकार)। तपाईं कम्पनी
+        वा कुनै अन्य प्रयोगकर्ता, गलत भ्रामक वा गलत जानकारी प्रदान गर्न अनुमति छैन।
+        जानकारी कम्पनी Flutylove प्रदान वा अर्को प्रयोगकर्ता पछि झूटा को भ्रामक, गलत
+        हुन्छ भने, तपाईं तुरुन्तै कम्पनी परिवर्तन को Flutylove सूचित गर्नुपर्छ। तपाईं
+        पेश र दर्ता समयमा प्रदान सबै जानकारी सही र सत्य हो भनेर वारंट, र तपाईं तुरुन्त
+        पछि, गलत भ्रामक वा गलत हुन्छ कि कुनै पनि जानकारी परिवर्तन। ख। तपाईं बुझ्न
+        र हामी अधिकार, तर सेवा हस्तान्तरण वा सेवा मा सार्वजनिक पहुँच मा पोस्ट गरेको
+        जानकारी वा सामग्री निगरानी बाध्य कुरामा सहमत हुनुहुन्छ। हामी कुनै पनि कारण
+        र सूचना assigning बिना यस्तो जानकारी वा सामग्री कुनै पनि मेटाउन एउटा सही छ।
+        ग। डिजाइन तत्व, पाठ, ग्राफिक्स, दृष्टान्तहरू, भिडियो, लिपि, कार्यक्रम, संगीत,
+        ध्वनि र अन्य वस्तुहरू र तिनीहरूको पुस्तकालयहरु सहित वेबसाइट मा प्रदर्शित सबै
+        वस्तुहरु, (hereinafter - सूचना), कम्पनी को विशेष अधिकार को सम्पत्ति हो, को
+        प्रयोगकर्ता वेबसाइट र अन्य अधिकार धारकहरूको, यी वस्तुहरू सबै अधिकार सुरक्षित
+        छन्। घ। अनुसार यस सम्झौता, साथै को रूसी संघ हालको कानून संग मा स्थापित, कुनै
+        जानकारी प्रतिलिपि हुन सक्छ बाहेक (पुनरुत्पादन), प्रशोधन, वितरण, एक फ्रेम मा
+        प्रदर्शित, प्रकाशित, डाउनलोड, हस्तान्तरण, बिक्रि वा अन्य तरिकामा प्रयोग सारा
+        वा होल्डरलाई एक पूर्व अनुमति बिना टुक्रा मा, अधिकारधारकहरू नभएसम्म स्पष्ट
+        कुनै व्यक्ति द्वारा सूचना को नि: शुल्क प्रयोग गर्न यसको सहमति व्यक्त गर्नुभएको
+        थियो। ई। lawfully प्रयोगकर्ता सम्बन्धित वेबसाइटमा सूचना पोस्ट गरेर, प्रयोगकर्ता
+        को लागि, प्लेब्याक (सहित प्रतिलिपि) हेर्दै गरेर प्रयोग गर्न गैर-विशेष अधिकार
+        अन्य प्रयोगकर्ता र व्यक्तिगत गैर-व्यावसायिक प्रयोग को उद्देश्यका लागि केवल
+        अन्य अधिकार लागि पहुँच प्रदान गर्दछ, अवस्थामा नभएसम्म यस्तो प्रयोग गराउँछ
+        गर्दा वा कानुन द्वारा सुरक्षित सही होल्डर को चासो गर्न हानि हुन सक्छ। च। लागि
+        केवल व्यक्तिगत गैर-व्यावसायिक प्रयोग प्राप्त भएको थियो जुन पहुँच प्रयोगकर्ता
+        द्वारा सूचना, को प्रयोग, मा स्थिति अनुमति छ ग्रन्थकारिता सबै संकेत (प्रतिलिपि
+        अधिकार) वा ग्रन्थकारिता अन्य सूचनाहरू, राखिनेछ लेखक र यसको उत्पादन को नाम
+        हुनेछ परिवर्तन बिना हुनेछन्। जी। प्रयोगकर्ता पनि वेबसाइट मा पोस्ट र तिनलाई
+        सम्बन्धित जानकारी प्रयोग गर्न एक गैर-विशेष अधिकार संग कम्पनी प्रदान गर्दछ
+        / उनको lawfully क्रम आर्किटेक्चर र कार्यक्षमता प्रदर्शन भित्र कम्पनी को वेबसाइट
+        को कामकाज सुनिश्चित गर्न ध्यान बिना वेबसाइट। माथि उल्लेख गैर-विशेष अधिकार
+        वेबसाइट मा सामग्री नियुक्ति लागि प्रदान र दुनियाँ देशहरुमा इलाका समेट्छ छ।
+        कम्पनी तेस्रो पक्षहरूले यो अनुच्छेद उल्लेख अधिकार हस्तान्तरण गर्न अधिकार छ।
+        प्रयोगकर्ता कम्पनी, प्रयोगकर्ता द्वारा सामग्री साझेदारी को प्रदर्शन विज्ञापन
+        जानकारी को प्रदर्शन को उद्देश्य सहित प्रदान वेबसाइट को कार्यात्मक र प्राविधिक
+        विकल्प, प्रयोग गर्न अधिकार छ कि सहमत छ। नमस्ते। मामला मा प्रयोगकर्तालाई वेबसाइट
+        बाट जानकारी मेटाउँछ, गैर-विशेष अधिकार स्वतः खारेज हुनेछ, तर कारण वेबसाइट को
+        प्राविधिक विनिर्देशों गर्न कम्पनी आवश्यक समय र जहाँ आवश्यक भित्र सूचना जगेडा
+        प्रतिलिपिहरू सुरक्षित गर्न अधिकार। म। अलग गोप्य जानकारी देखि, प्रयोगकर्ता
+        अपलोड गर्न, वा विभिन्न तरिकामा खुलासा स्पष्ट प्रतिलिपि अधिकार बाट यस्तो कार्यहरू
+        गर्न सहमति व्यक्त को अभाव मा अन्य साइटहरु, डेटाबेस र अन्य बौद्धिक सम्पत्ति
+        को सूचना (वेबसाइटमा प्रकाशित गरेर) कुनै अधिकार छ मालिक। ञ। अन्यथा यी विनियम
+        मा उल्लेख गरेको छ, जबसम्म यी विनियम केही छैन सूचना विशेष अधिकार को स्थानान्तरण
+        रूपमा छलफल गर्न सकिन्छ। K। तपाईं आफ्नो प्रयोगकर्ता प्रोफाइल मा प्रकाशित कि
+        सबै जानकारी, अप-टु-मिति र पूर्ण, सही हुनुपर्छ। प्रयोगकर्ता बिल्कुल केवल अपलोड
+        वा विभिन्न तरिकामा प्रकट भएको थियो कि कुनै पनि सूचना लागि जिम्मेवार छ (पोस्ट)
+        को वेबसाइट वा प्रयोगकर्ता को मद्दतले। प्रयोगकर्ता, अपलोड गर्न स्थानान्तरण
+        वा त्यो / त्यो उपयुक्त अधिकार अनुसार रूसी महासङ्घका कानून संग उसलाई / उनलाई
+        यस्तो कार्य, प्राप्त वा प्रत्यायोजित लिन छैनन् भने, वेबसाइट मा सामग्री पोस्ट
+        अधिकार छैन। कम्पनी सक्षम, तर कुनै पनि अवैध सामग्री लागि वेबसाइट ब्राउज गर्न
+        बाध्य छ, र मेट्न वा सार्न (सूचना बिना) कुनै पनि सामग्री वा प्रयोगकर्ता यसको
+        एकमात्र विवेकमा, कुनै पनि कारण वा कारण बिना सहित सीमा बिना सार्न गर्न अनुमति
+        दिएको छ, वा, कम्पनी को व्यक्तिगत राय अनुसार यो सम्झौता उल्लङ्घन गर्ने जानकारी,
+        रूसी संघ को कानून मेटाउन र / वा, अधिकार उल्लङ्घन हुन सक्छ चोट लाग्नु, वा अन्य
+        प्रयोगकर्ता वा तेस्रो पक्षहरूका सुरक्षा खतरामा पार्न। यो वेबसाइट समावेश (वा
+        हुनसक्छ) इन्टरनेटमा अन्य साइटहरु को लागि लिंक (तेस्रो दल को वेबसाइट) साथै
+        लेख, फोटो, दृष्टान्तहरू, ग्राफिक्स, संगीत, ध्वनि, भिडियो, जानकारी, आवेदन,
+        सफ्टवेयर र अन्य जानकारी सम्बन्धित वा आउँदै तेस्रो दल (तेस्रो पक्ष सामग्री),
+        बौद्धिक गतिविधिको परिणाम हो जो र अनुसार रूसी संघ को कानून संग सुरक्षित छ देखि।
+        यी तेस्रो पक्षहरूले र आफ्नो जानकारी वा अन्य आवश्यकताहरु (शुद्धता, सम्पूर्णता
+        इमानदारी, आदि) संग अनुपालन लागि कम्पनी द्वारा प्रमाणित छैन। कम्पनी तेस्रो-पक्ष
+        साइटहरूमा पोस्ट कुनै पनि सामग्रीको लागि जिम्मेवार छैन जो प्रयोगकर्ता लाभ वेबसाइट
+        मार्फत वा सहित तेस्रो-पक्ष जानकारी, पहुँचका, तर कुनै पनि राय वा बयान तेस्रो-पक्ष
+        साइटहरू वा व्यक्त गर्न सीमित छैन गर्न आफ्नो सूचना मा। कुनै पनि साइट, उत्पादन
+        र सेवा गर्न लिंक, यो वेबसाइट मा समावेश व्यावसायिक र गैर-व्यावसायिक प्रकृतिको
+        कुनै पनि जानकारी छैन एक अनुमोदन वा यी उत्पादनहरु (सेवाहरू) कम्पनी बाट लागि
+        सिफारिस छ। प्रयोगकर्ताले वेबसाइट छोडेर तेस्रो पक्षहरूका वेबसाइट जाने वा तेस्रो-पक्ष
+        सफ्टवेयर प्रयोग गर्न वा स्थापना गर्न भने, त्यो / त्यो त आफ्नै जोखिममा र यी
+        विनियम अब प्रयोगकर्ता लागू त्यो क्षण देखि गर्छ। थप प्रयोगकर्ता कार्यहरू लागू
+        नियम र नीतिहरू, ती व्यक्तिहरूलाई जसको सूचना त्यो / त्यो प्रयोग गर्न जा रहेको
+        छ को व्यापार अभ्यासहरू समावेश गरेर निर्देशित छन्।'
+      forbidden_actions: 8 निषेध कामलाई।
+      p_8: । यो अन्य तरिकामा कुनै पनि व्यक्ति "मा घनिष्ठ हेर्ने राख्न" वा बाधा निषेध
+        गरिएको छ। ख। यो सूचकांक, "गुप्तचर" निकाल्न वा अन्य तरिकामा उर्तानु वा circumvent
+        गर्न नेभिगेसन संरचना खोजी गर्न / निकाल्ने साइटहरू, वा अन्य मार्गदर्शन वा स्वचालित
+        यन्त्रहरू वा प्रक्रिया Bots, भाइरस, आवेदन प्रयोग गर्न निषेध गरिएको र सेवा
+        वा यसको सामग्रीको प्रदर्शन छ । ग। यो पोस्ट वितरण, वा everyway कुनै पनि प्रतिलिपि
+        अधिकार जानकारी, ट्रेडमार्क, वा अन्य जानकारी प्रतिलिपि अधिकार सुरक्षित प्रतिलिपि
+        अधिकार मालिकबाट पूर्व सहमति बिना उर्तानु निषेध गरिएको छ। घ। यो कुनै पनि प्रतिलिपि
+        अधिकार, ट्रेडमार्क वा सेवा निहित अन्य प्रतिलिपि अधिकार सूचनाहरू हटाउन निषेध
+        गरिएको छ। ई। यो मा हस्तक्षेप वा सेवा वा वेबसाइट जडान सेवा र वेबसाइट वा सेवा
+        र नेटवर्क को कार्य खलबल्याउन निषेध गरिएको छ। च। यो विभिन्न तरिकामा भाइरस वा
+        अन्य कुनै पनि कम्प्युटर कोड, हस्तक्षेप गर्न नाश वा कुनै पनि कम्प्युटर सफ्टवेयर,
+        हार्डवेयर वा दूरसञ्चार उपकरण को कार्यक्षमता सीमित डिजाइन फाइल वा कार्यक्रम
+        समावेश गर्ने कुनै पनि जानकारी प्रकाशित गर्न, इमेल वा स्थानान्तरण निषेध गरिएको
+        छ। जी। यो हेडर गाँस्न वा सेवा मार्फत साझेदारी कुनै पनि जानकारी को वास्तविक
+        अर्थ disguising उद्देश्य लागि पद हेरफेर गर्न निषेध गरिएको छ। एच। यो "फोर्ज"
+        वा "प्रतिलिपि" सेवा वा Flutylove देखि पूर्व लिखित अनुमति बिना वेबसाइट को कुनै
+        पनि भागमा निषेध गरिएको छ। साथै, तपाईँले कुनै पनि उद्देश्य लागि अर्को साइटमा
+        कुनै पनि व्यक्ति पुनर्निर्देशित गर्न कुनै पनि मेटा ट्याग वा कोड, वा अन्य उपकरणहरू
+        Flutylove, सेवा वा वेबसाइट गर्न कुनै पनि लिंक समावेश प्रयोग हुन सक्छ। म। यो
+        यस्तै कार्यहरू लिन अरूलाई प्रोत्साहन रूपमा, साथै परिमार्जन गर्न अनुकूल, sublicense,
+        अनुवाद, बेच्न, पुनर्गठन, decipher, डिकम्पाइल वा सेवा वा वेबसाइट, वा वेबसाइट
+        वा यसको लागि प्रयोग कुनै पनि सफ्टवेयर को कुनै पनि भाग खोल्ने निषेध गरिएको
+        छ । ञ। यो अश्लील र / वा कामुक सामग्री संग कुनै पनि जानकारी पोस्ट गर्न निषेध
+        गरिएको छ।
+      p_9: Flutylove परिवर्तन वा अस्थायी वा स्थायी रूपमा सेवा असक्षम कुनै पनि समयमा
+        अधिकार (वा कुनै पनि यसलाई भाग हो) सूचना बिना। तपाईं Flutylove कुनै पनि संशोधनहरू
+        अस्थायी उपलब्धता वा सेवा पूर्ण अक्षम लागि वा कुनै पनि तेस्रो दल जिम्मेवार
+        छैन भन्ने कुरामा सहमत।
+      ip_address_blocking: 10 IP ठेगाना अवरुद्ध।
+      p_10: वेबसाइटको निष्ठा सुरक्षाको लागि, Flutylove केही प्रयोगकर्ता को IP ठेगाना
+        ब्लक गर्न यसको आफ्नै सुविधा मा कुनै पनि समयमा अधिकार।
+      relations_between_users_online: 11 सम्बन्धमा प्रयोगकर्ताहरू बीच अनलाइन
+      p_11: Flutylove अरू प्रयोगकर्ताहरूसँग आफ्नो अन्तरक्रियामा लागि केवल जिम्मेवार
+        छन्। Flutylove तपाईं र अन्य प्रयोगकर्ताहरू बीच विवाद निगरानी गर्ने अधिकार,
+        तर दायित्व छ, सुरक्षित।
+      security_and_communication: 12 सुरक्षा र संचार।
+      p_12: पनि हाम्रो गोपनीयता नीति द्वारा नियन्त्रित हुन्छ। जब तपाईं एक प्रयोगकर्ता
+        बन्न, तपाईं सहमत र सहमति हामीलाई बाट इमेल प्राप्त गर्न। यी इमेल संचालन वा
+        त्यस्तो प्रशासनिक सूचना र परिवर्तन बारे आधिकारिक घोषणाहरू, वा हामीलाई देखि
+        व्यावसायिक प्रस्ताव, प्रचार सामाग्री, विशेष प्रस्ताव समावेश इमेल, वा जानकारी
+        अन्य प्रयोगकर्ता विषयमा को कार्यहरू बारे रूपमा सेवा संग सम्बन्धित अन्य सूचनाहरू,
+        बारेमा सूचनाहरू प्रतिनिधित्व गर्न सक्छ तपाईंको प्रयोगकर्ता खाता। हाम्रो गोपनीयता
+        नीति पढ्न कृपया यस्तो सूचनाहरू बारेमा थप जान्न।
+      p_13: "। Flutylove वेबसाइटमा पोस्ट कुनै पनि गलत वा अशुद्ध सूचना लागि जिम्मेवार
+        छैन वा सेवा सम्बन्धित छ, वेबसाइट वा कुनै पनि हार्डवेयर वा सफ्टवेयर हाम्रो
+        सेवा संग सम्बन्धित वा त्यहाँ प्रयोग गरिन्छ प्रयोगकर्ताहरू। Flutylove छैन व्यवहार
+        लागि जिम्मेवार, अनलाइन र अफलाइन दुवै, वेबसाइटको कुनै पनि प्रयोगकर्ता को छ।
+        Flutylove कुनै पनि त्रुटि, चूक, रुकावट, मेटाउने, सञ्चालन वा संचालन, संचार
+        लाइन विफलता, चोरी वा विनाश, अनधिकृत पहुँच वा प्रयोगकर्ताको संचार लाइनहरु को
+        परिवर्तन क्षति वा ढिलाइ लागि जिम्मेवारी लिन गर्दैन। Flutylove इन्टरनेटमा वा
+        कुनै पनि वेबसाइट मा कुनै पनि समस्या वा कुनै पनि टेलिफोन नेटवर्क वा लाइनहरु,
+        कम्प्युटर अनलाइन प्रणाली, सर्भर वा प्रदायकहरू, कम्प्युटर उपकरण, सफ्टवेयर,
+        प्रयोगकर्ता खाता मा मेल वा खेलाडीहरू विफलता, प्राविधिक समस्या वा भीड को प्राविधिक
+        इनकार लागि जिम्मेवार छैन वा प्रयोगकर्तालाई दुर्घटना वा चोट वा कम्प्युटर सम्बन्धित
+        कुनै पनि तेस्रो दल वा भाग लिने वा नेटवर्क र / वा सेवा सम्बन्धित डाउनलोड जानकारी
+        को फलस्वरूप यसको संयोजन। कुनै अवस्थामा Flutylove कम्पनी वा यसको सम्बन्ध स्थापित
+        कुनै पनि, विज्ञापन एजेन्ट, संस्थापक वा वितरण साझेदार कुनै पनि हानि वा क्षति,
+        व्यक्तिगत चोट वा मृत्यु सहित हुनेछ जिम्मेवार छैन, किनभने वेबसाइट वा सेवा प्रयोग
+        अन्तर्गत कुनै पनि सामग्री वेबसाइट मा पोस्ट वा वेबसाइट को प्रयोगकर्ता, अनलाइन
+        र अफलाइन बीच कुनै पनि अन्तरक्रियामा। यो वेबसाइट र सेवा एक रूप मा प्रदान गरिएको
+        छ आधार छ, र expressly Flutylove एक विशेष उद्देश्य, वा कसैले अधिकार उल्लङ्घन
+        को अभाव को लागि कुनै पनि वारंटी या फिटनेस disclaims। Flutylove ग्यारेन्टी
+        गर्न सक्दैन र देखि वेबसाइट को प्रयोग र / वा सेवा कुनै पनि विशिष्ट परिणाम दिने
+        प्रतिज्ञा गर्नुभएको छैन।"
+      links: 14 लिङ्क गर्दछ।
+      p_14: "। Flutylove वेबसाइटमा पोस्ट कुनै पनि गलत वा अशुद्ध सूचना लागि जिम्मेवार
+        छैन वा सेवा सम्बन्धित छ, वेबसाइट वा कुनै पनि हार्डवेयर वा सफ्टवेयर हाम्रो
+        सेवा संग सम्बन्धित वा त्यहाँ प्रयोग गरिन्छ प्रयोगकर्ताहरू। Flutylove छैन व्यवहार
+        लागि जिम्मेवार, अनलाइन र अफलाइन दुवै, वेबसाइटको कुनै पनि प्रयोगकर्ता को छ।
+        Flutylove कुनै पनि त्रुटि, चूक, रुकावट, मेटाउने, सञ्चालन वा संचालन, संचार
+        लाइन विफलता, चोरी वा विनाश, अनधिकृत पहुँच वा प्रयोगकर्ताको संचार लाइनहरु को
+        परिवर्तन क्षति वा ढिलाइ लागि जिम्मेवारी लिन गर्दैन। Flutylove इन्टरनेटमा वा
+        कुनै पनि वेबसाइट मा कुनै पनि समस्या वा कुनै पनि टेलिफोन नेटवर्क वा लाइनहरु,
+        कम्प्युटर अनलाइन प्रणाली, सर्भर वा प्रदायकहरू, कम्प्युटर उपकरण, सफ्टवेयर,
+        प्रयोगकर्ता खाता मा मेल वा खेलाडीहरू विफलता, प्राविधिक समस्या वा भीड को प्राविधिक
+        इनकार लागि जिम्मेवार छैन वा प्रयोगकर्तालाई दुर्घटना वा चोट वा कम्प्युटर सम्बन्धित
+        कुनै पनि तेस्रो दल वा भाग लिने वा नेटवर्क र / वा सेवा सम्बन्धित डाउनलोड जानकारी
+        को फलस्वरूप यसको संयोजन। कुनै अवस्थामा Flutylove कम्पनी वा यसको सम्बन्ध स्थापित
+        कुनै पनि, विज्ञापन एजेन्ट, संस्थापक वा वितरण साझेदार कुनै पनि हानि वा क्षति,
+        व्यक्तिगत चोट वा मृत्यु सहित हुनेछ जिम्मेवार छैन, किनभने वेबसाइट वा सेवा प्रयोग
+        अन्तर्गत कुनै पनि सामग्री वेबसाइट मा पोस्ट वा वेबसाइट को प्रयोगकर्ता, अनलाइन
+        र अफलाइन बीच कुनै पनि अन्तरक्रियामा। यो वेबसाइट र सेवा एक रूप मा प्रदान गरिएको
+        छ आधार छ, र expressly Flutylove एक विशेष उद्देश्य, वा कसैले अधिकार उल्लङ्घन
+        को अभाव को लागि कुनै पनि वारंटी या फिटनेस disclaims। Flutylove ग्यारेन्टी
+        गर्न सक्दैन र देखि वेबसाइट को प्रयोग र / वा सेवा कुनै पनि विशिष्ट परिणाम दिने
+        प्रतिज्ञा गर्नुभएको छैन।"
+      p_15: मा रूप प्रदान आधार छ। कम्पनी वेबसाइटमा वा कार्य उपयुक्त या अनुपयुक्त प्रयोगको
+        एक विशेष उद्देश्यले हुन सक्छ कि कुनै WARRANTY DISCLAIMS। कम्पनी नहीं गारंटी
+        सक्नुहुन्छ र नहीं वेबसाइट र / वा कार्यहरु को प्रयोग गरेर कुनै पनि विशिष्ट
+        परिणामहरू प्रतिज्ञा गर्नुभएको छ; भ्रम हटाउन, प्रयोगकर्ता सफ्टवेयर साथै वेबसाइटबाट
+        वा पोस्ट लिंकहरूमार्फत डाउनलोड, र कुनै फाइलहरू प्रयोग गर्दा, सुरक्षा सतर्कताहरूबारे
+        पालन गर्नुपर्छ। कम्पनी अत्यधिक एन्टिभाइरस सफ्टवेयर साथै मात्र इजाजतपत्र प्राप्त
+        सफ्टवेयर प्रयोग गर्न सिफारिस; वेबसाइट प्रयोग गरेर, प्रयोगकर्ता सहमत हुनुहुन्छ
+        भन्ने साइटबाट वा मदत कुनै सामग्री DOWNLOADS आफ्नो / आफ्नै जोखिम र केवल, यो
+        जानकारी प्रयोग आईटी प्रयोगकर्ताको कम्प्युटरमा या तेस्रो मे लगाउँछ कुनै नोक्सान
+        सहित सम्भावित परिणामको लागि दोषी पार्टी, डाटा नोकसान, वा अन्य कुनै नोक्सान;
+        कुनै परिस्थितिमा कम्पनी वा एजेन्ट कुनै अप्रत्यक्ष, आकस्मिक र UNWILFUL नोक्सान
+        लागि प्रयोगकर्ता वा कुनै पनि तेस्रो पक्ष कुनै जिम्मेवारी, लाभ हानि, या हराएका
+        डाटा, क्षति आदर, मर्यादा या बिजनेस प्रतिष्ठा सहित, बाहिर ARISING फलाउँछ वेबसाइट,
+        यसको सामग्री वा अन्य कुनै जानकारी प्रयोग तपाईं कुन वा अन्य कुनै व्यक्ति कम्पनी
+        यस्तो चेतावनी दिए, वा जस्तै नोक्सान को संभावना इङ्गित भने, वेबसाइटमा पहुँचका
+        इनाम छ।
+      p_16: द्वारा शासित र अनुसार रूसी संघ को कानून संग construed छ। सम्झौताको द्वारा
+        बसे थिएनन् जो मुद्दाहरू अनुसार रूसी संघ को कानून संग मा बसे गरिनेछ। कुनै पनि
+        विवाद वा controversies यी विनियम को कार्यान्वयन गर्न सम्बन्धित को मामला मा,
+        प्रयोगकर्ता र कम्पनी वार्ता मार्फत तिनीहरूलाई समाधान गर्न हरेक प्रयास गर्नेछ।
+        मामला मा विवाद वार्ता गरेर समाधान गर्न हुनेछ, विवाद अनुसार रूसी महासङ्घका
+        लागू कानून संग मा बसे गरिनेछ। यो सम्झौता मा रूसी भाषा कार्यान्वयन छ र अर्को
+        भाषामा समीक्षाको लागि प्रयोगकर्ता प्रदान गर्न सकिन्छ। मा रूसी भाषा नियमहरु
+        र अर्को भाषामा यसको संस्करण को संस्करण को अन्तर को मामला मा, यो नियमावली को
+        प्रावधान को रूसी भाषा संस्करण लागू गरिनेछ। एउटा कारण वा अर्को लागि, यी विनियम
+        को एक वा बढी प्रावधान अमान्य घोषित गर्न भने वा हुनेछ रिक्त, यो बाँकी प्रावधान
+        को वैधता वा enforceability असर गर्दैन।
+      other_provisions_and_changes: 17 OTHER प्रावधान र परिवर्तन।
+      p_17: वेबसाइट र / वा सेवा प्रयोग सन्दर्भमा र Flutylove बीच साँचो सम्झौता छ।
+        यो सम्झौता voids को कुनै पनि प्रावधान भने, सम्झौता बाँकी पूर्ण प्रभाव यसको
+        वैधता बाँकी नै छ। यो सम्झौता कुनै पनि समयमा Flutylove द्वारा संशोधन गर्न सकिन्छ।
+        कृपया यो सम्झौता कुनै प्रश्न हामीलाई सम्पर्क गर्न नहिचकिचाउनुहोस्।
+      read_this: म यो सम्झौता पढ्नुहोस् र यसका नियम सहमत छन्।
+    about:
+      about_flutylove: Flutylove बारे
+      about_flutylove_text: Flutylove datings लागि अन्तर्राष्ट्रिय सामाजिक मनोरञ्जन
+        नेटवर्क छ। यहाँ तपाईँले साथीहरू, एक soulmate, साझेदार पाउन सक्नुहुन्छ वा खेल
+        खेल्दै द्वारा आनन्द संग बस आफ्नो समय खर्च वा भिडियो हेर्नुहोस् / फोटो।
+      flutylove_features: 'तपाईं हाम्रो साइट मा साइन अप हुनेछ जब, तपाईंले जस्तै धेरै
+        सुविधाहरू पाउन सक्नुहुन्छ:'
+      extended_search: तपाईं निःशुल्क विस्तारित खोजी प्रयोग गर्न सक्नुहुन्छ
+      play_games_chatting_etc: तपाईं, अन्य व्यक्तिसँग कुराकानी गर्न सक्छन् खेल खेल्न
+        र अर्को सामाजिक सामाग्री के
+      we_are_in_social_networks: 'हामी सामाजिक सञ्जाल मा हो:'
+      facebook: फेसबुक
+      twitter: ट्विटर
+      vk: Vkontakte
+      google_plus: गुगल प्लस
+      instagram: इन्स्टाग्राम
+      github: Github
+      we_use_open_source_and_high_technology: हामी उच्च प्रविधीहरु र खुला स्रोत पुस्तकालयहरु
+        प्रयोग गर्नुहोस्। हामी सधैं राम्रो प्राप्त र हाम्रो सेवा सुधार गर्न प्रयास
+        गर्नुहोस्।
+      partners_and_investors: हामी साझेदारीको लागि खोलिएका छन् र हामी लगानीकर्ताले
+        पाउन चाहन्छ। तपाईं हाम्रो साथ सहयोग गर्न चाहनुहुन्छ भने partnership@flutylove.com
+        हामीलाई सम्पर्क गर्नुहोस्
+    faq:
+      faq: सोधिने प्रश्न
+      what_is_flutylove: Flutylove के हो?
+      about_flutylove: Flutylove datings लागि अन्तर्राष्ट्रिय सामाजिक मनोरञ्जन नेटवर्क
+        छ। यहाँ तपाईँले साथीहरू, एक soulmate, साझेदार पाउन सक्नुहुन्छ वा खेल खेल्दै
+        द्वारा आनन्द संग बस आफ्नो समय खर्च वा भिडियो हेर्नुहोस् / फोटो।
+      flutylove_features: यहाँ तपाईं videocams च्याट गर्न सक्नुहुन्छ अन्य देशका विस्तारित
+        खोज, खोज साझेदार प्रयोग, खेल खेल्न र अन्य सामाजिक सामाग्री गर्छन्।
+      i_have_some_requests: म केही अनुरोध छ
+      you_can_write_request: तपाईं साइन अप र यो लेख्न सक्नुहुन्छ
+      here: यहाँ
+      i_have_seen_some_typo_or_wrong_translation: म केही Typo वा गलत अनुवाद देखेको
+        छु
+      you_can_send_pull_request_to_our: तपाईं एउटा Pull अनुरोध पठाउन सक्नुहुन्छ हाम्रो
+      github_repository: github भण्डार
+      i_have_seen_some_error: म केही त्रुटि देखेको छु
+      you_can_send: तपाईं हामीलाई प्रतिक्रिया पठाउन सक्नुहुन्छ द्वारा
+      to_us_or_write_to_our_info_mail: वा support@flutylove.com इमेल लेख्न
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: स्वागत Flutylove गर्न
+      you_have_successfully_signed_up_to_flutylove: सफलतापूर्वक Flutylove सम्म साइन
+        गरेका
+      you_can_sign_in_with_your_social_networks: तपाईं फेरि आफ्नो सामाजिक सञ्जाल खाताको
+        साइन गर्न सक्नुहुन्छ साइन इन गर्न चाहनुहुन्छ भने
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: तपाईं
+        साइन आउट गरेर पासवर्ड परिवर्तन गर्न सक्नुहुन्छ इमेल र पासवर्ड साइन इन र तल
+        लिंक मा क्लिक गर्नुहोस गर्न चाहनुहुन्छ भने
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            birth_date:
+              birth_date_error: 18 भन्दा बढी र कम त्यसपछि 115 हुन आवश्यक
+            interests:
+              interests_error: 2000 भन्दा कम प्रतीक हुन आवश्यक
+            jobs:
+              jobs_error: 2000 भन्दा कम प्रतीक हुन आवश्यक
+            languages:
+              languages_error: 2000 भन्दा कम प्रतीक हुन आवश्यक
+            sex_keywords:
+              sex_keywords_error: 2000 भन्दा कम प्रतीक हुन आवश्यक
+            contacts:
+              contacts_length_error: 2000 भन्दा कम प्रतीक हुन आवश्यक
+              contacts_size_error: 21 भन्दा कम सम्पर्क हुन आवश्यक
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: अवैध छ
+  devise:
+    confirmations:
+      confirmed: सफलतापूर्वक पुष्टि भएको थियो।
+      send_instructions: तपाईं केही मिनेट मा आफ्नो खाता पुष्टि गर्ने बारे निर्देशनहरू
+        इमेल प्राप्त हुनेछ।
+      send_paranoid_instructions: आफ्नो इमेल ठेगाना हाम्रो डेटाबेस मा अवस्थित छ भने,
+        तपाईं केही मिनेटमा आफ्नो खाता पुष्टि गर्ने बारे निर्देशनहरू इमेल प्राप्त हुनेछ।
+      new:
+        send_mail_for_confirm_your_email: पुष्टि तपाईंको इमेल को लागि मेल पठाउनुहोस्
+        submit: पेश
+    failure:
+      already_authenticated: पहिले नै साइन इन हुनुहुन्छ।
+      inactive: अझै सक्रिय छैन।
+      invalid: अवैध इमेल वा पासवर्ड।
+      locked: बन्द छ।
+      last_attempt: "।"
+      not_found_in_database: अवैध इमेल वा पासवर्ड।
+      timeout: समाप्त भयो। जारी गर्न फेरि साइन इन गर्नुहोस्।
+      unauthenticated: साइन इन वा जारी गर्नु अघि साइन अप गर्न आवश्यक छ।
+      unconfirmed: जारी गर्नु अघि आफ्नो खाता पुष्टि गर्न छ।
+    mailer:
+      confirmation_instructions:
+        subject: पुष्टि निर्देशन
+        welcome_to_flutylove: स्वागत Flutylove गर्न
+        you_can_confirm_your_account_email_through_the_link_below: तपाईं तल लिंक मार्फत
+          आफ्नो इमेल पुष्टि गर्न सक्नुहुन्छ
+        confirm_my_account: मेरो इमेल पुष्टि
+      reset_password_instructions:
+        hello: नमस्कार
+        subject: रिसेट पासवर्ड निर्देशन
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: कसैले
+          अनुरोध आफ्नो पासवर्ड परिवर्तन गर्न एक लिंक छ। तपाईं तल लिंक मार्फत यो काम
+          गर्न सक्नुहुन्छ।
+        change_my_password: मेरो पासवर्ड परिवर्तन गर्नुहोस्
+        if_you_didnt_request_this_please_ignore_this_email: तपाईं यो यो इमेल बेवास्ता
+          कृपया अनुरोध गर्नुभएन भने।
+      unlock_instructions:
+        subject: अनलक निर्देश
+    omniauth_callbacks:
+      failure: '% {प्रकारको} किनभने "% {कारण}" तपाईंले प्रमाणित गर्न सकिएन।'
+      success: सफलतापूर्वक% {प्रकारको} खाता बाट प्रमाणित।
+    passwords:
+      no_token: पासवर्ड रिसेट इमेल बाट आउँदै बिना यो पृष्ठ पहुँच गर्न सक्दैन। तपाईं
+        पासवर्ड रिसेट इमेल बाट आउन भने, तपाईंले प्रदान पूर्ण URL प्रयोग सुनिश्चित
+        गर्नुहोस्।
+      send_instructions: तपाईं कसरी केही मिनेटमा आफ्नो पासवर्ड रिसेट गर्न निर्देशन
+        साथ एउटा इमेल प्राप्त हुनेछ।
+      send_paranoid_instructions: आफ्नो इमेल ठेगाना हाम्रो डेटाबेस मा अवस्थित छ भने,
+        तपाईं केही मिनेटमा आफ्नो इमेल ठेगाना मा एक पासवर्ड रिकभरी लिंक प्राप्त हुनेछ।
+      updated: सफलतापूर्वक परिवर्तन भएको थियो। अब तपाईं साइन इन हुनुहुन्छ।
+      updated_not_active: सफलतापूर्वक परिवर्तन भएको थियो।
+      new:
+        forgot_your_password: 'आफ्नो पासवर्ड पुन: प्राप्त'
+        reset_password: 'पठाउन URL पुन:'
+      edit:
+        change_your_password: आफ्नो पासवर्ड परिवर्तन गर्नुहोस्
+        new_password: नयाँ पासवर्ड
+        change_password: परिवर्तन
+    registrations:
+      destroyed: विदा तपाईंको खाता सफलतापूर्वक रद्द भएको थियो। हामी तपाईंलाई फेरि
+        चाँडै हेर्न आशा।
+      signed_up: स्वागत छ! तपाईंले सफलतापूर्वक साइन अप गर्नुभएको छ।
+      signed_up_but_inactive: सफलतापूर्वक साइन अप गर्नुभएको छ। तर, हामी तपाईंलाई किनभने
+        तपाईंको खाता अझै सक्रिय छैन साइन इन गर्न सकिएन।
+      signed_up_but_locked: सफलतापूर्वक साइन अप गर्नुभएको छ। तर, हामी तपाईंलाई आफ्नो
+        खाता बन्द गरिएको छ किनभने साइन इन गर्न सकिएन।
+      signed_up_but_unconfirmed: आफ्नो इमेल ठेगाना पठाइएको छ। कृपया आफ्नो खाता सक्रिय
+        लिङ्क खोल्नुहोस्।
+      update_needs_confirmation: ", तर हामी आफ्नो नयाँ इमेल ठेगाना प्रमाणित गर्न आवश्यक
+        छ। आफ्नो इमेल जाँच र आफ्नो नयाँ इमेल ठेगाना पुष्टि अंतिम रूप गर्न पुष्टि लिंक
+        मा क्लिक गर्नुहोस्।"
+      updated: "।"
+      new:
+        sign_up: साइन अप
+        name: नाम
+        password: पासवर्ड
+        password_confirmation: पासवर्ड पुष्टि
+        register: साइन अप
+    shared:
+      links:
+        sign_in: साइन
+        sign_up: साइन अप
+        didnt_receive_confirmation_instructions: पुष्टि निर्देशन recieved गर्नुभएन?
+        sign_in_with: साइन
+        fast_login_almost_one_click: फास्ट लगइन (लगभग एक क्लिक)
+    sessions:
+      signed_in: सफलतापूर्वक हस्ताक्षर गरे।
+      signed_out: सफलतापूर्वक साइन आउट।
+      new:
+        sign_in: साइन
+        password: पासवर्ड
+        remember_me: मलाई सम्झना
+        forgot_your_password: आफ्नो पासवर्ड बिर्सिनुभयो?
+    unlocks:
+      send_instructions: तपाईं केही मिनेटमा आफ्नो खाता अनलक गर्ने बारे निर्देशनहरू
+        इमेल प्राप्त हुनेछ।
+      send_paranoid_instructions: आफ्नो खाता अवस्थित भने, तपाईं केही मिनेटमा अनलक
+        गर्ने बारे निर्देशनहरू इमेल प्राप्त हुनेछ।
+      unlocked: सफलतापूर्वक अनलक गरिएको छ। जारी राख्न कृपया साइन इन गर्नुहोस्।
+  timezones:
+    American Samoa: अमेरिकन समोआ
+    International Date Line West: अन्तर्राष्ट्रिय तिथि रेखा पश्चिम
+    Midway Island: मिडवेद्विप
+    Hawaii: हवाई
+    Alaska: अलास्का
+    Pacific Time (US & Canada): प्यासिफिक समय (अमेरिका र क्यानाडा)
+    Tijuana: टिजुआना
+    Arizona: एरिजोना
+    Chihuahua: चिहुआहुआ
+    Mazatlan: मज़ाट्लन
+    Mountain Time (US & Canada): पर्वतीय समय (अमेरिका र क्यानाडा)
+    Central America: मध्य अमेरिका
+    Central Time (US & Canada): केन्द्रीय समय (अमेरिका र क्यानाडा)
+    Guadalajara: गुयाडालजारा
+    Mexico City: मेक्सिको सिटी
+    Monterrey: मन्टेरी
+    Saskatchewan: सस्केचेवान
+    Bogota: बोगोटा
+    Eastern Time (US & Canada): पूर्वी समय (अमेरिका र क्यानाडा)
+    Indiana (East): इन्डियाना (पूर्व)
+    Lima: लीमा
+    Quito: क्युटो
+    Atlantic Time (Canada): एट्लान्टिक समय (क्यानाडा)
+    Caracas: काराकास
+    Georgetown: जर्ज
+    La Paz: लापाज
+    Santiago: सान्टियागो
+    Newfoundland: न्यूफाउन्डल्याण्ड
+    Brasilia: ब्रासिलिया
+    Buenos Aires: ब्यूनस आयर्स
+    Greenland: ग्रीनल्याण्ड
+    Montevideo: मोंटेवीडियो
+    Mid-Atlantic: मध्य-अटलांटिक
+    Azores: अजोरेस
+    Cape Verde Is: केप छ।
+    Casablanca: क्यासब्लांका
+    Dublin: डबलिन
+    Edinburgh: एडिनबर्ग
+    Lisbon: लिस्बन
+    London: लन्डन
+    Monrovia: मोन्रोभिया
+    UTC: UTC
+    Amsterdam: एम्स्टर्डम
+    Belgrade: बेलग्रेड
+    Berlin: बर्लिन
+    Bern: बर्न
+    Bratislava: Bratislava
+    Brussels: ब्रसेल्स
+    Budapest: बुडापेस्ट
+    Copenhagen: कोपेनहेगन
+    Ljubljana: जुबजाना
+    Madrid: मैड्रिड
+    Paris: पेरिस
+    Prague: प्राग
+    Rome: रोम
+    Sarajevo: साराजेभो
+    Skopje: स्कोपे
+    Stockholm: स्टकहोम
+    Vienna: भियना
+    Warsaw: वरस
+    West Central Africa: पश्चिम मध्य अफ्रीका
+    Zagreb: जाग्रेब
+    Athens: एथेन्स
+    Bucharest: ज्वरोेस्ट
+    Cairo: कायरो
+    Harare: हरारे
+    Helsinki: हेलसिन्की
+    Istanbul: इस्तानबुल
+    Jerusalem: यरूशलेममा
+    Kaliningrad: कलिनिन्ग्राद
+    Kyiv: कीव
+    Pretoria: प्रिटोरिया
+    Riga: रीगा
+    Sofia: सोफिया
+    Tallinn: तेलिन
+    Vilnius: भिनियस
+    Baghdad: बगदाद
+    Kuwait: कुवेत
+    Minsk: मिन्स्क
+    Moscow: मास्को
+    Nairobi: नैरोबी
+    Riyadh: रियाद
+    St Petersburg: सेन्ट पीटर्सबर्ग
+    Volgograd: बेलग्रेड
+    Tehran: तेहरान
+    Abu Dhabi: अबू धाबी
+    Baku: बाकु
+    Muscat: मस्कट
+    Samara: समारा
+    Tbilisi: टबिलिसि
+    Yerevan: येरेवन
+    Kabul: काबुल
+    Ekaterinburg: एकाटेरिनबर्ग
+    Islamabad: इस्लामाबाद
+    Karachi: कराची
+    Tashkent: ताशकहरुट
+    Chennai: चेन्नयाँ
+    Kolkata: कोलकाता
+    Mumbai: मुम्बई
+    New Delhi: नयाँ दिल्ली
+    Sri Jayawardenepura: श्रीलंका Jayawardenepura
+    Kathmandu: काठमाडौं
+    Almaty: अल्माटी
+    Astana: अस्ताना
+    Dhaka: ढाका
+    Novosibirsk: नोवोसिबिर्स्क
+    Urumqi: उरुम्की
+    Rangoon: रङ्गुन
+    Bangkok: बैंकक
+    Hanoi: हनोई
+    Jakarta: जकार्ता
+    Krasnoyarsk: क्रास्नायार्स्क
+    Beijing: बेइजिङ
+    Chongqing: चूंगचींग
+    Hong Kong: हङकङ
+    Irkutsk: इर्कुत्स्क
+    Kuala Lumpur: क्वालालम्पुर
+    Perth: पर्थ
+    Singapore: सिंगापुर
+    Taipei: ताइपे
+    Ulaanbaatar: उलानबाटर
+    Osaka: ओसाका
+    Sapporo: साप्पोरो
+    Seoul: सियोल
+    Tokyo: टोक्यो
+    Yakutsk: याकुत्स्क
+    Adelaide: एडिलेड
+    Darwin: डार्विन
+    Brisbane: ब्रिस्बेन
+    Canberra: कैनबरा
+    Guam: गुवाम
+    Hobart: होबार्ट
+    Melbourne: मेलबोर्न
+    Port Moresby: पोर्टमोरेस्बी
+    Sydney: सिडनी
+    Vladivostok: भ्लाडिभास्तोक
+    Magadan: मागाडान
+    New Caledonia: नयाँ क्यालेडोनिया
+    Solomon Is: सुलेमान छ।
+    Srednekolymsk: Srednekolymsk
+    Auckland: अकल्याण्ड
+    Fiji: फिजी
+    Kamchatka: कामचट्का
+    Marshall Is: मार्शल छ।
+    Wellington: विलिङ्गटन
+    Chatham Is: चथाम छ।
+    Nuku'alofa: Nukualofa
+    Samoa: सामोआ
+    Tokelau Is: तोगो छ।
+  ne: ne
+  ne_iso: ne

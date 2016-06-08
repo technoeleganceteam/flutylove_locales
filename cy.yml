@@ -1,0 +1,1702 @@
+---
+cy:
+  1_we_have_just_launched_our_service_title: Rydym newydd lansio ein gwasanaeth!
+  common_keywords: datings, datings ar-lein, datings cariad, webcam yn dyddio, speed
+    dating, webcam chat yn dyddio, Ruby acha Chledrau safle yn dyddio, yn dyddio safle
+    amlieithog
+  common_description: Mae'r rhwydwaith adloniant cymdeithasol rhyngwladol mwyaf datblygedig
+    ar gyfer datings "Flutylove"
+  user: Defnyddiwr
+  user_to_search_connection: Chwilio
+  video: Fideo
+  note: Nodyn
+  photo_album: albwm Photo
+  from: O
+  to: I
+  vkontakte: VKontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Gwryw
+  - female:
+      name: Benyw
+  - transgender:
+      name: Trawsrywedd
+  - male-female:
+      name: Gwryw Benyw-
+  - double-female:
+      name: benywaidd Dwbl
+  - double-male:
+      name: gwrywaidd Dwbl
+  orientation:
+  - heterosexual: Heterorywiol
+  - homosexual: Cyfunrywiol
+  - bisexual: Deurywiol
+  search_for:
+  - chatting: Sgwrsio
+  - get_friends: Cael ffrindiau
+  - flirtation: flirtation
+  - marriage: Priodas
+  - other: Arall
+  body_type:
+    slim: Slim
+    normal: Normal
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Sengl
+    in_a_relationship: Mewn perthynas
+    married: Priod
+    nothing_serious: Dim byd difrifol
+  children:
+    dont_have: Nid oes rhaid i
+    dont_have_and_dont_want_to: Nid oes rhaid i ac nad ydych am i
+    don_t_have_but_planning: Nid oes rhaid i ond cynllunio
+    have_enough: Dweud
+    have_and_planning_more: Cael a chynllunio mwy
+    unable_to_have_children: Methu cael plant
+  living:
+    with_parents: Gyda rhieni
+    with_marriage_partner: Gyda phartner priodas
+    alone: Alone
+    with_friends: Gyda ffrind (au)
+  education:
+    nothing: Dim byd
+    college_technical_college: Coleg / coleg technegol
+    postgraduate: Ôl-raddedig
+    phd_md_post_doctorate: PhD / MD / ddoethuriaeth Post
+  hair_color:
+    blonde: Blonde
+    dark_blond: blond tywyll
+    brown: Brown
+    black: Black
+    red: Coch
+    gray: Gray
+    other: Arall
+  income:
+    unemployed: Di-waith
+    unstable_earnings: enillion Ansefydlog
+    small_stable_earnings: enillion bach sefydlog
+    medium_stable_earnings: enillion sefydlog Canolig
+    higher_than_average_income: uwch na'r incwm cyfartalog
+  smoking:
+    not_smoke: Peidio ag ysmygu
+    not_smoke_and_detest: Peidio ag ysmygu ac detest ysmygu
+    smoke_in_a_social_setting: Weithiau mewn lleoliad cymdeithasol
+    smoke_only_after_drinking: Mwg yn unig ar ôl yfed
+    smoke_occasionally: Mwg o bryd i'w gilydd
+    smoke_often: Mwg yn aml
+  alcohol:
+    not_drinking: Peidio yfed
+    drink_occalionally: Diod o bryd i'w gilydd
+    drink_in_a_social_setting: Yfwch mewn lleoliad cymdeithasol
+    drink_often: Diod aml
+  drugs:
+    dont_use: Peidiwch â defnyddio
+    contra_drugs: cyffuriau Contra
+    tried_out_some: Wedi ceisio nodi rhai
+    light_drugs_occasionally: cyffuriau Golau bryd i'w gilydd
+    regular: Rheolaidd
+  sponsor:
+    i_want_to_find_a_sponsor: Rwyf am ddod o hyd i noddwr
+    willing_to_become_a_sponsor: Yn barod i ddod yn noddwr
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Ddim yn chwilio am noddwr
+      ac nad oedd yn barod i ddod yn un
+  category_name:
+    strategy: Strategaeth
+    rpg: RPG
+    3d_shooters: saethwyr 3D
+    racing: Rasio
+    arcade: Arcade
+    economic: Economaidd
+    simulators: Efelychwyr
+    logic: Logic
+    adventure: Antur
+    gambling: Hapchwarae
+    news: Newyddion
+    communication: Cyfathrebu
+    multimedia: Amlgyfrwng
+    drawing: Arlunio
+    e_commerce: E-Fasnach
+    other: Arall
+  shared:
+    header:
+      people: Pobl
+      chat: Sgwrs
+      groups: Grwpiau
+      forum: Fforwm
+      requests: Ceisiadau
+      about: Ynglŷn prosiect
+      help: Help
+      user_applications: Ceisiadau
+    liked_users:
+      liked: Hoffi
+      all: Mae pob
+      you_have_not_liked_any_users_yet: Nid ydych wedi hoffi unrhyw ddefnyddwyr eto
+    most_liked_users:
+      most_liked_users: ddefnyddwyr Poblogaidd
+    installed_user_applications:
+      installed_applications: geisiadau Gorseddedig
+      all: Mae pob
+      you_have_not_installed_any_apps_yet: Nid ydych wedi gosod unrhyw geisiadau eto
+    user_applications:
+      uploaded_apps: geisiadau Uploaded
+      all: Mae pob
+      you_have_not_uploaded_any_apps_yet: Nid ydych wedi llwytho i fyny unrhyw geisiadau
+        eto
+    right_sidebar:
+      news: Newyddion
+      all: Mae pob
+      read_more: Darllen mwy
+    footer:
+      footer_text: rhwydwaith adloniant cymdeithasol Rhyngwladol ar gyfer datings
+        "Flutylove"
+      privacy: Preifatrwydd
+      terms: Telerau
+      feedback: Adborth
+      abuse: Cam-drin
+    languages_select_modal:
+      available_languages: o ieithoedd sydd ar gael
+    site_map_modal:
+      faq: Cwestiynau Cyffredin
+      about: Ynglŷn
+      static_pages: dudalennau Statig
+      common_pages: dudalennau Cyffredin
+      user_pages: dudalennau Defnyddiwr
+      terms: Telerau
+      privacy: Preifatrwydd
+      people: Pobl
+      user_applications: Ceisiadau
+      user_requests: Ceisiadau
+      news: Newyddion
+      feedback: Adborth
+      abuse: Cam-drin
+      chats: Sgyrsiau
+      photo_albums: albwm Photo
+      notes: Nodiadau
+    pagination_link:
+      next_page: Tudalen nesaf
+    user_edit_menu:
+      content: Cynnwys
+      profile: Proffil
+      site_settings: lleoliadau Safle
+      privacy: Preifatrwydd
+      services: Gwasanaethau
+    activities_navigation:
+      all: Mae pob
+      photo_albums: albwm Photo
+      notes: Nodiadau
+    notifications_navigation:
+      all: Mae pob
+      likes: Hoffi
+      friend_requests: geisiadau Ffrind
+      profile_views: golygfeydd Proffil
+    user_to_friend_connections_navigation:
+      friends: Ffrindiau
+      friends_online: Ffrindiau ar-lein
+      outcome_requests: geisiadau Canlyniad
+      income_requests: geisiadau Incwm
+    user_applications_navigation:
+      all: Mae pob
+      new: Newydd
+      popular: Poblogaidd
+      often_installed: gosod aml
+      manage: Rheoli
+    user_requests_navigation:
+      all: Mae pob
+      popular: Poblogaidd
+      my_requests: Fy ceisiadau
+    user_navbar_menu:
+      sign_in: Mewngofnodi
+      sign_up: Cofrestrwch
+    email_signature:
+      info: Info
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd.
+    translations:
+      select_gender: Dewiswch y rhywiau
+      select_orientation: Dewiswch cyfeiriadedd
+      select_search_for: Dethol ar
+    need_to_sign_in_modal:
+      you_need_to_sign_in: angen i chi lofnodi i mewn cyn y cam hwn
+      available_sign_in_methods: Chi
+    sign_up_methods:
+      usual_register_link: cofrestru arferol
+      register_text: Eithr% {usual_registration} gallwch gofrestru drwy wasanaethau
+        mwyaf poblogaidd a rhwydweithiau cymdeithasol
+    bootstrap_gallery:
+      previous: Blaenorol
+      next: Nesaf
+    user_notification_title:
+      you_liked: Rydych yn hoffi gan
+      wrote_message_to_you: Ysgrifennu neges atoch chi
+      viewed_your_profile: Edrychwyd arno eich proffil
+      liked_your_photo: Hoffi'r eich llun
+      liked_your_note: Hoffi'r eich nodyn
+      liked_your_request: Hoffi'r eich cais
+      liked_your_video: Hoffi'r eich fideo
+      liked_your_application: Hoffi'r eich cais
+      requested_a_friendship: gofynnwyd amdanynt cyfeillgarwch
+  authentications:
+    authentication:
+      turn_on: Trowch ar
+      turn_off: Diffoddwch
+      turned_on: Troi ar
+      turned_off: Troi i ffwrdd
+    index:
+      enabled_services: gwasanaethau Enabled
+  users:
+    profile:
+      submit: Achub
+      name: Enw
+      meet_with: Cwrdd â
+      gender: Rhyw
+      type_in_your_location: Teipiwch eich dinas
+      about_me: Rhai o eiriau amdanoch eich hun (yn ychwanegol i ffurfio isod)
+      sex_keywords: Buddiannau mewn rhyw
+      enter_your_name: Rhowch eich enw
+      more_options: Mwy
+      orientation: Cyfeiriadedd
+      location: Lleoliad
+      search_for: Chwilio am
+      intimacy: agosatrwydd
+      in_age: Yn yr oes
+      from: o
+      to: i
+      interests: Diddordebau
+      height: Uchder
+      weight: Pwysau
+      relationship: Perthynas
+      children: Plant
+      living: Byw
+      jobs: Swyddi
+      income: Incwm
+      languages: Ieithoedd
+      smoking: Ysmygu
+      alcohol: Alcohol
+      drugs: Cyffuriau
+      contacts: Cysylltiadau
+      contact_value: Cyswllt
+      save: Achub
+      about_yourself: Amdanoch chi
+    settings:
+      submit: Achub
+      locale: Rhyngwyneb iaith
+      interface_language: Rhyngwyneb iaith
+    index:
+      users: Defnyddwyr
+      clear_search: Chwilio Clear
+    dashboard:
+      hello: Helo
+      here_some_of_your_statistics: Yma rhai o'ch ystadegau
+      chats: Sgyrsiau
+      notes: Nodiadau
+      photo_albums: albwm Photo
+    avatar:
+      photo: Photo
+      drag_and_drop_your_file: Llusgo a gollwng eich ffeil
+      here: yma
+      or: neu
+      from_other_sites: O safleoedd eraill
+      write_down_link_for_your_image: Ysgrifennwch cyswllt eich delwedd
+      url_for_image: Url i ddelwedd
+      upload: Upload
+      from_facebook: O Facebook
+      turn_on_facebook: Trowch ar Facebook
+      you_can_upload_your_photos_from_facebook: Gallwch lwytho eich lluniau o Facebook
+      from_vkontakte: O VKontakte
+      you_can_upload_your_photos_from_vkontakte: Gallwch lwytho eich lluniau o VKontakte
+      turn_on_vkontakte: Trowch ar VKontakte
+      from_instagram: O Instagram
+      you_can_upload_your_photos_from_instagram: Gallwch lwytho eich lluniau o Instagram
+      turn_on_instagram: Trowch ar Instagram
+      from_dropbox: O Dropbox
+      you_can_upload_your_photos_from_dropbox: Gallwch lwytho eich lluniau o Dropbox
+      turn_on_dropbox: Trowch ar Dropbox
+      edit_photo: Golygu llun
+      delete_photo: llun Dileu
+      are_you_sure: Ydych chi'n siwr?
+    available_photos_modal:
+      available_photos: lluniau ar Gael
+    update:
+      your_password_was_successfully_changed: Mae eich cyfrinair ei newid yn llwyddiannus
+      your_profile_was_successfully_updated: eich proffil ei ddiweddaru'n llwyddiannus
+    edit_photo:
+      edit_photo: Golygu llun
+      crop: Cnydau
+      close: Close
+      save_changes: newidiadau Save
+    contact:
+      contact_name_placeholder: Facebook / Skype / VK / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: Amdanaf
+      orientation: Cyfeiriadedd
+      meet_with: Cwrdd â
+      desirable_age: oed Dymunol
+      from: o
+      to: i
+      interests: Diddordebau
+      height: Uchder
+      sm: sm
+      kg: kg
+      relationship: Perthynas
+      children: Plant
+      living: Byw
+      jobs: Swyddi
+      income: Incwm
+      languages: Ieithoedd
+      smoking: Ysmygu
+      alcohol: Alcohol
+      drugs: Cyffuriau
+      contacts: Cysylltiadau
+    user_info:
+      offline: All-lein
+      online: Ar-lein
+      age: Oed
+    loading_modal_images:
+      loading_images: delweddau Llwytho
+    password_form:
+      new_password: cyfrinair newydd
+      confirm_new_password: Cadarnhau cyfrinair newydd
+    show:
+      all: Mae pob
+      notes: Nodiadau
+      view: View
+    dropbox_token_form:
+      key: Allweddol
+      paste_recieved_key: Gludo allweddol dderbyniwyd
+      submit: Cyflwyno
+    contents:
+      users_which_i_like: Defnyddwyr sy'n fi yn hoffi
+      all: Mae pob
+      my_videos_likes: Fy hoff fideos
+      my_photos_likes: Fy lluniau hoff bethau
+      my_notes_likes: Fy nodiadau hoff bethau
+      my_user_applications_likes: Fy ceisiadau hoff bethau
+      my_user_requests_likes: Fy ceisiadau hoff bethau
+    more_profile_info:
+      photo_albums: albwm Photo
+      view_all_photo_albums: Gweld pob albwm lluniau
+      create_more: Creu mwy
+      view_all_videos: Gweld pob fideos
+      notes: Nodiadau
+      view_all_notes: Gweld holl nodiadau
+      requirements_lists_to_partner: Gofynion rhestru i fod yn bartner
+      requirement: Gofyniad
+      view_all_requirements_lists: Gweld rhestru'r holl ofynion
+      profile_verification: gwirio Proffil
+      your_profile_is_successfully_verified: Mae eich proffil yn cael ei gwirio yn
+        llwyddiannus
+      create: Creu
+      you_have_not_any_requirements_lists_yet: Mae gennych nad yw unrhyw ofynion rhestru
+        eto
+      you_have_not_any_notes_yet: Rydych wedi nid unrhyw nodiadau eto
+      you_have_not_any_photo_albums_yet: Mae gennych yw unrhyw albwm lluniau eto
+      you_have_not_any_videos_yet: Mae gennych nad yw unrhyw fideos eto
+      your_profile_is_not_verified_yet: Mae eich proffil yn cael ei gwirio eto
+      verify_through_twitter: Gwirio drwy Twitter
+      verify_through_facebook: Gwirio drwy Facebook
+      verify_through_mail_ru: Gwirio drwy Mail.ru
+    privacy:
+      privacy: Preifatrwydd
+  searches:
+    form:
+      location: Lleoliad
+      from: o
+      to: i
+      age: Oed
+      gender: Rhyw
+    form_content:
+      city: City
+      gender: Rhyw
+      age_from: Oedran o
+      to: i
+      online: Ar-lein
+      verified: Gwiriwyd
+      has_avatar: A yw avatar
+      region: Rhanbarth
+      more: Mwy
+      country: Gwlad
+      about_me: Amdanaf
+      interests: Diddordebau
+      languages: Ieithoedd
+      names: Enwau
+      height: Uchder
+      from: o
+      weight: Pwysau
+      relationship: Perthynas
+      orientation: Cyfeiriadedd
+      search_for: Chwilio am
+      children: Plant
+      living: Byw
+      smoking: Ysmygu
+      alcohol: Alcohol
+      drugs: Cyffuriau
+      income: Incwm
+    show:
+      users: Defnyddwyr
+      clear_search: Chwilio Clear
+  welcome:
+    index:
+      people: Pobl
+      requests: Ceisiadau
+      user_applications: Ceisiadau
+      about: Ynglŷn
+      features: Nodweddion
+      registration: Cofrestru
+      sign_in: Mewngofnodi
+      welcome_main_title: Croeso i Flutylove!
+      welcome_main_text: Mae hyn yn y man lle y gallwch ddod o hyd i dy gariad perffaith
+      find_more: Dod o hyd i fwy
+      about_title: Flutylove yw'r rhwydwaith adloniant cymdeithasol rhyngwladol ar
+        gyfer datings
+      about_text: Mae llawer o nodweddion y gallwch eu defnyddio ar gyfer adloniant
+        a datings!
+      find_more_features: Dod o hyd i fwy o nodweddion
+      at_our_service: Nodweddion ein gwasanaeth
+      many_languages: Mae llawer o ieithoedd
+      text_about_many_languages: Mae ein gwasanaeth yn cael ei gyfieithu yn fwy na
+        70 o ieithoedd
+      check_it_out: Atalfa 'ii maes
+      videochats: Videochats
+      text_about_videochats: Gallwch sgwrsio gyda'ch partner gyda videocams
+      try_it_now: Rhowch gynnig arni nawr
+      search: Chwilio
+      text_about_search: Gallwch chwilio gyda paramedrau lluosog ac mae'n rhad ac
+        am ddim!
+      watch_this: Gwyliwch y
+      more_features: Mwy o nodweddion
+      text_about_more_features: Gallwch weld fideos, gemau chwarae a gwneud llawer
+        o bethau eraill!
+      register_and_learn_more: Cofrestru a dysgu mwy
+      install_our_apps: Gosod ein apps oddi ar lwyfannau poblogaidd
+      register_header: Cofrestru
+  feedbacks:
+    new:
+      feedback_title: Adborth
+    form:
+      feedback_name: Eich enw
+      feedback_email: Eich e-bost
+      close: Close
+      send: Anfon
+      feedback_recaptcha: reCAPTCHA
+      cancel: Diddymu
+    success:
+      success_feedback: Diolch yn fawr! Rydym wedi dderbyniwyd eich adborth.
+      close: Close
+      cancel: Diddymu
+      more: Anfon mwy
+  abuses:
+    new:
+      abuse_title: Cam-drin
+    form:
+      abuse_name: Eich enw
+      abuse_email: Eich e-bost
+      abuse_title: Cam-drin
+      close: Close
+      send: Anfon
+      abuse_recaptcha: reCAPTCHA
+      abuse_link: Link
+      cancel: Diddymu
+    success:
+      success_abuse: Diolch yn fawr! Rydym wedi dderbyniwyd eich cam-drin.
+      close: Close
+      cancel: Diddymu
+      more: Anfon mwy
+  layouts:
+    welcome:
+      welcome_title: Croeso i Flutylove! Mae'r safle yn dyddio mwyaf datblygedig.
+  recaptcha:
+    errors:
+      verification_failed: reCAPTCHA Methwyd
+      recaptcha_unreachable: reCAPTCHA yn anghyraeddadwy
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Rydym newydd lansio ein gwasanaeth!
+      we_have_just_launched_our_service_text: Heddiw, rydym yn lansio ein gwasanaeth
+        fel y gall pawb
+      sign_up: cofrestru
+      and_use_it: ac yn ei defnyddio.
+      wishes_and_requests: Os oes gennych unrhyw ddymuniadau neu geisiadau, gallwch
+        gofrestru ac ysgrifennodd ei
+      here: yma
+      with_love: Gyda chariad,
+    index:
+      all_news: Pob stori newyddion
+      read_more: Darllen mwy
+  chats:
+    panel_head:
+      online: Ar-lein
+      offline: All-lein
+    pagination_link:
+      next_page: Tudalen nesaf
+    form_additions:
+      submit: Cyflwyno
+      videochat: Videochat
+    videochat_request_link:
+      connect_to_videochat: Cyswllt i videochat
+    modal_form:
+      recipient: Derbynnydd
+      message: Neges
+      close: Close
+      submit: Cyflwyno
+    waiting_video_answer_button:
+      waiting_for_response: Aros am ymateb ...
+    chat_created:
+      message_was_sent: Neges Anfonwyd
+      close: Close
+  messages:
+    pagination_link:
+      next_page: Tudalen nesaf
+  notifications:
+    user_to_friend_connection:
+      action: Gweithredu
+    notification:
+      offline: All-lein
+      online: Ar-lein
+    like:
+      action: Gweithredu
+    photo_album_view:
+      action: Gweithredu
+    user_view:
+      action: Gweithredu
+  user_applications:
+    user_application:
+      who_uploaded: Llwythiad gan
+      all_uploaded_applications_by: pob cais lanlwytho gan
+    form:
+      name: Enw
+      user_application_name: enw Cais
+      description: Disgrifiad
+      description_text: Disgrifiad testun
+      iframe_url: Iframe url
+      upload_icon: Lawrlwytho icon
+      public: Cyhoeddus?
+      category_name: Categori
+      create: Creu
+      edit: Golygu
+    show:
+      application: Cais
+      return_to_uploaded_applications: I llwytho cais
+      return_to_all_applications: Dychwelyd i'r holl geisiadau
+    manage:
+      installed_applications: geisiadau Gorseddedig
+      uploaded_applications: geisiadau Uploaded
+      all: Mae pob
+    index:
+      applications_uploaded_by: Ceisiadau lanlwytho gan
+      return_to_all_applications: Dychwelyd i'r holl geisiadau
+      create_new: Creu newydd
+      return_to_manage_applications: Dychwelyd i reoli ceisiadau
+    installed:
+      installed_applications: geisiadau Gorseddedig
+      return_to_all_applications: Dychwelyd i'r holl geisiadau
+      return_to_manage_applications: Dychwelyd i reoli ceisiadau
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Cyn golwg y cais hwn angen
+        i chi lofnodi i mewn yn gyntaf
+    need_to_install:
+      need_to_install_first: angen i chi osod y cais hwn yn gyntaf
+      install_application: Gosod cais
+  likes:
+    index:
+      liked_items: eitemau Hoffi
+      return_to_my_content: Dychwelyd i fy cynnwys
+  videos:
+    index:
+      return_to_edit_profile: I proffil golygu
+      create_new: Creu newydd
+      return_to_profile: Dychwelyd i broffilio
+    video:
+      edit: Golygu
+      are_you_sure: Ydych chi'n siwr?
+      delete: Dileu
+    modal_form:
+      create_new_video: Creu fideo newydd
+      close: Close
+      create: Creu
+    form_content:
+      name: Enw
+      video_name: enw Fideo
+      source: Url o ymgorffori cod
+      video_url_or_embed_code: Fideo url fideo cod ymgorffori
+    show:
+      video: Fideo
+      return_to_all_videos: Dychwelyd i'r holl fideos
+      edit_video: Golygu fideo
+    edit:
+      edit_video: Golygu fideo
+      return_to_view_video: Dychwelyd i'r golwg fideo
+      view_video: Gweld fideo
+    form:
+      edit: Golygu
+  photo_albums:
+    index:
+      photo_albums: albwm Photo
+      return_to_editing_profile: I proffil golygu
+      create_new: Creu newydd
+      return_to_profile: Dychwelyd i broffilio
+    photo_album:
+      edit: Golygu
+      create: Creu
+      are_you_sure: Ydych chi'n siwr?
+      delete: Dileu
+    edit:
+      return_to_photo_albums: I albymau lluniau
+      view_photo_album: View photo album
+    form_content:
+      name: Enw
+      photo_album_name: Photo enw albwm
+    form:
+      edit: Golygu
+      create: Creu
+    photo_album_uploader:
+      drag_and_drop_your_file: Llusgo a gollwng eich ffeil
+      here: yma
+      or: neu
+      from_other_sites: O safleoedd eraill
+      write_down_link_for_your_image: Ysgrifennwch cyswllt eich delwedd
+      url_for_image: Url i ddelwedd
+      upload: Upload
+      from_facebook: O Facebook
+      turn_on_facebook: Trowch ar Facebook
+      you_can_upload_your_photos_from_facebook: Gallwch lwytho eich lluniau o Facebook
+      from_vkontakte: O VKontakte
+      you_can_upload_your_photos_from_vkontakte: Gallwch lwytho eich lluniau o VKontakte
+      turn_on_vkontakte: Trowch ar VKontakte
+      from_instagram: O Instagram
+      you_can_upload_your_photos_from_instagram: Gallwch lwytho eich lluniau o Instagram
+      turn_on_instagram: Trowch ar Instagram
+      from_dropbox: O Dropbox
+      you_can_upload_your_photos_from_dropbox: Gallwch lwytho eich lluniau o Dropbox
+      turn_on_dropbox: Trowch ar Dropbox
+    show:
+      return_to_photo_albums: I albymau lluniau
+    modal_form:
+      create_new_photo_album: Creu albwm lluniau newydd
+      close: Close
+      create: Creu
+  user_requests:
+    form:
+      content: Cynnwys
+      edit: Golygu
+      create: Creu
+  notes:
+    index:
+      notes: Nodiadau
+      return_to_edit_profile: I proffil golygu
+      create_new: Creu newydd
+      return_to_profile: Dychwelyd i broffilio
+    note:
+      edit: Golygu
+      are_you_sure: Ydych chi'n siwr?
+      delete: Dileu
+    show:
+      note: Nodyn
+      return_to_notes: Dychwelyd i'r nodiadau
+    form_content:
+      content: Cynnwys
+      edit: Golygu
+      create: Creu
+    edit:
+      return_to_notes: Dychwelyd i'r nodiadau
+      view_note: Gweld nodyn
+  user_to_search_connections:
+    index:
+      requirements_lists: rhestrau Gofynion
+      return_to_editing_profile: I proffil golygu
+      create_new: Creu newydd
+    user_to_search_connection:
+      edit: Golygu
+      are_you_sure: Ydych chi'n siwr?
+      delete: Dileu
+    edit:
+      edit_requirements_list: Golygu rhestri gofynion
+      return_to_requirements_lists: I rhestri gofynion
+    form_content:
+      name: Enw
+      name_of_your_requirements_list: Enw eich rhestr gofynion
+    form:
+      edit: Golygu
+    show:
+      return_to_requirements_lists: I rhestri gofynion
+  photos:
+    index:
+      return_to_photo_albums: Dychwelyd i albymau lluniau
+      return_to_profile: I proffil
+  errors:
+    messages:
+      already_confirmed: eisoes cadarnhawyd, os gwelwch yn dda ceisiwch arwyddo mewn
+      confirmation_period_expired: angen cadarnhau o fewn% {cyfnod}, gofynnwch am
+        un newydd
+      expired: wedi dod i ben, gofynnwch am un newydd
+      not_found: heb ei ganfod
+      not_saved:
+        one: '1 gwall wahardd% hwn {adnodd} rhag cael eu cadw:'
+        other: "% {cyfrif} wallau gwaharddedig% {adnodd} hwn rhag cael eu cadw:"
+    bad_request:
+      request_result: Cais canlyniad
+      bad_request_description: Mae'r gweinydd na ellir neu ni fydd yn prosesu'r cais
+        oherwydd gwall cleient ymddangosiadol
+      go_to_root: Ewch i gwraidd
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable Endid
+      request_result: Cais canlyniad
+      unprocessable_entity_description: Roedd y cais ei ffurfio'n dda ond nid oedd
+        yn gallu eu dilyn oherwydd camgymeriadau semantig
+      go_to_root: Ewch i gwraidd
+    not_found:
+      not_found: Heb Ganfod
+      request_result: Cais canlyniad
+      not_found_description: Mae'r adnodd gofynnwyd Ni ellid dod o hyd, ond gallai
+        fod ar gael yn y dyfodol
+      go_to_root: Ewch i gwraidd
+    forbidden:
+      forbidden: Forbidden
+      request_result: Cais canlyniad
+      forbidden_description: Roedd y cais yn gais dilys, ond y gweinydd yn gwrthod
+        ymateb iddo
+      go_to_root: Ewch i gwraidd
+    internal_server_error:
+      internal_server_error: Gwall Gweinydd Mewnol
+      request_result: Cais canlyniad
+      go_to_root: Ewch i gwraidd
+  pages:
+    privacy:
+      privacy: Polisi Preifatrwydd Flutylove
+      general_provisions: Darpariaethau cyffredinol
+      p_1_1: 1.1. Mae'r Rheoliadau hyn yn cael eu dogfen swyddogol o Atebolrwydd Cyfyngedig
+        Cwmni "Technoelegance", a leolir yn 101,000, Moscow, Ulanskiy pereulok 13,
+        stroeniye 4, pomeshcheniye 1 (o hyn ymlaen Flutylove, mae'r Cwmni, Rydym),
+        a phennu gweithdrefnau prosesu data a diogelwch gwybodaeth unigolion sydd
+        wedi cyrraedd oed 18 mlynedd, ac sy'n defnyddio gwefan https://flutylove.com
+        (o hyn ymlaen y wefan) a'i wasanaethau (o hyn ymlaen y Defnyddwyr).
+      p_1_2: 1.2. Diben y Rheoliadau hyn yw sicrhau diogelwch ddyledus o'r wybodaeth
+        y defnyddiwr, gan gynnwys data personol, rhag mynediad a datgelu heb awdurdod.
+      p_1_3: 1.3. Mae'r berthynas sy'n gysylltiedig â chasglu, storio, dosbarthu a
+        diogelwch gwybodaeth y defnyddiwr Wefan yn cael eu llywodraethu gan y Rheoliadau
+        hyn, dogfennau swyddogol eraill y Cwmni a'r ddeddfwriaeth gyfredol y Ffederasiwn
+        Rwsia.
+      p_1_4: 1.4. Mae fersiwn cyfredol y Rheoliadau hyn, sy'n yn ddogfen gyhoeddus,
+        ar gael i unrhyw ddefnyddiwr Rhyngrwyd wrth ddilyn y ddolen http://flutylove.com/pages/privacy.
+        Mae gan y Cwmni hawl i addasu y Rheoliadau hyn. Rhag ofn y newidiadau'n cael
+        eu gwneud i'r Rheoliadau, bydd y Cwmni yn hysbysu defnyddwyr drwy bostio'r
+        fersiwn newydd o'r Rheoliadau ar y Wefan yn y cyfeiriad http://flutylove.com/pages/privacy
+        parhaol, heb fod yn hwyrach na 10 diwrnod cyn y effeithiol ddyddiad y newidiadau.
+        Mae fersiynau blaenorol y Rheoliadau yn cael eu storio yn yr archif dogfennaeth
+        y Cwmni.
+      p_1_5: 1.5. Mae'r Rheoliadau hyn yn wedi cael eu datblygu ac yn cael eu defnyddio
+        yn unol â'r Cytundeb Defnyddiwr. Mewn achos o unrhyw dramgwydd rhwng y Rheoliadau
+        hyn a dogfennau swyddogol eraill y Cwmni, mae'r Rheoliadau hyn i'w gorfodi.
+      p_1_6: 1.6. Trwy ddefnyddio'r Wefan, rydych yn cytuno i'r telerau ac amodau'r
+        Polisi Preifatrwydd hwn. Darllenwch yn ofalus os gwelwch yn dda. Os nad ydych
+        yn cytuno â thelerau Polisi Preifatrwydd, neu os nad ydych wedi cyrraedd yr
+        oedran o 18 mlynedd, efallai na fyddwch yn defnyddio'r Wefan a'i Wasanaethau.
+        Trwy ddefnyddio'r Wefan, ni waeth a ydych yn ddefnyddiwr cofrestredig Flutylove
+        ai peidio, rydych yn cadarnhau eich bod yn derbyn y Polisi Preifatrwydd hwn
+        yn llawn, ac yn cytuno i ddilyn.
+      the_website_using_conditions: Mae'r amodau Gwefan gan ddefnyddio
+      p_2_1: '2.1. I ddefnyddio''r Flutylove Wefan, mae angen i chi gofrestru. Dylai''r
+        wybodaeth ganlynol gael eu pennu yn ystod y cofrestru: enw, cyfeiriad e-bost,
+        rhyw, dyddiad geni, gwybodaeth lleoliad. Efallai y bydd y Defnyddiwr rhoi
+        manylion personol ychwanegol ar ei g / ddymuniad ei hun. Efallai y bydd y
+        Defnyddiwr olygu neu ddiweddaru gwybodaeth bersonol ar unrhyw adeg. Mae gan
+        y Cwmni hawl i ofyn am ddogfennau ategol ychwanegol rhag ofn y bydd newid
+        rhyw a dyddiad geni y Defnyddiwr.'
+      p_2_2: '2.2. Trwy ganiatáu i''r mynediad i''r Wefan a''i wasanaethau, mae''r
+        Cwmni, gan weithredu mewn modd rhesymol ac yn ddidwyll, yn ystyried bod y
+        Defnyddiwr: yn sylweddoli bod ar gyfer cofrestru ar y Wefan, mae angen i fod
+        dros 18 oed; Mae gan yr holl hawliau sydd eu hangen i allu cofrestru ar y
+        Wefan hon ac yn ei defnyddio; dangos gwybodaeth gywir am ei hun / hi ei hun
+        yn ôl y ceisiadau am y defnydd o''r Gwasanaethau y Wefan; yn ymwybodol bod
+        gwybodaeth bersonol ar y Wefan, a ddarperir gan y Defnyddiwr, gall ddod ar
+        gael i ddefnyddwyr eraill y Wefan a''r Rhyngrwyd defnyddwyr yn ogystal, gellir
+        eu copïo a''u dosbarthu gan y defnyddwyr eraill; yn ymwybodol bod rhai mathau
+        o wybodaeth, trosglwyddo i''r Ddefnyddwyr eraill, ni ellir ei symud gan y
+        Defnyddiwr; yn gydnabyddus â''r Rheoliadau hyn, yn cytuno â nhw ac yn cynnal
+        yr hawliau a''r rhwymedigaethau a nodir.'
+      p_2_3: 2.3. Nid yw'r Cwmni yn gwirio cywirdeb y dderbyniwyd (yn casglu) gwybodaeth
+        am y defnyddwyr, ac eithrio achosion pan fydd cadarnhad o'r fath yn angenrheidiol
+        er mwyn cyflawni rhwymedigaethau y Cwmni i'r defnyddiwr.
+      information_processing_objectives: amcan prosesu Gwybodaeth
+      p_3_1: 3.1. Mae'r Cwmni yn cyflawni gwaith o brosesu gwybodaeth am ddefnyddwyr,
+        gan gynnwys eu data personol, er mwyn cyflawni rhwymedigaethau y Cwmni i Defnyddwyr
+        ar gyfer y defnydd o'r Wefan a'i wasanaethau.
+      p_3_2: 3.2 Mae'r Cwmni wedi yr hawl i gynnal prosesu data personol heb hysbysu'r
+        awdurdod cymwys ar gyfer amddiffyn hawliau gwrthrychau data personol.
+      structure_of_the_user_information: Strwythur y wybodaeth defnyddiwr
+      p_4_1: '4.1. data personol y Defnyddwyr yn cynnwys:'
+      p_4_1_1: 4.1.1. enw, cyfeiriad e-bost, rhyw, dyddiad geni, gwybodaeth lleoliad,
+        a rhif ffôn, sy'n cael eu darparu gan y defnyddwyr a fod i fod yn ddigon unig
+        ar gyfer y cofrestru ar y Wefan;
+      p_4_1_2: 4.1.2. y wybodaeth a ddarperir gan y Defnyddiwr (er enghraifft lluniau,
+        gwybodaeth am arferion dinistriol ac ati);
+      p_4_1_3: 4.1.3. a ddarperir yn ychwanegol gan y Defnyddiwr yn ôl y cais Cwmni
+        er mwyn cyflawni rhwymedigaethau y Cwmni i Defnyddwyr, gan ymddangos o gytundeb
+        defnyddwyr. Mae gan y Cwmni hawl, yn arbennig, i ofyn am y Defnyddiwr am gopi
+        o'r ddogfen hunaniaeth neu unrhyw ddogfennau eraill sy'n cynnwys enw, rhyw
+        a dyddiad geni, yn ogystal â gwybodaeth ychwanegol eraill sydd, yn ôl disgresiwn
+        y Cwmni, bydd yn angenrheidiol ac yn ddigonol ar gyfer adnabod Defnyddiwr
+        o'r fath a fyddai'n cael gwared ar y cam-drin ac ymyrryd â hawliau trydydd
+        parti.
+      p_4_2: '4.2. prosesu gwybodaeth Defnyddiwr eraill gan y Cwmni Gweinyddiaeth
+        Gwefan hefyd yn prosesu gwybodaeth arall am y Defnyddwyr, sy''n cynnwys:'
+      p_4_2_1: 4.2.1. ddata gyffredin, derbyniodd awtomatig gan http-gweinyddwr wrth
+        fynd ar y Wefan a'r camau dilynol y Defnyddiwr (IP-cyfeiriad y llu, y math
+        o system weithredu y defnyddiwr, tudalennau o'r Wefan ymweliad gan y defnyddiwr).
+      p_4_2_2: 4.2.2. wybodaeth a dderbynnir yn awtomatig wrth fynd ar y Wefan gan
+        ddefnyddio bookmarks (cookies);
+      p_4_2_3: 4.2.3. wybodaeth a dderbynnir o ganlyniad i gamau gweithredu Defnyddiwr
+        ar y Wefan;
+      p_4_2_4: 4.2.4. wybodaeth a dderbynnir o ganlyniad i weithredoedd defnyddwyr
+        eraill ar y Wefan.
+      p_5_1: '5.1. prosesu data personol yn cynnal ar sail egwyddorion canlynol: a)
+        at ddibenion cyfreithlon a dulliau o brosesu data personol; b) gonestrwydd;
+        c) cydymffurfiaeth dibenion prosesu data personol gyda dibenion a bennwyd
+        ymlaen llaw ac yn datgan wrth gasglu''r data personol, yn ogystal â chydymffurfiaeth
+        y cymwysterau y Cwmni; d) cydymffurfiad cyfaint a''r math o brosesu data personol,
+        ac cydymffurfiad gyfrwng brosesu data personol gyda ddibenion ei brosesu;
+        e) annerbynioldeb o gyfuno y cronfeydd data a grëwyd ar gyfer dibenion anghydnaws,
+        sy''n cynnwys data personol.'
+      p_5_1_1: 5.1.1. Mae casglu data personol y Defnyddiwr yn cael ei wneud ar y
+        Wefan pan gofrestr, yn ogystal ag yn y dyfodol pan fydd y defnyddiwr yn ychwanegu
+        mwy o wybodaeth amdano ef / hi ei hun gan ddefnyddio'r offer Gwefan ar ei
+        g / menter eich hun.
+      p_5_1_2: 5.1.2. data personol o ddefnyddwyr yn cael eu storio yn gyfan gwbl
+        ar ffurf electronig a'i phrosesu gan ddefnyddio systemau awtomataidd, ac eithrio
+        achosion lle mae angen prosesu â llaw o ddata personol o ystyried cwrdd â'r
+        gofynion deddfwriaethol.
+      p_5_1_3: 5.1.3. Nid yw data personol defnyddiwr yn cael eu trosglwyddo i unrhyw
+        drydydd parti, ac eithrio mewn achosion a ddarperir yn benodol gan y Rheoliadau
+        hyn a'r Cytundeb Defnyddiwr. Gyda chaniatâd y defnyddiwr, gall data defnyddwyr
+        personol yn cael ei drosglwyddo i drydydd gwrthbartïon y Cwmni o dan y cyflwr
+        o dybiaeth o rwymedigaeth i sicrhau cyfrinachedd yr wybodaeth a dderbyniwyd,
+        yn benodol, wrth ddefnyddio gwasanaethau a cheisiadau. provisioning data personol
+        y defnyddiwr ar gais yr awdurdodau llywodraethol (awdurdodau lleol) yn cael
+        ei wneud yn y weithdrefn fel sy'n ofynnol gan y Gyfraith.
+      p_5_1_4: '5.1.4. data defnyddwyr personol yn cael eu dileu pan: - data yn hunan-dileu
+        o''r dudalen gan y Defnyddiwr; - Tudalen yn hunan-ddileu gan y Defnyddiwr;
+        - Gwybodaeth y Defnyddiwr a''i tudalen personol yn cael eu tynnu gan y Cwmni.
+        Mewn achos o dudalen dileu gan y Defnyddiwr ei hun, mae''r Cwmni yn storio
+        data personol y Defnyddiwr ar ei gyfryngau electronig o fewn 210 diwrnod ar
+        ôl y dudalen bersonol yn cael ei ddileu. Mae''r data personol yn cael eu dileu
+        ar ben 210 o ddiwrnodau ar ôl i''r dudalen bersonol yn cael ei ddileu. Hyd
+        nes y cyfnod hwn yn dod i ben, mae gan y Defnyddiwr yr hawl i adfer y dudalen
+        personol.'
+      users_rights_and_obligations: hawliau a rhwymedigaethau Defnyddiwr
+      p_6_1: '6.1. Mae gan y Defnyddiwr yr hawl i:'
+      p_6_1_1: 6.1.1. gael mynediad at y wybodaeth am iddo / iddi heb gyfyngiadau
+        a rhad ac am ddim drwy olygu ei dudalen personol ar y Wefan gyda'r defnydd
+        o'r mewngofnodi a chyfrinair;
+      p_6_1_2: 6.1.2. yn annibynnol wneud newidiadau a chywiriadau i'r wybodaeth ar
+        dudalen bersonol y Defnyddiwr ar y Wefan, ar yr amod bod y newidiadau a chywiriadau
+        o'r fath yn cynnwys hyd ddiweddaraf gwybodaeth wir a;
+      p_6_1_3: 6.1.3. cael gwared ar y wybodaeth hon o'r dudalen personol ar y Wefan;
+      p_6_1_4: 6.1.4. gofyn i'r Cwmni i gael gwybodaeth, bloc fwy penodol neu ddileu
+        data personol, os data o'r fath yn anghyflawn, hen ffasiwn, yn anghywir, a
+        dderbyniwyd yn anghyfreithlon neu heb fod yn angenrheidiol at y diben datganedig
+        o brosesu neu os y camau a bennir ym mharagraff 6.1.3 o'r rhain Ni all y Rheoliadau
+        yn cael eu rhoi ar waith yn annibynnol;
+      p_6_1_5: 6.1.5. ar sail y cais, yn cael y wybodaeth gan y Cwmni ynghylch prosesu
+        ei g / data personol.
+      p_6_2: '6.2. Yr wybodaeth ganlynol am unrhyw Ddefnyddiwr Wefan cofrestredig
+        bob amser ar gael i''r Defnyddiwr cofrestredig: enw, rhyw, oedran, llun proffil
+        defnyddiwr a gwybodaeth arall os yw''r Defnyddiwr wedi postio hyn.'
+      p_6_3: 6.3. Mae'r Cwmni yn dwyn unrhyw atebolrwydd am ddatgelu data personol
+        y Defnyddiwr gan Ddefnyddwyr eraill o'r Wefan sydd wedi cael mynediad data
+        o'r fath.
+      p_6_4: 6.4. Mewn achos o ddata personol (gwybodaeth arall ddefnyddiwr) tynnu
+        oddi ar dudalen neu gael gwared ar dudalen personol y Defnyddiwr o'r Wefan
+        personol y Defnyddiwr, gwybodaeth y Defnyddiwr copïo gan Ddefnyddwyr eraill
+        neu eu storio ar dudalennau Defnyddwyr eraill 'yn cael ei gadw.
+      p_7_1: 7.1. Mae'r Cwmni yn cymryd mesurau technegol, sefydliadol a chyfreithiol
+        i sicrhau bod data personol y Defnyddiwr yn cael eu diogelu rhag mynediad
+        heb awdurdod neu'n ddamweiniol, dileu, addasu, blocio, copïo, a lledaenu yn
+        ogystal ag o gamau gweithredu heb awdurdod arall.
+      p_7_2: 7.2. login Mae'r Defnyddiwr (cyfeiriad e-bost neu rif ffôn symudol) a
+        chyfrinair yn cael eu defnyddio i gael mynediad i'r Wefan. Mae'r Defnyddiwr
+        yn gyfrifol am gadw wybodaeth hon yn gyfrinachol. Efallai na fydd y Defnyddiwr
+        drosglwyddo'r mewngofnodi a chyfrinair i drydydd partïon ac mae hefyd yn ofynnol
+        i gymryd camau i sicrhau ei chyfrinachedd.
+      limitation_of_the_regulations_applicability: Cyfyngiad gymhwysedd Rheoliadau
+      p_8: Mae'r Rheoliadau hyn yn cael eu hymestyn i'r camau gweithredu ac adnoddau
+        Rhyngrwyd trydydd parti. Mae'r Cwmni yn dwyn unrhyw atebolrwydd am weithredoedd
+        trydydd partïon a gafodd fynediad i'r wybodaeth Defnyddiwr drwy'r Rhyngrwyd
+        neu'r Gwasanaethau Wefan. Mae'r Gweinyddiaeth Gwefan yn argymell i'r defnyddwyr
+        i fynd at y mater gyda faint o wybodaeth postio ar y Wefan mewn modd cyfrifol.
+      user_requests: geisiadau Defnyddiwr
+      p_9_1: '9.1. Defnyddwyr yr hawl i anfon ceisiadau i''r Cwmni gan gynnwys ceisiadau
+        ynghylch y defnydd o''r data personol yn ysgrifenedig yn y cyfeiriad canlynol:
+        Rwsia, 101,000, Moscow, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye 1
+        neu ar ffurf dogfen electronig lofnodi gan lofnod electronig cymwysedig yn
+        unol â''r ddeddfwriaeth o Ffederasiwn Rwsia, gan yr e-bost: support@flutylove.com.'
+      p_9_2: '9.2. Rhaid cais y Defnyddiwr gynnwys yr wybodaeth ganlynol: y nifer
+        o ddogfen adnabod y Defnyddiwr neu ei gynrychiolydd; dyddiad dyroddi''r y
+        ddogfen uchod ac awdurdod dyroddi; gwybodaeth yn cadarnhau cyfranogiad y Defnyddiwr
+        mewn cysylltiadau gyda''r gweithredydd (yn benodol, y ddolen i''r dudalen);
+        llofnod y Defnyddiwr neu ei g / chynrychiolydd.'
+      p_9_3: 9.3. Mae'r Cwmni yn ymrwymo i ystyried ac ymateb i gais y Defnyddiwr
+        o fewn 30 diwrnod ar ôl iddo gael ei dderbyn.
+      p_9_4: 9.4. Pob gohebiaeth a dderbynnir gan y Cwmni gan y Defnyddwyr (ceisiadau
+        ysgrifenedig neu electronig) yn cael ei ddosbarthu fel gwybodaeth gyfyngedig-fynediad
+        ac ni ellir datgelu heb ganiatâd ysgrifenedig y Defnyddiwr. Efallai na fydd
+        y data personol a gwybodaeth arall am y Defnyddiwr a anfonodd y cais yn cael
+        ei ddefnyddio, heb ganiatâd arbennig y Defnyddiwr, yn wahanol nag ar gyfer
+        ymateb i'r cais, neu yn yr achosion a ddarperir yn benodol gan y gyfraith
+        berthnasol.
+    terms:
+      terms: Cytundeb Defnyddiwr Flutylove
+      welcome: Croeso i Flutylove!
+      about_terms: 'Mae''r telerau defnyddio (yn ogystal â''r dogfennau y cyfeirir
+        atynt yma, yn cynnwys Polisi Preifatrwydd) yn y contract adlyniad yn unol
+        ag Erthygl 428 o''r Cod Sifil o Ffederasiwn Rwsia (y cyfeirir ati yma wedi
+        hyn fel y "Cytundeb") rhwng y unigolyn sydd wedi cyrraedd 18 oed (y cyfeirir
+        ati yma wedi hyn fel y "Defnyddiwr" a''r Cwmni (neu "ni") - a Atebolrwydd
+        Cyfyngedig Cwmni "Technoelegance" (LLC "Technoelegance") (gyfeiriad cyfreithiol:
+        101.000, Moscow, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye 1), y cyfeirir
+        ati yma wedi hyn fel Flutylove, yn ôl y gallwch chi ddefnyddio''r Wefan hon
+        a''r holl wasanaethau cysylltiedig a gynigir drwy''r Wefan neu''r cais (y
+        cyfeirir atynt yn gyffredinol fel "gwasanaethau"). Mae''r Wefan yn cael ei
+        ddeall i olygu unrhyw un o''r ei fersiynau, wedi''u cyfuno o dan yr enw parth
+        flutylove.com ac yn gweithredu ar gyfer amrywiaeth o ddyfeisiau, gan gynnwys
+        fersiwn ar y we, ceisiadau symudol a cheisiadau ar gyfer rhwydweithiau cymdeithasol.Drwy
+        ddefnyddio''r wefan hon rydych yn cytuno i delerau''r Cytundeb a Polisi Preifatrwydd.
+        Darllenwch yn ofalus os gwelwch yn dda. Os nad ydych yn cytuno â thelerau''r
+        Cytundeb a Polisi Preifatrwydd, neu os nad ydych wedi cyrraedd yr oedran o
+        18 mlynedd, efallai na fyddwch yn defnyddio''r Wefan a''i Wasanaethau.Trwy
+        ddefnyddio Gwefan, waeth beth ydych wedi''ch cofrestru defnyddiwr Flutylove
+        ai peidio, rydych yn cytuno yn llwyr â''r Cytundeb hwn ac mae ein Polisi Preifatrwydd,
+        sy''n cael ei gynnwys yn y Cytundeb hwn gan y ddolen ac mae ar gael ar y Wefan,
+        a chydymffurfio â hi.Ar gais y defnyddiwr, mae''r Cwmni yn ymrwymo i lofnodi''r
+        Cytundeb hwn ar ffurf copi caled a''i hanfon at yr unigolyn yn gofyn am y
+        dogfennau.Mae''r Cwmni yn cadw''r hawl i addasu''r Cytundeb Defnyddiwr ac
+        unrhyw ddogfen y cyfeirir ato. Bod yn ymwybodol o''r newidiadau y mae angen
+        i chi gadw i fyny ddiweddaraf yr wybodaeth ar newidiadau o''r fath yn rheolaidd.
+        Byddwn yn rhoi gwybod i chi am y newidiadau a wnaethom ar y dudalen isod.
+        Nid yw newidiadau yn ymwneud yn ôl a bydd yn dod i rym o fewn deg diwrnod
+        o''r dyddiad cyhoeddi. Fodd bynnag, rhag ofn eu bod yn gysylltiedig â gwasanaethau
+        newydd ar waith, neu newid y ddeddfwriaeth, bydd yn cael ei gymhwyso ar unwaith.
+        Os nad ydych yn cytuno â''r newidiadau yn y Cytundeb, rhaid i chi roi''r gorau
+        i ddefnyddio''r Wefan a''i chymwysiadau.'
+      consent_to_accept_the_terms_of_user_agreement: 1. CANIATÂD DERBYN YR AMODAU
+        CYTUNDEB DEFNYDDIWR.
+      p_1: a. Cytundeb electronig. Mae'r Cytundeb hwn yn fersiwn electronig o'r contract,
+        sy'n disgrifio telerau defnydd o'r Wefan a'r Gwasanaethau. Drwy logio i Wefan
+        neu ddod yn Ddefnyddiwr, rydych yn derbyn y Cytundeb hwn ac yn cytuno i holl
+        delerau, amodau, a hysbysiadau sydd wedi'u cynnwys neu y cyfeirir yno. Rydych
+        yn cadarnhau ac yn cytuno y gall y defnyddwyr Flutylove fod yn rhan o gymuned
+        ar-lein sy'n cynnwys gwefannau eraill sy'n perthyn i'r Cwmni neu rai cysylltiedig.
+        Felly, gall y proffiliau ar y Wefan yn cael ei gweld ar wefannau eraill tebyg
+        a thalu tanysgrifwyr o un wefan allu cyfathrebu â danysgrifwyr talu eraill
+        o bob gwefannau. b. Ffurf Electronig. Drwy logio i Wefan neu ddod yn Ddefnyddiwr,
+        rydych yn cydsynio i roi i chi y Cytundeb electronig. c. ffurf copi caled.
+        Mae gennych hawl i dderbyn y copi caled y Cytundeb hwn. Gallwch ofyn am gopi
+        caled rhifyn y Cytundeb hwn cyn neu ar ôl y bydd yn cael ei lofnodi ar ffurf
+        electronig. Os gwelwch yn dda, cysylltwch â'n gwasanaeth cwsmeriaid am fwy
+        o wybodaeth. d. Mynediad a lawrlwytho. Er mwyn cael mynediad a llwytho i lawr
+        y Cytundeb electronig hwn, mae'n rhaid i chi gael mynediad at y Rhyngrwyd
+        neu yn uniongyrchol drwy'r dyfeisiau gyda'r mynediad i adnoddau ar y we. angen
+        i chi gael offer angenrheidiol i gysylltu â'r Rhyngrwyd, sef y cyfrifiadur,
+        modem neu ddyfais mynediad eraill. Os gwelwch yn dda, argraffwch gopi o'r
+        Cytundeb hwn ac yn ei gadw. I lawrlwytho'r ffurflen electronig o'r Cytundeb,
+        ei chadw ar eich cyfrifiadur drwy gymorth unrhyw olygydd testun.
+      the_right_of_using_the_website: 2. YR HAWL DDEFNYDDIO'R WEFAN.
+      p_2: Mae'n rhaid i chi fod o leiaf ddeunaw (18) mlwydd oed i ddod yn ddefnyddiwr
+        cofrestredig y Wefan hon. Mewn achos o ddiffyg cydymffurfio â'r gofynion,
+        bydd mynediad i'r Wefan yn cael ei wrthod. Gan ddefnyddio'r Wefan, dylai'r
+        defnyddiwr fod yn ymwybodol y gall y wybodaeth bersonol postio ar y Wefan
+        ar gael ar gyfer defnyddwyr eraill y Rhyngrwyd, ac nid yw'r Cwmni yn dwyn
+        atebolrwydd am eu gweithredoedd. Drwy ddefnyddio'r wefan hon rydych haeru
+        ac ymgymryd bod gennych hawl, awdurdod a posibilrwydd i fynd i mewn i Cytundeb
+        hwn, a chaniatâd i ddilyn ei holl delerau ac amodau. Dod yn Ddefnyddiwr rydych
+        haeru ac ymgymryd bod nad ydych erioed wedi cael eu dioddef euogfarn am drosedd
+        yn ymwneud â thrais rhywiol. Mae'r wefan wedi'i chynllunio ar gyfer defnydd
+        personol yn unig. Mae'n gwahardd i ddefnyddio'r Wefan at unrhyw ddibenion
+        masnachol. Ni all endidau corfforaethol fod y defnyddwyr y Wefan hon, yn ogystal
+        â methu defnyddio Gwasanaeth hwn neu'r wefan ar eu dibenion. Anghyfreithlon
+        a / neu heb awdurdod yn defnyddio y Wefan, gan gynnwys casglu enwau defnyddwyr
+        a / neu gyfeiriadau e-bost drwy gymorth y arfau electronig neu arall at ddiben
+        anfon negeseuon annymunol a chysylltiadau yn dilyn a gall y Cwmni yn cymryd
+        camau priodol yn ôl y gyfraith, gan gynnwys apêl i'r awdurdodau gorfodi'r
+        gyfraith.
+      pricing_and_registration: 3. PRISIO A CHOFRESTRU
+      p_3: Rydych yn gallu dod i'r Defnyddiwr o Flutylove ar gwirfodd ac yn ddi sail
+        ofal drwy gofrestru ar y Wefan. Fel y Defnyddiwr, efallai y byddwch yn defnyddio
+        amrediad penodol o wasanaethau a chyfleoedd y Wefan. Mae'r Defnyddiwr y Wefan
+        yn unigolyn a gofrestrwyd ar y Wefan yn unol â'r drefn sefydledig ac sydd
+        wedi cyrraedd 18 mlwydd oed. Wrth gofrestru ar y Wefan y Defnyddiwr yn obligated
+        i ddarparu gwybodaeth angenrheidiol a pherthnasol ar gyfer y Cwmni i gwblhau'r
+        dudalen Defnyddiwr, gan gynnwys y mewngofnodi (cyfeiriad e-bost neu rif ffôn)
+        a chyfrinair ar gyfer y mynediad i'r Wefan, yn ogystal â'r enw, a oedd yn
+        yn unigryw ar gyfer pob defnyddiwr. Efallai y bydd y ffurflen ar gyfer cofrestru
+        ofyn am wybodaeth ychwanegol gan y Defnyddiwr. Mae'r Defnyddiwr yn gyfrifol
+        am ddilysrwydd, gwirionedd, gyflawn ac yn cydymffurfio â'r Gyfraith y Ffederasiwn
+        Rwsia yr wybodaeth a ddarparwyd wrth gofrestru, ac mae ei lwybr eglur o hawliadau
+        gan drydydd parti. Wrth gofrestru'r Defnyddiwr yn cytuno â'r Cytundeb hwn
+        ac yn ymgymryd â hawliau a rhwymedigaethau penodol, sy'n gysylltiedig â defnyddio
+        a gweithrediad y Wefan. Mae'r Defnyddiwr yn cael mynediad llawn i'r defnyddio
+        swyddogaethau Wefan. Mae'r Cwmni yn ymrwymo hawliau a rhwymedigaeth i'r Defnyddiwr,
+        a bennir yn y Rheoliadau hyn, ar ôl cofrestru llwyddiannus y Defnyddiwr ar
+        y Wefan prosesu data personol y defnyddiwr yn cael ei wneud yn unol Cyfraith
+        y Ffederasiwn Rwsia. Mae'r Gweinyddiaeth Gwefan yn prosesu data personol Defnyddiwr
+        er mwyn darparu'r Defnyddiwr gyda mynediad at y defnydd o swyddogaethau Wefan,
+        gan gynnwys derbyn personoli (wedi'u targedu) hysbyseb; dilysu, ymchwil a
+        dadansoddi data hynny, gan ganiatáu i gefnogi a gwella swyddogaethau a rhannau
+        o'r Wefan, yn ogystal â datblygu swyddogaethau ac adrannau newydd. Mae'r Cwmni
+        yn cymryd yr holl gamau angenrheidiol i ddiogelu data personol y Defnyddiwr
+        yn erbyn mynediad heb awdurdod, addasu, datgelu neu gan ddileu'r. Mae'r cwmni
+        yn darparu mynediad at y data personol y Defnyddiwr dim ond i'r rhai cyflogeion,
+        contractwyr ac asiantau y Cwmni, sydd angen y wybodaeth hon er mwyn cefnogi'r
+        swyddogaeth Wefan ac i ddarparu'r Defnyddiwr gyda mynediad i'w defnyddio.
+        Mae gan y Cwmni y Wefan hawl i ddefnyddio'r wybodaeth a ddarperir gan y Defnyddiwr,
+        gan gynnwys data personol, er mwyn sicrhau y cydymffurfir â gofynion y ddeddfwriaeth
+        gyfredol y Ffederasiwn Rwsia (gan gynnwys atal a / neu ddifodi anghyfreithlon
+        a / neu anghyfreithlon gweithredoedd y Defnyddwyr). Gall ddatgelu'r wybodaeth
+        a ddarperir gan y Defnyddiwr yn cael ei wneud dim ond yn unol â'r ddeddfwriaeth
+        gyfredol y Ffederasiwn Rwsia ar gais y llys, asiantaethau gorfodi'r gyfraith,
+        yn ogystal ag mewn achosion eraill fel y darperir gan y gyfraith berthnasol
+        o Ffederasiwn Rwsia. I'r graddau bod y Cwmni yn prosesu'r data personol y
+        Defnyddiwr ar gyfer roi'r Rheoliadau hyn, nid oes angen cydsyniad y Defnyddiwr
+        i brosesu data personol yn rhinwedd darpariaethau gyfraith ar ddata personol.
+        Mae'r mewngofnodi a y cyfrinair a ddewisir gan y Defnyddiwr yn wybodaeth angenrheidiol
+        a digonol ar gyfer mynediad Defnyddwyr i'r Wefan. Mae gan y Defnyddiwr hawl
+        i roi ei h / mewngofnodi a chyfrinair i drydydd partïon, ac yn gwbl gyfrifol
+        am ei ddiogelwch, gan ddewis y ffordd o'u storio ar sail annibynnol. Gan ddefnyddio
+        ei h / caledwedd a meddalwedd efallai y bydd y Defnyddiwr ganiatáu storio'r
+        mewngofnodi a chyfrinair (trwy 'cookies') ar gyfer awdurdodiad awtomatig dilynol
+        ar y Wefan. Unrhyw gamau a gymerwyd gan ddefnyddio enw defnyddiwr a chyfrinair
+        defnyddiwr yn cael eu hystyried i fod yn ymrwymedig gan y Defnyddiwr, oni
+        phrofir i'r gwrthwyneb gan y Defnyddiwr. Mae'n rhaid i'r Defnyddiwr roi gwybod
+        i'r Cwmni ar unwaith yn unol â'r weithdrefn a sefydlwyd yn achos mynediad
+        anawdurdodedig i'r enw a chyfrinair a / neu'r dudalen cyfrif, neu ddatgelu
+        o'r mewngofnodi a chyfrinair. Ar ôl cofrestru y Defnyddiwr yn ennill yr hawl
+        i greu, defnyddio, ac yn penderfynu ar y cynnwys ei g / tudalennau personol
+        ei hun ar ddibenion hunan-diddordeb ac anfasnachol, yn ogystal â chael y cyfle
+        i gael mynediad ac ar ôl y wybodaeth ar y tudalennau personol Defnyddwyr eraill
+        . Mae'r Defnyddiwr fel perchennog y wybodaeth bostio ar dudalen bersonol yn
+        ymwybodol bod ac eithrio'r achosion a sefydlwyd gan y Rheoliadau hyn a'r ddeddfwriaeth
+        gyfredol o Ffederasiwn Rwsia, nid yw'r Cwmni yn cymryd rhan yn y datblygiad
+        a defnyddio cynnwys ac nid yw'n rheoli mynediad i dudalen y Defnyddiwr oddi
+        wrth ddefnyddwyr eraill.
+      terms_4: 4. TELERAU.
+      p_4: Mae'r Cytundeb yn llawn yn parhau mewn grym ac effaith cyn belled ag y
+        byddwch yn defnyddio'r Wefan. Gallwch rhoi'r gorau i fod y Defnyddiwr y Wefan
+        drwy gael gwared ar eich tudalen ar unrhyw adeg, am unrhyw reswm, drwy gysylltu
+        â'n Gwasanaeth Cwsmeriaid ar-lein neu drwy ddefnyddio'r gwasanaeth o'r Wefan.
+        Mae'r Cwmni yn cadw'r ei hawl i ddileu eich tudalen personol ar unrhyw adeg.
+        Nid oes rhaid i roi gwybod i chi cyn ei dileu y dudalen, os yw'r Cwmni wedi
+        rheswm i gredu eich bod wedi sathru y telerau y Cytundeb. Nid oes rhaid i
+        ddatgelu y rheswm dros ddileu eich cyfrif; mewn rhai achosion gall datgelu
+        gwybodaeth o'r fath yn cael ei wahardd. Ar ôl y dileu eich tudalen, yr holl
+        amodau a allai fod yn ddilys ar ôl terfynu'r Cytundeb hwn oherwydd eu natur
+        mewn grym ar ôl terfyniad o'r fath. Os byddwch yn dileu eich tudalen drwy'r
+        Wefan yn eich ewyllys eich hun, efallai y byddwn yn gofyn i chi nodi rheswm
+        yr dileu o'r fath.
+      account_security: 5. DIOGELWCH CYFRIF.
+      p_5: Rydych yn gyfrifol am gyfrinachedd gadw eich enw defnyddiwr a chyfrinair,
+        a fydd yn cael ei osod ar adeg y cofrestru. Hefyd, eich bod yn hollol gyfrifol
+        am holl gamau gweithredu sy'n digwydd o dan eich enw defnyddiwr a chyfrinair.
+        Rydych yn cytuno i (a) hysbysu ni ar unwaith am unrhyw ddefnydd heb awdurdod
+        o'ch mewngofnodi a chyfrinair, yn ogystal ag unrhyw groes diogelwch eraill,
+        a (b) allanfa o'ch cyfrif ar ddiwedd pob sesiwn. Nid yw'r Wefan yn gyfrifol
+        am unrhyw ddifrod neu golledion sy'n deillio o beidio â chydymffurfio y ddarpariaeth
+        hon. Dylech fod yn arbennig o ofalus wrth gael mynediad at eich cyfrif drwy
+        gyfrifiadur cyhoeddus er na allai pobl heb awdurdod sbïo neu gofnodi eich
+        cyfrinair neu unrhyw wybodaeth bersonol arall. Byddwch hefyd yn cadarnhau
+        ac yn cytuno fod y Rhyngrwyd yn byth yn hollol breifat a diogel. Rydych yn
+        deall y gallai unrhyw negeseuon neu wybodaeth i chi bostio ar y Wefan yn cael
+        ei darllen neu ei ddefnyddio gan ddefnyddwyr eraill, hyd yn oed os oes rhybudd
+        arbennig bod yr wybodaeth yn gudd.
+      your_interaction_with_other_users_of_the_website: 6. EICH RHYNGWEITHIO Â DEFNYDDWYR
+        ERAILL O'R WEFAN.
+      p_6: a. YDYCH YN UNIG YN GYFRIFOL AM EICH RHYNGWEITHIO Â DEFNYDDWYR ERAILL.
+        DYLECH DEALL NAD YW'R CWMNI YN DDILYSU EU DEFNYDDWYR AR oes ganddynt COFNOD
+        TROSEDDOL. Y CWMNI NI HEFYD YN GOFYN Y WYBODAETH AM Y GORFFENNOL EU DEFNYDDWYR
+        A HEB ddilysu gwybodaeth HWN. Y CWMNI YN RHOI UNRHYW WARANT YNGHYLCH BEHAVIOR
+        DEFNYDDWYR A'U GYDNAWS Â DEFNYDDWYR GWIRIONEDDOL NEU YN Y DYFODOL. AR YR UN
+        PRYD Mae'r Cwmni yn cadw'r hawl i wirio DEFNYDDWYR AM COFNOD TROSEDDOL NEU
+        WNEUD DILYSU ARALL AR UNRHYW ADEG GAN DDEFNYDDIO GWYBODAETH GYHOEDDUS AR GAEL.
+        b. YN DIM ACHOSION NAD YW'R CWMNI YN GYFRIFOL AM UNRHYW DDIFROD a ydynt yn
+        UNIONGYRCHOL, ANUNIONGYRCHOL, CYFFREDINOL NEU WEDI A NATUR PENODOL, IAWNDAL
+        A / NEU ACHLYSUROL, A GEIR GAN CHI NEU UNRHYW UNIGOLION ERAILL O GANLYNIAD
+        I DDEFNYDDIO'R Y WEFAN, GAN GYNNWYS, OND HEB EI GYFYNGU I, ANAFIADAU cORFFOROL,
+        sTRAEN A / NEU IAWNDAL ERAILL, A GEIR GAN CHI O GANLYNIAD I GYFATHREBU NEU
+        CYFARFODYDD Â DEFNYDDWYR COFRESTREDIG ERAILL O'R WEFAN NEU POBL, EICH BOD
+        YMDRIN Â AR Y WEFAN. RYDYCH YN CYTUNO I GYMRYD pob rhagofal posibl wrth gyfathrebu
+        â'r DEFNYDDWYR ERAILL, YN ENWEDIG MEWN ACHOSION RHAI, pan fyddwch yn penderfynu
+        GWRDD NHW MEWN BYWYD GO IAWN. DYLECH FOD YN YMWYBODOL, BETH NAD YW'R CWMNI
+        YN RHOI GWARANTAU DATGAN NEU YMHLYG YMWNEUD GYDNAWS Â DEFNYDDWYR WEFAN HON.
+        NI DDYLECH CHI ROI Y WYBODAETH ARIANNOL I DDEFNYDDWYR ERAILL O'R WEFAN (ER
+        ENGHRAIFFT Y WYBODAETH AM EICH CREDYD NEU PLASTIG CARDS). c. Gall y Gwasanaeth
+        gyfieithu eich enw neu enw eich tref i ieithoedd eraill; d. Nid yw'r gwasanaeth
+        yn gyfrifol am weithredoedd a restrir yn yr erthygl hon. Rhag ofn nad ydych
+        yn cytuno â nhw yn gyfan gwbl neu'n rhannol, OS GWELWCH YN DDA UNWAITH GADEWCH
+        WEFAN;
+      the_information_posted_by_you_on_flutylove: 7. Y WYBODAETH POSTED GAN CHI AR
+        FLUTYLOVE
+      p_7: a. Chi yn unig sy'n gyfrifol am y wybodaeth y byddwch yn cyhoeddi neu'n
+        arddangos (ati yma wedi hyn "post") ar y Gwasanaeth neu drosglwyddo i Ddefnyddwyr
+        eraill. Ni chaniateir i chi bostio ar y Gwasanaeth, neu drosglwyddo i Ddefnyddwyr
+        eraill unrhyw wybodaeth am gynnwys difenwol, yn anghywir, yn sarhaus, anweddus,
+        di-chwaeth ac ymosodol, mae'r wybodaeth am y cynnwys rhywiol, yn ogystal â
+        gwybodaeth bygythiol neu stelcian, gwybodaeth o natur gwahaniaethu ar sail
+        hil neu gwybodaeth anghyfreithlon, neu unrhyw wybodaeth arall sy'n torri neu'n
+        torri hawliau unrhyw barti arall (gan gynnwys, heb gyfyngiad, hawliau eiddo
+        deallusol, hawliau preifatrwydd a chyhoeddusrwydd). Ni chaniateir i chi ddarparu
+        gwybodaeth anghywir, gamarweiniol neu anghywir i'r Cwmni neu unrhyw Ddefnyddiwr
+        arall. Os yw'r wybodaeth a ddarparwyd i'r cwmni Flutylove neu'r Defnyddiwr
+        arall wedyn yn dod yn anghywir, gamarweiniol o ffug, mae'n rhaid i chi roi
+        gwybod i'r cwmni Flutylove o newid o'r fath ar unwaith. Byddwch yn cyflwyno
+        ac yn gwarantu bod yr holl wybodaeth a ddarparwyd yn ystod cofrestru yn gywir
+        ac yn wir, ac i chi ar unwaith yn newid unrhyw wybodaeth sydd wedyn yn dod
+        yn anghywir, gamarweiniol neu anghywir. b. Rydych yn deall ac yn cytuno ein
+        bod yn cadw'r hawl, ond nid rhaid i fonitro'r wybodaeth neu gynnwys sy'n cael
+        ei drosglwyddo i'r Gwasanaeth neu ei bostio mewn mynediad cyhoeddus ar y Gwasanaeth.
+        Mae gennym hawl i ddileu unrhyw ran o'r wybodaeth neu gynnwys o'r fath heb
+        aseinio unrhyw resymau a hysbysu. c. Yr holl wrthrychau harddangos ar y Wefan,
+        gan gynnwys elfennau dylunio, testun, graffeg, darluniau, fideos, sgriptiau,
+        rhaglenni, cerddoriaeth, synau a gwrthrychau eraill a'u llyfrgelloedd (ati
+        yma wedi hyn - Gwybodaeth), yn eiddo hawliau neilltuedig y Cwmni, y Defnyddwyr
+        deiliaid Wefan a hawliau eraill, holl hawliau i gwrthrychau hyn yn cael eu
+        diogelu. d. Ac eithrio fel y sefydlwyd yn unol â'r Cytundeb hwn, yn ogystal
+        â'r ddeddfwriaeth gyfredol o Ffederasiwn Rwsia, ni chaiff unrhyw wybodaeth
+        ei gopïo (atgynhyrchwyd), eu prosesu, eu dosbarthu, eu harddangos mewn ffrâm,
+        a gyhoeddwyd, llwytho i lawr, ei drosglwyddo, ei werthu neu ei ddefnyddio
+        mewn ffyrdd eraill yn cyfan neu mewn darnau heb ganiatâd ymlaen llaw gan y
+        deiliad, oni bai bod y deiliad hawliau a fynegir yn benodol ei ganiatâd i'r
+        defnydd am ddim o'r Gwybodaeth gan unrhyw unigolyn. e. Drwy bostio'r Gwybodaeth
+        am y Wefan gyfreithlon perthyn i'r Defnyddiwr, mae'r Defnyddiwr yn darparu
+        mynediad i ddefnyddwyr eraill ar gyfer hawl anghyfyngedig i'w ddefnyddio drwy
+        edrych, playback (gan gynnwys copïo) a hawliau eraill at ddibenion defnydd
+        personol anfasnachol yn unig, oni bai fod achosion pan fydd defnydd o'r fath
+        yn achosi neu a allai achosi niwed i fuddiannau y deiliad cywir diogelu gan
+        y gyfraith. f. Mae defnyddio y Wybodaeth gan y Defnyddiwr, y rhoddwyd enillwyd
+        yn unig ar gyfer defnyddio personol anfasnachol, caniateir ar yr amod y bydd
+        yr holl arwyddion o awduraeth (hawlfreintiau) neu hysbysiadau eraill o awduraeth
+        yn cael ei gadw, enw'r awdur a'i chynnyrch Bydd yn cael ei adael heb newid.
+        g. Mae'r Defnyddiwr hefyd yn rhoi y Cwmni gyda hawl anghyfyngedig i ddefnyddio'r
+        wybodaeth postio ar y Wefan a berthyn iddo / iddi yn gyfreithlon heb ystyriaeth
+        er mwyn sicrhau gweithrediad y Wefan y Cwmni o fewn berfformiad y bensaernïaeth
+        ac ymarferoldeb y Wefan. Yr hawl di-gyfyngedig cyfeiriwyd uchod yn cael ei
+        roi ar gyfer y lleoliad Cynnwys ar y Wefan ac mae'n ymdrin â'r diriogaeth
+        y gwledydd ar draws y byd. Mae gan y Cwmni hawl i drosglwyddo hawliau y cyfeirir
+        atynt paragraff hwn i drydydd parti. Defnyddiwr yn cytuno bod gan y Cwmni
+        hawl i ddefnyddio opsiynau ymarferol a thechnegol y Wefan, gan ddarparu arddangos
+        rannu Cynnwys gan y Defnyddiwr, gan gynnwys dibenion arddangos gwybodaeth
+        hysbyseb. hi. Rhag ofn y Defnyddiwr yn dileu'r wybodaeth o wefan, bydd hawl
+        di-gyfyngedig yn cael ei diddymu yn awtomatig, ond oherwydd y manylebau technegol
+        y Wefan y Cwmni yn cadw'r hawl i arbed copïau wrth gefn o'r Gwybodaeth o fewn
+        yr amser gofynnol a lle bo angen. i. Ar wahân i'r wybodaeth breifat, mae gan
+        y Defnyddiwr nid oes hawl i lwytho, neu ddatgelu mewn ffordd wahanol (trwy
+        gyhoeddi ar y Wefan) Gwybodaeth am safleoedd eraill, cronfeydd data ac eiddo
+        deallusol eraill yn absenoldeb fynegwyd yn benodol caniatâd i gamau o'r fath
+        gan y hawlfraint perchennog. j. Oni fel arall yn cael ei nodi yn y Rheoliadau
+        hyn, ni all unrhyw beth yn y Rheoliadau hyn yn cael eu hystyried fel trosglwyddo
+        hawliau unigryw i'r Wybodaeth. k. rhaid i'r holl wybodaeth yr ydych yn cyhoeddi
+        ar eich proffil defnyddiwr, fod yn gywir, hyd yn gyfredol ac yn gyflawn. Mae'r
+        Defnyddiwr yn gwbl unig sy'n gyfrifol am unrhyw Wybodaeth a gafodd ei lwytho
+        neu ei datgelu yn ffordd wahanol (postio) ar y Wefan neu gyda chymorth y Defnyddiwr.
+        Nid oes gan y Defnyddiwr hawl i lwytho, trosglwyddo neu bostio'r Cynnwys ar
+        y Wefan, os nad yw ef / oes ganddi'r hawliau priodol i gymryd camau o'r fath,
+        a gaffaelwyd neu a ddirprwywyd iddo / iddi yn unol â deddfwriaeth y Ffederasiwn
+        Rwsia. Nid oes rhaid i'r Cwmni galluog, ond, i bori Wefan at unrhyw Gynnwys
+        anghyfreithlon ac yn cael ei ganiatáu i ddileu neu symud (heb rybudd) unrhyw
+        Gynnwys neu ddefnyddwyr yn ei disgresiwn llwyr, am unrhyw reswm neu heb achosion,
+        gan gynnwys heb gyfyngiad i symud, neu ddileu gwybodaeth sydd, yn ôl barn
+        unigol y Cwmni torri Cytundeb hwn, mae'r ddeddfwriaeth o Ffederasiwn Rwsia
+        a / neu gall torri hawliau, anafu, neu beryglu diogelwch defnyddwyr eraill
+        neu drydydd parti. Mae'r wefan yn cynnwys (neu gall gynnwys) yn cysylltu i
+        safleoedd eraill ar y Rhyngrwyd (gwefannau trydydd partïon) yn ogystal ag
+        erthyglau, ffotograffau, darluniau, graffeg, cerddoriaeth, sain, fideo, gwybodaeth,
+        ceisiadau, meddalwedd a gwybodaeth arall sy'n perthyn i neu'n dod gan drydydd
+        parti (y cynnwys trydydd parti), sy'n ganlyniad o weithgaredd deallusol ac
+        yn cael ei ddiogelu yn unol â'r ddeddfwriaeth y Ffederasiwn Rwsia. Nid yw'r
+        rhain drydydd partïon a'u gwybodaeth yn cael eu gwirio gan y Cwmni am gydymffurfio
+        â hyn neu Ofynion eraill (cywirdeb, cyflawnrwydd, gonestrwydd, ac ati). Nid
+        yw'r Cwmni yn gyfrifol am unrhyw gynnwys ar y safleoedd trydydd parti y mae'r
+        enillion Defnyddiwr gael mynediad drwy'r Wefan neu drwy'r wybodaeth trydydd
+        parti, gan gynnwys, ond heb fod yn gyfyngedig i unrhyw safbwyntiau neu ddatganiadau
+        a fynegir ar y safleoedd trydydd parti neu yn eu gwybodaeth. Mae'r cyswllt
+        i unrhyw safle, cynnyrch, a gwasanaeth, nid unrhyw wybodaeth o natur fasnachol
+        ac anfasnachol a gynhwysir ar y Wefan hon yn cymeradwyaeth neu argymhelliad
+        ar gyfer y cynhyrchion hyn (gwasanaethau) gan y Cwmni. Os bydd y Defnyddiwr
+        penderfynu gadael y Wefan a mynd i wefannau trydydd partïon neu i ddefnyddio
+        neu gosod meddalwedd trydydd parti, bydd ef / hi yn gwneud hynny ar eu menter
+        eu hunain ac oddi wrth y hyn o bryd bellach mae'r Rheoliadau hyn yn cael eu
+        cymhwyso at y Defnyddiwr. camau gweithredu Defnyddiwr pellach yn cael eu harwain
+        gan y rheolau a pholisïau perthnasol, gan gynnwys arferion busnes yr unigolion
+        hynny y mae eu gwybodaeth ef / hi yn mynd i ddefnyddio'r.
+      forbidden_actions: 8. GWEITHREDIADAU waharddedig.
+      p_8: a. Mae'n gwahardd i "gadw llygad barcud ar" neu aflonyddu ar unrhyw berson
+        mewn ffordd arall. b. Mae'n gwahardd i ddefnyddio bots, firysau, ceisiadau
+        i chwilio safleoedd / dyfyniad, neu ddyfeisiau llaw neu awtomatig eraill neu
+        brosesau i echdynnu, mynegai, "ysbïo" neu atgynhyrchu mewn ffordd arall neu
+        drechu strwythur llywio ac arddangos y Gwasanaeth neu ei chynnwys . c. Mae'n
+        gwahardd i bostio, dosbarthu, neu atgynhyrchu mhob ffordd unrhyw wybodaeth
+        hawlfraint, nodau masnach, neu wybodaeth arall a ddiogelir gan hawlfraint
+        heb ganiatâd ymlaen llaw gan berchennog yr hawlfraint. d. Mae'n gwahardd i
+        gael gwared ar unrhyw hawlfreintiau, nodau masnach neu hysbysiadau hawlfraint
+        arall a gynhwysir ar y Gwasanaeth. e. Mae'n gwahardd i ymyrryd mewn neu darfu
+        ar weithrediad y Gwasanaeth a'r Wefan, neu'r gwasanaethau a rwydweithiau sy'n
+        gysylltiedig â'r Gwasanaeth neu'r Wefan. f. Mae'n gwahardd i gyhoeddi, e-bost
+        neu drosglwyddiad mewn ffordd wahanol unrhyw wybodaeth sy'n cynnwys firysau
+        neu unrhyw god cyfrifiadurol eraill, ffeiliau neu raglenni a gynlluniwyd i
+        ymyrryd, dinistrio neu gyfyngu ar ymarferoldeb unrhyw offer meddalwedd cyfrifiadurol,
+        caledwedd neu telathrebu. g. Mae'n gwahardd i ffugio penawdau neu drin y dynodiad
+        at y diben o celu gwir ystyr o unrhyw wybodaeth a rennir drwy'r Gwasanaeth.
+        h. Mae'n gwahardd i "efail" neu "copi" unrhyw ran o'r Gwasanaeth neu'r Wefan
+        heb ganiatâd ysgrifenedig ymlaen llaw gan Flutylove. Hefyd, efallai na fyddwch
+        yn defnyddio unrhyw tagiau neu god meta, neu ddyfeisiau eraill sy'n cynnwys
+        unrhyw gysylltiadau i Flutylove, Gwasanaeth neu Wefan er mwyn ailgyfeirio
+        unrhyw berson i safle arall at unrhyw ddiben. i. Mae'n gwahardd i newid, addasu,
+        isdrwyddedu, cyfieithu, gwerthu, ailstrwythuro, dehongli, dadgrynhoi neu dadosod
+        unrhyw ran o'r Gwasanaeth neu'r Wefan, neu unrhyw feddalwedd a ddefnyddir
+        ar y Wefan neu ar ei gyfer, yn ogystal â yn annog eraill i gymryd camau tebyg
+        . j. Mae'n gwahardd i bostio unrhyw wybodaeth gyda chynnwys pornograffig a
+        / neu erotig.
+      the_changes_in_the_service: 9. NEWIDIADAU YN Y GWASANAETH.
+      p_9: Flutylove yn cadw'r hawl ar unrhyw adeg i newid neu analluoga 'r Gwasanaeth
+        dros dro neu'n barhaol (neu unrhyw mae'n rhan) heb rybudd. Rydych yn cytuno
+        nad yw Flutylove yn gyfrifol i chi nac i unrhyw drydydd parti am unrhyw addasiadau,
+        argaeledd dros dro neu anablu cyflawn o'r Gwasanaeth.
+      ip_address_blocking: 10. IP Blocio CYFEIRIAD.
+      p_10: Er mwyn diogelu cyfanrwydd y Wefan, Flutylove yn cadw'r hawl ar unrhyw
+        adeg yn ei gyfleustra hun i rwystro cyfeiriadau IP penodol Defnyddwyr.
+      relations_between_users_online: 11. CYSYLLTIADAU RHWNG DEFNYDDWYR AR-LEIN
+      p_11: Rydych yn unig sy'n gyfrifol am eich rhyngweithio â defnyddwyr eraill
+        Flutylove. Flutylove yn cadw'r hawl, ond nid y rhwymedigaeth, i fonitro anghydfodau
+        rhyngoch chi a defnyddwyr eraill.
+      security_and_communication: 12. DIOGELWCH A CHYFATHREBU.
+      p_12: Defnyddio y Wefan a / neu'r Gwasanaeth hefyd yn cael ei reoli gan ein
+        Polisi Preifatrwydd. Pan fyddwch yn dod yn Ddefnyddiwr, rydych yn cytuno a
+        chaniatâd i dderbyn negeseuon e-bost oddi wrthym. Gall y rhain negeseuon e-bost
+        yn cynrychioli'r hysbysiadau am weithrediadau neu hysbysiadau eraill sy'n
+        gysylltiedig â'r Gwasanaeth, megis hysbysiadau gweinyddol a chyhoeddiadau
+        swyddogol am y newidiadau, neu negeseuon e-bost sy'n cynnwys cynigion masnachol,
+        deunyddiau hyrwyddo, cynigion arbennig oddi wrthym, neu wybodaeth am y camau
+        defnyddwyr eraill yn ymwneud â'ch cyfrif defnyddiwr. Darllenwch ein Polisi
+        Preifatrwydd os gwelwch yn dda i wybod mwy am hysbysiadau o'r fath.
+      denial_of_responsibility: 13. Ymosodiad Gwrthod CYFRIFOLDEB.
+      p_13: a. Nid Flutylove yn gyfrifol am unrhyw wybodaeth anghywir neu anghywir
+        postio ar y Wefan neu yn gysylltiedig â'r Gwasanaeth, defnyddwyr y Wefan neu
+        unrhyw galedwedd neu feddalwedd sy'n gysylltiedig â'n Gwasanaeth neu'r ddefnyddir
+        yno. Nid Flutylove yn gyfrifol am ymddygiad, ar-lein ac all-lein, o unrhyw
+        defnyddiwr y Wefan. Nid Flutylove yn ymgymryd â chyfrifoldebau am unrhyw wallau,
+        hepgoriadau, ymyriadau, dileu, difrodi neu oedi wrth weithredu neu weithrediadau,
+        methiant llinell gyfathrebu, lladrad neu ddinistrio, mynediad heb awdurdod
+        neu newid o linellau cyfathrebu y defnyddiwr. Nid Flutylove yn gyfrifol am
+        unrhyw broblemau neu gamweithio technegol unrhyw rwydweithiau ffôn neu linellau,
+        systemau cyfrifiadurol ar-lein, gweinyddwyr neu ddarparwyr, offer cyfrifiadurol,
+        meddalwedd, post neu chwaraewyr methiant yn y cyfrif defnyddiwr, problemau
+        technegol neu dagfeydd ar y Rhyngrwyd neu ar unrhyw wefan neu ei gyfuniad,
+        gan gynnwys damweiniau neu anaf i ddefnyddwyr neu unrhyw drydydd parti sy'n
+        gysylltiedig â chyfrifiadur, neu o ganlyniad i gymryd rhan mewn neu lawrlwytho
+        gwybodaeth sy'n ymwneud â'r rhwydwaith a / neu'r Gwasanaeth. O dan unrhyw
+        amgylchiadau y Cwmni Flutylove neu unrhyw un o'i dadogi, asiantau hysbysebu,
+        sefydlwyr neu bartneriaid dosbarthu na fydd yn gyfrifol am unrhyw golled neu
+        ddifrod, gan gynnwys anaf personol neu farwolaeth, oherwydd o ddefnyddio o'r
+        Wefan neu'r Gwasanaeth, unrhyw Gynnwys postio ar y Wefan , neu unrhyw rhyngweithio
+        rhwng defnyddwyr y Wefan, ar-lein ac all-lein. Mae'r Wefan a'r Gwasanaeth
+        yn cael ei ddarparu ar sail FEL AG Y MAE, a Flutylove yn benodol yn gwadu
+        unrhyw warantau neu addasrwydd at ddiben penodol, neu ddiffyg troseddu yn
+        erbyn hawliau unrhyw un. Ni all Flutylove warantu ac nid yw'n addo unrhyw
+        ganlyniadau penodol o'r defnyddio y Wefan a / neu'r Gwasanaeth.
+      links: 14. CYSYLLTIADAU.
+      p_14: a. Nid Flutylove yn gyfrifol am unrhyw wybodaeth anghywir neu anghywir
+        postio ar y Wefan neu yn gysylltiedig â'r Gwasanaeth, defnyddwyr y Wefan neu
+        unrhyw galedwedd neu feddalwedd sy'n gysylltiedig â'n Gwasanaeth neu'r ddefnyddir
+        yno. Nid Flutylove yn gyfrifol am ymddygiad, ar-lein ac all-lein, o unrhyw
+        defnyddiwr y Wefan. Nid Flutylove yn ymgymryd â chyfrifoldebau am unrhyw wallau,
+        hepgoriadau, ymyriadau, dileu, difrodi neu oedi wrth weithredu neu weithrediadau,
+        methiant llinell gyfathrebu, lladrad neu ddinistrio, mynediad heb awdurdod
+        neu newid o linellau cyfathrebu y defnyddiwr. Nid Flutylove yn gyfrifol am
+        unrhyw broblemau neu gamweithio technegol unrhyw rwydweithiau ffôn neu linellau,
+        systemau cyfrifiadurol ar-lein, gweinyddwyr neu ddarparwyr, offer cyfrifiadurol,
+        meddalwedd, post neu chwaraewyr methiant yn y cyfrif defnyddiwr, problemau
+        technegol neu dagfeydd ar y Rhyngrwyd neu ar unrhyw wefan neu ei gyfuniad,
+        gan gynnwys damweiniau neu anaf i ddefnyddwyr neu unrhyw drydydd parti sy'n
+        gysylltiedig â chyfrifiadur, neu o ganlyniad i gymryd rhan mewn neu lawrlwytho
+        gwybodaeth sy'n ymwneud â'r rhwydwaith a / neu'r Gwasanaeth. O dan unrhyw
+        amgylchiadau y Cwmni Flutylove neu unrhyw un o'i dadogi, asiantau hysbysebu,
+        sefydlwyr neu bartneriaid dosbarthu na fydd yn gyfrifol am unrhyw golled neu
+        ddifrod, gan gynnwys anaf personol neu farwolaeth, oherwydd o ddefnyddio o'r
+        Wefan neu'r Gwasanaeth, unrhyw Gynnwys postio ar y Wefan , neu unrhyw rhyngweithio
+        rhwng defnyddwyr y Wefan, ar-lein ac all-lein. Mae'r Wefan a'r Gwasanaeth
+        yn cael ei ddarparu ar sail FEL AG Y MAE, a Flutylove yn benodol yn gwadu
+        unrhyw warantau neu addasrwydd at ddiben penodol, neu ddiffyg troseddu yn
+        erbyn hawliau unrhyw un. Ni all Flutylove warantu ac nid yw'n addo unrhyw
+        ganlyniadau penodol o'r defnyddio y Wefan a / neu'r Gwasanaeth.
+      limitation_of_responsibility: 15. CYFYNGIAD CYFRIFOLDEB.
+      p_15: WEFAN A'I SWYDDOGAETHAU YN CYNNWYS HOLL SGRIPTIAU, GEISIADAU, CYNNWYS
+        A DYLUNIAD Y WEFAN YN CAEL EU DARPARU AR SAIL FEL AG Y MAE. Y CWMNI YN DIARDDEL
+        UNRHYW WARANT Y GALL WEFAN NEU EI SWYDDOGAETHAU FOD YN ADDAS NEU ANADDAS I
+        BWRPAS ARBENNIG DEFNYDD. NI ALL Y CWMNI WARANT HEB ADDO UNRHYW CANLYNIADAU
+        PENODOL O DDEFNYDDIO AR WEFAN A / NEU EI SWYDDOGAETHAU; Er mwyn osgoi dryswch,
+        DYLAI'R DEFNYDDIWR ARSYLWI RHAGOFALON DIOGELWCH wrth lawrlwytho O'R WEFAN
+        NEU DRWY CYSYLLTIADAU POSTED, A DEFNYDDIO UNRHYW FILES, YN OGYSTAL Â MEDDALWEDD.
+        Y CWMNI ARGYMHELLIR IAWN I DDEFNYDDIO MEDDALWEDD TRWYDDEDIG YN UNIG YN OGYSTAL
+        AG antivirus MEDDALWEDD; GAN DDEFNYDDIO'R WEFAN, Y DEFNYDDIWR CYTUNO BOD DOWNLOADS
+        O'R SAFLE NEU Â'I HELP UNRHYW GYNNWYS YN EI / EI HUN RISG A UNIG YN GYFRIFOL
+        AM CANLYNIADAU POSIBL O DDEFNYDDIO'R O WYBODAETH HON, YN CYNNWYS UNRHYW DDIFROD
+        y gallai ACHOSI I CYFRIFIADUR DEFNYDDIWR NEU I DRYDYDD PARTÏON, COLLI DATA,
+        NEU UNRHYW DDIFROD ARALL; DAN UNRHYW AMGYLCHIADAU Y CWMNI NEU EI ASIANTAU
+        BEAR DIM CYFRIFOLDEB I'R DEFNYDDIWR NEU I UNRHYW DRYDYDD PARTI AM UNRHYW DDIFROD
+        ANUNIONGYRCHOL, DAMWEINIOL A UNWILFUL, YN CYNNWYS COLLI BUDD-DAL, NEU DATA
+        LOST, DIFROD I anrhydedd, URDDAS NEU ENW DA BUSNES, CODI O DEFNYDD O'R wEFAN,
+        EI CYNNWYS NEU UNRHYW WYBODAETH ARALL Y MAE CHI NEU UNRHYW BERSON ARALL A
+        DDERBYNIWYD MYNEDIAD DRWY'R wEFAN, HYD YN OED OS Y CWMNI rhybuddio NEU dangos
+        Y POSIBILRWYDD O IAWNDAL O'R FATH.
+      responsibilities_of_the_parties: 16. CYFRIFOLDEBAU'R PARTÏON.
+      p_16: Mae'r Cytundeb hwn yn cael ei lywodraethu gan a'i ddehongli yn unol â'r
+        ddeddfwriaeth y Ffederasiwn Rwsia. Bydd materion nad oedd yn setlo gan y Cytundeb
+        yn cael ei setlo yn unol â'r ddeddfwriaeth y Ffederasiwn Rwsia. Mewn achos
+        unrhyw anghydfod neu ddadleuon yn ymwneud â Rheoliadau hyn ar waith, bydd
+        y Defnyddiwr a'r Cwmni yn gwneud pob ymdrech i'w datrys drwy drafodaethau.
+        Rhag ofn na fydd y anghydfodau datrys gan drafodaethau, bydd y anghydfodau'n
+        cael eu setlo yn unol â'r ddeddfwriaeth berthnasol y Ffederasiwn Rwsia. Mae'r
+        Cytundeb hwn yn cael ei gyflawni mewn iaith Rwsieg a gellir ei ddarparu i'r
+        Defnyddiwr ar gyfer adolygiad mewn iaith arall. Mewn achos o anghysondeb o
+        fersiwn y Rheoliadau mewn iaith Rwsieg ac mae ei fersiwn mewn iaith arall,
+        bydd y fersiwn mewn iaith Rwsieg o ddarpariaethau'r Rheoliad hwn yn cael eu
+        cymhwyso. Os am ​​ryw reswm neu'i gilydd, bydd un neu ragor o ddarpariaethau'r
+        Rheoliadau hyn ei ddatgan yn annilys neu ddi-rym, nid yw hyn yn effeithio
+        ar ddilysrwydd neu orfodadwyedd gweddill y darpariaethau.
+      other_provisions_and_changes: 17. DARPARIAETHAU A NEWIDIADAU ERAILL.
+      p_17: Mae'r Cytundeb hwn yn y cytundeb gwir rhyngoch chi a'r Flutylove ynglŷn
+        â defnyddio y Wefan a / neu'r Gwasanaeth. Os bydd unrhyw ddarpariaeth yn y
+        Cytundeb hwn eiddo gwag, gweddill y Cytundeb yn parhau i fod ei ddilysrwydd
+        mewn grym llawn. Efallai y Cytundeb hwn yn cael ei ddiwygio gan Flutylove
+        ar unrhyw adeg. Peidiwch ag oedi i gysylltu â ni gydag unrhyw gwestiynau ynghylch
+        y Cytundeb hwn.
+      read_this: Rwy'n WEDI DARLLEN Y CYTUNDEB HWN A CHYTUNO I EI HOLL TELERAU.
+    about:
+      about_flutylove: Ynglŷn Flutylove
+      about_flutylove_text: Flutylove yw'r rhwydwaith adloniant cymdeithasol rhyngwladol
+        ar gyfer datings. Yma gallwch ddod o hyd i ffrindiau, mae cymar, partner neu
+        ddim ond yn treulio eich amser gyda fwynhau drwy chwarae gemau neu wylio fideos
+        / ffotograffau.
+      flutylove_features: 'Pryd y byddwch yn cofrestru ar ein safle, gallwch ddarganfod
+        llawer o nodweddion megis:'
+      video_call_feature: Gallwch sgwrsio gyda phartner gyda webcam
+      extended_search: Gallwch ddefnyddio chwilio estynedig ar gyfer rhad ac am ddim
+      multilanguages: Gallwch chwilio partneriaid o wledydd eraill, gan fod ein gwasanaeth
+        disgwyliedig eu defnyddio gan amrywiaeth eang o bobl o wledydd eraill gan
+        ei fod yn cael ei gyfieithu yn fwy na 70 o ieithoedd
+      play_games_chatting_etc: Gallwch sgwrsio gyda phobl eraill, yn chwarae gemau
+        a gwneud bwydydd cymdeithasol arall
+      we_are_in_social_networks: 'Rydym mewn rhwydweithiau cymdeithasol:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: VKontakte
+      google_plus: Google a
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Rydym yn defnyddio technolegau uchel
+        a llyfrgelloedd ffynhonnell agored. Rydym bob amser yn ceisio cael gwell a
+        gwella ein gwasanaeth.
+      partners_and_investors: Rydym yn cael eu hagor ar gyfer partneriaeth a byddem
+        yn hoffi i ddod o hyd i fuddsoddwyr. Os hoffech i gydweithio gyda ni, cysylltwch
+        â ni yn partnership@flutylove.com
+    faq:
+      faq: Cwestiynau Cyffredin
+      what_is_flutylove: Beth yw Flutylove?
+      about_flutylove: Flutylove yw'r rhwydwaith adloniant cymdeithasol rhyngwladol
+        ar gyfer datings. Yma gallwch ddod o hyd i ffrindiau, mae cymar, partner neu
+        ddim ond yn treulio eich amser gyda fwynhau drwy chwarae gemau neu wylio fideos
+        / ffotograffau.
+      what_features_has_flutylove: Pa nodweddion mae gan Flutylove?
+      flutylove_features: Yma gallwch sgwrsio gyda videocams, defnyddiwch chwiliad
+        estynedig, partneriaid chwilio o wledydd eraill, chwarae gemau a gwneud bwydydd
+        cymdeithasol eraill.
+      i_have_some_requests: gennyf rai ceisiadau
+      you_can_write_request: Gallwch gofrestru ac yn ei ysgrifennu
+      here: yma
+      i_have_seen_some_typo_or_wrong_translation: Rwyf wedi gweld rhai typo neu gyfieithiad
+        anghywir
+      you_can_send_pull_request_to_our: Gallwch anfon Cais Tynnu i'n
+      i_have_seen_some_error: wyf wedi gweld rhyw wall
+      you_can_send: Gallwch anfon adborth atom drwy
+      feedback: ffurflen hon
+      to_us_or_write_to_our_info_mail: neu ysgrifennu e-bost at support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Croeso i Flutylove
+      you_have_successfully_signed_up_to_flutylove: Rydych wedi llofnodi llwyddiannus
+        hyd at Flutylove
+      you_can_sign_in_with_your_social_networks: Os hoffech chi arwyddo i mewn eto,
+        gallwch fewngofnodi gyda'ch cyfrif rhwydwaith cymdeithasol
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Os
+        hoffech chi arwyddo i mewn gyda e-bost a chyfrinair gallwch newid cyfrinair
+        trwy arwydd allan ac cliciwch i gysylltu isod
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: anghywir
+            search_for:
+              search_for_error: anghywir
+            my_turn_ons:
+              my_turn_ons_error_error: anghywir
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: Mae gwerth annilys
+  devise:
+    confirmations:
+      confirmed: eich cyfrif ei gadarnhau yn llwyddiannus.
+      send_instructions: Byddwch yn derbyn e-bost gyda chyfarwyddiadau ynghylch sut
+        i gadarnhau eich cyfrif mewn ychydig funudau.
+      send_paranoid_instructions: Os yw eich cyfeiriad e-bost yn bodoli yn ein cronfa
+        ddata, byddwch yn derbyn e-bost gyda chyfarwyddiadau ynghylch sut i gadarnhau
+        eich cyfrif mewn ychydig funudau.
+      new:
+        send_mail_for_confirm_your_email: Anfon post ar gyfer gadarnhau eich e-bost
+        submit: Cyflwyno
+    failure:
+      already_authenticated: Rydych eisoes yn cael eu llofnodi i mewn.
+      inactive: Mae eich cyfrif yn cael ei actifadu eto.
+      invalid: e-bost annilys neu gyfrinair.
+      locked: Mae eich cyfrif yn cael ei gloi.
+      last_attempt: Mae gennych un ymgais mwy cyn y bydd eich cyfrif yn cael ei gloi.
+      not_found_in_database: e-bost annilys neu gyfrinair.
+      timeout: eich sesiwn wedi dod i ben. Mewngofnodwch eto i barhau.
+      unauthenticated: Rydych angen arwyddo mewn neu gofrestru ar cyn parhau.
+    mailer:
+      confirmation_instructions:
+        subject: cyfarwyddiadau Cadarnhad
+        welcome_to_flutylove: Croeso i Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Gallwch gadarnhau
+          eich e-bost drwy'r ddolen isod
+        confirm_my_account: Cadarnhau fy e-bost
+      reset_password_instructions:
+        hello: Helo
+        subject: cyfarwyddiadau cyfrinair Ailosod
+        change_my_password: Newid fy nghyfrinair
+        if_you_didnt_request_this_please_ignore_this_email: Os na wnaethoch chi ofyn
+          am hyn, anwybyddwch e-bost hwn.
+      unlock_instructions:
+        subject: Cyfarwyddiadau Unlock
+    omniauth_callbacks:
+      failure: Ni Allech chi ddilysu o% {fath} oherwydd "% {rheswm}".
+      success: dilysu'n llwyddiannus o% cyfrif {fath}.
+    passwords:
+      no_token: Rydych yn methu cael mynediad y dudalen hon heb ddod o e-bost i ailosod
+        eich cyfrinair. Os byddwch yn dod o e-bost i ailosod eich cyfrinair, gwnewch
+        yn siŵr eich bod yn defnyddio'r URL llawn a ddarperir.
+      send_instructions: Byddwch yn derbyn e-bost gyda chyfarwyddiadau ar sut i ailosod
+        eich cyfrinair mewn ychydig funudau.
+      send_paranoid_instructions: Os yw eich cyfeiriad e-bost yn bodoli yn ein cronfa
+        ddata, byddwch yn derbyn dolen adferiad password yn eich cyfeiriad e-bost
+        mewn ychydig funudau.
+      updated: Mae eich cyfrinair wedi newid yn llwyddiannus. Yr ydych yn awr yn cael
+        eu llofnodi i mewn.
+      updated_not_active: Mae eich cyfrinair wedi newid yn llwyddiannus.
+      new:
+        forgot_your_password: Adennill eich cyfrinair
+        reset_password: Anfon adennill url
+      edit:
+        change_your_password: Newid eich cyfrinair
+        new_password: cyfrinair newydd
+        change_password: Newid
+    registrations:
+      destroyed: Bye! Mae eich cyfrif ei ganslo yn llwyddiannus. Rydym yn gobeithio
+        gweld chi eto yn fuan.
+      signed_up: Croeso! Yr ydych wedi cofrestru yn llwyddiannus.
+      signed_up_but_inactive: Rydych wedi ymuno yn llwyddiannus. Fodd bynnag, nid
+        oeddem yn gallu llofnodi i chi mewn oherwydd nad yw eich cyfrif yn cael ei
+        actifadu eto.
+      signed_up_but_locked: Rydych wedi ymuno yn llwyddiannus. Fodd bynnag, nid oeddem
+        yn gallu llofnodi i chi mewn oherwydd bod eich cyfrif yn cael ei gloi.
+      signed_up_but_unconfirmed: Neges gyda dolen gadarnhau wedi ei anfon at eich
+        cyfeiriad ebost. Os gwelwch yn dda agor y ddolen i actifadu eich cyfrif.
+      update_needs_confirmation: Rydych yn diweddaru eich cyfrif yn llwyddiannus,
+        ond mae angen i wirio eich cyfeiriad e-bost newydd. Gwiriwch eich e-bost a
+        chlicio ar y ddolen cadarnhau i gwblhau cadarnhau eich cyfeiriad e-bost newydd.
+      updated: Rydych yn diweddaru eich cyfrif yn llwyddiannus.
+      new:
+        sign_up: Cofrestrwch
+        name: Enw
+        password: Cyfrinair
+        register: Cofrestrwch
+    shared:
+      links:
+        sign_in: Mewngofnodi
+        sign_up: Cofrestrwch
+        didnt_receive_confirmation_instructions: Heb dderbyniwyd cyfarwyddiadau cadarnhad?
+        sign_in_with: Mewngofnodi gyda
+        fast_login_almost_one_click: login Cyflym (bron un clic)
+    sessions:
+      signed_in: Llofnodwyd yn llwyddiannus.
+      signed_out: Llofnodwyd allan yn llwyddiannus.
+      new:
+        sign_in: Mewngofnodi
+        password: Cyfrinair
+        remember_me: Cofiwch fi
+        forgot_your_password: Wedi anghofio eich cyfrinair?
+    unlocks:
+      send_instructions: Byddwch yn derbyn e-bost gyda chyfarwyddiadau ynghylch sut
+        i ddatgloi eich cyfrif mewn ychydig funudau.
+      send_paranoid_instructions: Os yw eich cyfrif yn bodoli, byddwch yn derbyn e-bost
+        gyda chyfarwyddiadau ynghylch sut i ddatgloi iddo mewn ychydig funudau.
+      unlocked: Mae eich cyfrif wedi ei datgloi llwyddiannus. Llofnodwch mewn i barhau.
+  timezones:
+    American Samoa: American Samoa
+    International Date Line West: Dyddiad Llinell Rhyngwladol Gorllewin
+    Midway Island: Ynys Midway
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Amser y Môr Tawel (US & Canada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain Amser (US & Canada)
+    Central America: Canolbarth America
+    Central Time (US & Canada): Amser Canolog (Unol Daleithiau a Chanada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Amser Dwyreiniol (US & Canada)
+    Indiana (East): Indiana (Dwyrain)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Amser Iwerydd (Canada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Ynys Las
+    Montevideo: Montevideo
+    Mid-Atlantic: Canol-Iwerydd
+    Azores: Azores
+    Cape Verde Is: Cape Verde Ydy.
+    Casablanca: Casablanca
+    Dublin: Dulyn
+    Edinburgh: Caeredin
+    Lisbon: Lisbon
+    London: Llundain
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrade
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Brwsel
+    Budapest: Budapest
+    Copenhagen: Copenhagen
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Prague
+    Rome: Rhufain
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Vienna
+    Warsaw: Warsaw
+    West Central Africa: Gorllewin Canolbarth Affrica
+    Zagreb: Zagreb
+    Athens: Athen
+    Bucharest: Bucharest
+    Cairo: Cairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Jerusalem
+    Kaliningrad: Kaliningrad
+    Kyiv: Kyiv
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Baghdad
+    Kuwait: Kuwait
+    Minsk: Minsk
+    Moscow: Moscow
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: St Petersburg
+    Volgograd: Volgograd
+    Tehran: Tehran
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Yerevan
+    Kabul: Kabul
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: Delhi Newydd
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Beijing
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapore
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: Caledonia Newydd
+    Solomon Is: Solomon Ydy.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fiji
+    Kamchatka: Kamchatka
+    Marshall Is: Marshall Ydy.
+    Wellington: Wellington
+    Chatham Is: Chatham Ydy.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau Ydy.
+  cy: cy
+  cy_iso: cy

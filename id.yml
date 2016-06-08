@@ -1,0 +1,1727 @@
+---
+id:
+  1_we_have_just_launched_our_service_title: Kami baru saja meluncurkan layanan kami!
+  common_keywords: datings, penentuan waktu online, cinta datings, webcam kencan,
+    kencan kilat, webcam chat kencan, Ruby on Rails situs kencan, multilanguage situs
+    kencan
+  common_description: paling canggih jaringan social entertainment internasional untuk
+    penentuan waktu "Flutylove"
+  user: Pengguna
+  user_to_search_connection: Cari
+  video: Video
+  note: Catatan
+  photo_album: album Foto
+  from: Dari
+  to: Untuk
+  vkontakte: Vkontakte
+  facebook: Facebook
+  twitter: Twitter
+  google_oauth2: Google
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: Pria
+  - female:
+      name: Wanita
+  - transgender:
+      name: Transgender
+  - male-female:
+      name: Pria-Wanita
+  - double-female:
+      name: Dua perempuan
+  - double-male:
+      name: Dua laki-laki
+  orientation:
+  - heterosexual: Heteroseksual
+  - homosexual: Homoseksual
+  - bisexual: Biseks
+  search_for:
+  - chatting: Chatting
+  - get_friends: Dapatkan teman
+  - flirtation: Flirtation
+  - marriage: Pernikahan
+  - other: Lain
+  body_type:
+    slim: Slim
+    normal: normal
+    athletic: Athletic
+    chubby: Chubby
+  relationship:
+    single: Tunggal
+    in_a_relationship: Dalam hubungan
+    married: Menikah
+    nothing_serious: Tidak ada yang serius
+  children:
+    dont_have: Tidak memiliki
+    dont_have_and_dont_want_to: Tidak memiliki dan tidak ingin
+    don_t_have_but_planning: Tidak memiliki tapi perencanaan
+    have_enough: Memiliki
+    have_and_planning_more: Memiliki dan perencanaan yang lebih
+    unable_to_have_children: Tidak dapat memiliki anak
+  living:
+    with_parents: Dengan orang tua
+    with_marriage_partner: Dengan pasangan hidup
+    alone: Sendiri
+    with_friends: Dengan teman (s)
+  education:
+    nothing: Tidak
+    college_technical_college: Perguruan Tinggi / kuliah Teknis
+    university: Universitas
+    postgraduate: Pascasarjana
+    phd_md_post_doctorate: PhD / MD / Pos doktor
+  hair_color:
+    blonde: Blonde
+    dark_blond: pirang gelap
+    brown: Brown
+    black: Hitam
+    red: Red
+    gray: Gray
+    other: Lain
+  income:
+    unemployed: Menganggur
+    unstable_earnings: penghasilan tidak stabil
+    small_stable_earnings: pendapatan yang stabil Kecil
+    medium_stable_earnings: pendapatan yang stabil Medium
+    higher_than_average_income: tinggi dari pendapatan rata-rata
+  smoking:
+    not_smoke: Tidak merokok
+    not_smoke_and_detest: Tidak merokok dan membenci rokok
+    smoke_in_a_social_setting: Terkadang dalam lingkungan sosial
+    smoke_only_after_drinking: asap hanya setelah minum
+    smoke_occasionally: asap sesekali
+    smoke_often: asap sering
+  alcohol:
+    not_drinking: Tidak minum
+    drink_occalionally: Minum sesekali
+    drink_in_a_social_setting: Minum dalam lingkungan sosial
+    drink_often: Minum sering
+  drugs:
+    dont_use: Jangan gunakan
+    contra_drugs: obat Contra
+    tried_out_some: Mencoba beberapa
+    light_drugs_occasionally: obat Cahaya sesekali
+    regular: Regular
+  sponsor:
+    i_want_to_find_a_sponsor: Saya ingin mencari sponsor
+    willing_to_become_a_sponsor: Bersedia untuk menjadi sponsor
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: Tidak mencari sponsor
+      dan tidak bersedia untuk menjadi salah satu
+  category_name:
+    strategy: Strategi
+    rpg: RPG
+    3d_shooters: penembak 3D
+    racing: Racing
+    arcade: Arcade
+    economic: Ekonomi
+    simulators: Simulator
+    logic: Logika
+    adventure: Petualangan
+    board_games: Dewan
+    gambling: Perjudian
+    news: Berita
+    communication: Komunikasi
+    multimedia: Multimedia
+    drawing: Menggambar
+    educational: Pendidikan
+    e_commerce: E-Commerce
+    other: Lain
+  shared:
+    header:
+      people: Orang
+      chat: obrolan
+      groups: Grup
+      forum: Forum
+      requests: Permintaan
+      about: Tentang proyek
+      help: Bantuan
+      user_applications: Aplikasi
+    liked_users:
+      liked: Menginap
+      all: Semua
+      you_have_not_liked_any_users_yet: Anda belum menyukai apapun pengguna belum
+    most_liked_users:
+      most_liked_users: pengguna Populer
+    installed_user_applications:
+      installed_applications: aplikasi Terpasang
+      all: Semua
+      you_have_not_installed_any_apps_yet: Anda belum menginstal aplikasi apa pun
+    user_applications:
+      uploaded_apps: aplikasi yang diunggah
+      all: Semua
+      you_have_not_uploaded_any_apps_yet: Anda belum mengunggah aplikasi apa pun
+    right_sidebar:
+      news: Berita
+      all: Semua
+      read_more: Baca lebih lanjut
+    footer:
+      footer_text: jaringan social entertainment Internasional untuk datings "Flutylove"
+      privacy: Privasi
+      terms: Syarat
+      feedback: Masukan
+      abuse: Penyalahgunaan
+    languages_select_modal:
+      available_languages: Bahasa yang tersedia
+    site_map_modal:
+      faq: FAQ
+      about: Tentang
+      static_pages: halaman statis
+      common_pages: halaman umum
+      user_pages: halaman Pengguna
+      terms: Syarat
+      privacy: Privasi
+      people: Orang
+      user_applications: Aplikasi
+      user_requests: Permintaan
+      news: Berita
+      feedback: Masukan
+      abuse: Penyalahgunaan
+      chats: Chatting
+      photo_albums: Album foto
+      notes: Catatan
+    pagination_link:
+      next_page: Halaman berikutnya
+    user_edit_menu:
+      content: Konten
+      profile: Profil
+      site_settings: pengaturan Site
+      privacy: Privasi
+      services: Layanan
+    activities_navigation:
+      all: Semua
+      photos: Foto
+      photo_albums: Album foto
+      notes: Catatan
+    notifications_navigation:
+      all: Semua
+      likes: Suka
+      friend_requests: permintaan Teman
+      profile_views: Profil dilihat
+      photo_album_views: Foto views
+    user_to_friend_connections_navigation:
+      friends: Teman
+      friends_online: Teman secara online
+      outcome_requests: permintaan Hasil
+      income_requests: permintaan Penghasilan
+    user_applications_navigation:
+      all: Semua
+      new: New
+      popular: Populer
+      often_installed: Sering diinstal
+      manage: Mengelola
+    user_requests_navigation:
+      all: Semua
+      popular: Populer
+      my_requests: permintaan saya
+    user_navbar_menu:
+      sign_in: Masuk
+      sign_up: Mendaftar
+    email_signature:
+      mailer: Mailer
+      technoelegance: Technoelegance Ltd
+    translations:
+      select_gender: Pilih jenis kelamin
+      select_orientation: Pilih orientasi
+      select_search_for: Pilih pencarian
+    need_to_sign_in_modal:
+      you_need_to_sign_in: Anda harus masuk sebelum tindakan ini
+      available_sign_in_methods: Anda
+    sign_up_methods:
+      usual_register_link: pendaftaran biasa
+      register_text: Selain% {usual_registration} Anda dapat mendaftar melalui layanan
+        paling populer dan jaringan sosial
+    bootstrap_gallery:
+      previous: Sebelumnya
+      next: Berikutnya
+    user_notification_title:
+      you_liked: Anda disukai oleh
+      wrote_message_to_you: Menulis pesan kepada Anda
+      viewed_your_profile: Dilihat profil Anda
+      liked_your_photo: Menginap foto Anda
+      liked_your_note: Menginap catatan Anda
+      liked_your_request: Menginap permintaan Anda
+      liked_your_video: Menyukai video Anda
+      liked_your_application: Menginap aplikasi Anda
+      requested_a_friendship: Diminta persahabatan
+  authentications:
+    authentication:
+      turn_on: Aktifkan
+      turn_off: Matikan
+      turned_on: Dihidupkan
+      turned_off: Dimatikan
+    index:
+      enabled_services: layanan Diaktifkan
+  users:
+    profile:
+      submit: bintang
+      name: Nama
+      meet_with: Bertemu dengan
+      gender: Jenis Kelamin
+      type_in_your_location: Ketik kota Anda
+      about_me: Beberapa kata tentang diri Anda (selain untuk membentuk bawah)
+      sex_keywords: Minat seks
+      enter_your_name: Masukkan nama Anda
+      more_options: Lebih
+      orientation: Orientasi
+      location: Lokasi
+      search_for: Cari
+      intimacy: Keintiman
+      in_age: Di usia
+      from: dari
+      to: ke
+      interests: Minat
+      height: Tinggi
+      weight: Berat
+      relationship: Hubungan
+      children: Anak-anak
+      living: Hidup
+      education: Pendidikan
+      jobs: Job
+      income: Penghasilan
+      languages: Bahasa
+      smoking: Merokok
+      alcohol: Alkohol
+      drugs: Obat
+      contacts: Kontak
+      contact_value: Kontak
+      save: bintang
+      about_yourself: Tentang diri
+    settings:
+      submit: bintang
+      locale: bahasa Antarmuka
+      change_password: Ubah password
+      interface_language: bahasa Antarmuka
+    index:
+      users: Pengguna
+      clear_search: Hapus pencarian
+    dashboard:
+      hello: Hello
+      here_some_of_your_statistics: Berikut beberapa statistik
+      chats: Chatting
+      photos: Foto
+      notes: Catatan
+      photo_albums: Album foto
+    avatar:
+      drag_and_drop_your_file: Drag dan drop file Anda
+      here: sini
+      or: atau
+      from_other_sites: Dari situs lainnya
+      write_down_link_for_your_image: Tuliskan link gambar Anda
+      url_for_image: Url untuk gambar
+      upload: Upload
+      from_facebook: Dari Facebook
+      turn_on_facebook: Aktifkan Facebook
+      you_can_upload_your_photos_from_facebook: Anda dapat meng-upload foto Anda dari
+        Facebook
+      from_vkontakte: Dari Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Anda dapat meng-upload foto Anda
+        dari Vkontakte
+      turn_on_vkontakte: Aktifkan Vkontakte
+      from_instagram: Dari Instagram
+      you_can_upload_your_photos_from_instagram: Anda dapat meng-upload foto Anda
+        dari Instagram
+      turn_on_instagram: Aktifkan Instagram
+      from_dropbox: Dari Dropbox
+      you_can_upload_your_photos_from_dropbox: Anda dapat meng-upload foto Anda dari
+        Dropbox
+      turn_on_dropbox: Aktifkan Dropbox
+      edit_photo: Mengedit foto
+      delete_photo: Hapus foto
+      are_you_sure: Apakah Anda yakin?
+    available_photos_modal:
+      available_photos: Foto Tersedia
+    update:
+      your_password_was_successfully_changed: Sandi berhasil diubah
+      your_profile_was_successfully_updated: Profil Anda berhasil diperbarui
+    edit_photo:
+      edit_photo: Mengedit foto
+      crop: Tanaman
+      close: Tutup
+      save_changes: Simpan perubahan
+    contact:
+      contact_name_placeholder: Facebook / Skype / Vk / etc
+      contact_value_placeholder: url / nick / id / etc
+    user:
+      about_me: Tentang saya
+      orientation: Orientasi
+      meet_with: Bertemu dengan
+      desirable_age: usia Diinginkan
+      from: dari
+      to: ke
+      interests: Minat
+      height: Tinggi
+      sm: sm
+      kg: kg
+      relationship: Hubungan
+      children: Anak-anak
+      living: Hidup
+      education: Pendidikan
+      jobs: Jobs
+      income: Penghasilan
+      languages: Bahasa
+      smoking: Merokok
+      alcohol: Alkohol
+      drugs: Obat
+      contacts: Kontak
+    user_info:
+      offline: Offline
+      online: online
+      age: Umur
+    loading_modal_images:
+      loading_images: Memuat gambar
+    password_form:
+      new_password: New password
+      confirm_new_password: Konfirmasi kata sandi baru
+      change_password: Ubah password
+    show:
+      photos: Foto
+      all: Semua
+      notes: Catatan
+      view: View
+    dropbox_token_form:
+      key: Key
+      paste_recieved_key: Paste menerima kunci
+      submit: Kirim
+    contents:
+      users_which_i_like: Pengguna yang saya suka
+      all: Semua
+      my_videos_likes: video seperti saya
+      my_photos_likes: Foto saya suka
+      my_notes_likes: Catatan saya suka
+      my_user_applications_likes: aplikasi saya suka
+      my_user_requests_likes: permintaan saya suka
+    more_profile_info:
+      photo_albums: Album foto
+      view_all_photo_albums: Lihat semua album foto
+      create_more: Buat lebih
+      view_all_videos: Lihat semua video
+      notes: Catatan
+      view_all_notes: Lihat semua catatan
+      requirements_lists_to_partner: Persyaratan diskon untuk mitra
+      requirement: Kebutuhan
+      view_all_requirements_lists: Lihat daftar semua persyaratan
+      profile_verification: Profil verifikasi
+      your_profile_is_successfully_verified: Profil Anda berhasil diverifikasi
+      create: Buat
+      you_have_not_any_requirements_lists_yet: Anda belum persyaratan berisi daftar
+        belum
+      you_have_not_any_notes_yet: Anda belum catatan apa pun
+      you_have_not_any_photo_albums_yet: Anda memiliki tidak ada album foto belum
+      you_have_not_any_videos_yet: Anda memiliki tidak ada video belum
+      your_profile_is_not_verified_yet: Profil Anda belum diverifikasi
+      verify_through_twitter: Verifikasi melalui Twitter
+      verify_through_facebook: Verifikasi melalui Facebook
+      verify_through_mail_ru: Verifikasi melalui Mail.ru
+    privacy:
+      privacy: Privasi
+  searches:
+    form:
+      location: Lokasi
+      from: dari
+      to: ke
+      age: Umur
+      gender: Jenis Kelamin
+    form_content:
+      city: Kota
+      gender: Jenis Kelamin
+      age_from: Umur dari
+      to: ke
+      online: online
+      verified: Diverifikasi
+      has_avatar: Memiliki avatar
+      region: Region
+      more: Lebih
+      country: Negara
+      about_me: Tentang saya
+      interests: Minat
+      languages: Bahasa
+      names: Nama
+      height: Tinggi
+      from: dari
+      weight: Berat
+      relationship: Hubungan
+      education: Pendidikan
+      orientation: Orientasi
+      search_for: Cari
+      children: Anak-anak
+      living: Hidup
+      smoking: Merokok
+      alcohol: Alkohol
+      drugs: Obat
+      income: Penghasilan
+    show:
+      users: Pengguna
+      clear_search: Hapus pencarian
+  welcome:
+    index:
+      people: Orang
+      requests: Permintaan
+      user_applications: Aplikasi
+      about: Tentang
+      features: Fitur
+      registration: Pendaftaran
+      sign_in: Masuk
+      welcome_main_title: Selamat Datang Flutylove!
+      welcome_main_text: ini adalah tempat di mana Anda dapat menemukan cinta yang
+        sempurna Anda
+      find_more: Cari lebih
+      about_title: Flutylove adalah jaringan social entertainment internasional untuk
+        penentuan waktu
+      about_text: Ada banyak fitur yang dapat Anda gunakan untuk hiburan dan penentuan
+        waktu!
+      find_more_features: Cari lebih banyak fitur
+      at_our_service: Fitur layanan kami
+      many_languages: Banyak bahasa
+      text_about_many_languages: Layanan kami diterjemahkan lebih dari 70 bahasa
+      check_it_out: Check it out
+      videochats: Videochats
+      text_about_videochats: Anda dapat chatting dengan pasangan Anda dengan video
+        kamera
+      try_it_now: Coba sekarang
+      search: Cari
+      text_about_search: Anda dapat mencari dengan beberapa parameter dan itu gratis!
+      watch_this: Perhiasan ini
+      more_features: Fitur lainnya
+      text_about_more_features: Anda dapat melihat video, bermain game dan melakukan
+        banyak hal lainnya!
+      register_and_learn_more: Register dan mempelajari lebih lanjut
+      install_our_apps: Install aplikasi kami dari pada platform populer
+      register_header: Pendaftaran
+  feedbacks:
+    new:
+      feedback_title: Masukan
+    form:
+      feedback_name: Nama Anda
+      feedback_email: email Anda
+      close: Tutup
+      send: Kirim
+      feedback_recaptcha: Recaptcha
+      cancel: Batal
+    success:
+      success_feedback: Terima kasih! Kami telah menerima umpan balik Anda.
+      close: Tutup
+      cancel: Batal
+      more: Kirim lebih
+  abuses:
+    new:
+      abuse_title: Penyalahgunaan
+    form:
+      abuse_name: Nama Anda
+      abuse_email: email Anda
+      abuse_title: Penyalahgunaan
+      close: Tutup
+      send: Kirim
+      abuse_recaptcha: Recaptcha
+      abuse_link: Tautan
+      cancel: Batal
+    success:
+      success_abuse: Terima kasih! Kami telah menerima penyalahgunaan Anda.
+      close: Tutup
+      cancel: Batal
+      more: Kirim lebih
+  layouts:
+    welcome:
+      welcome_title: Selamat Datang Flutylove! Situs kencan yang paling canggih.
+  recaptcha:
+    errors:
+      verification_failed: Gagal reCAPTCHA
+      recaptcha_unreachable: Recaptcha tidak bisa diakses
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: Kami baru saja meluncurkan layanan
+        kami!
+      we_have_just_launched_our_service_text: Hari ini kami meluncurkan layanan kami
+        sehingga semua orang bisa
+      sign_up: mendaftar
+      and_use_it: dan menggunakannya.
+      wishes_and_requests: Jika Anda memiliki keinginan atau permintaan, Anda dapat
+        mendaftar dan menulis itu
+      here: sini
+      with_love: Dengan cinta,
+    index:
+      all_news: Semua berita
+      read_more: Baca lebih lanjut
+  chats:
+    panel_head:
+      online: online
+      offline: Offline
+    pagination_link:
+      next_page: Halaman berikutnya
+    form:
+      message_text: Pesan teks
+    form_additions:
+      submit: Kirim
+      videochat: Videochat
+    videochat_request_link:
+      connect_to_videochat: Connect untuk videochat
+    modal_form:
+      recipient: Penerima
+      message: Pesan
+      close: Tutup
+      submit: Kirim
+    waiting_video_answer_button:
+      waiting_for_response: Menunggu respons ...
+    chat_created:
+      message_was_sent: Pesan dikirim
+      close: Tutup
+  messages:
+    pagination_link:
+      next_page: Halaman berikutnya
+    form:
+      message_text: Pesan teks
+  notifications:
+    user_to_friend_connection:
+      action: Action
+    notification:
+      offline: Offline
+      online: online
+    like:
+      action: Action
+    photo_album_view:
+      action: Action
+    user_view:
+      action: Action
+  user_applications:
+    user_application:
+      who_uploaded: Diunggah oleh
+      all_uploaded_applications_by: Semua aplikasi yang diunggah oleh
+    form:
+      name: Nama
+      user_application_name: Nama Aplikasi
+      description: Deskripsi
+      description_text: Deskripsi teks
+      upload_icon: Unduh icon
+      public: Umum?
+      category_name: Kategori
+      create: Buat
+      edit: Mengedit
+    show:
+      application: Aplikasi
+      return_to_uploaded_applications: Untuk upload aplikasi
+      edit_application: Mengedit aplikasi
+      return_to_all_applications: Kembali ke semua aplikasi
+    manage:
+      installed_applications: aplikasi Terpasang
+      uploaded_applications: aplikasi yang diunggah
+      all: Semua
+    index:
+      applications_uploaded_by: Aplikasi diupload oleh
+      return_to_all_applications: Kembali ke semua aplikasi
+      create_new: Buat baru
+      return_to_manage_applications: Kembali untuk mengelola aplikasi
+    installed:
+      installed_applications: aplikasi Terpasang
+      return_to_all_applications: Kembali ke semua aplikasi
+      return_to_manage_applications: Kembali untuk mengelola aplikasi
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: Sebelum lihat aplikasi ini
+        Anda harus masuk pertama
+    need_to_install:
+      need_to_install_first: Anda perlu menginstal aplikasi ini pertama
+      install_application: Install aplikasi
+  likes:
+    index:
+      liked_items: item Disukai
+      return_to_my_content: Kembali ke konten saya
+  videos:
+    index:
+      return_to_edit_profile: Untuk profil editing
+      create_new: Buat baru
+      return_to_profile: Kembali ke profil
+    video:
+      edit: Mengedit
+      are_you_sure: Apakah Anda yakin?
+      delete: Hapus
+    modal_form:
+      create_new_video: Buat video baru
+      close: Tutup
+      create: Buat
+    form_content:
+      name: Nama
+      video_name: nama Video
+      source: Url kode embed
+      video_url_or_embed_code: Video url kode embed video yang
+    show:
+      video: Video
+      return_to_all_videos: Kembali ke semua video
+      edit_video: Mengedit video
+    edit:
+      edit_video: Mengedit video
+      return_to_view_video: Kembali ke tampilan video
+      view_video: View Video
+    form:
+      edit: Mengedit
+  photo_albums:
+    index:
+      photo_albums: Album foto
+      return_to_editing_profile: Untuk profil editing
+      create_new: Buat baru
+      return_to_profile: Kembali ke profil
+    photo_album:
+      edit: Mengedit
+      create: Buat
+      are_you_sure: Apakah Anda yakin?
+      delete: Hapus
+    edit:
+      edit_photo_album: Mengedit album foto
+      return_to_photo_albums: Untuk album foto
+      view_photo_album: View album foto
+    form_content:
+      name: Nama
+      photo_album_name: Photo nama album
+    form:
+      edit: Mengedit
+      create: Buat
+    photo_album_uploader:
+      drag_and_drop_your_file: Drag dan drop file Anda
+      here: sini
+      or: atau
+      from_other_sites: Dari situs lainnya
+      write_down_link_for_your_image: Tuliskan link gambar Anda
+      url_for_image: Url untuk gambar
+      upload: Upload
+      from_facebook: Dari Facebook
+      turn_on_facebook: Aktifkan Facebook
+      you_can_upload_your_photos_from_facebook: Anda dapat meng-upload foto Anda dari
+        Facebook
+      from_vkontakte: Dari Vkontakte
+      you_can_upload_your_photos_from_vkontakte: Anda dapat meng-upload foto Anda
+        dari Vkontakte
+      turn_on_vkontakte: Aktifkan Vkontakte
+      from_instagram: Dari Instagram
+      you_can_upload_your_photos_from_instagram: Anda dapat meng-upload foto Anda
+        dari Instagram
+      turn_on_instagram: Aktifkan Instagram
+      from_dropbox: Dari Dropbox
+      you_can_upload_your_photos_from_dropbox: Anda dapat meng-upload foto Anda dari
+        Dropbox
+      turn_on_dropbox: Aktifkan Dropbox
+    show:
+      return_to_photo_albums: Untuk album foto
+      edit_photo_album: Mengedit album foto
+    modal_form:
+      create_new_photo_album: Buat album foto baru
+      close: Tutup
+      create: Buat
+  user_requests:
+    form:
+      content: Konten
+      edit: Mengedit
+      create: Buat
+  notes:
+    index:
+      notes: Catatan
+      return_to_edit_profile: Untuk profil editing
+      create_new: Buat baru
+      return_to_profile: Kembali ke profil
+    note:
+      edit: Mengedit
+      are_you_sure: Apakah Anda yakin?
+      delete: Hapus
+    show:
+      note: Catatan
+      return_to_notes: Kembali ke catatan
+      edit_note: Edit catatan
+    form_content:
+      content: Konten
+      note_content: Catatan konten
+      edit: Mengedit
+      create: Buat
+    edit:
+      edit_note: Edit catatan
+      return_to_notes: Kembali ke catatan
+      view_note: Lihat catatan
+  user_to_search_connections:
+    index:
+      requirements_lists: daftar Persyaratan
+      return_to_editing_profile: Untuk profil editing
+      create_new: Buat baru
+    user_to_search_connection:
+      edit: Mengedit
+      are_you_sure: Apakah Anda yakin?
+      delete: Hapus
+    edit:
+      edit_requirements_list: Mengedit daftar persyaratan
+      return_to_requirements_lists: Untuk daftar persyaratan
+    form_content:
+      name: Nama
+      name_of_your_requirements_list: Nama daftar kebutuhan Anda
+    form:
+      edit: Mengedit
+    show:
+      return_to_requirements_lists: Untuk daftar persyaratan
+  photos:
+    index:
+      photos: Foto
+      return_to_photo_albums: Kembali ke album foto
+      return_to_profile: Untuk profil
+  errors:
+    messages:
+      already_confirmed: sudah dikonfirmasi, coba masuk
+      confirmation_period_expired: perlu dikonfirmasi dalam% {periode}, minta yang
+        baru
+      expired: telah berakhir, silakan meminta yang baru
+      not_found: tidak ditemukan
+      not_locked: tidak terkunci
+      not_saved:
+        one: '1 kesalahan dilarang% ini {sumber daya} tidak disimpan:'
+        other: "% {count} kesalahan dilarang% ini {sumber daya} tidak disimpan:"
+    bad_request:
+      bad_request_description: Server tidak dapat atau tidak akan memproses permintaan
+        karena kesalahan klien jelas
+      go_to_root: Buka akar
+    unprocessable_entity:
+      unprocessable_entity: dapat diproses Entity
+      unprocessable_entity_description: Permintaan itu terbentuk dengan baik tetapi
+        tidak dapat diikuti karena kesalahan semantik
+      go_to_root: Buka akar
+    not_found:
+      not_found: Tidak Ditemukan
+      not_found_description: sumber daya yang diminta tidak dapat ditemukan tetapi
+        mungkin tersedia di masa depan
+      go_to_root: Buka akar
+    forbidden:
+      forbidden: Terlarang
+      forbidden_description: Permintaan itu permintaan yang valid, tapi server menolak
+        untuk menanggapi itu
+      go_to_root: Buka akar
+    internal_server_error:
+      internal_server_error: Internal Server Error
+      internal_server_error_description: Ada yang tidak beres. Kami akan memperbaikinya
+        sesegera mungkin.
+      go_to_root: Buka akar
+  pages:
+    privacy:
+      privacy: Kebijakan Privasi Flutylove
+      general_provisions: Ketentuan Umum
+      p_1_1: 1.1. Peraturan ini merupakan dokumen resmi dari Perseroan Terbatas "Technoelegance",
+        yang terletak di 101000, Moskow, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1 (selanjutnya Flutylove, Perusahaan, Kami), dan menentukan prosedur pengolahan
+        data dan keamanan informasi individu yang telah mencapai usia 18 tahun, dan
+        yang menggunakan situs https://flutylove.com (selanjutnya Website) dan layanannya
+        (selanjutnya disebut Pengguna).
+      p_1_2: 1.2. Tujuan dari Peraturan ini adalah untuk memastikan perlindungan karena
+        dari informasi pengguna, termasuk data pribadi, dari akses yang tidak sah
+        dan pengungkapan.
+      p_1_3: 1.3. Hubungan yang terkait dengan pengumpulan, penyimpanan, distribusi
+        dan keamanan informasi website pengguna diatur oleh Peraturan ini, dokumen
+        resmi lainnya Perusahaan dan undang-undang saat Federasi Rusia.
+      p_1_4: 1.4. Versi saat ini dari Peraturan, yang merupakan dokumen publik, tersedia
+        untuk setiap pengguna internet saat mengikuti link http://flutylove.com/pages/privacy.
+        Perusahaan mempunyai hak untuk memodifikasi Peraturan ini. Dalam hal perubahan
+        yang dibuat untuk Peraturan, Perusahaan harus memberitahukan kepada pengguna
+        dengan posting versi baru dari Peraturan tentang Website di http://flutylove.com/pages/privacy
+        alamat tetap, selambat-lambatnya 10 hari sebelum efektif tanggal perubahan.
+        Versi sebelumnya dari Peraturan disimpan dalam arsip dokumentasi Perusahaan.
+      p_1_5: 1.5. Peraturan ini telah dikembangkan dan digunakan sesuai dengan Perjanjian
+        Pengguna. Dalam kasus apapun bertentangan antara Peraturan ini dan dokumen
+        resmi lainnya dari Perusahaan, Peraturan ini harus ditegakkan.
+      p_1_6: 1.6. Dengan menggunakan situs web ini, Anda setuju dengan syarat dan
+        kondisi dari Kebijakan Privasi ini. Harap baca dengan seksama. Jika Anda tidak
+        setuju dengan ketentuan dalam Kebijakan Privasi ini, atau Anda belum mencapai
+        usia 18 tahun, Anda tidak dapat menggunakan Website dan Layanan nya. Dengan
+        menggunakan situs web ini, terlepas dari apakah Anda adalah pengguna terdaftar
+        dari Flutylove atau tidak, Anda mengkonfirmasi bahwa Anda sepenuhnya menerima
+        Kebijakan Privasi ini, dan setuju untuk mengikutinya.
+      the_website_using_conditions: Website menggunakan kondisi
+      p_2_1: '2.1. Untuk menggunakan Flutylove Situs Web, Anda harus mendaftar. Informasi
+        berikut harus ditentukan saat pendaftaran: nama, alamat email, jenis kelamin,
+        tanggal lahir, informasi lokasi. Pengguna dapat memberikan informasi pribadi
+        tambahan di / keinginan nya sendiri. Pengguna dapat mengedit atau memperbarui
+        informasi pribadi setiap saat. Perusahaan memiliki hak untuk meminta dokumen
+        pendukung tambahan dalam kasus perubahan jenis kelamin dan tanggal lahir dari
+        Pengguna.'
+      p_2_2: '2.2. Dengan membiarkan akses ke situs dan layanan, Perusahaan, bertindak
+        dengan cara yang wajar dan itikad baik, menganggap bahwa Pengguna: menyadari
+        bahwa untuk pendaftaran di Website perlu berusia lebih dari 18 tahun; memiliki
+        semua hak yang diperlukan untuk dapat mendaftar di situs ini dan menggunakannya;
+        menunjukkan informasi yang akurat tentang dirinya / dirinya sesuai permintaan
+        untuk penggunaan Layanan dari Situs; menyadari bahwa informasi pribadi di
+        situs, yang disediakan oleh Pengguna, mungkin menjadi tersedia untuk pengguna
+        lain dari Website dan Internet pengguna juga, dapat disalin dan didistribusikan
+        oleh pengguna lain; menyadari bahwa beberapa jenis informasi, ditransfer ke
+        Pengguna lain, tidak dapat dihapus oleh Pengguna; berkenalan dengan Peraturan
+        ini, setuju dengan mereka dan melaksanakan hak dan kewajiban yang ditentukan.'
+      p_2_3: 2.3. Perusahaan tidak memverifikasi keakuratan yang diterima (mengumpulkan)
+        informasi tentang pengguna, dengan pengecualian kasus ketika verifikasi tersebut
+        diperlukan untuk memenuhi kewajiban Perusahaan kepada pengguna.
+      information_processing_objectives: Informasi pengolahan tujuan
+      p_3_1: 3.1. Perusahaan melakukan pengolahan informasi tentang pengguna, termasuk
+        data pribadi mereka, dalam rangka memenuhi kewajiban Perusahaan kepada Pengguna
+        untuk penggunaan Website dan layanannya.
+      p_3_2: 3.2 Perusahaan mempunyai hak untuk melakukan pengolahan data pribadi
+        tanpa memberi tahu pihak yang berwenang untuk perlindungan hak subyek data
+        pribadi.
+      structure_of_the_user_information: Struktur informasi pengguna
+      p_4_1: '4.1. Data pribadi dari Pengguna termasuk:'
+      p_4_1_1: 4.1.1. Nama, alamat email, jenis kelamin, tanggal lahir, informasi
+        lokasi, dan nomor telepon yang disediakan oleh Pengguna dan seharusnya hanya
+        cukup untuk pendaftaran di Website;
+      p_4_1_2: 4.1.2. informasi yang disediakan oleh Pengguna (misalnya foto, informasi
+        tentang kebiasaan merusak dll);
+      p_4_1_3: 4.1.3. tambahan yang disediakan oleh Pengguna sesuai dengan permintaan
+        Perusahaan untuk memenuhi kewajiban Perusahaan kepada Pengguna, muncul dari
+        perjanjian pengguna. Perusahaan memiliki hak, khususnya, untuk meminta Pengguna
+        salinan dokumen identitas atau dokumen lainnya yang berisi nama, jenis kelamin
+        dan tanggal lahir, serta informasi tambahan lain yang, pada kebijaksanaan
+        Perusahaan, akan diperlukan dan cukup untuk identifikasi pengguna tersebut
+        dan akan menghilangkan penyalahgunaan dan pelanggaran hak-hak pihak ketiga.
+      p_4_2: '4.2. Lainnya Pengguna informasi pengolahan oleh Perusahaan Administrasi
+        Situs juga memproses informasi lainnya tentang Pengguna, yang meliputi:'
+      p_4_2_1: 4.2.1. data umum, otomatis diterima oleh http-server saat mengakses
+        situs web dan tindakan berikutnya dari pengguna (IP-address dari host, jenis
+        sistem operasi pengguna, halaman Website dikunjungi oleh pengguna).
+      p_4_2_2: 4.2.2. Informasi yang diterima secara otomatis ketika mengakses Website
+        menggunakan penanda (cookies);
+      p_4_2_3: 4.2.3. Informasi yang diterima sebagai akibat dari tindakan Pengguna
+        di Website;
+      p_4_2_4: 4.2.4. Informasi yang diterima sebagai hasil dari tindakan pengguna
+        lain di situs.
+      p_5_1: '5.1. pengolahan data pribadi melaksanakan atas dasar prinsip-prinsip
+        berikut: a) tujuan yang sah dan sarana pengolahan data pribadi; b) kejujuran;
+        c) kepatuhan tujuan pengolahan data pribadi dengan tujuan yang telah ditetapkan
+        dan dinyatakan ketika mengumpulkan data pribadi, serta kepatuhan kepercayaan
+        dari Perusahaan; d) kepatuhan volume dan jenis pengolahan data pribadi, dan
+        kepatuhan sarana pengolahan data pribadi dengan tujuan pengolahannya; e) tidak
+        dapat diterimanya menggabungkan database yang dibuat untuk tujuan yang tidak
+        kompatibel, yang berisi data pribadi.'
+      p_5_1_1: 5.1.1. Pengumpulan data pribadi dari pengguna yang dilakukan di Website
+        saat mendaftar, serta di masa ketika pengguna menambahkan informasi lebih
+        lanjut tentang dirinya / dirinya menggunakan alat Website di inisiatif / nya
+        sendiri.
+      p_5_1_2: 5.1.2. data pribadi pengguna disimpan secara eksklusif dalam format
+        elektronik dan diproses dengan menggunakan sistem otomatis, dengan pengecualian
+        kasus di mana proses manual dari data pribadi yang diperlukan dalam pandangan
+        memenuhi persyaratan legislatif.
+      p_5_1_3: 5.1.3. data pribadi pengguna tidak ditransfer ke pihak ketiga, kecuali
+        dalam kasus tegas oleh Peraturan ini dan Perjanjian Pengguna. Dengan persetujuan
+        dari pengguna, data pengguna pribadi dapat ditularkan kepada pihak ketiga
+        Perseroan di bawah kondisi asumsi kewajiban untuk menjamin kerahasiaan informasi
+        yang diterima, khususnya, ketika menggunakan layanan dan aplikasi. data pribadi
+        pengguna penyediaan atas permintaan dari otoritas pemerintah (pemerintah daerah)
+        dilakukan dalam prosedur seperti yang dipersyaratkan oleh UU.
+      p_5_1_4: '5.1.4. data pengguna pribadi akan dihapus jika: - data diri dihapus
+        dari halaman oleh Pengguna; - Halaman adalah diri dihapus oleh Pengguna; -
+        Informasi Pengguna dan halaman pribadi yang dikeluarkan oleh Perusahaan. Dalam
+        hal halaman menghapus oleh pengguna itu sendiri, Perusahaan menyimpan data
+        pribadi Pengguna pada media elektronik dalam 210 hari setelah halaman pribadi
+        dihapus. Data pribadi dihapus setelah berakhirnya 210 hari setelah halaman
+        pribadi dihapus. Sampai periode ini berakhir, Pengguna memiliki hak untuk
+        mengembalikan halaman pribadi.'
+      users_rights_and_obligations: hak dan kewajiban Pengguna
+      p_6_1: '6.1. Pengguna memiliki hak untuk:'
+      p_6_1_1: 6.1.1. mengakses informasi tentang dia / nya tanpa pembatasan dan bebas
+        biaya dengan mengedit halaman pribadi pada Website dengan menggunakan login
+        dan password;
+      p_6_1_2: 6.1.2. independen melakukan perubahan dan koreksi terhadap informasi
+        pada halaman pribadi Pengguna di situs, dengan syarat bahwa perubahan dan
+        koreksi tersebut mengandung up-to-date dan informasi yang benar;
+      p_6_1_3: 6.1.3. menghapus informasi dari halaman pribadi di Website;
+      p_6_1_4: 6.1.4. meminta Perseroan untuk mendapatkan informasi yang lebih spesifik,
+        blok atau menghapus data pribadi, jika data tersebut tidak lengkap, ketinggalan
+        jaman, tidak akurat, tidak sah diterima atau tidak diperlukan untuk tujuan
+        dinyatakan pengolahan atau jika tindakan yang ditentukan dalam ayat 6.1.3
+        ini Peraturan tidak dapat dilaksanakan secara mandiri;
+      p_6_1_5: 6.1.5. atas dasar permintaan, menerima informasi dari Perusahaan mengenai
+        pengolahan / Data nya pribadi.
+      p_6_2: '6.2. Berikut ini informasi tentang terdaftar Situs Pengguna selalu tersedia
+        untuk pengguna terdaftar: nama, jenis kelamin, usia, foto profil pengguna
+        dan informasi lain jika pengguna telah diposting.'
+      p_6_3: 6.3. Perusahaan tidak menanggung kewajiban untuk pengungkapan data pribadi
+        Pengguna oleh Pengguna lain dari website yang telah diakses data tersebut.
+      p_6_4: 6.4. Dalam kasus data pribadi (informasi pengguna lainnya) penghapusan
+        dari halaman pribadi Pengguna atau penghapusan halaman pribadi Pengguna dari
+        situs web ini, informasi Pengguna disalin oleh Pengguna lain atau disimpan
+        di halaman Pengguna lain yang diawetkan.
+      p_7_1: 7.1. Perusahaan mengambil langkah-langkah teknis, organisasi dan hukum
+        untuk memastikan bahwa data pribadi Pengguna dilindungi dari akses yang tidak
+        sah atau tidak disengaja, penghapusan, modifikasi, blocking, menyalin, dan
+        diseminasi serta dari tindakan yang tidak sah lainnya.
+      p_7_2: 7.2. Login Pengguna (alamat email atau nomor ponsel) dan password yang
+        digunakan untuk mengakses situs. Pengguna bertanggung jawab untuk menjaga
+        informasi ini rahasia. Pengguna tidak dapat mentransfer login dan password
+        kepada pihak ketiga dan juga wajib untuk mengambil langkah-langkah untuk menjamin
+        kerahasiaannya.
+      limitation_of_the_regulations_applicability: Batasan Peraturan penerapan
+      p_8: Peraturan ini tidak diperpanjang untuk tindakan dan sumber daya Internet
+        pihak ketiga. Perusahaan tidak menanggung kewajiban atas tindakan pihak ketiga
+        yang punya akses ke informasi pengguna melalui Internet atau Layanan Website.
+        Administrasi Situs merekomendasikan kepada Pengguna untuk mendekati masalah
+        ini dengan jumlah informasi yang diposting di situs web ini secara bertanggung
+        jawab.
+      user_requests: permintaan Pengguna
+      p_9_1: '9.1. Pengguna memiliki hak untuk mengirim permintaan kepada Perusahaan
+        termasuk permintaan mengenai penggunaan data pribadi dalam bentuk tertulis
+        di alamat berikut: Rusia, 101000, Moskow, Ulanskiy pereulok 13, stroeniye
+        4, pomeshcheniye 1 atau dalam bentuk dokumen elektronik ditandatangani oleh
+        tanda tangan elektronik yang berkualitas sesuai dengan undang-undang Federasi
+        Rusia, dengan email: support@flutylove.com.'
+      p_9_2: '9.2. Permintaan Pengguna harus berisi informasi berikut: jumlah dokumen
+        identifikasi Pengguna atau yang mewakili; tanggal penerbitan dokumen di atas
+        dan kewenangan penerbitan; informasi mengkonfirmasikan partisipasi Pengguna
+        dalam hubungan dengan operator (khususnya, link ke halaman); tanda tangan
+        Pengguna atau / wakilnya.'
+      p_9_3: 9.3. Perusahaan melakukan mempertimbangkan dan merespon permintaan Pengguna
+        dalam waktu 30 hari setelah diterima.
+      p_9_4: 9.4. Semua korespondensi yang diterima oleh Perusahaan dari Pengguna
+        (tertulis atau permintaan elektronik) diklasifikasikan sebagai informasi akses
+        terbatas dan tidak dapat diungkapkan tanpa persetujuan Pengguna ditulis. Data
+        pribadi dan informasi lainnya tentang pengguna yang mengirim permintaan tidak
+        dapat digunakan, tanpa persetujuan khusus Pengguna, berbeda dari untuk menanggapi
+        permintaan atau di contoh eksplisit yang disediakan oleh hukum yang berlaku.
+    terms:
+      terms: Perjanjian Pengguna Flutylove
+      welcome: Selamat Datang Flutylove!
+      about_terms: 'hal ini penggunaan (serta dokumen sebagaimana dimaksud di sini,
+        termasuk Kebijakan Privasi) yang kontrak adhesi sesuai dengan Pasal 428 dari
+        Kode Sipil Federasi Rusia (selanjutnya disebut "Perjanjian") antara individu
+        yang telah mencapai usia 18 tahun (selanjutnya disebut sebagai "User" dan
+        Perusahaan (atau "Kami") - Perseroan Terbatas "Technoelegance" (LLC "Technoelegance")
+        (alamat hukum: 101000, Moskow, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1), selanjutnya disebut sebagai Flutylove, menurut yang dapat Anda gunakan
+        situs ini dan semua layanan terkait ditawarkan melalui Situs Web atau aplikasi
+        (umumnya disebut sebagai "layanan"). Website diartikan salah versi, yang dipadu
+        dengan nama domain flutylove.com dan beroperasi untuk berbagai perangkat,
+        termasuk versi berbasis web, aplikasi mobile dan aplikasi untuk jaringan sosial.Dengan
+        menggunakan situs ini Anda setuju dengan ketentuan Perjanjian dan Kebijakan
+        Privasi. Harap baca dengan seksama. Jika Anda tidak setuju dengan ketentuan
+        Perjanjian dan Kebijakan Privasi, atau Anda belum mencapai usia 18 tahun,
+        Anda tidak dapat menggunakan Website dan Layanan nya.Dengan menggunakan situs
+        web, terlepas anda pengguna Flutylove terdaftar atau tidak, Anda setuju sepenuhnya
+        dengan Perjanjian ini dan Kebijakan Privasi, yang termasuk dalam Perjanjian
+        ini dengan link dan tersedia di situs, dan mematuhi itu.Atas permintaan pengguna,
+        Perusahaan menyanggupi untuk menandatangani Perjanjian ini dalam bentuk hardcopy
+        dan mengirimkannya ke individu yang meminta dokumen.Perusahaan berhak untuk
+        memodifikasi Perjanjian Pengguna dan dokumen dimaksud itu. Untuk menyadari
+        perubahan yang Anda butuhkan untuk menjaga-up-to-date informasi tentang perubahan
+        tersebut secara teratur. Kami akan menginformasikan tentang perubahan yang
+        kami buat pada halaman bawah ini. Perubahan tidak berhubungan kembali dan
+        akan mulai berlaku dalam waktu sepuluh hari dari tanggal penerbitan. Namun,
+        dalam kasus mereka terkait dengan implementasi layanan baru atau amandemen
+        undang-undang, maka akan diterapkan segera. Jika Anda tidak setuju dengan
+        perubahan dalam Perjanjian, Anda harus berhenti menggunakan Website dan aplikasi.'
+      consent_to_accept_the_terms_of_user_agreement: 1. MENYETUJUI MENERIMA PERSYARATAN
+        PERJANJIAN PENGGUNA.
+      p_1: a. Perjanjian elektronik. Perjanjian ini adalah versi elektronik dari kontrak,
+        yang menggambarkan hal penggunaan Website dan Jasa. Dengan login ke Website
+        atau menjadi pengguna, Anda menerima Perjanjian ini dan menyetujui semua syarat,
+        ketentuan, dan pemberitahuan yang dikandung atau dirujuk di sana. Anda menegaskan
+        dan setuju bahwa Pengguna Flutylove mungkin menjadi bagian dari komunitas
+        online yang mencakup situs-situs lain milik Perusahaan atau afiliasinya. Oleh
+        karena itu, profil di situs web ini dapat dilihat pada situs serupa lainnya
+        dan membayar pelanggan dari satu situs web dapat berkomunikasi dengan pelanggan
+        lain membayar dari semua situs web. b. Formulir elektronik. Dengan login ke
+        Website atau menjadi pengguna, Anda setuju untuk menyediakan Anda dengan Perjanjian
+        elektronik. c. bentuk hardcopy. Anda memiliki hak untuk menerima hardcopy
+        Perjanjian ini. Anda dapat meminta edisi hardcopy dari Perjanjian ini sebelum
+        atau setelah itu akan ditandatangani dalam bentuk elektronik. Silahkan, hubungi
+        Customer service kami untuk informasi lebih lanjut. d. Akses dan download.
+        Untuk mengakses dan mendownload Perjanjian elektronik ini, Anda harus memiliki
+        akses ke Internet atau langsung melalui perangkat dengan akses ke sumber daya
+        Web. Anda harus memiliki peralatan yang diperlukan untuk menghubungkan internet,
+        yaitu komputer, modem atau perangkat akses lainnya. Silakan, mencetak salinan
+        Perjanjian ini dan menyimpannya. Untuk mengunduh formulir elektronik Perjanjian,
+        menyimpannya ke komputer Anda dengan bantuan editor teks apapun.
+      the_right_of_using_the_website: 2. HAK MENGGUNAKAN WEBSITE.
+      p_2: Anda harus setidaknya delapan belas lama (18) tahun untuk menjadi pengguna
+        terdaftar dari website ini. Dalam kasus non-memenuhi persyaratan, akses ke
+        situs web ini akan ditolak. Menggunakan Website, pengguna harus menyadari
+        bahwa informasi pribadi yang diposting di situs web dapat tersedia bagi pengguna
+        internet lainnya, dan Perusahaan tidak menanggung kewajiban atas tindakan
+        mereka. Dengan menggunakan situs ini Anda menyatakan dan menyetujui bahwa
+        Anda memiliki hak, wewenang dan kemungkinan untuk masuk ke dalam Perjanjian
+        ini, dan persetujuan untuk mengikuti semua persyaratan dan kondisi. Menjadi
+        Pengguna Anda menyatakan dan menyetujui bahwa Anda tidak pernah menderita
+        keyakinan untuk tindak pidana yang berkaitan dengan kekerasan seksual. Situs
+        ini dirancang untuk penggunaan pribadi saja. Hal ini dilarang untuk menggunakan
+        Website untuk tujuan komersial. entitas perusahaan tidak dapat menjadi Pengguna
+        situs ini, serta tidak dapat menggunakan layanan ini atau Website di tujuan
+        mereka. Ilegal dan / atau tidak sah menggunakan Website, termasuk mengumpulkan
+        nama pengguna dan / atau alamat email dengan bantuan alat-alat elektronik
+        atau lainnya untuk tujuan pengiriman pesan yang tidak diinginkan dan link
+        dikejar dan Perusahaan dapat mengambil tindakan yang tepat menurut hukum,
+        termasuk banding ke pihak penegak hukum.
+      pricing_and_registration: 3. HARGA DAN PENDAFTARAN
+      p_3: Anda dapat menjadi Pengguna Flutylove pada sukarela dan bebas dari dasar
+        biaya dengan mendaftar pada situs web. Sebagai pengguna, Anda dapat menggunakan
+        berbagai spesifik layanan dan peluang dari Website. Pengguna dari situs web
+        ini adalah individu yang terdaftar di Situs sesuai dengan tatanan yang mapan
+        dan yang telah mencapai 18 tahun. Ketika mendaftar di Website Pengguna berkewajiban
+        untuk memberikan informasi yang diperlukan dan relevan bagi Perusahaan untuk
+        menyelesaikan halaman Pengguna, termasuk login (alamat email atau nomor telepon)
+        dan password untuk akses ke situs web ini, serta nama, yang yang unik untuk
+        setiap pengguna. Formulir untuk pendaftaran dapat meminta informasi tambahan
+        dari Pengguna. Pengguna bertanggung jawab atas validitas, aktualitas, kelengkapan
+        dan sesuai dengan Undang-Undang Federasi Rusia dari informasi yang diberikan
+        pada saat pendaftaran, dan kejelasan nya dari klaim pihak ketiga. Ketika mendaftar
+        Pengguna setuju dengan Perjanjian ini dan melakukan hak yang ditentukan dan
+        kewajiban, terkait dengan menggunakan dan fungsi dari Website. Pengguna mendapat
+        akses penuh ke menggunakan fungsi website. Perusahaan melakukan hak dan kewajiban
+        untuk Pengguna, ditentukan dalam Peraturan ini, setelah sukses pendaftaran
+        pengguna pada Website pengolahan data pribadi para Pengguna dibuat sesuai
+        Hukum Federasi Rusia. Administrasi Situs memproses data pribadi Pengguna untuk
+        memberikan pengguna dengan akses ke penggunaan fungsi situs, termasuk menerima
+        pribadi (ditargetkan) iklan; verifikasi, penelitian dan analisis data tersebut,
+        yang memungkinkan untuk mendukung dan meningkatkan fungsi dan bagian dari
+        Situs, serta mengembangkan fungsi baru dan bagian. Perusahaan mengambil semua
+        tindakan yang diperlukan untuk melindungi data pribadi dari pengguna terhadap
+        akses yang tidak sah, modifikasi, pengungkapan atau menghapus. Perusahaan
+        ini menyediakan akses ke data pribadi dari pengguna hanya untuk karyawan,
+        kontraktor dan agen dari Perusahaan, yang membutuhkan informasi ini untuk
+        mendukung fungsi situs web dan untuk menyediakan pengguna dengan akses ke
+        nya menggunakan. Perusahaan Website memiliki hak untuk menggunakan informasi
+        yang diberikan oleh Pengguna, termasuk data pribadi, dalam rangka untuk memastikan
+        kepatuhan dengan persyaratan undang-undang saat Federasi Rusia (termasuk pencegahan
+        dan / atau penekanan ilegal dan / atau melanggar hukum tindakan Pengguna).
+        Pengungkapan informasi yang diberikan oleh Pengguna hanya dapat dilakukan
+        sesuai dengan undang-undang saat Federasi Rusia atas permintaan pengadilan,
+        lembaga penegak hukum, serta dalam kasus lain sebagaimana ditentukan oleh
+        hukum yang berlaku dari Federasi Rusia. Sejauh Perusahaan memproses data pribadi
+        Pengguna untuk pelaksanaan Peraturan ini, persetujuan Pengguna untuk pengolahan
+        data pribadi tidak diperlukan dalam kebajikan dari ketentuan undang-undang
+        tentang data pribadi. Login dan password yang dipilih oleh pengguna adalah
+        informasi yang diperlukan dan memadai untuk akses pengguna ke situs web. Pengguna
+        memiliki hak untuk memberikan / nya login dan password-nya ke pihak ketiga,
+        dan benar-benar bertanggung jawab atas keamanan, memilih cara menyimpannya
+        secara independen. Menggunakan / nya hardware dan software-nya Pengguna dapat
+        mengizinkan penyimpanan login dan password (melalui cookies) untuk otorisasi
+        otomatis berikutnya di Website. Setiap tindakan yang diambil dengan menggunakan
+        username dan password Pengguna dianggap akan dilakukan oleh Pengguna, kecuali
+        sebaliknya dibuktikan oleh Pengguna. Pengguna wajib segera memberitahukan
+        Perusahaan sesuai dengan prosedur yang ditetapkan dalam hal akses tidak sah
+        ke username dan password dan / atau halaman akun, atau pengungkapan login
+        dan password. Setelah pendaftaran Pengguna keuntungan hak untuk membuat, menggunakan,
+        dan menentukan isi / halaman pribadi nya sendiri pada tujuan diri tertarik
+        dan non-komersial, serta mendapatkan kesempatan untuk mengakses dan mengirim
+        informasi pada halaman pribadi Pengguna lainnya . Pengguna sebagai pemilik
+        informasi yang diposting di halaman pribadi menyadari bahwa dengan pengecualian
+        dari kasus yang ditetapkan oleh Peraturan ini dan undang-undang saat Federasi
+        Rusia, Perusahaan tidak berpartisipasi dalam pembangunan dan menggunakan konten
+        dan tidak mengontrol akses ke halaman pengguna dari pengguna lain.
+      terms_4: 4. SYARAT.
+      p_4: Perjanjian ini sepenuhnya tetap berlaku dan berlaku selama Anda menggunakan
+        Website. Anda dapat berhenti menjadi Pengguna Website dengan menghapus halaman
+        Anda setiap saat, untuk alasan apapun, dengan menghubungi Customer Service
+        online kami atau dengan menggunakan layanan dari situs web. Perusahaan memiliki
+        hak untuk menghapus halaman pribadi Anda setiap saat. Kami tidak diwajibkan
+        untuk memberitahu Anda sebelum menghapus halaman, jika Perusahaan memiliki
+        alasan untuk percaya bahwa Anda telah melanggar ketentuan Perjanjian. Kami
+        tidak diwajibkan untuk mengungkapkan alasan untuk menghapus akun Anda; dalam
+        beberapa kasus pengungkapan informasi tersebut mungkin dilarang. Setelah menghapus
+        halaman Anda, semua kondisi yang mungkin berlaku setelah pengakhiran Perjanjian
+        ini oleh alam mereka akan berlaku setelah penghentian tersebut. Jika Anda
+        menghapus halaman Anda melalui Website di kehendak Anda sendiri, kami akan
+        meminta Anda untuk menentukan alasan menghapus tersebut.
+      account_security: 5. KEAMANAN AKUN.
+      p_5: Anda bertanggung jawab untuk pelestarian kerahasiaan username dan password,
+        yang akan ditetapkan pada saat pendaftaran. Juga, Anda benar-benar bertanggung
+        jawab atas semua tindakan yang terjadi di bawah nama pengguna dan password
+        Anda. Anda setuju untuk (a) segera memberitahu Kami mengenai penggunaan yang
+        tidak sah dari login dan password, serta pelanggaran keamanan lainnya, dan
+        (b) keluar dari akun di akhir setiap sesi. Website tidak bertanggung jawab
+        atas segala kerusakan atau kerugian yang timbul dari ketidakpatuhan terhadap
+        ketentuan ini. Anda harus berhati-hati ketika mengakses account Anda melalui
+        komputer umum agar orang yang tidak berkepentingan tidak bisa memata-matai
+        atau merekam sandi atau informasi pribadi lainnya. Anda juga mengkonfirmasi
+        dan setuju bahwa internet tidak pernah benar-benar pribadi dan aman. Anda
+        memahami bahwa pesan atau informasi yang Anda posting di situs web ini dapat
+        dibaca atau digunakan oleh pengguna lain, bahkan jika ada peringatan khusus
+        bahwa informasi yang tersembunyi.
+      your_interaction_with_other_users_of_the_website: 6. INTERAKSI DENGAN PENGGUNA
+        LAIN WEBSITE.
+      p_6: a. ANDA BERTANGGUNG JAWAB UNTUK INTERAKSI DENGAN PENGGUNA LAIN. ANDA HARUS
+        MEMAHAMI BAHWA PERUSAHAAN TIDAK VERIFIKASI PENGGUNA TERHADAP BAIK MEREKA memiliki
+        catatan kriminal. PERUSAHAAN JUGA TIDAK MEMINTA INFORMASI TENTANG MASA LALU
+        PENGGUNA MEREKA DAN TIDAK memvalidasi informasi INI. PERUSAHAAN TIDAK MEMBERIKAN
+        JAMINAN TENTANG PERILAKU PENGGUNA DAN KOMPATIBILITAS MEREKA DENGAN PENGGUNA
+        SEBENARNYA ATAU MASA DEPAN. PADA WAKTU YANG SAMA PERUSAHAAN BERHAK VERIFIKASI
+        PENGGUNA UNTUK RECORD PIDANA ATAU MELAKUKAN VERIFIKASI LAIN SETIAP SAAT MENGGUNAKAN
+        INFORMASI PUBLIK TERSEDIA. b. DALAM KASUS PERUSAHAAN TIDAK BERTANGGUNG JAWAB
+        ATAS KERUGIAN BAIK MEREKA LANGSUNG, TIDAK LANGSUNG, UMUM ATAU MEMILIKI SIFAT
+        KHUSUS, KOMPENSASI, DAN / ATAU SENGAJA, YANG ANDA ATAU ORANG LAIN AKIBAT PENGGUNAAN
+        SITUS WEB, TERMASUK, NAMUN TIDAK TERBATAS PADA, CEDERA fISIK, STRES DAN /
+        ATAU LAINNYA, YANG ANDA PEROLEH SEBAGAI HASIL DARI KOMUNIKASI ATAU PERTEMUAN
+        DENGAN PENGGUNA TERDAFTAR LAIN DARI WEBSITE ATAU ORANG, YANG ANDA BERHUBUNGAN
+        DENGAN ON WEBSITE. ANDA SETUJU UNTUK mengambil setiap tindakan pencegahan
+        MUNGKIN SAAT BERKOMUNIKASI DENGAN PENGGUNA LAIN, TERUTAMA DI MEREKA KASUS,
+        KETIKA ANDA MEMUTUSKAN UNTUK MEMENUHI MEREKA DALAM KEHIDUPAN NYATA. ANDA HARUS
+        MENYADARI, APA PERUSAHAAN TIDAK MEMBERIKAN JAMINAN DECLARED ATAU TERSIRAT
+        TENTANG KOMPATIBILITAS DENGAN PENGGUNA WEBSITE INI. ANDA TIDAK HARUS MEMBERIKAN
+        INFORMASI KEUANGAN UNTUK PENGGUNA LAIN DARI WEBSITE (UNTUK CONTOH INFORMASI
+        TENTANG KREDIT ANDA ATAU PLASTIK KARTU). c. Layanan dapat menerjemahkan nama
+        Anda atau nama kota Anda untuk bahasa lain; d. Layanan ini tidak bertanggung
+        jawab atas tindakan yang tercantum dalam artikel ini. Dalam kasus Anda tidak
+        setuju dengan mereka sepenuhnya atau sebagian, HARAP SEGERA TINGGALKAN WEBSITE;
+      the_information_posted_by_you_on_flutylove: 7. INFORMASI POSTED BY ANDA ON FLUTYLOVE
+      p_7: a. Anda bertanggung jawab atas informasi yang Anda mempublikasikan atau
+        menunjukkan (selanjutnya disebut "post") dalam Layanan atau mentransfer ke
+        Pengguna lain. Anda tidak diperbolehkan untuk posting di Layanan atau mentransfer
+        ke Pengguna lain informasi tentang memfitnah, tidak akurat, kasar, cabul,
+        vulgar dan agresif konten, informasi pada konten seksual, serta informasi
+        mengancam atau menguntit, informasi alam diskriminasi ras atau informasi ilegal,
+        atau informasi lain yang melanggar atau melanggar hak-hak pihak lain (termasuk,
+        tanpa batasan, hak kekayaan intelektual, hak privasi dan publisitas). Anda
+        tidak diperbolehkan untuk memberikan informasi yang tidak akurat, menyesatkan
+        atau palsu kepada Perusahaan atau Pengguna lain. Jika informasi yang diberikan
+        kepada Flutylove perusahaan atau pengguna lain kemudian menjadi tidak akurat,
+        menyesatkan palsu, Anda harus segera memberitahukan perusahaan Flutylove dari
+        perubahan tersebut. Anda mengirimkan dan menjamin bahwa semua informasi yang
+        diberikan saat pendaftaran adalah akurat dan benar, dan Anda segera mengubah
+        informasi apapun yang kemudian menjadi tidak akurat, menyesatkan atau palsu.
+        b. Anda mengerti dan setuju bahwa kami berhak, tapi tidak berkewajiban untuk
+        memantau informasi atau konten yang ditransfer ke Layanan atau diposting di
+        akses publik pada Layanan. Kami memiliki hak untuk menghapus informasi atau
+        konten tersebut tanpa memberikan alasan dan pemberitahuan. c. Semua benda
+        yang ditampilkan di Situs, termasuk elemen desain, teks, grafik, ilustrasi,
+        video, script, program, musik, suara dan benda-benda lain dan perpustakaan
+        mereka (selanjutnya - Informasi), adalah milik hak eksklusif Perusahaan, Pengguna
+        Website dan hak-hak lain pemegang, semua hak untuk benda-benda yang dilindungi.
+        d. Kecuali yang ditetapkan sesuai dengan Perjanjian ini, serta undang-undang
+        saat ini Federasi Rusia, tidak ada informasi yang dapat disalin (direproduksi),
+        diproses, didistribusikan, ditampilkan dalam bingkai, diterbitkan, download,
+        ditransfer, dijual atau digunakan dengan cara lain di keseluruhan atau potongan
+        tanpa izin sebelumnya dari pemegang, kecuali pemegang hak eksplisit menyatakan
+        persetujuan untuk penggunaan gratis Informasi oleh setiap individu. e. Dengan
+        posting Informasi pada Website sah milik Pengguna, Pengguna menyediakan akses
+        bagi pengguna lain untuk hak non-eksklusif untuk menggunakannya dengan melihat,
+        playback (termasuk menyalin) dan hak-hak lainnya semata-mata untuk tujuan
+        non-komersial pribadi, kecuali kasus ketika penggunaan tersebut menyebabkan
+        atau dapat menyebabkan kerugian bagi kepentingan pemegang hak yang dilindungi
+        oleh hukum. f. Penggunaan Informasi oleh Pengguna, yang akses diperoleh semata-mata
+        untuk menggunakan personal non-komersial, diizinkan pada kondisi bahwa semua
+        tanda kepenulisan (hak cipta) atau pemberitahuan lainnya kepenulisan akan
+        disimpan, nama penulis dan produknya akan dibiarkan tanpa perubahan. g. Pengguna
+        juga menyediakan Perusahaan dengan hak non-eksklusif untuk menggunakan informasi
+        yang diposting pada website dan milik dia / dia secara sah tanpa pertimbangan
+        untuk memastikan berfungsinya Website Perusahaan dalam kinerja arsitektur
+        dan fungsionalitas dari Website. Hak non-eksklusif disebut di atas diberikan
+        untuk penempatan Konten di Situs dan mencakup wilayah negara-negara di seluruh
+        dunia. Perusahaan memiliki hak untuk mengalihkan hak sebagaimana dimaksud
+        pada ayat ini kepada pihak ketiga. Pengguna setuju bahwa Perusahaan memiliki
+        hak untuk menggunakan pilihan fungsional dan teknis dari Website, menyediakan
+        menampilkan dari berbagi Konten oleh Pengguna, termasuk tujuan menampilkan
+        informasi iklan. Hai. Dalam hal Pengguna menghapus informasi dari situs web,
+        hak non-eksklusif akan otomatis dicabut, namun karena spesifikasi teknis dari
+        Website Perusahaan berhak untuk menyimpan salinan cadangan Informasi dalam
+        waktu yang diperlukan dan di mana diperlukan. saya. Terlepas dari informasi
+        pribadi, pengguna tidak memiliki hak untuk meng-upload, atau mengungkapkan
+        dengan cara yang berbeda (dengan menerbitkan pada Website) Informasi dari
+        situs lain, database dan kekayaan intelektual lainnya dalam ketiadaan secara
+        eksplisit menyatakan persetujuan untuk tindakan tersebut dari hak cipta pemilik.
+        j. Kecuali dinyatakan dicatat dalam Peraturan ini, apa pun di Peraturan ini
+        tidak dapat dianggap sebagai pengalihan hak eksklusif untuk Informasi. k.
+        Semua informasi yang Anda publikasikan di profil pengguna Anda, harus akurat,
+        up-to-date dan lengkap. Pengguna ini benar-benar bertanggung jawab atas setiap
+        Informasi yang diupload atau diungkapkan dengan cara yang berbeda (diposting)
+        di Website atau dengan bantuan Pengguna. Pengguna tidak memiliki hak untuk
+        meng-upload, transfer atau posting Konten di Website, jika ia / dia tidak
+        memiliki hak yang sesuai untuk mengambil tindakan tersebut, diperoleh atau
+        didelegasikan kepadanya / nya sesuai dengan undang-undang Federasi Rusia.
+        Perusahaan mampu, tapi tidak berkewajiban, untuk menelusuri situs web untuk
+        setiap Konten ilegal dan diperbolehkan untuk menghapus atau memindahkan (tanpa
+        pemberitahuan) Konten atau pengguna atas kebijakannya sendiri, untuk alasan
+        apapun atau tanpa sebab, termasuk tanpa batasan untuk bergerak, atau menghapus
+        informasi itu, menurut pendapat individu dari Perusahaan melanggar Perjanjian
+        ini, undang-undang Federasi Rusia dan / atau melanggar hak, melukai, atau
+        membahayakan keamanan Pengguna lain atau pihak ketiga. Website berisi (atau
+        mungkin berisi) link ke situs lain di Internet (situs-situs pihak ketiga)
+        serta artikel, foto, ilustrasi, grafis, musik, suara, video, informasi, aplikasi,
+        software dan informasi lainnya milik atau datang dari pihak ketiga (konten
+        pihak ketiga), yang merupakan hasil dari aktivitas intelektual dan dilindungi
+        sesuai dengan undang-undang Federasi Rusia. pihak ketiga ini dan informasi
+        mereka tidak diverifikasi oleh Perusahaan untuk memenuhi ini atau Persyaratan
+        lainnya (akurasi, kelengkapan, kejujuran, dll). Perusahaan tidak bertanggung
+        jawab atas konten yang diposting di situs pihak ketiga yang keuntungan Pengguna
+        mengakses melalui Situs atau melalui informasi pihak ketiga, termasuk, namun
+        tidak terbatas pada pendapat atau pernyataan yang diungkapkan pada situs pihak
+        ketiga atau Informasi mereka. Link ke situs apapun, produk, dan layanan, informasi
+        alam komersial dan non-komersial yang terdapat pada website ini bukan persetujuan
+        atau rekomendasi untuk produk ini (jasa) dari Perusahaan. Jika Pengguna memutuskan
+        untuk meninggalkan Website dan pergi ke situs-situs pihak ketiga atau menggunakan
+        atau menginstal software pihak ketiga, ia / dia melakukannya atas resiko mereka
+        sendiri dan dari saat itu Peraturan ini tidak lagi diterapkan Pengguna. Tindakan
+        Pengguna lanjut dipandu oleh aturan yang berlaku dan kebijakan, termasuk praktek-praktek
+        bisnis individu-individu yang Informasi ia / dia akan menggunakan.
+      forbidden_actions: 8. TINDAKAN DILARANG.
+      p_8: a. Hal ini dilarang untuk "menjaga mencermati" atau mengganggu orang dengan
+        cara lain. b. Hal ini dilarang untuk menggunakan bot, virus, aplikasi untuk
+        mencari situs / ekstrak, atau perangkat manual atau otomatis atau proses untuk
+        mengekstrak, indeks, "mata-mata" atau memperbanyak dengan cara lain atau menghindari
+        struktur navigasi dan menampilkan dari Layanan atau isinya . c. Hal ini dilarang
+        untuk posting, mendistribusikan, atau memperbanyak mana-mana informasi yang
+        dilindungi hak cipta, merek dagang, atau informasi lain yang dilindungi oleh
+        hak cipta tanpa persetujuan terlebih dahulu dari pemilik hak cipta. d. Hal
+        ini dilarang untuk menghilangkan hak cipta, merek dagang atau pemberitahuan
+        hak cipta lain yang terkandung dalam Layanan. e. Hal ini dilarang untuk campur
+        tangan dalam atau mengganggu pengoperasian Layanan dan Website, atau layanan
+        dan jaringan yang terhubung dengan Layanan atau Website. f. Hal ini dilarang
+        untuk mempublikasikan, email atau transfer dalam cara yang berbeda informasi
+        yang mengandung virus atau kode komputer lainnya, file atau program yang dirancang
+        untuk mengganggu, merusak atau membatasi fungsi dari perangkat lunak komputer,
+        perangkat keras atau peralatan telekomunikasi. g. Hal ini dilarang untuk memalsukan
+        kop atau memanipulasi sebutan untuk tujuan menyamarkan arti sebenarnya dari
+        setiap informasi bersama melalui Layanan. h. Hal ini dilarang untuk "menempa"
+        atau "copy" setiap bagian dari Layanan atau Website tanpa izin tertulis dari
+        Flutylove. Juga, Anda mungkin tidak menggunakan meta tag atau kode, atau perangkat
+        lain yang mengandung link ke Flutylove, Layanan atau Website untuk mengarahkan
+        orang ke situs lain untuk tujuan apapun. saya. Hal ini dilarang untuk memodifikasi,
+        mengadaptasi, mensublisensikan, menerjemahkan, menjual, restrukturisasi, menguraikan,
+        mendekompilasi atau membongkar setiap bagian dari Layanan atau Website, atau
+        perangkat lunak yang digunakan di Website atau untuk itu, serta mendorong
+        orang lain untuk mengambil tindakan serupa . j. Hal ini dilarang untuk mengirim
+        informasi dengan konten pornografi dan / atau erotis.
+      the_changes_in_the_service: 9. PERUBAHAN LAYANAN.
+      p_9: Flutylove berhak setiap saat untuk mengubah atau menonaktifkan sementara
+        atau permanen Layanan (atau itu bagian) tanpa pemberitahuan. Anda setuju bahwa
+        Flutylove tidak bertanggung jawab kepada Anda atau pihak ketiga manapun atas
+        modifikasi, ketersediaan sementara atau penonaktifan lengkap Layanan.
+      ip_address_blocking: 10. IP ADDRESS PEMBLOKIRAN.
+      p_10: Untuk melindungi integritas Website, Flutylove berhak setiap saat pada
+        kenyamanan sendiri untuk memblokir alamat IP dari Pengguna tertentu.
+      relations_between_users_online: 11. HUBUNGAN ANTARA PENGGUNA ONLINE
+      p_11: Anda bertanggung jawab untuk interaksi dengan pengguna lain dari Flutylove.
+        Flutylove berhak, tapi tidak berkewajiban, untuk memantau perselisihan antara
+        Anda dan pengguna lain.
+      security_and_communication: 12. KEAMANAN DAN KOMUNIKASI.
+      p_12: Menggunakan Website dan / atau Layanan juga diatur oleh Kebijakan Privasi
+        kami. Ketika Anda menjadi Pengguna, Anda setuju dan setuju untuk menerima
+        email dari kami. email ini dapat mewakili pemberitahuan tentang operasi atau
+        pemberitahuan lainnya yang terkait dengan Layanan, seperti pemberitahuan administrasi
+        dan pengumuman resmi tentang perubahan, atau email yang berisi penawaran komersial,
+        materi promosi, penawaran khusus dari kami, atau informasi tentang tindakan
+        pengguna lain tentang Anda akun pengguna. Silakan baca Kebijakan Privasi kami
+        untuk mengetahui lebih lanjut tentang pemberitahuan tersebut.
+      denial_of_responsibility: 13. PENOLAKAN TERHADAP TANGGUNG JAWAB.
+      p_13: a. Flutylove tidak bertanggung jawab atas informasi yang salah atau tidak
+        akurat diposting di Website atau berhubungan dengan Layanan, pengguna dari
+        Website atau perangkat keras atau perangkat lunak yang berhubungan dengan
+        Layanan kami atau digunakan di sana. Flutylove tidak bertanggung jawab atas
+        perilaku, baik online dan offline, dari setiap pengguna dari Website. Flutylove
+        tidak mengambil tanggung jawab atas kesalahan, kelalaian, interupsi, penghapusan,
+        kerusakan atau penundaan pengoperasian atau operasi, kegagalan saluran komunikasi,
+        pencurian atau perusakan, akses yang tidak sah atau perubahan jalur komunikasi
+        pengguna. Flutylove tidak bertanggung jawab atas masalah atau kerusakan teknis
+        dari setiap jaringan atau saluran telepon, sistem online komputer, server
+        atau penyedia layanan, peralatan komputer, perangkat lunak, surat atau pemain
+        kegagalan dalam akun pengguna, masalah teknis atau kemacetan di Internet atau
+        di website manapun atau kombinasinya, termasuk kecelakaan atau cedera pada
+        pengguna atau pihak ketiga yang berhubungan dengan komputer, atau sebagai
+        akibat dari partisipasi dalam atau mengunduh informasi yang berkaitan dengan
+        jaringan dan / atau Layanan. Dalam situasi yang Flutylove Perusahaan atau
+        afiliasinya, agen iklan, pendiri atau mitra distribusi tidak akan bertanggung
+        jawab atas kerugian atau kerusakan, termasuk cedera atau kematian, karena
+        penggunaan Website atau Layanan, Materi yang dipasang di Website , atau interaksi
+        antara pengguna dari Situs, baik online dan offline. Website dan Layanan yang
+        disediakan pada SEBAGAIMANA dasar, dan Flutylove tegas menolak jaminan atau
+        kesesuaian untuk tujuan tertentu, atau tidak adanya pelanggaran hak-hak siapa
+        pun. Flutylove tidak dapat menjamin dan tidak menjanjikan dari hasil tertentu
+        dari menggunakan Website dan / atau Layanan.
+      links: 14. LINK.
+      p_14: a. Flutylove tidak bertanggung jawab atas informasi yang salah atau tidak
+        akurat diposting di Website atau berhubungan dengan Layanan, pengguna dari
+        Website atau perangkat keras atau perangkat lunak yang berhubungan dengan
+        Layanan kami atau digunakan di sana. Flutylove tidak bertanggung jawab atas
+        perilaku, baik online dan offline, dari setiap pengguna dari Website. Flutylove
+        tidak mengambil tanggung jawab atas kesalahan, kelalaian, interupsi, penghapusan,
+        kerusakan atau penundaan pengoperasian atau operasi, kegagalan saluran komunikasi,
+        pencurian atau perusakan, akses yang tidak sah atau perubahan jalur komunikasi
+        pengguna. Flutylove tidak bertanggung jawab atas masalah atau kerusakan teknis
+        dari setiap jaringan atau saluran telepon, sistem online komputer, server
+        atau penyedia layanan, peralatan komputer, perangkat lunak, surat atau pemain
+        kegagalan dalam akun pengguna, masalah teknis atau kemacetan di Internet atau
+        di website manapun atau kombinasinya, termasuk kecelakaan atau cedera pada
+        pengguna atau pihak ketiga yang berhubungan dengan komputer, atau sebagai
+        akibat dari partisipasi dalam atau mengunduh informasi yang berkaitan dengan
+        jaringan dan / atau Layanan. Dalam situasi yang Flutylove Perusahaan atau
+        afiliasinya, agen iklan, pendiri atau mitra distribusi tidak akan bertanggung
+        jawab atas kerugian atau kerusakan, termasuk cedera atau kematian, karena
+        penggunaan Website atau Layanan, Materi yang dipasang di Website , atau interaksi
+        antara pengguna dari Situs, baik online dan offline. Website dan Layanan yang
+        disediakan pada SEBAGAIMANA dasar, dan Flutylove tegas menolak jaminan atau
+        kesesuaian untuk tujuan tertentu, atau tidak adanya pelanggaran hak-hak siapa
+        pun. Flutylove tidak dapat menjamin dan tidak menjanjikan dari hasil tertentu
+        dari menggunakan Website dan / atau Layanan.
+      limitation_of_responsibility: 15. BATASAN TANGGUNG JAWAB.
+      p_15: WEBSITE DAN FUNGSI PERUSAHAAN TERMASUK semua skrip, APLIKASI, ISI DAN
+        DESAIN WEBSITE YANG DISEDIAKAN APA DASAR. PERUSAHAAN MENOLAK JAMINAN BAHWA
+        WEBSITE ATAU FUNGSI PERUSAHAAN MUNGKIN COCOK ATAU COCOK UNTUK TUJUAN TERTENTU
+        PENGGUNAAN. PERUSAHAAN TIDAK BISA MENJAMIN DAN TIDAK menjanjikan hasil tertentu
+        DARI PENGGUNAAN SITUS DAN / ATAU FUNGSI ITS; Untuk menghindari kebingungan,
+        PENGGUNA HARUS PERHATIKAN PENCEGAHAN KESELAMATAN KETIKA MENDOWNLOAD DARI WEBSITE
+        ATAU MELALUI LINK POSTED, DAN PENGGUNAAN APAPUN FILES, SERTA SOFTWARE. PERUSAHAAN
+        SANGAT DIANJURKAN UNTUK MENGGUNAKAN PERANGKAT LUNAK HANYA IZIN SERTA ANTIVIRUS
+        SOFTWARE; DENGAN MENGGUNAKAN WEBSITE, PENGGUNA SETUJU BAHWA DOWNLOADS DARI
+        SITUS ATAU DENGAN BANTUAN PERUSAHAAN KONTEN AT HIS / HER RISIKO SENDIRI DAN
+        BERTANGGUNG JAWAB UNTUK HASIL MUNGKIN DARI MENGGUNAKAN INFORMASI INI, TERMASUK
+        KERUSAKAN YANG IT MAY PENYEBAB KE KOMPUTER BUKU ATAU KETIGA PIHAK, DATA KERUGIAN,
+        ATAU KERUSAKAN LAINNYA; DALAM KEADAAN PERUSAHAAN ATAU AGEN PERUSAHAAN tidak
+        bertanggung jawab ATAS PENGGUNA ATAU PIHAK KETIGA ATAS KERUGIAN TIDAK LANGSUNG,
+        TIDAK SENGAJA DAN UNWILFUL, TERMASUK KEHILANGAN MANFAAT, ATAU HILANGNYA DATA,
+        KERUSAKAN kehormatan, martabat ATAU REPUTASI BISNIS, YANG MUNCUL DARI PENGGUNAAN
+        SITUS WEB, KONTEN ATAU APAPUN INFORMASI LAIN UNTUK YANG ANDA ATAU ORANG LAIN
+        DITERIMA ACCESS MELALUI WEBSITE, MESKIPUN PERUSAHAAN HATILAH ATAU mENUNJUKKAN
+        KEMUNGKINAN KERUSAKAN TERSEBUT.
+      responsibilities_of_the_parties: 16. TANGGUNG JAWAB PIHAK.
+      p_16: Perjanjian ini diatur oleh dan ditafsirkan sesuai dengan undang-undang
+        Federasi Rusia. Isu yang tidak diselesaikan oleh Persetujuan ini harus diselesaikan
+        sesuai dengan undang-undang Federasi Rusia. Dalam hal terjadi perselisihan
+        atau kontroversi terkait dengan pelaksanaan Peraturan ini, Pengguna dan Perusahaan
+        akan melakukan segala upaya untuk mengatasinya melalui negosiasi. Dalam kasus
+        sengketa tidak akan diselesaikan dengan negosiasi, perselisihan akan diselesaikan
+        sesuai dengan peraturan perundang-undangan yang berlaku dari Federasi Rusia.
+        Perjanjian ini dilaksanakan dalam bahasa Rusia dan dapat diberikan kepada
+        pengguna untuk ditinjau dalam bahasa lain. Dalam kasus perbedaan dari versi
+        Peraturan dalam bahasa Rusia dan versi dalam bahasa lain, versi bahasa Rusia
+        dari ketentuan Peraturan ini harus diterapkan. Jika karena satu dan lain,
+        satu atau lebih ketentuan Peraturan ini akan dinyatakan tidak sah atau batal,
+        hal ini tidak mempengaruhi keabsahan atau keberlakuan ketentuan lainnya.
+      other_provisions_and_changes: 17. KETENTUAN LAIN DAN PERUBAHAN.
+      p_17: Perjanjian ini adalah perjanjian yang benar antara Anda dan Flutylove
+        mengenai penggunaan Situs dan / atau Layanan. Jika ada ketentuan ini void
+        Perjanjian, sisa Perjanjian tetap berlaku dalam efek penuh. Perjanjian ini
+        dapat diubah dengan Flutylove setiap saat. Jangan ragu untuk menghubungi kami
+        dengan pertanyaan apapun tentang Perjanjian ini.
+      read_this: Aku TELAH MEMBACA PERJANJIAN INI DAN MENYETUJUI SEMUA SYARAT ITS.
+    about:
+      about_flutylove: Tentang Flutylove
+      about_flutylove_text: Flutylove adalah jaringan social entertainment internasional
+        untuk penentuan waktu. Di sini Anda dapat menemukan teman-teman, belahan jiwa
+        seorang, mitra atau hanya menghabiskan waktu Anda dengan menikmati dengan
+        bermain game atau menonton video / foto.
+      flutylove_features: 'Ketika Anda akan mendaftar di situs kami, Anda dapat mengetahui
+        banyak fitur seperti:'
+      video_call_feature: Anda dapat chatting dengan pasangan dengan webcam
+      extended_search: Anda dapat menggunakan pencarian diperpanjang secara gratis
+      multilanguages: Anda dapat mencari mitra dari negara lain, karena layanan kami
+        diharapkan untuk menggunakan oleh berbagai orang dari negara lain karena diterjemahkan
+        lebih dari 70 bahasa
+      play_games_chatting_etc: Anda dapat chatting dengan orang lain, bermain game
+        dan melakukan barang sosial lain
+      we_are_in_social_networks: 'Kami berada di jaringan sosial:'
+      facebook: Facebook
+      twitter: Twitter
+      vk: Vkontakte
+      google_plus: Google plus
+      instagram: Instagram
+      github: Github
+      we_use_open_source_and_high_technology: Kami menggunakan teknologi tinggi dan
+        perpustakaan open source. Kami selalu mencoba untuk mendapatkan yang lebih
+        baik dan meningkatkan layanan kami.
+      partners_and_investors: Kami dibuka untuk kemitraan dan kami ingin mencari investor.
+        Jika Anda ingin bekerja sama dengan kami silahkan hubungi kami di partnership@flutylove.com
+    faq:
+      faq: FAQ
+      what_is_flutylove: Apa Flutylove?
+      about_flutylove: Flutylove adalah jaringan social entertainment internasional
+        untuk penentuan waktu. Di sini Anda dapat menemukan teman-teman, belahan jiwa
+        seorang, mitra atau hanya menghabiskan waktu Anda dengan menikmati dengan
+        bermain game atau menonton video / foto.
+      what_features_has_flutylove: Apa fitur memiliki Flutylove?
+      flutylove_features: Di sini Anda dapat chatting dengan video kamera, gunakan
+        pencarian diperpanjang, mitra penelusuran dari negara lain, bermain game dan
+        melakukan barang sosial lainnya.
+      i_have_some_requests: Saya punya beberapa permintaan
+      you_can_write_request: Anda dapat mendaftar dan menuliskannya
+      here: sini
+      i_have_seen_some_typo_or_wrong_translation: Saya telah melihat beberapa kesalahan
+        ketik atau terjemahan yang salah
+      you_can_send_pull_request_to_our: Anda dapat mengirim Pull Permintaan untuk
+        kami
+      github_repository: github repositori
+      i_have_seen_some_error: Saya telah melihat beberapa kesalahan
+      you_can_send: Anda dapat mengirimkan umpan balik dengan
+      feedback: formulir ini
+      to_us_or_write_to_our_info_mail: atau menulis email ke support@flutylove.com
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Selamat Datang Flutylove
+      you_have_successfully_signed_up_to_flutylove: Anda telah berhasil mendaftar
+        untuk Flutylove
+      you_can_sign_in_with_your_social_networks: Jika Anda ingin masuk lagi Anda dapat
+        masuk dengan akun jaringan sosial Anda
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: Jika
+        Anda ingin masuk dengan email dan password yang Anda dapat mengubah password
+        dengan tanda dan klik link di bawah ini
+      change_password: Ubah password
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            meet_with:
+              meet_with_error: salah
+            search_for:
+              search_for_error: salah
+            birth_date:
+              birth_date_error: harus lebih besar dari 18 dan kurang 115
+            interests:
+              interests_error: harus kurang dari 2000 simbol
+            jobs:
+              jobs_error: harus kurang dari 2000 simbol
+            languages:
+              languages_error: harus kurang dari 2000 simbol
+            sex_keywords:
+              sex_keywords_error: harus kurang dari 2000 simbol
+            my_turn_ons:
+              my_turn_ons_error_error: salah
+            contacts:
+              contacts_length_error: harus kurang dari 2000 simbol
+              contacts_size_error: harus kurang dari 21 kontak
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: memiliki nilai yang tidak valid
+  devise:
+    confirmations:
+      confirmed: Akun Anda telah berhasil dikonfirmasi.
+      send_instructions: Anda akan menerima email dengan petunjuk tentang cara untuk
+        mengkonfirmasi akun Anda dalam beberapa menit.
+      send_paranoid_instructions: Jika alamat email Anda ada di database kami, Anda
+        akan menerima email dengan petunjuk tentang cara untuk mengkonfirmasi akun
+        Anda dalam beberapa menit.
+      new:
+        send_mail_for_confirm_your_email: Kirim surat untuk mengkonfirmasi email Anda
+        submit: Kirim
+    failure:
+      already_authenticated: Anda sudah masuk.
+      inactive: Akun Anda belum diaktifkan.
+      invalid: email atau sandi tidak valid.
+      locked: Akun Anda terkunci.
+      last_attempt: Anda memiliki satu kesempatan lagi sebelum akun Anda akan dikunci.
+      not_found_in_database: email atau sandi tidak valid.
+      timeout: Sesi Anda berakhir. Harap masuk lagi untuk melanjutkan.
+      unauthenticated: Anda harus masuk atau mendaftar sebelum melanjutkan.
+      unconfirmed: Anda harus mengkonfirmasi akun Anda sebelum melanjutkan.
+    mailer:
+      confirmation_instructions:
+        subject: petunjuk Konfirmasi
+        welcome_to_flutylove: Selamat Datang Flutylove
+        you_can_confirm_your_account_email_through_the_link_below: Anda dapat mengkonfirmasi
+          email Anda melalui link di bawah ini
+        confirm_my_account: Konfirmasi Email saya
+      reset_password_instructions:
+        hello: Hello
+        subject: petunjuk sandi ulang
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: Seseorang
+          memiliki permintaan link untuk mengubah password Anda. Anda dapat melakukan
+          ini melalui link di bawah ini.
+        change_my_password: Ubah kata sandi
+        if_you_didnt_request_this_please_ignore_this_email: Jika Anda tidak meminta
+          ini abaikan email ini.
+      unlock_instructions:
+        subject: Instruksi Aktifkan
+    omniauth_callbacks:
+      failure: Tidak dapat mengotentikasi Anda dari% {jenis} karena "% {alasan}".
+      success: Berhasil dikonfirmasi dari% {jenis} akun.
+    passwords:
+      no_token: Anda tidak dapat mengakses halaman ini tanpa datang dari email reset
+        password. Jika Anda datang dari email reset password, pastikan Anda menggunakan
+        URL yang disediakan.
+      send_instructions: Anda akan menerima email dengan petunjuk tentang cara untuk
+        mereset password Anda dalam beberapa menit.
+      send_paranoid_instructions: Jika alamat email Anda ada di database kami, Anda
+        akan menerima link pemulihan sandi di alamat email Anda dalam beberapa menit.
+      updated: sandi Anda berhasil diubah. Anda sekarang masuk.
+      updated_not_active: sandi Anda berhasil diubah.
+      new:
+        forgot_your_password: Memulihkan password Anda
+        reset_password: Kirim pulih url
+      edit:
+        change_your_password: Ubah password Anda
+        new_password: New password
+        change_password: Perubahan
+    registrations:
+      destroyed: Bye! Akun Anda telah berhasil dibatalkan. Kami berharap untuk bertemu
+        lagi segera.
+      signed_up: Selamat! Anda telah mendaftar berhasil.
+      signed_up_but_inactive: Anda telah mendaftar berhasil. Namun, kita tidak bisa
+        masuk Anda karena akun Anda belum diaktifkan.
+      signed_up_but_locked: Anda telah mendaftar berhasil. Namun, kita tidak bisa
+        masuk Anda karena akun Anda terkunci.
+      signed_up_but_unconfirmed: Sebuah pesan dengan link konfirmasi telah dikirim
+        ke alamat email Anda. Silahkan buka link untuk mengaktifkan account Anda.
+      update_needs_confirmation: Anda memperbarui akun Anda berhasil, tetapi kita
+        perlu memverifikasi alamat email baru Anda. Silahkan cek email Anda dan klik
+        pada link konfirmasi untuk menyelesaikan mengkonfirmasi alamat email baru
+        Anda.
+      updated: Anda memperbarui akun Anda berhasil.
+      new:
+        sign_up: Mendaftar
+        name: Nama
+        password: Sandi
+        register: Mendaftar
+    shared:
+      links:
+        sign_in: Masuk
+        sign_up: Mendaftar
+        didnt_receive_confirmation_instructions: Tidak menerima petunjuk konfirmasi?
+        sign_in_with: Masuk dengan
+        fast_login_almost_one_click: Cepat login (Hampir satu kali klik)
+    sessions:
+      signed_in: Masuk berhasil.
+      signed_out: Signed keluar berhasil.
+      new:
+        sign_in: Masuk
+        password: Sandi
+        remember_me: Ingat saya
+        forgot_your_password: Lupa kata sandi Anda?
+    unlocks:
+      send_instructions: Anda akan menerima email dengan petunjuk tentang cara untuk
+        membuka akun Anda dalam beberapa menit.
+      send_paranoid_instructions: Jika akun Anda ada, Anda akan menerima email dengan
+        petunjuk tentang cara membuka kunci dalam beberapa menit.
+      unlocked: Akun Anda telah dibuka berhasil. Tolong masuk untuk melanjutkan.
+  timezones:
+    American Samoa: Samoa Amerika
+    International Date Line West: International Date Line Barat
+    Midway Island: Midway Island
+    Hawaii: Hawaii
+    Alaska: Alaska
+    Pacific Time (US & Canada): Waktu Pasifik (US & Canada)
+    Tijuana: Tijuana
+    Arizona: Arizona
+    Chihuahua: Chihuahua
+    Mazatlan: Mazatlan
+    Mountain Time (US & Canada): Mountain Time (US & Canada)
+    Central America: Amerika Tengah
+    Central Time (US & Canada): Waktu Tengah (US & Canada)
+    Guadalajara: Guadalajara
+    Mexico City: Mexico City
+    Monterrey: Monterrey
+    Saskatchewan: Saskatchewan
+    Bogota: Bogota
+    Eastern Time (US & Canada): Waktu Timur (AS & Kanada)
+    Indiana (East): Indiana (East)
+    Lima: Lima
+    Quito: Quito
+    Atlantic Time (Canada): Waktu Atlantik (Kanada)
+    Caracas: Caracas
+    Georgetown: Georgetown
+    La Paz: La Paz
+    Santiago: Santiago
+    Newfoundland: Newfoundland
+    Brasilia: Brasilia
+    Buenos Aires: Buenos Aires
+    Greenland: Greenland
+    Montevideo: Montevideo
+    Mid-Atlantic: Mid-Atlantic
+    Azores: Azores
+    Cape Verde Is: Cape Verde Apakah.
+    Casablanca: Casablanca
+    Dublin: Dublin
+    Edinburgh: Edinburgh
+    Lisbon: Lisbon
+    London: London
+    Monrovia: Monrovia
+    UTC: UTC
+    Amsterdam: Amsterdam
+    Belgrade: Belgrade
+    Berlin: Berlin
+    Bern: Bern
+    Bratislava: Bratislava
+    Brussels: Brussels
+    Budapest: Budapest
+    Copenhagen: Copenhagen
+    Ljubljana: Ljubljana
+    Madrid: Madrid
+    Paris: Paris
+    Prague: Praha
+    Rome: Roma
+    Sarajevo: Sarajevo
+    Skopje: Skopje
+    Stockholm: Stockholm
+    Vienna: Wina
+    Warsaw: Warsaw
+    West Central Africa: Afrika Tengah Barat
+    Zagreb: Zagreb
+    Athens: Athena
+    Bucharest: Bucharest
+    Cairo: Kairo
+    Harare: Harare
+    Helsinki: Helsinki
+    Istanbul: Istanbul
+    Jerusalem: Yerusalem
+    Kaliningrad: Kaliningrad
+    Kyiv: Kyiv
+    Pretoria: Pretoria
+    Riga: Riga
+    Sofia: Sofia
+    Tallinn: Tallinn
+    Vilnius: Vilnius
+    Baghdad: Baghdad
+    Kuwait: Kuwait
+    Minsk: Minsk
+    Moscow: Moskow
+    Nairobi: Nairobi
+    Riyadh: Riyadh
+    St Petersburg: St. Petersburg
+    Volgograd: Volgograd
+    Tehran: Teheran
+    Abu Dhabi: Abu Dhabi
+    Baku: Baku
+    Muscat: Muscat
+    Samara: Samara
+    Tbilisi: Tbilisi
+    Yerevan: Yerevan
+    Kabul: Kabul
+    Ekaterinburg: Ekaterinburg
+    Islamabad: Islamabad
+    Karachi: Karachi
+    Tashkent: Tashkent
+    Chennai: Chennai
+    Kolkata: Kolkata
+    Mumbai: Mumbai
+    New Delhi: New Delhi
+    Sri Jayawardenepura: Sri Jayawardenepura
+    Kathmandu: Kathmandu
+    Almaty: Almaty
+    Astana: Astana
+    Dhaka: Dhaka
+    Novosibirsk: Novosibirsk
+    Urumqi: Urumqi
+    Rangoon: Rangoon
+    Bangkok: Bangkok
+    Hanoi: Hanoi
+    Jakarta: Jakarta
+    Krasnoyarsk: Krasnoyarsk
+    Beijing: Beijing
+    Chongqing: Chongqing
+    Hong Kong: Hong Kong
+    Irkutsk: Irkutsk
+    Kuala Lumpur: Kuala Lumpur
+    Perth: Perth
+    Singapore: Singapura
+    Taipei: Taipei
+    Ulaanbaatar: Ulaanbaatar
+    Osaka: Osaka
+    Sapporo: Sapporo
+    Seoul: Seoul
+    Tokyo: Tokyo
+    Yakutsk: Yakutsk
+    Adelaide: Adelaide
+    Darwin: Darwin
+    Brisbane: Brisbane
+    Canberra: Canberra
+    Guam: Guam
+    Hobart: Hobart
+    Melbourne: Melbourne
+    Port Moresby: Port Moresby
+    Sydney: Sydney
+    Vladivostok: Vladivostok
+    Magadan: Magadan
+    New Caledonia: Kaledonia Baru
+    Solomon Is: Salomo Apakah.
+    Srednekolymsk: Srednekolymsk
+    Auckland: Auckland
+    Fiji: Fiji
+    Kamchatka: Kamchatka
+    Marshall Is: Marshall Apakah.
+    Wellington: Wellington
+    Chatham Is: Chatham Apakah.
+    Nuku'alofa: Nukualofa
+    Samoa: Samoa
+    Tokelau Is: Tokelau Apakah.
+  id: id
+  id_iso: id

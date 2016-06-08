@@ -1,0 +1,1652 @@
+---
+pa:
+  1_we_have_just_launched_our_service_title: ਸਾਨੂੰ ਹੁਣੇ ਹੀ ਸਾਡੀ ਸੇਵਾ ਸ਼ੁਰੂ ਕੀਤੀ ਹੈ!
+  common_keywords: datings, ਆਨਲਾਈਨ datings, ਪਿਆਰ datings, ਵੈਬਕੈਮ ਡੇਟਿੰਗ, ਗਤੀ ਡੇਟਿੰਗ,
+    ਡੇਟਿੰਗ ਵੈਬਕੈਮ ਚੈਟ, ਰੂਬੀ ਤੇ ਰੇਲਜ਼ ਸਾਈਟ ਡੇਟਿੰਗ, ਬਹੁਭਾਸ਼ੀ ਡੇਟਿੰਗ ਸਾਈਟ
+  common_description: datings ਲਈ ਸਭ ਤਕਨੀਕੀ ਅੰਤਰਰਾਸ਼ਟਰੀ ਸਮਾਜਿਕ ਮਨੋਰੰਜਨ ਨੈੱਟਵਰਕ "Flutylove"
+  default_album: ਮੂਲ ਐਲਬਮ
+  user: ਯੂਜ਼ਰ
+  user_to_search_connection: ਖੋਜ
+  video: ਵੀਡੀਓ
+  note: ਸੂਚਨਾ
+  photo_album: ਫੋਟੋ ਐਲਬਮ
+  from: ਤੱਕ
+  to: ਕਰਨ ਲਈ
+  vkontakte: Vkontakte
+  facebook: ਫੇਸਬੁੱਕ
+  twitter: ਟਵਿੱਟਰ
+  google_oauth2: ਗੂਗਲ
+  instagram: Instagram
+  dropbox_oauth2: Dropbox
+  mail_ru: Mail.ru
+  odnoklassniki: Odnoklassniki
+  gender:
+  - male:
+      name: ਮਰਦ
+  - female:
+      name: ਔਰਤ
+  - transgender:
+      name: Transgender
+  - male-female:
+      name: ਮਰਦ-ਔਰਤ
+  - double-female:
+      name: ਡਬਲ ਔਰਤ
+  - double-male:
+      name: ਡਬਲ ਮਰਦ
+  orientation:
+  - heterosexual: ਿਵਪਰੀਤ
+  - homosexual: ਸਮਲਿੰਗੀ
+  - bisexual: ਦੁ
+  search_for:
+  - get_friends: ਪ੍ਰਾਪਤ ਕਰੋ ਦੋਸਤ
+  - flirtation: ਇਸ਼ਕਬਾਜ਼ੀ
+  - marriage: ਵਿਆਹ
+  - other: ਹੋਰ
+  body_type:
+    slim: ਸਲਿਮ
+    normal: ਸਧਾਰਨ
+    chubby: ਹੋਰ
+  relationship:
+    single: ਸਿੰਗਲ
+    in_a_relationship: ਇੱਕ ਰਿਸ਼ਤੇ ਵਿੱਚ
+    married: ਵਿਆਹ
+    nothing_serious: ਕੁਝ ਗੰਭੀਰ
+  children:
+    dont_have: ਹੈ ਨਾ ਕਰੋ
+    dont_have_and_dont_want_to: ਹੈ ਨਾ ਕਰੋ ਅਤੇ ਨਾ ਕਰਨਾ ਚਾਹੁੰਦੇ
+    don_t_have_but_planning: ਹੈ, ਪਰ ਯੋਜਨਾਬੰਦੀ ਨਾ ਕਰੋ
+    have_enough: ਹੈ
+    have_and_planning_more: ਹੈ ਅਤੇ ਹੋਰ ਵੀ ਯੋਜਨਾ ਬਣਾ
+  living:
+    with_parents: ਮਾਪੇ ਨਾਲ
+    with_marriage_partner: ਜੀਵਨ ਸਾਥੀ ਨਾਲ
+    alone: ਕੁੜੀ
+    with_friends: ਦੋਸਤ ਨੂੰ ਨਾਲ (ਹਵਾਈਅੱਡੇ) ਤੇ
+  education:
+    nothing: ਕੁਝ
+    secondary_school: ਸੈਕੰਡਰੀ ਸਕੂਲ ਦੇ
+    college_technical_college: ਕਾਲਜ / ਤਕਨੀਕੀ ਕਾਲਜ
+    university: ਯੂਨੀਵਰਸਿਟੀ
+    postgraduate: ਿਕਦੇਹਨ
+    phd_md_post_doctorate: ਐੱਚ / ਐਮ.ਡੀ. / ਪੋਸਟ ਡਾਕਟਰੇਟ
+  hair_color:
+    blonde: ਸੁਨਹਿਰੇ
+    dark_blond: ਹਨੇਰੇ ਸੁਨਹਿਰਾ
+    brown: ਭੂਰੇ
+    black: ਕਾਲੇ
+    red: ਲਾਲ
+    gray: ਸਲੇਟੀ
+    other: ਹੋਰ
+  income:
+    unstable_earnings: ਅਸਿਥਰ ਕਮਾਈ
+    small_stable_earnings: ਛੋਟੇ ਸਥਿਰ ਕਮਾਈ
+    medium_stable_earnings: ਦਰਮਿਆਨੇ ਸਥਿਰ ਕਮਾਈ
+    higher_than_average_income: ਔਸਤ ਆਮਦਨ ਵੱਧ ਉਚੇਰੀ
+    high_income: ਹਾਈ ਆਮਦਨ
+  smoking:
+    not_smoke: ਸਮੋਕਿੰਗ ਨਾ
+    not_smoke_and_detest: ਸਮੋਕਿੰਗ ਨਾ ਅਤੇ ਸਿਗਰਟ ਨਫ਼ਰਤ
+    smoke_occasionally: ਸਮੋਕ ਕਦੇ ਕਦੇ
+    smoke_often: ਸਮੋਕ ਅਕਸਰ
+  alcohol:
+    not_drinking: ਪੀਣ ਨਾ
+    drink_occalionally: ਪੀਓ ਕਦੇ ਕਦੇ
+    drink_often: ਪੀਓ ਅਕਸਰ
+  drugs:
+    dont_use: ਨਾ ਵਰਤੋ
+    contra_drugs: Contra ਨਸ਼ੇ
+    tried_out_some: ਬਾਹਰ ਕੋਸ਼ਿਸ਼ ਕੁਝ
+    light_drugs_occasionally: ਚਾਨਣ ਨਸ਼ੇ ਕਦੇ ਕਦੇ
+  sponsor:
+    i_want_to_find_a_sponsor: ਮੈਨੂੰ ਇੱਕ ਸਰਪਰਸਤ ਦਾ ਪਤਾ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ
+    willing_to_become_a_sponsor: ਨੂੰ ਇੱਕ ਸਰਪਰਸਤ ਬਣਨ ਲਈ ਤਿਆਰ
+    not_looking_for_a_sponsor_and_not_willing_to_become_one: ਨਾ ਇੱਕ ਪ੍ਰਾਯੋਜਕ ਦੀ ਤਲਾਸ਼
+      ਹੈ ਅਤੇ ਇੱਕ ਬਣ ਕਰਨ ਲਈ ਤਿਆਰ ਹੈ, ਨਾ
+  category_name:
+    strategy: ਨੀਤੀ
+    rpg: ਆਰਪੀਜੀ
+    3d_shooters: 3D ਨਿਸ਼ਾਨੇਬਾਜ਼
+    racing: ਰੇਸਿੰਗ
+    arcade: ਆਰਕੇਡ
+    economic: ਆਰਥਿਕ
+    simulators: ਸਿਮੁਲੇਟਰਸ
+    logic: ਤਰਕ
+    adventure: ਸਾਹਿਸਕ
+    board_games: ਬੋਰਡ ਗੇਮਜ਼
+    gambling: ਜੂਆ
+    news: ਨਿਊਜ਼
+    communication: ਸੰਚਾਰ
+    multimedia: ਮਲਟੀਮੀਡੀਆ
+    drawing: ਡਰਾਇੰਗ
+    educational: ਵਿਦਿਅਕ
+    e_commerce: ਈ-ਕਾਮਰਸ
+    other: ਹੋਰ
+  shared:
+    header:
+      people: ਲੋਕ
+      chat: ਚੈਟ
+      groups: ਗਰੁੱਪ
+      forum: ਫੋਰਮ
+      requests: ਮੰਗ
+      about: ਪ੍ਰਾਜੈਕਟ ਨੂੰ ਬਾਰੇ
+      help: ਮੱਦਦ
+      user_applications: ਕਾਰਜ
+    liked_users:
+      liked: ਪਸੰਦ
+      all: ਸਾਰੇ
+      you_have_not_liked_any_users_yet: ਤੁਹਾਨੂੰ ਕਿਸੇ ਉਪਭੋਗੀ ਨੂੰ ਅਜੇ ਨੂੰ ਪਸੰਦ ਨਾ ਹੈ
+    most_liked_users:
+      most_liked_users: ਪ੍ਰਸਿੱਧ ਉਪਭੋਗੀ
+    installed_user_applications:
+      installed_applications: ਇੰਸਟਾਲ ਕਾਰਜ
+      all: ਸਾਰੇ
+      you_have_not_installed_any_apps_yet: ਤੁਹਾਨੂੰ ਕਿਸੇ ਵੀ ਕਾਰਜ ਹਾਲੇ ਇੰਸਟਾਲ ਨਾ ਹੈ,
+    user_applications:
+      uploaded_apps: ਅਪਲੋਡ ਕਾਰਜ
+      all: ਸਾਰੇ
+      you_have_not_uploaded_any_apps_yet: ਤੁਹਾਨੂੰ ਕਿਸੇ ਵੀ ਕਾਰਜ ਨੂੰ ਅਜੇ ਨੂੰ ਅੱਪਲੋਡ,
+        ਨਾ ਹੈ,
+    right_sidebar:
+      news: ਨਿਊਜ਼
+      all: ਸਾਰੇ
+      read_more: ਹੋਰ ਪੜ੍ਹੋ
+    footer:
+      footer_text: datings ਲਈ ਇੰਟਰਨੈਸ਼ਨਲ ਸੋਸ਼ਲ ਮਨੋਰੰਜਨ ਨੈੱਟਵਰਕ "Flutylove"
+      privacy: ਗੋਪਨੀਯਤਾ
+      terms: ਨਿਯਮ
+      feedback: ਸੁਝਾਅ
+      abuse: ਦੁਰਵਿਹਾਰ
+    languages_select_modal:
+      available_languages: ਉਪਲੱਬਧ ਭਾਸ਼ਾ
+    site_map_modal:
+      site_map: ਸਾਈਟ ਦਾ ਨਕਸ਼ਾ
+      faq: ਸਵਾਲ
+      about: ਬਾਰੇ
+      static_pages: ਸਥਿਰ ਸਫ਼ੇ
+      common_pages: ਆਮ ਸਫ਼ੇ
+      user_pages: ਯੂਜ਼ਰ ਸਫ਼ੇ
+      terms: ਨਿਯਮ
+      privacy: ਗੋਪਨੀਯਤਾ
+      people: ਲੋਕ
+      user_applications: ਕਾਰਜ
+      user_requests: ਮੰਗ
+      news: ਨਿਊਜ਼
+      feedback: ਸੁਝਾਅ
+      abuse: ਦੁਰਵਿਹਾਰ
+      chats: ਗੱਲਬਾਤ
+      videos: ਵੀਡੀਓ
+      photo_albums: ਫੋਟੋ ਐਲਬਮ
+      notes: ਸੂਚਨਾ
+    pagination_link:
+      next_page: ਅੱਗੇ ਸਫ਼ਾ
+    user_edit_menu:
+      content: ਸਮੱਗਰੀ
+      profile: ਪ੍ਰੋਫ਼ਾਈਲ English
+      site_settings: ਸਾਈਟ ਸੈਟਿੰਗ
+      privacy: ਗੋਪਨੀਯਤਾ
+      services: ਸਰਵਿਸਿਜ਼
+    activities_navigation:
+      all: ਸਾਰੇ
+      photos: ਫੋਟੋਜ਼
+      photo_albums: ਫੋਟੋ ਐਲਬਮ
+      notes: ਸੂਚਨਾ
+      videos: ਵੀਡੀਓ
+    notifications_navigation:
+      all: ਸਾਰੇ
+      likes: ਪਸੰਦ
+      friend_requests: ਦੋਸਤ ਬੇਨਤੀ
+      profile_views: ਪ੍ਰੋਫ਼ਾਈਲ English ਵਿਚਾਰ
+      photo_album_views: ਫੋਟੋਜ਼ ਵਿਚਾਰ
+    user_to_friend_connections_navigation:
+      friends: ਦੋਸਤ
+      friends_online: ਦੋਸਤ ਆਨਲਾਈਨ
+      outcome_requests: ਨਤੀਜਾ ਬੇਨਤੀ
+      income_requests: ਆਮਦਨ ਬੇਨਤੀ
+    user_applications_navigation:
+      all: ਸਾਰੇ
+      new: ਨਿਊ
+      popular: ਪ੍ਰਸਿੱਧ
+      often_installed: ਅਕਸਰ ਇੰਸਟਾਲ ਹੈ
+      manage: ਦਾ ਪ੍ਰਬੰਧ ਕਰੋ
+    user_requests_navigation:
+      all: ਸਾਰੇ
+      popular: ਪ੍ਰਸਿੱਧ
+    user_navbar_menu:
+      sign_up: ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ
+    email_signature:
+      info: ਜਾਣਕਾਰੀ
+      mailer: Mailer
+      technoelegance: Technoelegance ਲਿਮਟਿਡ
+    translations:
+      select_gender: ਲਿੰਗ ਚੁਣੋ
+      select_orientation: ਸਥਿਤੀ ਚੁਣੋ
+    need_to_sign_in_modal:
+      you_need_to_sign_in: ਤੁਹਾਨੂੰ ਇਸ ਕਾਰਵਾਈ ਅੱਗੇ ਸਾਈਨ ਕਰਨ ਦੀ ਲੋੜ ਹੈ
+    sign_up_methods:
+      usual_register_link: ਆਮ ਰਜਿਸਟਰੇਸ਼ਨ
+      register_text: "% ਇਲਾਵਾ {usual_registration} ਤੁਹਾਨੂੰ ਸਭ ਪ੍ਰਸਿੱਧ ਸੇਵਾ ਅਤੇ ਸਮਾਜਿਕ
+        ਨੈੱਟਵਰਕ ਦੁਆਰਾ ਰਜਿਸਟਰ ਕਰ ਸਕਦੇ ਹੋ"
+    bootstrap_gallery:
+      next: ਅੱਗੇ
+    user_notification_title:
+      you_liked: ਤੁਹਾਨੂੰ ਕੇ ਪਸੰਦ ਕੀਤਾ
+      wrote_message_to_you: ਤੁਹਾਡੇ ਲਈ ਸੰਦੇਸ਼ ਨੂੰ ਲਿਖਿਆ
+      viewed_your_profile: ਆਪਣੀ ਪ੍ਰੋਫਾਈਲ ਦੇਖੇ
+      liked_your_photo: ਆਪਣੇ ਫੋਟੋ ਪਸੰਦ
+      liked_your_note: ਆਪਣੇ ਨੋਟ ਪਸੰਦ
+      liked_your_request: ਤੁਹਾਡੀ ਬੇਨਤੀ ਪਸੰਦ
+      liked_your_video: ਆਪਣੇ ਵੀਡੀਓ ਪਸੰਦ
+      liked_your_application: ਆਪਣੇ ਕਾਰਜ ਪਸੰਦ
+      requested_a_friendship: ਦੋਸਤੀ ਮੰਗ
+  authentications:
+    authentication:
+      turn_on: ਚਾਲੂ ਕਰੋ
+      turn_off: ਬੰਦ ਕਰੋ
+      turned_on: "'ਤੇ ਬਦਲ"
+      turned_off: ਬੰਦ ਕੀਤਾ ਗਿਆ
+    index:
+      enabled_services: ਯੋਗ ਸੇਵਾ
+  users:
+    profile:
+      submit: ਸੰਭਾਲੋ
+      name: ਦਾ ਨਾਮ
+      meet_with: ਮਿਲੋ ਨਾਲ
+      gender: ਲਿੰਗ
+      type_in_your_location: ਆਪਣੇ ਸ਼ਹਿਰ ਵਿਚ ਦੀ ਕਿਸਮ
+      about_me: "(ਇਸ ਦੇ ਹੇਠ ਦਿੱਤੇ ਫਾਰਮ ਨੂੰ ਕਰਨ ਲਈ)"
+      enter_your_name: ਆਪਣੇ ਨਾਮ ਦਰਜ ਕਰੋ
+      more_options: ਹੋਰ
+      orientation: ਸਥਿਤੀ
+      birth_date: ਜਨਮ ਦੀ ਤਾਰੀਖ
+      location: ਸਥਿਤੀ
+      intimacy: ਰਿਸ਼ਤਾ
+      in_age: ਦੀ ਉਮਰ ਵਿੱਚ
+      from: ਤੱਕ
+      to: ਨੂੰ
+      interests: ਹਿੱਤ
+      height: ਕੱਦ
+      weight: ਭਾਰ
+      body_type: ਸਰੀਰ ਦੇ ਕਿਸਮ
+      hair_color: ਵਾਲ ਦੇ ਰੰਗ
+      relationship: ਰਿਸ਼ਤਾ
+      children: ਬੱਚੇ
+      living: ਬੈਠਕ
+      education: ਸਿੱਖਿਆ
+      jobs: ਅੱਯੂਬ
+      income: ਆਮਦਨ
+      languages: ਭਾਸ਼ਾ
+      smoking: ਸਿਗਰਟ
+      alcohol: ਸ਼ਰਾਬ
+      drugs: ਡਰੱਗਜ਼
+      contacts: ਸੰਪਰਕ
+      contact_name: ਸੰਪਰਕ ਨਾਮ
+      contact_value: ਸੰਪਰਕ ਮੁੱਲ
+      save: ਸੰਭਾਲੋ
+      about_yourself: ਆਪਣੇ ਬਾਰੇ
+    settings:
+      submit: ਸੰਭਾਲੋ
+      locale: ਇੰਟਰਫੇਸ ਭਾਸ਼ਾ
+      interface_language: ਇੰਟਰਫੇਸ ਭਾਸ਼ਾ
+      time_zone: ਟਾਈਮ ਜ਼ੋਨ
+    dialog_modal:
+      send_message: ਭੇਜੋ ਸੁਨੇਹੇ ਨੂੰ
+    index:
+      users: ਉਪਭੋਗੀ
+      clear_search: ਆਸਮਾਨ ਖੋਜ
+    dashboard:
+      hello: ਹੈਲੋ
+      here_some_of_your_statistics: ਇੱਥੇ ਆਪਣੇ ਅੰਕੜੇ ਦੇ ਕੁਝ
+      chats: ਗੱਲਬਾਤ
+      messages: ਸੁਨੇਹੇ
+      photos: ਫੋਟੋਜ਼
+      videos: ਵੀਡੀਓ
+      notes: ਸੂਚਨਾ
+      photo_albums: ਫੋਟੋ ਐਲਬਮ
+    avatar:
+      photo: ਫੋਟੋ
+      uploading_file: ਅੱਪਲੋਡ ਫਾਇਲ
+      handling_file: ਹੈਡਲਿੰਗ ਫਾਇਲ
+      drag_and_drop_your_file: ਖਿੱਚੋ ਅਤੇ ਆਪਣੇ ਫਾਇਲ ਨੂੰ ਖਤਮ
+      here: ਇੱਥੇ
+      or: ਜ
+      upload_file: ਅਪਲੋਡ ਫਾਇਲ
+      from_other_sites: ਹੋਰ ਸਾਈਟ ਤੱਕ
+      write_down_link_for_your_image: ਥੱਲੇ ਆਪਣੇ ਚਿੱਤਰ ਦਾ ਲਿੰਕ ਲਿਖੋ
+      upload: ਅੱਪਲੋਡ
+      from_facebook: ਫੇਸਬੁੱਕ ਤੱਕ
+      you_can_upload_your_photos_from_facebook: ਫੇਸਬੁੱਕ ਤੱਕ ਆਪਣੇ ਫੋਟੋ ਅੱਪਲੋਡ ਕਰ ਸਕਦੇ
+        ਹੋ
+      from_vkontakte: Vkontakte ਤੱਕ
+      you_can_upload_your_photos_from_vkontakte: Vkontakte ਤੱਕ ਆਪਣੇ ਫੋਟੋ ਅੱਪਲੋਡ ਕਰ
+        ਸਕਦੇ ਹੋ
+      from_instagram: Instagram ਤੱਕ
+      you_can_upload_your_photos_from_instagram: Instagram ਤੱਕ ਆਪਣੇ ਫੋਟੋ ਅੱਪਲੋਡ ਕਰ
+        ਸਕਦੇ ਹੋ
+      from_dropbox: Dropbox ਤੱਕ
+      you_can_upload_your_photos_from_dropbox: Dropbox ਤੱਕ ਆਪਣੇ ਫੋਟੋ ਅੱਪਲੋਡ ਕਰ ਸਕਦੇ
+        ਹੋ
+      edit_photo: ਸੋਧ ਫੋਟੋ
+      delete_photo: ਹਟਾਓ ਫੋਟੋ
+      are_you_sure: ਤੁਹਾਨੂੰ ਯਕੀਨ ਹੈ?
+    available_photos_modal:
+      available_photos: ਉਪਲੱਬਧ ਫੋਟੋ
+    update:
+      your_password_was_successfully_changed: ਸਫਲਤਾਪੂਰਕ ਤਬਦੀਲ ਹੋ ਗਿਆ ਸੀ,
+      your_profile_was_successfully_updated: ਸਫਲਤਾਪੂਰਕ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ
+    edit_photo:
+      edit_photo: ਸੋਧ ਫੋਟੋ
+      crop: ਕਰੋਪ
+      close: ਬੰਦ
+      save_changes: ਸੰਭਾਲੋ ਬਦਲਾਅ
+    contact:
+      contact_name_placeholder: ਫੇਸਬੁੱਕ / ਸਕਾਈਪ / ਵੀ.ਕੇ. ਨੂੰ / etc
+      contact_value_placeholder: URL ਨੂੰ / ਨਿਕ / ID / etc
+    user:
+      about_me: ਮੇਰੇ ਬਾਰੇ
+      orientation: ਸਥਿਤੀ
+      meet_with: ਮਿਲੋ ਨਾਲ
+      desirable_age: ਲੋਕ ਵੱਡੇ ਉਮਰ ਦੇ
+      from: ਤੱਕ
+      to: ਨੂੰ
+      interests: ਹਿੱਤ
+      height: ਕੱਦ
+      sm: SM
+      kg: ਕਿਲੋ
+      body_type: ਸਰੀਰ ਦੇ ਕਿਸਮ
+      hair_color: ਵਾਲ ਦੇ ਰੰਗ
+      relationship: ਰਿਸ਼ਤਾ
+      children: ਬੱਚੇ
+      living: ਬੈਠਕ
+      education: ਸਿੱਖਿਆ
+      jobs: ਸਬੰਧਤ
+      income: ਆਮਦਨ
+      languages: ਭਾਸ਼ਾ
+      smoking: ਸਿਗਰਟ
+      alcohol: ਸ਼ਰਾਬ
+      drugs: ਡਰੱਗਜ਼
+      contacts: ਸੰਪਰਕ
+    user_info:
+      offline: ਆਫ਼ਲਾਈਨ
+      online: ਆਨਲਾਈਨ
+      age: ਉਮਰ
+    loading_modal_images:
+      loading_images: ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ ਚਿੱਤਰ
+    password_form:
+      new_password: ਨਿਊ ਪਾਸਵਰਡ
+      confirm_new_password: ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ
+      old_password: ਪੁਰਾਣਾ ਪਾਸਵਰਡ
+    show:
+      photos: ਫੋਟੋਜ਼
+      all: ਸਾਰੇ
+      videos: ਵੀਡੀਓ
+      notes: ਸੂਚਨਾ
+      view: ਦੇਖੋ
+    dropbox_token_form:
+      key: ਕੁੰਜੀ
+      paste_recieved_key: ਚੇਪੋ recieved ਕੁੰਜੀ
+      submit: ਪੇਸ਼
+    contents:
+      users_which_i_like: ਉਪਭੋਗੀ, ਜੋ ਕਿ i like
+      all: ਸਾਰੇ
+      my_videos_likes: ਮੇਰੀ ਵੀਡਿਓ ਨੂੰ ਪਸੰਦ
+      my_photos_likes: ਮੇਰੀ ਫੋਟੋ ਪਸੰਦ
+      my_notes_likes: ਮੇਰੀ ਨੋਟ ਪਸੰਦ
+      my_user_applications_likes: ਮੇਰੀ ਕਾਰਜ ਪਸੰਦ
+      my_user_requests_likes: ਮੇਰੀ ਬੇਨਤੀ ਪਸੰਦ
+    more_profile_info:
+      photo_albums: ਫੋਟੋ ਐਲਬਮ
+      view_all_photo_albums: ਸਾਰੇ ਫੋਟੋ ਐਲਬਮ ਦੇਖੋ
+      create_more: ਹੋਰ ਬਣਾਓ
+      videos: ਵੀਡੀਓ
+      view_all_videos: ਸਾਰੇ ਦੇਖੋ
+      notes: ਸੂਚਨਾ
+      view_all_notes: ਦੇਖੋ ਸਭ ਨੋਟਿਸ
+      requirements_lists_to_partner: ਲੋੜ ਸਾਥੀ ਨੂੰ ਸੂਚੀ
+      requirement: ਦੀ ਲੋੜ
+      view_all_requirements_lists: ਦੇਖੋ ਸਾਰੇ ਲੋੜ ਨੂੰ ਸੂਚੀ
+      profile_verification: ਪ੍ਰੋਫ਼ਾਈਲ English ਤਸਦੀਕ
+      your_profile_is_successfully_verified: ਸਫਲਤਾਪੂਰਕ ਪ੍ਰਮਾਣਿਤ ਹੈ
+      create: ਬਣਾਓ
+      you_have_not_any_requirements_lists_yet: ਕਿਸੇ ਵੀ ਲੋੜ ਨੂੰ ਅਜੇ ਸੂਚੀ ਹੈ
+      you_have_not_any_notes_yet: ਅਜੇ ਤੱਕ ਨਾ ਕੋਈ ਵੀ ਨੋਟ ਹੈ
+      you_have_not_any_photo_albums_yet: ਨਾ ਕਿਸੇ ਫੋਟੋ ਐਲਬਮ ਅਜੇ ਵੀ ਹੈ
+      you_have_not_any_videos_yet: ਅਜੇ ਤੱਕ ਨਾ ਕਿਸੇ ਵੀਡੀਓ ਨੂੰ ਹੈ
+      your_profile_is_not_verified_yet: ਅਜੇ ਵੀ ਪ੍ਰਮਾਣਿਤ ਨਹੀ ਹੈ
+      verify_through_twitter: ਟਵਿੱਟਰ ਦੁਆਰਾ ਪੁਸ਼ਟੀ ਕਰੋ
+      verify_through_facebook: ਫੇਸਬੁੱਕ ਦੁਆਰਾ ਪੁਸ਼ਟੀ ਕਰੋ
+      verify_through_mail_ru: Mail.ru ਦੁਆਰਾ ਪੁਸ਼ਟੀ ਕਰੋ
+    privacy:
+      privacy: ਗੋਪਨੀਯਤਾ
+  searches:
+    form:
+      location: ਸਥਿਤੀ
+      from: ਤੱਕ
+      to: ਨੂੰ
+      age: ਉਮਰ
+      gender: ਲਿੰਗ
+    form_content:
+      city: ਸਿਟੀ
+      gender: ਲਿੰਗ
+      to: ਨੂੰ
+      online: ਆਨਲਾਈਨ
+      verified: ਤਸਦੀਕ
+      has_avatar: ਅਵਤਾਰ ਹੈ
+      region: ਖੇਤਰ
+      more: ਹੋਰ
+      country: ਦੇਸ਼
+      about_me: ਮੇਰੇ ਬਾਰੇ
+      interests: ਹਿੱਤ
+      languages: ਭਾਸ਼ਾ
+      names: ਨਾਮ
+      height: ਕੱਦ
+      from: ਤੱਕ
+      weight: ਭਾਰ
+      body_type: ਸਰੀਰ ਦੇ ਕਿਸਮ
+      relationship: ਰਿਸ਼ਤਾ
+      hair_color: ਵਾਲ ਦੇ ਰੰਗ
+      education: ਸਿੱਖਿਆ
+      orientation: ਸਥਿਤੀ
+      children: ਬੱਚੇ
+      living: ਬੈਠਕ
+      smoking: ਸਿਗਰਟ
+      alcohol: ਸ਼ਰਾਬ
+      drugs: ਡਰੱਗਜ਼
+      income: ਆਮਦਨ
+    show:
+      users: ਉਪਭੋਗੀ
+      clear_search: ਆਸਮਾਨ ਖੋਜ
+  welcome:
+    index:
+      people: ਲੋਕ
+      requests: ਮੰਗ
+      user_applications: ਕਾਰਜ
+      about: ਬਾਰੇ
+      features: ਫੀਚਰ
+      registration: ਰਜਿਸਟਰੇਸ਼ਨ
+      welcome_main_title: Flutylove ਸੁਆਗਤ ਹੈ!
+      welcome_main_text: ਜਗ੍ਹਾ ਹੈ, ਜਿੱਥੇ ਤੁਹਾਨੂੰ ਆਪਣੇ ਸੰਪੂਰਣ ਪਿਆਰ ਕਰ ਸਕਦਾ ਹੈ,
+      find_more: ਹੋਰ ਲੱਭੋ
+      about_title: Flutylove datings ਲਈ ਅੰਤਰਰਾਸ਼ਟਰੀ ਸਮਾਜਿਕ ਮਨੋਰੰਜਨ ਨੈੱਟਵਰਕ ਹੈ
+      about_text: ਬਹੁਤ ਸਾਰੇ ਫੀਚਰ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ entertainments ਅਤੇ datings ਲਈ ਇਸਤੇਮਾਲ
+        ਕਰ ਸਕਦੇ ਹੋ ਉਪਲਬਧ ਹਨ!
+      find_more_features: ਹੋਰ ਫੀਚਰ ਲੱਭੋ
+      at_our_service: ਸਾਡੀ ਸੇਵਾ ਦੇ ਫੀਚਰ
+      many_languages: ਕਈ ਭਾਸ਼ਾ
+      text_about_many_languages: ਵੱਧ 70 ਭਾਸ਼ਾ ਦਾ ਅਨੁਵਾਦ ਕੀਤਾ ਗਿਆ ਹੈ
+      check_it_out: ਇਸ ਨੂੰ ਬਾਹਰ ਚੈੱਕ ਕਰੋ
+      videochats: Videochats
+      try_it_now: ਹੁਣ ਇਸ ਨੂੰ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ
+      search: ਖੋਜ
+      text_about_search: ਤੁਹਾਨੂੰ ਮਲਟੀਪਲ ਪੈਰਾਮੀਟਰ ਨਾਲ ਖੋਜ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ ਇਸ ਨੂੰ ਮੁਫ਼ਤ
+        ਹੈ!
+      watch_this: ਵਾਚ ਇਸ
+      more_features: ਹੋਰ ਫੀਚਰ
+      text_about_more_features: ਤੁਹਾਨੂੰ ਵੀਡੀਓ, ਖੇਡ ਖੇਡ ਨੂੰ ਵੇਖਣ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ ਕਰ
+        ਸਕਦਾ ਹੈ!
+      register_and_learn_more: ਰਜਿਸਟਰ ਅਤੇ ਹੋਰ ਸਿੱਖ
+      install_our_apps: ਪ੍ਰਸਿੱਧ ਪਲੇਟਫਾਰਮ 'ਤੇ, ਸਾਡੇ ਐਪਸ ਇੰਸਟਾਲ ਕਰੋ
+      register_header: ਰਜਿਸਟਰੇਸ਼ਨ
+  feedbacks:
+    new:
+      feedback_title: ਸੁਝਾਅ
+    form:
+      feedback_content: ਸੁਝਾਅ ਸਮੱਗਰੀ ਨੂੰ
+      close: ਬੰਦ
+      send: ਭੇਜੋ
+      feedback_recaptcha: reCAPTCHA
+      cancel: ਰੱਦ
+    success:
+      success_feedback: ਤੁਹਾਡਾ ਧੰਨਵਾਦ! ਸਾਨੂੰ ਆਪਣੇ ਫੀਡਬੈਕ recieved ਹੈ.
+      close: ਬੰਦ
+      cancel: ਰੱਦ
+      more: ਹੋਰ ਭੇਜੋ
+  abuses:
+    new:
+      abuse_title: ਦੁਰਵਿਹਾਰ
+    form:
+      abuse_content: ਦੁਰਵਿਹਾਰ ਸਮੱਗਰੀ ਨੂੰ
+      abuse_title: ਦੁਰਵਿਹਾਰ
+      close: ਬੰਦ
+      send: ਭੇਜੋ
+      abuse_recaptcha: reCAPTCHA
+      abuse_link: ਲਿੰਕ
+      cancel: ਰੱਦ
+    success:
+      success_abuse: ਤੁਹਾਡਾ ਧੰਨਵਾਦ! ਸਾਨੂੰ ਆਪਣੇ ਨਾਲ ਬਦਸਲੂਕੀ recieved ਹੈ.
+      close: ਬੰਦ
+      cancel: ਰੱਦ
+      more: ਹੋਰ ਭੇਜੋ
+  layouts:
+    welcome:
+      welcome_title: Flutylove ਸੁਆਗਤ ਹੈ! ਸਭ ਤਕਨੀਕੀ ਡੇਟਿੰਗ ਸਾਈਟ.
+  recaptcha:
+    errors:
+      verification_failed: ਵਿੱਚ ਅਸਫਲ reCAPTCHA
+      recaptcha_unreachable: reCAPTCHA ਪਹੁੰਚਯੋਗ ਹੈ
+  news:
+    1_we_have_just_launched_our_service:
+      we_have_just_launched_our_service_title: ਸਾਨੂੰ ਹੁਣੇ ਹੀ ਸਾਡੀ ਸੇਵਾ ਸ਼ੁਰੂ ਕੀਤੀ
+        ਹੈ!
+      we_have_just_launched_our_service_text: ਅੱਜ ਸਾਨੂੰ ਸਾਡੀ ਸੇਵਾ ਸ਼ੁਰੂ, ਇਸ ਲਈ ਹਰ
+        ਕੋਈ ਕਰ ਸਕਦਾ ਹੈ
+      sign_up: ਸਾਈਨ ਅੱਪ
+      and_use_it: ਅਤੇ ਇਸ ਨੂੰ ਇਸਤੇਮਾਲ ਕਰੋ.
+      wishes_and_requests: ਤੁਹਾਨੂੰ ਕਿਸੇ ਵੀ ਇੱਛਾ ਜ ਬੇਨਤੀ ਹੈ, ਜੇਕਰ, ਤੁਹਾਨੂੰ ਸਾਈਨ ਅੱਪ
+        ਕਰੋ ਅਤੇ ਇਸ ਨੂੰ ਲਿਖਿਆ ਸੀ ਕਰ ਸਕਦਾ ਹੈ
+      here: ਇੱਥੇ
+      with_love: ਨੂੰ ਪਿਆਰ ਦੇ ਨਾਲ,
+      flutylove_team: Flutylove ਟੀਮ
+    index:
+      read_more: ਹੋਰ ਪੜ੍ਹੋ
+  chats:
+    panel_head:
+      online: ਆਨਲਾਈਨ
+      offline: ਆਫ਼ਲਾਈਨ
+    pagination_link:
+      next_page: ਅੱਗੇ ਸਫ਼ਾ
+    form:
+      message_text: ਸੁਨੇਹਾ ਦੇ ਪਾਠ
+    form_additions:
+      submit: ਪੇਸ਼
+      videochat: ਵੀਡੀਓ
+    show:
+      messages: ਸੁਨੇਹੇ
+    index:
+      messages: ਸੁਨੇਹੇ
+    videochat_request_link:
+      connect_to_videochat: ਕੁਨੈਕਟ ਵੀਡੀਓ ਨੂੰ
+    modal_form:
+      send_message: ਭੇਜੋ ਸੁਨੇਹੇ ਨੂੰ
+      recipient: ਕਰਤਾ
+      message: ਸੁਨੇਹਾ
+      close: ਬੰਦ
+      submit: ਪੇਸ਼
+    waiting_video_answer_button:
+      waiting_for_response: ਜਵਾਬ ਦੀ ਉਡੀਕ ਕਰ ਰਿਹਾ ...
+    chat_created:
+      send_message: ਭੇਜੋ ਸੁਨੇਹੇ ਨੂੰ
+      message_was_sent: ਸੁਨੇਹਾ ਭੇਜਿਆ ਗਿਆ
+      close: ਬੰਦ
+  messages:
+    pagination_link:
+      next_page: ਅੱਗੇ ਸਫ਼ਾ
+    form:
+      message_text: ਸੁਨੇਹਾ ਦੇ ਪਾਠ
+  notifications:
+    user_to_friend_connection:
+      action: ਕਾਰਵਾਈ
+    notification:
+      offline: ਆਫ਼ਲਾਈਨ
+      online: ਆਨਲਾਈਨ
+    like:
+      action: ਕਾਰਵਾਈ
+    photo_album_view:
+      action: ਕਾਰਵਾਈ
+    user_view:
+      action: ਕਾਰਵਾਈ
+  user_applications:
+    user_application:
+      who_uploaded: ਦੁਆਰਾ ਅਪਲੋਡ
+      all_uploaded_applications_by: ਸਾਰੇ ਨੂੰ ਅੱਪਲੋਡ ਕੇ ਕਾਰਜ
+    form:
+      name: ਦਾ ਨਾਮ
+      user_application_name: ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਨਾਮ
+      description: ਵੇਰਵਾ
+      description_text: ਵੇਰਵਾ ਦੇ ਪਾਠ
+      iframe_url: iframe URL ਨੂੰ
+      icon_for_application: ਐਪਲੀਕੇਸ਼ਨ ਆਈਕਾਨ ਹੈ
+      upload_icon: ਡਾਊਨਲੋਡ ਆਈਕਾਨ ਨੂੰ
+      public: ਪਬਲਿਕ?
+      category_name: ਸ਼੍ਰੇਣੀ
+      create: ਬਣਾਓ
+      edit: ਸੋਧ
+    show:
+      application: ਐਪਲੀਕੇਸ਼ਨ
+      return_to_uploaded_applications: ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਅੱਪਲੋਡ ਕੀਤਾ ਕਰਨ ਲਈ
+      return_to_all_applications: ਸਾਰੇ ਕਾਰਜ ਕਰਨ ਲਈ ਵਾਪਸੀ
+    manage:
+      installed_applications: ਇੰਸਟਾਲ ਕਾਰਜ
+      uploaded_applications: ਅਪਲੋਡ ਕਾਰਜ
+      all: ਸਾਰੇ
+    index:
+      applications_uploaded_by: ਕਾਰਜ ਦੁਆਰਾ ਅਪਲੋਡ
+      return_to_all_applications: ਸਾਰੇ ਕਾਰਜ ਕਰਨ ਲਈ ਵਾਪਸੀ
+      create_new: ਨਵ ਬਣਾਓ
+    installed:
+      installed_applications: ਇੰਸਟਾਲ ਕਾਰਜ
+      return_to_all_applications: ਸਾਰੇ ਕਾਰਜ ਕਰਨ ਲਈ ਵਾਪਸੀ
+    need_to_sign_in:
+      before_view_this_application_you_need_to_sign_in: ਝਲਕ ਅੱਗੇ ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਤੁਹਾਨੂੰ
+        ਪਹਿਲੇ ਸਾਈਨ ਇਨ ਕਰਨ ਦੀ ਲੋੜ ਹੈ
+    need_to_install:
+      need_to_install_first: ਤੁਹਾਨੂੰ ਪਹਿਲੇ ਇਸ ਕਾਰਜ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਲੋੜ ਹੈ
+      install_application: ਕਾਰਜ ਨੂੰ ਇੰਸਟਾਲ ਕਰੋ
+  likes:
+    index:
+      liked_items: ਪਸੰਦ ਇਕਾਈ
+      return_to_my_content: ਮੇਰੇ ਸਮੱਗਰੀ ਨੂੰ ਕਰਨ ਲਈ ਵਾਪਸ
+  videos:
+    index:
+      videos: ਵੀਡੀਓ
+      return_to_edit_profile: ਸੰਪਾਦਨ ਪ੍ਰੋਫ਼ਾਈਲ
+      create_new: ਨਵ ਬਣਾਓ
+      return_to_profile: ਵਾਪਸੀ ਪਰੋਫਾਈਲ ਕਰਨ ਲਈ
+    video:
+      edit: ਸੋਧ
+      are_you_sure: ਤੁਹਾਨੂੰ ਯਕੀਨ ਹੈ?
+      delete: ਹਟਾਓ
+    modal_form:
+      create_new_video: ਨਵ ਵੀਡੀਓ ਬਣਾਓ
+      close: ਬੰਦ
+      create: ਬਣਾਓ
+    form_content:
+      name: ਦਾ ਨਾਮ
+      video_name: ਵੀਡੀਓ ਨਾਮ
+      source: ਸ਼ਾਮਿਲ ਕੋਡ ਦਾ URL
+      video_url_or_embed_code: ਵੀਡੀਓ ਵੀਡੀਓ ਸ਼ਾਮਿਲ ਕੋਡ ਦਾ URL
+    show:
+      video: ਵੀਡੀਓ
+      return_to_all_videos: ਸਾਰੇ ਵੀਡੀਓ ਨੂੰ ਵਾਪਸੀ
+      edit_video: ਸੋਧ ਵੀਡੀਓ
+    edit:
+      edit_video: ਸੋਧ ਵੀਡੀਓ
+      return_to_view_video: ਝਲਕ ਵੀਡੀਓ ਵਾਪਸੀ
+    form:
+      edit: ਸੋਧ
+  photo_albums:
+    index:
+      photo_albums: ਫੋਟੋ ਐਲਬਮ
+      return_to_editing_profile: ਸੰਪਾਦਨ ਪ੍ਰੋਫ਼ਾਈਲ
+      create_new: ਨਵ ਬਣਾਓ
+      return_to_profile: ਵਾਪਸੀ ਪਰੋਫਾਈਲ ਕਰਨ ਲਈ
+    photo_album:
+      edit: ਸੋਧ
+      create: ਬਣਾਓ
+      are_you_sure: ਤੁਹਾਨੂੰ ਯਕੀਨ ਹੈ?
+      delete: ਹਟਾਓ
+    edit:
+      return_to_photo_albums: ਫੋਟੋ ਐਲਬਮ ਕਰਨ ਲਈ
+    form_content:
+      name: ਦਾ ਨਾਮ
+      photo_album_name: ਫੋਟੋ ਐਲਬਮ ਦਾ ਨਾਮ
+    form:
+      edit: ਸੋਧ
+      create: ਬਣਾਓ
+    photo_album_uploader:
+      drag_and_drop_your_file: ਖਿੱਚੋ ਅਤੇ ਆਪਣੇ ਫਾਇਲ ਨੂੰ ਖਤਮ
+      here: ਇੱਥੇ
+      or: ਜ
+      upload_file: ਅਪਲੋਡ ਫਾਇਲ
+      from_other_sites: ਹੋਰ ਸਾਈਟ ਤੱਕ
+      write_down_link_for_your_image: ਥੱਲੇ ਆਪਣੇ ਚਿੱਤਰ ਦਾ ਲਿੰਕ ਲਿਖੋ
+      upload: ਅੱਪਲੋਡ
+      from_facebook: ਫੇਸਬੁੱਕ ਤੱਕ
+      you_can_upload_your_photos_from_facebook: ਫੇਸਬੁੱਕ ਤੱਕ ਆਪਣੇ ਫੋਟੋ ਅੱਪਲੋਡ ਕਰ ਸਕਦੇ
+        ਹੋ
+      from_vkontakte: Vkontakte ਤੱਕ
+      you_can_upload_your_photos_from_vkontakte: Vkontakte ਤੱਕ ਆਪਣੇ ਫੋਟੋ ਅੱਪਲੋਡ ਕਰ
+        ਸਕਦੇ ਹੋ
+      from_instagram: Instagram ਤੱਕ
+      you_can_upload_your_photos_from_instagram: Instagram ਤੱਕ ਆਪਣੇ ਫੋਟੋ ਅੱਪਲੋਡ ਕਰ
+        ਸਕਦੇ ਹੋ
+      from_dropbox: Dropbox ਤੱਕ
+      you_can_upload_your_photos_from_dropbox: Dropbox ਤੱਕ ਆਪਣੇ ਫੋਟੋ ਅੱਪਲੋਡ ਕਰ ਸਕਦੇ
+        ਹੋ
+    show:
+      photo_album: ਫੋਟੋ ਐਲਬਮ
+      return_to_photo_albums: ਫੋਟੋ ਐਲਬਮ ਕਰਨ ਲਈ
+    modal_form:
+      create_new_photo_album: ਨਵ ਫੋਟੋ ਐਲਬਮ ਬਣਾਓ
+      close: ਬੰਦ
+      create: ਬਣਾਓ
+  user_requests:
+    form:
+      content: ਸਮੱਗਰੀ
+      edit: ਸੋਧ
+      create: ਬਣਾਓ
+  notes:
+    index:
+      notes: ਸੂਚਨਾ
+      return_to_edit_profile: ਸੰਪਾਦਨ ਪ੍ਰੋਫ਼ਾਈਲ
+      create_new: ਨਵ ਬਣਾਓ
+      return_to_profile: ਵਾਪਸੀ ਪਰੋਫਾਈਲ ਕਰਨ ਲਈ
+    note:
+      edit: ਸੋਧ
+      are_you_sure: ਤੁਹਾਨੂੰ ਯਕੀਨ ਹੈ?
+      delete: ਹਟਾਓ
+    show:
+      note: ਸੂਚਨਾ
+      return_to_notes: ਨੋਟਿਸ ਨੂੰ ਵਾਪਸ
+    form_content:
+      content: ਸਮੱਗਰੀ
+      note_content: ਸੂਚਨਾ ਸਮੱਗਰੀ ਨੂੰ
+      edit: ਸੋਧ
+      create: ਬਣਾਓ
+    edit:
+      return_to_notes: ਨੋਟਿਸ ਨੂੰ ਵਾਪਸ
+  user_to_search_connections:
+    index:
+      requirements_lists: ਲੋੜ ਸੂਚੀ
+      return_to_editing_profile: ਸੰਪਾਦਨ ਪ੍ਰੋਫ਼ਾਈਲ
+      create_new: ਨਵ ਬਣਾਓ
+    user_to_search_connection:
+      edit: ਸੋਧ
+      are_you_sure: ਤੁਹਾਨੂੰ ਯਕੀਨ ਹੈ?
+      delete: ਹਟਾਓ
+    edit:
+      edit_requirements_list: ਲੋੜ ਸੂਚੀ ਸੋਧ
+      return_to_requirements_lists: ਲੋੜ ਸੂਚੀ ਨੂੰ
+      view_requirements_list: ਦੇਖੋ ਲੋੜ ਸੂਚੀ '
+    form_content:
+      name: ਦਾ ਨਾਮ
+      name_of_your_requirements_list: ਤੁਹਾਡੇ ਲੋੜ ਨੂੰ ਸੂਚੀ ਦੇ ਨਾਮ
+    form:
+      edit: ਸੋਧ
+    show:
+      requirements_list: ਲੋੜ ਸੂਚੀ '
+      return_to_requirements_lists: ਲੋੜ ਸੂਚੀ ਨੂੰ
+      edit_requirements_list: ਸੋਧ ਦੀ ਲੋੜ ਨੂੰ ਸੂਚੀ
+  photos:
+    index:
+      photos: ਫੋਟੋਜ਼
+      return_to_photo_albums: ਫੋਟੋ ਐਲਬਮ ਨੂੰ ਵਾਪਸੀ
+      return_to_profile: ਪ੍ਰੋਫ਼ਾਈਲ
+  errors:
+    messages:
+      already_confirmed: ਹੀ ਪੁਸ਼ਟੀ ਕੀਤੀ ਗਈ ਸੀ, ਵਿਚ ਹਸਤਾਖਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
+      confirmation_period_expired: ਦੀ ਲੋੜ ਹੈ% {ਮਿਆਦ ਦੇ} ਦੇ ਅੰਦਰ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ,
+        ਇੱਕ ਨਵ ਇੱਕ ਦੀ ਬੇਨਤੀ ਕਿਰਪਾ ਕਰਕੇ
+      expired: ਮਿਆਦ ਪੁੱਗ ਗਈ ਹੈ, ਇੱਕ ਨਵ ਇੱਕ ਦੀ ਬੇਨਤੀ ਕਿਰਪਾ ਕਰਕੇ
+      not_found: ਨਾ ਲੱਭੀ
+      not_locked: ਨੂੰ ਲਾਕ ਨਾ ਕੀਤਾ ਗਿਆ ਸੀ
+      not_saved:
+        one: '1 ਗਲਤੀ ਨੂੰ ਬਚਾਇਆ ਜਾ ਰਿਹਾ ਹੈ ਤੱਕ ਇਸ% {ਸਰੋਤ} ਦੀ ਮਨਾਹੀ:'
+        other: "% {COUNT} ਨੂੰ ਬਚਾਇਆ ਜਾ ਰਿਹਾ ਹੈ ਤੱਕ ਇਸ% {ਸਰੋਤ} ਮਨਾਹੀ ਗਲਤੀ:"
+    bad_request:
+      bad_request: ਮੰਦਾ ਬੇਨਤੀ
+      request_result: ਬੇਨਤੀ ਦੇ ਨਤੀਜੇ
+      bad_request_description: ਕਾਰਨ ਇੱਕ ਸਪੱਸ਼ਟ ਕਲਾਇਟ ਗਲਤੀ
+      go_to_root: ਰੂਟ 'ਤੇ ਜਾਓ
+    unprocessable_entity:
+      unprocessable_entity: Unprocessable ਸੰਸਥਾ
+      request_result: ਬੇਨਤੀ ਦੇ ਨਤੀਜੇ
+      unprocessable_entity_description: ਚੰਗੀ-ਗਠਨ ਕੀਤਾ ਗਿਆ ਸੀ, ਪਰ ਅਰਥ ਗਲਤੀ ਕਾਰਨ, ਬਾਅਦ
+        ਵਿੱਚ ਕੀਤਾ ਜਾ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਸੀ
+      go_to_root: ਰੂਟ 'ਤੇ ਜਾਓ
+    not_found:
+      not_found: ਨਾ ਖੋਜੀ
+      request_result: ਬੇਨਤੀ ਦੇ ਨਤੀਜੇ
+      not_found_description: ਲੱਭਿਆ ਜਾ ਸਕਿਆ ਹੈ, ਪਰ ਭਵਿੱਖ ਵਿਚ ਉਪਲੱਬਧ ਹੋ ਸਕਦਾ ਹੈ
+      go_to_root: ਰੂਟ 'ਤੇ ਜਾਓ
+    forbidden:
+      forbidden: Forbidden
+      request_result: ਬੇਨਤੀ ਦੇ ਨਤੀਜੇ
+      forbidden_description: ਇੱਕ ਠੀਕ ਬੇਨਤੀ ਨੂੰ ਸੀ, ਪਰ ਸਰਵਰ ਇਸ ਨੂੰ ਕਰਨ ਲਈ ਜਵਾਬ ਦੇਣ
+        ਲਈ ਇਨਕਾਰ ਕਰ ਰਿਹਾ ਹੈ
+      go_to_root: ਰੂਟ 'ਤੇ ਜਾਓ
+    internal_server_error:
+      internal_server_error: ਅੰਦਰੂਨੀ ਸਰਵਰ ਗਲਤੀ
+      request_result: ਬੇਨਤੀ ਦੇ ਨਤੀਜੇ
+      internal_server_error_description: ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ. ਸਾਨੂੰ ਇਸ ਨੂੰ ਜਿੰਨੀ ਜਲਦੀ ਹੋ
+        ਸਕੇ ਦਾ ਹੱਲ ਹੋ ਜਾਵੇਗਾ.
+      go_to_root: ਰੂਟ 'ਤੇ ਜਾਓ
+  zh-TW_full: 3.1. ਕੰਪਨੀ ਕ੍ਰਮ ਵੈਬਸਾਈਟ ਅਤੇ ਇਸ ਦੇ ਸੇਵਾ ਦੇ ਵਰਤਣ ਲਈ ਉਪਭੋਗੀ ਨੂੰ ਕੰਪਨੀ ਦੇ
+    ਫਰਜ਼ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ, ਆਪਣੇ ਨਿੱਜੀ ਡਾਟਾ ਸਮੇਤ ਉਪਭੋਗੀ, ਬਾਰੇ ਜਾਣਕਾਰੀ ਨੂੰ ਕਾਰਵਾਈ ਨੂੰ
+    ਬਾਹਰ ਹੈ.
+  pages:
+    privacy:
+      privacy: Flutylove ਗੁਪਤ ਨੀਤੀ
+      general_provisions: ਜਨਰਲ ਪ੍ਰਬੰਧ
+      p_1_1: 1.1. ਇਹ ਰੈਗੂਲੇਸ਼ਨ ਸੀਮਿਤ ਦੇਣਦਾਰੀ ਦੀ ਕੰਪਨੀ 'Technoelegance "ਦੇ ਇਕ ਅਧਿਕਾਰੀ
+        ਨੇ ਦਸਤਾਵੇਜ਼,' ਤੇ ਸਥਿਤ ਹੁੰਦੇ ਹਨ 101000, ਮਾਸ੍ਕੋ, Ulanskiy pereulok 13, stroeniye
+        4, pomeshcheniye 1 (ਪ੍ਰਲੋਕ Flutylove, ਕੰਪਨੀ, ਸਾਨੂੰ), ਅਤੇ ਡਾਟਾ ਨੂੰ ਕਾਰਵਾਈ ਕਰਨ
+        ਅਤੇ ਵਿਅਕਤੀ ਦੀ ਜਾਣਕਾਰੀ ਦੀ ਸੁਰੱਖਿਆ ਦੀ ਕਾਰਵਾਈ ਦਾ ਪਤਾ ਜੋ 18 ਸਾਲ ਦੀ ਉਮਰ ਤੇ ਪਹੁੰਚ
+        ਗਈ ਹੈ, ਅਤੇ ਜਿਸ ਨੇ ਵੈਬਸਾਈਟ 'https://flutylove.com (ਵੈੱਬਸਾਈਟ ਪ੍ਰਲੋਕ) ਅਤੇ ਇਸ
+        ਦੇ ਸੇਵਾ (ਉਪਭੋਗਤਾ, ਪ੍ਰਲੋਕ ਵਿੱਚ) ਵਰਤਦੇ ਹਨ.
+      p_1_2: 1.2. ਇਹ ਰੈਗੂਲੇਸ਼ਨ ਦਾ ਮਕਸਦ ਯੂਜ਼ਰ ਜਾਣਕਾਰੀ ਦੇ ਕਾਰਨ ਸੁਰੱਖਿਆ ਦੀ, ਨਿੱਜੀ ਡਾਟੇ
+        ਨੂੰ ਵੀ ਸ਼ਾਮਲ ਅਣਅਧਿਕਾਰਤ ਪਹੁੰਚ ਅਤੇ ਖੁਲਾਸਾ ਤੱਕ, ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਹੈ.
+      p_1_3: 1.3. ਭੰਡਾਰ, ਸਟੋਰੇਜ਼, ਵੰਡ ਅਤੇ ਵੈੱਬਸਾਈਟ ਨੂੰ ਉਪਭੋਗੀ ਦੀ ਜਾਣਕਾਰੀ ਦੀ ਸੁਰੱਖਿਆ
+        ਨੂੰ ਨਾਲ ਸੰਬੰਧਿਤ ਸੰਬੰਧ ਇਹ ਰੈਗੂਲੇਸ਼ਨ, ਕੰਪਨੀ ਦੇ ਹੋਰ ਅਧਿਕਾਰੀ ਦਸਤਾਵੇਜ਼ ਅਤੇ ਰਸ਼ੀਅਨ
+        ਫੈਡਰੇਸ਼ਨ ਦੇ ਮੌਜੂਦਾ ਕਾਨੂੰਨ ਲਾਗੂ ਹੁੰਦੇ ਹਨ.
+      p_1_4: 1.4. ਰੈਗੂਲੇਸ਼ਨ ਹੈ, ਜੋ ਕਿ ਇੱਕ ਜਨਤਕ ਦਸਤਾਵੇਜ਼ ਹਨ ਦੇ ਮੌਜੂਦਾ ਵਰਜਨ ਹੈ, ਜਦ ਲਿੰਕ
+        http://flutylove.com/pages/privacy ਹੇਠ ਕਿਸੇ ਵੀ ਨੂੰ ਇੰਟਰਨੈੱਟ ਯੂਜ਼ਰ ਨੂੰ ਉਪਲੱਬਧ
+        ਹੈ. ਕੰਪਨੀ ਇਹ ਨਿਯਮ ਨੂੰ ਸੋਧ ਕਰਨ ਦਾ ਹੱਕ ਹੈ. ਕੇਸ ਵਿੱਚ ਤਬਦੀਲੀ ਰੈਗੂਲੇਸ਼ਨਜ਼ ਕਰਨ ਲਈ
+        ਕੀਤੀ ਗਏ ਹਨ, ਕੰਪਨੀ ਅਸਰਦਾਰ ਅੱਗੇ ਸਥਾਈ ਪਤੇ 'http://flutylove.com/pages/privacy'
+        ਤੇ ਵੈੱਬਸਾਈਟ 'ਤੇ ਰੈਗੂਲੇਸ਼ਨ ਦੇ ਨਵ ਵਰਜਨ ਪੋਸਟ ਹੈ, ਨਾ ਕਿ 10 ਵੱਧ ਨੂੰ ਬਾਅਦ ਦਿਨ ਉਪਭੋਗੀ
+        ਨੂੰ ਸੂਚਿਤ ਕਰੇਗਾ ਤਬਦੀਲੀ ਦੀ ਮਿਤੀ. ਰੈਗੂਲੇਸ਼ਨ ਦੇ ਪਿਛਲੇ ਵਰਜਨ ਕੰਪਨੀ ਦੇ ਦਸਤਾਵੇਜ਼
+        ਅਕਾਇਵ ਵਿੱਚ ਸਟੋਰ ਕਰ ਰਹੇ ਹਨ.
+      p_1_5: 1.5. ਇਹ ਰੈਗੂਲੇਸ਼ਨ ਵਿਕਸਤ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ ਯੂਜ਼ਰ ਇਕਰਾਰਨਾਮੇ ਦੇ ਅਨੁਸਾਰ ਵਰਤਿਆ
+        ਜਾਦਾ ਹੈ. ਇਹ ਰੈਗੂਲੇਸ਼ਨ ਅਤੇ ਕੰਪਨੀ ਦੇ ਹੋਰ ਅਧਿਕਾਰੀ ਦਸਤਾਵੇਜ਼ ਦੇ ਵਿਚਕਾਰ ਕਿਸੇ ਵੀ
+        ਉਲੰਘਣਾ ਦੇ ਮਾਮਲੇ ਵਿੱਚ, ਇਹ ਰੈਗੂਲੇਸ਼ਨ ਲਾਗੂ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ.
+      p_1_6: 1.6. ਵੈੱਬਸਾਈਟ ਵਰਤ ਕੇ, ਤੁਹਾਨੂੰ ਸ਼ਬਦ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਗੁਪਤ ਨੀਤੀ ਦੇ ਹਾਲਾਤ ਕਰਨ
+        ਲਈ ਸਹਿਮਤ. ਨੂੰ ਧਿਆਨ ਨਾਲ ਪੜ੍ਹੋ ਜੀ. ਤੁਹਾਨੂੰ ਇਸ ਗੁਪਤ ਨੀਤੀ ਦੇ ਆਧਾਰ 'ਨਾਲ ਸਹਿਮਤ ਨਾ
+        ਕਰਦੇ ਹੋ, ਜ ਤੁਹਾਨੂੰ 18 ਸਾਲ ਦੀ ਉਮਰ ਤੇ ਪਹੁੰਚ ਨਾ ਹੈ, ਤੁਹਾਨੂੰ ਵੈੱਬਸਾਈਟ ਅਤੇ ਇਸ ਦੇ
+        ਸਰਵਿਸਿਜ਼ ਨੂੰ ਵਰਤ ਨਾ ਹੋ ਸਕਦਾ ਹੈ. ਵੈੱਬਸਾਈਟ ਵਰਤ ਕੇ, ਕਿ ਕੀ ਤੁਹਾਨੂੰ ਰਜਿਸਟਰ ਜ ਨਾ
+        Flutylove ਦੇ ਉਪਭੋਗਤਾ ਹੋ ਪਰਵਾਹ ਹੈ, ਤੁਹਾਨੂੰ ਦੀ ਪੁਸ਼ਟੀ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਪੂਰੀ
+        ਇਸ ਨੂੰ ਗੁਪਤ ਨੀਤੀ ਨੂੰ ਸਵੀਕਾਰ ਹੈ, ਅਤੇ ਇਸ ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ.
+      the_website_using_conditions: ਵੈੱਬਸਾਈਟ ਵਰਤ ਹਾਲਾਤ
+      p_2_1: '2.1. ਵੈੱਬਸਾਈਟ Flutylove ਵਰਤਣ ਲਈ, ਤੁਹਾਨੂੰ ਰਜਿਸਟਰ ਕਰਨ ਦੀ ਲੋੜ ਹੈ. ਨਾਮ,
+        ਈਮੇਲ ਪਤਾ, ਲਿੰਗ, ਜਨਮ ਮਿਤੀ, ਸਥਿਤੀ ਦੀ ਜਾਣਕਾਰੀ: ਹੇਠ ਦਿੱਤੀ ਜਾਣਕਾਰੀ ਰਜਿਸਟਰੇਸ਼ਨ ਦੌਰਾਨ
+        ਨਿਰਧਾਰਤ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ. ਯੂਜ਼ਰ ਨੂੰ ਉਸ ਦੀ / ਉਸ ਦੇ ਆਪਣੇ ਹੀ ਇੱਛਾ ''ਤੇ ਵਾਧੂ
+        ਨਿੱਜੀ ਵੇਰਵੇ ਮੁਹੱਈਆ ਕਰ ਸਕਦਾ ਹੈ. ਉਪਭੋਗੀ ਨੂੰ ਸੋਧਣ ਕਿਸੇ ਵੀ ਵੇਲੇ ਨਿੱਜੀ ਜਾਣਕਾਰੀ
+        ਨੂੰ ਅਪਡੇਟ ਕਰ ਸਕਦੇ ਹੋ. ਕੰਪਨੀ ਤਬਦੀਲੀ ਲਿੰਗ ਅਤੇ ਯੂਜ਼ਰ ਦੇ ਜਨਮ ਦੀ ਤਾਰੀਖ਼ ਦੇ ਮਾਮਲੇ
+        ਵਿੱਚ ਵਾਧੂ ਦਾ ਸਮਰਥਨ ਦਸਤਾਵੇਜ਼ ਦੀ ਬੇਨਤੀ ਕਰਨ ਦਾ ਹੱਕ ਹੈ.'
+      p_2_2: '2.2. , ਵੈੱਬਸਾਈਟ, ਅਤੇ ਇਸ ਦੇ ਸੇਵਾ, ਕੰਪਨੀ ਤੱਕ ਪਹੁੰਚ, ਜਿਸ ਨਾਲ ਵਾਜਬ ਢੰਗ ਨਾਲ
+        ਅਤੇ ਚੰਗੇ ਵਿਸ਼ਵਾਸ ਵਿੱਚ ਕੰਮ ਕਰ ਕੇ, ਸਮਝਦਾ ਹੈ, ਜੋ ਕਿ ਯੂਜ਼ਰ: ਅਨੁਭਵ ਹੈ, ਜੋ ਕਿ ਵੈੱਬਸਾਈਟ
+        ''ਤੇ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਲਈ ਇਸ ਨੂੰ 18 ਸਾਲ ਦੀ ਉਮਰ ਦੇ ਹੋਣ ਲਈ ਜ਼ਰੂਰੀ ਹੈ; ਇਸ ਵੈੱਬਸਾਈਟ
+        ''ਤੇ ਰਜਿਸਟਰ ਕਰਨ ਅਤੇ ਇਸ ਨੂੰ ਵਰਤਣ ਲਈ ਯੋਗ ਹੋਣ ਲਈ ਸਾਰੇ ਜ਼ਰੂਰੀ ਅਧਿਕਾਰ ਹੈ; ਆਪਣੇ
+        ਬਾਰੇ ਸਹੀ ਜਾਣਕਾਰੀ ਦਾ ਮਤਲਬ ਹੈ / ਆਪਣੇ ਆਪ ਨੂੰ ਵੈੱਬਸਾਈਟ ਦੇ ਸਰਵਿਸਿਜ਼ ਦੇ ਵਰਤਣ ਲਈ
+        ਬੇਨਤੀ ਅਨੁਸਾਰ; ਹੈ, ਜੋ ਕਿ ਯੂਜ਼ਰ ਦੁਆਰਾ ਮੁਹੱਈਆ ਵੈੱਬਸਾਈਟ ''ਤੇ ਨਿੱਜੀ ਜਾਣਕਾਰੀ, ਵੈੱਬਸਾਈਟ
+        ਅਤੇ ਇੰਟਰਨੈੱਟ ਉਪਭੋਗਤਾ ਨੂੰ ਦੇ ਨਾਲ ਨਾਲ, ਦੀ ਨਕਲ ਅਤੇ ਹੋਰ ਉਪਭੋਗੀ ਦੁਆਰਾ ਵੰਡੇ ਜਾ ਸਕਦੇ
+        ਹਨ ਦੀ ਹੋਰ ਉਪਭੋਗੀ ਲਈ ਉਪਲੱਬਧ ਹੋ ਸਕਦਾ ਹੈ ਪਤਾ ਹੈ; ਹੈ, ਜੋ ਕਿ ਜਾਣਕਾਰੀ ਦੇ ਕੁਝ ਕਿਸਮ,
+        ਹੋਰ ਉਪਭੋਗੀ ਨੂੰ ਤਬਦੀਲ, ਉਪਭੋਗੀ ਦੁਆਰਾ ਹਟਾਇਆ ਨਹੀ ਜਾ ਸਕਦਾ ਹੈ ਪਤਾ ਹੈ; ਇਹ ਰੈਗੂਲੇਸ਼ਨ
+        ਨਾਲ ਜਾਣਦੇ ਗਿਆ ਹੈ, ਉਸ ਨਾਲ ਸਹਿਮਤ ਹੈ ਅਤੇ ਦਿੱਤੇ ਅਧਿਕਾਰ ਅਤੇ ਫਰਜ਼ ਦਾ ਵਾਅਦਾ.'
+      p_2_3: 2.3. ਕੰਪਨੀ ਮਾਮਲੇ ਦੇ ਅਪਵਾਦ ਦੇ ਨਾਲ, ਪ੍ਰਾਪਤ ਕੀਤਾ (ਇਕੱਠੇ ਹੋਏ) ਉਪਭੋਗੀ ਦੇ ਬਾਰੇ
+        ਜਾਣਕਾਰੀ ਦੇ ਸਹੀ ਦੀ ਪੁਸ਼ਟੀ ਨਹੀ ਕਰਦਾ ਹੈ, ਜਦ ਅਜਿਹੇ ਤਸਦੀਕ ਕ੍ਰਮ ਯੂਜ਼ਰ ਨੂੰ ਕੰਪਨੀ
+        ਦੇ ਫਰਜ਼ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਜ਼ਰੂਰੀ ਹੈ.
+      information_processing_objectives: ਜਾਣਕਾਰੀ ਨੂੰ ਕਾਰਵਾਈ ਉਦੇਸ਼
+      p_3_2: ਨਿੱਜੀ ਡਾਟੇ ਪਰਜਾ ਦੇ ਅਧਿਕਾਰ ਦੀ ਸੁਰੱਖਿਆ ਲਈ ਯੋਗ ਅਧਿਕਾਰੀ ਨੂੰ ਸੂਚਨਾ ਬਿਨਾ ਨਿੱਜੀ
+        ਡਾਟੇ ਨੂੰ ਕਾਰਵਾਈ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਇੱਕ ਦਾ ਹੱਕ ਹੈ.
+      structure_of_the_user_information: ਯੂਜ਼ਰ ਜਾਣਕਾਰੀ ਦੀ ਬਣਤਰ
+      p_4_1: '4.1. ਉਪਭੋਗੀ ਦੇ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਵੀ ਸ਼ਾਮਲ ਹੈ:'
+      p_4_1_1: 4.1.1. ਨਾਮ, ਈਮੇਲ ਪਤਾ, ਲਿੰਗ, ਜਨਮ, ਦੀ ਸਥਿਤੀ ਦੀ ਜਾਣਕਾਰੀ ਹੈ, ਅਤੇ ਫੋਨ ਨੰਬਰ,
+        ਜੋ ਕਿ ਉਪਭੋਗੀ ਦੁਆਰਾ ਦਿੱਤਾ ਹੈ ਅਤੇ ਹੁਣੇ ਹੀ ਵੈੱਬਸਾਈਟ 'ਤੇ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਲਈ ਕਾਫ਼ੀ
+        ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਦੀ ਮਿਤੀ;
+      p_4_1_2: 4.1.2. ਜਾਣਕਾਰੀ, ਜੋ ਕਿ (ਉਦਾਹਰਨ ਫੋਟੋ, pernicious ਆਦਤ ਆਦਿ ਬਾਰੇ ਜਾਣਕਾਰੀ
+        ਲਈ) ਦੇ ਦੁਆਰਾ ਦਿੱਤਾ ਗਿਆ ਹੈ;
+      p_4_1_3: 4.1.3. ਵਾਧੂ ਕ੍ਰਮ ਉਪਭੋਗੀ ਨੂੰ ਕੰਪਨੀ ਦੇ ਫਰਜ਼ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ, ਉਪਭੋਗੀ ਨੂੰ
+        ਸਮਝੌਤੇ ਤੱਕ ਪੇਸ਼ ਵਿਚ ਕੰਪਨੀ ਦੀ ਬੇਨਤੀ ਅਨੁਸਾਰ ਉਪਭੋਗਤਾ ਦੇ. ਕੰਪਨੀ ਇੱਕ ਦਾ ਹੱਕ, ਖਾਸ
+        ਵਿਚ, ਉਪਭੋਗੀ ਨੂੰ ਬੇਨਤੀ ਕਰਨ ਲਈ ਪਛਾਣ ਦਸਤਾਵੇਜ਼ ਜ ਕੋਈ ਵੀ ਹੋਰ ਦਸਤਾਵੇਜ਼ ਦਾ ਨਾਮ, ਲਿੰਗ
+        ਅਤੇ ਜਨਮ ਤਾਰੀਖ ਨੂੰ ਰੱਖਣ, ਦੇ ਨਾਲ ਨਾਲ ਹੋਰ ਵਾਧੂ ਜਾਣਕਾਰੀ, ਜੋ ਕਿ, ਕੰਪਨੀ ਦੀ ਮਰਜ਼ੀ
+        'ਤੇ, ਜ਼ਰੂਰੀ ਹੋ ਜਾਵੇਗਾ ਦੀ ਇੱਕ ਕਾਪੀ ਹੈ ਅਤੇ ਹੈ ਅਜਿਹੇ ਯੂਜ਼ਰ ਦੀ ਪਛਾਣ ਲਈ ਕਾਫੀ ਹੈ
+        ਅਤੇ ਨਾਲ ਬਦਸਲੂਕੀ ਅਤੇ ਤੀਜੀ ਧਿਰ ਦੇ ਹੱਕ ਦੀ ਉਲੰਘਣਾ ਨੂੰ ਖਤਮ ਹੋਵੇਗਾ.
+      p_4_2: '4.2. ਕੰਪਨੀ The ਵੈੱਬਸਾਈਟ ਪ੍ਰਸ਼ਾਸਨ ਨੇ ਹੋਰ ਉਪਭੋਗੀ ਦਾ ਜਾਣਕਾਰੀ ਨੂੰ ਕਾਰਵਾਈ
+        ਨੂੰ ਵੀ ਉਪਭੋਗੀ, ਜੋ ਕਿ ਵੀ ਸ਼ਾਮਿਲ ਹਨ ਇਸ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਕਾਰਜ:'
+      p_4_2_1: 4.2.1. ਆਮ ਡਾਟਾ, ਜਦ ਵੈੱਬਸਾਈਟ ਅਤੇ ਯੂਜ਼ਰ ਦੇ ਬਾਅਦ ਕਾਰਵਾਈ ਨੂੰ ਵਰਤਣ ਆਪ ਹੀ
+        HTTP-ਸਰਵਰ ਦੁਆਰਾ ਪ੍ਰਾਪਤ (ਹੋਸਟ ਦਾ IP-ਪਤਾ, ਉਪਭੋਗੀ ਦਾ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਦੀ ਕਿਸਮ,
+        ਵੈੱਬਸਾਈਟ ਦੇ ਪੰਨੇ ਨੂੰ ਯੂਜ਼ਰ ਕੇ ਦਾ ਦੌਰਾ).
+      p_4_2_2: 4.2.2. ਜਾਣਕਾਰੀ ਜਦ ਵੈੱਬਸਾਈਟ ਬੁੱਕਮਾਰਕ (ਕੂਕੀਜ਼) ਵਰਤ ਨੂੰ ਵਰਤਣ, ਜੋ ਕਿ ਆਪਣੇ
+        ਆਪ ਹੀ ਪ੍ਰਾਪਤ ਕੀਤਾ ਹੈ;
+      p_4_2_3: 4.2.3. ਜਿਸ ਨੂੰ ਵੈੱਬਸਾਈਟ 'ਤੇ ਉਪਭੋਗੀ ਦੀ ਕਾਰਵਾਈ ਦੇ ਨਤੀਜੇ ਦੇ ਤੌਰ ਪ੍ਰਾਪਤ
+        ਕੀਤਾ ਹੈ ਜਾਣਕਾਰੀ;
+      p_4_2_4: 4.2.4. ਜਾਣਕਾਰੀ, ਜੋ ਕਿ ਵੈੱਬਸਾਈਟ 'ਤੇ ਹੋਰ ਉਪਭੋਗੀ ਦੀ ਕਾਰਵਾਈ ਦੇ ਨਤੀਜੇ ਦੇ
+        ਤੌਰ ਪ੍ਰਾਪਤ ਕੀਤਾ ਹੈ.
+      users_information_processing: ਉਪਭੋਗੀ ਦਾ ਜਾਣਕਾਰੀ ਨੂੰ ਕਾਰਵਾਈ ਕਰਨ
+      p_5_1: '5.1. ਨਿੱਜੀ ਡਾਟਾ ਨੂੰ ਕਾਰਵਾਈ ਹੇਠ ਅਸੂਲ ਦੇ ਆਧਾਰ ''ਤੇ ਬਾਹਰ ਲੈ ਗਿਆ ਹੈ: ਇੱਕ)
+        ਜਾਇਜ਼ ਮਕਸਦ ਅਤੇ ਨਿੱਜੀ ਡਾਟਾ ਦੀ ਨੂੰ ਕਾਰਵਾਈ ਕਰਨ ਦੇ ਜ਼ਰੀਏ; ਅ) ਈਮਾਨਦਾਰੀ; ੲ) ਦੇ ਮਕਸਦ
+        ਨਾਲ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਕਾਰਵਾਈ ਕਰਨ ਦੇ ਮਕਸਦ ਦੀ ਪਾਲਣਾ ਦਰਸਾਈ ਹੈ ਅਤੇ ਐਲਾਨ ਕੀਤਾ ਹੈ ਜਦ
+        ਨਿੱਜੀ ਡਾਟਾ, ਦੇ ਨਾਲ ਨਾਲ ਕੰਪਨੀ ਦੇ ਸਰਟੀਫਿਕੇਟਸ ਦੀ ਪਾਲਣਾ ਇਕੱਠਾ; d) ਵਾਲੀਅਮ ਅਤੇ ਨਿੱਜੀ
+        ਡਾਟੇ ਨੂੰ ਕਾਰਵਾਈ ਦੀ ਕਿਸਮ, ਅਤੇ ਇਸ ਦੇ ਕਾਰਵਾਈ ਕਰਨ ਦੇ ਉਦੇਸ਼ ਨਾਲ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ
+        ਕਾਰਵਾਈ ਕਰਨ ਦੀ ਮਤਲਬ ਹੈ ਦੀ ਪਾਲਣਾ ਦੀ ਪਾਲਣਾ; ਈ), ਅਨੁਕੂਲ ਮਕਸਦ ਲਈ ਬਣਾਇਆ ਡਾਟਾਬੇਸ
+        ਦਾ ਸੰਯੋਗ ਹੈ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਰੱਖਣ ਦੀ inadmissibility.'
+      p_5_1_1: 5.1.1. ਜਦ ਰਜਿਸਟਰ, ਦੇ ਨਾਲ ਨਾਲ ਭਵਿੱਖ ਵਿੱਚ, ਜਦ ਯੂਜ਼ਰ ਨੂੰ ਆਪਣੇ ਆਪ ਨੂੰ /
+        ਆਪ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਉਸ ਦੀ / ਉਸ ਦੇ ਆਪਣੇ ਹੀ ਪਹਿਲ 'ਤੇ ਵੈੱਬਸਾਈਟ ਦੇ ਸੰਦ ਵਰਤ ਸ਼ਾਮਿਲ
+        ਕਰਦਾ ਹੈ ਦੇ ਦੇ ਨਿੱਜੀ ਡਾਟੇ ਦੇ ਭੰਡਾਰ ਵੈੱਬਸਾਈਟ' ਤੇ ਬਾਹਰ ਹੀ ਰਿਹਾ ਹੈ.
+      p_5_1_2: 5.1.2. ਉਪਭੋਗੀ ਨੂੰ ਦੇ ਨਿੱਜੀ ਡਾਟਾ ਆਟੋਮੈਟਿਕ ਸਿਸਟਮ ਨੂੰ ਵਰਤ ਕੇ, ਕੇਸ, ਜਿੱਥੇ
+        ਨਿੱਜੀ ਡਾਟੇ ਦਸਤੀ ਨੂੰ ਕਾਰਵਾਈ ਕਰਨ ਵਿਧਾਨ ਲੋੜ ਨੂੰ ਪੂਰਾ ਦੇ ਮੱਦੇਨਜ਼ਰ ਦੀ ਲੋੜ ਹੈ ਦੇ
+        ਅਪਵਾਦ ਦੇ ਨਾਲ ਨਾਲ ਇਲੈਕਟ੍ਰਾਨਿਕ ਫਾਰਮੈਟ ਵਿੱਚ ਸਿਰਫ਼ ਸੰਭਾਲਿਆ ਅਤੇ ਕਾਰਵਾਈ ਕਰ ਰਹੇ ਹਨ.
+      p_5_1_3: 5.1.3. ਉਪਭੋਗੀ ਦੇ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਕਿਸੇ ਵੀ ਤੀਜੀ ਧਿਰ ਨੂੰ ਤਬਦੀਲ ਨਹੀ ਕਰ ਰਹੇ
+        ਹਨ, ਕੇਸ ਸਾਫ਼ ਇਹ ਰੈਗੂਲੇਸ਼ਨ ਅਤੇ ਯੂਜ਼ਰ ਇਕਰਾਰਨਾਮੇ ਦੁਆਰਾ ਮੁਹੱਈਆ ਵਿੱਚ ਛੱਡ ਕੇ. ਉਪਭੋਗੀ
+        ਦਾ ਸਹਿਮਤੀ ਨਾਲ, ਨਿੱਜੀ ਯੂਜ਼ਰ ਡਾਟਾ ਨੂੰ ਇੱਕ ਜ਼ਿੰਮੇਵਾਰੀ ਦੇ ਧਾਰਨਾ ਦੀ ਹਾਲਤ ਦੇ ਤਹਿਤ
+        ਕੰਪਨੀ ਦੇ ਤੀਜੇ counterparties ਨੂੰ ਪ੍ਰਸਾਰਿਤ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, ਪ੍ਰਾਪਤ ਜਾਣਕਾਰੀ
+        ਦੀ ਗੁਪਤਤਾ ਨੂੰ ਯਕੀਨੀ ਕਰਨ ਲਈ, ਖਾਸ ਵਿਚ, ਜਦ ਸੇਵਾ ਅਤੇ ਕਾਰਜ ਵਰਤ. ਦੇ ਤੌਰ ਤੇ ਦੇ ਕਾਨੂੰਨ
+        ਦੁਆਰਾ ਲੋੜ ਸਰਕਾਰੀ ਅਧਿਕਾਰੀ (ਸਥਾਨਕ ਅਧਿਕਾਰੀ) ਦੀ ਬੇਨਤੀ 'ਤੇ ਉਪਭੋਗੀ ਦੇ ਨਿੱਜੀ ਡਾਟੇ
+        ਨੂੰ ਮਨਜੂਰੀ ਵਿਧੀ ਨੂੰ ਵਿੱਚ ਬਾਹਰ ਹੀ ਰਿਹਾ ਹੈ.
+      p_5_1_4: '5.1.4. ਨਿੱਜੀ ਯੂਜ਼ਰ ਡਾਟਾ ਹਟਾਇਆ ਜਦ ਰਹੇ ਹਨ: - ਡਾਟਾ ਸਵੈ-ਹਟਾਇਆ ਯੂਜ਼ਰ ਦੁਆਰਾ
+        ਸਫ਼ੇ ਹਨ; - ਸਫ਼ਾ ਸਵੈ-ਹਟਾਇਆ ਯੂਜ਼ਰ ਦੁਆਰਾ ਹੁੰਦਾ ਹੈ; - ਉਪਭੋਗੀ ਦਾ ਜਾਣਕਾਰੀ ਅਤੇ ਇਸ
+        ਦੇ ਨਿੱਜੀ ਸਫ਼ੇ ਕੰਪਨੀ ਦੁਆਰਾ ਹਟਾਇਆ ਰਹੇ ਹਨ. ਉਪਭੋਗੀ ਨੂੰ ਆਪਣੇ ਆਪ ਨੂੰ ਦੇ ਕੇ ਸਫ਼ੇ
+        ਹਟਾਉਣ ਦੀ ਹਾਲਤ ਵਿੱਚ, ਕੰਪਨੀ ਦੇ ਬਾਅਦ ਨਿੱਜੀ ਸਫ਼ਾ ਹਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ 210 ਦਿਨ ਦੇ ਅੰਦਰ
+        ਇਸ ਦੇ ਇਲੈਕਟ੍ਰਾਨਿਕ ਮੀਡੀਆ ''ਤੇ ਉਪਭੋਗੀ ਦੇ ਨਿੱਜੀ ਡਾਟੇ ਸਟੋਰ. ਨਿੱਜੀ ਡਾਟੇ 210 ਦਿਨ
+        ਦੀ ਮਿਆਦ ਪੁੱਗਣ ਤੇ ਹਟਾਏ ਗਏ ਹਨ ਦੇ ਬਾਅਦ ਨਿੱਜੀ ਸਫ਼ਾ ਹਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ. ਜਦ ਤੱਕ ਇਸ
+        ਮਿਆਦ ਮਿਆਦ, ਉਪਭੋਗੀ ਨਿੱਜੀ ਸਫ਼ੇ ਨੂੰ ਮੁੜ ਕਰਨ ਦਾ ਹੱਕ ਹੈ.'
+      users_rights_and_obligations: ਉਪਭੋਗੀ ਦੇ ਹੱਕ ਅਤੇ ਫਰਜ਼
+      p_6_1: '6.1. ਯੂਜ਼ਰ ਦਾ ਹੱਕ ਹੈ:'
+      p_6_1_1: 6.1.1. ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਦੀ ਵਰਤੋ ਨਾਲ ਵੈੱਬਸਾਈਟ 'ਤੇ ਇਸ ਦੇ ਨਿੱਜੀ ਸਫ਼ੇ ਵਿੱਚ
+        ਸੋਧ ਕਰ ਕੇ ਪਾਬੰਦੀ ਬਿਨਾ ਉਸ ਬਾਰੇ ਜਾਣਕਾਰੀ ਤੱਕ ਪਹੁੰਚ / ਉਸ ਨੂੰ ਅਤੇ ਮੁਫ਼ਤ;
+      p_6_1_2: 6.1.2. ਸੁਤੰਤਰ ਵੈੱਬਸਾਈਟ 'ਤੇ ਉਪਭੋਗੀ ਦੇ ਨਿੱਜੀ ਸਫ਼ੇ' ਤੇ ਜਾਣਕਾਰੀ ਨੂੰ ਤਬਦੀਲੀ
+        ਅਤੇ ਸੁਧਾਰ, ਹਾਲਤ ਹੈ ਕਿ ਅਜਿਹੇ ਬਦਲਾਅ ਅਤੇ ਸੁਧਾਰ ਸ਼ਾਮਿਲ ਹਨ ਤੇ ਕਰ ਅਪ-ਟੂ-ਡੇਟ ਅਤੇ
+        ਸੱਚੇ ਜਾਣਕਾਰੀ;
+      p_6_1_3: 6.1.3. ਵੈੱਬਸਾਈਟ 'ਤੇ ਨਿੱਜੀ ਸਫ਼ੇ ਤੱਕ ਜਾਣਕਾਰੀ ਨੂੰ ਹਟਾ;
+      p_6_1_4: 6.1.4. ਦੀ ਬੇਨਤੀ ਹੋਰ ਖਾਸ ਜਾਣਕਾਰੀ, ਬਲਾਕ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਕੰਪਨੀ ਨੂੰ ਜ ਨਿੱਜੀ
+        ਡਾਟਾ ਹਟਾਉਣਾ ਹੈ, ਜੇਕਰ ਅਜਿਹੇ ਡਾਟਾ ਅਧੂਰੀ ਹੈ, ਪੁਰਾਣੀ, ਗਲਤ, ਗ਼ੈਰਕਾਨੂੰਨੀ ਪ੍ਰਾਪਤ
+        ਕੀਤੀ ਹਨ, ਜ ਕਾਰਵਾਈ ਕਰਨ ਦੇ ਐਲਾਨ ਕੀਤਾ ਮਕਸਦ ਲਈ ਜ ਜੇ ਲੋੜ ਨਹੀ ਹਨ, ਕਾਰਵਾਈ ਇਹ ਦੇ ਪੈਰਾ
+        6.1.3 ਵਿੱਚ ਨਿਰਧਾਰਿਤ ਹੈ ਰੈਗੂਲੇਸ਼ਨ ਸੁਤੰਤਰ ਲਾਗੂ ਨਹੀ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ;
+      p_6_1_5: 6.1.5. ਬੇਨਤੀ ਨੂੰ ਦੇ ਆਧਾਰ 'ਤੇ, ਉਸ ਦੀ / ਉਸ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਕਾਰਵਾਈ ਕਰਨ
+        ਦੇ ਸੰਬੰਧ ਵਿੱਚ ਕੰਪਨੀ ਦੀ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰਦੇ ਹਨ.
+      p_6_2: '6.2. ਕਿਸੇ ਵੀ ਦਰਜ ਕੀਤਾ ਵੈੱਬਸਾਈਟ ਯੂਜ਼ਰ ਬਾਰੇ ਹੇਠ ਦਿੱਤੀ ਜਾਣਕਾਰੀ ਰਜਿਸਟਰਡ
+        ਉਪਭੋਗੀ ਨੂੰ ਹਮੇਸ਼ਾ ਉਪਲਬਧ ਹੈ: ਉਪਭੋਗੀ ਦਾ ਨਾਮ, ਲਿੰਗ, ਉਮਰ, ਪ੍ਰੋਫ਼ਾਈਲ ਫੋਟੋ ਅਤੇ ਹੋਰ
+        ਜਾਣਕਾਰੀ ਹੈ, ਜੇ ਉਪਭੋਗਤਾ ਨੂੰ ਇਸ ਤਾਇਨਾਤ ਕੀਤਾ ਹੈ.'
+      p_6_3: 6.3. ਕੰਪਨੀ ਦੀ ਵੈਬਸਾਈਟ 'ਅਜਿਹੇ ਡਾਟਾ ਵਰਤਿਆ ਹੈ ਦੇ ਹੋਰ ਉਪਭੋਗੀ ਦੁਆਰਾ ਉਪਭੋਗੀ
+        ਦੇ ਨਿੱਜੀ ਡਾਟੇ ਦੀ ਖੁਲਾਸਾ ਲਈ ਕੋਈ ਦੇਣਦਾਰੀ ਦਿੰਦਾ ਹੈ.
+      p_6_4: 6.4. ਨਿੱਜੀ ਡਾਟੇ (ਹੋਰ ਯੂਜ਼ਰ ਜਾਣਕਾਰੀ) ਉਪਭੋਗੀ ਦੇ ਨਿੱਜੀ ਸਫ਼ੇ ਜ ਵੈੱਬਸਾਈਟ ਤੱਕ
+        ਉਪਭੋਗਤਾ ਦੀ ਨਿੱਜੀ ਸਫ਼ੇ ਦੇ ਹਟਾਉਣ ਤੱਕ ਹਟਾਉਣ ਦੇ ਮਾਮਲੇ ਵਿੱਚ, ਉਪਭੋਗੀ ਦਾ ਜਾਣਕਾਰੀ
+        ਹੋਰ ਉਪਭੋਗੀ ਦੁਆਰਾ ਨਕਲ ਕੀਤਾ ਜ ਹੋਰ ਯੂਜ਼ਰ 'ਸਫ਼ੇ' ਤੇ ਸੰਭਾਲਿਆ ਰੱਖਿਆ ਗਿਆ ਹੈ.
+      users_information_protection_measures: ਉਪਭੋਗੀ 'ਜਾਣਕਾਰੀ ਦੀ ਸੁਰੱਖਿਆ ਉਪਾਅ
+      p_7_1: 7.1. ਕੰਪਨੀ ਇਹ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਹੈ, ਜੋ ਕਿ ਉਪਭੋਗੀ ਦੇ ਨਿੱਜੀ ਡਾਟੇ ਅਣਅਧਿਕਾਰਤ
+        ਜ ਦੁਰਘਟਨਾ ਪਹੁੰਚ, ਹਟਾਉਣ, ਸੋਧ, ਬਲਾਕਿੰਗ, ਕਾਪੀ, ਹੈ ਅਤੇ ਜੁਗਤ ਨੂੰ ਤੱਕ ਦੇ ਨਾਲ ਨਾਲ
+        ਹੋਰ ਅਣਅਧਿਕਾਰਤ ਕਾਰਵਾਈ ਤੱਕ ਸੁਰੱਖਿਅਤ ਕਰ ਰਹੇ ਹਨ, ਤਕਨੀਕੀ, ਸੰਗਠਿਤ ਅਤੇ ਕਾਨੂੰਨੀ ਕਦਮ
+        ਲੱਗਦਾ ਹੈ.
+      p_7_2: 7.2. ਯੂਜ਼ਰ ਦਾ ਲਾਗਇਨ (ਈ-ਮੇਲ ਪਤੇ ਨੂੰ ਜ ਮੋਬਾਈਲ ਨੰਬਰ) ਅਤੇ ਪਾਸਵਰਡ ਵੈੱਬਸਾਈਟ
+        ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾਦਾ ਹੈ. ਯੂਜ਼ਰ ਇਸ ਜਾਣਕਾਰੀ ਨੂੰ ਗੁਪਤ ਰੱਖਣ ਲਈ ਜ਼ਿੰਮੇਵਾਰ
+        ਹੈ. ਉਪਭੋਗੀ ਨੂੰ ਤੀਜੇ ਪੱਖ ਨੂੰ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਤਬਾਦਲਾ ਨਾ ਹੋ ਸਕਦਾ ਹੈ ਅਤੇ ਇਹ ਵੀ
+        ਕਦਮ ਲੈਣ ਲਈ ਇਸ ਦੀ ਗੁਪਤਤਾ ਨੂੰ ਯਕੀਨੀ ਕਰਨ ਲਈ ਮਜਬੂਰ ਹੈ.
+      limitation_of_the_regulations_applicability: ਰੈਗੂਲੇਸ਼ਨ ਲਾਗੂ ਦੀ ਸੀਮਾ
+      p_8: ਕਾਰਵਾਈ ਅਤੇ ਤੀਜੇ ਪੱਖ ਦੇ ਇੰਟਰਨੈੱਟ ਦੀ ਵਸੀਲੇ ਨੂੰ ਵਧਾ ਨਹੀ ਕਰ ਰਹੇ ਹਨ. ਕੰਪਨੀ ਤੀਜੇ
+        ਪੱਖ ਦੀ ਕਾਰਵਾਈ ਹੈ ਜੋ ਕਿ ਇੰਟਰਨੈੱਟ ਜ ਵੈੱਬਸਾਈਟ ਸਰਵਿਸਿਜ਼ ਯੂਜ਼ਰ ਜਾਣਕਾਰੀ ਤੱਕ ਪਹੁੰਚ
+        ਪ੍ਰਾਪਤ ਕੀਤਾ ਲਈ ਕੋਈ ਦੇਣਦਾਰੀ ਦਿੰਦਾ ਹੈ. ਵੈੱਬਸਾਈਟ ਪ੍ਰਸ਼ਾਸਨ ਉਪਭੋਗੀ ਨੂੰ ਸਿਫਾਰਸ਼
+        ਕਰਦਾ ਹੈ ਜਾਣਕਾਰੀ ਦੀ ਮਾਤਰਾ ਨੂੰ ਇੱਕ ਜ਼ਿੰਮੇਵਾਰ ਢੰਗ ਨਾਲ ਵੈੱਬਸਾਈਟ 'ਤੇ ਪੋਸਟ ਨਾਲ ਇਸ
+        ਮੁੱਦੇ ਨੂੰ ਪਹੁੰਚ ਕਰਨ.
+      user_requests: ਯੂਜ਼ਰ ਬੇਨਤੀ
+      p_9_1: '9.1. ਰੂਸ, 101000, ਮਾਸ੍ਕੋ, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1 ਜ ਇਲੈਕਟ੍ਰਾਨਿਕ ਦਸਤਾਵੇਜ਼ ਦੇ ਰੂਪ ਵਿੱਚ: ਉਪਭੋਗੀ ਹੇਠ ਲਿਖੇ ਪਤੇ ''ਤੇ ਲਿਖਤੀ ਰੂਪ ਵਿੱਚ
+        ਨਿੱਜੀ ਡਾਟਾ ਦੀ ਵਰਤੋ ਦੇ ਸੰਬੰਧ ਵਿੱਚ ਬੇਨਤੀ ਵੀ ਸ਼ਾਮਲ ਹਨ ਕੰਪਨੀ ਨੂੰ ਬੇਨਤੀ ਭੇਜਣ ਲਈ
+        ਇੱਕ ਦਾ ਹੱਕ ਹੈ, , ਰਸ਼ੀਅਨ ਫੈਡਰੇਸ਼ਨ ਦੇ ਕਾਨੂੰਨ ਦੇ ਅਨੁਸਾਰ, ਇੱਕ ਕਾਬਲ ਇਲੈਕਟ੍ਰਾਨਿਕ
+        ਦਸਤਖਤ ਦੁਆਰਾ ਦਸਤਖਤ ਈਮੇਲ ਕੇ: support@flutylove.com.'
+      p_9_2: '9.2. ਯੂਜ਼ਰ ਦੀ ਬੇਨਤੀ ਹੇਠ ਦਿੱਤੀ ਜਾਣਕਾਰੀ ਸ਼ਾਮਿਲ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ: ਯੂਜ਼ਰ ਜ
+        ਇਸ ਪ੍ਰਤੀਨਿਧ ਨਾਲ ਦੀ ਪਛਾਣ ਦਸਤਾਵੇਜ਼ ਦਾ ਨੰਬਰ; ਉਪਰੋਕਤ ਦਸਤਾਵੇਜ਼ ਅਤੇ ਜਾਰੀ ਕਰਨ ਦਾ
+        ਅਧਿਕਾਰ ਦੇ ਮੁੱਦੇ ਦੀ ਮਿਤੀ; ਆਪਰੇਟਰ ਨਾਲ ਸੰਬੰਧ ਵਿਚ ਉਪਭੋਗੀ ਦੇ ਸ਼ਮੂਲੀਅਤ ਦੀ ਪੁਸ਼ਟੀ
+        ਜਾਣਕਾਰੀ (ਖਾਸ ਵਿਚ, ਸਫ਼ਾ ਕਰਨ ਲਈ ਲਿੰਕ ਨੂੰ); ਯੂਜ਼ਰ ਜ ਉਸ ਦੀ / ਉਸ ਦੇ ਨੁਮਾਇੰਦੇ ਦੇ
+        ਦਸਤਖਤ.'
+      p_9_3: 9.3. ਕੰਪਨੀ 'ਤੇ ਵਿਚਾਰ ਅਤੇ 30 ਦਿਨ ਦੇ ਅੰਦਰ-ਅੰਦਰ ਉਪਭੋਗੀ ਦੀ ਬੇਨਤੀ ਦਾ ਜਵਾਬ
+        ਦੇ ਬਾਅਦ ਇਹ ਪ੍ਰਾਪਤ ਕੀਤੀ ਸੀ ਵਾਅਦਾ.
+      p_9_4: 9.4. ਉਪਭੋਗੀ (ਲਿਖਿਆ ਜ ਇਲੈਕਟ੍ਰਾਨਿਕ ਬੇਨਤੀ) ਤੱਕ ਕੰਪਨੀ ਦੁਆਰਾ ਪ੍ਰਾਪਤ ਸਾਰੇ ਪੱਤਰ
+        ਸੀਮਤ-ਪਹੁੰਚ ਦੀ ਜਾਣਕਾਰੀ ਦੇ ਤੌਰ ਤੇ ਵਰਗੀਕ੍ਰਿਤ ਹੈ ਅਤੇ ਉਪਭੋਗੀ ਦੀ ਲਿਖਤੀ ਸਹਿਮਤੀ ਬਗੈਰ
+        ਖੁਲਾਸਾ ਨਹੀ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ. ਯੂਜ਼ਰ ਜੋ ਬੇਨਤੀ ਭੇਜੀ ਬਾਰੇ ਨਿੱਜੀ ਡਾਟਾ ਅਤੇ ਹੋਰ ਜਾਣਕਾਰੀ
+        ਉਪਭੋਗੀ ਦੀ ਵਿਸ਼ੇਸ਼ ਸਹਿਮਤੀ ਬਗੈਰ, ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ, ਵੱਖ ਵੱਖ ਬੇਨਤੀ ਨੂੰ ਕਰਨ ਲਈ
+        ਜ ਮੌਕੇ ਸਪਸ਼ਟ ਲਾਗੂ ਕਾਨੂੰਨ ਦੁਆਰਾ ਮੁਹੱਈਆ ਵਿੱਚ ਜਵਾਬ ਲਈ ਵੱਧ.
+    terms:
+      terms: Flutylove ਯੂਜ਼ਰ ਇਕਰਾਰਨਾਮੇ
+      welcome: Flutylove ਸੁਆਗਤ ਹੈ!
+      about_terms: 'ਵਿਚਕਾਰ (ਦੇ ਨਾਲ ਨਾਲ ਦਸਤਾਵੇਜ਼ ਇਥੇ ਕਰਨ ਲਈ ਕਿਹਾ ਗਿਆ, ਗੁਪਤ ਨੀਤੀ ਸਮੇਤ)
+        ਰਸ਼ੀਅਨ ਫੈਡਰੇਸ਼ਨ ਸਿਵਲ ਕੋਡ (hereinafter "ਇਕਰਾਰਨਾਮੇ" ਦੇ ਤੌਰ ਤੇ ਕਰਨ ਲਈ ਕਹਿੰਦੇ
+        ਹਨ) ਦੀ ਧਾਰਾ 428 ਦੇ ਅਨੁਸਾਰ adhesion ਦੇ ਠੇਕੇ ਦੇ ਰਹੇ ਹਨ ਵਿਅਕਤੀ ਜਿਸ ਨੇ ਉਮਰ ਦੇ
+        18 ਸਾਲ ਤੇ ਪਹੁੰਚ ਗਈ ਹੈ (hereinafter ਜ "ਯੂਜ਼ਰ" ਅਤੇ ਕੰਪਨੀ ਦੇ ਤੌਰ ਤੇ ਕਰਨ ਲਈ ਕਿਹਾ
+        ਗਿਆ ( "ਸਾਨੂੰ") - ਇੱਕ ਸੀਮਿਤ ਦੇਣਦਾਰੀ ਦੀ ਕੰਪਨੀ ''Technoelegance "(LLC" Technoelegance
+        ") (ਕਾਨੂੰਨੀ ਪਤਾ: 101000, ਮਾਸ੍ਕੋ, Ulanskiy pereulok 13, stroeniye 4, pomeshcheniye
+        1), hereinafter ਨੂੰ Flutylove ਦੇ ਤੌਰ ਤੇ, ਤੁਹਾਨੂੰ ਇਸ ਵੈਬਸਾਈਟ ਅਤੇ ਵੈਬਸਾਈਟ ਜ
+        ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ (ਆਮ ਤੌਰ ''ਤੇ "ਸਰਵਿਸਿਜ਼" ਦੇ ਤੌਰ ਤੇ ਜ਼ਿਕਰ ਦੁਆਰਾ ਪੇਸ਼ ਸਾਰੇ ਸਬੰਧਿਤ
+        ਸੇਵਾ) ਵਰਤ ਸਕਦੇ ਹੋ, ਜੋ ਕਿ ਅਨੁਸਾਰ ਜ਼ਿਕਰ ਕੀਤਾ. ਵੈੱਬਸਾਈਟ ਦੇ ਕਿਸੇ ਵੀ ਦਾ ਮਤਲਬ ਸਮਝ
+        ਰਿਹਾ ਹੈ ਇਸ ਦੇ ਵਰਜਨ, ਡੋਮੇਨ ਨਾਮ flutylove.com ਹੇਠ ਮਿਲਾ ਹੈ ਅਤੇ ਵੈੱਬ-ਅਧਾਰਿਤ ਵਰਜਨ,
+        ਮੋਬਾਈਲ ਐਪਲੀਕੇਸ਼ਨ ਅਤੇ ਸਮਾਜਿਕ ਨੈੱਟਵਰਕ ਲਈ ਕਾਰਜ ਸ਼ਾਮਲ ਹਨ ਜੰਤਰ ਦੀ ਇੱਕ ਕਿਸਮ ਦੇ,
+        ਲਈ ਕੰਮ ਕਰਦਾ ਹੈ.ਇਸ ਵੈੱਬਸਾਈਟ ਵਰਤ ਕੇ ਤੁਹਾਨੂੰ ਇਕਰਾਰਨਾਮੇ ਦੇ ਸ਼ਬਦ ਹੈ ਅਤੇ ਗੁਪਤ ਨੀਤੀ
+        ਨਾਲ ਸਹਿਮਤ ਹੋ. ਨੂੰ ਧਿਆਨ ਨਾਲ ਪੜ੍ਹੋ ਜੀ. ਤੁਹਾਨੂੰ ਇਕਰਾਰਨਾਮੇ ਦੇ ਸ਼ਬਦ ਹੈ ਅਤੇ ਗੁਪਤ
+        ਨੀਤੀ ਨਾਲ ਸਹਿਮਤ ਨਾ ਕਰਦੇ ਹੋ, ਜ ਤੁਹਾਨੂੰ 18 ਸਾਲ ਦੀ ਉਮਰ ਤੇ ਪਹੁੰਚ ਨਾ ਹੈ, ਤੁਹਾਨੂੰ
+        ਵੈੱਬਸਾਈਟ ਅਤੇ ਇਸ ਦੇ ਸਰਵਿਸਿਜ਼ ਨੂੰ ਵਰਤ ਨਾ ਹੋ ਸਕਦਾ ਹੈ.ਵੈੱਬਸਾਈਟ ਵਰਤ ਕੇ, ਪਰਵਾਹ ਤੁਹਾਨੂੰ
+        Flutylove ਦੇ ਯੂਜ਼ਰ ਨੂੰ ਜ ਦਰਜ ਕਰ ਨਹੀ ਕਰ ਰਹੇ ਹਨ, ਤੁਹਾਨੂੰ ਇਸ ਸਮਝੌਤੇ ਅਤੇ ਸਾਡੇ
+        ਗੁਪਤ ਨੀਤੀ ਹੈ, ਜੋ ਕਿ ਲਿੰਕ ਕੇ ਇਸ ਇਕਰਾਰਨਾਮੇ ਵਿਚ ਸ਼ਾਮਲ ਹੈ ਅਤੇ ਵੈੱਬਸਾਈਟ ''ਤੇ ਉਪਲਬਧ
+        ਹੈ ਦੇ ਨਾਲ ਪੂਰੀ ਸਹਿਮਤ ਹੈ, ਅਤੇ ਇਸ ਨੂੰ ਨਾਲ ਪਾਲਣਾ.ਉਪਭੋਗੀ ਨੂੰ ਬੇਨਤੀ ਕਰਨ ''ਤੇ, ਕੰਪਨੀ
+        ਨੂੰ ਇੱਕ hardcopy ਰੂਪ ਵਿਚ ਇਸ ਸਮਝੌਤੇ'' ਤੇ ਹਸਤਾਖਰ ਹੈ ਅਤੇ ਵਿਅਕਤੀ ਨੂੰ ਦਸਤਾਵੇਜ਼
+        ਦੀ ਬੇਨਤੀ ਕਰਨ ਲਈ ਇਸ ਨੂੰ ਭੇਜਣ ਲਈ ਦਾ ਵਾਅਦਾ.ਕੰਪਨੀ ਦੇ ਸਮਝੌਤੇ ਅਤੇ ਕਿਸੇ ਵੀ ਦਸਤਾਵੇਜ਼
+        ਇਸ ਨੂੰ ਕਰਨ ਲਈ ਕਿਹਾ ਗਿਆ, ਸੋਧਣ ਦਾ ਹੱਕ ਰੱਖਦਾ ਹੈ. ਤਬਦੀਲੀ ਤੁਹਾਨੂੰ ਰੱਖਣ-ਅੱਪ-ਟੂ-ਡੇਟ
+        ਕਰਨ ਲਈ ਇੱਕ ਰੈਗੂਲਰ ਆਧਾਰ ''ਤੇ ਅਜਿਹੇ ਬਦਲਾਅ ਤੇ ਜਾਣਕਾਰੀ ਦੀ ਲੋੜ ਹੈ ਬਾਰੇ ਜਾਣੂ ਹੋਣ
+        ਦੀ. ਸਾਨੂੰ ਬਦਲਾਅ ਸਾਨੂੰ ਹੇਠ ਇਸ ਸਫ਼ੇ ''ਤੇ ਕੀਤੀ ਬਾਰੇ ਤੁਹਾਨੂੰ ਸੂਚਿਤ ਕਰੇਗਾ. ਬਦਲਾਅ
+        ਨੂੰ ਵਾਪਸ ਸੰਬੰਧ ਨਾ ਕਰੋ ਅਤੇ ਪ੍ਰਕਾਸ਼ਨ ਦੀ ਮਿਤੀ ਤੱਕ ਦਸ ਦਿਨ ਦੇ ਅੰਦਰ ਅੰਦਰ ਅਸਰ ਵਿੱਚ
+        ਆ ਜਾਵੇਗਾ. ਪਰ, ਦੇ ਮਾਮਲੇ ''ਚ ਉਹ ਨਵ ਸੇਵਾ ਦੇ ਲਾਗੂ ਜ ਕਾਨੂੰਨ ਦੀ ਸੋਧ ਨਾਲ ਸਬੰਧਿਤ ਹਨ,
+        ਇਸ ਨੂੰ ਤੁਰੰਤ ਲਾਗੂ ਕੀਤਾ ਜਾਵੇਗਾ. ਤੁਹਾਨੂੰ ਇਕਰਾਰਨਾਮੇ ਵਿੱਚ ਤਬਦੀਲੀ ਨਾਲ ਸਹਿਮਤ ਨਾ
+        ਕਰਦੇ ਹੋ, ਤੁਹਾਨੂੰ ਵੈੱਬਸਾਈਟ ਅਤੇ ਇਸ ਦੇ ਕਾਰਜ ਨੂੰ ਵਰਤ ਨੂੰ ਰੋਕਣ ਚਾਹੀਦਾ ਹੈ.'
+      consent_to_accept_the_terms_of_user_agreement: 1. ਮਨਜ਼ੂਰੀ USER ਸਮਝੌਤੇ ਦੇ ਰੂਪ
+        ਨੂੰ ਸਵੀਕਾਰ ਕਰਨ ਲਈ.
+      p_1: ". ਇਲੈਕਟ੍ਰਾਨਿਕ ਇਕਰਾਰਨਾਮੇ. ਇਹ ਸਮਝੌਤਾ ਠੇਕਾ ਹੈ, ਜੋ ਕਿ ਵੈਬਸਾਈਟ ਅਤੇ ਸਰਵਿਸਿਜ਼
+        ਦੇ ਵਰਤਣ ਦੇ ਆਧਾਰ ਬਾਰੇ ਦੱਸਦਾ ਹੈ ਦਾ ਇੱਕ ਇਲੈਕਟ੍ਰਾਨਿਕ ਵਰਜਨ ਹੈ. ਵੈੱਬਸਾਈਟ ਨੂੰ ਲਾਗਇਨ
+        ਜ ਇੱਕ ਯੂਜ਼ਰ ਬਣ ਕੇ, ਤੁਹਾਨੂੰ ਇਸ ਸਮਝੌਤੇ ਨੂੰ ਸਵੀਕਾਰ ਕਰਨ ਅਤੇ ਸਾਰੇ ਰੂਪ, ਹਾਲਾਤ, ਅਤੇ
+        ਨੋਟਿਸ, ਜੋ ਕਿ ਸ਼ਾਮਿਲ ਜ ਉਥੇ ਹਵਾਲਾ ਕਰ ਰਹੇ ਹਨ ਕਰਨ ਲਈ ਸਹਿਮਤ. ਤੁਹਾਨੂੰ ਸੱਚ ਹੈ ਅਤੇ
+        ਇਸ ਗੱਲ ਨਾਲ ਸਹਿਮਤ Flutylove ਦੀ ਉਪਭੋਗੀ ਇੱਕ ਆਨਲਾਈਨ ਭਾਈਚਾਰੇ, ਜੋ ਕਿ ਕੰਪਨੀ ਜ ਇਸ
+        ਦੇ ਸੰਬੰਧਿਤ ਸਬੰਧਤ ਹੋਰ ਵੈੱਬਸਾਈਟ ਵੀ ਸ਼ਾਮਲ ਹੈ ਦਾ ਇੱਕ ਹਿੱਸਾ ਹੋ ਸਕਦਾ ਹੈ, ਜੋ ਕਿ.
+        ਇਸ ਲਈ, ਵੈੱਬਸਾਈਟ 'ਤੇ ਪਰੋਫਾਈਲ ਹੋਰ ਸਮਾਨ ਵੈੱਬਸਾਈਟ ਅਤੇ ਇੱਕ ਵੈਬਸਾਈਟ ਦਾ ਭੁਗਤਾਨ ਗਾਹਕ'
+        ਤੇ ਦੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ ਕਿ ਸਾਰੇ ਵੈੱਬਸਾਈਟ ਤੱਕ ਹੋਰ ਦਾ ਭੁਗਤਾਨ ਗਾਹਕ ਦੇ ਨਾਲ ਗੱਲਬਾਤ
+        ਕਰ ਸਕਦਾ ਹੈ. ਅ. ਇਲੈਕਟ੍ਰਾਨਿਕ ਫਾਰਮ. ਵੈੱਬਸਾਈਟ ਨੂੰ ਲਾਗਇਨ ਜ ਇੱਕ ਯੂਜ਼ਰ ਬਣ ਕੇ, ਤੁਹਾਨੂੰ
+        ਇਲੈਕਟ੍ਰਾਨਿਕ ਸਮਝੌਤੇ ਨਾਲ ਤੁਹਾਨੂੰ ਮੁਹੱਈਆ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ. ੲ. Hardcopy ਫਾਰਮ. ਤੁਹਾਨੂੰ
+        ਇਸ ਇਕਰਾਰਨਾਮੇ ਦੇ hardcopy ਪ੍ਰਾਪਤ ਕਰਨ ਦਾ ਹੱਕ ਹੈ. ਤੁਹਾਨੂੰ ਇਸ ਇਕਰਾਰਨਾਮੇ ਦੇ hardcopy
+        ਐਡੀਸ਼ਨ ਬੇਨਤੀ ਕਰ ਸਕਦੇ ਹੋ ਅੱਗੇ ਜ ਬਾਅਦ ਇਸ ਨੂੰ ਇਲੈਕਟ੍ਰਾਨਿਕ ਰੂਪ ਵਿੱਚ ਦਸਤਖਤ ਕੀਤੇ
+        ਕੀਤਾ ਜਾਵੇਗਾ. ਕਿਰਪਾ ਕਰਕੇ, ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਸਾਡੇ ਗਾਹਕ ਸੇਵਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ. d. ਪਹੁੰਚ
+        ਅਤੇ ਡਾਊਨਲੋਡਿੰਗ. ਤੱਕ ਪਹੁੰਚ ਅਤੇ ਇਸ ਇਲੈਕਟ੍ਰਾਨਿਕ ਸਮਝੌਤੇ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਆਦੇਸ਼
+        ਵਿੱਚ, ਤੁਹਾਨੂੰ ਇੰਟਰਨੈੱਟ ਨਾਲ ਜ ਸਿੱਧੇ ਵੈੱਬ ਸਰੋਤ ਤੱਕ ਪਹੁੰਚ ਦੇ ਨਾਲ ਜੰਤਰ ਦੁਆਰਾ ਪਹੁੰਚ
+        ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ. ਤੁਹਾਨੂੰ ਜ਼ਰੂਰੀ ਸਾਜ਼ੋ-ਇੰਟਰਨੈੱਟ ', ਅਰਥਾਤ ਕੰਪਿਊਟਰ, ਮਾਡਮ ਜ ਹੋਰ
+        ਪਹੁੰਚ ਜੰਤਰ ਨਾਲ ਜੁੜਨ ਲਈ ਹੈ ਕਰਨ ਦੀ ਲੋੜ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ, ਇਸ ਸਮਝੌਤੇ ਦੀ ਇੱਕ ਕਾਪੀ
+        ਨੂੰ ਪ੍ਰਿੰਟ ਅਤੇ ਇਸ ਨੂੰ ਰੱਖਣ ਦੀ. ਇਸ ਇਕਰਾਰਨਾਮੇ ਦੀ ਇਲੈਕਟ੍ਰਾਨਿਕ ਫਾਰਮ ਨੂੰ ਡਾਊਨਲੋਡ
+        ਕਰਨ ਲਈ, ਕਿਸੇ ਵੀ ਪਾਠ ਸੰਪਾਦਕ ਦੀ ਮਦਦ ਕਰ ਕੇ ਆਪਣੇ ਕੰਪਿਊਟਰ ਨੂੰ ਕਰਨ ਲਈ ਇਸ ਨੂੰ ਬਚਾਉਣ."
+      the_right_of_using_the_website: 2. ਵੈਬਸਾਈਟ ਦਾ ਇਸਤੇਮਾਲ ਦੇ ਸੱਜੇ.
+      p_2: ਤੁਹਾਨੂੰ ਘੱਟੋ-ਘੱਟ ਅਠਾਰਾ (18) ਸਾਲ ਇਸ ਵੈਬਸਾਈਟ ਦੇ ਰਜਿਸਟਰਡ ਯੂਜ਼ਰ ਨੂੰ ਬਣਨ ਲਈ
+        ਉਮਰ ਦੇ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ. ਲੋੜ ਦੇ ਨਾਲ ਗੈਰ-ਰਹਿਤ ਦੇ ਮਾਮਲੇ ਵਿੱਚ, ਵੈੱਬਸਾਈਟ ਤੱਕ ਪਹੁੰਚ
+        ਵੀ ਇਨਕਾਰ ਕੀਤਾ ਜਾਵੇਗਾ. ਵੈੱਬਸਾਈਟ ਦਾ ਇਸਤੇਮਾਲ ਕਰਕੇ, ਉਪਭੋਗੀ ਨੂੰ ਪਤਾ ਹੈ ਕਿ ਨਿੱਜੀ
+        ਜਾਣਕਾਰੀ ਵੈੱਬਸਾਈਟ 'ਤੇ ਪੋਸਟ ਨੂੰ ਹੋਰ ਇੰਟਰਨੈੱਟ' ਉਪਭੋਗੀ ਲਈ ਉਪਲੱਬਧ ਹੋ ਸਕਦਾ ਹੈ ਹੋਣਾ
+        ਚਾਹੀਦਾ ਹੈ, ਅਤੇ ਕੰਪਨੀ ਆਪਣੇ ਕੰਮ ਦੇ ਲਈ ਦੇਣਦਾਰੀ ਪੈਦਾ ਨਾ ਗਿਆ ਹੈ. ਇਸ ਵੈੱਬਸਾਈਟ ਤੁਹਾਨੂੰ
+        ਦਾਅਵਾ ਹੈ ਅਤੇ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਇੱਕ ਦਾ ਹੱਕ, ਦਾ ਅਧਿਕਾਰ ਹੈ ਅਤੇ ਸੰਭਾਵਨਾ ਹੈ ਕਿ ਇਸ
+        ਸਮਝੌਤੇ ਵਿੱਚ ਪ੍ਰਵੇਸ਼ ਕਰਨ ਲਈ ਹੈ, ਜੋ ਕਿ ਵਰਤ, ਅਤੇ ਸਹਿਮਤੀ ਸਾਰੇ ਇਸ ਦੇ ਸ਼ਬਦ ਹੈ ਅਤੇ
+        ਹਾਲਾਤ ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ ਕੇ. ਇੱਕ ਉਪਭੋਗੀ ਤੁਹਾਨੂੰ ਦਾਅਵਾ ਕਰਨ ਅਤੇ ਕਰਨ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ
+        ਜਿਨਸੀ ਹਿੰਸਾ ਨਾਲ ਸਬੰਧਤ ਅਪਰਾਧਿਕ ਜੁਰਮ ਲਈ ਸਜ਼ਾ ਪੀੜਤ ਗਿਆ ਕਦੇ ਹੈ ਬਣਨਾ. ਵੈੱਬਸਾਈਟ
+        ਨਿੱਜੀ ਇਸਤੇਮਾਲ ਲਈ ਹੀ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ. ਇਸ ਨੂੰ ਕਿਸੇ ਵੀ ਵਪਾਰਕ ਮਕਸਦ ਲਈ ਵੈੱਬਸਾਈਟ
+        ਨੂੰ ਵਰਤਣ ਲਈ ਮਨ੍ਹਾ ਕੀਤਾ ਗਿਆ ਹੈ. ਕਾਰਪੋਰੇਟ ਇੰਦਰਾਜ਼ ਇਸ ਵੈਬਸਾਈਟ ਦੇ ਉਪਭੋਗੀ ਨਾ ਹੋ
+        ਸਕਦਾ ਹੈ, ਦੇ ਨਾਲ ਨਾਲ ਇਸ ਸੇਵਾ ਜ ਆਪਣੇ ਮਕਸਦ 'ਤੇ ਵੈੱਬਸਾਈਟ ਨੂੰ ਵਰਤਣ ਨਾ ਕਰ ਸਕਦਾ ਹੈ.
+        ਗੈਰਕਾਨੂੰਨੀ ਅਤੇ / ਜ ਅਣਅਧਿਕਾਰਤ, ਵੈੱਬਸਾਈਟ ਦੀ ਵਰਤ ਵਾਕਫੀ ਸੁਨੇਹੇ ਅਤੇ ਲਿੰਕ ਭੇਜਣ ਦੇ
+        ਮਕਸਦ ਲਈ ਇਲੈਕਟ੍ਰਾਨਿਕ ਜ ਹੋਰ ਸੰਦ ਦੀ ਮਦਦ ਨਾਲ ਇਕੱਠੇ ਉਪਭੋਗੀ ਅਤੇ / ਜ ਈ-ਮੇਲ ਪਤੇ ਵੀ
+        ਸ਼ਾਮਲ ਪਿੱਛਾ ਕਰ ਰਿਹਾ ਹੈ ਅਤੇ ਕੰਪਨੀ ਕਾਨੂੰਨ ਅਨੁਸਾਰ ਉਚਿਤ ਕਾਰਵਾਈ ਨੂੰ ਲੈ, ਵੀ ਸ਼ਾਮਲ
+        ਹੈ ਹੋ ਸਕਦਾ ਹੈ ਕਾਨੂੰਨ ਲਾਗੂ ਕਰਨ ਦੇ ਅਧਿਕਾਰੀ ਨੂੰ ਅਪੀਲ.
+      pricing_and_registration: 3. ਕੀਮਤ ਅਤੇ ਰਜਿਸਟਰੇਸ਼ਨ
+      p_3: ਵੈੱਬਸਾਈਟ 'ਤੇ ਰਜਿਸਟਰ ਕਰਕੇ ਸੁਗਾਤ ਹੈ ਅਤੇ ਇੰਚਾਰਜ ਆਧਾਰ ਦੇ ਮੁਫ਼ਤ' ਤੇ Flutylove
+        ਦੇ ਉਪਭੋਗੀ ਬਣਨ ਦੇ ਯੋਗ. ਉਪਭੋਗੀ ਦੇ ਤੌਰ ਤੇ, ਤੁਹਾਨੂੰ ਸੇਵਾ ਅਤੇ ਵੈੱਬਸਾਈਟ ਦੇ ਮੌਕੇ
+        ਦੇ ਖਾਸ ਸੀਮਾ ਨੂੰ ਵਰਤ ਸਕਦਾ ਹੈ. ਵੈੱਬਸਾਈਟ ਦੇ ਉਪਭੋਗੀ ਨੂੰ ਇੱਕ ਵਿਅਕਤੀ ਨੂੰ ਸਥਾਪਿਤ
+        ਕੀਤਾ ਵਿਵਸਥਾ ਅਤੇ ਜੋ ਉਮਰ ਦੇ 18 ਸਾਲ ਤੇ ਪਹੁੰਚ ਗਈ ਹੈ ਅਨੁਸਾਰ ਵੈੱਬਸਾਈਟ 'ਤੇ ਦਰਜ ਕੀਤਾ
+        ਹੈ. ਜਦ ਵੈੱਬਸਾਈਟ 'ਤੇ ਰਜਿਸਟਰ ਕਰਨ ਦੇ ਉਪਭੋਗੀ ਸਫ਼ਾ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਕੰਪਨੀ ਲਈ ਜ਼ਰੂਰੀ
+        ਹੈ ਅਤੇ ਸੰਬੰਧਿਤ ਜਾਣਕਾਰੀ, ਲਾਗਇਨ (ਈ-ਮੇਲ ਪਤੇ ਨੂੰ ਜ ਫੋਨ ਨੰਬਰ) ਅਤੇ ਪਾਸਵਰਡ ਵੈੱਬਸਾਈਟ
+        ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਲਈ, ਦੇ ਨਾਲ ਨਾਲ ਨਾਮ, ਸ਼ਾਮਲ ਹਨ ਮੁਹੱਈਆ ਕਰਨ ਲਈ ਜੁੰਮੇਵਾਰੀ ਹੈ, ਜੋ
+        ਕਿ ਹਰ ਉਪਭੋਗੀ ਲਈ ਵਿਲੱਖਣ ਹਨ. ਰਜਿਸਟਰੇਸ਼ਨ ਲਈ ਫਾਰਮ ਉਪਭੋਗੀ ਵਾਧੂ ਜਾਣਕਾਰੀ ਲਈ ਬੇਨਤੀ
+        ਕਰ ਸਕਦਾ ਹੈ. ਯੂਜ਼ਰ ਵੈਧਤਾ, ਅਸਲ, ਸੰਪੂਰਨਤਾ ਅਤੇ ਰਜਿਸਟਰੇਸ਼ਨ 'ਤੇ ਦਿੱਤੀ ਗਈ ਜਾਣਕਾਰੀ
+        ਦੇ ਰਸ਼ੀਅਨ ਫੈਡਰੇਸ਼ਨ ਦੇ ਕਾਨੂੰਨ, ਅਤੇ ਤੀਜੇ ਪੱਖ ਦੇ ਦਾਅਵੇ ਤੱਕ ਇਸ clearness ਨਾਲ ਪਾਲਣਾ
+        ਕਰਨ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਹੈ. ਜਦ ਰਜਿਸਟਰ ਯੂਜ਼ਰ ਇਸ ਸਮਝੌਤੇ ਨਾਲ ਸਹਿਮਤ ਹੈ ਅਤੇ ਵਰਤ ਅਤੇ ਵੈੱਬਸਾਈਟ
+        ਦੇ ਕੰਮਕਾਜ ਨਾਲ ਸਬੰਧਤ ਨਿਰਧਾਰਤ ਹੱਕ ਅਤੇ ਫਰਜ਼, ਕਰਨ. ਯੂਜ਼ਰ ਵੈੱਬਸਾਈਟ ਫੰਕਸ਼ਨ ਦੀ ਵਰਤ
+        ਕਰਨ ਲਈ ਪੂਰੀ ਪਹੁੰਚ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈ. ਕੰਪਨੀ, ਉਪਭੋਗੀ, ਇਹ ਰੈਗੂਲੇਸ਼ਨਜ਼ ਵਿੱਚ ਦਿੱਤਾ
+        ਨੂੰ ਹੱਕ ਅਤੇ ਫ਼ਰਜ਼ ਦਾ ਵਾਅਦਾ ਵੈੱਬਸਾਈਟ 'ਤੇ ਉਪਭੋਗੀ ਦੇ ਸਫਲ ਰਜਿਸਟਰੇਸ਼ਨ ਬਾਅਦ ਉਪਭੋਗੀ
+        ਦੇ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਕਾਰਵਾਈ ਕਰਨ ਰਸ਼ੀਅਨ ਫੈਡਰੇਸ਼ਨ ਦੇ ਕਾਨੂੰਨ ਅਨੁਸਾਰ ਕੀਤੀ ਗਈ ਹੈ.
+        ਵੈੱਬਸਾਈਟ ਪ੍ਰਸ਼ਾਸਨ ਕ੍ਰਮ ਵੈੱਬਸਾਈਟ ਫੰਕਸ਼ਨ ਦੀ ਵਰਤੋ, ਵਿਅਕਤੀਗਤ (ਨਿਸ਼ਾਨਾ) ਇਸ਼ਤਿਹਾਰ
+        ਪ੍ਰਾਪਤ ਵੀ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਇੱਕ ਪਹੁੰਚ ਦੇ ਨਾਲ ਉਪਭੋਗੀ ਮੁਹੱਈਆ ਕਰਨ ਲਈ, ਉਪਭੋਗੀ ਦੇ ਨਿੱਜੀ
+        ਡਾਟੇ ਤੇ ਕਾਰਵਾਈ; ਤਸਦੀਕ, ਖੋਜ ਅਤੇ ਉਹ ਡਾਟਾ ਦੇ ਵਿਸ਼ਲੇਸ਼ਣ, ਸਹਿਯੋਗ ਅਤੇ ਫੰਕਸ਼ਨ ਅਤੇ
+        ਵੈੱਬਸਾਈਟ ਦੇ ਭਾਗ ਨੂੰ ਸੁਧਾਰ ਕਰਨ ਲਈ, ਦੇ ਨਾਲ ਨਾਲ ਨਵ ਫੰਕਸ਼ਨ ਅਤੇ ਭਾਗ ਨੂੰ ਵਿਕਸਤ,
+        ਜਿਸ ਨਾਲ. ਕੰਪਨੀ ਅਣਅਧਿਕਾਰਤ ਪਹੁੰਚ, ਸੋਧ, ਖੁਲਾਸਾ ਜ ਮਿਟਾਉਣਾ ਵਿਰੁੱਧ ਯੂਜ਼ਰ ਦੀ ਨਿੱਜੀ
+        ਡਾਟਾ ਦੀ ਰੱਖਿਆ ਕਰਨ ਲਈ ਸਾਰੇ ਜ਼ਰੂਰੀ ਕਾਰਵਾਈ ਕਰਦਾ ਹੈ. ਕੰਪਨੀ ਨੇ ਸਿਰਫ ਉਹ ਕਰਮਚਾਰੀ,
+        ਠੇਕੇਦਾਰ ਅਤੇ ਕੰਪਨੀ ਦੇ ਏਜੰਟ ਹਨ, ਜੋ ਕ੍ਰਮ ਵੈੱਬਸਾਈਟ ਕਾਰਜਕੁਸ਼ਲਤਾ ਨੂੰ ਸਹਿਯੋਗ ਕਰਨ
+        ਲਈ ਅਤੇ ਇਸ ਦੇ ਵਰਤ ਨੂੰ ਪਹੁੰਚ ਦੇ ਨਾਲ ਉਪਭੋਗੀ ਮੁਹੱਈਆ ਕਰਨ ਲਈ ਇਸ ਜਾਣਕਾਰੀ ਦੀ ਲੋੜ ਹੈ
+        ਕਰਨ ਲਈ ਯੂਜ਼ਰ ਦੀ ਨਿੱਜੀ ਡਾਟਾ ਤੱਕ ਪਹੁੰਚ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ. ਵੈੱਬਸਾਈਟ ਦੇ ਕੰਪਨੀ (ਰੋਕਥਾਮ
+        ਅਤੇ / ਜ ਗੈਰ-ਕਾਨੂੰਨੀ ਅਤੇ / ਜ ਗੈਰਕਾਨੂੰਨੀ ਦੇ ਦਮਨ ਦੇ ਸਮੇਤ ਕ੍ਰਮ ਰਸ਼ੀਅਨ ਫੈਡਰੇਸ਼ਨ
+        ਦੇ ਮੌਜੂਦਾ ਕਾਨੂੰਨ ਦੀ ਲੋੜ ਦੇ ਨਾਲ ਪਾਲਣਾ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਹੈ, ਨਿੱਜੀ ਡਾਟਾ ਵੀ
+        ਸ਼ਾਮਲ ਹਨ ਉਪਭੋਗੀ ਦੁਆਰਾ ਦਿੱਤੀ ਗਈ ਜਾਣਕਾਰੀ ਨੂੰ ਵਰਤਣ ਦਾ ਅਧਿਕਾਰ ਹੈ ਉਪਭੋਗੀ ਦੀ ਕਾਰਵਾਈ).
+        ਦੇ ਤੌਰ ਰਸ਼ੀਅਨ ਫੈਡਰੇਸ਼ਨ ਲਾਗੂ ਕਾਨੂੰਨ ਦੁਆਰਾ ਮੁਹੱਈਆ ਯੂਜ਼ਰ ਦੁਆਰਾ ਮੁਹੱਈਆ ਜਾਣਕਾਰੀ
+        ਦਾ ਖੁਲਾਸਾ ਹੋਣ ਦੇ ਨਾਲ ਨਾਲ ਹੋਰ ਮਾਮਲੇ ਵਿੱਚ ਸਿਰਫ ਅਦਾਲਤ ਨੇ ਕਾਨੂੰਨ ਲਾਗੂ ਕਰਨ ਅਦਾਰੇ
+        ਦੀ ਬੇਨਤੀ 'ਤੇ ਰਸ਼ੀਅਨ ਫੈਡਰੇਸ਼ਨ ਦੇ ਮੌਜੂਦਾ ਕਾਨੂੰਨ ਦੇ ਅਨੁਸਾਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ,.
+        ਹੱਦ ਹੈ, ਜੋ ਕਿ ਕੰਪਨੀ ਇਹ ਨਿਯਮ ਦੇ ਲਾਗੂ ਕਰਨ ਲਈ ਉਪਭੋਗੀ ਦੀ ਨਿੱਜੀ ਡਾਟਾ ਤੇ ਕਾਰਵਾਈ
+        ਕਰਨ ਲਈ, ਨਿੱਜੀ ਡਾਟੇ ਦੀ ਨੂੰ ਕਾਰਵਾਈ ਕਰਨ ਉਪਭੋਗੀ ਦੀ ਸਹਿਮਤੀ ਨਿੱਜੀ ਡਾਟਾ 'ਤੇ ਕਾਨੂੰਨ
+        ਦੇ ਪ੍ਰਬੰਧ ਦੇ ਗੁਣ ਵਿੱਚ ਦੀ ਲੋੜ ਨਹੀ ਹੈ. ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਯੂਜ਼ਰ ਦੁਆਰਾ ਚੁਣਿਆ ਵੈੱਬਸਾਈਟ
+        ਨੂੰ ਯੂਜ਼ਰ ਪਹੁੰਚ ਲਈ ਜਰੂਰੀ ਹੈ ਅਤੇ ਕਾਫ਼ੀ ਜਾਣਕਾਰੀ ਹੁੰਦੀ ਹੈ. ਉਪਭੋਗੀ ਨੂੰ ਤੀਜੇ ਪੱਖ
+        ਨੂੰ ਉਸ ਦੀ / ਉਸ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਦੇਣਾ ਹੈ, ਇੱਕ ਦਾ ਹੱਕ ਹੈ, ਅਤੇ ਇਸ ਦੇ ਸੁਰੱਖਿਆ
+        ਦੇ ਲਈ ਬਿਲਕੁਲ ਜ਼ਿੰਮੇਵਾਰ ਹੈ, ਇੱਕ ਸੁਤੰਤਰ ਦੇ ਆਧਾਰ 'ਤੇ ਉਹ ਨੂੰ ਸੰਭਾਲਣ ਦੇ ਰਾਹ ਦੀ
+        ਚੋਣ ਕਰਨ. ਉਸ ਦੀ / ਉਸ ਹਾਰਡਵੇਅਰ ਅਤੇ ਸਾਫਟਵੇਅਰ ਦਾ ਇਸਤੇਮਾਲ ਯੂਜ਼ਰ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ
+        (ਕੂਕੀਜ਼ ਦੁਆਰਾ) ਵੈੱਬਸਾਈਟ 'ਤੇ ਇਸ ਉਪਰੰਤ ਆਟੋਮੈਟਿਕ ਅਧਿਕਾਰ ਲਈ ਦੀ ਸਟੋਰੇਜ਼ ਦੀ ਇਜਾਜ਼ਤ
+        ਕਰ ਸਕਦੀ ਹੈ. ਉਪਭੋਗੀ ਦਾ ਯੂਜ਼ਰ ਅਤੇ ਪਾਸਵਰਡ ਦੀ ਵਰਤੋ ਨਾਲ ਲਿਆ ਕੋਈ ਵੀ ਕਾਰਵਾਈ, ਯੂਜ਼ਰ
+        ਦੁਆਰਾ ਵਚਨਬੱਧ ਹੋਣ ਲਈ, ਜਦ ਤੱਕ ਇਸ ਦੇ ਉਲਟ ਯੂਜ਼ਰ ਦੁਆਰਾ ਸਾਬਤ ਹੁੰਦਾ ਹੈ ਮੰਨਿਆ ਰਹੇ
+        ਹਨ. ਉਪਭੋਗੀ ਨੂੰ ਤੁਰੰਤ ਯੂਜ਼ਰ ਅਤੇ ਪਾਸਵਰਡ ਅਤੇ / ਜ ਖਾਤੇ ਸਫ਼ਾ, ਜ ਖੁਲਾਸਾ ਲਾਗਇਨ ਅਤੇ
+        ਪਾਸਵਰਡ ਦੇ ਲਈ ਅਣਅਧਿਕਾਰਤ ਪਹੁੰਚ ਦੇ ਮਾਮਲੇ ਵਿਚ ਸਥਾਪਿਤ ਵਿਧੀ ਦੇ ਅਨੁਸਾਰ ਕੰਪਨੀ ਨੂੰ
+        ਸੂਚਿਤ ਕਰਨ ਲਈ ਮਜਬੂਰ ਹੈ. ਰਜਿਸਟਰੇਸ਼ਨ ਬਾਅਦ ਯੂਜ਼ਰ ਮਜ਼ਬੂਤ, ਬਣਾਉਣ ਲਈ ਵਰਤਣ ਹੈ, ਅਤੇ
+        ਇਹ ਪਤਾ ਸਵੈ-ਦਿਲਚਸਪੀ ਹੈ ਅਤੇ ਗੈਰਵਪਾਰਿਕ ਦੇ ਮਕਸਦ 'ਤੇ ਉਸ ਦੇ / ਨੇ ਉਸ ਨੂੰ ਆਪਣੀ ਨਿੱਜੀ
+        ਸਫ਼ੇ ਦੀ ਸਮੱਗਰੀ, ਦੇ ਨਾਲ ਨਾਲ ਪ੍ਰਾਪਤ ਹੋਰ ਉਪਭੋਗੀ ਦੇ ਨਿੱਜੀ ਸਫ਼ੇ' ਤੇ ਜਾਣਕਾਰੀ ਤੱਕ
+        ਪਹੁੰਚ ਅਤੇ ਪੋਸਟ ਕਰਨ ਦਾ ਮੌਕਾ ਦਾ ਹੱਕ . ਜਾਣਕਾਰੀ ਨਿੱਜੀ ਸਫ਼ੇ 'ਤੇ ਤਾਇਨਾਤ ਦੇ ਮਾਲਕ
+        ਦੇ ਤੌਰ ਤੇ ਯੂਜ਼ਰ, ਜੋ ਕਿ ਕੇਸ ਇਹ ਰੈਗੂਲੇਸ਼ਨ ਅਤੇ ਰੂਸੀ ਫੈਡਰੇਸ਼ਨ ਦੇ ਮੌਜੂਦਾ ਕਾਨੂੰਨ
+        ਦੁਆਰਾ ਸਥਾਪਿਤ ਦੇ ਅਪਵਾਦ ਦੇ ਨਾਲ, ਕੰਪਨੀ ਦੇ ਵਿਕਾਸ ਵਿਚ ਹਿੱਸਾ ਨਹੀ ਹੈ ਅਤੇ ਸਮੱਗਰੀ ਦੀ
+        ਵਰਤ ਅਤੇ ਕੰਟਰੋਲ ਨਹੀ ਹੈ, ਪਤਾ ਹੈ ਹੋਰ ਉਪਭੋਗੀ ਤੱਕ ਉਪਭੋਗੀ ਦੇ ਸਫ਼ੇ ਤੱਕ ਪਹੁੰਚ.
+      terms_4: 4. ਸ਼ਬਦ.
+      p_4: ਪੂਰੀ ਤੌਰ ਤੇ ਲੰਬੇ ਤੁਹਾਨੂੰ ਵੈੱਬਸਾਈਟ ਨੂੰ ਵਰਤਣ ਫੋਰਸ ਅਤੇ ਪ੍ਰਭਾਵ ਵਿਚ ਰਹਿੰਦਾ ਹੈ.
+        ਤੁਹਾਨੂੰ ਕਿਸੇ ਵੀ ਕਾਰਨ ਕਰਕੇ ਕਿਸੇ ਵੀ ਵੇਲੇ 'ਤੇ ਆਪਣੇ ਸਫ਼ੇ ਨੂੰ ਹਟਾਉਣ, ਸਾਡੇ ਆਨਲਾਈਨ
+        ਗਾਹਕ ਸੇਵਾ ਨਾਲ ਸੰਪਰਕ ਕਰਕੇ ਜ ਵੈੱਬਸਾਈਟ ਦੀ ਸੇਵਾ ਨੂੰ ਵਰਤ ਕੇ, ਕਰ ਕੇ ਵੈੱਬਸਾਈਟ ਦੀ
+        ਉਪਭੋਗੀ ਹੋਣ ਨੂੰ ਰੋਕ ਸਕਦਾ ਹੈ. ਕੰਪਨੀ ਨੂੰ ਕਿਸੇ ਵੀ ਵੇਲੇ 'ਤੇ ਆਪਣੇ ਨਿੱਜੀ ਸਫ਼ੇ ਨੂੰ
+        ਹਟਾਉਣ ਲਈ ਇਸ ਦੇ ਹੱਕ ਰੱਖਦਾ ਹੈ. ਸਾਨੂੰ, ਸਫ਼ਾ ਹਟਾਉਣ ਦੇ ਅੱਗੇ ਤੁਹਾਨੂੰ ਸੂਚਿਤ ਕਰਨ ਲਈ,
+        ਜੇਕਰ ਕੰਪਨੀ ਵਿਸ਼ਵਾਸ ਕਰਨ ਲਈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਇਸ ਇਕਰਾਰਨਾਮੇ ਦੇ ਆਧਾਰ 'ਦੀ ਉਲੰਘਣਾ ਕੀਤੀ
+        ਹੈ ਇਸ ਦਾ ਕਾਰਨ ਹੈ ਮਜਬੂਰ ਨਹੀ ਕਰ ਰਹੇ ਹਨ. ਸਾਨੂੰ ਆਪਣੇ ਖਾਤੇ ਦੀ ਹਟਾਉਣ ਦਾ ਕਾਰਨ ਦਾ
+        ਖੁਲਾਸਾ ਕਰਨ ਲਈ ਮਜਬੂਰ ਨਹੀ ਕਰ ਰਹੇ ਹਨ; ਕੁਝ ਮਾਮਲੇ ਵਿੱਚ ਅਜਿਹੀ ਜਾਣਕਾਰੀ ਦਾ ਖੁਲਾਸਾ
+        ਕਰਨ ਦੀ ਮਨਾਹੀ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ. ਆਪਣੇ ਸਫ਼ੇ ਦੇ ਹਟਾਉਣ ਦੇ ਬਾਅਦ, ਸਾਰੇ ਹਾਲਾਤ ਬਾਅਦ
+        ਆਪਣੇ ਸੁਭਾਅ ਕਰਕੇ ਇਸ ਇਕਰਾਰਨਾਮੇ ਦੇ ਸਮਾਪਤੀ ਅਜਿਹੇ ਸਮਾਪਤੀ ਦੇ ਬਾਅਦ ਲਾਗੂ ਹੋ ਜਾਵੇਗਾ
+        ਠੀਕ ਹੋ ਸਕਦਾ ਹੈ, ਜੋ ਕਿ. ਤੁਹਾਨੂੰ ਆਪਣੇ ਖੁਦ ਦੀ ਇੱਛਾ 'ਤੇ ਵੈੱਬਸਾਈਟ ਦੁਆਰਾ ਆਪਣੇ ਸਫ਼ੇ
+        ਨੂੰ ਹਟਾਉਣ, ਜੇ, ਸਾਨੂੰ ਅਜਿਹੇ ਹਟਾਉਣਾ ਦੇ ਕਾਰਨ ਨਿਰਧਾਰਤ ਕਰਨ ਲਈ ਕਹਿ ਸਕਦਾ ਹੈ.
+      account_security: 5. ਖਾਤਾ ਸੁਰੱਖਿਆ.
+      p_5: ਆਪਣੇ ਯੂਜ਼ਰ ਅਤੇ ਪਾਸਵਰਡ ਹੈ, ਜੋ ਕਿ ਰਜਿਸਟਰੇਸ਼ਨ ਦੇ ਵੇਲੇ 'ਤੇ ਸੈੱਟ ਕੀਤੀ ਜਾਵੇਗੀ
+        ਦੀ ਗੁਪਤਤਾ ਸੰਭਾਲ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਹਨ. ਇਸ ਦੇ ਨਾਲ, ਤੁਹਾਨੂੰ ਸਭ ਨੂੰ ਕਾਰਵਾਈ ਹੈ, ਜੋ ਕਿ
+        ਆਪਣੇ ਯੂਜ਼ਰ ਅਤੇ ਪਾਸਵਰਡ ਦੇ ਅਧੀਨ ਹੁੰਦੀ ਹੈ ਇਸ ਲਈ ਬਿਲਕੁਲ ਜ਼ਿੰਮੇਵਾਰ ਹਨ. ਤੁਹਾਨੂੰ
+        (ੳ) ਤੁਰੰਤ ਸਾਡੇ ਨਾਲ ਕੋਈ ਵੀ ਅਣਅਧਿਕਾਰਤ ਹਰ ਇੱਕ ਸੈਸ਼ਨ ਦੇ ਅੰਤ 'ਤੇ ਆਪਣੇ ਖਾਤੇ ਤੱਕ
+        ਆਪਣੇ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਦੀ ਵਰਤੋ, ਦੇ ਨਾਲ ਨਾਲ ਕਿਸੇ ਵੀ ਹੋਰ ਸੁਰੱਖਿਆ ਨੂੰ ਉਲੰਘਣਾ ਹੈ,
+        ਅਤੇ (ਅ) ਬਾਹਰ ਜਾਣ ਬਾਰੇ ਸੂਚਿਤ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ. ਵੈੱਬਸਾਈਟ ਨੂੰ ਕਿਸੇ ਵੀ ਨੁਕਸਾਨ
+        ਜ ਨੁਕਸਾਨ ਨੂੰ ਇਸ ਪ੍ਰਬੰਧ ਦੇ ਗੈਰ-ਰਹਿਤ ਤੱਕ ਹੋਣ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਹੈ. ਜਦ ਕਿ ਅਣਅਧਿਕਾਰਤ
+        ਵਿਅਕਤੀ ਜਾਸੂਸੀ ਜ ਆਪਣੇ ਪਾਸਵਰਡ ਜ ਕੋਈ ਹੋਰ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਰਿਕਾਰਡ ਨਾ ਕਰ ਸਕਿਆ
+        ਵਿਚ ਇਕ ਜਨਤਕ ਕੰਪਿਊਟਰ ਦੁਆਰਾ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਵਰਤਣ ਲਈ ਤੁਹਾਨੂੰ ਖਾਸ ਕਰਕੇ ਧਿਆਨ ਰੱਖਣਾ
+        ਚਾਹੀਦਾ ਹੈ. ਤੁਹਾਨੂੰ ਇਹ ਵੀ ਪੁਸ਼ਟੀ ਅਤੇ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ ਕਿ ਇੰਟਰਨੈੱਟ ਦੀ ਕਦੇ ਵੀ ਪੂਰੀ
+        ਨਿੱਜੀ ਅਤੇ ਸੁਰੱਖਿਅਤ ਸੀ. ਤੁਹਾਨੂੰ ਇਹ ਸਮਝਣ ਕਿ ਕਿਸੇ ਵੀ ਸੁਨੇਹੇ ਜ ਜਾਣਕਾਰੀ ਵੈੱਬਸਾਈਟ
+        'ਤੇ ਪੋਸਟ ਜ ਪੜ੍ਹਿਆ ਜਾ ਸਕਦਾ ਹੈ ਹੋਰ ਉਪਭੋਗੀ ਦੁਆਰਾ ਵਰਤਿਆ, ਇੱਕ ਖਾਸ ਚੇਤਾਵਨੀ ਹੈ, ਜੋ
+        ਕਿ ਜਾਣਕਾਰੀ ਨੂੰ ਗੁਪਤ ਹੈ ਉਥੇ ਹੈ ਵੀ, ਜੇ.
+      your_interaction_with_other_users_of_the_website: 6. ਵੈੱਬਸਾਈਟ ਦੇ ਹੋਰ ਨਾਲ ਆਪਣੇ
+        ਦਖਲ.
+      p_6: ". ਤੁਹਾਨੂੰ ਹੋਰ ਨਾਲ ਆਪਣੇ ਦਖਲ ਲਈ ਇਕੱਲੇ ਹੀ ਜ਼ਿੰਮੇਵਾਰ ਹੁੰਦੇ ਹਨ. ਤੁਹਾਨੂੰ ਸਮਝਣਾ
+        ਚਾਹੀਦਾ ਹੈ ਕਿ ਕੰਪਨੀ 'ਤੇ ਕਿ ਕੀ ਉਹ ਕੋਈ ਮੁਜਰਮਾਨਾ ਰਿਕਾਰਡ ਆਪਣੇ ਉਪਭੋਗੀ ਦੀ ਪੁਸ਼ਟੀ
+        ਨਹੀ ਕਰਦਾ ਹੈ. ਕੰਪਨੀ ਨੂੰ ਵੀ ਆਪਣੇ ਉਪਭੋਗੀ ਦੀ ਅਤੀਤ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਈ ਬੇਨਤੀ ਨਹੀ ਹੈ
+        ਅਤੇ ਇਸ ਜਾਣਕਾਰੀ ਦੀ ਪੜਤਾਲ ਨਹੀ ਹੈ. ਕੰਪਨੀ ਕੋਈ ਵਾਰੰਟੀ USER ਵਿਵਹਾਰ ਨੂੰ ਅਤੇ ਅਸਲ ਭਵਿੱਖ
+        ਨਾਲ ਆਪਣੇ ਅਨੁਕੂਲਤਾ ਸਬੰਧੀ ਬਣਦੀ ਹੈ. ਉਸੇ ਵੇਲੇ 'ਤੇ ਕੰਪਨੀ ਮੁਜਰਮਾਨਾ ਰਿਕਾਰਡ ਲਈ ਉਪਭੋਗੀ
+        ਦੀ ਪੁਸ਼ਟੀ ਜ ਕਿਸੇ ਵੀ ਵੇਲੇ ਉਪਲਬਧ ਜਨਤਕ ਜਾਣਕਾਰੀ ਦੀ ਵਰਤ' ਤੇ ਹੋਰ ਤਸਦੀਕ ਨੂੰ ਪੂਰਾ
+        ਕਰਨ ਦਾ ਹੱਕ ਰੱਖਦਾ ਹੈ. ਅ. ਕੋਈ ਮਾਮਲੇ ਵਿਚ ਕੰਪਨੀ ਕਿ ਕੀ ਉਹ ਸਿੱਧੇ ਅਸਿੱਧੇ, ਆਮ ਹਨ ਜ
+        ਇੱਕ ਖਾਸ ਕੁਦਰਤ, ਮੁਆਵਜ਼ਾ, ਅਤੇ / ਜ ਇਤਫਾਕੀਆ, ਤੁਹਾਨੂੰ ਜ ਹੋਰ ਕਿਸੇ ਵੀ ਵਿਅਕਤੀ ਦੁਆਰਾ
+        ਪ੍ਰਾਪਤ ਵੈੱਬਸਾਈਟ ਦੇ ਵਰਤ, ਸਮੇਤ ਦੇ ਨਤੀਜੇ ਦੇ ਤੌਰ, ਕਿਸੇ ਵੀ ਨੁਕਸਾਨ ਲਈ ਜ਼ਿੰਮੇਵਾਰ
+        ਨਹੀ ਹੈ ਪਰ ਨਾ ਸੀਮਿਤ ਕਰਨ, ਸਰੀਰਕ ਸੱਟ, ਤਣਾਅ ਅਤੇ / ਜ ਹੋਰ ਹਰਜਾਨਾ, ਤੁਹਾਨੂੰ ਦੁਆਰਾ
+        ਪ੍ਰਾਪਤ ਗੱਲਬਾਤ ਜ ਦੀ ਵੈੱਬਸਾਈਟ ਜ ਲੋਕ ਦੇ ਹੋਰ ਰਜਿਸਟਰ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਵੈਬਸਾਈਟ
+        ਤੇ ਸਾਮ੍ਹਣਾ ਨਾਲ ਮੀਟਿੰਗ ਦੇ ਨਤੀਜੇ ਦੇ ਤੌਰ ਤੇ. ਜਦ ਹੋਰ ਉਪਭੋਗੀ ਨਾਲ ਸੰਚਾਰ, ਖਾਸ ਕਰਕੇ
+        ਕੇਸ ਵਿੱਚ, ਤੁਹਾਨੂੰ ਅਸਲੀ ਜੀਵਨ ਵਿਚ ਨੂੰ ਮਿਲਣ ਦਾ ਫੈਸਲਾ ਤੁਹਾਨੂੰ ਹਰ ਸੰਭਵ ਸਾਵਧਾਨੀ
+        ਲੈਣ ਲਈ ਸਹਿਮਤ. ਤੁਹਾਨੂੰ ਪਤਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ, ਕੀ ਕੰਪਨੀ ਇਸ ਵੈੱਬਸਾਈਟ ਦੀ ਉਪਭੋਗੀ ਨਾਲ
+        ਅਨੁਕੂਲਤਾ ਬਾਰੇ ਠਹਿਰਾਏ ਜ ਅਪ੍ਰਤੱਖ ਵਾਰੰਟੀ ਦੇਣ ਨਹੀ ਹੈ. ਤੁਹਾਨੂੰ ਵੈਬਸਾਈਟ (ਉਦਾਹਰਨ
+        ਲਈ ਆਪਣੇ ਕ੍ਰੈਡਿਟ ਜ ਪਲਾਸਟਿਕ ਕਾਰਡ ਬਾਰੇ ਜਾਣਕਾਰੀ) ਦੀ ਹੋਰ ਯੂਜ਼ਰ ਨੂੰ ਵਿੱਤੀ ਜਾਣਕਾਰੀ
+        ਦੇਣ ਨਾ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ. ੲ. ਸਰਵਿਸ ਤੁਹਾਡਾ ਨਾਮ ਜ ਹੋਰ ਭਾਸ਼ਾ ਲਈ ਆਪਣੇ ਕਸਬੇ ਦਾ ਨਾਮ
+        ਦਾ ਅਨੁਵਾਦ ਕਰ ਸਕਦੇ ਹੋ; d. ਸੇਵਾ ਇਸ ਲੇਖ ਵਿਚ ਦਿੱਤੇ ਕਾਰਵਾਈ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਹੈ. ਮਾਮਲੇ
+        'ਚ ਤੁਹਾਨੂੰ ਉਸ ਨਾਲ ਪੂਰੀ ਜ ਅਧੂਰੇ ਨਾਲ ਸਹਿਮਤ ਨਾ ਕਰਦੇ, ਿਕਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਵੈੱਬਸਾਈਟ
+        ਛੱਡ;"
+      the_information_posted_by_you_on_flutylove: 7. ਜਾਣਕਾਰੀ FLUTYLOVE 'ਤੇ ਤੁਹਾਨੂੰ
+        ਦੁਆਰਾ ਪੋਸਟ ਕੀਤਾ
+      p_7: . ਤੁਹਾਨੂੰ ਜਾਣਕਾਰੀ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਪਬਲਿਸ਼ ਜ ਦਿਖਾ ਸੇਵਾ 'ਤੇ (hereinafter "ਪੋਸਟ")
+        ਜ ਹੋਰ ਉਪਭੋਗੀ ਲਈ ਦਾ ਤਬਾਦਲਾ ਕਰਨ ਲਈ ਇਕੱਲੇ ਹੀ ਜ਼ਿੰਮੇਵਾਰ ਹੁੰਦੇ ਹਨ. ਤੁਹਾਨੂੰ ਸੇਵਾ
+        'ਤੇ ਪੋਸਟ ਜ ਨਸਲੀ ਵਿਤਕਰੇ ਕੁਦਰਤ ਦੇ, ਇਤਰਾਜ਼ਯੋਗ ਗਲਤ, ਬਦਸਲੂਕੀ, ਅਸ਼ਲੀਲ, ਅਸ਼ਲੀਲ ਅਤੇ
+        ਹਮਲਾਵਰ ਸਮੱਗਰੀ' ਤੇ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ, ਜਿਨਸੀ ਸਮੱਗਰੀ ਨੂੰ 'ਤੇ ਜਾਣਕਾਰੀ, ਅਤੇ ਨਾਲ ਹੀ
+        ਧਮਕੀ ਜ ਪਿੱਛਾ ਜਾਣਕਾਰੀ, ਜਾਣਕਾਰੀ ਦੇ ਹੋਰ ਉਪਭੋਗੀ ਲਈ ਤਬਾਦਲਾ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀ ਕਰ ਰਹੇ
+        ਹਨ ਜ ਗੈਰ-ਕਾਨੂੰਨੀ ਜਾਣਕਾਰੀ, ਜ ਕੋਈ ਹੋਰ ਜਾਣਕਾਰੀ ਹੈ, ਜੋ ਕਿ ਦੀ ਉਲੰਘਣਾ ਜ ਹੋਰ ਕਿਸੇ
+        ਵੀ ਪਾਰਟੀ ਦੇ ਹੱਕ ਦੀ ਉਲੰਘਣਾ (ਸਮੇਤ, ਸੀਮਾ ਦੇ ਬਗੈਰ, ਬੌਧਿਕ ਸੰਪਤੀ ਅਧਿਕਾਰ, ਗੋਪਨੀਯਤਾ
+        ਅਤੇ ਪ੍ਰਚਾਰ ਦੇ ਅਧਿਕਾਰ). ਤੁਹਾਨੂੰ ਕੰਪਨੀ ਨੂੰ ਜ ਕੋਈ ਵੀ ਹੋਰ ਉਪਭੋਗੀ ਨੂੰ, ਗਲਤ ਗੁੰਮਰਾਹਕੁੰਨ
+        ਜ ਗਲਤ ਜਾਣਕਾਰੀ ਮੁਹੱਈਆ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀ ਕਰ ਰਹੇ ਹਨ. ਜਾਣਕਾਰੀ ਕੰਪਨੀ ਨੇ Flutylove
+        ਨੂੰ ਮੁਹੱਈਆ ਜ ਇਕ ਹੋਰ ਯੂਜ਼ਰ ਬਾਅਦ ਗਲਤ ਬਣ, ਝੂਠ ਦੇ ਗੁੰਮਰਾਹ ਹੋ, ਤੁਹਾਨੂੰ ਤੁਰੰਤ ਕੰਪਨੀ
+        ਦੇ ਅਜਿਹੇ ਤਬਦੀਲੀ ਦੀ Flutylove ਸੂਚਿਤ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ. ਤੁਹਾਨੂੰ ਪੇਸ਼ ਕਰਨ ਅਤੇ ਵਾਰੰਟੀ
+        ਹੈ, ਜੋ ਕਿ ਰਜਿਸਟਰੇਸ਼ਨ ਦੌਰਾਨ ਮੁਹੱਈਆ ਸਾਰੀ ਜਾਣਕਾਰੀ ਸਹੀ ਹੈ ਅਤੇ ਸੱਚਾ ਹੈ, ਅਤੇ ਤੁਹਾਨੂੰ
+        ਤੁਰੰਤ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ ਹੈ, ਜੋ ਕਿ ਬਾਅਦ, ਗਲਤ ਗੁੰਮਰਾਹਕੁੰਨ ਜ ਗਲਤ ਬਣ ਤਬਦੀਲ. ਅ. ਤੁਹਾਨੂੰ
+        ਸਮਝਣ ਅਤੇ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ ਕਿ ਸਾਨੂੰ ਅਧਿਕਾਰ ਰਿਜ਼ਰਵ ਹੈ, ਪਰ ਜਾਣਕਾਰੀ ਜ ਸਮੱਗਰੀ ਹੈ,
+        ਜੋ ਕਿ ਸੇਵਾ ਕਰਨ ਲਈ ਤਬਦੀਲ ਜ ਸੇਵਾ 'ਤੇ ਜਨਤਕ ਪਹੁੰਚ ਵਿੱਚ ਤਾਇਨਾਤ ਕੀਤਾ ਗਿਆ ਹੈ ਦੀ ਨਿਗਰਾਨੀ
+        ਕਰਨ ਲਈ ਮਜਬੂਰ ਨਾ ਕਰੋ. ਸਾਨੂੰ ਕਿਸੇ ਵੀ ਕਾਰਨ ਹੋ ਅਤੇ ਸੂਚਨਾ ਨਿਰਧਾਰਤ ਬਿਨਾ ਅਜਿਹੀ ਜਾਣਕਾਰੀ
+        ਜ ਸਮੱਗਰੀ ਦੀ ਕਿਸੇ ਵੀ ਨੂੰ ਹਟਾਉਣ ਦਾ ਅਧਿਕਾਰ ਹੈ. ੲ. ਸਾਰੇ ਵੈੱਬਸਾਈਟ 'ਤੇ ਪ੍ਰਦਰਸ਼ਿਤ
+        ਡਿਜ਼ਾਇਨ ਤੱਤ, ਪਾਠ, ਗਰਾਫਿਕਸ, ਵਰਣਨ, ਵੀਡੀਓ, ਸਕਰਿਪਟ, ਪ੍ਰੋਗਰਾਮ, ਸੰਗੀਤ, ਆਵਾਜ਼ ਅਤੇ
+        ਹੋਰ ਆਬਜੈਕਟ ਅਤੇ ਆਪਣੇ ਲਾਇਬਰੇਰੀ ਵੀ ਸ਼ਾਮਲ ਹੈ ਆਬਜੈਕਟ, (hereinafter - ਜਾਣਕਾਰੀ),
+        ​​ਕੰਪਨੀ ਦੇ ਵਿਸ਼ੇਸ਼ ਅਧਿਕਾਰ ਦੀ ਜਾਇਦਾਦ, ਦੇ ਉਪਭੋਗੀ ਹਨ ਵੈੱਬਸਾਈਟ ਅਤੇ ਹੋਰ ਅਧਿਕਾਰ
+        ਧਾਰਕ, ਇਹ ਇਕਾਈ ਕਰਨ ਲਈ ਸਾਰੇ ਅਧਿਕਾਰ ਸੁਰੱਖਿਅਤ ਹਨ. d. ਛੱਡ ਦੇ ਤੌਰ ਤੇ ਇਸ ਸਮਝੌਤੇ ਨੂੰ,
+        ਦੇ ਨਾਲ ਨਾਲ ਰਸ਼ੀਅਨ ਫੈਡਰੇਸ਼ਨ ਦੇ ਮੌਜੂਦਾ ਕਾਨੂੰਨ ਦੇ ਅਨੁਸਾਰ ਸਥਾਪਿਤ ਕੀਤਾ ਹੈ, ਕੋਈ
+        ਜਾਣਕਾਰੀ ਨਕਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ (ਪੈਦਾ ਕੀਤਾ), ਤੇ ਕਾਰਵਾਈ, ਵੰਡੇ, ਇੱਕ ਫਰੇਮ ਵਿੱਚ ਪ੍ਰਦਰਸ਼ਿਤ,
+        ਪ੍ਰਕਾਸ਼ਿਤ, ਨੂੰ ਡਾਊਨਲੋਡ, ਤਬਦੀਲ, ਵਿੱਚ ਵੇਚ ਜ ਹੋਰ ਤਰੀਕੇ ਵਿੱਚ ਵਰਤਿਆ ਸਾਰੀ ਜ ਧਾਰਕ
+        ਦੇ ਇੱਕ ਪੁਰਾਣੇ ਦੀ ਇਜਾਜ਼ਤ ਦੇ ਬਗੈਰ ਟੁਕੜੇ ਵਿੱਚ, ਜਦ ਤੱਕ ਦੇ ਹੱਕ ਧਾਰਕ ਸਪਸ਼ਟ ਕਿਸੇ
+        ਵੀ ਵਿਅਕਤੀ ਨੂੰ ਦੇ ਕੇ ਜਾਣਕਾਰੀ ਦੇ ਮੁਫ਼ਤ ਵਰਤਣ ਲਈ ਇਸ ਦੇ ਸਹਿਮਤੀ ਪ੍ਰਗਟ ਕੀਤੀ. ਈ. ਵੈੱਬਸਾਈਟ
+        ਸ਼ਰ੍ਹਾ ਉਪਭੋਗੀ ਨੂੰ ਨਾਲ ਸਬੰਧਤ 'ਤੇ ਜਾਣਕਾਰੀ ਪੋਸਟ ਕਰ ਕੇ, ਉਪਭੋਗੀ ਵੇਖਣ, ਪਲੇਅਬੈਕ (ਕਾਪੀ
+        ਵੀ ਸ਼ਾਮਲ ਹੈ) ਦੁਆਰਾ ਇਸ ਨੂੰ ਵਰਤਣ ਲਈ ਗੈਰ-ਨਿਵੇਕਲਾ ਦਾ ਹੱਕ ਦੇ ਲਈ ਹੋਰ ਉਪਭੋਗੀ ਅਤੇ
+        ਸਿਰਫ਼ ਨਿੱਜੀ ਗੈਰ-ਵਪਾਰਕ ਵਰਤਣ ਦੇ ਉਦੇਸ਼ ਲਈ ਹੋਰ ਅਧਿਕਾਰ ਲਈ ਪਹੁੰਚ ਦਿੰਦਾ ਹੈ, ਜਦ ਤੱਕ
+        ਕੇਸ ਅਜਿਹੇ ਵਰਤਣ ਦਾ ਕਾਰਨ ਬਣਦੀ ਹੈ ਜ ਸੱਜੇ ਧਾਰਕ ਨੂੰ ਕਾਨੂੰਨ ਦੁਆਰਾ ਸੁਰੱਖਿਅਤ ਦੇ ਹਿੱਤ
+        ਨੂੰ ਨੁਕਸਾਨ ਦਾ ਕਾਰਨ ਬਣ ਸਕਦਾ ਹੈ, ਜਦ. f. ਯੂਜ਼ਰ ਦੁਆਰਾ ਜਾਣਕਾਰੀ ਹੈ, ਜੋ ਪਹੁੰਚ ਸਿਰਫ਼
+        ਨਿੱਜੀ ਗੈਰ-ਵਪਾਰਕ ਵਰਤਣ ਲਈ ਲਏ ਸੀ ਵਰਤ, ਹਾਲਤ ਉੱਤੇ ਆਗਿਆ ਹੈ, ਜੋ ਕਿ ਲੇਖਕ ਦੇ ਸਾਰੇ ਕਰਿਸ਼ਮੇ
+        (ਕਾਪੀਰਾਈਟ) ਜ ਲੇਖਕ ਦੇ ਹੋਰ ਨੋਟਿਸ ਰੱਖਿਆ ਜਾਵੇਗਾ, ਲੇਖਕ ਅਤੇ ਇਸ ਦੇ ਉਤਪਾਦ ਦਾ ਨਾਮ ਤਬਦੀਲੀ
+        ਬਿਨਾ ਨੂੰ ਛੱਡ ਦਿੱਤਾ ਜਾਵੇਗਾ. g. ਉਪਭੋਗੀ ਨੂੰ ਵੀ ਜਾਣਕਾਰੀ ਵੈੱਬਸਾਈਟ 'ਤੇ ਪੋਸਟ ਅਤੇ
+        ਉਸ ਨੂੰ ਨਾਲ ਸਬੰਧਤ ਵਰਤਣ ਲਈ ਇੱਕ ਨਾ-ਵਿਸ਼ੇਸ਼ ਸੱਜੇ ਨਾਲ ਕੰਪਨੀ ਦਿੰਦਾ ਹੈ / ਉਸ ਸ਼ਰ੍ਹਾ
+        ਵਿਚਾਰ ਬਿਨਾ ਕ੍ਰਮ ਵਿੱਚ ਆਰਕੀਟੈਕਚਰ ਅਤੇ ਕਾਰਜਕੁਸ਼ਲਤਾ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਦੇ ਅੰਦਰ ਕੰਪਨੀ
+        ਦੇ ਵੈੱਬਸਾਈਟ ਦੇ ਕੰਮਕਾਜ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਵੈੱਬਸਾਈਟ. ਉਪਰੋਕਤ ਜ਼ਿਕਰ ਨਾ-ਸਿਰਫ਼ ਸੱਜੇ
+        ਵੈੱਬਸਾਈਟ 'ਤੇ ਸਮੱਗਰੀ ਪਲੇਸਮਟ ਲਈ ਦਿੱਤੀ ਅਤੇ ਸਾਰੇ ਸੰਸਾਰ ਉਪਰ ਦੇਸ਼ ਦੇ ਇਲਾਕੇ ਨੂੰ ਕਵਰ
+        ਕੀਤਾ ਗਿਆ ਹੈ. ਕੰਪਨੀ ਦੇ ਅਧਿਕਾਰ ਤੀਜੀ ਧਿਰ ਨੂੰ ਇਸ ਪੈਰੇ ਦਾ ਜ਼ਿਕਰ ਦਾ ਤਬਾਦਲਾ ਕਰਨ ਲਈ
+        ਇੱਕ ਦਾ ਹੱਕ ਹੈ. ਯੂਜ਼ਰ ਸਹਿਮਤ ਹੈ, ਜੋ ਕਿ ਕੰਪਨੀ ਦੀ ਵੈੱਬਸਾਈਟ ਦੇ ਕੰਮ ਅਤੇ ਤਕਨੀਕੀ ਚੋਣ,
+        ਇਸ਼ਤਿਹਾਰ ਦੀ ਜਾਣਕਾਰੀ ਦੇ ਵੇਖਾਉਣ ਦੇ ਉਦੇਸ਼ ਵੀ ਸ਼ਾਮਲ ਹੈ ਦੇ ਨਾਲ ਸਮੱਗਰੀ ਵੰਡ ਦੇ ਵੇਖਾਉਣ,
+        ਮੁਹੱਈਆ ਵਰਤਣ ਲਈ ਇੱਕ ਦਾ ਹੱਕ ਹੈ. ਅਧਿਕਤਮ. ਮਾਮਲੇ 'ਚ ਉਪਭੋਗਤਾ ਵੈੱਬਸਾਈਟ ਜਾਣਕਾਰੀ ਹਟਾ,
+        ਗੈਰ-ਨਿਵੇਕਲਾ ਦਾ ਹੱਕ ਆਪ ਹੀ ਰੱਦ ਹੋ ਜਾਵੇਗਾ, ਪਰ ਵੈੱਬਸਾਈਟ ਦੇ ਤਕਨੀਕੀ ਵਿਵਰਣ ਕਾਰਨ ਕੰਪਨੀ
+        ਦੀ ਲੋੜ ਹੈ ਟਾਈਮ ਅਤੇ ਜਿੱਥੇ ਲੋੜ ਵਿੱਚ ਜਾਣਕਾਰੀ ਦਾ ਬੈਕਅੱਪ ਨਕਲ ਨੂੰ ਬਚਾਉਣ ਦਾ ਅਧਿਕਾਰ
+        ਰੱਖਦਾ ਹੈ. i. ਇਲਾਵਾ ਪ੍ਰਾਈਵੇਟ ਜਾਣਕਾਰੀ ਤੱਕ, ਉਪਭੋਗੀ ਨੂੰ ਅੱਪਲੋਡ ਕਰਨ ਲਈ, ਜ ਵੱਖ-ਵੱਖ
+        ਤਰੀਕੇ ਵਿਚ ਖੁਲਾਸਾ-ਹਾਜ਼ਰੀ ਵਿਚ ਹੋਰ ਸਾਈਟ, ਡਾਟਾਬੇਸ ਅਤੇ ਹੋਰ ਬੌਧਿਕ ਜਾਇਦਾਦ ਦੀ ਜਾਣਕਾਰੀ
+        ਦੇ ਸਪਸ਼ਟ ਕਾਪੀਰਾਈਟ ਤੱਕ ਅਜਿਹੇ ਕਾਰਵਾਈ ਕਰਨ ਲਈ ਸਹਿਮਤੀ ਦੇ ਪ੍ਰਗਟ ਕੀਤੀ (ਵੈੱਬਸਾਈਟ 'ਤੇ
+        ਪ੍ਰਕਾਸ਼ਿਤ ਦੇ ਕੇ) ਕੋਈ ਹੱਕ ਹੈ ਮਾਲਕ ਨੂੰ. J. ਜਦ ਤੱਕ ਹੋਰ ਇਹ ਰੈਗੂਲੇਸ਼ਨ ਵਿਚ ਦੇਖਿਆ
+        ਹੈ, ਇਹ ਰੈਗੂਲੇਸ਼ਨ ਵਿਚ ਕੁਝ ਵੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵਿਸ਼ੇਸ਼ ਅਧਿਕਾਰ ਦੀ ਬਦਲੀ ਦੇ ਤੌਰ ਤੇ ਮੰਨਿਆ
+        ਜਾ ਸਕਦਾ ਹੈ. K. ਜਾਣਕਾਰੀ ਸਭ ਜਾਣਕਾਰੀ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਆਪਣੇ ਯੂਜ਼ਰ ਪਰੋਫਾਇਲ 'ਤੇ
+        ਪਬਲਿਸ਼, ਸਹੀ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਅੱਪ-ਟੂ-ਡੇਟ ਅਤੇ ਪੂਰਨ. (ਪੋਸਟ ਕੀਤਾ) ਯੂਜ਼ਰ ਬਿਲਕੁਲ ਇਕੱਲੇ
+        ਹੀ ਕਿਸੇ ਵੀ ਜਾਣਕਾਰੀ ਹੈ, ਜੋ ਕਿ ਅੱਪਲੋਡ ਕੀਤਾ ਗਿਆ ਸੀ, ਜ ਵੱਖ-ਵੱਖ ਤਰੀਕੇ ਵਿਚ ਖੁਲਾਸਾ
+        ਕਰਨ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਹੈ ਵੈੱਬਸਾਈਟ 'ਤੇ ਕਿਸੇ ਯੂਜ਼ਰ ਦੀ ਮਦਦ ਨਾਲ. ਉਪਭੋਗੀ, ਅੱਪਲੋਡ ਦਾ
+        ਤਬਾਦਲਾ ਜ ਵੈੱਬਸਾਈਟ 'ਤੇ ਸਮੱਗਰੀ ਨੂੰ ਪੋਸਟ, ਜੇ ਉਹ / ਉਸ ਨੂੰ ਰਸ਼ੀਅਨ ਫੈਡਰੇਸ਼ਨ ਕਾਨੂੰਨ
+        ਦੇ ਅਨੁਸਾਰ ਉਸ ਨੂੰ / ਉਸ ਨੂੰ ਕਰਨ ਲਈ ਅਜਿਹੇ ਕਾਰਵਾਈ, ਹਾਸਲ ਜ ਅਧਿਕਾਰ ਲੈਣ ਲਈ ਉਚਿਤ ਅਧਿਕਾਰ
+        ਹੈ, ਨਾ ਹੈ ਕਰਨ ਦਾ ਹੱਕ ਹੈ ਨਹੀ ਕਰਦਾ ਹੈ. ਕੰਪਨੀ ਦੇ ਯੋਗ ਹੈ, ਪਰ ਮਜਬੂਰ ਹੈ ਨਾ, ਕਿਸੇ
+        ਵੀ ਗੈਰ ਕਾਨੂੰਨੀ ਸਮੱਗਰੀ ਲਈ ਵੈੱਬਸਾਈਟ ਦੀ ਝਲਕ ਲਈ ਅਤੇ ਹਟਾਉਣ ਜ (ਬਿਨਾ ਨੋਟਿਸ) ਇਸ ਦਾ
+        ਮੁੱਖ ਅਖ਼ਤਿਆਰ ਵਿਚ ਜਾਣ ਦਾ ਕੋਈ ਵੀ ਸਮੱਗਰੀ ਜ ਉਪਭੋਗੀ, ਕਿਸੇ ਵੀ ਕਾਰਨ ਕਰਕੇ ਜ ਕਾਰਨ ਬਿਨਾ,
+        ਵੀ ਸ਼ਾਮਲ ਹੈ ਬੰਦਿਸ਼ ਜਾਣ ਲਈ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਹੈ, ਜ ਦੀ ਜਾਣਕਾਰੀ ਹੈ, ਜੋ ਕਿ, ਕੰਪਨੀ
+        ਦੇ ਵਿਅਕਤੀ ਨੂੰ ਰਾਏ ਅਨੁਸਾਰ ਇਸ ਸਮਝੌਤੇ ਦੀ ਉਲੰਘਣਾ, ਰਸ਼ੀਅਨ ਫੈਡਰੇਸ਼ਨ ਦੇ ਕਾਨੂੰਨ ਨੂੰ
+        ਹਟਾਉਣ ਅਤੇ / ਜ ਅਧਿਕਾਰ ਦੀ ਉਲੰਘਣਾ, ਸੱਟ, ਜ ਹੋਰ ਉਪਭੋਗੀ ਜ ਤੀਜੇ ਪੱਖ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ
+        ਖ਼ਤਰੇ ਹੋ ਸਕਦੇ ਹਨ. ਵੈੱਬਸਾਈਟ (ਜ ਸ਼ਾਮਿਲ ਹੋ ਸਕਦੇ ਹਨ) ਸ਼ਾਮਿਲ ਹੈ (ਤੀਜੀ ਧਿਰ ਦੀ ਵੈੱਬਸਾਈਟ)
+        ਦੇ ਨਾਲ ਨਾਲ ਲੇਖ, ਫੋਟੋ, ਵਰਣਨ, ਗਰਾਫਿਕਸ, ਸੰਗੀਤ, ਆਵਾਜ਼, ਵੀਡੀਓ, ਜਾਣਕਾਰੀ, ਕਾਰਜ, ਸਾਫਟਵੇਅਰ
+        ਅਤੇ ਹੋਰ ਜਾਣਕਾਰੀ ਨੂੰ ਸਬੰਧਤ ਜ ਆਉਣ ਇੰਟਰਨੈੱਟ 'ਤੇ ਹੋਰ ਸਾਈਟ ਨੂੰ ਜੋੜਦੇ ਹਨ ਤੀਜੇ ਪੱਖ
+        (ਤੀਸਰੀ ਪਾਰਟੀ ਸਮਗੱਰੀ) ਹੈ, ਜੋ ਕਿ ਬੌਧਿਕ ਗਤੀਵਿਧੀ ਦਾ ਨਤੀਜਾ ਹੈ ਅਤੇ ਰੂਸੀ ਫੈਡਰੇਸ਼ਨ
+        ਦੇ ਕਾਨੂੰਨ ਦੇ ਅਨੁਸਾਰ ਸੁਰੱਖਿਅਤ ਹੈ ਤੱਕ. ਇਹ ਤੀਜੇ ਪੱਖ ਅਤੇ ਆਪਣੇ ਜਾਣਕਾਰੀ ਇਸ ਜ ਹੋਰ
+        ਲੋੜ (ਸ਼ੁੱਧਤਾ, ਪੂਰਨਤਾ, ਈਮਾਨਦਾਰੀ, ਆਦਿ) ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ ਕੰਪਨੀ ਨੇ ਤਸਦੀਕ ਨਹੀ ਕਰ
+        ਰਹੇ ਹਨ. ਕੰਪਨੀ ਤੀਜੀ-ਪਾਰਟੀ ਸਾਈਟ 'ਤੇ ਪੋਸਟ ਕਿਸੇ ਵੀ ਸਮੱਗਰੀ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਨਹੀ ਹੈ,
+        ਜੋ ਕਿ ਯੂਜ਼ਰ ਲਾਭ ਵੈੱਬਸਾਈਟ ਦੁਆਰਾ ਜ ਵੀ ਸ਼ਾਮਲ ਤੀਜੀ-ਪਾਰਟੀ ਜਾਣਕਾਰੀ, ਦੁਆਰਾ ਤੱਕ ਪਹੁੰਚ
+        ਹੈ, ਪਰ ਕਿਸੇ ਵੀ ਵਿਚਾਰ ਜ ਬਿਆਨ ਤੀਜੀ-ਪਾਰਟੀ ਸਾਈਟ ਜ' ਤੇ ਪ੍ਰਗਟ ਕੀਤਾ ਤੱਕ ਹੀ ਸੀਮਿਤ
+        ਨਾ ਕਰਨ ਲਈ ਆਪਣੇ ਜਾਣਕਾਰੀ ਹੈ. ਕਿਸੇ ਵੀ ਸਾਈਟ, ਉਤਪਾਦ, ਅਤੇ ਸੇਵਾ ਕਰਨ ਲਈ ਲਿੰਕ ਨੂੰ,
+        ਇਸ ਨੂੰ ਵੈੱਬਸਾਈਟ 'ਤੇ ਸ਼ਾਮਿਲ ਵਪਾਰਕ ਅਤੇ ਨਾਨ-ਵਪਾਰਕ ਕੁਦਰਤ ਦੇ ਕਿਸੇ ਵੀ ਜਾਣਕਾਰੀ ਲਈ
+        ਇੱਕ ਪ੍ਰਵਾਨਗੀ ਦੇ ਜ ਕੰਪਨੀ ਤੱਕ ਇਹ ਉਤਪਾਦ (ਸੇਵਾ) ਲਈ ਸਿਫਾਰਸ਼ ਨਹੀ ਹੈ. ਯੂਜ਼ਰ ਵੈੱਬਸਾਈਟ
+        ਨੂੰ ਛੱਡ ਅਤੇ ਤੀਜੇ ਪੱਖ ਦੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਜਾਣ ਜ ਨੂੰ ਵਰਤਣ ਜ ਤੀਜੀ-ਪਾਰਟੀ ਸਾਫਟਵੇਅਰ
+        ਇੰਸਟਾਲ ਕਰਨ ਦਾ ਫੈਸਲਾ ਕਰਦੇ ਹੋ, ਉਹ / ਉਸ ਨੂੰ ਆਪਣੇ ਹੀ ਖਤਰਾ ਹੈ 'ਤੇ ਹੈ ਅਤੇ ਜੋ ਕਿ
+        ਪਲ ਇਹ ਰੈਗੂਲੇਸ਼ਨ ਹੁਣ ਯੂਜ਼ਰ ਨੂੰ ਲਾਗੂ ਕਰ ਰਹੇ ਹਨ ਤੱਕ, ਇਸ ਲਈ ਕਰਦਾ ਹੈ. ਹੋਰ ਯੂਜ਼ਰ
+        ਐਕਸ਼ਨ ਲਾਗੂ ਨਿਯਮ ਅਤੇ ਪਾਲਸੀ, ਉਹ ਵਿਅਕਤੀ ਜਿਸ ਦੀ ਜਾਣਕਾਰੀ ਉਸ ਨੂੰ / ਉਸ ਨੂੰ ਵਰਤਣ ਲਈ
+        ਜਾ ਰਿਹਾ ਹੈ, ਦੇ ਕਾਰੋਬਾਰ ਨੂੰ ਅਮਲ ਵੀ ਸ਼ਾਮਲ ਹੈ ਦੀ ਅਗਵਾਈ ਕਰ ਰਹੇ ਹਨ.
+      forbidden_actions: 8. ਤੇ ਮਨਾਹੀ ਰਵੱਈਏ.
+      p_8: . ਇਸ ਨੂੰ ਹੋਰ ਵੀ ਰਾਹ ਵਿੱਚ ਕਿਸੇ ਵੀ ਵਿਅਕਤੀ ਨੂੰ " 'ਤੇ ਇੱਕ ਬੰਦ ਨਜ਼ਰ ਰੱਖਣ" ਜ
+        ਭੰਗ ਕਰਨ ਦਾ ਮਨ੍ਹਾ ਕੀਤਾ ਗਿਆ ਹੈ. ਅ. ਇਹ ਖੋਜ ਕਰਨ ਲਈ / ਐਬਸਟਰੈਕਟ ਸਾਈਟ, ਜ ਹੋਰ ਦਸਤਾਵੇਜ਼
+        ਜ ਆਟੋਮੈਟਿਕ ਜੰਤਰ ਨੂੰ ਜ ਕਾਰਜ ਬੋਟ, ਵਾਇਰਸ, ਕਾਰਜ ਨੂੰ ਵਰਤਣ ਲਈ ਨੂੰ ਐਕਸਟਰੈਕਟ ਕਰਨ ਲਈ,
+        ਇੰਡੈਕਸ, "ਜਾਸੂਸੀ" ਜ ਹੋਰ ਢੰਗ ਨਾਲ ਪੈਦਾ ਹੈ ਜ ਬਚਣ ਨੇਵੀਗੇਸ਼ਨ ਬਣਤਰ ਮਨ੍ਹਾ ਅਤੇ ਸੇਵਾ
+        ਜ ਇਸ ਦੀ ਸਮੱਗਰੀ ਦੇ ਵੇਖਾਉਣ ਹੈ . ੲ. ਇਹ, ਪੋਸਟ ਵੰਡਣ, ਜ everyway ਕੋਈ ਵੀ ਕਾਪੀਰਾਈਟ
+        ਜਾਣਕਾਰੀ, ਮਾਰਕੇ, ਜ ਹੋਰ ਜਾਣਕਾਰੀ ਕਾਪੀਰਾਈਟ ਦੇ ਮਾਲਕ ਤੱਕ ਪੁਰਾਣੇ ਸਹਿਮਤੀ ਬਗੈਰ ਕਾਪੀਰਾਈਟ
+        ਦੁਆਰਾ ਸੁਰੱਖਿਅਤ ਬਣਾਉਣਾ ਪੈਦਾ ਹੈ ਮਨ੍ਹਾ ਕੀਤਾ ਗਿਆ ਹੈ. d. ਇਸ ਨੂੰ ਕਿਸੇ ਵੀ ਕਾਪੀਰਾਈਟ,
+        ੇਡਮਾਰਕ ਜ ਸੇਵਾ 'ਤੇ ਹੀ ਰੱਖਦਾ ਹੈ ਹੋਰ ਕਾਪੀਰਾਈਟ ਨੋਟਿਸ ਨੂੰ ਹਟਾਉਣ ਲਈ ਮਨ੍ਹਾ ਕੀਤਾ ਗਿਆ
+        ਹੈ. ਈ. ਇਸ ਵਿੱਚ ਦਖਲ ਜ ਸੇਵਾ ਜ ਵੈੱਬਸਾਈਟ ਨਾਲ ਜੁੜੇ ਸੇਵਾ ਅਤੇ ਵੈੱਬਸਾਈਟ, ਜ ਸੇਵਾ ਅਤੇ
+        ਨੈੱਟਵਰਕ ਦੀ ਕਾਰਵਾਈ ਨੂੰ ਭੰਗ ਕਰਨ ਦਾ ਮਨ੍ਹਾ ਕੀਤਾ ਗਿਆ ਹੈ. f. ਇਹ ਵੱਖ-ਵੱਖ ਤਰੀਕੇ ਵਿਚ
+        ਪ੍ਰਕਾਸ਼ਿਤ ਕਰਨ ਲਈ, ਈਮੇਲ ਜ ਤਬਾਦਲੇ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ ਹੈ, ਜੋ ਕਿ ਵਾਇਰਸ ਜ ਹੋਰ ਕਿਸੇ
+        ਵੀ ਕੰਪਿਊਟਰ ਨੂੰ ਕੋਡ, ਫਾਇਲ ਜ, ਦਖ਼ਲ ਨੂੰ ਤਬਾਹ ਜ ਕੋਈ ਵੀ ਕੰਪਿਊਟਰ ਸਾਫਟਵੇਅਰ, ਹਾਰਡਵੇਅਰ
+        ਜ ਦੂਰਸੰਚਾਰ ਸਾਮਾਨ ਦੀ ਕਾਰਜਕੁਸ਼ਲਤਾ ਨੂੰ ਸੀਮਿਤ ਕਰਨ ਲਈ ਤਿਆਰ ਕੀਤਾ ਪ੍ਰੋਗਰਾਮ ਸ਼ਾਮਿਲ
+        ਹਨ ਮਨ੍ਹਾ ਕੀਤਾ ਗਿਆ ਹੈ. g. ਇਹ ਸਿਰਲੇਖ ਫੋਟ ਜ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ ਸੇਵਾ ਦੁਆਰਾ ਸ਼ੇਅਰ ਦਾ
+        ਅਸਲੀ ਅਰਥ disguising ਦੇ ਮਕਸਦ ਲਈ ਅਹੁਦਾ ਸੋਧਣ ਲਈ ਮਨ੍ਹਾ ਕੀਤਾ ਗਿਆ ਹੈ. H. ਇਹ "ਫੋਟ"
+        ਜ "ਕਾਪੀ" ਸੇਵਾ ਜ Flutylove ਤੱਕ ਪੁਰਾਣੇ ਲਿਖਤੀ ਆਗਿਆ ਬਗੈਰ ਵੈੱਬਸਾਈਟ ਦੇ ਕਿਸੇ ਵੀ ਹਿੱਸੇ
+        ਨੂੰ ਮਨ੍ਹਾ ਕੀਤਾ ਗਿਆ ਹੈ. ਨਾਲ ਹੀ, ਤੁਹਾਨੂੰ ਕਿਸੇ ਵੀ ਮਕਸਦ ਲਈ ਕਿਸੇ ਹੋਰ ਸਾਈਟ ਨੂੰ ਕਿਸੇ
+        ਵੀ ਵਿਅਕਤੀ ਨੂੰ ਪਰਿਵਰਤਨ ਕਰਨ ਲਈ ਕ੍ਰਮ ਵਿੱਚ ਕਿਸੇ ਵੀ ਮੈਟਾ ਟੈਗ ਜ ਕੋਡ ਨੂੰ, ਜ ਹੋਰ Flutylove,
+        ਸੇਵਾ ਜ ਵੈੱਬਸਾਈਟ ਕਰਨ ਲਈ ਕਿਸੇ ਵੀ ਲਿੰਕ ਰੱਖਣ ਵਾਲੇ ਜੰਤਰ ਨੂੰ ਵਰਤ ਨਾ ਹੋ ਸਕਦਾ ਹੈ.
+        i. ਇਹ, ਨੂੰ ਤਬਦੀਲ ਕਰਨ ਲਈ ਅਨੁਕੂਲ, sublicense, ਦਾ ਅਨੁਵਾਦ, ਵੇਚਣ, ਜੇਲੋਡ਼, ਲੇਖਣ,
+        ਡਿਕੰਪਾਈਲ ਜ ਸੇਵਾ ਜ ਵੈਬਸਾਈਟ, ਜ ਵੈੱਬਸਾਈਟ 'ਤੇ ਜ ਇਸ ਨੂੰ ਲਈ ਵਰਤਿਆ ਕੋਈ ਵੀ ਸਾਫਟਵੇਅਰ
+        ਦੇ ਕਿਸੇ ਵੀ ਹਿੱਸੇ disassemble, ਦੇ ਨਾਲ ਨਾਲ ਹੋਰ ਵੀ ਇਸੇ ਕਾਰਵਾਈ ਕਰਨ ਲਈ ਉਤਸ਼ਾਹਿਤ
+        ਕਰਦਾ ਹੈ ਮਨ੍ਹਾ ਕੀਤਾ ਗਿਆ ਹੈ . J. ਇਹ ਅਸ਼ਲੀਲ ਅਤੇ / ਜ erotic ਸਮੱਗਰੀ ਨੂੰ ਨਾਲ ਕਿਸੇ
+        ਵੀ ਜਾਣਕਾਰੀ ਪੋਸਟ ਕਰਨ ਲਈ ਮਨ੍ਹਾ ਕੀਤਾ ਗਿਆ ਹੈ.
+      the_changes_in_the_service: 9. ਸੇਵਾ ਵਿਚ ਬਦਲਦਾ ਹੈ.
+      p_9: Flutylove ਨੂੰ ਬਦਲ ਜ ਅਸਥਾਈ ਤੌਰ 'ਤੇ ਜ ਨੂੰ ਹਮੇਸ਼ਾ ਲਈ ਸੇਵਾ ਨੂੰ ਅਯੋਗ ਕਰਨ ਲਈ
+        ਕਿਸੇ ਵੀ ਵੇਲੇ ਦਾ ਹੱਕ ਰੱਖਦਾ ਹੈ (ਜ ਕੋਈ ਵੀ ਇਸ ਨੂੰ ਹਿੱਸਾ ਹੈ) ਬਿਨਾ ਨੋਟਿਸ. ਤੁਹਾਨੂੰ
+        ਇਸ ਗੱਲ ਨਾਲ ਸਹਿਮਤ ਹੈ ਕਿ Flutylove ਕਿਸੇ ਵੀ ਸੋਧ, ਆਰਜ਼ੀ ਉਪਲਬਧਤਾ ਜ ਸੇਵਾ ਦੇ ਮੁਕੰਮਲ
+        ਅਯੋਗ ਲਈ ਜ ਕੋਈ ਵੀ ਤੀਜੀ ਧਿਰ ਨੂੰ ਜ਼ਿੰਮੇਵਾਰ ਨਹੀ ਹੈ.
+      ip_address_blocking: 10. IP ਪਤਾ ਨੂੰ ਰੋਕ.
+      p_10: ਕ੍ਰਮ ਵੈੱਬਸਾਈਟ ਦੀ ਇਕਸਾਰਤਾ ਦੀ ਰੱਖਿਆ ਕਰਨ ਲਈ, Flutylove ਕੁਝ ਉਪਭੋਗੀ ਦੇ IP ਐਡਰੈੱਸ
+        ਨੂੰ ਬਲਾਕ ਕਰਨ ਲਈ ਇਸ ਦੇ ਆਪਣੇ ਹੀ ਸਹੂਲਤ ਤੇ ਕਿਸੇ ਵੀ ਵੇਲੇ ਦਾ ਹੱਕ ਰੱਖਦਾ ਹੈ.
+      p_11: Flutylove ਦੇ ਹੋਰ ਉਪਭੋਗੀ ਨਾਲ ਗੱਲਬਾਤ ਕਰਨ ਲਈ ਇਕੱਲੇ ਹੀ ਜ਼ਿੰਮੇਵਾਰ ਹੁੰਦੇ ਹਨ.
+        Flutylove ਦਾ ਹੱਕ ਹੈ, ਪਰ ਨਾ ਫ਼ਰਜ਼, ਤੁਹਾਨੂੰ ਅਤੇ ਹੋਰ ਉਪਭੋਗੀ ਦੇ ਵਿਚਕਾਰ ਵਿਵਾਦ ਦੀ
+        ਨਿਗਰਾਨੀ ਕਰਨ ਲਈ ਰੱਖਦਾ ਹੈ.
+      security_and_communication: 12. ਸੁਰੱਖਿਆ ਅਤੇ ਸੰਚਾਰ.
+      p_12: ਵੀ ਸਾਡੇ ਪਰਾਈਵੇਟ ਨੀਤੀ ਦੇ ਅਧੀਨ ਹੈ. ਤੁਹਾਨੂੰ ਇੱਕ ਉਪਭੋਗੀ ਬਣ ਜਦ, ਤੁਹਾਨੂੰ ਇਸ
+        ਗੱਲ ਨਾਲ ਸਹਿਮਤ ਹੈ ਅਤੇ ਸਹਿਮਤੀ ਦੇ ਸਾਡੇ ਤੱਕ ਈਮੇਲ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ. ਇਹ ਈ ਓਪਰੇਸ਼ਨ ਜ
+        ਹੋਰ ਅਜਿਹੇ ਹੋਰ ਉਪਭੋਗੀ ਬਾਰੇ ਦੀ ਕਾਰਵਾਈ ਬਾਰੇ ਪ੍ਰਬੰਧਕੀ ਨੋਟਿਸ ਅਤੇ ਬਦਲਾਅ ਦੇ ਬਾਰੇ
+        ਅਧਿਕਾਰੀ ਐਲਾਨ, ਜ ਸਾਡੇ ਵਪਾਰਕ ਪੇਸ਼ਕਸ਼, ਪ੍ਰਚਾਰ ਸਮੱਗਰੀ, ਖਾਸ ਪੇਸ਼ਕਸ਼ ਰੱਖਣ ਵਾਲੇ ਈ,
+        ਜ ਜਾਣਕਾਰੀ ਦੇ ਤੌਰ ਤੇ ਸੇਵਾ ਨਾਲ ਸੰਬੰਧਿਤ ਸੂਚਨਾ, ਬਾਰੇ ਸੂਚਨਾ ਦੀ ਨੁਮਾਇੰਦਗੀ ਕਰ ਸਕਦਾ
+        ਹੈ ਆਪਣੇ ਉਪਭੋਗੀ ਖਾਤਾ. ਕਿਰਪਾ ਕਰਕੇ ਅਜਿਹੇ ਨੋਟੀਫਿਕੇਸ਼ਨ ਬਾਰੇ ਹੋਰ ਪਤਾ ਕਰਨ ਦੀ ਸਾਡੀ
+        ਨਿੱਜਤਾ ਨੀਤੀ ਨੂੰ ਪੜ੍ਹ.
+      denial_of_responsibility: 13. ਜ਼ਿੰਮੇਵਾਰੀ ਦੀ ਸਵੀਕ੍ਰਿਤੀ.
+      p_13: ". Flutylove ਕਿਸੇ ਵੀ ਗਲਤ ਜ ਗਲਤ ਜਾਣਕਾਰੀ ਵੈੱਬਸਾਈਟ 'ਤੇ ਪੋਸਟ ਕਰਨ ਲਈ ਜ਼ਿੰਮੇਵਾਰ
+        ਨਹੀ ਹੈ ਜ ਸੇਵਾ ਨਾਲ ਸੰਬੰਧਿਤ ਹੈ, ਵੈੱਬਸਾਈਟ ਜ ਕੋਈ ਵੀ ਹਾਰਡਵੇਅਰ ਜ ਸਾਫਟਵੇਅਰ ਸਾਡੀ ਸੇਵਾ
+        ਨਾਲ ਸਬੰਧਿਤ ਜ ਉਥੇ ਵਰਤਿਆ ਗਿਆ ਹੈ ਦੇ ਉਪਭੋਗੀ. Flutylove ਨਾ ਵਿਹਾਰ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਹੈ,
+        ਦੋਨੋ ਆਨਲਾਈਨ ਅਤੇ ਆਫਲਾਈਨ, ਵੈੱਬਸਾਈਟ ਦੇ ਕਿਸੇ ਵੀ ਉਪਭੋਗੀ ਦਾ ਹੈ. Flutylove ਕਿਸੇ ਵੀ
+        ਗਲਤੀ, ਭੁੱਲ, ਰੁਕਾਵਟ, ਹਟਾਉਣ, ਕਾਰਵਾਈ ਜ ਓਪਰੇਸ਼ਨ, ਸੰਚਾਰ ਲਾਈਨ ਅਸਫਲਤਾ, ਚੋਰੀ ਜ ਤਬਾਹੀ,
+        ਅਣਅਧਿਕਾਰਤ ਪਹੁੰਚ ਜ ਉਪਭੋਗੀ ਦੇ ਸੰਚਾਰ ਲਾਈਨ ਦੇ ਬਦਲਣ ਵਿਚ ਨੁਕਸਾਨ ਦਾ ਜ ਦੇਰੀ ਲਈ ਜ਼ਿੰਮੇਵਾਰੀ
+        'ਤੇ ਲੈ ਨਹੀ ਕਰਦਾ ਹੈ. Flutylove ਨੂੰ ਇੰਟਰਨੈੱਟ 'ਤੇ ਕਿਸੇ ਵੀ ਵੈੱਬਸਾਈਟ' ਤੇ ਕਿਸੇ ਵੀ
+        ਸਮੱਸਿਆ ਜ ਕੋਈ ਵੀ ਟੈਲੀਫੋਨ ਨੈੱਟਵਰਕ ਜ ਲਾਈਨ, ਕੰਪਿਊਟਰ ਆਨਲਾਈਨ ਸਿਸਟਮ, ਸਰਵਰ ਜ ਪ੍ਰਦਾਤਾ,
+        ਕੰਪਿਊਟਰ ਦੇ ਸਾਮਾਨ, ਸਾਫਟਵੇਅਰ, ਉਪਭੋਗੀ ਖਾਤੇ ਵਿੱਚ ਮੇਲ ਜ ਖਿਡਾਰੀ ਅਸਫਲਤਾ, ਤਕਨੀਕੀ ਸਮੱਸਿਆ
+        ਜ ਭੀੜ ਦੇ ਤਕਨੀਕੀ ਨਿਕਾਰਾਪਨ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਨਹੀ ਹੈ ਜ ਉਪਭੋਗੀ ਨੂੰ ਹਾਦਸੇ ਜ ਸੱਟ ਜ ਕੋਈ
+        ਵੀ ਤੀਜੀ ਇੱਕ ਕੰਪਿਊਟਰ ਨਾਲ ਸਬੰਧਤ ਪੱਖ, ਜ ਵਿਚ ਹਿੱਸਾ ਲੈਣ ਜ ਨੈੱਟਵਰਕ ਅਤੇ / ਜ ਸੇਵਾ
+        ਸਬੰਧਤ ਡਾਊਨਲੋਡ ਜਾਣਕਾਰੀ ਦੇ ਨਤੀਜੇ ਦੇ ਤੌਰ ਸ਼ਾਮਲ ਹਨ ਇਸ ਦੇ ਸੁਮੇਲ,. ਕੋਈ ਹਾਲਾਤ Flutylove
+        ਕੰਪਨੀ ਜ ਇਸ ਦੇ ਐਫੀਲੀਏਟ ਦੇ ਕਿਸੇ ਵੀ, ਵਿਗਿਆਪਨ ਏਜੰਟ, ਬਾਨੀ ਜ ਦੀ ਵੰਡ ਦੀ ਭਾਈਵਾਲ ਕਿਸੇ
+        ਵੀ ਨੁਕਸਾਨ ਜ ਨੁਕਸਾਨ, ਨਿਜੀ ਸੱਟ ਮੌਤ ਸ਼ਾਮਿਲ ਹਨ, ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਨਾ ਕਰੇਗਾ, ਕਿਉਕਿ,
+        ਦੀ ਵੈੱਬਸਾਈਟ ਜ ਸੇਵਾ ਦੇ ਵਰਤ ਦੇ ਤਹਿਤ, ਕਿਸੇ ਵੀ ਸਮੱਗਰੀ ਵੈੱਬਸਾਈਟ 'ਤੇ ਪੋਸਟ , ਜ ਵੈੱਬਸਾਈਟ
+        ਦੇ ਉਪਭੋਗੀ, ਦੋਨੋ ਆਨਲਾਈਨ ਅਤੇ ਆਫਲਾਈਨ ਵਿਚਕਾਰ ਕਿਸੇ ਵੀ ਗੱਲਬਾਤ. ਵੈੱਬਸਾਈਟ ਅਤੇ ਸੇਵਾ
+        ਦਾ ਇੱਕ ਦੇ ਤੌਰ ਤੇ ਦਿੱਤਾ ਗਿਆ ਹੈ ਆਧਾਰ ਹੈ, ਅਤੇ Flutylove ਸਾਫ਼ ਇੱਕ ਖਾਸ ਮਕਸਦ, ਕਿਸੇ
+        ਦੇ ਅਧਿਕਾਰ ਦੀ ਉਲੰਘਣਾ ਦੀ ਗੈਰ ਲਈ ਕੋਈ ਵਾਰੰਟੀ ਜ ਤੰਦਰੁਸਤੀ disclaims. Flutylove ਗਾਰੰਟੀ
+        ਨਹ ਕਰ ਸਕਦਾ ਹੈ ਅਤੇ ਵੈੱਬਸਾਈਟ ਦੇ ਵਰਤ ਅਤੇ / ਜ ਸੇਵਾ ਨੂੰ ਕਿਸੇ ਵੀ ਖਾਸ ਨਤੀਜੇ ਦੀ ਵਾਅਦਾ
+        ਨਹੀ ਕਰਦਾ ਹੈ."
+      links: 14. ਲਿੰਕ.
+      p_14: ". Flutylove ਕਿਸੇ ਵੀ ਗਲਤ ਜ ਗਲਤ ਜਾਣਕਾਰੀ ਵੈੱਬਸਾਈਟ 'ਤੇ ਪੋਸਟ ਕਰਨ ਲਈ ਜ਼ਿੰਮੇਵਾਰ
+        ਨਹੀ ਹੈ ਜ ਸੇਵਾ ਨਾਲ ਸੰਬੰਧਿਤ ਹੈ, ਵੈੱਬਸਾਈਟ ਜ ਕੋਈ ਵੀ ਹਾਰਡਵੇਅਰ ਜ ਸਾਫਟਵੇਅਰ ਸਾਡੀ ਸੇਵਾ
+        ਨਾਲ ਸਬੰਧਿਤ ਜ ਉਥੇ ਵਰਤਿਆ ਗਿਆ ਹੈ ਦੇ ਉਪਭੋਗੀ. Flutylove ਨਾ ਵਿਹਾਰ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਹੈ,
+        ਦੋਨੋ ਆਨਲਾਈਨ ਅਤੇ ਆਫਲਾਈਨ, ਵੈੱਬਸਾਈਟ ਦੇ ਕਿਸੇ ਵੀ ਉਪਭੋਗੀ ਦਾ ਹੈ. Flutylove ਕਿਸੇ ਵੀ
+        ਗਲਤੀ, ਭੁੱਲ, ਰੁਕਾਵਟ, ਹਟਾਉਣ, ਕਾਰਵਾਈ ਜ ਓਪਰੇਸ਼ਨ, ਸੰਚਾਰ ਲਾਈਨ ਅਸਫਲਤਾ, ਚੋਰੀ ਜ ਤਬਾਹੀ,
+        ਅਣਅਧਿਕਾਰਤ ਪਹੁੰਚ ਜ ਉਪਭੋਗੀ ਦੇ ਸੰਚਾਰ ਲਾਈਨ ਦੇ ਬਦਲਣ ਵਿਚ ਨੁਕਸਾਨ ਦਾ ਜ ਦੇਰੀ ਲਈ ਜ਼ਿੰਮੇਵਾਰੀ
+        'ਤੇ ਲੈ ਨਹੀ ਕਰਦਾ ਹੈ. Flutylove ਨੂੰ ਇੰਟਰਨੈੱਟ 'ਤੇ ਕਿਸੇ ਵੀ ਵੈੱਬਸਾਈਟ' ਤੇ ਕਿਸੇ ਵੀ
+        ਸਮੱਸਿਆ ਜ ਕੋਈ ਵੀ ਟੈਲੀਫੋਨ ਨੈੱਟਵਰਕ ਜ ਲਾਈਨ, ਕੰਪਿਊਟਰ ਆਨਲਾਈਨ ਸਿਸਟਮ, ਸਰਵਰ ਜ ਪ੍ਰਦਾਤਾ,
+        ਕੰਪਿਊਟਰ ਦੇ ਸਾਮਾਨ, ਸਾਫਟਵੇਅਰ, ਉਪਭੋਗੀ ਖਾਤੇ ਵਿੱਚ ਮੇਲ ਜ ਖਿਡਾਰੀ ਅਸਫਲਤਾ, ਤਕਨੀਕੀ ਸਮੱਸਿਆ
+        ਜ ਭੀੜ ਦੇ ਤਕਨੀਕੀ ਨਿਕਾਰਾਪਨ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਨਹੀ ਹੈ ਜ ਉਪਭੋਗੀ ਨੂੰ ਹਾਦਸੇ ਜ ਸੱਟ ਜ ਕੋਈ
+        ਵੀ ਤੀਜੀ ਇੱਕ ਕੰਪਿਊਟਰ ਨਾਲ ਸਬੰਧਤ ਪੱਖ, ਜ ਵਿਚ ਹਿੱਸਾ ਲੈਣ ਜ ਨੈੱਟਵਰਕ ਅਤੇ / ਜ ਸੇਵਾ
+        ਸਬੰਧਤ ਡਾਊਨਲੋਡ ਜਾਣਕਾਰੀ ਦੇ ਨਤੀਜੇ ਦੇ ਤੌਰ ਸ਼ਾਮਲ ਹਨ ਇਸ ਦੇ ਸੁਮੇਲ,. ਕੋਈ ਹਾਲਾਤ Flutylove
+        ਕੰਪਨੀ ਜ ਇਸ ਦੇ ਐਫੀਲੀਏਟ ਦੇ ਕਿਸੇ ਵੀ, ਵਿਗਿਆਪਨ ਏਜੰਟ, ਬਾਨੀ ਜ ਦੀ ਵੰਡ ਦੀ ਭਾਈਵਾਲ ਕਿਸੇ
+        ਵੀ ਨੁਕਸਾਨ ਜ ਨੁਕਸਾਨ, ਨਿਜੀ ਸੱਟ ਮੌਤ ਸ਼ਾਮਿਲ ਹਨ, ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਨਾ ਕਰੇਗਾ, ਕਿਉਕਿ,
+        ਦੀ ਵੈੱਬਸਾਈਟ ਜ ਸੇਵਾ ਦੇ ਵਰਤ ਦੇ ਤਹਿਤ, ਕਿਸੇ ਵੀ ਸਮੱਗਰੀ ਵੈੱਬਸਾਈਟ 'ਤੇ ਪੋਸਟ , ਜ ਵੈੱਬਸਾਈਟ
+        ਦੇ ਉਪਭੋਗੀ, ਦੋਨੋ ਆਨਲਾਈਨ ਅਤੇ ਆਫਲਾਈਨ ਵਿਚਕਾਰ ਕਿਸੇ ਵੀ ਗੱਲਬਾਤ. ਵੈੱਬਸਾਈਟ ਅਤੇ ਸੇਵਾ
+        ਦਾ ਇੱਕ ਦੇ ਤੌਰ ਤੇ ਦਿੱਤਾ ਗਿਆ ਹੈ ਆਧਾਰ ਹੈ, ਅਤੇ Flutylove ਸਾਫ਼ ਇੱਕ ਖਾਸ ਮਕਸਦ, ਕਿਸੇ
+        ਦੇ ਅਧਿਕਾਰ ਦੀ ਉਲੰਘਣਾ ਦੀ ਗੈਰ ਲਈ ਕੋਈ ਵਾਰੰਟੀ ਜ ਤੰਦਰੁਸਤੀ disclaims. Flutylove ਗਾਰੰਟੀ
+        ਨਹ ਕਰ ਸਕਦਾ ਹੈ ਅਤੇ ਵੈੱਬਸਾਈਟ ਦੇ ਵਰਤ ਅਤੇ / ਜ ਸੇਵਾ ਨੂੰ ਕਿਸੇ ਵੀ ਖਾਸ ਨਤੀਜੇ ਦੀ ਵਾਅਦਾ
+        ਨਹੀ ਕਰਦਾ ਹੈ."
+      limitation_of_responsibility: 15. ਜ਼ਿੰਮੇਵਾਰੀ ਦੀ ਕਮੀ.
+      p_15: ਇੱਕ ਦੇ ਤੌਰ ਤੇ ਦਿੱਤੇ ਗਏ ਹਨ ਆਧਾਰ ਹੈ. ਕੰਪਨੀ ਦੀ ਕੋਈ ਵਾਰੰਟੀ ਕਿ ਵੈੱਬਸਾਈਟ ਜ ਇਸ
+        ਫੰਕਸ਼ਨ ਠੀਕ ਜ ਵਰਤਣ ਦਾ ਇੱਕ ਖਾਸ ਮਕਸਦ ਲਈ ਠੀਕ ਹੋ ਸਕਦੀ ਹੈ disclaims. ਕੰਪਨੀ ਦੀ ਗਾਰੰਟੀ
+        ਨਹ ਕਰ ਸਕਦਾ ਹੈ ਅਤੇ ਵੈਬਸਾਈਟ ਅਤੇ / ਜ ਇਸ ਦੇ ਫੰਕਸ਼ਨ ਦੇ ਵਰਤ ਨੂੰ ਕਿਸੇ ਵੀ ਖਾਸ ਨਤੀਜੇ
+        ਦਾ ਵਾਅਦਾ ਨਹੀ ਕਰਦਾ ਹੈ; ਜਦ ਵੈੱਬਸਾਈਟ ਤੱਕ ਜ ਪੋਸਟ ਲਿੰਕ ਦੁਆਰਾ ਡਾਊਨਲੋਡ, ਅਤੇ ਕਿਸੇ
+        ਵੀ ਫਾਇਲ ਦੇ ਵਰਤ ਸਾਫਟਵੇਅਰ ਦੇ ਨਾਲ ਨਾਲ, ਉਲਝਣ ਬਚਣ ਲਈ, ਉਪਭੋਗੀ ਨੂੰ ਸੁਰੱਿਖਆ ਸਾਵਧਾਨੀ
+        ਮਨਾਉਣੀ ਚਾਹੀਦੀ ਹੈ. ਕੰਪਨੀ ਬਹੁਤ ਹੀ AS WELL ਕੇਵਲ ਲਾਇਸਸਸ਼ੁਦਾ ਸਾਫਟਵੇਅਰ ਵਰਤਣ ਲਈ ਐਨਟਿਵ਼ਾਇਰਅਸ
+        ਸਾਫਟਵੇਅਰ ਸਿਫਾਰਸ਼; ਵੈੱਬਸਾਈਟ ਵਰਤ ਕੇ, ਉਪਭੋਗੀ ਨੂੰ ਸਹਿਮਤ ਹਨ ਕਿ ਸਾਈਟ ਜ 'ਤੇ ਕਿਸੇ
+        ਵੀ ਸਮੱਗਰੀ ਨੂੰ ਇਸ ਦੀ ਮਦਦ ਨਾਲ ਡਾਉਨਲੋਡਸ ਉਸ ਦੀ / ਉਸ ਆਪਣੇ ਜੋਖਮ ਤੇ ਕਿਸੇ ਵੀ ਨੁਕਸਾਨ
+        ਕਿ ਇਹ ਉਪਭੋਗੀ ਦੇ ਕੰਪਿਊਟਰ ਨੂੰ ਜ ਤੀਜੀ ਬਣਦਾ ਸਮੇਤ ਇਸ ਜਾਣਕਾਰੀ ਦੀ ਵਰਤ, ਦੇ ਸੰਭਵ ਨਤੀਜੇ
+        ਲਈ ਇਕੱਲੇ ਹੀ ਜ਼ਿੰਮੇਵਾਰ ਦਲ, ਡਾਟਾ ਨੁਕਸਾਨ, ਜ ਕੋਈ ਹੋਰ ਨੁਕਸਾਨ; ਕੋਈ ਹਾਲਾਤ ਕੰਪਨੀ ਜ
+        ਇਸ ਦੇ ਏਜੰਟ ਕੋਈ ਹੈ, ਗੁੱਝੇ ਦੁਰਘਟਨਾ ਅਤੇ UNWILFUL ਨੁਕਸਾਨ ਲਈ ਯੂਜ਼ਰ ਨੂੰ ਜ ਕੋਈ ਤੀਜੀ
+        ਧਿਰ ਨੂੰ ਕੋਈ ਜ਼ਿੰਮੇਵਾਰੀ, ਲਾਭ ਦੇ ਨੁਕਸਾਨ, ਜ ਗੁੰਮ ਹੋ ਡਾਟਾ, ਦਾ ਆਦਰ ਕਰਨ ਦਾ ਨੁਕਸਾਨ,
+        ਮਾਣ ਜ ਦਾ ਕਾਰੋਬਾਰ ਸ਼ੌਹਰਤ ਸਮੇਤ, ਦੇ ਪੈਦਾ ਦੀ ਵੈੱਬਸਾਈਟ, ਇਸ ਦੀ ਸਮੱਗਰੀ ਜ ਹੋਰ ਕਿਸੇ
+        ਵੀ ਜਾਣਕਾਰੀ ਦੀ ਵਰਤ ਿਜਸ ਲਈ ਤੁਸ ਜ ਹੋਰ ਕਿਸੇ ਵੀ ਵਿਅਕਤੀ ਵੈਬਸਾਇਟ ਪਹੁੰਚ ਪ੍ਰਾਪਤ ਵੀ,
+        ਜੇ, ਕੰਪਨੀ ਨੇ ਚੇਤਾਵਨੀ ਜ ਅਜਿਹੇ ਨੁਕਸਾਨ ਦੀ ਸੰਭਾਵਨਾ ਦੱਸਦਾ ਹੈ.
+      responsibilities_of_the_parties: 16. ਦਲ ਦੀ ਜ਼ਿੰਮੇਵਾਰੀ.
+      p_16: ਦੁਆਰਾ ਚਲਾਏ ਅਤੇ ਰੂਸੀ ਫੈਡਰੇਸ਼ਨ ਦੇ ਕਾਨੂੰਨ ਦੇ ਅਨੁਸਾਰ ਕੱਢਿਆ ਗਿਆ ਹੈ. ਮੁੱਦੇ ਜੋ
+        ਕਿ ਸਮਝੌਤੇ ਕੇ ਵਸ ਨਾ ਕੀਤਾ ਗਿਆ ਸੀ ਰਸ਼ੀਅਨ ਫੈਡਰੇਸ਼ਨ ਕਾਨੂੰਨ ਦੇ ਅਨੁਸਾਰ ਸੈਟਲ ਕੀਤਾ
+        ਜਾਵੇਗਾ. ਇਹ ਨਿਯਮ ਦੇ ਲਾਗੂ ਕਰਨ ਲਈ ਸਬੰਧਤ ਕੋਈ ਵੀ ਵਿਵਾਦ ਜ ਵਿਵਾਦ ਦੇ ਮਾਮਲੇ ਵਿਚ, ਉਪਭੋਗੀ
+        ਅਤੇ ਕੰਪਨੀ ਗੱਲਬਾਤ ਰਾਹ ਨੂੰ ਹੱਲ ਕਰਨ ਲਈ ਹਰ ਕੋਸ਼ਿਸ਼ ਕਰੇਗਾ. ਮਾਮਲੇ 'ਚ ਵਿਵਾਦ ਗੱਲਬਾਤ
+        ਨਾਲ ਹੱਲ ਨਾ ਕਰੇਗਾ, ਵਿਵਾਦ ਰਸ਼ੀਅਨ ਫੈਡਰੇਸ਼ਨ ਲਾਗੂ ਕਾਨੂੰਨ ਦੇ ਅਨੁਸਾਰ ਸੈਟਲ ਕੀਤਾ ਜਾਵੇਗਾ.
+        ਇਹ ਸਮਝੌਤਾ ਰੂਸੀ ਭਾਸ਼ਾ ਵਿਚ ਚਲਾਇਆ ਗਿਆ ਹੈ ਅਤੇ ਕਿਸੇ ਹੋਰ ਭਾਸ਼ਾ ਵਿੱਚ ਸਮੀਖਿਆ ਲਈ ਯੂਜ਼ਰ
+        ਨੂੰ ਮੁਹੱਈਆ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ. ਰੂਸੀ ਭਾਸ਼ਾ ਵਿਚ ਰੈਗੂਲੇਸ਼ਨ ਅਤੇ ਹੋਰ ਭਾਸ਼ਾ ਵਿਚ ਇਸ
+        ਨੂੰ ਵਰਜਨ ਦੇ ਵਰਜਨ ਦੇ ਫਰਕ ਦੇ ਮਾਮਲੇ ਵਿੱਚ, ਇਹ ਰੈਗੂਲੇਸ਼ਨ ਦੇ ਪ੍ਰਬੰਧ ਦੇ ਰੂਸੀ ਭਾਸ਼ਾ
+        ਵਿੱਚ ਵਰਜਨ ਲਾਗੂ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ. ਇੱਕ ਕਾਰਨ ਜ ਦੂਸਰੇ ਲਈ, ਇਹ ਨਿਯਮ ਦੀ ਇੱਕ ਜ
+        ਹੋਰ ਪ੍ਰਬੰਧ ਗਲਤ ਐਲਾਨ ਕੀਤਾ ਜਾਵੇਗਾ, ਜੇ ਜ ਨੂੰ ਖ਼ਤਮ ਹੈ, ਇਸ ਵੈਧਤਾ ਜ ਬਾਕੀ ਪ੍ਰਬੰਧ
+        ਦੇ enforceability ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਨਹੀ ਹੈ.
+      other_provisions_and_changes: 17. ਹੋਰ ਪ੍ਰਬੰਧ ਅਤੇ ਬਦਲਦਾ ਹੈ.
+      p_17: ਵੈੱਬਸਾਈਟ ਅਤੇ / ਜ ਸੇਵਾ ਦੇ ਵਰਤ ਦੇ ਸਬੰਧ ਵਿੱਚ ਤੁਹਾਡੇ ਅਤੇ Flutylove ਵਿਚਕਾਰ
+        ਸੱਚ ਹੈ ਸਮਝੌਤੇ 'ਹੁੰਦਾ ਹੈ. ਇਸ ਸਮਝੌਤੇ voids ਦੇ ਕਿਸੇ ਵੀ ਪ੍ਰਬੰਧ ਹੈ, ਜੇ, ਇਸ ਇਕਰਾਰਨਾਮੇ
+        ਦੀ ਬਾਕੀ ਪੂਰੀ ਪ੍ਰਭਾਵ ਵਿੱਚ ਇਸ ਦੇ ਵੈਧਤਾ ਰਹਿੰਦਾ ਹੈ. ਇਹ ਸਮਝੌਤਾ ਕਿਸੇ ਵੀ ਵੇਲੇ Flutylove
+        ਕੇ ਸੋਧਿਆ ਜਾ ਸਕਦਾ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਇਕਰਾਰਨਾਮੇ ਬਾਰੇ ਕੋਈ ਸਵਾਲ ਦੇ ਨਾਲ ਸਾਡੇ ਨਾਲ
+        ਸੰਪਰਕ ਕਰਨ ਦੀ ਸੰਕੋਚ ਨਾ ਕਰੋ.
+      read_this: ਮੈਨੂੰ ਇਸ ਇਕਰਾਰਨਾਮੇ ਪੜ੍ਹਿਆ ਅਤੇ ਇਸ ਦੇ ਸਾਰੇ ਸ਼ਬਦ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੈ.
+    about:
+      about_flutylove: Flutylove ਬਾਰੇ
+      about_flutylove_text: Flutylove datings ਲਈ ਅੰਤਰਰਾਸ਼ਟਰੀ ਸਮਾਜਿਕ ਮਨੋਰੰਜਨ ਨੈੱਟਵਰਕ
+        ਹੈ. ਇੱਥੇ ਤੁਹਾਨੂੰ ਦੋਸਤ, ਇੱਕ soulmate, ਭਾਈਵਾਲ ਦਾ ਪਤਾ ਕਰ ਸਕਦੇ ਹੋ ਜ ਹੁਣੇ ਹੀ ਗੇਮਜ਼
+        ਖੇਡਣ ਦੇ ਕੇ ਦਾ ਆਨੰਦ ਦੇ ਨਾਲ ਆਪਣੇ ਵਾਰ ਖਰਚ ਜ ਵੀਡੀਓ / ਫੋਟੋ ਦੇਖੋ.
+      flutylove_features: 'ਤੁਹਾਨੂੰ ਸਾਡੀ ਸਾਈਟ ''ਤੇ ਸਾਈਨ ਅੱਪ ਜਾਵੇਗਾ, ਜਦ, ਤੁਹਾਨੂੰ ਅਜਿਹੇ
+        ਰੂਪ ਵਿੱਚ ਬਹੁਤ ਸਾਰੇ ਫੀਚਰ ਨੂੰ ਬਾਹਰ ਦਾ ਪਤਾ ਕਰ ਸਕਦੇ ਹੋ:'
+      video_call_feature: ਤੁਹਾਨੂੰ ਵੈਬਕੈਮ ਨਾਲ ਸਾਥੀ ਨਾਲ ਗੱਲਬਾਤ ਕਰ ਸਕਦਾ ਹੈ
+      extended_search: ਤੁਹਾਨੂੰ ਮੁਫ਼ਤ ਲਈ ਐਕਸਟੈਡਿਡ ਖੋਜ ਇਸਤੇਮਾਲ ਕਰ ਸਕਦੇ ਹੋ
+      multilanguages: ", ਦੂਜੇ ਦੇਸ਼ ਤੱਕ ਭਾਈਵਾਲ ਖੋਜ ਕਰ ਸਕਦੇ ਹੋ ਸਾਡੀ ਸੇਵਾ ਦੂਜੇ ਦੇਸ਼ ਤੱਕ
+        ਲੋਕ ਵਿਆਪਕ ਲੜੀ ਨਾਲ ਵਰਤਣ ਲਈ ਦੀ ਉਮੀਦ ਹੈ, ਕਿਉਕਿ, ਕਿਉਕਿ ਇਸ ਨੂੰ ਹੋਰ ਵੱਧ 70 ਭਾਸ਼ਾ
+        ਦਾ ਅਨੁਵਾਦ ਕੀਤਾ ਗਿਆ ਹੈ"
+      play_games_chatting_etc: ਤੁਹਾਨੂੰ, ਹੋਰ ਲੋਕ ਨਾਲ ਗੱਲਬਾਤ ਗੇਮਜ਼ ਖੇਡਣ ਅਤੇ ਇੱਕ ਹੋਰ
+        ਸਮਾਜਿਕ ਬਸਤਰ ਕੀ ਕਰ ਸਕਦੇ ਹੋ
+      we_are_in_social_networks: 'ਸਾਨੂੰ ਸਮਾਜਿਕ ਨੈੱਟਵਰਕ ਵਿੱਚ ਹਨ:'
+      facebook: ਫੇਸਬੁੱਕ
+      twitter: ਟਵਿੱਟਰ
+      vk: Vkontakte
+      google_plus: ਗੂਗਲ ਪਲੱਸ
+      instagram: Instagram
+      github: GitHub
+      we_use_open_source_and_high_technology: ਸਾਨੂੰ ਉੱਚ ਤਕਨਾਲੋਜੀ ਅਤੇ ਓਪਨ ਸਰੋਤ ਲਾਇਬਰੇਰੀ
+        ਵਰਤਦੇ ਹਨ. ਸਾਨੂੰ ਹਮੇਸ਼ਾ ਬਿਹਤਰ ਵਿੱਚ ਪ੍ਰਾਪਤ ਕਰੋ ਅਤੇ ਸਾਡੀ ਸੇਵਾ ਵਿੱਚ ਸੁਧਾਰ ਕਰਨ
+        ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ.
+      partners_and_investors: ਸਾਨੂੰ ਭਾਈਵਾਲੀ ਲਈ ਖੋਲ੍ਹਿਆ ਰਹੇ ਹਨ ਅਤੇ ਸਾਨੂੰ ਨਿਵੇਸ਼ਕ ਦਾ
+        ਪਤਾ ਕਰਨ ਲਈ ਚਾਹੁੰਦੇ ਹੋ. ਤੁਹਾਨੂੰ ਸਾਡੇ ਨਾਲ ਸਹਿਯੋਗ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ partnership@flutylove.com
+        'ਤੇ ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ
+    faq:
+      faq: ਸਵਾਲ
+      what_is_flutylove: Flutylove ਕੀ ਹੈ?
+      about_flutylove: Flutylove datings ਲਈ ਅੰਤਰਰਾਸ਼ਟਰੀ ਸਮਾਜਿਕ ਮਨੋਰੰਜਨ ਨੈੱਟਵਰਕ ਹੈ.
+        ਇੱਥੇ ਤੁਹਾਨੂੰ ਦੋਸਤ, ਇੱਕ soulmate, ਭਾਈਵਾਲ ਦਾ ਪਤਾ ਕਰ ਸਕਦੇ ਹੋ ਜ ਹੁਣੇ ਹੀ ਗੇਮਜ਼
+        ਖੇਡਣ ਦੇ ਕੇ ਦਾ ਆਨੰਦ ਦੇ ਨਾਲ ਆਪਣੇ ਵਾਰ ਖਰਚ ਜ ਵੀਡੀਓ / ਫੋਟੋ ਦੇਖੋ.
+      what_features_has_flutylove: ਕੀ ਵਿਸ਼ੇਸ਼ਤਾ ਹੈ Flutylove ਹੈ?
+      flutylove_features: ਇੱਥੇ ਤੁਹਾਨੂੰ videocams ਨਾਲ ਗੱਲਬਾਤ ਕਰ ਸਕਦਾ ਹੈ,, ਦੂਜੇ ਦੇਸ਼
+        ਤੱਕ ਫੈਲਿਆ ਖੋਜ, ਖੋਜ ਭਾਈਵਾਲ ਨੂੰ ਵਰਤਣ ਗੇਮਜ਼ ਖੇਡਣ ਅਤੇ ਹੋਰ ਸਮਾਜਿਕ stuffs ਕਰਦੇ ਹਨ.
+      i_have_some_requests: ਮੈਨੂੰ ਕੁਝ ਬੇਨਤੀ ਹੈ
+      you_can_write_request: ਤੁਹਾਨੂੰ ਸਾਈਨ ਅੱਪ ਕਰੋ ਅਤੇ ਇਸ ਨੂੰ ਲਿਖ ਸਕਦਾ ਹੈ
+      here: ਇੱਥੇ
+      i_have_seen_some_typo_or_wrong_translation: ਮੈਨੂੰ ਕੁਝ ਸਿਸਮਟ ਨੂੰ ਗਲਤ ਅਨੁਵਾਦ ਦੇਖਿਆ
+        ਹੈ
+      you_can_send_pull_request_to_our: ਤੁਹਾਨੂੰ ਕਰਨ ਲਈ ਇੱਕ ਕੱਢਣ ਬੇਨਤੀ ਨੂੰ ਭੇਜ ਸਕਦਾ
+        ਹੈ, ਸਾਡੇ
+      github_repository: GitHub ਰਿਪੋਜ਼ਟਰੀ
+      i_have_seen_some_error: ਮੈਨੂੰ ਕੁਝ ਗਲਤੀ ਦੇਖਿਆ ਹੈ
+      you_can_send: ਤੁਹਾਨੂੰ ਸਾਡੇ ਦੁਆਰਾ ਫੀਡਬੈਕ ਭੇਜ ਸਕਦਾ ਹੈ
+      to_us_or_write_to_our_info_mail: ਜ support@flutylove.com ਨੂੰ ਈ ਲਿਖਣ ਦੀ
+  user_mailer:
+    welcome_email:
+      welcome_to_flutylove: Flutylove ਸੁਆਗਤ ਹੈ
+      you_have_successfully_signed_up_to_flutylove: ਸਫਲਤਾਪੂਰਕ Flutylove ਤੱਕ ਦਾ ਦਸਤਖਤ
+        ਕੀਤੇ ਹਨ
+      you_can_sign_in_with_your_social_networks: ਤੁਹਾਡੇ ਵਿੱਚ ਦਸਤਖਤ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ
+        ਆਪਣੇ ਸੋਸ਼ਲ ਨੈੱਟਵਰਕ ਖਾਤੇ ਨਾਲ ਸਾਈਨ ਕਰ ਸਕਦਾ ਹੈ ਚਾਹੁੰਦੇ ਹੋ
+      if_you_would_like_to_sign_in_with_password_you_can_create_password_by_link_below: ਤੁਹਾਨੂੰ
+        ਈਮੇਲ ਅਤੇ ਪਾਸਵਰਡ ਨਾਲ ਸਾਈਨ ਤੁਹਾਨੂੰ ਨਿਸ਼ਾਨ ਨੂੰ ਬਾਹਰ ਕਰਕੇ ਪਾਸਵਰਡ ਬਦਲ ਸਕਦੇ ਹੋ ਅਤੇ
+        ਹੇਠ ਦਿੱਤੇ ਲਿੰਕ ਨੂੰ ਕਲਿੱਕ ਕਰੋ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            birth_date:
+              birth_date_error: ਵੱਧ 18 ਅਤੇ ਘੱਟ ਫਿਰ 115 ਹੋਣ ਦੀ ਲੋੜ ਹੈ
+            interests:
+              interests_error: ਘੱਟ 2000 ਅਤੇ ਨਿਸ਼ਾਨ ਹੋਣ ਦੀ ਲੋੜ ਹੈ
+            jobs:
+              jobs_error: ਘੱਟ 2000 ਅਤੇ ਨਿਸ਼ਾਨ ਹੋਣ ਦੀ ਲੋੜ ਹੈ
+            languages:
+              languages_error: ਘੱਟ 2000 ਅਤੇ ਨਿਸ਼ਾਨ ਹੋਣ ਦੀ ਲੋੜ ਹੈ
+            sex_keywords:
+              sex_keywords_error: ਘੱਟ 2000 ਅਤੇ ਨਿਸ਼ਾਨ ਹੋਣ ਦੀ ਲੋੜ ਹੈ
+            contacts:
+              contacts_length_error: ਘੱਟ 2000 ਅਤੇ ਨਿਸ਼ਾਨ ਹੋਣ ਦੀ ਲੋੜ ਹੈ
+              contacts_size_error: ਘੱਟ ਵੱਧ 21 ਸੰਪਰਕ ਹੋਣ ਦੀ ਲੋੜ ਹੈ
+        search:
+          attributes:
+            in_age_from:
+              in_age_from_error: ਗਲਤ ਮੁੱਲ ਹੈ
+  devise:
+    confirmations:
+      confirmed: ਸਫਲਤਾਪੂਰਕ ਪੁਸ਼ਟੀ ਕੀਤੀ ਗਈ ਸੀ.
+      send_instructions: ਤੁਹਾਨੂੰ ਕੁਝ ਮਿੰਟ ਵਿਚ ਆਪਣੇ ਖਾਤੇ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਕਰਨਾ ਹੈ,
+        ਬਾਰੇ ਨਿਰਦੇਸ਼ ਦੇ ਨਾਲ ਇੱਕ ਈਮੇਲ ਪ੍ਰਾਪਤ ਕਰੇਗਾ.
+      send_paranoid_instructions: ਤੁਹਾਡਾ ਈਮੇਲ ਪਤਾ ਸਾਡੇ ਡੇਟਾਬੇਸ ਵਿੱਚ ਮੌਜੂਦ ਹੈ, ਜੇ,
+        ਤੁਹਾਨੂੰ ਕੁਝ ਮਿੰਟ ਵਿਚ ਆਪਣੇ ਖਾਤੇ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਕਰਨਾ ਹੈ, ਬਾਰੇ ਨਿਰਦੇਸ਼ ਦੇ ਨਾਲ
+        ਇੱਕ ਈਮੇਲ ਪ੍ਰਾਪਤ ਕਰੇਗਾ.
+      new:
+        send_mail_for_confirm_your_email: ਪੁਸ਼ਟੀ ਆਪਣੇ ਈ-ਮੇਲ ਲਈ ਮੇਲ ਭੇਜੋ
+        submit: ਪੇਸ਼
+    failure:
+      already_authenticated: ਹੀ ਸਾਈਨ ਕਰ ਰਹੇ ਹਨ.
+      inactive: ਅਜੇ ਤੱਕ ਸਰਗਰਮ ਹੈ, ਨਾ ਹੈ.
+      invalid: ਗਲਤ ਈਮੇਲ ਜ ਪਾਸਵਰਡ.
+      locked: ਤਾਲਾਬੰਦ ਹੈ.
+      last_attempt: ਤੁਹਾਨੂੰ ਇੱਕ ਹੋਰ ਦੀ ਕੋਸ਼ਿਸ਼ ਹੈ.
+      not_found_in_database: ਗਲਤ ਈਮੇਲ ਜ ਪਾਸਵਰਡ.
+      timeout: ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ. ਜਾਰੀ ਰੱਖਣ ਲਈ ਦੁਬਾਰਾ ਸਾਈਨ ਕਰੋ.
+      unauthenticated: ਸਾਈਨ ਜ ਜਾਰੀ ਅੱਗੇ ਸਾਈਨ ਅੱਪ ਕਰਨ ਦੀ ਲੋੜ ਹੈ.
+      unconfirmed: ਜਾਰੀ ਅੱਗੇ ਆਪਣੇ ਖਾਤੇ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਹੈ.
+    mailer:
+      confirmation_instructions:
+        subject: ਪੁਸ਼ਟੀ ਨਿਰਦੇਸ਼
+        welcome_to_flutylove: Flutylove ਸੁਆਗਤ ਹੈ
+        you_can_confirm_your_account_email_through_the_link_below: ਤੁਹਾਨੂੰ ਹੇਠ ਲਿੰਕ
+          ਦੁਆਰਾ ਆਪਣੇ ਈ-ਮੇਲ ਦੀ ਪੁਸ਼ਟੀ ਕਰ ਸਕਦੇ ਹੋ
+        confirm_my_account: ਮੇਰੇ ਈਮੇਲ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ
+      reset_password_instructions:
+        hello: ਹੈਲੋ
+        subject: ਰੀਸੈਟ ਪਾਸਵਰਡ ਨਿਰਦੇਸ਼
+        someone_has_requests_a_link_to_change_your_password_you_can_do_this_through_the_link_below: ਕਿਸੇ
+          ਮੰਗ ਨੂੰ ਆਪਣੇ ਗੁਪਤ-ਕੋਡ ਤਬਦੀਲ ਕਰਨ ਲਈ ਕਿਸੇ ਲਿੰਕ ਹੈ. ਤੁਹਾਨੂੰ ਹੇਠ ਲਿੰਕ ਦੁਆਰਾ
+          ਇਸ ਨੂੰ ਕੀ ਕਰ ਸਕਦਾ ਹੈ.
+        change_my_password: ਮੇਰੇ ਪਾਸਵਰਡ ਬਦਲੋ
+        if_you_didnt_request_this_please_ignore_this_email: ਤੁਹਾਨੂੰ ਬੇਨਤੀ ਕਰ, ਨਾ ਸੀ,
+          ਜੇ ਇਸ ਨੂੰ ਇਸ ਈਮੇਲ ਨੂੰ ਨਜ਼ਰਅੰਦਾਜ਼ ਕਰੋ.
+      unlock_instructions:
+        subject: ਤਾਲਾ ਨਿਰਦੇਸ਼
+    omniauth_callbacks:
+      failure: '% {ਕਿਸਮ} ਹੈ, ਕਿਉਕਿ "% {ਕਾਰਨ ਹੈ}" ਤੁਹਾਨੂੰ ਪ੍ਰਮਾਣਿਤ ਨਾ ਕੀਤਾ ਜਾ ਸਕਿਆ
+        ਹੈ.'
+      success: ਸਫਲਤਾਪੂਰਕ% {ਕਿਸਮ} ਖਾਤੇ ਤੱਕ ਪ੍ਰਮਾਣਿਤ.
+    passwords:
+      no_token: ਇੱਕ ਪਾਸਵਰਡ ਰੀਸੈਟ ਈਮੇਲ ਤੱਕ ਆਉਣ ਦੇ ਬਗੈਰ ਇਸ ਸਫ਼ੇ ਤੱਕ ਪਹੁੰਚ ਨਾ ਕਰ ਸਕਦਾ
+        ਹੈ. ਤੁਹਾਨੂੰ ਇੱਕ ਪਾਸਵਰਡ ਰੀਸੈਟ ਈ-ਮੇਲ ਆਏ ਹੋ, ਜੇ, ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਤੁਹਾਨੂੰ ਮੁਹੱਈਆ
+        ਪੂਰੀ URL ਨੂੰ ਵਰਤਿਆ ਕਰ, ਕਿਰਪਾ ਕਰਕੇ.
+      send_instructions: ਤੁਹਾਨੂੰ ਕੁਝ ਮਿੰਟ ਵਿਚ ਆਪਣਾ ਪਾਸਵਰਡ ਸੈੱਟ ਕਰਨ ਲਈ 'ਤੇ ਨਿਰਦੇਸ਼
+        ਦੇ ਨਾਲ ਇੱਕ ਈਮੇਲ ਪ੍ਰਾਪਤ ਕਰੇਗਾ.
+      send_paranoid_instructions: ਤੁਹਾਡਾ ਈਮੇਲ ਪਤਾ ਸਾਡੇ ਡੇਟਾਬੇਸ ਵਿੱਚ ਮੌਜੂਦ ਹੈ, ਜੇ,
+        ਤੁਹਾਨੂੰ ਕੁਝ ਮਿੰਟ ਵਿਚ ਆਪਣੇ ਈ-ਮੇਲ ਪਤੇ 'ਤੇ ਇੱਕ ਪਾਸਵਰਡ ਰਿਕਵਰੀ ਲਿੰਕ ਪ੍ਰਾਪਤ ਕਰੇਗਾ.
+      updated: ਸਫਲਤਾਪੂਰਕ ਤਬਦੀਲ ਹੋ ਗਿਆ ਸੀ. ਤੁਹਾਨੂੰ ਹੁਣ ਸਾਈਨ ਕਰ ਰਹੇ ਹਨ.
+      updated_not_active: ਸਫਲਤਾਪੂਰਕ ਤਬਦੀਲ ਹੋ ਗਿਆ ਸੀ.
+      new:
+        forgot_your_password: ਆਪਣਾ ਪਾਸਵਰਡ ਮੁੜ
+        reset_password: ਭੇਜੋ URL ਨੂੰ ਮੁੜ ਪ੍ਰਾਪਤ
+      edit:
+        change_your_password: ਆਪਣਾ ਪਾਸਵਰਡ ਬਦਲੋ
+        new_password: ਨਿਊ ਪਾਸਵਰਡ
+        confirm_password: ਪੁਸ਼ਟੀ ਪਾਸਵਰਡ
+        change_password: ਬਦਲੋ
+    registrations:
+      destroyed: "! ਤੁਹਾਡਾ ਖਾਤਾ ਸਫਲਤਾਪੂਰਕ ਰੱਦ ਕਰ ਦਿੱਤਾ ਗਿਆ. ਅਸ ਤੁਹਾਨੂੰ ਮੁੜ ਕੇ ਛੇਤੀ
+        ਹੀ ਵੇਖਣ ਦੀ ਆਸ ਹੈ."
+      signed_up: ਸੁਆਗਤ ਹੈ! ਤੁਹਾਨੂੰ ਸਫਲਤਾ ਨਾਲ ਸਾਈਨ ਅਪ ਕੀਤਾ ਹੈ.
+      signed_up_but_inactive: ਸਫਲਤਾਪੂਰਕ ਸਾਈਨ ਅਪ ਕੀਤਾ ਹੈ. ਪਰ, ਸਾਨੂੰ, ਕਿਉਕਿ ਆਪਣੇ ਖਾਤੇ
+        ਨੂੰ ਅਜੇ ਸਰਗਰਮ ਨਹੀ ਹੈ ਤੁਹਾਡੇ ਵਿੱਚ ਤੇ ਦਸਤਖਤ ਨਾ ਕਰ ਸਕੇ.
+      signed_up_but_locked: ਸਫਲਤਾਪੂਰਕ ਸਾਈਨ ਅਪ ਕੀਤਾ ਹੈ. ਪਰ, ਸਾਨੂੰ, ਕਿਉਕਿ ਆਪਣੇ ਖਾਤੇ
+        ਨੂੰ ਤਾਲਾਬੰਦ ਹੈ ਤੁਹਾਡੇ ਵਿੱਚ ਤੇ ਦਸਤਖਤ ਨਾ ਕਰ ਸਕੇ.
+      signed_up_but_unconfirmed: ਆਪਣੇ ਈ-ਮੇਲ ਪਤੇ ਨੂੰ ਭੇਜਿਆ ਗਿਆ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ
+        ਖਾਤੇ ਨੂੰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹਣ.
+      update_needs_confirmation: ਤੁਹਾਨੂੰ ਆਪਣੇ ਖਾਤੇ ਦੀ ਸਫਲਤਾ ਨਾਲ ਅੱਪਡੇਟ ਕੀਤਾ ਹੈ, ਪਰ
+        ਸਾਨੂੰ ਆਪਣੇ ਨਵ ਈਮੇਲ ਪਤਾ ਤਸਦੀਕ ਕਰਨ ਦੀ ਲੋੜ ਹੈ. ਆਪਣੇ ਈ-ਮੇਲ ਚੈੱਕ ਕਰੋ ਅਤੇ ਆਪਣੇ ਨਵ
+        ਈਮੇਲ ਪਤਾ ਪੁਸ਼ਟੀ ਮੁਕੰਮਲ ਕਰਨ ਲਈ ਪੁਸ਼ਟੀ ਲਿੰਕ 'ਤੇ ਕਲਿੱਕ ਕਰੋ ਜੀ.
+      updated: ਤੁਹਾਨੂੰ ਆਪਣੇ ਖਾਤੇ ਦੀ ਸਫਲਤਾਪੂਰਕ ਅੱਪਡੇਟ ਕੀਤਾ.
+      new:
+        sign_up: ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ
+        name: ਦਾ ਨਾਮ
+        password: ਪਾਸਵਰਡ
+        password_confirmation: ਪਾਸਵਰਡ ਪੁਸ਼ਟੀ
+        register: ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ
+    shared:
+      links:
+        sign_up: ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ
+        didnt_receive_confirmation_instructions: ਪੁਸ਼ਟੀ ਨਿਰਦੇਸ਼ recieved ਨਾ ਸੀ?
+        fast_login_almost_one_click: ਫਾਸਟ ਲਾਗਇਨ (ਲਗਭਗ ਇੱਕ ਹੀ ਕਲਿੱਕ ਵਿੱਚ)
+    sessions:
+      signed_in: ਸਫਲਤਾਪੂਰਕ ਵਿਚ ਦਸਤਖਤ.
+      signed_out: ਸਫਲਤਾਪੂਰਕ ਬਾਹਰ ਦਸਤਖਤ.
+      new:
+        password: ਪਾਸਵਰਡ
+        remember_me: ਮੈਨੂੰ ਯਾਦ
+        forgot_your_password: ਆਪਣਾ ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ਹੋ?
+    unlocks:
+      send_instructions: ਤੁਹਾਨੂੰ ਕੁਝ ਮਿੰਟ ਵਿਚ ਆਪਣੇ ਖਾਤੇ ਦਾ ਤਾਲਾ ਕਰਨ ਬਾਰੇ ਨਿਰਦੇਸ਼ ਦੇ
+        ਨਾਲ ਇੱਕ ਈਮੇਲ ਪ੍ਰਾਪਤ ਕਰੇਗਾ.
+      send_paranoid_instructions: ਆਪਣੇ ਖਾਤੇ ਮੌਜੂਦ ਹੈ, ਜੇ, ਤੁਹਾਨੂੰ ਕੁਝ ਮਿੰਟ ਵਿਚ ਇਸ
+        ਨੂੰ ਤਾਲਾ ਕਰਨ ਬਾਰੇ ਨਿਰਦੇਸ਼ ਦੇ ਨਾਲ ਇੱਕ ਈਮੇਲ ਪ੍ਰਾਪਤ ਕਰੇਗਾ.
+      unlocked: ਸਫਲਤਾਪੂਰਕ ਲਾਕ ਕੀਤਾ ਗਿਆ ਹੈ. ਜਾਰੀ ਰੱਖਣ ਲਈ ਸਾਈਨ ਕਰੋ.
+  en: ਆਸਤਾਨਾ
+  timezones:
+    American Samoa: ਅਮਰੀਕੀ ਸਮੋਆ
+    International Date Line West: ਇੰਟਰਨੈਸ਼ਨਲ ਮਿਤੀ ਲਾਈਨ ਪੱਛਮੀ
+    Midway Island: ਮਿਡਵੇ ਟਾਪੂ
+    Hawaii: ਹਵਾਈ
+    Alaska: ਅਲਾਸਕਾ
+    Pacific Time (US & Canada): ਪੈਸਿਫਿਕ ਟਾਈਮ (ਅਮਰੀਕਾ ਅਤੇ ਕੈਨੇਡਾ)
+    Tijuana: ਟਿਵਾਨਾ
+    Arizona: ਅਰੀਜ਼ੋਨਾ
+    Chihuahua: ਚਿਵਾਵਾ
+    Mazatlan: ਨਿਰਦੇਸ਼ਿਕਾ
+    Mountain Time (US & Canada): ਪਹਾੜੀ ਟਾਈਮ (ਅਮਰੀਕਾ ਅਤੇ ਕੈਨੇਡਾ)
+    Central America: ਮੱਧ ਅਮਰੀਕਾ
+    Central Time (US & Canada): ਮੱਧ ਟਾਈਮ (ਅਮਰੀਕਾ ਅਤੇ ਕੈਨੇਡਾ)
+    Guadalajara: ਗੁਆਡਾਲਜਾਰਾ
+    Mexico City: ਮੇਕ੍ਸਿਕੋ ਸਿਟੀ
+    Monterrey: ਗੁਆਡਾਲਜਾਰਾ
+    Saskatchewan: ਸਸਕੈਚਵਨ
+    Bogota: ਬੋਗੋਟਾ
+    Eastern Time (US & Canada): ਪੂਰਬੀ ਟਾਈਮ (ਅਮਰੀਕਾ ਅਤੇ ਕੈਨੇਡਾ)
+    Indiana (East): ਇੰਡੀਆਨਾ (ਈਸਟ)
+    Lima: ਲੀਮਾ
+    Quito: ਕ੍ਵੀਟੋ
+    Atlantic Time (Canada): ਅੰਧ ਟਾਈਮ (ਕੈਨੇਡਾ)
+    Caracas: ਕਰਾਕਸ
+    Georgetown: ਜੋਰ੍ਜ੍ਟਾਉਨ
+    La Paz: ਲਾ ਪਾਜ਼
+    Santiago: ਡਿਏਗੋ
+    Newfoundland: Newfoundland
+    Brasilia: ਬ੍ਰਾਸੀਲੀਆ
+    Buenos Aires: ਬ੍ਵੇਨੋਸ ਏਰਰ੍ਸ
+    Greenland: ਰੂਸ
+    Montevideo: ਆਰੇਕ੍ਵੀਪਾ
+    Mid-Atlantic: ਮਿਡ-ਅੰਧ
+    Azores: ਅਜ਼ੋਰਸ
+    Cape Verde Is: ਕੇਪ ਵਰਡੇ ਹੈ.
+    Casablanca: ਮੋਰੋਕੋ
+    Dublin: ਡਬ੍ਲਿਨ
+    Edinburgh: ਏਡਿਨ੍ਬਰੋ
+    Lisbon: ਲਿਜ਼੍ਬਨ
+    London: ਲੰਡਨ
+    Monrovia: ਮੋੰਰੋਵਿਆ
+    UTC: UTC
+    Amsterdam: ਆਮ੍ਸਟਰਡੈਮ
+    Belgrade: ਬੇਲਗ੍ਰੇਡ
+    Berlin: ਬਰ੍ਲਿਨ
+    Bern: ਬਰ੍ਨ
+    Bratislava: ਬਰੇਟਿਸ੍ਲਾਵਾ
+    Brussels: ਬ੍ਰਸੇਲ੍ਜ਼
+    Budapest: ਬੂਡਪੇਸ੍ਟ
+    Copenhagen: ਕੋਪੇਨਹੇਗਨ
+    Ljubljana: ਲਿਯੂਬ੍ਲਿਯਨਾ
+    Madrid: ਮੈਡ੍ਰਿਡ
+    Paris: ਪਾਰਿਸ
+    Prague: ਪ੍ਰਾਗ
+    Rome: ਰੋਮ
+    Sarajevo: ਸਾਰਜੇਯੇਵੋ
+    Skopje: ਸ੍ਕੋਪਜ਼ੇ
+    Stockholm: ਸ੍ਟਾਕਹੋਲ੍ਮ
+    Vienna: ਵਿਯੇਨ੍ਨਾ
+    Warsaw: ਵਾਰ੍ਸਾ
+    West Central Africa: ਪੱਛਮੀ ਮੱਧ ਅਫ਼ਰੀਕਾ
+    Zagreb: ਜ਼ਾਗ੍ਰੇਬ
+    Athens: ਆਤਨ੍ਸ
+    Bucharest: ਬ੍ਯੂਕਰੇਸ੍ਟ
+    Cairo: ਕਾਇਰੋ
+    Harare: ਹ੍ਰਾਰੀ
+    Helsinki: ਟਰ੍ਕ੍ਚ
+    Istanbul: Istanbul
+    Jerusalem: ਯਰੂਸ਼ਲਮ ਦੇ
+    Kaliningrad: ਟੈਲਿਨ
+    Kyiv: ਨਾੱਰਵੇ
+    Pretoria: ਪ੍ਰਿਟਾਰੀਯਾ
+    Riga: ਰਿਗਾ
+    Sofia: ਸੋਫੀਆ
+    Tallinn: ਟੈਲਿਨ
+    Vilnius: ਵਿਲ੍ਨੀਯਸ
+    Baghdad: ਬੈਗ੍ਡੈਡ
+    Kuwait: ਕੁਵੈਤ
+    Minsk: ਮਿਨ੍ਸ੍ਕ
+    Moscow: ਮਾਸ੍ਕੋ
+    Nairobi: ਨੈਰੋਬੀ
+    Riyadh: ਰਿਯਾਧ
+    St Petersburg: St. ਪੀਟਰ੍ਜ਼੍ਬਰ੍ਗ
+    Volgograd: ਵੋਲ੍ਗਗ੍ਰੈਡ
+    Tehran: ਤੇਹਰਾਨ
+    Baku: ਬਾਕੂ
+    Muscat: ਮਸਕੈਟ
+    Samara: ਸਮਰਾ
+    Tbilisi: ਟਬਾਇਲੀਸੀ
+    Yerevan: ਯੇਰੇਵਨ
+    Kabul: ਕਾਬੁਲ
+    Ekaterinburg: ਏਕਟਰਈਨਬਰ੍ਗ
+    Islamabad: ਇਸਲਾਮਾਬਾਦ
+    Karachi: ਕਰਾਚੀ
+    Tashkent: ਬਕਯਰਾ
+    Chennai: ਹਨ ਚੇੰਨਈ
+    Kolkata: ਕੋਲਕਾਤਾ
+    Mumbai: ਮੁੰਬਈ '
+    New Delhi: ਦਿੱਲੀ
+    Sri Jayawardenepura: ਸ਼੍ਰੀ Jayawardenepura
+    Kathmandu: ਕਾਠਮੰਡੂ
+    Almaty: ਅਲਮਾਟਯ
+    Dhaka: ਢਾਕਾ
+    Novosibirsk: ਨੋਵਸਿਬਿਰ੍ਸ੍ਕ
+    Urumqi: ਉਰੁਮਕ਼ਿ
+    Rangoon: ਰੰਗੂਨ
+    Bangkok: Bangkok
+    Hanoi: ਹਨੋਈ
+    Jakarta: ਜਕਾਰਤਾ
+    Krasnoyarsk: ਕ੍ਰਾਸ੍ਨਆਯਰ੍ਸ੍ਕ
+    Beijing: ਬੀਜਿੰਗ
+    Chongqing: Chongqing
+    Irkutsk: ਇਰ੍ਕ੍ਟ੍ਸ੍ਕ
+    Kuala Lumpur: ਕੁਆਲਾਲੰਪੁਰ
+    Perth: ਪਰ੍ਤ
+    Singapore: ਸਿੰਗਾਪੁਰ
+    Taipei: ਟਾਇਪ੍ਡ
+    Ulaanbaatar: ਉਲਾਣਬਾਤਰ
+    Osaka: ਓਸਾਕਾ
+    Sapporo: ਸਪੋਰੋ
+    Seoul: ਸੋਲ
+    Tokyo: ਟੋਕਯੋ
+    Yakutsk: Yakutsk
+    Adelaide: ਆਡੇਲੇਡ
+    Darwin: ਡਾਰ੍ਵਿਨ
+    Brisbane: ਬ੍ਰਿਜ਼੍ਬੇਨ
+    Canberra: ਕੈਨਬੇਰਾ
+    Guam: ਗੁਆਮ
+    Hobart: ਹੂਬਾਰ੍ਟ
+    Melbourne: ਮੇਲ੍ਬਰ੍ਨ
+    Port Moresby: ਪੋਰ੍ਟ ਮਾਰੇਸ੍ਬੀ
+    Sydney: ਸਿਡ੍ਨੀ
+    Vladivostok: ਵ੍ਲੈਡਿਵਾਸ੍ਟਾਕ
+    Magadan: Magadan
+    New Caledonia: ਨਿਊ ਸੈਲੇਡੋਨੀਆ
+    Solomon Is: ਸੁਲੇਮਾਨ ਹੈ.
+    Srednekolymsk: Srednekolymsk
+    Auckland: ਸਿਡ੍ਨੀ
+    Fiji: ਫਿਜੀ
+    Kamchatka: ਕਾਮਚਟਕਾ
+    Marshall Is: ਮਾਰਸ਼ਲ ਹੈ.
+    Wellington: ਵੈਲਿੰਗਟਨ
+    Chatham Is: Chatham ਹੈ.
+    Nuku'alofa: Nukualofa
+    Samoa: ਸਮੋਆ
+    Tokelau Is: ਟੋਕੇਲਾਓ ਹੈ.
+  pa: pa
+  pa_iso: pa
